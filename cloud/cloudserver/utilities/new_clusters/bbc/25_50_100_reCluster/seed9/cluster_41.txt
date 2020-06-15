@@ -1,0 +1,38 @@
+41
+stems|.|bbc1708.txt|.|1
+southern|.|bbc1715.txt|.|3|.|bbc1125.txt|.|2|.|bbc353.txt|.|3
+legend|.|bbc1708.txt|.|1
+wru proposes|.|bbc1685.txt|.|1
+seven|.|bbc1674.txt|.|2
+south africa|.|bbc1682.txt|.|1|.|bbc1303.txt|.|3
+triple crown|.|bbc1677.txt|.|3
+said calder|.|bbc1676.txt|.|2
+scottish|.|bbc986.txt|.|2|.|bbc906.txt|.|5|.|bbc797.txt|.|3|.|bbc1678.txt|.|6|.|bbc1676.txt|.|2
+welsh legend|.|bbc1708.txt|.|2
+welsh|.|bbc1708.txt|.|7|.|bbc935.txt|.|8|.|bbc1066.txt|.|5
+pursue|.|bbc1674.txt|.|2
+award|.|bbc847.txt|.|3|.|bbc841.txt|.|3|.|bbc517.txt|.|2|.|bbc579.txt|.|3|.|bbc871.txt|.|5|.|bbc1682.txt|.|5|.|bbc385.txt|.|2
+paris|.|bbc621.txt|.|2|.|bbc1708.txt|.|5|.|bbc491.txt|.|6
+scarlets|.|bbc1646.txt|.|4|.|bbc1674.txt|.|5
+civil|.|bbc1261.txt|.|6|.|bbc1190.txt|.|3|.|bbc1106.txt|.|8|.|bbc1052.txt|.|4|.|bbc1676.txt|.|2
+national|.|bbc536.txt|.|2|.|bbc57.txt|.|2|.|bbc1678.txt|.|4|.|bbc441.txt|.|2|.|bbc918.txt|.|2
+stradey|.|bbc1674.txt|.|3
+civil war|.|bbc1676.txt|.|2
+international|.|bbc1682.txt|.|3|.|bbc1412.txt|.|2
+crown|.|bbc1677.txt|.|3|.|bbc1162.txt|.|3
+dispute|.|bbc1678.txt|.|2
+honour|.|bbc847.txt|.|1|.|bbc1682.txt|.|1|.|bbc893.txt|.|1|.|bbc1924.txt|.|4
+rugby|.|bbc1715.txt|.|5|.|bbc1682.txt|.|4|.|bbc1708.txt|.|4|.|bbc1677.txt|.|5|.|bbc1678.txt|.|5|.|bbc1685.txt|.|3|.|bbc1676.txt|.|3|.|bbc1674.txt|.|2
+proposes|.|bbc1685.txt|.|2
+february|.|bbc1685.txt|.|2
+irish rugby|.|bbc1677.txt|.|3
+martyn williams|.|bbc1625.txt|.|3|.|bbc1708.txt|.|2|.|bbc1729.txt|.|3
+scottish rugby|.|bbc1678.txt|.|5|.|bbc1676.txt|.|2
+coaches|.|bbc1678.txt|.|1
+executive board|.|bbc1676.txt|.|2
+calder fears|.|bbc1676.txt|.|2
+years at stradey|.|bbc1674.txt|.|2
+year in irish|.|bbc1677.txt|.|1
+spectator|.|bbc1685.txt|.|2
+sides|.|bbc1708.txt|.|3
+seven years|.|bbc1674.txt|.|2

@@ -1,0 +1,23 @@
+29
+video game|.|bbc1963.txt|.|2|.|bbc2002.txt|.|1
+british board|.|bbc2055.txt|.|2
+gig|.|bbc2006.txt|.|4
+fiction|.|bbc1963.txt|.|3|.|bbc517.txt|.|2
+makes|.|bbc633.txt|.|2
+government officials|.|bbc2055.txt|.|2
+video|.|bbc254.txt|.|7|.|bbc2218.txt|.|4|.|bbc1963.txt|.|6|.|bbc2002.txt|.|2|.|bbc633.txt|.|5|.|bbc447.txt|.|6|.|bbc2006.txt|.|4|.|bbc2055.txt|.|4|.|bbc2210.txt|.|12
+classification|.|bbc2055.txt|.|2
+talked|.|bbc2218.txt|.|1
+video mobile|.|bbc2210.txt|.|1
+science fiction|.|bbc1963.txt|.|2
+broadband network|.|bbc2218.txt|.|1
+science|.|bbc1963.txt|.|2
+film classification|.|bbc2055.txt|.|2
+halo fans|.|bbc1963.txt|.|2
+westlife|.|bbc633.txt|.|2
+parents know|.|bbc2055.txt|.|2
+dating|.|bbc2210.txt|.|12
+dating services|.|bbc2210.txt|.|3
+mcfadden makes|.|bbc633.txt|.|2
+video phones|.|bbc2006.txt|.|3|.|bbc2210.txt|.|4
+violence|.|bbc2055.txt|.|3

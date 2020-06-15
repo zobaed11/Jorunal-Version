@@ -1,0 +1,50 @@
+38
+computer code|.|bbc1873.txt|.|1
+report says|.|bbc1898.txt|.|1
+playlist files|.|bbc2108.txt|.|2
+codes|.|bbc1873.txt|.|2
+addresses|.|bbc1941.txt|.|2|.|bbc1873.txt|.|2
+radicati group|.|bbc2186.txt|.|2
+bad|.|bbc648.txt|.|2|.|bbc2186.txt|.|3
+alphabet|.|bbc1873.txt|.|2
+domain names|.|bbc1873.txt|.|2
+security firm|.|bbc2186.txt|.|4|.|bbc1903.txt|.|2
+net users|.|bbc1898.txt|.|2
+links|.|bbc477.txt|.|2|.|bbc2186.txt|.|1
+sustains|.|bbc2186.txt|.|1
+users|.|bbc1884.txt|.|3|.|bbc2202.txt|.|4|.|bbc1941.txt|.|3|.|bbc2186.txt|.|6|.|bbc2096.txt|.|5|.|bbc1898.txt|.|4|.|bbc2108.txt|.|6|.|bbc1873.txt|.|5
+tetris|.|bbc2096.txt|.|4
+cellery worm|.|bbc2096.txt|.|2
+website addresses|.|bbc1873.txt|.|1
+domain|.|bbc1873.txt|.|8
+files|.|bbc2061.txt|.|2|.|bbc2108.txt|.|2
+lead users|.|bbc1873.txt|.|2
+programs|.|bbc1884.txt|.|4|.|bbc2065.txt|.|2
+western|.|bbc1898.txt|.|3
+microsoft outlook|.|bbc1941.txt|.|2
+net use|.|bbc1898.txt|.|3
+infection|.|bbc1946.txt|.|3|.|bbc2096.txt|.|2
+code|.|bbc578.txt|.|1|.|bbc1873.txt|.|1
+fake sites|.|bbc1873.txt|.|2
+sustains spam|.|bbc2186.txt|.|1
+spam messages|.|bbc2186.txt|.|2
+update|.|bbc2108.txt|.|1
+cellery|.|bbc2096.txt|.|5
+playlist|.|bbc2108.txt|.|2
+radicati|.|bbc2186.txt|.|2
+infected|.|bbc2034.txt|.|5|.|bbc2096.txt|.|3
+codes used|.|bbc1873.txt|.|1
+western nations|.|bbc1898.txt|.|2
+links in spam|.|bbc2186.txt|.|1
+filters|.|bbc2186.txt|.|2
+lead|.|bbc1873.txt|.|2
+internationalised domain|.|bbc1873.txt|.|2
+names|.|bbc1873.txt|.|3
+itunes|.|bbc670.txt|.|3|.|bbc2108.txt|.|7
+mobile tv|.|bbc2202.txt|.|9
+risk of infection|.|bbc2096.txt|.|1
+internationalised|.|bbc1873.txt|.|2
+fake|.|bbc2139.txt|.|4|.|bbc1873.txt|.|5
+chinese people|.|bbc1898.txt|.|4
+avoid|.|bbc2108.txt|.|2
+outlook|.|bbc1941.txt|.|2

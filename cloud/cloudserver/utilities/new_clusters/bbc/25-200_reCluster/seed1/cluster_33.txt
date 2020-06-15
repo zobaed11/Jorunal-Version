@@ -1,0 +1,30 @@
+33
+ruth|.|bbc1053.txt|.|2
+bbc radio|.|bbc1053.txt|.|2
+suspended a candidate|.|bbc1021.txt|.|1
+autumn conference|.|bbc900.txt|.|2|.|bbc1226.txt|.|2
+attacked with slurry|.|bbc1053.txt|.|1
+hockney said|.|bbc1184.txt|.|2
+uk independence|.|bbc1053.txt|.|2|.|bbc1184.txt|.|2
+independence|.|bbc1053.txt|.|2|.|bbc1184.txt|.|2
+kelly|.|bbc1053.txt|.|3
+ruth kelly|.|bbc1053.txt|.|2
+conservatives|.|bbc1307.txt|.|1|.|bbc1200.txt|.|2|.|bbc1225.txt|.|1|.|bbc1108.txt|.|1
+peter|.|bbc1307.txt|.|2
+new ukip|.|bbc1184.txt|.|1
+class|.|bbc900.txt|.|2|.|bbc1226.txt|.|2
+caution|.|bbc1180.txt|.|2
+london assembly|.|bbc1184.txt|.|2
+kilroy|.|bbc1229.txt|.|1
+eurosceptic|.|bbc1184.txt|.|2
+independence party|.|bbc1053.txt|.|2|.|bbc1184.txt|.|2
+labour party|.|bbc900.txt|.|2|.|bbc1226.txt|.|2
+working class|.|bbc900.txt|.|2|.|bbc1226.txt|.|2
+said in a statement|.|bbc1225.txt|.|1|.|bbc1108.txt|.|1
+bournemouth|.|bbc900.txt|.|2|.|bbc1226.txt|.|2
+ukip candidate suspended|.|bbc1021.txt|.|1
+bucket|.|bbc1053.txt|.|2
+kennedy|.|bbc1180.txt|.|3
+autumn|.|bbc900.txt|.|2|.|bbc1226.txt|.|2
+party|.|bbc1307.txt|.|8|.|bbc1200.txt|.|2|.|bbc1021.txt|.|2|.|bbc900.txt|.|6|.|bbc1229.txt|.|7|.|bbc1226.txt|.|6|.|bbc1192.txt|.|2|.|bbc1053.txt|.|4|.|bbc1180.txt|.|11|.|bbc1225.txt|.|4|.|bbc1108.txt|.|4|.|bbc1184.txt|.|6
+eurosceptic party|.|bbc1184.txt|.|2

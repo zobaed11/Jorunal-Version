@@ -1,0 +1,54 @@
+19
+handheld console|.|bbc1908.txt|.|2
+brothers|.|bbc379.txt|.|3
+bad company|.|bbc648.txt|.|2
+reliance group|.|bbc486.txt|.|4
+reuters|.|bbc53.txt|.|5
+board meeting|.|bbc486.txt|.|2
+scandal|.|bbc1339.txt|.|2|.|bbc48.txt|.|2
+monopoly|.|bbc314.txt|.|2
+group company|.|bbc486.txt|.|1
+members|.|bbc648.txt|.|2
+group|.|bbc422.txt|.|2|.|bbc806.txt|.|3|.|bbc486.txt|.|6|.|bbc684.txt|.|2|.|bbc1535.txt|.|2|.|bbc314.txt|.|5|.|bbc14.txt|.|3|.|bbc53.txt|.|2|.|bbc2186.txt|.|2|.|bbc418.txt|.|3
+petrochemicals|.|bbc379.txt|.|3
+italian stock|.|bbc48.txt|.|2
+mci shares|.|bbc251.txt|.|1
+july|.|bbc48.txt|.|2
+legal fight|.|bbc2214.txt|.|1
+anil ambani|.|bbc379.txt|.|2
+junk mail|.|bbc2214.txt|.|2
+sued|.|bbc312.txt|.|2|.|bbc762.txt|.|2
+seeking bankruptcy|.|bbc2214.txt|.|1
+bids|.|bbc2033.txt|.|1|.|bbc251.txt|.|2|.|bbc1437.txt|.|1
+baikal finance|.|bbc314.txt|.|3
+weakness of the dollar|.|bbc53.txt|.|1
+bankruptcy protection|.|bbc299.txt|.|2|.|bbc2214.txt|.|2
+said yukos|.|bbc314.txt|.|1|.|bbc299.txt|.|1
+finance group|.|bbc314.txt|.|3
+weak|.|bbc53.txt|.|1
+qwest|.|bbc251.txt|.|4
+running|.|bbc379.txt|.|1
+weakness|.|bbc53.txt|.|1
+ambani|.|bbc379.txt|.|3|.|bbc486.txt|.|6
+money paid|.|bbc312.txt|.|2
+largest us|.|bbc251.txt|.|1
+company|.|bbc266.txt|.|3|.|bbc379.txt|.|2|.|bbc27.txt|.|3|.|bbc1908.txt|.|2|.|bbc312.txt|.|5|.|bbc648.txt|.|2|.|bbc486.txt|.|4|.|bbc314.txt|.|4|.|bbc53.txt|.|2|.|bbc251.txt|.|3|.|bbc2214.txt|.|4|.|bbc48.txt|.|3
+acquisition|.|bbc27.txt|.|2
+mittal steel|.|bbc27.txt|.|5
+amount|.|bbc266.txt|.|3|.|bbc2138.txt|.|2
+reliance|.|bbc379.txt|.|6|.|bbc486.txt|.|7
+spammer|.|bbc2214.txt|.|2
+rival bids|.|bbc251.txt|.|2
+bought|.|bbc314.txt|.|3
+company said|.|bbc2214.txt|.|2
+chairman|.|bbc486.txt|.|1
+italian|.|bbc312.txt|.|4|.|bbc148.txt|.|2|.|bbc359.txt|.|2|.|bbc48.txt|.|5
+seeking|.|bbc2214.txt|.|3
+revenues|.|bbc53.txt|.|3
+two brothers|.|bbc379.txt|.|2
+drummer|.|bbc648.txt|.|2
+gas monopoly|.|bbc314.txt|.|2
+debts|.|bbc48.txt|.|3
+paid|.|bbc312.txt|.|2|.|bbc985.txt|.|3
+junk|.|bbc2138.txt|.|2|.|bbc2214.txt|.|2
+finance|.|bbc314.txt|.|3

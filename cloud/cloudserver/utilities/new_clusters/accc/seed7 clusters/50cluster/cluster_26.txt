@@ -1,0 +1,9 @@
+26
+innovation|.|WET6171.txt|.|2|.|WET5654.txt|.|1|.|WET5292.txt|.|2|.|WET6584.txt|.|2|.|WET5310.txt|.|32|.|WET6071.txt|.|2|.|WET5418.txt|.|2|.|WET4990.txt|.|2|.|WET6737.txt|.|11
+harvesting|.|WET5310.txt|.|2
+energy harvesting|.|WET5310.txt|.|2
+information theory|.|WET5310.txt|.|2
+theory|.|WET5310.txt|.|3
+congested|.|WET6171.txt|.|2
+imagination
+studies

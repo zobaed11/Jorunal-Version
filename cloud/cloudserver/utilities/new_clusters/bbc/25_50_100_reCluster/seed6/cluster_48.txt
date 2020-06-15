@@ -1,0 +1,17 @@
+48
+car maker|.|bbc149.txt|.|2
+celebrate|.|bbc568.txt|.|1
+makers|.|bbc149.txt|.|2
+european|.|bbc1368.txt|.|2|.|bbc1032.txt|.|2|.|bbc1325.txt|.|2|.|bbc1376.txt|.|3|.|bbc446.txt|.|2|.|bbc1535.txt|.|3|.|bbc436.txt|.|2|.|bbc568.txt|.|5|.|bbc172.txt|.|4|.|bbc135.txt|.|2|.|bbc1580.txt|.|3|.|bbc1991.txt|.|3|.|bbc215.txt|.|3|.|bbc1854.txt|.|2|.|bbc1386.txt|.|3|.|bbc1321.txt|.|2|.|bbc262.txt|.|2|.|bbc1125.txt|.|3|.|bbc1287.txt|.|2|.|bbc1838.txt|.|6|.|bbc149.txt|.|8
+european drivers|.|bbc149.txt|.|2
+footballing|.|bbc1535.txt|.|1
+lifestyles|.|bbc1991.txt|.|1
+building|.|bbc149.txt|.|1
+encourage|.|bbc1580.txt|.|1
+saab factory|.|bbc149.txt|.|2
+european cinema|.|bbc568.txt|.|2
+said gm|.|bbc149.txt|.|1
+indoors|.|bbc1368.txt|.|1|.|bbc1325.txt|.|1|.|bbc1386.txt|.|1
+european footballing|.|bbc1535.txt|.|1
+building saabs|.|bbc149.txt|.|1
+drivers|.|bbc149.txt|.|3

@@ -1,0 +1,56 @@
+32
+celebrity|.|bbc713.txt|.|4|.|bbc726.txt|.|2|.|bbc717.txt|.|2|.|bbc689.txt|.|2|.|bbc731.txt|.|3
+show in london|.|bbc804.txt|.|2
+suffering|.|bbc729.txt|.|2
+celebrity big brother|.|bbc713.txt|.|1
+replace|.|bbc741.txt|.|2
+huw|.|bbc741.txt|.|3
+show the x factor|.|bbc684.txt|.|1
+million people|.|bbc717.txt|.|2
+late|.|bbc1591.txt|.|2|.|bbc741.txt|.|1
+da bank|.|bbc741.txt|.|2
+x factor|.|bbc684.txt|.|3
+television host|.|bbc729.txt|.|2
+american bandstand|.|bbc729.txt|.|2
+meeting point|.|bbc723.txt|.|2
+itv|.|bbc684.txt|.|1
+rings musical|.|bbc804.txt|.|2
+mtv|.|bbc716.txt|.|2
+phil|.|bbc717.txt|.|2|.|bbc1724.txt|.|3
+rings|.|bbc804.txt|.|2
+huw stephens|.|bbc741.txt|.|2
+tufnell|.|bbc717.txt|.|2
+showcasing uk|.|bbc741.txt|.|1
+reality|.|bbc713.txt|.|3
+reality tv|.|bbc713.txt|.|2
+gadget show|.|bbc1951.txt|.|2
+germaine greer|.|bbc713.txt|.|2
+joe|.|bbc717.txt|.|2
+second series|.|bbc684.txt|.|2
+jackie stallone|.|bbc713.txt|.|2
+booked|.|bbc804.txt|.|1
+recommissioned|.|bbc684.txt|.|1
+show|.|bbc741.txt|.|8|.|bbc723.txt|.|2|.|bbc713.txt|.|5|.|bbc804.txt|.|4|.|bbc684.txt|.|5|.|bbc717.txt|.|7|.|bbc729.txt|.|2|.|bbc716.txt|.|4|.|bbc1951.txt|.|3
+mtv show|.|bbc716.txt|.|1
+replace peel|.|bbc741.txt|.|2
+greer said|.|bbc713.txt|.|2
+genres|.|bbc741.txt|.|2
+west end|.|bbc804.txt|.|2
+jackie|.|bbc713.txt|.|2
+germaine|.|bbc713.txt|.|2
+factor|.|bbc684.txt|.|3
+ozzy|.|bbc716.txt|.|4
+stephens|.|bbc741.txt|.|3
+bandstand|.|bbc729.txt|.|2
+stallone|.|bbc713.txt|.|2
+peaked|.|bbc717.txt|.|1
+peel|.|bbc741.txt|.|5
+radio show|.|bbc741.txt|.|2
+ozzy osbourne|.|bbc716.txt|.|2
+show american|.|bbc729.txt|.|2
+ceremonies|.|bbc729.txt|.|1
+ipod minis|.|bbc1951.txt|.|2
+phil tufnell|.|bbc717.txt|.|2
+cowell|.|bbc684.txt|.|2
+tv show|.|bbc723.txt|.|2|.|bbc713.txt|.|2|.|bbc717.txt|.|2
+john peel|.|bbc741.txt|.|2

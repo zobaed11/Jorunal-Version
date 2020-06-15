@@ -1,0 +1,53 @@
+16
+raise money|.|bbc621.txt|.|2
+documents|.|bbc2003.txt|.|1|.|bbc1955.txt|.|1|.|bbc1199.txt|.|3
+janet|.|bbc655.txt|.|2
+concert|.|bbc621.txt|.|4
+edward|.|bbc868.txt|.|3|.|bbc1199.txt|.|9
+mr balls|.|bbc1255.txt|.|5
+elton|.|bbc621.txt|.|4
+heath|.|bbc1199.txt|.|3
+liberal leader|.|bbc1199.txt|.|2
+digby jones|.|bbc1255.txt|.|2
+raise|.|bbc621.txt|.|2|.|bbc233.txt|.|1
+sir paul|.|bbc655.txt|.|4
+spree|.|bbc1255.txt|.|3
+hey|.|bbc655.txt|.|2|.|bbc663.txt|.|2
+new year|.|bbc296.txt|.|2|.|bbc1052.txt|.|1
+spending spree|.|bbc1255.txt|.|2
+made|.|bbc1922.txt|.|4|.|bbc1052.txt|.|4
+hey jude|.|bbc655.txt|.|2
+cultural|.|bbc893.txt|.|1
+child support|.|bbc1052.txt|.|2
+support agency|.|bbc1052.txt|.|2
+john|.|bbc674.txt|.|3|.|bbc1052.txt|.|4
+documents released|.|bbc1199.txt|.|2
+support|.|bbc469.txt|.|3|.|bbc1052.txt|.|2
+jude|.|bbc655.txt|.|2|.|bbc813.txt|.|2
+child|.|bbc1052.txt|.|2|.|bbc1887.txt|.|4
+balls|.|bbc1255.txt|.|6
+terrorists|.|bbc1275.txt|.|2
+permanent secretary|.|bbc1052.txt|.|2
+british film|.|bbc893.txt|.|2
+bowl|.|bbc655.txt|.|7
+sir alan|.|bbc893.txt|.|2
+jackson|.|bbc655.txt|.|2|.|bbc1166.txt|.|4
+specific information|.|bbc1275.txt|.|2
+sir john|.|bbc1052.txt|.|4
+sir|.|bbc530.txt|.|2|.|bbc655.txt|.|4|.|bbc1255.txt|.|3|.|bbc621.txt|.|4|.|bbc1275.txt|.|4|.|bbc893.txt|.|3|.|bbc1052.txt|.|5|.|bbc1199.txt|.|11
+live|.|bbc949.txt|.|2|.|bbc655.txt|.|2
+sir john was made|.|bbc1052.txt|.|1
+royal wedding|.|bbc1275.txt|.|2
+agency|.|bbc1826.txt|.|2|.|bbc1052.txt|.|3
+elton played|.|bbc621.txt|.|1
+digby|.|bbc1255.txt|.|3
+played|.|bbc686.txt|.|2|.|bbc621.txt|.|3|.|bbc1674.txt|.|2
+super bowl|.|bbc655.txt|.|7
+super|.|bbc655.txt|.|7|.|bbc1187.txt|.|2
+sir edward|.|bbc1199.txt|.|9
+wilson|.|bbc1199.txt|.|4
+sir elton|.|bbc621.txt|.|3
+permanent|.|bbc1052.txt|.|2
+visa|.|bbc1052.txt|.|3
+sir digby|.|bbc1255.txt|.|3
+liberal|.|bbc1171.txt|.|2|.|bbc1109.txt|.|2|.|bbc1042.txt|.|2|.|bbc1199.txt|.|3

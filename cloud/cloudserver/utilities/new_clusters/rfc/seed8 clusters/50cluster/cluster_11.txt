@@ -1,0 +1,39 @@
+11
+duplicate acks|.|rfc4653.txt|.|14|.|rfc5827.txt|.|22
+mptcp architecture|.|rfc6182.txt|.|27
+tcp more robust|.|rfc6069.txt|.|25
+connectivity disruption|.|rfc6069.txt|.|22
+compatibility goals|.|rfc6182.txt|.|8
+mapped address attribute|.|rfc5389.txt|.|1
+timeout|.|rfc3588.txt|.|10|.|rfc6069.txt|.|15
+timer backoff|.|rfc6069.txt|.|13
+idle period|.|rfc2581.txt|.|7
+based loss|.|rfc6069.txt|.|5
+endpoint dependent mapping|.|rfc5128.txt|.|1
+dependent|.|rfc5128.txt|.|5
+long idle|.|rfc2581.txt|.|4
+timeout based|.|rfc6069.txt|.|6
+tcp|.|rfc2581.txt|.|73|.|rfc2166.txt|.|128|.|rfc4653.txt|.|94|.|rfc6069.txt|.|159|.|rfc5827.txt|.|51|.|rfc5045.txt|.|29|.|rfc5389.txt|.|39|.|rfc4953.txt|.|137|.|rfc5128.txt|.|49|.|rfc6182.txt|.|160
+punching|.|rfc5128.txt|.|32
+control april|.|rfc2581.txt|.|13
+tcp ncr|.|rfc4653.txt|.|1
+disruption|.|rfc6069.txt|.|24
+limited|.|rfc4653.txt|.|49
+tcp congestion control|.|rfc2581.txt|.|17
+acks|.|rfc4653.txt|.|19|.|rfc5827.txt|.|27
+transmit|.|rfc4653.txt|.|52
+spoofing|.|rfc5452.txt|.|17|.|rfc4953.txt|.|76
+sctp april|.|rfc5827.txt|.|14
+architecture march|.|rfc6182.txt|.|27
+rose best current
+time transport
+rose best current practice
+beginning of each physical
+beginning
+beginning of each physical message
+emulation
+solution should support
+time transition
+dependent lu
+bandwidth specifiers
+bandwidth modifiers

@@ -1,0 +1,62 @@
+7
+skinner|.|bbc616.txt|.|2
+auto|.|bbc2002.txt|.|2|.|bbc359.txt|.|4
+figures suggest|.|bbc2002.txt|.|1
+streets|.|bbc616.txt|.|3
+songwriting|.|bbc616.txt|.|1
+jury prize|.|bbc846.txt|.|4
+sania mirza|.|bbc1760.txt|.|1
+poll|.|bbc1855.txt|.|2|.|bbc778.txt|.|3|.|bbc1283.txt|.|1|.|bbc616.txt|.|3
+triple sales|.|bbc2002.txt|.|1
+wood believes|.|bbc1665.txt|.|2
+safin said|.|bbc1803.txt|.|2
+slam tennis|.|bbc1760.txt|.|2
+australian open|.|bbc1760.txt|.|2|.|bbc1780.txt|.|2|.|bbc1803.txt|.|3|.|bbc1809.txt|.|3|.|bbc1791.txt|.|2
+ireland can win|.|bbc1665.txt|.|2
+wood|.|bbc1665.txt|.|6
+sundance film|.|bbc846.txt|.|2
+winning wimbledon|.|bbc1803.txt|.|1
+sundance|.|bbc846.txt|.|4
+teams|.|bbc1665.txt|.|1
+album of the year|.|bbc616.txt|.|1
+film festival|.|bbc846.txt|.|3|.|bbc851.txt|.|2|.|bbc557.txt|.|2
+wimbledon|.|bbc1803.txt|.|3|.|bbc1751.txt|.|4
+grand jury|.|bbc846.txt|.|3
+theft auto|.|bbc2002.txt|.|2
+win grand slam|.|bbc1665.txt|.|1
+documentary category|.|bbc846.txt|.|2
+grand slam|.|bbc1760.txt|.|3|.|bbc1708.txt|.|1|.|bbc1709.txt|.|2|.|bbc1604.txt|.|2|.|bbc1665.txt|.|3|.|bbc1803.txt|.|3|.|bbc1716.txt|.|6
+bennett|.|bbc785.txt|.|3|.|bbc1604.txt|.|5
+uk sales|.|bbc2002.txt|.|2
+figures|.|bbc2002.txt|.|3|.|bbc248.txt|.|5
+indian woman|.|bbc1760.txt|.|3
+australian|.|bbc1715.txt|.|2|.|bbc1760.txt|.|2|.|bbc1780.txt|.|2|.|bbc1803.txt|.|3|.|bbc1809.txt|.|5|.|bbc1791.txt|.|2
+tennis event|.|bbc1760.txt|.|2
+mirza|.|bbc1760.txt|.|9|.|bbc1748.txt|.|5
+paris|.|bbc577.txt|.|2|.|bbc1446.txt|.|3|.|bbc621.txt|.|2|.|bbc1708.txt|.|5|.|bbc1709.txt|.|2|.|bbc491.txt|.|6
+andreas|.|bbc2002.txt|.|5
+believes|.|bbc1665.txt|.|2
+hopes|.|bbc1803.txt|.|1|.|bbc616.txt|.|1
+place|.|bbc1458.txt|.|2|.|bbc616.txt|.|2|.|bbc731.txt|.|5
+event|.|bbc1760.txt|.|2|.|bbc1815.txt|.|2
+documentary|.|bbc1188.txt|.|4|.|bbc846.txt|.|3
+san|.|bbc2002.txt|.|5|.|bbc1739.txt|.|2
+triumph|.|bbc846.txt|.|1
+jury|.|bbc846.txt|.|4
+winning|.|bbc1351.txt|.|2|.|bbc1386.txt|.|1|.|bbc880.txt|.|1|.|bbc1803.txt|.|4|.|bbc572.txt|.|1
+album|.|bbc778.txt|.|1|.|bbc672.txt|.|4|.|bbc748.txt|.|3|.|bbc760.txt|.|4|.|bbc616.txt|.|6
+slam titles|.|bbc1803.txt|.|1
+suggest|.|bbc2002.txt|.|2
+grand|.|bbc2002.txt|.|2|.|bbc1760.txt|.|3|.|bbc846.txt|.|3|.|bbc1708.txt|.|2|.|bbc1709.txt|.|2|.|bbc1604.txt|.|2|.|bbc1665.txt|.|3|.|bbc1803.txt|.|5|.|bbc616.txt|.|3|.|bbc1716.txt|.|6
+theft|.|bbc2002.txt|.|2
+tennis|.|bbc1760.txt|.|4
+grand theft|.|bbc2002.txt|.|2
+slam|.|bbc1760.txt|.|3|.|bbc1708.txt|.|1|.|bbc1709.txt|.|2|.|bbc1604.txt|.|2|.|bbc1665.txt|.|3|.|bbc1803.txt|.|3|.|bbc1716.txt|.|6
+houlihan|.|bbc2002.txt|.|2
+san andreas|.|bbc2002.txt|.|5
+serena|.|bbc1760.txt|.|2
+sania|.|bbc1760.txt|.|2
+category|.|bbc846.txt|.|4
+win a grand|.|bbc1665.txt|.|1
+open|.|bbc1739.txt|.|2|.|bbc1759.txt|.|2|.|bbc1760.txt|.|2|.|bbc1780.txt|.|2|.|bbc1803.txt|.|6|.|bbc1809.txt|.|4|.|bbc1791.txt|.|5
+safin|.|bbc1816.txt|.|6|.|bbc1803.txt|.|6

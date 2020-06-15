@@ -1,0 +1,26 @@
+17
+win the next game|.|bbc1454.txt|.|1
+jesse owens awards|.|bbc1354.txt|.|2
+european championships|.|bbc1371.txt|.|3
+davis cup win|.|bbc1783.txt|.|1
+beating roddick|.|bbc1783.txt|.|1
+substitute|.|bbc1697.txt|.|2
+leipzig|.|bbc1322.txt|.|2
+owens|.|bbc1354.txt|.|3
+late|.|bbc1591.txt|.|2
+jesse owens|.|bbc1354.txt|.|3
+claim|.|bbc303.txt|.|2|.|bbc1371.txt|.|3
+weston|.|bbc1697.txt|.|2
+win|.|bbc1109.txt|.|2|.|bbc1783.txt|.|2|.|bbc1697.txt|.|2|.|bbc1454.txt|.|5|.|bbc1322.txt|.|3|.|bbc1725.txt|.|3|.|bbc1108.txt|.|2|.|bbc1489.txt|.|2|.|bbc1591.txt|.|3|.|bbc1458.txt|.|2|.|bbc1388.txt|.|3|.|bbc1665.txt|.|4|.|bbc1354.txt|.|3|.|bbc1371.txt|.|4|.|bbc1648.txt|.|3
+glasgow|.|bbc1388.txt|.|2
+portsmouth|.|bbc1591.txt|.|3
+beating|.|bbc1783.txt|.|1|.|bbc1810.txt|.|1
+said in a statement|.|bbc1108.txt|.|1
+gatlin|.|bbc1354.txt|.|4
+hayes|.|bbc1354.txt|.|4
+owens awards|.|bbc1354.txt|.|2
+steven|.|bbc1454.txt|.|2
+pompey|.|bbc1591.txt|.|4
+drogba|.|bbc1591.txt|.|3
+quashie|.|bbc1591.txt|.|3
+aaas|.|bbc1371.txt|.|4

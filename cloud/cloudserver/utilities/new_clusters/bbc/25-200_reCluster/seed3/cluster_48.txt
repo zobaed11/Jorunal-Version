@@ -1,0 +1,12 @@
+48
+prime|.|bbc1212.txt|.|2|.|bbc979.txt|.|2|.|bbc931.txt|.|2|.|bbc1121.txt|.|8|.|bbc1156.txt|.|6|.|bbc1199.txt|.|5|.|bbc918.txt|.|2|.|bbc1026.txt|.|2|.|bbc133.txt|.|4|.|bbc1063.txt|.|2|.|bbc1114.txt|.|6|.|bbc1246.txt|.|4|.|bbc1310.txt|.|4|.|bbc971.txt|.|3|.|bbc1148.txt|.|3|.|bbc1237.txt|.|3
+prime minister|.|bbc1212.txt|.|2|.|bbc979.txt|.|2|.|bbc931.txt|.|2|.|bbc1121.txt|.|7|.|bbc1156.txt|.|6|.|bbc1199.txt|.|4|.|bbc918.txt|.|1|.|bbc1026.txt|.|2|.|bbc1114.txt|.|6|.|bbc1246.txt|.|3|.|bbc1310.txt|.|4|.|bbc971.txt|.|3|.|bbc1148.txt|.|3|.|bbc1237.txt|.|2
+declines|.|bbc491.txt|.|1
+courts minister|.|bbc1169.txt|.|2
+creditors|.|bbc491.txt|.|1
+minister|.|bbc1212.txt|.|2|.|bbc979.txt|.|2|.|bbc931.txt|.|2|.|bbc1121.txt|.|7|.|bbc1169.txt|.|5|.|bbc1815.txt|.|2|.|bbc1156.txt|.|6|.|bbc1199.txt|.|4|.|bbc1132.txt|.|2|.|bbc918.txt|.|1|.|bbc1026.txt|.|2|.|bbc1020.txt|.|6|.|bbc1114.txt|.|7|.|bbc1246.txt|.|3|.|bbc501.txt|.|3|.|bbc1310.txt|.|4|.|bbc971.txt|.|3|.|bbc1148.txt|.|4|.|bbc1237.txt|.|2|.|bbc491.txt|.|3
+person for the job|.|bbc1169.txt|.|2
+person|.|bbc1169.txt|.|3
+mr leslie|.|bbc1169.txt|.|2
+blair faces|.|bbc1121.txt|.|1
+mr bakrie|.|bbc491.txt|.|1

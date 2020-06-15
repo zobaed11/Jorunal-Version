@@ -1,0 +1,30 @@
+4
+signaling|.|rfc4558.txt|.|9|.|rfc5098.txt|.|146|.|rfc3321.txt|.|10|.|rfc4812.txt|.|10
+remote network|.|rfc3919.txt|.|8|.|rfc3273.txt|.|84|.|rfc2819.txt|.|116
+algorithms with the cryptographic|.|rfc6160.txt|.|2
+mib object|.|rfc5098.txt|.|96
+enveloped|.|rfc2315.txt|.|8
+standard data specification|.|rfc645.txt|.|10
+formal syntax|.|rfc539.txt|.|2
+standard data|.|rfc645.txt|.|10
+kaliski informational|.|rfc2315.txt|.|32
+digest|.|rfc3852.txt|.|91|.|rfc2803.txt|.|41|.|rfc5843.txt|.|14|.|rfc3369.txt|.|90|.|rfc2315.txt|.|66
+network monitoring management|.|rfc3273.txt|.|78
+data content|.|rfc3852.txt|.|7|.|rfc3369.txt|.|7|.|rfc2315.txt|.|11
+message syntax|.|rfc4056.txt|.|4|.|rfc6160.txt|.|12
+remote network monitoring|.|rfc3273.txt|.|84|.|rfc2819.txt|.|114
+data content type|.|rfc3852.txt|.|7|.|rfc3369.txt|.|7
+network standard data|.|rfc645.txt|.|10
+nsds|.|rfc645.txt|.|12
+nsds syntax|.|rfc645.txt|.|3
+distributed|.|rfc3852.txt|.|12|.|rfc5693.txt|.|18
+network standard|.|rfc645.txt|.|10
+rmon|.|rfc3273.txt|.|115
+network monitoring|.|rfc4150.txt|.|5|.|rfc3919.txt|.|8|.|rfc2613.txt|.|9|.|rfc3273.txt|.|84|.|rfc2819.txt|.|114
+data specification|.|rfc645.txt|.|10
+distributed symmetric|.|rfc3852.txt|.|7
+crytographic|.|rfc2315.txt|.|31
+syntax|.|rfc645.txt|.|29|.|rfc5098.txt|.|127|.|rfc3852.txt|.|105|.|rfc4056.txt|.|6|.|rfc4452.txt|.|17|.|rfc6160.txt|.|12|.|rfc539.txt|.|2|.|rfc3273.txt|.|191|.|rfc3369.txt|.|98|.|rfc2315.txt|.|58
+kaliski|.|rfc2315.txt|.|36
+syntax march|.|rfc2315.txt|.|31
+encryption key|.|rfc3852.txt|.|7|.|rfc3369.txt|.|6

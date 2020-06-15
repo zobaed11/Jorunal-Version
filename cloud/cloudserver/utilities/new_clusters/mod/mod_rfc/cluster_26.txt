@@ -1,0 +1,34 @@
+26
+relative distinguished
+example value
+value length
+terminate the ldap session
+attribute group
+internet printing protocol
+symmetric response routing
+abandon operation
+assertion
+attributes tag
+tag
+prioritized treatment
+value
+icalendar object
+itip
+ip tunnels
+storm
+ipp
+treatment october
+assertion value
+result code
+printing
+value tag
+request or response
+intermediateresponse messages
+intermediateresponse
+name length
+referral
+abandon
+terminate
+transport april
+outer ip
+field value

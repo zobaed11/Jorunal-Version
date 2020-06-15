@@ -1,0 +1,62 @@
+30
+kennedy said|.|bbc1197.txt|.|2
+fees|.|bbc1109.txt|.|6|.|bbc461.txt|.|4
+university fees|.|bbc1109.txt|.|2
+lib|.|bbc1109.txt|.|9|.|bbc1235.txt|.|8|.|bbc1312.txt|.|5|.|bbc1165.txt|.|2|.|bbc1294.txt|.|3|.|bbc1299.txt|.|3|.|bbc1042.txt|.|2|.|bbc1197.txt|.|8|.|bbc981.txt|.|2
+tell|.|bbc1299.txt|.|2
+buy|.|bbc1235.txt|.|5|.|bbc352.txt|.|1
+taxes|.|bbc41.txt|.|2|.|bbc1055.txt|.|3|.|bbc1245.txt|.|4|.|bbc1197.txt|.|6
+charles|.|bbc579.txt|.|2|.|bbc936.txt|.|2|.|bbc1123.txt|.|2|.|bbc1197.txt|.|2
+british|.|bbc949.txt|.|6|.|bbc1350.txt|.|5|.|bbc1021.txt|.|2|.|bbc544.txt|.|2|.|bbc799.txt|.|5|.|bbc810.txt|.|4|.|bbc1068.txt|.|3|.|bbc1165.txt|.|2|.|bbc646.txt|.|2|.|bbc761.txt|.|3|.|bbc813.txt|.|3|.|bbc1025.txt|.|2|.|bbc532.txt|.|5
+bbc news|.|bbc2120.txt|.|2|.|bbc1299.txt|.|2|.|bbc1926.txt|.|2|.|bbc878.txt|.|3|.|bbc34.txt|.|2
+seats|.|bbc1109.txt|.|4
+local election|.|bbc1294.txt|.|1
+win students|.|bbc1109.txt|.|1
+useless|.|bbc981.txt|.|3
+tell the truth|.|bbc1299.txt|.|2
+taxes must be trusted|.|bbc1197.txt|.|1
+dems say|.|bbc1109.txt|.|2
+cash|.|bbc2139.txt|.|5|.|bbc830.txt|.|2|.|bbc2155.txt|.|2|.|bbc264.txt|.|2|.|bbc200.txt|.|2|.|bbc981.txt|.|2
+top earners|.|bbc1197.txt|.|2
+local income tax|.|bbc1294.txt|.|1
+charles kennedy|.|bbc1197.txt|.|2
+said politicians|.|bbc1299.txt|.|4
+efforts|.|bbc981.txt|.|1
+existing buildings|.|bbc1235.txt|.|2
+buildings|.|bbc1235.txt|.|2
+lib dems|.|bbc1109.txt|.|5|.|bbc1235.txt|.|6|.|bbc1165.txt|.|2|.|bbc1294.txt|.|3|.|bbc1299.txt|.|2|.|bbc1197.txt|.|6|.|bbc981.txt|.|1
+survey|.|bbc1165.txt|.|3|.|bbc1845.txt|.|2|.|bbc361.txt|.|2
+know|.|bbc1165.txt|.|2|.|bbc1489.txt|.|2
+buy a share|.|bbc1235.txt|.|3
+little|.|bbc722.txt|.|4|.|bbc1165.txt|.|3
+income|.|bbc1294.txt|.|1
+trust|.|bbc473.txt|.|5|.|bbc1299.txt|.|14
+politics|.|bbc1165.txt|.|2
+buyers|.|bbc1235.txt|.|4
+student|.|bbc1109.txt|.|4|.|bbc1875.txt|.|4
+student vote|.|bbc1109.txt|.|1
+university|.|bbc1109.txt|.|6|.|bbc891.txt|.|4|.|bbc806.txt|.|1|.|bbc414.txt|.|2
+key choice|.|bbc1299.txt|.|2
+students|.|bbc1109.txt|.|18|.|bbc2205.txt|.|5
+trust politicians|.|bbc1299.txt|.|2
+dems|.|bbc1109.txt|.|5|.|bbc1235.txt|.|6|.|bbc1165.txt|.|2|.|bbc1294.txt|.|3|.|bbc1299.txt|.|2|.|bbc1197.txt|.|6|.|bbc981.txt|.|1
+body is set|.|bbc981.txt|.|1
+local|.|bbc1235.txt|.|6|.|bbc2189.txt|.|5|.|bbc1295.txt|.|7|.|bbc926.txt|.|4|.|bbc1294.txt|.|5|.|bbc2066.txt|.|3
+democrat|.|bbc1109.txt|.|1|.|bbc1143.txt|.|1
+land|.|bbc1235.txt|.|3
+predict|.|bbc1294.txt|.|1
+share|.|bbc1235.txt|.|6|.|bbc276.txt|.|3|.|bbc726.txt|.|4|.|bbc485.txt|.|2|.|bbc689.txt|.|4
+earners|.|bbc1197.txt|.|2
+vote|.|bbc1109.txt|.|6
+key|.|bbc948.txt|.|2|.|bbc1299.txt|.|2
+mr kennedy|.|bbc1197.txt|.|4
+set|.|bbc1824.txt|.|2|.|bbc981.txt|.|5
+lewis|.|bbc981.txt|.|4
+say|.|bbc1122.txt|.|2|.|bbc1109.txt|.|4|.|bbc1905.txt|.|3|.|bbc971.txt|.|3|.|bbc568.txt|.|2|.|bbc1161.txt|.|2
+liberal democrat|.|bbc1109.txt|.|1|.|bbc1143.txt|.|1
+politicians|.|bbc1299.txt|.|11
+people|.|bbc139.txt|.|5|.|bbc1974.txt|.|5|.|bbc2040.txt|.|7|.|bbc2140.txt|.|5|.|bbc2086.txt|.|4|.|bbc1855.txt|.|8|.|bbc2119.txt|.|10|.|bbc1143.txt|.|3|.|bbc717.txt|.|2|.|bbc2216.txt|.|5|.|bbc1898.txt|.|8|.|bbc2052.txt|.|10|.|bbc1991.txt|.|2|.|bbc2026.txt|.|6|.|bbc2065.txt|.|5|.|bbc1235.txt|.|8|.|bbc722.txt|.|2|.|bbc2189.txt|.|7|.|bbc1055.txt|.|5|.|bbc1921.txt|.|7|.|bbc1986.txt|.|5|.|bbc735.txt|.|2|.|bbc1432.txt|.|2|.|bbc982.txt|.|5
+existing|.|bbc1235.txt|.|2
+truth|.|bbc1299.txt|.|2
+trusted|.|bbc1197.txt|.|1
+liberal|.|bbc1171.txt|.|2|.|bbc1109.txt|.|2|.|bbc1312.txt|.|6|.|bbc1143.txt|.|2|.|bbc1042.txt|.|2|.|bbc1199.txt|.|3

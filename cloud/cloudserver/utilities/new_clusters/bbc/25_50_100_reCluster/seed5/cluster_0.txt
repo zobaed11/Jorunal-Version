@@ -1,0 +1,31 @@
+0
+magic|.|bbc1615.txt|.|1
+stringer|.|bbc1615.txt|.|3
+china and italy|.|bbc1445.txt|.|2
+murphy|.|bbc1615.txt|.|5
+wood believes|.|bbc1665.txt|.|2
+believes|.|bbc1665.txt|.|2
+gavin duffy|.|bbc1624.txt|.|2
+gavin|.|bbc1624.txt|.|2
+ireland can win|.|bbc1665.txt|.|2
+lock|.|bbc1624.txt|.|1
+brian|.|bbc1445.txt|.|2
+nitoglia|.|bbc1615.txt|.|3
+scots|.|bbc1624.txt|.|2
+italy|.|bbc1445.txt|.|5|.|bbc1615.txt|.|9|.|bbc1648.txt|.|3
+second try|.|bbc1624.txt|.|2
+teams|.|bbc1665.txt|.|1
+orquera|.|bbc1615.txt|.|3
+ireland captain|.|bbc1615.txt|.|2
+kerr|.|bbc1445.txt|.|1
+qualifiers|.|bbc1445.txt|.|2
+said mcilroy|.|bbc1327.txt|.|2
+hickie|.|bbc1615.txt|.|2|.|bbc1624.txt|.|3
+petrie|.|bbc1624.txt|.|3
+brian kerr|.|bbc1445.txt|.|1
+win grand slam|.|bbc1665.txt|.|1
+try|.|bbc1697.txt|.|2|.|bbc1624.txt|.|6
+win a grand|.|bbc1665.txt|.|1
+cup qualifiers|.|bbc1445.txt|.|2
+ireland|.|bbc1445.txt|.|2|.|bbc1327.txt|.|2|.|bbc1652.txt|.|3|.|bbc1615.txt|.|9|.|bbc1665.txt|.|5|.|bbc1624.txt|.|8|.|bbc1716.txt|.|5|.|bbc1343.txt|.|1
+duffy|.|bbc1624.txt|.|3

@@ -1,0 +1,26 @@
+4
+provide free|.|rfc350.txt|.|1
+modes|.|rfc5373.txt|.|24
+user principal|.|rfc5397.txt|.|1
+accessing|.|rfc535.txt|.|2
+remote user|.|rfc535.txt|.|6|.|rfc589.txt|.|3
+behavior|.|rfc5897.txt|.|5
+munakata informational|.|rfc5379.txt|.|23
+terminated|.|rfc589.txt|.|3
+comments on file access|.|rfc535.txt|.|4
+preference|.|rfc5373.txt|.|3
+system programmers|.|rfc118.txt|.|2
+jobs|.|rfc379.txt|.|2
+behavior of the user|.|rfc5897.txt|.|2
+mode header|.|rfc5373.txt|.|2
+facility documentation|.|rfc118.txt|.|2
+answer mode|.|rfc5373.txt|.|5
+sip privacy|.|rfc5379.txt|.|22
+adaptive policies|.|rfc5356.txt|.|2
+voice chat|.|rfc5897.txt|.|22
+comments on file|.|rfc535.txt|.|4
+session terminated|.|rfc589.txt|.|2
+sip april|.|rfc6157.txt|.|14
+interact with the user|.|rfc4479.txt|.|2
+user|.|rfc574.txt|.|3|.|rfc5397.txt|.|8|.|rfc3868.txt|.|16|.|rfc4740.txt|.|262|.|rfc3054.txt|.|44|.|rfc607.txt|.|22|.|rfc567.txt|.|1|.|rfc5379.txt|.|85|.|rfc350.txt|.|8|.|rfc2739.txt|.|32|.|rfc151.txt|.|3|.|rfc3603.txt|.|59|.|rfc5897.txt|.|104|.|rfc491.txt|.|6|.|rfc4793.txt|.|81|.|rfc614.txt|.|7|.|rfc165.txt|.|12|.|rfc5373.txt|.|88|.|rfc127.txt|.|1|.|rfc589.txt|.|17|.|rfc3033.txt|.|8|.|rfc2165.txt|.|86|.|rfc118.txt|.|13|.|rfc4479.txt|.|70|.|rfc535.txt|.|20|.|rfc379.txt|.|8|.|rfc5356.txt|.|32|.|rfc6157.txt|.|60
+guidelines february|.|rfc5379.txt|.|22

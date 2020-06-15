@@ -1,0 +1,58 @@
+4
+newcomer|.|bbc666.txt|.|2
+animation awards|.|bbc842.txt|.|2
+named|.|bbc842.txt|.|2
+academy awards|.|bbc569.txt|.|4
+appealed|.|bbc1027.txt|.|3
+mary poppins|.|bbc785.txt|.|7
+west end to honour|.|bbc518.txt|.|1
+screenplay|.|bbc880.txt|.|3|.|bbc572.txt|.|3
+named best animated|.|bbc842.txt|.|2
+movies|.|bbc842.txt|.|1|.|bbc813.txt|.|1
+alan bennett|.|bbc785.txt|.|2
+national theatre|.|bbc518.txt|.|2
+annies|.|bbc842.txt|.|2
+usher|.|bbc666.txt|.|3
+finest|.|bbc518.txt|.|2
+starred|.|bbc602.txt|.|1
+campaigns|.|bbc551.txt|.|1
+exclusive|.|bbc569.txt|.|2
+train|.|bbc666.txt|.|5
+usher is leading|.|bbc666.txt|.|1
+director|.|bbc880.txt|.|1|.|bbc538.txt|.|2|.|bbc893.txt|.|2|.|bbc582.txt|.|2|.|bbc562.txt|.|2|.|bbc572.txt|.|1
+history|.|bbc682.txt|.|2|.|bbc785.txt|.|5
+exclusive broadcasting|.|bbc569.txt|.|2
+animation|.|bbc842.txt|.|2|.|bbc575.txt|.|2
+olivier awards|.|bbc785.txt|.|2
+globe|.|bbc602.txt|.|2
+dominated|.|bbc880.txt|.|1
+honouring its finest|.|bbc518.txt|.|1
+prizes|.|bbc842.txt|.|2
+animated|.|bbc842.txt|.|4|.|bbc812.txt|.|1
+sideways|.|bbc880.txt|.|3|.|bbc572.txt|.|3
+rock band|.|bbc746.txt|.|1
+history boys|.|bbc785.txt|.|5
+bennett|.|bbc785.txt|.|3|.|bbc1604.txt|.|5
+broadcasting rights|.|bbc569.txt|.|2
+dominates|.|bbc880.txt|.|1
+golden globes|.|bbc602.txt|.|2
+soul|.|bbc666.txt|.|5
+incredibles|.|bbc842.txt|.|5
+train awards|.|bbc666.txt|.|2
+poppins|.|bbc785.txt|.|7
+sideways dominates|.|bbc880.txt|.|1
+end to honour finest|.|bbc518.txt|.|1
+globes|.|bbc602.txt|.|2
+olivier|.|bbc785.txt|.|4
+mantle|.|bbc569.txt|.|2
+end to honour|.|bbc518.txt|.|1
+west end|.|bbc518.txt|.|2
+sky said|.|bbc569.txt|.|1
+spirit|.|bbc880.txt|.|2|.|bbc1535.txt|.|2|.|bbc572.txt|.|2
+nominations|.|bbc602.txt|.|4|.|bbc666.txt|.|6
+oscars|.|bbc602.txt|.|2|.|bbc883.txt|.|3|.|bbc575.txt|.|1|.|bbc551.txt|.|2|.|bbc878.txt|.|3|.|bbc572.txt|.|3
+honouring|.|bbc518.txt|.|1
+awards|.|bbc842.txt|.|5|.|bbc602.txt|.|4|.|bbc880.txt|.|6|.|bbc551.txt|.|1|.|bbc785.txt|.|6|.|bbc569.txt|.|4|.|bbc518.txt|.|2|.|bbc666.txt|.|6|.|bbc746.txt|.|2|.|bbc572.txt|.|6
+new musical|.|bbc785.txt|.|2
+soul train|.|bbc666.txt|.|5
+spirit awards|.|bbc880.txt|.|2|.|bbc572.txt|.|2

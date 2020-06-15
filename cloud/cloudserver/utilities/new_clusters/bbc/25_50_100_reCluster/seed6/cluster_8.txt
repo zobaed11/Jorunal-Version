@@ -1,0 +1,33 @@
+8
+policing|.|bbc1116.txt|.|2
+home country|.|bbc1042.txt|.|1
+shadow|.|bbc1245.txt|.|3
+proper|.|bbc1116.txt|.|2
+proper policing|.|bbc1116.txt|.|2
+means testing|.|bbc1245.txt|.|1
+higher taxes|.|bbc1245.txt|.|2
+secretary|.|bbc1032.txt|.|2|.|bbc1116.txt|.|3|.|bbc936.txt|.|5|.|bbc1029.txt|.|2|.|bbc1052.txt|.|3|.|bbc1303.txt|.|2|.|bbc1264.txt|.|2
+migrant|.|bbc1116.txt|.|1
+net security|.|bbc2140.txt|.|5
+home secretary|.|bbc1116.txt|.|3|.|bbc936.txt|.|3|.|bbc1264.txt|.|2
+security software|.|bbc2140.txt|.|2
+home international series|.|bbc1412.txt|.|2
+protect|.|bbc2140.txt|.|1|.|bbc2166.txt|.|1
+protecting|.|bbc2140.txt|.|2
+protect pcs|.|bbc2140.txt|.|1
+means|.|bbc1245.txt|.|1
+introduce|.|bbc977.txt|.|3
+testing|.|bbc1245.txt|.|1
+clean|.|bbc891.txt|.|1|.|bbc1042.txt|.|1
+simply wrong|.|bbc936.txt|.|2
+home international|.|bbc1412.txt|.|2
+permanently|.|bbc1042.txt|.|2
+international series|.|bbc1412.txt|.|2
+home|.|bbc1591.txt|.|3|.|bbc1116.txt|.|5|.|bbc2140.txt|.|4|.|bbc936.txt|.|4|.|bbc393.txt|.|2|.|bbc977.txt|.|3|.|bbc1245.txt|.|3|.|bbc1042.txt|.|2|.|bbc1412.txt|.|5|.|bbc1421.txt|.|2|.|bbc1264.txt|.|3
+fixture|.|bbc1412.txt|.|1
+permanently stored|.|bbc1042.txt|.|1
+level waste|.|bbc1042.txt|.|2
+lib dem|.|bbc1042.txt|.|2
+older people|.|bbc2140.txt|.|2
+simply|.|bbc936.txt|.|2
+higher|.|bbc1245.txt|.|2

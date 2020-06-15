@@ -1,0 +1,301 @@
+newcomer|.|bbc763.txt|.|3
+economic reforms|.|bbc285.txt|.|1
+uwb|.|bbc2099.txt|.|12
+half|.|bbc1669.txt|.|1
+year|.|bbc101.txt|.|3|.|bbc1912.txt|.|6
+commit|.|bbc1563.txt|.|2
+complaint filing|.|bbc475.txt|.|1
+boerse|.|bbc454.txt|.|12
+ukip|.|bbc1163.txt|.|9
+advertising|.|bbc443.txt|.|3
+firm|.|bbc312.txt|.|2
+bank|.|bbc297.txt|.|7|.|bbc126.txt|.|8|.|bbc101.txt|.|6
+music|.|bbc2129.txt|.|3
+london stock|.|bbc454.txt|.|2
+hackers|.|bbc2181.txt|.|3
+engines|.|bbc2091.txt|.|1
+record|.|bbc126.txt|.|2
+annual|.|bbc1912.txt|.|2
+visual|.|bbc2129.txt|.|13
+giant|.|bbc475.txt|.|2
+wales next|.|bbc1669.txt|.|2
+injury|.|bbc1669.txt|.|2
+released|.|bbc2019.txt|.|3
+audience|.|bbc763.txt|.|3
+using|.|bbc2099.txt|.|1
+monsanto|.|bbc400.txt|.|10
+fined|.|bbc400.txt|.|1
+banks|.|bbc312.txt|.|5
+devices|.|bbc2099.txt|.|3
+forecast|.|bbc4.txt|.|2
+australia|.|bbc101.txt|.|4
+honeynet project|.|bbc2181.txt|.|2
+google|.|bbc2091.txt|.|5
+economy|.|bbc285.txt|.|3|.|bbc101.txt|.|6
+countries|.|bbc285.txt|.|2
+eu countries|.|bbc285.txt|.|2
+bond issue|.|bbc475.txt|.|2
+morning|.|bbc907.txt|.|2
+kraft|.|bbc443.txt|.|4
+slow|.|bbc285.txt|.|2
+tremendous change|.|bbc1020.txt|.|2
+election campaign|.|bbc907.txt|.|2
+firms|.|bbc2192.txt|.|4
+obtained|.|bbc2019.txt|.|1
+abbas said|.|bbc1105.txt|.|2
+leslie|.|bbc1169.txt|.|3
+net service firms|.|bbc2192.txt|.|2
+high fuel|.|bbc4.txt|.|2
+interest rate|.|bbc101.txt|.|1
+cut|.|bbc297.txt|.|1|.|bbc443.txt|.|1
+conference|.|bbc907.txt|.|3
+takeover|.|bbc454.txt|.|5
+nets|.|bbc2181.txt|.|7
+honeynet|.|bbc2181.txt|.|3
+believe|.|bbc1163.txt|.|5
+networks|.|bbc2099.txt|.|3|.|bbc2181.txt|.|5
+promote|.|bbc443.txt|.|2
+opposition|.|bbc454.txt|.|5
+search|.|bbc2091.txt|.|16
+courts minister|.|bbc1169.txt|.|2
+plaid cymru|.|bbc1020.txt|.|2
+security researchers|.|bbc2181.txt|.|2
+google has shown|.|bbc2091.txt|.|2
+palestinian authority|.|bbc1105.txt|.|2
+dunne keen|.|bbc1563.txt|.|1
+morris|.|bbc1163.txt|.|6
+agreed|.|bbc400.txt|.|3
+barclays|.|bbc126.txt|.|10
+jobs|.|bbc297.txt|.|5
+makes|.|bbc2099.txt|.|1
+staff|.|bbc297.txt|.|2
+officially released|.|bbc2019.txt|.|2
+annual bloggies|.|bbc1912.txt|.|2
+abn|.|bbc297.txt|.|4
+biggest uk bank|.|bbc126.txt|.|1
+yorker|.|bbc1163.txt|.|2
+sale|.|bbc475.txt|.|2
+sandra|.|bbc907.txt|.|2
+information|.|bbc475.txt|.|3
+hutt|.|bbc1020.txt|.|7
+thing|.|bbc1163.txt|.|2
+bank of australia|.|bbc101.txt|.|2
+waiting lists|.|bbc1020.txt|.|4
+report says|.|bbc285.txt|.|2
+london|.|bbc454.txt|.|2
+euronext|.|bbc454.txt|.|2
+project|.|bbc2181.txt|.|2
+mrs howard|.|bbc907.txt|.|4
+high fuel prices|.|bbc4.txt|.|2
+operator|.|bbc454.txt|.|1
+dr|.|bbc1020.txt|.|8
+accounts valve|.|bbc2019.txt|.|1
+cymru|.|bbc1020.txt|.|2
+attacks|.|bbc2192.txt|.|12|.|bbc1105.txt|.|3
+uk|.|bbc126.txt|.|4
+lord chancellor|.|bbc1169.txt|.|6
+won|.|bbc763.txt|.|12
+legal|.|bbc1169.txt|.|2
+fuel costs|.|bbc4.txt|.|2
+obtained illegally|.|bbc2019.txt|.|1
+minister|.|bbc1020.txt|.|6|.|bbc1169.txt|.|5
+palestinian reforms|.|bbc1105.txt|.|1
+pay|.|bbc400.txt|.|2
+media giant|.|bbc475.txt|.|2
+eu|.|bbc285.txt|.|6
+privileged|.|bbc475.txt|.|2
+announced|.|bbc1912.txt|.|2
+chancellor|.|bbc1169.txt|.|6
+mobile phone|.|bbc2129.txt|.|2
+sued|.|bbc312.txt|.|2
+authority|.|bbc1105.txt|.|2
+network affected|.|bbc2192.txt|.|2
+monsanto has agreed|.|bbc400.txt|.|2
+campaign|.|bbc907.txt|.|4
+exchange|.|bbc454.txt|.|4
+employees|.|bbc400.txt|.|2
+internet|.|bbc2091.txt|.|3
+ms hutt|.|bbc1020.txt|.|6
+next|.|bbc1669.txt|.|2
+bot nets|.|bbc2181.txt|.|7
+search engines|.|bbc2091.txt|.|1
+waiting|.|bbc1020.txt|.|10
+snack|.|bbc443.txt|.|1
+lord|.|bbc1169.txt|.|10
+weapon|.|bbc1163.txt|.|2
+six nations|.|bbc1669.txt|.|2
+radio station|.|bbc2129.txt|.|4
+money paid|.|bbc312.txt|.|2
+interest|.|bbc101.txt|.|2
+rate|.|bbc101.txt|.|4
+general election|.|bbc1163.txt|.|4
+handset|.|bbc2129.txt|.|4
+company|.|bbc312.txt|.|5
+euros|.|bbc312.txt|.|2
+news|.|bbc907.txt|.|3
+sensing|.|bbc2192.txt|.|2
+six|.|bbc1669.txt|.|2
+election|.|bbc907.txt|.|3|.|bbc1163.txt|.|8
+person for the job|.|bbc1169.txt|.|2
+mobile|.|bbc2129.txt|.|3
+technology|.|bbc2099.txt|.|6
+bond|.|bbc475.txt|.|4
+michael|.|bbc907.txt|.|3
+new yorker|.|bbc1163.txt|.|2
+monsanto has agreed to pay|.|bbc400.txt|.|2
+money|.|bbc312.txt|.|2|.|bbc2091.txt|.|2
+complaint|.|bbc475.txt|.|2
+service|.|bbc2192.txt|.|5|.|bbc2091.txt|.|1
+biggest bank|.|bbc126.txt|.|1
+fuel prices|.|bbc4.txt|.|2
+paid|.|bbc312.txt|.|2
+news conference|.|bbc907.txt|.|2
+keegan|.|bbc1563.txt|.|4
+advertise|.|bbc443.txt|.|1
+voters|.|bbc1912.txt|.|2
+regulate|.|bbc2099.txt|.|1
+courts|.|bbc1169.txt|.|2
+nations|.|bbc1669.txt|.|2
+london stock exchange|.|bbc454.txt|.|2
+executive|.|bbc475.txt|.|4
+children|.|bbc443.txt|.|4
+four|.|bbc101.txt|.|2
+palestinian|.|bbc1105.txt|.|7
+williams|.|bbc763.txt|.|13
+games|.|bbc1563.txt|.|2
+operator euronext|.|bbc454.txt|.|1
+workforce|.|bbc297.txt|.|2
+record levels|.|bbc126.txt|.|1
+nokia|.|bbc2129.txt|.|4
+profits|.|bbc126.txt|.|6|.|bbc4.txt|.|3
+reserve bank|.|bbc101.txt|.|2
+issue|.|bbc475.txt|.|3
+researchers|.|bbc2181.txt|.|3
+abn amro|.|bbc297.txt|.|3
+makers|.|bbc2019.txt|.|3
+deutsche|.|bbc454.txt|.|14
+bloggies|.|bbc1912.txt|.|5
+filing|.|bbc475.txt|.|1
+system|.|bbc2192.txt|.|5
+phone|.|bbc2129.txt|.|2
+valve|.|bbc2019.txt|.|7
+boss|.|bbc1563.txt|.|2
+amro|.|bbc297.txt|.|3
+piracy|.|bbc2019.txt|.|3
+city|.|bbc1563.txt|.|5
+mr leslie|.|bbc1169.txt|.|2
+privileged information|.|bbc475.txt|.|2
+secret|.|bbc1163.txt|.|1
+planned|.|bbc454.txt|.|3
+products|.|bbc443.txt|.|3
+four year|.|bbc101.txt|.|1
+web|.|bbc2091.txt|.|6
+eat|.|bbc443.txt|.|1
+probes|.|bbc475.txt|.|1
+europe|.|bbc285.txt|.|3
+pirates|.|bbc2019.txt|.|2
+cause problems|.|bbc2099.txt|.|1
+change|.|bbc1020.txt|.|4
+health|.|bbc1020.txt|.|9
+sensing system|.|bbc2192.txt|.|2
+visual radio|.|bbc2129.txt|.|9
+reforms|.|bbc285.txt|.|1|.|bbc1105.txt|.|1
+mrs|.|bbc907.txt|.|5
+varley|.|bbc126.txt|.|3
+help|.|bbc2099.txt|.|3
+site|.|bbc1912.txt|.|3
+deutsche boerse|.|bbc454.txt|.|12
+report|.|bbc285.txt|.|3
+websites|.|bbc2181.txt|.|4
+accounts|.|bbc2019.txt|.|6
+levels|.|bbc126.txt|.|1
+economic|.|bbc285.txt|.|4
+combat attacks|.|bbc2192.txt|.|1
+capital|.|bbc126.txt|.|2
+fuel|.|bbc4.txt|.|8
+bribe|.|bbc400.txt|.|5
+scissor|.|bbc763.txt|.|5
+husband|.|bbc907.txt|.|3
+british|.|bbc763.txt|.|17
+dawson|.|bbc1669.txt|.|3
+blog|.|bbc1912.txt|.|11
+net attacks|.|bbc2192.txt|.|2
+tremendous|.|bbc1020.txt|.|2
+radio|.|bbc2129.txt|.|20
+high|.|bbc4.txt|.|2
+hit|.|bbc297.txt|.|2
+planned takeover|.|bbc454.txt|.|3
+biggest|.|bbc126.txt|.|2
+shown|.|bbc2091.txt|.|2
+net service|.|bbc2192.txt|.|2
+net|.|bbc2192.txt|.|6|.|bbc2091.txt|.|4
+stock|.|bbc454.txt|.|2
+plaid|.|bbc1020.txt|.|2
+mr abbas|.|bbc1105.txt|.|4
+officially|.|bbc2019.txt|.|2
+agreed to pay|.|bbc400.txt|.|2
+england|.|bbc1020.txt|.|3|.|bbc1669.txt|.|1
+new|.|bbc1163.txt|.|3
+mp|.|bbc1169.txt|.|2
+service attacks|.|bbc2192.txt|.|2
+mr|.|bbc1169.txt|.|3|.|bbc1105.txt|.|6
+ms|.|bbc1020.txt|.|7
+health minister|.|bbc1020.txt|.|3
+wales|.|bbc1020.txt|.|10|.|bbc1669.txt|.|4
+affected|.|bbc2192.txt|.|3
+tool|.|bbc2091.txt|.|2
+andy|.|bbc1669.txt|.|2
+dr gibbons|.|bbc1020.txt|.|7
+keen|.|bbc1563.txt|.|2
+scissor sisters|.|bbc763.txt|.|5
+lists|.|bbc1020.txt|.|7
+recruit|.|bbc2181.txt|.|1
+person|.|bbc1169.txt|.|3
+job|.|bbc1169.txt|.|4
+weblog|.|bbc1912.txt|.|2
+lse|.|bbc454.txt|.|8
+stock exchange|.|bbc454.txt|.|2
+game makers|.|bbc2019.txt|.|3
+problems|.|bbc2099.txt|.|2
+barclays capital|.|bbc126.txt|.|2
+largest|.|bbc297.txt|.|2
+game|.|bbc2019.txt|.|17
+service firms|.|bbc2192.txt|.|2
+chief executive|.|bbc475.txt|.|2
+bot|.|bbc2181.txt|.|9
+drinks|.|bbc443.txt|.|1
+howard|.|bbc907.txt|.|5
+cause|.|bbc2099.txt|.|1
+combat|.|bbc2192.txt|.|1
+robbie|.|bbc763.txt|.|27
+media|.|bbc475.txt|.|2
+dunne|.|bbc1563.txt|.|3
+network|.|bbc2192.txt|.|4
+general|.|bbc1163.txt|.|4
+security|.|bbc2181.txt|.|3
+newcomer awards|.|bbc763.txt|.|2
+abbas|.|bbc1105.txt|.|6
+reserve|.|bbc101.txt|.|2
+station|.|bbc2129.txt|.|6
+clubs|.|bbc1563.txt|.|2
+advertise all its products|.|bbc443.txt|.|1
+saying|.|bbc1020.txt|.|2
+bond sale|.|bbc475.txt|.|2
+prices|.|bbc4.txt|.|3
+said|.|bbc126.txt|.|4|.|bbc1105.txt|.|7
+says|.|bbc285.txt|.|2
+costs|.|bbc4.txt|.|3
+album|.|bbc763.txt|.|7
+chief|.|bbc475.txt|.|3
+illegally|.|bbc2019.txt|.|2
+italian|.|bbc312.txt|.|4
+sisters|.|bbc763.txt|.|5
+varley said|.|bbc126.txt|.|2
+gibbons|.|bbc1020.txt|.|8
+pc|.|bbc2181.txt|.|2
+awards|.|bbc763.txt|.|13|.|bbc1912.txt|.|2
+wireless|.|bbc2099.txt|.|2
+uwb makes|.|bbc2099.txt|.|1
+largest bank|.|bbc297.txt|.|1
+parmalat|.|bbc312.txt|.|6
+tolerate|.|bbc1105.txt|.|2

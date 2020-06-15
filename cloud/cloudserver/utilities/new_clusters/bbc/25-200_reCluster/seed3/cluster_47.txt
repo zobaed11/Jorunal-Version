@@ -1,0 +1,48 @@
+47
+mortgages|.|bbc85.txt|.|1
+energy crisis|.|bbc80.txt|.|2
+reports|.|bbc317.txt|.|3
+housewives|.|bbc726.txt|.|3|.|bbc689.txt|.|3
+desperate|.|bbc726.txt|.|2|.|bbc689.txt|.|2
+street association|.|bbc317.txt|.|2
+starring johnny|.|bbc813.txt|.|2
+celebrity big|.|bbc713.txt|.|2|.|bbc726.txt|.|2|.|bbc689.txt|.|2|.|bbc731.txt|.|2
+last year|.|bbc80.txt|.|2|.|bbc726.txt|.|2|.|bbc1665.txt|.|3|.|bbc425.txt|.|2|.|bbc813.txt|.|3|.|bbc310.txt|.|1|.|bbc689.txt|.|2|.|bbc85.txt|.|2|.|bbc1888.txt|.|2
+fell|.|bbc813.txt|.|2
+revised downwards its profits|.|bbc425.txt|.|1
+earlier|.|bbc503.txt|.|1
+regent street|.|bbc317.txt|.|2
+barcelona|.|bbc1485.txt|.|2
+rupees a year|.|bbc503.txt|.|2
+sands of time|.|bbc2042.txt|.|2
+lift channel|.|bbc726.txt|.|2|.|bbc689.txt|.|2
+compared to last|.|bbc726.txt|.|1|.|bbc689.txt|.|1
+desperate housewives|.|bbc726.txt|.|2|.|bbc689.txt|.|2
+compared|.|bbc726.txt|.|2|.|bbc689.txt|.|2
+wta title|.|bbc1814.txt|.|2
+regent|.|bbc317.txt|.|2
+trafford centre|.|bbc317.txt|.|2
+said nortel|.|bbc425.txt|.|1
+year earlier|.|bbc503.txt|.|1
+last|.|bbc80.txt|.|3|.|bbc317.txt|.|4|.|bbc726.txt|.|5|.|bbc1814.txt|.|2|.|bbc425.txt|.|2|.|bbc1485.txt|.|3|.|bbc503.txt|.|2|.|bbc310.txt|.|1|.|bbc689.txt|.|5|.|bbc1413.txt|.|2|.|bbc416.txt|.|4|.|bbc1820.txt|.|2|.|bbc2042.txt|.|2|.|bbc1665.txt|.|5|.|bbc1821.txt|.|2|.|bbc813.txt|.|3|.|bbc85.txt|.|2|.|bbc1888.txt|.|2
+severe energy crisis|.|bbc80.txt|.|2
+opening|.|bbc1820.txt|.|1
+rejoin the national|.|bbc1413.txt|.|2
+sands|.|bbc2042.txt|.|2
+really|.|bbc1814.txt|.|2
+depp|.|bbc813.txt|.|2
+severe energy|.|bbc80.txt|.|2
+british films|.|bbc813.txt|.|2
+fortnight|.|bbc1485.txt|.|1
+oil deal|.|bbc80.txt|.|1
+canberra|.|bbc1814.txt|.|2
+january|.|bbc156.txt|.|1|.|bbc726.txt|.|4|.|bbc689.txt|.|4|.|bbc1518.txt|.|2
+severe|.|bbc80.txt|.|2
+jude law|.|bbc813.txt|.|2
+johnny|.|bbc813.txt|.|2
+johnny depp|.|bbc813.txt|.|2
+lift|.|bbc726.txt|.|2|.|bbc1240.txt|.|2|.|bbc689.txt|.|2
+fortnight than the last|.|bbc1485.txt|.|1
+job and i feel|.|bbc1485.txt|.|1
+trafford|.|bbc317.txt|.|2
+jude|.|bbc813.txt|.|2

@@ -1,0 +1,228 @@
+prepare|.|bbc1906.txt|.|1
+german|.|bbc139.txt|.|4
+manchester united|.|bbc1435.txt|.|2
+armand|.|bbc525.txt|.|2
+salam|.|bbc539.txt|.|2
+ship|.|bbc2003.txt|.|2
+boys|.|bbc657.txt|.|6
+cruises|.|bbc2003.txt|.|1
+firm|.|bbc401.txt|.|1
+molyneux|.|bbc1924.txt|.|5
+eu ministers|.|bbc75.txt|.|2
+million people|.|bbc139.txt|.|3
+campaigns|.|bbc1981.txt|.|3
+warns|.|bbc1906.txt|.|1
+meeting|.|bbc75.txt|.|2
+melbourne|.|bbc1799.txt|.|2
+marsh|.|bbc401.txt|.|7
+lionhead studios|.|bbc1924.txt|.|2
+festival|.|bbc539.txt|.|4
+fa cup|.|bbc1435.txt|.|2
+people swap|.|bbc1980.txt|.|2
+wanted|.|bbc129.txt|.|1
+kennedy|.|bbc1179.txt|.|6
+lib dems|.|bbc950.txt|.|3|.|bbc1179.txt|.|3
+southampton|.|bbc1435.txt|.|3
+firms|.|bbc1906.txt|.|4
+legal attacks|.|bbc1980.txt|.|2
+cup|.|bbc1435.txt|.|2
+independent developers|.|bbc1906.txt|.|3
+brentford|.|bbc1435.txt|.|3
+independent|.|bbc1906.txt|.|4
+armand marie|.|bbc525.txt|.|2
+cueto|.|bbc1718.txt|.|3
+industry|.|bbc1924.txt|.|5
+prize|.|bbc525.txt|.|2
+two|.|bbc1179.txt|.|3
+ministers|.|bbc75.txt|.|4
+roddick|.|bbc1799.txt|.|8
+composition|.|bbc657.txt|.|2
+caledonian|.|bbc1398.txt|.|2
+lansdowne|.|bbc1718.txt|.|3
+honour|.|bbc1924.txt|.|4
+video game|.|bbc1906.txt|.|2
+democrats|.|bbc950.txt|.|3
+maker|.|bbc1924.txt|.|3
+people|.|bbc139.txt|.|5|.|bbc1980.txt|.|5
+battle|.|bbc657.txt|.|2
+slam|.|bbc1718.txt|.|2
+hewitt|.|bbc1799.txt|.|10
+face|.|bbc1906.txt|.|3
+caledonian run|.|bbc1398.txt|.|2
+stamp duty|.|bbc950.txt|.|4
+closed|.|bbc294.txt|.|4
+invite|.|bbc129.txt|.|2
+open|.|bbc1799.txt|.|2
+liberal|.|bbc950.txt|.|3|.|bbc1179.txt|.|2
+jobless|.|bbc139.txt|.|3
+harmony|.|bbc2003.txt|.|2
+lib|.|bbc950.txt|.|3|.|bbc1179.txt|.|5
+documents|.|bbc2003.txt|.|1
+run|.|bbc1398.txt|.|2
+kerry|.|bbc294.txt|.|5
+wasp|.|bbc879.txt|.|3
+identity documents|.|bbc2003.txt|.|1
+seafarers|.|bbc2003.txt|.|8
+attacks|.|bbc1980.txt|.|2
+australian open|.|bbc1799.txt|.|2
+uk|.|bbc1906.txt|.|3
+won|.|bbc879.txt|.|3
+legal|.|bbc1980.txt|.|6
+jet|.|bbc75.txt|.|5
+iraq to invite|.|bbc129.txt|.|1
+us|.|bbc657.txt|.|2
+help people|.|bbc1980.txt|.|1
+studios|.|bbc1924.txt|.|3
+two big|.|bbc1179.txt|.|1
+pax|.|bbc539.txt|.|3
+european|.|bbc75.txt|.|2
+stock market|.|bbc294.txt|.|2
+arnold|.|bbc879.txt|.|5
+telephone|.|bbc129.txt|.|2
+eu|.|bbc75.txt|.|4
+beastie|.|bbc657.txt|.|6
+guilty|.|bbc401.txt|.|3
+parties|.|bbc1179.txt|.|2
+final|.|bbc1799.txt|.|5
+new network|.|bbc1980.txt|.|1
+fa|.|bbc1435.txt|.|2
+party|.|bbc1179.txt|.|3
+video games|.|bbc1981.txt|.|4
+higher|.|bbc294.txt|.|4
+stearns|.|bbc401.txt|.|3
+olympic|.|bbc1398.txt|.|2
+cards|.|bbc2003.txt|.|6
+united|.|bbc1435.txt|.|8
+young|.|bbc879.txt|.|3
+jobless rate|.|bbc139.txt|.|3
+book|.|bbc525.txt|.|4
+blogger|.|bbc539.txt|.|3
+video|.|bbc1981.txt|.|5|.|bbc1906.txt|.|2
+newton|.|bbc657.txt|.|3
+rate|.|bbc139.txt|.|4|.|bbc129.txt|.|1
+computer games|.|bbc1924.txt|.|3
+marie|.|bbc525.txt|.|3
+coverage|.|bbc129.txt|.|2
+figure|.|bbc139.txt|.|2
+election|.|bbc1981.txt|.|1|.|bbc294.txt|.|4
+living|.|bbc879.txt|.|2
+increase taxes|.|bbc1179.txt|.|1
+victory|.|bbc294.txt|.|2
+robinson|.|bbc1718.txt|.|1
+lionhead|.|bbc1924.txt|.|3
+technology|.|bbc2003.txt|.|3
+grand|.|bbc1718.txt|.|2
+manchester|.|bbc1435.txt|.|2
+home|.|bbc1435.txt|.|2
+oscars|.|bbc879.txt|.|1
+big parties|.|bbc1179.txt|.|2
+duty|.|bbc950.txt|.|4
+rappers|.|bbc657.txt|.|1
+finance|.|bbc75.txt|.|2
+swap pirated|.|bbc1980.txt|.|2
+ireland|.|bbc1718.txt|.|11
+play|.|bbc1981.txt|.|4
+websites that help|.|bbc1980.txt|.|1
+big|.|bbc1179.txt|.|2
+jet fuel tax|.|bbc75.txt|.|2
+developers|.|bbc1906.txt|.|5
+voters|.|bbc1179.txt|.|2
+crowd|.|bbc1799.txt|.|4
+mutants|.|bbc525.txt|.|3
+fought|.|bbc1799.txt|.|2
+taxes|.|bbc1179.txt|.|4
+bittorrent|.|bbc1980.txt|.|9
+fuel tax|.|bbc75.txt|.|2
+executive|.|bbc401.txt|.|3
+invite bids|.|bbc129.txt|.|1
+road|.|bbc1718.txt|.|3
+games|.|bbc1981.txt|.|14|.|bbc1906.txt|.|7|.|bbc1924.txt|.|6
+lansdowne road|.|bbc1718.txt|.|3
+armand marie leroi|.|bbc525.txt|.|1
+uk video|.|bbc1906.txt|.|2
+games maker|.|bbc1924.txt|.|2
+mr newton|.|bbc657.txt|.|3
+people back into work|.|bbc139.txt|.|1
+work|.|bbc139.txt|.|4
+iraq|.|bbc129.txt|.|2
+jet fuel|.|bbc75.txt|.|5
+million|.|bbc139.txt|.|5
+new seafarers|.|bbc2003.txt|.|1
+phone|.|bbc129.txt|.|2
+bids|.|bbc129.txt|.|3|.|bbc401.txt|.|3
+unemployment|.|bbc139.txt|.|4
+grand slam|.|bbc1718.txt|.|2
+crystal|.|bbc2003.txt|.|3
+crystal harmony|.|bbc2003.txt|.|2
+australian|.|bbc1799.txt|.|5
+stamp|.|bbc950.txt|.|4
+labour|.|bbc139.txt|.|2
+computer|.|bbc1924.txt|.|4
+licence fee|.|bbc657.txt|.|2
+world|.|bbc2003.txt|.|1
+file|.|bbc1980.txt|.|2
+identity|.|bbc2003.txt|.|2
+share|.|bbc294.txt|.|4
+guardian|.|bbc525.txt|.|3
+pirated|.|bbc1980.txt|.|3
+help|.|bbc1980.txt|.|3
+websites|.|bbc1980.txt|.|2
+games firms|.|bbc1906.txt|.|1
+games industry|.|bbc1924.txt|.|3
+unemployment figure|.|bbc139.txt|.|1
+fuel|.|bbc75.txt|.|6
+fee|.|bbc657.txt|.|3
+political|.|bbc1981.txt|.|11
+screen|.|bbc539.txt|.|2
+threshold|.|bbc950.txt|.|4
+uk video game|.|bbc1906.txt|.|2
+duty threshold|.|bbc950.txt|.|2
+marsh executive|.|bbc401.txt|.|2
+leroi|.|bbc525.txt|.|1
+mr molyneux|.|bbc1924.txt|.|4
+lewsey|.|bbc1718.txt|.|3
+stock|.|bbc294.txt|.|2
+share prices|.|bbc294.txt|.|3
+cable|.|bbc950.txt|.|3
+potential|.|bbc1435.txt|.|2
+day|.|bbc879.txt|.|2
+biometric|.|bbc2003.txt|.|3
+raising|.|bbc950.txt|.|1
+new|.|bbc2003.txt|.|3|.|bbc1980.txt|.|4
+licence|.|bbc657.txt|.|2
+england|.|bbc1718.txt|.|11
+baghdad|.|bbc539.txt|.|4
+iraqis|.|bbc539.txt|.|2
+mr|.|bbc657.txt|.|4|.|bbc1179.txt|.|5|.|bbc1924.txt|.|4
+swap|.|bbc1980.txt|.|2
+pleaded|.|bbc401.txt|.|2
+tax|.|bbc75.txt|.|6
+hewitt fought|.|bbc1799.txt|.|2
+film|.|bbc539.txt|.|8|.|bbc879.txt|.|6
+mckendry|.|bbc879.txt|.|1
+market|.|bbc294.txt|.|2
+bush victory|.|bbc294.txt|.|1
+melbourne crowd|.|bbc1799.txt|.|2
+game|.|bbc1906.txt|.|2
+bush|.|bbc294.txt|.|5
+political campaigns|.|bbc1981.txt|.|4
+dems|.|bbc950.txt|.|3|.|bbc1179.txt|.|3
+baghdad blogger|.|bbc539.txt|.|3
+us rappers|.|bbc657.txt|.|1
+network|.|bbc1980.txt|.|5
+nominees|.|bbc879.txt|.|2
+award|.|bbc525.txt|.|3
+salam pax|.|bbc539.txt|.|2
+online games|.|bbc1981.txt|.|2
+said|.|bbc1906.txt|.|12|.|bbc401.txt|.|3
+prices|.|bbc294.txt|.|5
+win|.|bbc1799.txt|.|2
+mr kennedy|.|bbc1179.txt|.|5
+beastie boys|.|bbc657.txt|.|6
+corry|.|bbc1718.txt|.|3
+increase|.|bbc1179.txt|.|3
+liberal democrats|.|bbc950.txt|.|3
+closed higher|.|bbc294.txt|.|2
+pleaded guilty|.|bbc401.txt|.|2
+online|.|bbc1981.txt|.|3
+tulu|.|bbc1398.txt|.|3

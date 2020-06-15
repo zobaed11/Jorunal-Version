@@ -1,0 +1,17 @@
+9
+data services|.|rfc2636.txt|.|9
+mobility|.|rfc5679.txt|.|32|.|rfc5944.txt|.|236|.|rfc5568.txt|.|60|.|rfc4640.txt|.|57|.|rfc3220.txt|.|228|.|rfc3154.txt|.|14|.|rfc5142.txt|.|22
+pep motivation|.|rfc3135.txt|.|6
+mobile|.|rfc5318.txt|.|4|.|rfc5679.txt|.|5|.|rfc3141.txt|.|43|.|rfc2636.txt|.|121|.|rfc2794.txt|.|71|.|rfc4887.txt|.|147|.|rfc4857.txt|.|98|.|rfc4721.txt|.|182|.|rfc3135.txt|.|53|.|rfc5944.txt|.|772|.|rfc5568.txt|.|57|.|rfc4640.txt|.|149|.|rfc5270.txt|.|12|.|rfc4358.txt|.|13|.|rfc3220.txt|.|763|.|rfc5142.txt|.|61
+standardization|.|rfc5270.txt|.|1
+home|.|rfc5944.txt|.|620|.|rfc4640.txt|.|127|.|rfc3484.txt|.|26|.|rfc2794.txt|.|23|.|rfc3220.txt|.|584|.|rfc4887.txt|.|293|.|rfc4857.txt|.|69|.|rfc5142.txt|.|161
+foreign|.|rfc4721.txt|.|118|.|rfc5944.txt|.|322|.|rfc44.txt|.|6|.|rfc3220.txt|.|319
+mobile ip|.|rfc3141.txt|.|17|.|rfc2794.txt|.|12|.|rfc3220.txt|.|78
+network models|.|rfc4887.txt|.|20
+internet standardization|.|rfc5270.txt|.|1
+perkins standards track|.|rfc5944.txt|.|100|.|rfc3220.txt|.|98
+care of address|.|rfc4857.txt|.|1
+perkins standards|.|rfc4268.txt|.|19|.|rfc3220.txt|.|98
+home agent|.|rfc5944.txt|.|398|.|rfc4640.txt|.|59|.|rfc3220.txt|.|369|.|rfc4887.txt|.|37|.|rfc5142.txt|.|133
+foreign agent|.|rfc4721.txt|.|113|.|rfc5944.txt|.|270|.|rfc3220.txt|.|259
+care|.|rfc4857.txt|.|2

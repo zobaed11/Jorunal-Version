@@ -1,0 +1,284 @@
+pres|.|rfc3538.txt|.|31
+verma deloitte|.|rfc3070.txt|.|2
+object identifier|.|rfc5008.txt|.|19
+input string|.|rfc5051.txt|.|5
+atm access|.|rfc3301.txt|.|26
+qos|.|rfc2996.txt|.|10
+tfrc|.|rfc4828.txt|.|181
+access network|.|rfc3301.txt|.|28
+mdnsent keyword|.|rfc3503.txt|.|26
+understanding|.|rfc2691.txt|.|5
+api|.|rfc3538.txt|.|50
+mealling standards|.|rfc3761.txt|.|18
+summarises|.|rfc2031.txt|.|1
+august|.|rfc4978.txt|.|9
+community|.|rfc2999.txt|.|62
+packet|.|rfc4247.txt|.|29|.|rfc4828.txt|.|311
+algorithm identifiers|.|rfc5008.txt|.|13
+solinas informational|.|rfc5008.txt|.|15
+labels|.|rfc4247.txt|.|6
+standards|.|rfc3761.txt|.|22|.|rfc3503.txt|.|14|.|rfc1972.txt|.|6|.|rfc2999.txt|.|59|.|rfc2996.txt|.|14|.|rfc3070.txt|.|12|.|rfc2031.txt|.|15|.|rfc6088.txt|.|16|.|rfc5051.txt|.|11|.|rfc4978.txt|.|12|.|rfc3301.txt|.|23
+input|.|rfc5051.txt|.|13
+extensions|.|rfc3301.txt|.|30
+size|.|rfc4828.txt|.|135
+selector is formatted|.|rfc6088.txt|.|2
+domain|.|rfc3761.txt|.|16
+unique|.|rfc3761.txt|.|11
+unicode|.|rfc5051.txt|.|18
+packets over ethernet|.|rfc1972.txt|.|4
+collation algorithm|.|rfc5051.txt|.|2
+bridge|.|rfc3538.txt|.|52
+metrics|.|rfc3763.txt|.|7
+memorandum|.|rfc2691.txt|.|5
+compression|.|rfc4247.txt|.|34
+sdo|.|rfc2691.txt|.|16
+object|.|rfc2996.txt|.|41|.|rfc5008.txt|.|19
+aaa|.|rfc5637.txt|.|54
+rsa|.|rfc5990.txt|.|35
+sub|.|rfc6088.txt|.|1
+mobility|.|rfc5637.txt|.|14|.|rfc2103.txt|.|100
+standards track|.|rfc3761.txt|.|21|.|rfc3503.txt|.|11|.|rfc1972.txt|.|5|.|rfc2999.txt|.|47|.|rfc3070.txt|.|9|.|rfc6088.txt|.|15|.|rfc5051.txt|.|9|.|rfc4978.txt|.|11|.|rfc3301.txt|.|20
+gulbrandsen|.|rfc4978.txt|.|11
+access|.|rfc5637.txt|.|11|.|rfc3503.txt|.|5|.|rfc3301.txt|.|45
+document|.|rfc2999.txt|.|82
+flow bindings|.|rfc6088.txt|.|16
+security level|.|rfc5008.txt|.|32
+networks|.|rfc1972.txt|.|2
+surfnet|.|rfc2031.txt|.|2
+measurement|.|rfc3763.txt|.|25
+isoc|.|rfc2031.txt|.|21
+endpoint|.|rfc2103.txt|.|31
+kem|.|rfc5990.txt|.|5
+search|.|rfc3503.txt|.|5
+bv|.|rfc2031.txt|.|2
+provides information|.|rfc2999.txt|.|46
+assembly|.|rfc2691.txt|.|7
+national|.|rfc5008.txt|.|11
+mpls|.|rfc4247.txt|.|62
+application unique string|.|rfc3761.txt|.|5
+relationship|.|rfc2031.txt|.|6
+behavior|.|rfc3503.txt|.|14
+sp|.|rfc4828.txt|.|52
+key|.|rfc5008.txt|.|85|.|rfc5990.txt|.|164
+keying data|.|rfc5990.txt|.|41
+imap|.|rfc4978.txt|.|27
+nanji redback|.|rfc3070.txt|.|2
+endpoints|.|rfc3070.txt|.|5
+set|.|rfc3538.txt|.|558
+address|.|rfc1972.txt|.|26
+consulting|.|rfc3070.txt|.|2
+memorandum of understanding|.|rfc2691.txt|.|5
+giaretta|.|rfc5637.txt|.|15
+describes|.|rfc2999.txt|.|33
+march|.|rfc3503.txt|.|12
+june|.|rfc3301.txt|.|19
+message access protocol|.|rfc3503.txt|.|3
+mpls vpn|.|rfc4247.txt|.|1
+associated|.|rfc2103.txt|.|4
+handled|.|rfc2103.txt|.|5
+redback|.|rfc3070.txt|.|3
+information|.|rfc2999.txt|.|65
+wrap|.|rfc5990.txt|.|29
+internet message access|.|rfc3503.txt|.|3
+november|.|rfc4247.txt|.|11
+agent|.|rfc5637.txt|.|23
+bindings|.|rfc6088.txt|.|16
+recommendations|.|rfc2031.txt|.|3
+rsvp|.|rfc2996.txt|.|40
+imap compress|.|rfc4978.txt|.|11
+ds|.|rfc2996.txt|.|16
+crispin|.|rfc5051.txt|.|10
+transmission|.|rfc1972.txt|.|6
+frame relay|.|rfc3070.txt|.|37
+dclass object|.|rfc2996.txt|.|35
+atm|.|rfc3301.txt|.|71
+protocols|.|rfc5051.txt|.|2
+keyword|.|rfc3503.txt|.|29
+drop rate|.|rfc4828.txt|.|102
+compress command|.|rfc4978.txt|.|3
+rfc|.|rfc3538.txt|.|66|.|rfc5637.txt|.|21|.|rfc2999.txt|.|35|.|rfc5051.txt|.|11|.|rfc3763.txt|.|32|.|rfc4978.txt|.|46
+packet size|.|rfc4828.txt|.|76
+sending rate|.|rfc4828.txt|.|128
+ethernet|.|rfc1972.txt|.|26
+name|.|rfc3761.txt|.|8|.|rfc3301.txt|.|19
+network access|.|rfc5637.txt|.|7
+support|.|rfc2103.txt|.|26
+document describes|.|rfc2999.txt|.|24
+internet|.|rfc3503.txt|.|16|.|rfc2999.txt|.|121|.|rfc2996.txt|.|13|.|rfc2691.txt|.|21|.|rfc3070.txt|.|14|.|rfc2031.txt|.|18|.|rfc5051.txt|.|8
+ietf|.|rfc2031.txt|.|39|.|rfc3763.txt|.|6
+frame|.|rfc3070.txt|.|39
+drop|.|rfc4828.txt|.|189
+tunneling protocol|.|rfc3070.txt|.|3
+imap compress extension|.|rfc4978.txt|.|9
+string|.|rfc3761.txt|.|10|.|rfc5051.txt|.|13
+copyright notice|.|rfc2691.txt|.|3
+kawatsura informational|.|rfc3538.txt|.|56
+society|.|rfc3503.txt|.|6|.|rfc2996.txt|.|6|.|rfc3070.txt|.|6
+initiation|.|rfc3538.txt|.|57
+compress extension|.|rfc4978.txt|.|11
+related|.|rfc3538.txt|.|73
+rate|.|rfc4828.txt|.|289
+provides|.|rfc2999.txt|.|46
+verma|.|rfc3070.txt|.|2
+client|.|rfc3503.txt|.|34
+selector|.|rfc6088.txt|.|25
+domain name|.|rfc3761.txt|.|6
+small packets|.|rfc4828.txt|.|41
+shalunov|.|rfc3763.txt|.|13
+notice|.|rfc2691.txt|.|6
+enum april|.|rfc3761.txt|.|17
+aaa server|.|rfc5637.txt|.|19
+relay|.|rfc3070.txt|.|37
+mobile|.|rfc5637.txt|.|61|.|rfc2103.txt|.|46
+ds network|.|rfc2996.txt|.|9
+nimrod mobility support|.|rfc2103.txt|.|16
+message|.|rfc3503.txt|.|43|.|rfc5008.txt|.|27
+ietf isoc|.|rfc2031.txt|.|2
+set initiation|.|rfc3538.txt|.|51
+service name|.|rfc3301.txt|.|16
+loss event rate|.|rfc4828.txt|.|25
+home|.|rfc5637.txt|.|39
+support february|.|rfc2103.txt|.|16
+teitelbaum|.|rfc3763.txt|.|13
+vpn|.|rfc4247.txt|.|3
+service|.|rfc5637.txt|.|33|.|rfc3301.txt|.|39
+header compression|.|rfc4247.txt|.|23
+atm access network extensions|.|rfc3301.txt|.|19
+syntax|.|rfc5008.txt|.|9
+internet community|.|rfc2999.txt|.|62
+ginoza informational|.|rfc2999.txt|.|23
+copyright|.|rfc3503.txt|.|7|.|rfc2691.txt|.|6
+key wrap|.|rfc5990.txt|.|24
+internet protocols|.|rfc5051.txt|.|1
+memo|.|rfc2999.txt|.|83
+admission control|.|rfc2996.txt|.|18
+network extensions|.|rfc3301.txt|.|19
+april|.|rfc3761.txt|.|19|.|rfc3763.txt|.|11
+packets|.|rfc4828.txt|.|188|.|rfc1972.txt|.|7
+number|.|rfc3761.txt|.|15
+loss|.|rfc4828.txt|.|130
+layer security|.|rfc4978.txt|.|2
+mpls november|.|rfc4247.txt|.|10
+flow|.|rfc6088.txt|.|30
+algorithm|.|rfc5008.txt|.|52|.|rfc5051.txt|.|2|.|rfc5990.txt|.|108
+extension august|.|rfc4978.txt|.|8
+mdnsent|.|rfc3503.txt|.|44
+identifier|.|rfc5008.txt|.|31
+ddds|.|rfc3761.txt|.|20
+compress|.|rfc4978.txt|.|45
+byte|.|rfc4828.txt|.|127
+ip|.|rfc2103.txt|.|12|.|rfc3763.txt|.|4
+tunneling|.|rfc3070.txt|.|4
+enum|.|rfc3761.txt|.|50
+bootstrapping|.|rfc5637.txt|.|11
+ginoza|.|rfc2999.txt|.|26
+field|.|rfc6088.txt|.|115
+header compression over mpls|.|rfc4247.txt|.|13
+byte drop|.|rfc4828.txt|.|38
+traffic selector|.|rfc6088.txt|.|25
+search keyword|.|rfc3503.txt|.|1
+status|.|rfc2996.txt|.|2|.|rfc4978.txt|.|2
+casemap|.|rfc5051.txt|.|3
+trading|.|rfc3538.txt|.|12
+server|.|rfc5637.txt|.|45
+extension|.|rfc4978.txt|.|15
+public key|.|rfc5990.txt|.|22
+formatted|.|rfc6088.txt|.|2
+cms|.|rfc5008.txt|.|26|.|rfc5990.txt|.|46
+requirements for header|.|rfc4247.txt|.|11
+key transport|.|rfc5990.txt|.|34
+layer|.|rfc4978.txt|.|12
+general assembly|.|rfc2691.txt|.|7
+tcp and tfrc|.|rfc4828.txt|.|11
+mealling|.|rfc3761.txt|.|24
+sending|.|rfc4828.txt|.|150
+access network extensions|.|rfc3301.txt|.|19
+sub option|.|rfc6088.txt|.|1
+event|.|rfc4828.txt|.|38
+solinas|.|rfc5008.txt|.|17
+client behavior|.|rfc3503.txt|.|12
+protocol council|.|rfc2691.txt|.|44
+identifiers|.|rfc5008.txt|.|14
+deloitte consulting|.|rfc3070.txt|.|2
+mpls labels|.|rfc4247.txt|.|5
+rsvp dclass|.|rfc2996.txt|.|9
+uri|.|rfc3761.txt|.|20
+selectors for flow|.|rfc6088.txt|.|13
+icann|.|rfc2691.txt|.|41
+disposition|.|rfc3503.txt|.|9
+icann and the protocol|.|rfc2691.txt|.|3
+january|.|rfc6088.txt|.|14
+performance metrics|.|rfc3763.txt|.|3
+organization|.|rfc2031.txt|.|5
+set bridge|.|rfc3538.txt|.|42
+keying|.|rfc5990.txt|.|41
+signing|.|rfc2691.txt|.|20
+mobility support|.|rfc2103.txt|.|21
+small|.|rfc4828.txt|.|63
+internet society|.|rfc3503.txt|.|6|.|rfc2996.txt|.|6|.|rfc3070.txt|.|6
+housley|.|rfc5008.txt|.|22
+data|.|rfc5990.txt|.|49
+expertisecentrum|.|rfc2031.txt|.|2
+protocol|.|rfc3503.txt|.|6|.|rfc2999.txt|.|64|.|rfc2691.txt|.|51|.|rfc3070.txt|.|22|.|rfc3763.txt|.|27
+atm access network|.|rfc3301.txt|.|23
+ramanathan|.|rfc2103.txt|.|20
+requirements for header compression|.|rfc4247.txt|.|11
+collation|.|rfc5051.txt|.|23
+group|.|rfc2103.txt|.|6|.|rfc2031.txt|.|4
+traffic|.|rfc6088.txt|.|44
+requirements april|.|rfc3763.txt|.|10
+nanji|.|rfc3070.txt|.|2
+message syntax|.|rfc5008.txt|.|5
+level|.|rfc5008.txt|.|36
+signing sdo|.|rfc2691.txt|.|11
+admission|.|rfc2996.txt|.|20
+tfrc sp|.|rfc4828.txt|.|3
+set related|.|rfc3538.txt|.|61
+mobility is handled|.|rfc2103.txt|.|2
+council|.|rfc2691.txt|.|44
+packet drop|.|rfc4828.txt|.|120
+working group|.|rfc2103.txt|.|6|.|rfc2031.txt|.|4
+header|.|rfc4247.txt|.|36
+october|.|rfc5051.txt|.|7
+option|.|rfc6088.txt|.|2
+transport algorithm|.|rfc5990.txt|.|30
+deloitte|.|rfc3070.txt|.|2
+unicode collation|.|rfc5051.txt|.|2
+timestamps|.|rfc3763.txt|.|4
+lsp|.|rfc4247.txt|.|16
+set pres|.|rfc3538.txt|.|29
+selectors|.|rfc6088.txt|.|15
+network|.|rfc5637.txt|.|15|.|rfc2996.txt|.|43|.|rfc3301.txt|.|35
+general|.|rfc2691.txt|.|10
+memo provides|.|rfc2999.txt|.|46
+security|.|rfc5008.txt|.|48|.|rfc4978.txt|.|10
+september|.|rfc5637.txt|.|12|.|rfc2691.txt|.|9|.|rfc5008.txt|.|16
+public|.|rfc5990.txt|.|26
+working|.|rfc2103.txt|.|6|.|rfc2031.txt|.|8
+surfnet expertisecentrum bv|.|rfc2031.txt|.|2
+informational|.|rfc3538.txt|.|57|.|rfc2999.txt|.|24|.|rfc2103.txt|.|17|.|rfc5008.txt|.|16
+nimrod|.|rfc2103.txt|.|93
+track|.|rfc3761.txt|.|20|.|rfc3503.txt|.|11|.|rfc1972.txt|.|5|.|rfc2999.txt|.|47|.|rfc3070.txt|.|9|.|rfc6088.txt|.|14|.|rfc5051.txt|.|9|.|rfc4978.txt|.|10|.|rfc3301.txt|.|20
+extensions june|.|rfc3301.txt|.|18
+home agent|.|rfc5637.txt|.|23
+consumer|.|rfc3538.txt|.|88
+dclass|.|rfc2996.txt|.|38
+endpoint is associated|.|rfc2103.txt|.|2
+tcp|.|rfc4828.txt|.|220
+requirements|.|rfc4247.txt|.|20|.|rfc3763.txt|.|17
+ramanathan informational|.|rfc2103.txt|.|17
+ethernet networks|.|rfc1972.txt|.|2
+february|.|rfc2103.txt|.|17|.|rfc3070.txt|.|7
+measurement protocol|.|rfc3763.txt|.|3
+control|.|rfc2996.txt|.|18
+transport|.|rfc5990.txt|.|34
+compression over mpls|.|rfc4247.txt|.|13
+mobility service|.|rfc5637.txt|.|9
+command|.|rfc4978.txt|.|7
+internet standards|.|rfc2996.txt|.|3|.|rfc2031.txt|.|7
+gulbrandsen standards|.|rfc4978.txt|.|9
+performance|.|rfc3763.txt|.|3
+application|.|rfc3761.txt|.|21
+kawatsura|.|rfc3538.txt|.|58
+unicode casemap|.|rfc5051.txt|.|2
+ip performance metrics|.|rfc3763.txt|.|3

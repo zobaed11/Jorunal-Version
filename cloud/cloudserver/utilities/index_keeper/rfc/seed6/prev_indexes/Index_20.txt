@@ -1,0 +1,288 @@
+attribute september|.|rfc5029.txt|.|5
+benchmarking|.|rfc4061.txt|.|18
+te lsp|.|rfc4736.txt|.|37
+domain names|.|rfc3597.txt|.|15
+building|.|rfc4158.txt|.|234
+path|.|rfc4736.txt|.|105|.|rfc4158.txt|.|499
+point lsr|.|rfc4736.txt|.|2
+character|.|rfc1947.txt|.|14
+reference topology|.|rfc4061.txt|.|16
+chimento standards|.|rfc3393.txt|.|21
+certification authority|.|rfc4158.txt|.|25
+kaliski informational|.|rfc2986.txt|.|14
+advisory committee|.|rfc3716.txt|.|58
+state|.|rfc6175.txt|.|104
+temporal|.|rfc2498.txt|.|7
+unknown dns|.|rfc3597.txt|.|8
+syntax specification|.|rfc2986.txt|.|14
+see ref|.|rfc310.txt|.|10
+module|.|rfc4158.txt|.|32
+packet|.|rfc3393.txt|.|91
+path building|.|rfc4158.txt|.|157
+standards|.|rfc2498.txt|.|2|.|rfc5029.txt|.|11|.|rfc5509.txt|.|8|.|rfc1997.txt|.|8|.|rfc3597.txt|.|12|.|rfc2032.txt|.|14|.|rfc3393.txt|.|26
+certification path|.|rfc4158.txt|.|204
+wg state|.|rfc6175.txt|.|20
+contains|.|rfc1947.txt|.|3
+management function|.|rfc4176.txt|.|11
+re|.|rfc4736.txt|.|2
+delay|.|rfc3393.txt|.|52
+certificates|.|rfc4158.txt|.|296
+ip address|.|rfc2498.txt|.|10
+domain|.|rfc3597.txt|.|21
+metrics|.|rfc2498.txt|.|18
+instantaneous connectivity|.|rfc2498.txt|.|4
+packet delay|.|rfc3393.txt|.|26
+internet access|.|rfc2150.txt|.|7
+rr|.|rfc3597.txt|.|50
+iesg|.|rfc3716.txt|.|51
+rsa|.|rfc2986.txt|.|14
+standards track|.|rfc5029.txt|.|9|.|rfc5509.txt|.|7|.|rfc1997.txt|.|7|.|rfc3597.txt|.|9
+access|.|rfc2150.txt|.|34
+document|.|rfc6175.txt|.|137
+ippm metrics|.|rfc2498.txt|.|10
+iab|.|rfc3716.txt|.|88
+promote|.|rfc2150.txt|.|1
+certification path building|.|rfc4158.txt|.|103
+routing|.|rfc1997.txt|.|10|.|rfc2117.txt|.|25
+variation november|.|rfc3393.txt|.|20
+see|.|rfc310.txt|.|12
+humanities|.|rfc2150.txt|.|77
+artists|.|rfc2150.txt|.|24
+systems|.|rfc5029.txt|.|3|.|rfc1997.txt|.|4
+chimento|.|rfc3393.txt|.|23
+mpls|.|rfc4736.txt|.|9
+attribute|.|rfc5029.txt|.|6|.|rfc1997.txt|.|29
+arts|.|rfc2150.txt|.|91
+cisco|.|rfc5029.txt|.|3|.|rfc1997.txt|.|3
+loosely routed|.|rfc4736.txt|.|29
+key|.|rfc2986.txt|.|16
+annotation|.|rfc6175.txt|.|38
+file transfer|.|rfc310.txt|.|18
+committee|.|rfc3716.txt|.|68
+set|.|rfc3716.txt|.|11
+address|.|rfc2498.txt|.|26
+manager|.|rfc4176.txt|.|37
+gustafsson standards|.|rfc3597.txt|.|8
+customer management|.|rfc4176.txt|.|10
+logical|.|rfc597.txt|.|3
+rtp|.|rfc2032.txt|.|37
+mail messages|.|rfc1947.txt|.|1
+te|.|rfc4736.txt|.|44
+emulated|.|rfc4061.txt|.|13
+host status|.|rfc597.txt|.|6
+loosely|.|rfc4736.txt|.|29
+information|.|rfc6175.txt|.|36|.|rfc1997.txt|.|7
+november|.|rfc2986.txt|.|15|.|rfc3393.txt|.|22
+dns srv|.|rfc5509.txt|.|7
+rtp payload format|.|rfc2032.txt|.|12
+set of observations|.|rfc3716.txt|.|2
+data and file|.|rfc310.txt|.|8
+rsvp|.|rfc4736.txt|.|26
+dr|.|rfc2117.txt|.|61
+bet|.|rfc2150.txt|.|2
+request syntax|.|rfc2986.txt|.|18
+ref|.|rfc310.txt|.|10
+previdi|.|rfc5029.txt|.|8
+designated|.|rfc4061.txt|.|12
+payload|.|rfc2032.txt|.|15
+iana srv|.|rfc5509.txt|.|5
+chair or delegate|.|rfc6175.txt|.|21
+designated router|.|rfc4061.txt|.|12
+rr types|.|rfc3597.txt|.|25
+routing protocol|.|rfc2117.txt|.|7
+cryptography|.|rfc2986.txt|.|4
+mpls te|.|rfc4736.txt|.|1
+spinellis|.|rfc1947.txt|.|10
+encoding|.|rfc1947.txt|.|17
+look|.|rfc310.txt|.|7
+rfc|.|rfc4061.txt|.|26|.|rfc2150.txt|.|99|.|rfc2498.txt|.|22|.|rfc3716.txt|.|166
+fault management|.|rfc4176.txt|.|8
+iab advisory committee|.|rfc3716.txt|.|54
+wire|.|rfc3393.txt|.|3
+authority|.|rfc4158.txt|.|38
+loose|.|rfc4736.txt|.|17
+certification request syntax|.|rfc2986.txt|.|18
+internet|.|rfc2150.txt|.|295|.|rfc2498.txt|.|17|.|rfc3597.txt|.|15|.|rfc2986.txt|.|12
+multics|.|rfc597.txt|.|2
+frame|.|rfc2032.txt|.|15
+web browser|.|rfc2150.txt|.|11
+link attribute|.|rfc5029.txt|.|6
+bgp peers|.|rfc1997.txt|.|3
+humanities and arts|.|rfc2150.txt|.|62
+bgp|.|rfc1997.txt|.|24
+unicast|.|rfc2117.txt|.|37
+video|.|rfc2032.txt|.|27
+wg|.|rfc6175.txt|.|362
+society|.|rfc2498.txt|.|5|.|rfc3597.txt|.|6
+gustafsson|.|rfc3597.txt|.|10
+instant messaging|.|rfc5509.txt|.|21
+path re|.|rfc4736.txt|.|1
+greek|.|rfc1947.txt|.|39
+types|.|rfc3597.txt|.|31
+specification|.|rfc2986.txt|.|19
+message|.|rfc2117.txt|.|210
+management|.|rfc4176.txt|.|136
+service|.|rfc4176.txt|.|124
+customer service management|.|rfc4176.txt|.|5
+syntax|.|rfc2986.txt|.|29
+handling|.|rfc3597.txt|.|8
+iana|.|rfc5509.txt|.|13|.|rfc3716.txt|.|54
+time|.|rfc3393.txt|.|51
+gateway|.|rfc1997.txt|.|2
+tlv|.|rfc5029.txt|.|4
+copyright|.|rfc3597.txt|.|6
+iab advisory|.|rfc3716.txt|.|54
+neigus|.|rfc597.txt|.|7
+certification request|.|rfc2986.txt|.|34
+status information|.|rfc6175.txt|.|15
+peers|.|rfc1997.txt|.|6
+ipdv values|.|rfc3393.txt|.|5
+manral|.|rfc4061.txt|.|20
+chandra|.|rfc1997.txt|.|7
+huitema standards|.|rfc2032.txt|.|11
+bit|.|rfc2117.txt|.|41
+greek text|.|rfc1947.txt|.|7
+type|.|rfc2498.txt|.|2
+april|.|rfc4061.txt|.|19|.|rfc5509.txt|.|6
+logical map|.|rfc597.txt|.|2
+variation|.|rfc3393.txt|.|38
+epsilon|.|rfc1947.txt|.|4
+cisco systems|.|rfc5029.txt|.|3|.|rfc1997.txt|.|3
+path building module|.|rfc4158.txt|.|2
+connectivity|.|rfc2498.txt|.|53
+text|.|rfc1947.txt|.|13
+issued|.|rfc4158.txt|.|59
+presence|.|rfc5509.txt|.|20
+validation|.|rfc4158.txt|.|35
+certificates issued|.|rfc4158.txt|.|17
+rfc editor|.|rfc3716.txt|.|66
+annotation tag|.|rfc6175.txt|.|21
+advisory|.|rfc3716.txt|.|58
+request syntax specification|.|rfc2986.txt|.|14
+service management|.|rfc4176.txt|.|12
+look at data|.|rfc310.txt|.|7
+topology|.|rfc4061.txt|.|32
+ip|.|rfc2498.txt|.|16|.|rfc3393.txt|.|36
+dns|.|rfc5509.txt|.|9|.|rfc3597.txt|.|26
+temporal connectivity|.|rfc2498.txt|.|7
+certification|.|rfc2986.txt|.|55|.|rfc4158.txt|.|298
+border gateway protocol|.|rfc1997.txt|.|2
+messaging|.|rfc5509.txt|.|21
+innovative|.|rfc2150.txt|.|1
+clocks|.|rfc3393.txt|.|22
+system|.|rfc1997.txt|.|7
+messages|.|rfc1947.txt|.|11
+document shepherd|.|rfc6175.txt|.|28
+kaliski|.|rfc2986.txt|.|18
+registration|.|rfc5509.txt|.|7
+synchronized clocks|.|rfc3393.txt|.|5
+status|.|rfc6175.txt|.|120|.|rfc4176.txt|.|7|.|rfc3716.txt|.|11|.|rfc597.txt|.|9
+traina|.|rfc1997.txt|.|3
+broadcast|.|rfc4061.txt|.|23
+signature|.|rfc4158.txt|.|32
+instantaneous|.|rfc2498.txt|.|7
+communities attribute|.|rfc1997.txt|.|11
+certification path validation|.|rfc4158.txt|.|11
+datacomputer|.|rfc310.txt|.|11
+unknown|.|rfc3597.txt|.|20
+instant|.|rfc5509.txt|.|23
+delegate|.|rfc6175.txt|.|32
+file|.|rfc310.txt|.|30
+web|.|rfc2150.txt|.|88
+ippm|.|rfc2498.txt|.|11
+greek encoding|.|rfc1947.txt|.|6
+december|.|rfc597.txt|.|8
+stickle|.|rfc2150.txt|.|64
+map|.|rfc597.txt|.|6
+editor|.|rfc3716.txt|.|67
+feinler|.|rfc597.txt|.|8
+intra frame|.|rfc2032.txt|.|1
+chair|.|rfc6175.txt|.|40
+names|.|rfc3597.txt|.|16
+framework|.|rfc4176.txt|.|28
+january|.|rfc2498.txt|.|10
+broadcast network|.|rfc4061.txt|.|16
+vdh|.|rfc597.txt|.|6
+communities|.|rfc1997.txt|.|22
+internet society|.|rfc2498.txt|.|5|.|rfc3597.txt|.|6
+synchronized|.|rfc3393.txt|.|7
+capital|.|rfc1947.txt|.|38
+measuring|.|rfc2498.txt|.|10
+specification november|.|rfc2986.txt|.|13
+mail|.|rfc1947.txt|.|12
+data|.|rfc310.txt|.|50
+delay variation|.|rfc3393.txt|.|31
+autonomous|.|rfc1997.txt|.|7
+wire time|.|rfc3393.txt|.|3
+rtp payload|.|rfc2032.txt|.|12
+reference|.|rfc4061.txt|.|19
+router|.|rfc4061.txt|.|22
+protocol|.|rfc5509.txt|.|35|.|rfc310.txt|.|19|.|rfc1997.txt|.|6|.|rfc2117.txt|.|36
+eta|.|rfc1947.txt|.|4
+function|.|rfc4176.txt|.|17
+host|.|rfc597.txt|.|11
+links|.|rfc4061.txt|.|13
+network manager|.|rfc4176.txt|.|24
+tag|.|rfc6175.txt|.|21
+group|.|rfc2032.txt|.|4|.|rfc2117.txt|.|125
+border|.|rfc1997.txt|.|2
+new|.|rfc3597.txt|.|17
+autonomous system|.|rfc1997.txt|.|6
+contains greek|.|rfc1947.txt|.|2
+intra|.|rfc2032.txt|.|1
+format|.|rfc2032.txt|.|15
+interoperability|.|rfc5029.txt|.|2
+wg document|.|rfc6175.txt|.|38
+entry|.|rfc2117.txt|.|253
+capital eta|.|rfc1947.txt|.|2
+transfer|.|rfc310.txt|.|46
+capital epsilon|.|rfc1947.txt|.|2
+vasseur|.|rfc5029.txt|.|8
+working group|.|rfc2032.txt|.|3
+metrics for measuring|.|rfc2498.txt|.|10
+new rr|.|rfc3597.txt|.|8
+october|.|rfc4176.txt|.|22
+routing information|.|rfc1997.txt|.|5
+instant messaging and presence|.|rfc5509.txt|.|6
+handling of unknown dns|.|rfc3597.txt|.|8
+handling of unknown|.|rfc3597.txt|.|8
+wg status|.|rfc6175.txt|.|28
+request|.|rfc2986.txt|.|42
+file transfer protocol|.|rfc310.txt|.|5
+operations and management|.|rfc4176.txt|.|24
+values|.|rfc3393.txt|.|26
+link|.|rfc5029.txt|.|13
+lsp|.|rfc4736.txt|.|61
+ipdv|.|rfc3393.txt|.|54
+lsr|.|rfc4736.txt|.|68
+payload format|.|rfc2032.txt|.|13
+building module|.|rfc4158.txt|.|2
+shepherd|.|rfc6175.txt|.|33
+framework october|.|rfc4176.txt|.|20
+imp|.|rfc597.txt|.|4
+oif|.|rfc2117.txt|.|57
+point|.|rfc4061.txt|.|1|.|rfc4736.txt|.|3
+network|.|rfc4061.txt|.|37|.|rfc4176.txt|.|78|.|rfc597.txt|.|6
+september|.|rfc5029.txt|.|6
+operations|.|rfc4176.txt|.|30
+public|.|rfc2986.txt|.|12
+public key cryptography|.|rfc2986.txt|.|1
+benchmarking april|.|rfc4061.txt|.|15
+browser|.|rfc2150.txt|.|22
+observations|.|rfc3716.txt|.|8
+working|.|rfc2032.txt|.|4
+informational|.|rfc2986.txt|.|14
+track|.|rfc5029.txt|.|8|.|rfc5509.txt|.|7|.|rfc1997.txt|.|6|.|rfc3597.txt|.|9
+routed|.|rfc4736.txt|.|29
+dtp|.|rfc310.txt|.|34
+routed lsp|.|rfc4736.txt|.|15
+fault|.|rfc4176.txt|.|12
+huitema|.|rfc2032.txt|.|13
+internet standards|.|rfc2498.txt|.|2
+rpt bit|.|rfc2117.txt|.|4
+prune|.|rfc2117.txt|.|51
+srv|.|rfc5509.txt|.|32
+rpt|.|rfc2117.txt|.|11
+wg chair|.|rfc6175.txt|.|40
+cooper|.|rfc4158.txt|.|83
+customer|.|rfc4176.txt|.|68

@@ -1,0 +1,24 @@
+34
+silk|.|bbc1189.txt|.|3
+eurosceptic|.|bbc1184.txt|.|2
+autumn conference|.|bbc900.txt|.|2|.|bbc1226.txt|.|2
+labour party|.|bbc900.txt|.|2|.|bbc1124.txt|.|2|.|bbc1226.txt|.|2
+working class|.|bbc900.txt|.|2|.|bbc1226.txt|.|2
+kilroy silk|.|bbc1189.txt|.|3
+bournemouth|.|bbc900.txt|.|2|.|bbc1226.txt|.|2
+uk independence|.|bbc1184.txt|.|2
+independence|.|bbc1184.txt|.|2
+veritas|.|bbc1189.txt|.|12
+robert|.|bbc1189.txt|.|8|.|bbc1166.txt|.|4|.|bbc1184.txt|.|2
+new party|.|bbc1189.txt|.|6
+conservatives|.|bbc1307.txt|.|1|.|bbc1200.txt|.|2|.|bbc1108.txt|.|1
+robert kilroy|.|bbc1189.txt|.|1
+peter|.|bbc1307.txt|.|2
+robert kilroy silk|.|bbc1189.txt|.|1
+autumn|.|bbc900.txt|.|2|.|bbc1226.txt|.|2
+new ukip|.|bbc1184.txt|.|1
+class|.|bbc900.txt|.|2|.|bbc1226.txt|.|2
+london assembly|.|bbc1184.txt|.|2
+party|.|bbc1307.txt|.|8|.|bbc1189.txt|.|29|.|bbc1200.txt|.|2|.|bbc1021.txt|.|2|.|bbc900.txt|.|6|.|bbc1124.txt|.|3|.|bbc1226.txt|.|6|.|bbc1192.txt|.|2|.|bbc1041.txt|.|1|.|bbc1180.txt|.|11|.|bbc1108.txt|.|4|.|bbc1184.txt|.|6
+eurosceptic party|.|bbc1184.txt|.|2
+kilroy|.|bbc1189.txt|.|11

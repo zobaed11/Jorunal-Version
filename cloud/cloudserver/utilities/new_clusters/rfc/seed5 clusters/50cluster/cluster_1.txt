@@ -1,0 +1,90 @@
+1
+otp extended|.|rfc2243.txt|.|18
+text request|.|rfc3720.txt|.|53
+value length|.|rfc2910.txt|.|3
+triggered update|.|rfc2080.txt|.|10
+connected network|.|rfc2080.txt|.|1
+split|.|rfc2080.txt|.|15
+split horizon|.|rfc2080.txt|.|14
+structure to a network|.|rfc3720.txt|.|1
+minnear standards|.|rfc2080.txt|.|19
+mechanisms are designed|.|rfc3720.txt|.|1
+tag|.|rfc3720.txt|.|209|.|rfc2506.txt|.|52|.|rfc4034.txt|.|55|.|rfc5131.txt|.|7|.|rfc2565.txt|.|40|.|rfc2910.txt|.|28
+iscsi target|.|rfc3720.txt|.|57
+designed|.|rfc3720.txt|.|7
+initiator and target|.|rfc3720.txt|.|73
+imap auth|.|rfc2195.txt|.|1
+metz|.|rfc2243.txt|.|13
+connected|.|rfc2080.txt|.|3
+secret pass|.|rfc2243.txt|.|6
+target transfer tag|.|rfc3720.txt|.|73
+name length|.|rfc2910.txt|.|1
+re|.|rfc2243.txt|.|2
+extended responses|.|rfc2243.txt|.|19
+transfer|.|rfc2594.txt|.|36|.|rfc614.txt|.|12|.|rfc141.txt|.|5|.|rfc3720.txt|.|146|.|rfc607.txt|.|6|.|rfc221.txt|.|17|.|rfc2347.txt|.|16|.|rfc2585.txt|.|9|.|rfc487.txt|.|4|.|rfc589.txt|.|17|.|rfc5524.txt|.|7|.|rfc133.txt|.|7
+response|.|rfc5804.txt|.|190|.|rfc6230.txt|.|103|.|rfc3720.txt|.|385|.|rfc2243.txt|.|44|.|rfc2080.txt|.|38|.|rfc5216.txt|.|13|.|rfc5034.txt|.|27|.|rfc6287.txt|.|38|.|rfc2195.txt|.|2|.|rfc305.txt|.|2|.|rfc2910.txt|.|48
+expected data|.|rfc3720.txt|.|19
+standards process
+maximum packet
+maximum
+full copyright statement
+extension guide october
+network asserted
+requirements april
+network asserted identity
+extension guide
+extensions for service
+request for comments
+network prefix
+network mailing lists
+hypertext transfer
+side
+label request
+building automation routing
+request for service
+value is created
+building automation
+network address translators
+end point
+label request message
+channel binding
+network mailing
+hypertext
+label abort request
+network administrators
+prompt
+backbone
+network is connected
+delayed acks
+network address
+building
+extended community
+request for connection
+delayed
+request for comments
+network prefix
+network mailing lists
+hypertext transfer
+side
+label request
+building automation routing
+request for service
+value is created
+building automation
+network address translators
+end point
+label request message
+channel binding
+network mailing
+hypertext
+label abort request
+network administrators
+prompt
+backbone
+network is connected
+delayed acks
+network address
+building
+extended community
+request for connection
+delayed

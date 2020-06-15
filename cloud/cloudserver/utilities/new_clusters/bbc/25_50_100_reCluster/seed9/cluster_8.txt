@@ -1,0 +1,64 @@
+8
+iranian|.|bbc1449.txt|.|2
+tour new|.|bbc1715.txt|.|1
+matt williams|.|bbc1611.txt|.|3
+juan|.|bbc1785.txt|.|2|.|bbc1736.txt|.|2
+northern|.|bbc1715.txt|.|2
+roger|.|bbc1738.txt|.|3
+bryan twins|.|bbc1785.txt|.|2
+twins|.|bbc1785.txt|.|2
+number|.|bbc1738.txt|.|2
+henman|.|bbc1747.txt|.|6
+stewart|.|bbc1458.txt|.|2
+host|.|bbc1715.txt|.|2|.|bbc1177.txt|.|2
+officials|.|bbc461.txt|.|1|.|bbc1719.txt|.|1|.|bbc1611.txt|.|5
+downing|.|bbc1458.txt|.|2
+zealand|.|bbc1715.txt|.|4|.|bbc1621.txt|.|2
+finish|.|bbc1496.txt|.|2
+ten|.|bbc1453.txt|.|2
+australian rugby|.|bbc1715.txt|.|2
+rain|.|bbc1747.txt|.|2
+assistants|.|bbc1453.txt|.|1
+champions|.|bbc1549.txt|.|3|.|bbc1454.txt|.|2|.|bbc1496.txt|.|3|.|bbc1449.txt|.|1|.|bbc1473.txt|.|5
+hashemian|.|bbc1449.txt|.|2
+judo|.|bbc1449.txt|.|2
+game was handled|.|bbc1611.txt|.|1
+rijkaard|.|bbc1453.txt|.|4
+ljubicic|.|bbc1738.txt|.|4|.|bbc1747.txt|.|2
+camp|.|bbc1332.txt|.|2|.|bbc1496.txt|.|2|.|bbc1050.txt|.|3
+captains|.|bbc1652.txt|.|2
+bob|.|bbc1785.txt|.|2
+pelous|.|bbc1652.txt|.|2
+southern hemisphere|.|bbc1715.txt|.|2
+fight to finish|.|bbc1496.txt|.|1
+alive|.|bbc1785.txt|.|2
+spokesman said|.|bbc1449.txt|.|2
+bob bryan|.|bbc1785.txt|.|2
+bullock|.|bbc1652.txt|.|2
+frustrating|.|bbc1747.txt|.|2
+expects|.|bbc1496.txt|.|2
+new zealand|.|bbc1715.txt|.|4|.|bbc1621.txt|.|2
+sydney to host|.|bbc1715.txt|.|1
+graz|.|bbc1458.txt|.|2
+nou|.|bbc1496.txt|.|2
+hemisphere|.|bbc1715.txt|.|2|.|bbc1652.txt|.|2
+charity match|.|bbc1715.txt|.|4
+decisions|.|bbc1611.txt|.|4
+hamstring|.|bbc1368.txt|.|4|.|bbc1458.txt|.|2
+umpire|.|bbc1747.txt|.|2
+witnessed|.|bbc1453.txt|.|2
+nou camp|.|bbc1496.txt|.|2
+aid match|.|bbc1652.txt|.|2
+cate|.|bbc1453.txt|.|2
+mcclaren|.|bbc1458.txt|.|4|.|bbc1535.txt|.|5
+spokesman|.|bbc977.txt|.|2|.|bbc1449.txt|.|2
+boro|.|bbc1458.txt|.|2|.|bbc1535.txt|.|3
+looked|.|bbc1738.txt|.|1
+match|.|bbc1715.txt|.|6|.|bbc1458.txt|.|2|.|bbc1453.txt|.|3|.|bbc1738.txt|.|3|.|bbc1747.txt|.|2|.|bbc1652.txt|.|3|.|bbc1496.txt|.|3|.|bbc1748.txt|.|3|.|bbc1785.txt|.|3|.|bbc1449.txt|.|2|.|bbc1611.txt|.|3
+dubai|.|bbc1738.txt|.|2|.|bbc1747.txt|.|2
+world number|.|bbc1738.txt|.|2
+ten cate|.|bbc1453.txt|.|2
+mourinho expects|.|bbc1496.txt|.|2
+handled|.|bbc1611.txt|.|1
+ended|.|bbc1747.txt|.|1|.|bbc283.txt|.|1
+rugby union|.|bbc1715.txt|.|2

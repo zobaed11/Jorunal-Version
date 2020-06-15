@@ -1,0 +1,18 @@
+48
+switching|.|bbc1712.txt|.|1
+own man|.|bbc1688.txt|.|2
+rugby|.|bbc1715.txt|.|5|.|bbc1682.txt|.|4|.|bbc1708.txt|.|4|.|bbc1677.txt|.|5|.|bbc1712.txt|.|3|.|bbc1678.txt|.|5|.|bbc1685.txt|.|3|.|bbc1673.txt|.|8|.|bbc1676.txt|.|3|.|bbc1675.txt|.|6|.|bbc1674.txt|.|2|.|bbc1688.txt|.|3
+students rugby|.|bbc1675.txt|.|3
+professional rugby|.|bbc1673.txt|.|2
+youth|.|bbc1675.txt|.|2
+professional|.|bbc1673.txt|.|3
+switch|.|bbc1712.txt|.|1
+coaches|.|bbc1678.txt|.|1
+year in irish|.|bbc1677.txt|.|1
+pursue|.|bbc1674.txt|.|2
+english rugby|.|bbc1673.txt|.|2|.|bbc1688.txt|.|2
+english|.|bbc1673.txt|.|4|.|bbc1688.txt|.|2
+spectator|.|bbc1685.txt|.|2
+seven years|.|bbc1674.txt|.|2
+saga|.|bbc1712.txt|.|2
+rugby union|.|bbc1715.txt|.|2|.|bbc1712.txt|.|2|.|bbc1673.txt|.|2

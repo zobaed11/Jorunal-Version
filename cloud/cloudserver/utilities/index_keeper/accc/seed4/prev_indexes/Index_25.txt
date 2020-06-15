@@ -1,0 +1,187 @@
+qualified|.|WET5712.txt|.|63
+concession|.|WET5277.txt|.|2
+answers|.|WET6649.txt|.|23
+videos|.|WET6649.txt|.|11
+type|.|WET6297.txt|.|3|.|WET5872.txt|.|2|.|WET5824.txt|.|9|.|WET6833.txt|.|1|.|WET5640.txt|.|1|.|WET5446.txt|.|1
+expertise|.|WET5277.txt|.|2
+april|.|WET5812.txt|.|51
+cart|.|WET6184.txt|.|6
+digital library|.|WET5277.txt|.|2
+robot|.|WET5076.txt|.|2
+ron kaye|.|WET5812.txt|.|4
+twitter|.|WET5886.txt|.|18
+forums|.|WET6288.txt|.|37
+vendidos buenos|.|WET5812.txt|.|6
+roller coaster|.|WET5446.txt|.|1
+engines|.|WET6025.txt|.|2
+record|.|WET6297.txt|.|1
+block|.|WET5640.txt|.|1
+recent|.|WET6649.txt|.|23
+shopping|.|WET6184.txt|.|3
+pathfinder|.|WET5724.txt|.|139
+information or other content|.|WET5076.txt|.|1
+activity recent corral|.|WET6649.txt|.|11
+amateur radio|.|WET6184.txt|.|40
+training dog|.|WET6649.txt|.|11
+labor|.|WET5277.txt|.|10
+animation|.|WET6025.txt|.|1|.|WET5293.txt|.|2
+innovative|.|WET5076.txt|.|1
+dogster|.|WET6649.txt|.|78
+books|.|WET5055.txt|.|31
+stop|.|WET5712.txt|.|189
+grooming|.|WET6649.txt|.|13
+animal|.|WET6303.txt|.|2
+coaster|.|WET5446.txt|.|1
+dog|.|WET6649.txt|.|196|.|WET5886.txt|.|27
+roller|.|WET5446.txt|.|1
+questions asked|.|WET5712.txt|.|51
+status|.|WET6025.txt|.|2
+love|.|WET6649.txt|.|44|.|WET5446.txt|.|13
+stems|.|WET5076.txt|.|1
+server|.|WET6025.txt|.|34
+uniform pants|.|WET6184.txt|.|5
+activity|.|WET6649.txt|.|22
+comics|.|WET5724.txt|.|18
+north|.|WET6224.txt|.|38
+literary|.|WET5055.txt|.|6
+classical|.|WET5712.txt|.|6
+protection|.|WET5872.txt|.|27
+grooming answers dog|.|WET6649.txt|.|10
+warc|.|WET5872.txt|.|11|.|WET5812.txt|.|11|.|WET5293.txt|.|11|.|WET5712.txt|.|11|.|WET6303.txt|.|11|.|WET6833.txt|.|11|.|WET5076.txt|.|11|.|WET6288.txt|.|11|.|WET5446.txt|.|11|.|WET6229.txt|.|11|.|WET6146.txt|.|11|.|WET6025.txt|.|11|.|WET6297.txt|.|11|.|WET6224.txt|.|11|.|WET6184.txt|.|11|.|WET6649.txt|.|11|.|WET5824.txt|.|11|.|WET5863.txt|.|11|.|WET5055.txt|.|11|.|WET5886.txt|.|11|.|WET5640.txt|.|11|.|WET4986.txt|.|11|.|WET5843.txt|.|11|.|WET5724.txt|.|11
+networks|.|WET5076.txt|.|4
+fiction history literary|.|WET5055.txt|.|6
+products|.|WET5724.txt|.|20
+uniform|.|WET6184.txt|.|6
+search|.|WET6025.txt|.|10
+library|.|WET5277.txt|.|62
+asked|.|WET5712.txt|.|51
+december|.|WET5812.txt|.|103
+cwsrf|.|WET5277.txt|.|24
+mit|.|WET5712.txt|.|56
+networks connected|.|WET5076.txt|.|2
+email|.|WET6184.txt|.|153|.|WET5812.txt|.|17
+licensing|.|WET6184.txt|.|31
+witnessed|.|WET5277.txt|.|4
+address|.|WET5812.txt|.|3
+vendidos|.|WET5812.txt|.|18
+information on historical|.|WET5277.txt|.|2
+manager|.|WET6184.txt|.|48
+walter|.|WET5886.txt|.|22
+scouting|.|WET5277.txt|.|2
+learn|.|WET6184.txt|.|86
+email learn|.|WET6184.txt|.|63
+mechanics|.|WET5712.txt|.|6
+services|.|WET6184.txt|.|9
+svm|.|WET5076.txt|.|2
+bakespace|.|WET6229.txt|.|66
+great|.|WET5055.txt|.|30
+march|.|WET5812.txt|.|85
+opinion|.|WET5293.txt|.|2|.|WET5724.txt|.|2
+releases|.|WET5055.txt|.|12
+connected|.|WET5076.txt|.|2
+face|.|WET6224.txt|.|36
+police|.|WET6184.txt|.|18
+simon|.|WET5055.txt|.|57
+european delivery|.|WET6288.txt|.|11
+information|.|WET5277.txt|.|234|.|WET5076.txt|.|38
+z|.|WET5055.txt|.|8
+popularhighest|.|WET6224.txt|.|16
+atom|.|WET5076.txt|.|2|.|WET5446.txt|.|2
+statistics|.|WET5277.txt|.|6
+date|.|WET6025.txt|.|6|.|WET5293.txt|.|19
+popularhighest ratednew|.|WET6224.txt|.|16
+tv|.|WET6229.txt|.|21
+data|.|WET5872.txt|.|56
+pants|.|WET6184.txt|.|8
+fiction|.|WET5055.txt|.|27
+lr|.|WET5277.txt|.|2
+subject|.|WET5712.txt|.|198
+questions|.|WET5712.txt|.|294
+historical|.|WET5277.txt|.|8
+office|.|WET6303.txt|.|38
+blog|.|WET5872.txt|.|13|.|WET5812.txt|.|25|.|WET5824.txt|.|13|.|WET5724.txt|.|41|.|WET5446.txt|.|24
+bmw|.|WET6288.txt|.|136
+radio|.|WET6184.txt|.|69
+subject mit|.|WET5712.txt|.|54
+hit|.|WET5293.txt|.|1|.|WET6303.txt|.|2|.|WET5886.txt|.|3
+bureau of labor statistics|.|WET5277.txt|.|4
+helper|.|WET5712.txt|.|42
+bmw forums|.|WET6288.txt|.|17
+dogs more videos|.|WET6649.txt|.|10
+corral|.|WET6649.txt|.|11
+members|.|WET5712.txt|.|194
+shopping cart|.|WET6184.txt|.|3
+dogs|.|WET6649.txt|.|95
+data protection|.|WET5872.txt|.|23
+pal|.|WET6649.txt|.|12
+bureau|.|WET5277.txt|.|16
+new|.|WET5055.txt|.|36
+studying|.|WET5712.txt|.|189
+name server|.|WET6025.txt|.|7
+north face|.|WET6224.txt|.|36
+author|.|WET5055.txt|.|27
+european|.|WET6288.txt|.|11
+archive|.|WET6025.txt|.|2|.|WET6303.txt|.|3|.|WET5724.txt|.|10
+questions online|.|WET5712.txt|.|189
+history|.|WET5055.txt|.|6
+ratednew|.|WET6224.txt|.|16
+users|.|WET5076.txt|.|23
+pants police|.|WET6184.txt|.|5
+studying subject|.|WET5712.txt|.|186
+interact with other users|.|WET5076.txt|.|1
+core|.|WET5293.txt|.|2|.|WET5724.txt|.|4
+hybrid|.|WET6303.txt|.|2|.|WET5724.txt|.|3
+nfl|.|WET5886.txt|.|43
+name|.|WET6025.txt|.|36
+clothing|.|WET6224.txt|.|30
+boosts|.|WET5872.txt|.|1
+police uniform|.|WET6184.txt|.|6
+party|.|WET6303.txt|.|42
+qualified helper|.|WET5712.txt|.|36
+trust|.|WET5886.txt|.|3
+search engines|.|WET6025.txt|.|2
+pathfinder comics|.|WET5724.txt|.|7
+backcountry|.|WET6224.txt|.|29
+fox news|.|WET6833.txt|.|78
+purchasing|.|WET5076.txt|.|2
+cat and dog|.|WET6649.txt|.|15
+email address|.|WET5812.txt|.|3
+privacy|.|WET5872.txt|.|2|.|WET5824.txt|.|14|.|WET5724.txt|.|4
+new releases coming|.|WET5055.txt|.|6
+interact|.|WET5076.txt|.|2
+classical mechanics|.|WET5712.txt|.|6
+amateur|.|WET6184.txt|.|51
+training|.|WET6649.txt|.|40
+content|.|WET6146.txt|.|1|.|WET5872.txt|.|5|.|WET5824.txt|.|2|.|WET5293.txt|.|8|.|WET6833.txt|.|1|.|WET5640.txt|.|2|.|WET5076.txt|.|48
+fox|.|WET6833.txt|.|147
+ron|.|WET5812.txt|.|6
+kaye|.|WET5812.txt|.|5
+backcountry news|.|WET6224.txt|.|18
+bakespace tv|.|WET6229.txt|.|21
+cat|.|WET6649.txt|.|39
+hedges|.|WET5277.txt|.|2
+stop studying|.|WET5712.txt|.|189
+company|.|WET6303.txt|.|37
+vote|.|WET6303.txt|.|3|.|WET5724.txt|.|2
+conversion|.|WET6229.txt|.|11|.|WET6146.txt|.|11|.|WET6297.txt|.|11|.|WET6224.txt|.|11|.|WET5824.txt|.|11|.|WET5863.txt|.|11|.|WET6833.txt|.|11|.|WET5640.txt|.|11|.|WET4986.txt|.|11|.|WET6288.txt|.|11|.|WET5843.txt|.|11|.|WET5446.txt|.|11
+services manager|.|WET6184.txt|.|6
+news|.|WET6224.txt|.|18|.|WET6833.txt|.|104
+digital|.|WET5277.txt|.|31
+delivery|.|WET6288.txt|.|13
+sports|.|WET5886.txt|.|74
+schuster|.|WET5055.txt|.|51
+pal activity recent|.|WET6649.txt|.|11
+purchase|.|WET6303.txt|.|2
+length|.|WET6146.txt|.|7
+threads|.|WET6288.txt|.|37
+target|.|WET6833.txt|.|1
+home|.|WET5824.txt|.|19
+forum|.|WET6288.txt|.|28
+print|.|WET5824.txt|.|29
+nuevo|.|WET5812.txt|.|44
+service|.|WET6184.txt|.|53
+opinions|.|WET5812.txt|.|3
+online|.|WET5712.txt|.|389
+comment|.|WET6025.txt|.|30
+buenos|.|WET5812.txt|.|21
+coming|.|WET5055.txt|.|6

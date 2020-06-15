@@ -1,0 +1,43 @@
+34
+detailed proposals|.|bbc229.txt|.|1
+manchester united|.|bbc1414.txt|.|2|.|bbc1544.txt|.|2|.|bbc229.txt|.|3|.|bbc1437.txt|.|2
+sack|.|bbc1439.txt|.|1|.|bbc1512.txt|.|2
+united|.|bbc1439.txt|.|4|.|bbc1414.txt|.|10|.|bbc1544.txt|.|3|.|bbc1411.txt|.|3|.|bbc1501.txt|.|4|.|bbc1568.txt|.|3|.|bbc229.txt|.|8|.|bbc1437.txt|.|3
+fulham|.|bbc1568.txt|.|2
+tannadice|.|bbc1439.txt|.|2
+bitter and personal|.|bbc1501.txt|.|2
+rooney|.|bbc1414.txt|.|7
+ian mccall|.|bbc1439.txt|.|3
+neville|.|bbc1414.txt|.|3
+bitter|.|bbc1501.txt|.|2
+gary|.|bbc1414.txt|.|2
+encounters|.|bbc1501.txt|.|1
+mccall|.|bbc1439.txt|.|6
+gap|.|bbc1568.txt|.|2
+tycoon|.|bbc229.txt|.|2
+wayne rooney|.|bbc1414.txt|.|2
+manchester city|.|bbc1414.txt|.|2|.|bbc1567.txt|.|2
+man|.|bbc1414.txt|.|4|.|bbc565.txt|.|2|.|bbc587.txt|.|1|.|bbc568.txt|.|2|.|bbc1688.txt|.|2
+wayne|.|bbc1414.txt|.|2
+knows|.|bbc1411.txt|.|3
+latest|.|bbc1884.txt|.|2|.|bbc2134.txt|.|2|.|bbc1865.txt|.|2|.|bbc2006.txt|.|3|.|bbc229.txt|.|3
+said ferdinand|.|bbc1437.txt|.|1
+utd|.|bbc1414.txt|.|2
+new contract|.|bbc1411.txt|.|2
+old|.|bbc1840.txt|.|1|.|bbc1501.txt|.|1
+glazer|.|bbc229.txt|.|8|.|bbc1437.txt|.|7
+ronaldo|.|bbc1411.txt|.|3
+footballing|.|bbc1535.txt|.|1|.|bbc1544.txt|.|1
+us tycoon|.|bbc229.txt|.|2
+manchester|.|bbc900.txt|.|5|.|bbc1414.txt|.|4|.|bbc1226.txt|.|5|.|bbc1544.txt|.|2|.|bbc1567.txt|.|2|.|bbc229.txt|.|3|.|bbc1437.txt|.|2
+dundee|.|bbc1439.txt|.|4|.|bbc806.txt|.|2
+confirm|.|bbc1437.txt|.|1
+reprieve|.|bbc1439.txt|.|2
+gunners|.|bbc1501.txt|.|2
+man city|.|bbc1414.txt|.|2
+man utd|.|bbc1414.txt|.|2
+detailed|.|bbc229.txt|.|2
+mr glazer|.|bbc229.txt|.|6
+gary neville|.|bbc1414.txt|.|1
+fantastic|.|bbc1568.txt|.|2
+proposals|.|bbc897.txt|.|3|.|bbc229.txt|.|2|.|bbc1437.txt|.|2

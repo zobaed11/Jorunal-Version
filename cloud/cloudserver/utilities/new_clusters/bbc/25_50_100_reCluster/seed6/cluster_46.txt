@@ -1,0 +1,18 @@
+46
+civil servants|.|bbc1106.txt|.|5|.|bbc1052.txt|.|1
+waiting less than|.|bbc1017.txt|.|1
+waiting times|.|bbc1017.txt|.|3
+strike across wales|.|bbc1106.txt|.|1
+shane|.|bbc1625.txt|.|5|.|bbc1729.txt|.|5
+tom shanklin|.|bbc1625.txt|.|2|.|bbc1729.txt|.|2
+hutt said|.|bbc1017.txt|.|3
+federation has said|.|bbc1135.txt|.|1
+wales|.|bbc1081.txt|.|4|.|bbc1625.txt|.|9|.|bbc1135.txt|.|2|.|bbc1604.txt|.|8|.|bbc1106.txt|.|11|.|bbc1017.txt|.|8|.|bbc1661.txt|.|3|.|bbc1716.txt|.|7|.|bbc1729.txt|.|9
+shane williams|.|bbc1625.txt|.|5|.|bbc1729.txt|.|5
+current target|.|bbc1017.txt|.|2
+current|.|bbc1017.txt|.|3
+striking civil servants|.|bbc1106.txt|.|1
+striking|.|bbc1106.txt|.|1
+monthly waiting|.|bbc1017.txt|.|2
+hutt|.|bbc1017.txt|.|4
+shanklin|.|bbc1625.txt|.|4|.|bbc1646.txt|.|3|.|bbc1729.txt|.|4

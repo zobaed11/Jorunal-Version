@@ -1,0 +1,22 @@
+30
+eurosceptic|.|bbc1184.txt|.|2
+independence party|.|bbc1177.txt|.|2|.|bbc1184.txt|.|2
+autumn conference|.|bbc900.txt|.|2|.|bbc1226.txt|.|2
+labour party|.|bbc900.txt|.|2|.|bbc1226.txt|.|2
+working class|.|bbc900.txt|.|2|.|bbc1226.txt|.|2
+said in a statement|.|bbc1108.txt|.|1
+hockney said|.|bbc1184.txt|.|2
+bournemouth|.|bbc900.txt|.|2|.|bbc1226.txt|.|2
+uk independence|.|bbc1177.txt|.|2|.|bbc1184.txt|.|2
+quits|.|bbc1177.txt|.|1|.|bbc1300.txt|.|1
+independence|.|bbc1177.txt|.|2|.|bbc1184.txt|.|2
+robert|.|bbc1166.txt|.|4|.|bbc1177.txt|.|2|.|bbc1184.txt|.|2
+conservatives|.|bbc1307.txt|.|1|.|bbc1200.txt|.|2|.|bbc1108.txt|.|1
+peter|.|bbc1307.txt|.|2
+show host|.|bbc1177.txt|.|2
+autumn|.|bbc900.txt|.|2|.|bbc1226.txt|.|2
+new ukip|.|bbc1184.txt|.|1
+class|.|bbc900.txt|.|2|.|bbc1226.txt|.|2
+london assembly|.|bbc1184.txt|.|2
+party|.|bbc1307.txt|.|8|.|bbc1200.txt|.|2|.|bbc987.txt|.|2|.|bbc1021.txt|.|2|.|bbc900.txt|.|6|.|bbc1177.txt|.|14|.|bbc1226.txt|.|6|.|bbc1192.txt|.|2|.|bbc1180.txt|.|11|.|bbc1108.txt|.|4|.|bbc1184.txt|.|6
+eurosceptic party|.|bbc1184.txt|.|2

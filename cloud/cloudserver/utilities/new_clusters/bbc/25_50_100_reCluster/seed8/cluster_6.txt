@@ -1,0 +1,35 @@
+6
+exporting|.|bbc427.txt|.|1
+china and italy|.|bbc1445.txt|.|2
+consume|.|bbc2208.txt|.|2
+big four|.|bbc498.txt|.|2
+totalling|.|bbc427.txt|.|1
+property|.|bbc342.txt|.|2
+missing|.|bbc1402.txt|.|3|.|bbc498.txt|.|2
+ripe|.|bbc2208.txt|.|2
+huge|.|bbc2208.txt|.|2
+brian|.|bbc1445.txt|.|2
+exporters|.|bbc427.txt|.|1
+banks|.|bbc1855.txt|.|5|.|bbc498.txt|.|7
+chinese wine|.|bbc39.txt|.|3
+bank of china|.|bbc498.txt|.|6
+kerr|.|bbc1445.txt|.|1
+investment|.|bbc286.txt|.|2|.|bbc501.txt|.|3|.|bbc2208.txt|.|4|.|bbc70.txt|.|2
+saronno|.|bbc39.txt|.|2
+honda|.|bbc342.txt|.|3
+qualifiers|.|bbc1445.txt|.|2
+new media|.|bbc2208.txt|.|3
+intellectual|.|bbc342.txt|.|2
+brian kerr|.|bbc1445.txt|.|1
+list|.|bbc2165.txt|.|4|.|bbc498.txt|.|3
+explosion|.|bbc2208.txt|.|1
+four banks|.|bbc498.txt|.|2
+ministry of commerce|.|bbc427.txt|.|2
+property rights|.|bbc342.txt|.|2
+china|.|bbc427.txt|.|4|.|bbc1445.txt|.|5|.|bbc77.txt|.|3|.|bbc39.txt|.|3|.|bbc286.txt|.|4|.|bbc342.txt|.|6|.|bbc498.txt|.|13|.|bbc2208.txt|.|8
+intellectual property|.|bbc342.txt|.|2
+breakneck|.|bbc286.txt|.|2
+exporters totalling|.|bbc427.txt|.|1
+illva saronno|.|bbc39.txt|.|2
+foreign investment|.|bbc2208.txt|.|3
+cup qualifiers|.|bbc1445.txt|.|2

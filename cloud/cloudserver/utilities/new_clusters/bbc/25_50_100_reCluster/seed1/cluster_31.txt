@@ -1,0 +1,73 @@
+31
+programs bittorrent|.|bbc2065.txt|.|2
+qualified|.|bbc1550.txt|.|2
+greeted|.|bbc546.txt|.|2
+who run|.|bbc2065.txt|.|2
+doris|.|bbc634.txt|.|2
+movie|.|bbc2065.txt|.|3
+officer|.|bbc949.txt|.|2
+moreno|.|bbc834.txt|.|3
+who had already qualified|.|bbc1550.txt|.|2
+episode|.|bbc686.txt|.|1
+express|.|bbc546.txt|.|3
+anna|.|bbc708.txt|.|2
+launched|.|bbc2204.txt|.|1|.|bbc2065.txt|.|2
+bayer leverkusen|.|bbc1550.txt|.|2
+bremen|.|bbc1550.txt|.|1
+officer who|.|bbc949.txt|.|2
+venice|.|bbc708.txt|.|1
+gimme gimme|.|bbc708.txt|.|2
+rare|.|bbc834.txt|.|1
+leicester|.|bbc546.txt|.|2
+bedside table|.|bbc651.txt|.|2
+ac|.|bbc1550.txt|.|2
+praised|.|bbc651.txt|.|1
+beach boys|.|bbc634.txt|.|2
+osbourne said|.|bbc716.txt|.|1|.|bbc651.txt|.|2
+martin clunes in doc|.|bbc708.txt|.|1
+werder bremen|.|bbc1550.txt|.|1
+careers|.|bbc1554.txt|.|1
+square|.|bbc546.txt|.|3
+boothroyd has said|.|bbc1183.txt|.|1|.|bbc1013.txt|.|1
+melcher dies|.|bbc634.txt|.|1
+boothroyd|.|bbc1183.txt|.|4|.|bbc1013.txt|.|4
+british authorities|.|bbc949.txt|.|2
+doc|.|bbc708.txt|.|1
+who|.|bbc949.txt|.|5|.|bbc1554.txt|.|2|.|bbc686.txt|.|3|.|bbc1183.txt|.|3|.|bbc834.txt|.|3|.|bbc1411.txt|.|2|.|bbc546.txt|.|3|.|bbc1013.txt|.|3|.|bbc2065.txt|.|4|.|bbc708.txt|.|2|.|bbc1550.txt|.|2|.|bbc1748.txt|.|2|.|bbc634.txt|.|2|.|bbc651.txt|.|7|.|bbc1170.txt|.|2
+wedding ring|.|bbc651.txt|.|1
+sue|.|bbc2065.txt|.|2
+memory|.|bbc1170.txt|.|2
+people who|.|bbc2065.txt|.|3
+movie industry|.|bbc2065.txt|.|2
+said she believed|.|bbc1183.txt|.|2|.|bbc1013.txt|.|2
+sandino|.|bbc834.txt|.|2
+polar express|.|bbc546.txt|.|3
+final game|.|bbc1554.txt|.|2
+eyes|.|bbc1170.txt|.|2
+comeback|.|bbc686.txt|.|3
+bayer|.|bbc1550.txt|.|2
+leverkusen|.|bbc1550.txt|.|2
+sitcom|.|bbc686.txt|.|2
+ac milan|.|bbc1550.txt|.|2
+doris day|.|bbc634.txt|.|2
+records as a producer|.|bbc634.txt|.|1
+retired|.|bbc1554.txt|.|1
+believed|.|bbc1183.txt|.|2|.|bbc1013.txt|.|2
+live|.|bbc949.txt|.|2
+table|.|bbc651.txt|.|2
+polar|.|bbc546.txt|.|3
+legal action|.|bbc2065.txt|.|2
+praised by police|.|bbc651.txt|.|1
+live like|.|bbc949.txt|.|2
+sandino moreno|.|bbc834.txt|.|2
+new contract|.|bbc1411.txt|.|2
+intruder|.|bbc651.txt|.|2
+clunes|.|bbc708.txt|.|1
+bedside|.|bbc651.txt|.|2
+leicester square|.|bbc546.txt|.|2
+who played|.|bbc686.txt|.|2
+actresses|.|bbc834.txt|.|2
+starring in a friends|.|bbc686.txt|.|1
+werder|.|bbc1550.txt|.|1
+nominated|.|bbc834.txt|.|1
+lords speaker|.|bbc1183.txt|.|2|.|bbc1013.txt|.|2

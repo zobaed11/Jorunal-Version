@@ -1,0 +1,27 @@
+8
+text request|.|rfc3720.txt|.|53
+putscript|.|rfc5804.txt|.|14
+triggered update|.|rfc2080.txt|.|10
+noop|.|rfc5804.txt|.|13
+connected network|.|rfc2080.txt|.|1
+split|.|rfc2080.txt|.|15
+structure to a network|.|rfc3720.txt|.|1
+mechanisms are designed|.|rfc3720.txt|.|1
+script name|.|rfc5804.txt|.|22
+tag|.|rfc3720.txt|.|209|.|rfc2506.txt|.|52|.|rfc4034.txt|.|55|.|rfc5131.txt|.|7|.|rfc2565.txt|.|40|.|rfc2910.txt|.|28
+iscsi target|.|rfc3720.txt|.|57
+designed|.|rfc3720.txt|.|7
+initiator and target|.|rfc3720.txt|.|73
+deletescript|.|rfc5804.txt|.|10
+checkscript|.|rfc5804.txt|.|9
+imap auth|.|rfc2195.txt|.|1
+metz|.|rfc2243.txt|.|13
+structure|.|rfc3720.txt|.|12|.|rfc4839.txt|.|4
+secret pass|.|rfc2243.txt|.|6
+target transfer tag|.|rfc3720.txt|.|73
+re|.|rfc2243.txt|.|2
+code is returned|.|rfc5804.txt|.|12
+response|.|rfc5804.txt|.|190|.|rfc6230.txt|.|103|.|rfc3720.txt|.|385|.|rfc2243.txt|.|44|.|rfc2080.txt|.|38|.|rfc5216.txt|.|13|.|rfc5034.txt|.|27|.|rfc6287.txt|.|38|.|rfc2195.txt|.|2|.|rfc305.txt|.|2|.|rfc2910.txt|.|48
+expected data|.|rfc3720.txt|.|19
+response message|.|rfc2080.txt|.|4
+returned|.|rfc5804.txt|.|53

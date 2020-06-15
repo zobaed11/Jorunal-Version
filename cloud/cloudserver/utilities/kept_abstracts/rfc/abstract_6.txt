@@ -1,0 +1,12 @@
+6
+dedicated
+ip packet
+edi mime
+modifier
+tnc message
+validator
+rsvp capable
+mn ha
+controlled proxy
+disposition modifier
+mdn gateway

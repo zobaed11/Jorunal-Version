@@ -1,0 +1,179 @@
+college|.|WET6506.txt|.|38
+pdt|.|WET6843.txt|.|102
+placed|.|WET5841.txt|.|20
+education|.|WET6506.txt|.|30
+select|.|WET6248.txt|.|72
+ad ends|.|WET5841.txt|.|20
+latest video|.|WET6002.txt|.|15
+wigs|.|WET5977.txt|.|2
+american|.|WET5977.txt|.|119
+analyst interviews|.|WET6002.txt|.|10
+type|.|WET5841.txt|.|2|.|WET5816.txt|.|3|.|WET5661.txt|.|3|.|WET6626.txt|.|8|.|WET6227.txt|.|1|.|WET6135.txt|.|2|.|WET5207.txt|.|8|.|WET5658.txt|.|1|.|WET6701.txt|.|1
+com march|.|WET5768.txt|.|20
+cart|.|WET6184.txt|.|6
+secondary mathematics class|.|WET5207.txt|.|6
+forums|.|WET6647.txt|.|98
+composite|.|WET5049.txt|.|2
+review|.|WET5768.txt|.|24
+fat|.|WET6814.txt|.|86
+dresses|.|WET6248.txt|.|127
+us and select|.|WET6248.txt|.|36
+killer|.|WET5768.txt|.|76
+animals|.|WET5768.txt|.|17
+meeting|.|WET6191.txt|.|29
+ram|.|WET6647.txt|.|165
+whitewashing|.|WET5977.txt|.|1
+shopping|.|WET6184.txt|.|3
+order|.|WET6248.txt|.|77
+forums dodge|.|WET6647.txt|.|44
+apr|.|WET6002.txt|.|162
+ad|.|WET5841.txt|.|58
+varsity|.|WET6506.txt|.|18
+markdowns|.|WET6248.txt|.|61
+neighborhoods|.|WET6314.txt|.|2
+amateur radio|.|WET6184.txt|.|40
+personal|.|WET6135.txt|.|2
+book review|.|WET5768.txt|.|13
+secondary|.|WET5207.txt|.|8
+innovations|.|WET5977.txt|.|2
+post reply|.|WET6843.txt|.|100
+ad placed|.|WET5841.txt|.|20
+replies|.|WET6843.txt|.|150
+boost|.|WET6506.txt|.|3|.|WET6314.txt|.|2
+status|.|WET6314.txt|.|4|.|WET6248.txt|.|33
+love|.|WET5768.txt|.|62
+handbags|.|WET6227.txt|.|33
+archives|.|WET5709.txt|.|2
+total fat|.|WET6814.txt|.|55
+uniform pants|.|WET6184.txt|.|5
+artist|.|WET6128.txt|.|18
+bags|.|WET6248.txt|.|57
+robotics|.|WET6314.txt|.|1
+dodge durango|.|WET6647.txt|.|62
+warc|.|WET5709.txt|.|11|.|WET6626.txt|.|11|.|WET6002.txt|.|11|.|WET5658.txt|.|11|.|WET6814.txt|.|11|.|WET6647.txt|.|11|.|WET6701.txt|.|11|.|WET6191.txt|.|11|.|WET6128.txt|.|11|.|WET6314.txt|.|11|.|WET5841.txt|.|11|.|WET5816.txt|.|11|.|WET5661.txt|.|11|.|WET6184.txt|.|11|.|WET5768.txt|.|11|.|WET6227.txt|.|11|.|WET6506.txt|.|11|.|WET6135.txt|.|11|.|WET5207.txt|.|11|.|WET5378.txt|.|11|.|WET6648.txt|.|11|.|WET5977.txt|.|11|.|WET6843.txt|.|11|.|WET5049.txt|.|11
+uniform|.|WET6184.txt|.|6
+skirts shorts pants|.|WET6248.txt|.|35
+search|.|WET6135.txt|.|20|.|WET5049.txt|.|5
+top|.|WET6002.txt|.|17
+add to recipe|.|WET6814.txt|.|8
+room booking|.|WET6191.txt|.|22
+native|.|WET5977.txt|.|192
+view replies|.|WET6843.txt|.|100
+search sign|.|WET5049.txt|.|3
+genre|.|WET5977.txt|.|2
+top video|.|WET6002.txt|.|5
+dodge truck|.|WET6647.txt|.|32
+durango|.|WET6647.txt|.|63
+free|.|WET6626.txt|.|266
+shorts|.|WET6248.txt|.|35
+email|.|WET5709.txt|.|28|.|WET6184.txt|.|153
+licensing|.|WET6184.txt|.|31
+latest|.|WET6002.txt|.|21
+mar|.|WET6002.txt|.|80
+policy|.|WET6135.txt|.|14
+giveaway|.|WET5768.txt|.|18
+innovation|.|WET6506.txt|.|2
+sweaters|.|WET6248.txt|.|68
+dodge|.|WET6647.txt|.|543
+salt|.|WET6814.txt|.|43
+manager|.|WET6184.txt|.|48
+learn|.|WET6184.txt|.|86
+evening shoe|.|WET6227.txt|.|42
+topics|.|WET6843.txt|.|14
+email learn|.|WET6184.txt|.|63
+jumpsuits|.|WET6248.txt|.|37
+photo|.|WET5049.txt|.|66
+plus free|.|WET6626.txt|.|95
+services|.|WET6184.txt|.|9
+food|.|WET6814.txt|.|50
+march|.|WET5768.txt|.|215
+urn|.|WET5816.txt|.|1
+unicorns|.|WET5768.txt|.|107
+hits|.|WET6314.txt|.|1
+multimedia|.|WET6002.txt|.|2
+pm pdt|.|WET6843.txt|.|52
+promotions|.|WET5049.txt|.|1
+police|.|WET6184.txt|.|18
+evening|.|WET6227.txt|.|52
+meeting room|.|WET6191.txt|.|22
+span|.|WET6227.txt|.|99
+date|.|WET5378.txt|.|4
+com|.|WET5768.txt|.|20
+booking|.|WET6191.txt|.|22
+pants|.|WET6184.txt|.|8|.|WET6248.txt|.|49
+blogs|.|WET5661.txt|.|5|.|WET6506.txt|.|25
+sign|.|WET5841.txt|.|16|.|WET5049.txt|.|24
+voting|.|WET6314.txt|.|1
+dim|.|WET6314.txt|.|2
+blog|.|WET5768.txt|.|16|.|WET6128.txt|.|38|.|WET6314.txt|.|66|.|WET6843.txt|.|8|.|WET5049.txt|.|28
+interviews|.|WET6002.txt|.|21
+radio|.|WET6184.txt|.|69
+view|.|WET6227.txt|.|80|.|WET6843.txt|.|106|.|WET6248.txt|.|369
+skirts|.|WET6248.txt|.|46
+post|.|WET6843.txt|.|124
+shipping|.|WET5709.txt|.|4
+account order status|.|WET6248.txt|.|33
+shopping cart|.|WET6184.txt|.|3
+talk|.|WET6647.txt|.|307
+details|.|WET6227.txt|.|57
+robots|.|WET5709.txt|.|2
+jumpsuits and rompers|.|WET6248.txt|.|37
+stock|.|WET6002.txt|.|39
+reply|.|WET6843.txt|.|200
+day|.|WET5709.txt|.|58
+us|.|WET6248.txt|.|77
+native american|.|WET5977.txt|.|91
+add|.|WET6814.txt|.|26
+new|.|WET6248.txt|.|139
+dodge dakota|.|WET6647.txt|.|72
+purchases|.|WET6248.txt|.|57
+search personal|.|WET6135.txt|.|2
+strap|.|WET6227.txt|.|8
+plus|.|WET6626.txt|.|96
+pants police|.|WET6184.txt|.|5
+view details|.|WET6227.txt|.|54
+emulator|.|WET6843.txt|.|28
+person|.|WET5977.txt|.|25
+ebay|.|WET5709.txt|.|2
+police uniform|.|WET6184.txt|.|6
+sugar|.|WET6814.txt|.|73
+cnbc|.|WET6002.txt|.|80
+private|.|WET6843.txt|.|103
+nexus|.|WET5049.txt|.|24
+mathematics|.|WET5207.txt|.|26
+book|.|WET5768.txt|.|141|.|WET6128.txt|.|27
+truck|.|WET6647.txt|.|98
+recipe|.|WET6814.txt|.|122
+privacy|.|WET5841.txt|.|16|.|WET6128.txt|.|2|.|WET6843.txt|.|2|.|WET5049.txt|.|2
+amateur|.|WET6184.txt|.|51
+video|.|WET6002.txt|.|99
+title|.|WET6135.txt|.|61
+hedge|.|WET6314.txt|.|2
+content|.|WET5816.txt|.|9|.|WET5661.txt|.|2|.|WET6626.txt|.|4
+total|.|WET6814.txt|.|65
+september|.|WET6128.txt|.|31
+ends|.|WET5841.txt|.|21
+talk dodge|.|WET6647.txt|.|88
+class|.|WET5207.txt|.|8
+killer unicorns|.|WET5768.txt|.|61
+search policy|.|WET6135.txt|.|5
+new markdowns dresses|.|WET6248.txt|.|37
+shoe|.|WET6227.txt|.|42
+conversion|.|WET5841.txt|.|11|.|WET5816.txt|.|11|.|WET5661.txt|.|11|.|WET6626.txt|.|11|.|WET6135.txt|.|11|.|WET5207.txt|.|12|.|WET5658.txt|.|11|.|WET6701.txt|.|11|.|WET5378.txt|.|11|.|WET6648.txt|.|11|.|WET6191.txt|.|11
+services manager|.|WET6184.txt|.|6
+rompers|.|WET6248.txt|.|37
+butter|.|WET6814.txt|.|49
+dakota|.|WET6647.txt|.|72
+threads|.|WET6647.txt|.|49
+thread|.|WET5977.txt|.|2
+calories|.|WET6814.txt|.|66
+room|.|WET6191.txt|.|22
+home|.|WET5207.txt|.|19|.|WET6128.txt|.|35
+target|.|WET5841.txt|.|1|.|WET5816.txt|.|1|.|WET6135.txt|.|2
+service|.|WET6184.txt|.|53
+analyst|.|WET6002.txt|.|10
+online|.|WET6506.txt|.|83
+dodge ram|.|WET6647.txt|.|143
+pm|.|WET6843.txt|.|77
+account|.|WET6248.txt|.|44
+private reply|.|WET6843.txt|.|100

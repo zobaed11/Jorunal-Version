@@ -1,0 +1,33 @@
+17
+digitally obese|.|bbc2044.txt|.|2
+electronics|.|bbc2115.txt|.|4|.|bbc1958.txt|.|2
+rising|.|bbc283.txt|.|1|.|bbc175.txt|.|2
+consumer electronics|.|bbc2115.txt|.|4|.|bbc1958.txt|.|2
+consumer confidence|.|bbc361.txt|.|2
+showcasing|.|bbc2115.txt|.|2
+tucker|.|bbc151.txt|.|2
+french consumer|.|bbc175.txt|.|2
+fair|.|bbc2115.txt|.|2
+content|.|bbc2115.txt|.|5
+listen|.|bbc2115.txt|.|2
+gates said|.|bbc1958.txt|.|2
+hold|.|bbc438.txt|.|3|.|bbc151.txt|.|2
+ces|.|bbc2115.txt|.|3|.|bbc1958.txt|.|3
+digitally|.|bbc2044.txt|.|3
+us retailer|.|bbc361.txt|.|1
+conference board|.|bbc361.txt|.|1
+gates opens|.|bbc1958.txt|.|1
+consumer technology|.|bbc2120.txt|.|2
+consumer|.|bbc438.txt|.|5|.|bbc2115.txt|.|5|.|bbc151.txt|.|3|.|bbc1958.txt|.|3|.|bbc440.txt|.|2|.|bbc165.txt|.|5|.|bbc2044.txt|.|3|.|bbc182.txt|.|3|.|bbc2120.txt|.|6|.|bbc322.txt|.|2|.|bbc361.txt|.|4|.|bbc1979.txt|.|2|.|bbc175.txt|.|6
+digital data|.|bbc2044.txt|.|2
+confidence|.|bbc182.txt|.|2|.|bbc361.txt|.|3
+multimedia content|.|bbc2115.txt|.|2
+basis|.|bbc175.txt|.|3
+paul tucker|.|bbc151.txt|.|2
+tvs|.|bbc2120.txt|.|2
+technologies|.|bbc2044.txt|.|1
+rates on hold|.|bbc151.txt|.|2
+multimedia|.|bbc2115.txt|.|2|.|bbc2120.txt|.|2|.|bbc1874.txt|.|3
+interest rates on hold|.|bbc438.txt|.|1
+us consumers|.|bbc361.txt|.|1
+consumer spending|.|bbc438.txt|.|2|.|bbc165.txt|.|5|.|bbc182.txt|.|2|.|bbc175.txt|.|3

@@ -1,0 +1,47 @@
+14
+electronics|.|bbc2115.txt|.|4|.|bbc1958.txt|.|2
+rising|.|bbc283.txt|.|1|.|bbc175.txt|.|2
+consumer electronics|.|bbc2115.txt|.|4|.|bbc1958.txt|.|2
+consumer confidence|.|bbc361.txt|.|2
+gadget|.|bbc2115.txt|.|2|.|bbc1958.txt|.|3|.|bbc2187.txt|.|4
+housing|.|bbc438.txt|.|3|.|bbc459.txt|.|3|.|bbc194.txt|.|2
+showcasing|.|bbc2115.txt|.|2
+french consumer|.|bbc175.txt|.|2
+remains|.|bbc438.txt|.|2
+fiscal year|.|bbc322.txt|.|2
+fair|.|bbc2115.txt|.|2
+content|.|bbc2115.txt|.|5
+listen|.|bbc2115.txt|.|2
+gates said|.|bbc1958.txt|.|2
+hold|.|bbc438.txt|.|3
+ces|.|bbc2115.txt|.|3|.|bbc1958.txt|.|3
+gates|.|bbc1958.txt|.|7
+us retailer|.|bbc361.txt|.|1
+housing market|.|bbc438.txt|.|3|.|bbc459.txt|.|3|.|bbc194.txt|.|2
+price|.|bbc254.txt|.|2|.|bbc176.txt|.|3|.|bbc30.txt|.|4|.|bbc407.txt|.|2|.|bbc210.txt|.|4|.|bbc2066.txt|.|1|.|bbc322.txt|.|1|.|bbc402.txt|.|1|.|bbc385.txt|.|1|.|bbc175.txt|.|1
+mr gates|.|bbc1958.txt|.|5
+conference board|.|bbc361.txt|.|1
+gates opens|.|bbc1958.txt|.|1
+consumers|.|bbc2049.txt|.|5|.|bbc245.txt|.|1|.|bbc361.txt|.|4
+french|.|bbc23.txt|.|4|.|bbc578.txt|.|2|.|bbc1446.txt|.|2|.|bbc182.txt|.|6|.|bbc1025.txt|.|3|.|bbc878.txt|.|4|.|bbc175.txt|.|4
+oil prices|.|bbc182.txt|.|3
+consumer|.|bbc440.txt|.|2|.|bbc438.txt|.|5|.|bbc2115.txt|.|5|.|bbc182.txt|.|3|.|bbc322.txt|.|2|.|bbc1958.txt|.|3|.|bbc361.txt|.|4|.|bbc1979.txt|.|2|.|bbc175.txt|.|6
+interest rates|.|bbc438.txt|.|5|.|bbc402.txt|.|2
+next fiscal|.|bbc322.txt|.|2
+confidence|.|bbc182.txt|.|2|.|bbc361.txt|.|3
+deflation|.|bbc322.txt|.|4
+multimedia content|.|bbc2115.txt|.|2
+thousands|.|bbc1261.txt|.|2|.|bbc2115.txt|.|2|.|bbc2219.txt|.|2
+basis|.|bbc175.txt|.|3
+next fiscal year|.|bbc322.txt|.|2
+multimedia|.|bbc2115.txt|.|2|.|bbc1874.txt|.|3|.|bbc2146.txt|.|3
+fiscal|.|bbc322.txt|.|2
+us economy|.|bbc402.txt|.|2|.|bbc361.txt|.|2|.|bbc416.txt|.|2
+interest rates on hold|.|bbc438.txt|.|1
+unemployment|.|bbc182.txt|.|3|.|bbc253.txt|.|2
+us consumers|.|bbc361.txt|.|1
+french economy|.|bbc23.txt|.|3|.|bbc182.txt|.|2
+opens|.|bbc529.txt|.|1|.|bbc1958.txt|.|1
+survey|.|bbc248.txt|.|1|.|bbc1165.txt|.|3|.|bbc1845.txt|.|2|.|bbc361.txt|.|2
+consumer spending|.|bbc438.txt|.|2|.|bbc182.txt|.|2|.|bbc175.txt|.|3
+debt|.|bbc438.txt|.|2|.|bbc210.txt|.|4|.|bbc491.txt|.|7

@@ -1,0 +1,31 @@
+20
+modem termination systems|.|rfc2670.txt|.|33
+thaler informational|.|rfc3913.txt|.|40
+public filehandle|.|rfc2055.txt|.|30
+source specific|.|rfc3913.txt|.|4
+advancement of mib|.|rfc2438.txt|.|7
+packetcable security|.|rfc4682.txt|.|34
+webnfs clients|.|rfc2055.txt|.|6
+radio|.|rfc2670.txt|.|69|.|rfc5833.txt|.|96
+frequency|.|rfc4184.txt|.|4|.|rfc2670.txt|.|81
+bob braden|.|rfc495.txt|.|2
+security specification|.|rfc4682.txt|.|32
+modem|.|rfc4682.txt|.|11|.|rfc2670.txt|.|79
+mib module|.|rfc5834.txt|.|44|.|rfc4268.txt|.|6|.|rfc4682.txt|.|42|.|rfc5131.txt|.|7|.|rfc2012.txt|.|4|.|rfc5833.txt|.|31|.|rfc4671.txt|.|8
+domain to be local|.|rfc3913.txt|.|2
+protocol specification|.|rfc495.txt|.|4|.|rfc3913.txt|.|44|.|rfc5833.txt|.|99
+packetcable security specification|.|rfc4682.txt|.|32
+message specification|.|rfc5751.txt|.|52
+nsds|.|rfc645.txt|.|12
+standards process|.|rfc5511.txt|.|3|.|rfc3667.txt|.|17|.|rfc2438.txt|.|7
+nsds syntax|.|rfc645.txt|.|3
+specification|.|rfc645.txt|.|14|.|rfc495.txt|.|5|.|rfc2055.txt|.|21|.|rfc4682.txt|.|68|.|rfc3913.txt|.|46|.|rfc2438.txt|.|28|.|rfc2670.txt|.|73|.|rfc5833.txt|.|100|.|rfc5751.txt|.|74
+telnet option|.|rfc495.txt|.|1
+canonical|.|rfc2055.txt|.|8
+interoperable implementations|.|rfc2438.txt|.|5
+network standard|.|rfc645.txt|.|10
+alex|.|rfc495.txt|.|2
+bob|.|rfc495.txt|.|5|.|rfc487.txt|.|2|.|rfc52.txt|.|3
+provisioning specification|.|rfc4682.txt|.|26
+data specification|.|rfc645.txt|.|10
+advancement of mib specifications|.|rfc2438.txt|.|7

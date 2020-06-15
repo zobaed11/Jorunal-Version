@@ -1,0 +1,306 @@
+benchmarking|.|rfc3918.txt|.|42
+haardt|.|rfc5436.txt|.|16
+egress interfaces|.|rfc3918.txt|.|33
+internet engineering|.|rfc6197.txt|.|3
+remote|.|rfc3832.txt|.|42
+parameter values|.|rfc3968.txt|.|21
+voice message routing service|.|rfc4238.txt|.|10
+path|.|rfc5298.txt|.|195
+initiation protocol|.|rfc3968.txt|.|4
+telnet|.|rfc2944.txt|.|11
+diverse lsps|.|rfc5298.txt|.|14
+header fields|.|rfc5727.txt|.|26
+diverse|.|rfc5298.txt|.|45
+rai|.|rfc5727.txt|.|27
+header field|.|rfc5438.txt|.|80|.|rfc5436.txt|.|21|.|rfc3968.txt|.|27
+applicability statement|.|rfc2500.txt|.|11
+information for the internet|.|rfc3199.txt|.|50
+management working group|.|rfc316.txt|.|8
+packet types|.|rfc6284.txt|.|14
+agreement|.|rfc5197.txt|.|18
+data management working|.|rfc316.txt|.|8
+documents a process|.|rfc5727.txt|.|1
+documentation|.|rfc3.txt|.|3
+bill duvall|.|rfc3.txt|.|3
+july|.|rfc3832.txt|.|8
+remote service|.|rfc3832.txt|.|18
+bill|.|rfc3.txt|.|3
+community|.|rfc3199.txt|.|69
+diffie hellman|.|rfc5197.txt|.|5
+packet|.|rfc6284.txt|.|51
+scudder|.|rfc2842.txt|.|7
+standards|.|rfc2944.txt|.|12|.|rfc2842.txt|.|10|.|rfc5436.txt|.|15|.|rfc4238.txt|.|12|.|rfc2500.txt|.|78
+duvall|.|rfc3.txt|.|3
+delay|.|rfc3918.txt|.|40
+submitted|.|rfc5436.txt|.|2
+route|.|rfc5438.txt|.|1
+sender|.|rfc5438.txt|.|81
+memo provides information|.|rfc3199.txt|.|50
+domain|.|rfc5298.txt|.|116|.|rfc3832.txt|.|30
+applicability|.|rfc5197.txt|.|32|.|rfc6041.txt|.|21|.|rfc2500.txt|.|14
+notify tag|.|rfc5436.txt|.|8
+switching|.|rfc5298.txt|.|14
+standards track|.|rfc2944.txt|.|9|.|rfc2842.txt|.|7|.|rfc5436.txt|.|14|.|rfc4238.txt|.|11|.|rfc2500.txt|.|34
+document|.|rfc3199.txt|.|90|.|rfc2944.txt|.|6
+speechsc|.|rfc4313.txt|.|96
+networks|.|rfc5298.txt|.|29
+bcp|.|rfc3968.txt|.|8
+mikey modes applicability|.|rfc5197.txt|.|30
+bases|.|rfc316.txt|.|6
+routing|.|rfc4238.txt|.|32
+current|.|rfc5727.txt|.|19
+communications|.|rfc3769.txt|.|3
+multicast latency|.|rfc3918.txt|.|18
+desired|.|rfc3832.txt|.|9
+provides information|.|rfc3199.txt|.|50
+network working group|.|rfc3.txt|.|4
+advertisement|.|rfc2842.txt|.|8
+lost server|.|rfc6197.txt|.|9
+mechanism|.|rfc5436.txt|.|22
+telnet authentication|.|rfc2944.txt|.|8
+email|.|rfc4238.txt|.|19
+key|.|rfc5197.txt|.|195
+dns domain|.|rfc3832.txt|.|9
+discovering|.|rfc3832.txt|.|6
+address|.|rfc3918.txt|.|24|.|rfc3769.txt|.|7|.|rfc4238.txt|.|30
+wolf|.|rfc6197.txt|.|19
+services|.|rfc3832.txt|.|22|.|rfc4313.txt|.|34
+document specifies|.|rfc2944.txt|.|2
+token verification failure|.|rfc6284.txt|.|13
+service discovery|.|rfc3832.txt|.|21
+march|.|rfc5727.txt|.|15
+notification mechanism|.|rfc5436.txt|.|19
+june|.|rfc6284.txt|.|36
+rai area|.|rfc5727.txt|.|20
+ntt communications|.|rfc3769.txt|.|3
+speech|.|rfc4313.txt|.|59
+verification request|.|rfc6284.txt|.|29
+information|.|rfc3199.txt|.|68
+bgp peer|.|rfc2842.txt|.|2
+network working|.|rfc3.txt|.|4
+voice message routing|.|rfc4238.txt|.|10
+cpim|.|rfc5438.txt|.|37
+port mapping|.|rfc6284.txt|.|79
+documents|.|rfc5727.txt|.|12
+statement october|.|rfc6041.txt|.|13
+unicast session|.|rfc6284.txt|.|49
+sip change|.|rfc5727.txt|.|14
+dns srv|.|rfc3832.txt|.|42
+official|.|rfc2500.txt|.|5
+gmpls|.|rfc5298.txt|.|22
+desired services|.|rfc3832.txt|.|9
+internet protocol|.|rfc2500.txt|.|12
+ip routers|.|rfc6041.txt|.|3
+imdn|.|rfc5438.txt|.|217
+area|.|rfc5727.txt|.|26
+mckay|.|rfc316.txt|.|10
+test|.|rfc5436.txt|.|4
+telephone|.|rfc4238.txt|.|12
+engineering|.|rfc6197.txt|.|3
+list|.|rfc6197.txt|.|36
+recipient uri|.|rfc5438.txt|.|1
+rfc|.|rfc6284.txt|.|146|.|rfc3918.txt|.|63|.|rfc5197.txt|.|140
+slp via dns|.|rfc3832.txt|.|11
+droms|.|rfc3769.txt|.|8
+header field parameters|.|rfc3968.txt|.|18
+port|.|rfc6284.txt|.|151
+failure|.|rfc6284.txt|.|17
+forces|.|rfc6041.txt|.|107
+fields|.|rfc5727.txt|.|26
+multicast benchmarking|.|rfc3918.txt|.|33
+cpim header|.|rfc5438.txt|.|10
+parameters|.|rfc3968.txt|.|32
+internet|.|rfc3199.txt|.|108|.|rfc2944.txt|.|13|.|rfc2842.txt|.|13|.|rfc3968.txt|.|9|.|rfc3769.txt|.|11|.|rfc4238.txt|.|10|.|rfc2500.txt|.|129|.|rfc6197.txt|.|6|.|rfc5727.txt|.|17
+ietf|.|rfc2500.txt|.|34
+official protocol|.|rfc2500.txt|.|4
+key agreement|.|rfc5197.txt|.|18
+session|.|rfc6284.txt|.|90|.|rfc3968.txt|.|4|.|rfc5727.txt|.|11
+path computation|.|rfc5298.txt|.|85
+email address|.|rfc4238.txt|.|8
+bgp|.|rfc2842.txt|.|26
+forwarding|.|rfc6041.txt|.|32
+unicast|.|rfc6284.txt|.|91|.|rfc3918.txt|.|22
+advertisement with bgp|.|rfc2842.txt|.|5
+copyright notice|.|rfc2842.txt|.|3
+crouch|.|rfc6041.txt|.|16
+society|.|rfc2944.txt|.|6|.|rfc2842.txt|.|6|.|rfc3769.txt|.|4
+initiation|.|rfc3968.txt|.|4|.|rfc5727.txt|.|10
+service list|.|rfc6197.txt|.|31
+prefix delegation|.|rfc3769.txt|.|19
+provides|.|rfc3199.txt|.|57
+statement|.|rfc6041.txt|.|15|.|rfc2500.txt|.|14
+client|.|rfc6284.txt|.|110
+display notification|.|rfc5438.txt|.|18
+sip|.|rfc4313.txt|.|19|.|rfc5727.txt|.|99
+routers|.|rfc6041.txt|.|6
+change march|.|rfc5727.txt|.|13
+wu|.|rfc2944.txt|.|11
+notice|.|rfc2842.txt|.|3
+registry|.|rfc3968.txt|.|23
+delivery|.|rfc5438.txt|.|47
+speechsc framework|.|rfc4313.txt|.|46
+types|.|rfc6284.txt|.|15
+interfaces|.|rfc3918.txt|.|44
+capabilities|.|rfc2842.txt|.|22
+field parameters|.|rfc3968.txt|.|18
+camarillo|.|rfc3968.txt|.|11
+control requirements|.|rfc4313.txt|.|19
+label|.|rfc5298.txt|.|21
+message|.|rfc5438.txt|.|91|.|rfc4238.txt|.|34
+label switching|.|rfc5298.txt|.|13
+list boundary|.|rfc6197.txt|.|18
+management|.|rfc5197.txt|.|25|.|rfc316.txt|.|22
+service|.|rfc4238.txt|.|48|.|rfc3832.txt|.|39|.|rfc6197.txt|.|63
+capabilities advertisement|.|rfc2842.txt|.|7
+recipient|.|rfc5438.txt|.|95
+hellman|.|rfc5197.txt|.|5
+internet community|.|rfc3199.txt|.|69
+ginoza informational|.|rfc3199.txt|.|23
+copyright|.|rfc2842.txt|.|6|.|rfc3769.txt|.|4
+practice|.|rfc5727.txt|.|17
+modes|.|rfc5197.txt|.|67
+software|.|rfc3.txt|.|3
+prefix|.|rfc3769.txt|.|25
+im sender|.|rfc5438.txt|.|73
+memo|.|rfc3199.txt|.|89
+chandra|.|rfc2842.txt|.|7
+steve carr|.|rfc3.txt|.|2
+jeff|.|rfc3.txt|.|2
+mapping june|.|rfc6284.txt|.|29
+sieve notification mechanism|.|rfc5436.txt|.|14
+network data|.|rfc316.txt|.|11
+type|.|rfc2944.txt|.|2
+key management|.|rfc5197.txt|.|24
+multi|.|rfc5298.txt|.|1
+number|.|rfc4238.txt|.|11
+speech recognition|.|rfc4313.txt|.|16
+miyakawa|.|rfc3769.txt|.|8
+lost|.|rfc6197.txt|.|31
+message routing service|.|rfc4238.txt|.|11
+mailto january|.|rfc5436.txt|.|11
+delivery notification|.|rfc5438.txt|.|20
+join|.|rfc3918.txt|.|39
+mapping|.|rfc6284.txt|.|82
+key distribution|.|rfc5197.txt|.|27
+im|.|rfc5438.txt|.|306
+telephone number|.|rfc4238.txt|.|8
+ip|.|rfc3918.txt|.|46|.|rfc6041.txt|.|12
+instant message|.|rfc5438.txt|.|10
+dns|.|rfc3832.txt|.|64
+crocker|.|rfc3.txt|.|4
+message routing|.|rfc4238.txt|.|18
+srtp|.|rfc5197.txt|.|45
+carr|.|rfc3.txt|.|2
+ginoza|.|rfc3199.txt|.|26
+field|.|rfc5438.txt|.|86|.|rfc5436.txt|.|29|.|rfc3968.txt|.|27
+current practice|.|rfc5727.txt|.|16
+slp|.|rfc3832.txt|.|41
+sieve|.|rfc5436.txt|.|35
+oran informational|.|rfc4313.txt|.|20
+status|.|rfc2500.txt|.|11
+session initiation|.|rfc3968.txt|.|4
+auto submitted|.|rfc5436.txt|.|1
+specifies|.|rfc2944.txt|.|2
+server|.|rfc6197.txt|.|17
+distribution|.|rfc5197.txt|.|35
+automatic speech recognition|.|rfc4313.txt|.|10
+sieve notification|.|rfc5436.txt|.|16
+local|.|rfc316.txt|.|12
+notify|.|rfc5436.txt|.|22
+egress|.|rfc3918.txt|.|76
+instant|.|rfc5438.txt|.|22
+im recipient|.|rfc5438.txt|.|73
+forces applicability|.|rfc6041.txt|.|16
+srp september|.|rfc2944.txt|.|6
+peer|.|rfc2842.txt|.|11
+authentication type|.|rfc2944.txt|.|2
+steve|.|rfc3.txt|.|6
+december|.|rfc4313.txt|.|21
+information for the internet community|.|rfc3199.txt|.|50
+srv july|.|rfc3832.txt|.|7
+oran|.|rfc4313.txt|.|22
+change|.|rfc5727.txt|.|24
+display|.|rfc5438.txt|.|33
+group address|.|rfc3918.txt|.|9
+host software|.|rfc3.txt|.|3
+uri|.|rfc5438.txt|.|15
+computation|.|rfc5298.txt|.|96
+token|.|rfc6284.txt|.|158
+ntt|.|rfc3769.txt|.|3
+mikey|.|rfc5197.txt|.|187
+disposition|.|rfc5438.txt|.|38
+framework|.|rfc4313.txt|.|62
+january|.|rfc5436.txt|.|15
+discovery|.|rfc3832.txt|.|30
+diffie|.|rfc5197.txt|.|5
+voice|.|rfc4238.txt|.|17
+internet society|.|rfc2944.txt|.|6|.|rfc2842.txt|.|6|.|rfc3769.txt|.|4
+auto|.|rfc5436.txt|.|1
+data|.|rfc316.txt|.|70
+recognition|.|rfc4313.txt|.|20
+internet official|.|rfc2500.txt|.|4
+address prefix|.|rfc3769.txt|.|2
+notification|.|rfc5438.txt|.|93|.|rfc5436.txt|.|65
+protocol|.|rfc6041.txt|.|29|.|rfc3968.txt|.|7|.|rfc4313.txt|.|54|.|rfc2500.txt|.|188|.|rfc5727.txt|.|22
+router|.|rfc6041.txt|.|5
+parameter registry|.|rfc3968.txt|.|10
+host|.|rfc3.txt|.|3
+tag|.|rfc5436.txt|.|16
+requirements december|.|rfc4313.txt|.|19
+verification|.|rfc6284.txt|.|42
+group|.|rfc3.txt|.|4|.|rfc3918.txt|.|90|.|rfc3769.txt|.|3|.|rfc316.txt|.|13|.|rfc5727.txt|.|56
+negotiate|.|rfc2944.txt|.|2
+forces protocol|.|rfc6041.txt|.|19
+join delay|.|rfc3918.txt|.|24
+voice message|.|rfc4238.txt|.|10
+rulifson|.|rfc3.txt|.|2
+session initiation protocol|.|rfc5727.txt|.|10
+multi domain|.|rfc5298.txt|.|1
+speech services|.|rfc4313.txt|.|21
+jeff rulifson|.|rfc3.txt|.|2
+header|.|rfc5438.txt|.|112|.|rfc5436.txt|.|44|.|rfc3968.txt|.|29|.|rfc5727.txt|.|42
+working group|.|rfc3.txt|.|4|.|rfc3769.txt|.|2|.|rfc316.txt|.|9|.|rfc5727.txt|.|53
+services control|.|rfc4313.txt|.|20
+october|.|rfc6041.txt|.|14
+provides information for the internet|.|rfc3199.txt|.|50
+multicast groups|.|rfc3918.txt|.|36
+forwarding and control|.|rfc6041.txt|.|11
+boundary|.|rfc6197.txt|.|39
+request|.|rfc6284.txt|.|60
+data management|.|rfc316.txt|.|22
+keys|.|rfc5197.txt|.|32
+values|.|rfc3968.txt|.|28
+working lsp|.|rfc5298.txt|.|48
+latency|.|rfc3918.txt|.|44
+lsp|.|rfc5298.txt|.|182
+media|.|rfc5197.txt|.|41
+recovery|.|rfc5298.txt|.|114
+discovering desired|.|rfc3832.txt|.|4
+network|.|rfc3.txt|.|8|.|rfc316.txt|.|41
+memo provides|.|rfc3199.txt|.|52
+haardt standards|.|rfc5436.txt|.|12
+september|.|rfc2944.txt|.|9
+routing service|.|rfc4238.txt|.|11
+parameter|.|rfc3968.txt|.|48
+working|.|rfc3.txt|.|4|.|rfc5298.txt|.|64|.|rfc3769.txt|.|2|.|rfc316.txt|.|12|.|rfc5727.txt|.|62
+steve crocker|.|rfc3.txt|.|4
+informational|.|rfc3199.txt|.|24|.|rfc4313.txt|.|20
+track|.|rfc2944.txt|.|9|.|rfc2842.txt|.|6|.|rfc5436.txt|.|14|.|rfc4238.txt|.|11|.|rfc2500.txt|.|35
+data bases|.|rfc316.txt|.|6
+authentication|.|rfc2944.txt|.|47
+management working|.|rfc316.txt|.|8
+process|.|rfc5727.txt|.|18
+requirements|.|rfc3769.txt|.|12|.|rfc4313.txt|.|44
+listservicesbylocation|.|rfc6197.txt|.|13
+groups|.|rfc3918.txt|.|51
+automatic|.|rfc4313.txt|.|10
+control|.|rfc6041.txt|.|32|.|rfc4313.txt|.|57
+service list boundary|.|rfc6197.txt|.|18
+internet standards|.|rfc2842.txt|.|3|.|rfc2500.txt|.|39
+multicast|.|rfc3918.txt|.|213
+srp|.|rfc2944.txt|.|28
+recovery lsp|.|rfc5298.txt|.|46
+srv|.|rfc3832.txt|.|45
+lsps|.|rfc5298.txt|.|63
+mailto|.|rfc5436.txt|.|24
+delegation|.|rfc3769.txt|.|22

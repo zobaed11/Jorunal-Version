@@ -1,0 +1,29 @@
+39
+shareholder value|.|bbc220.txt|.|1
+phonographic|.|bbc831.txt|.|2
+insurance market|.|bbc232.txt|.|2
+screens|.|bbc2009.txt|.|4
+games market|.|bbc254.txt|.|2
+two screens|.|bbc2009.txt|.|2
+value|.|bbc220.txt|.|2
+models|.|bbc141.txt|.|1
+video games market|.|bbc254.txt|.|2
+eyeing|.|bbc254.txt|.|1
+biggest music|.|bbc831.txt|.|2
+car market|.|bbc141.txt|.|1|.|bbc149.txt|.|2
+phonographic industries|.|bbc831.txt|.|1
+new models|.|bbc141.txt|.|1
+us stock|.|bbc215.txt|.|2
+stock market|.|bbc264.txt|.|2|.|bbc215.txt|.|3
+touch|.|bbc2009.txt|.|3
+albums market|.|bbc831.txt|.|2
+mobile gaming|.|bbc2009.txt|.|2
+uk music|.|bbc831.txt|.|2
+crossover vehicles|.|bbc141.txt|.|2
+buyer|.|bbc831.txt|.|1
+biggest music buyer|.|bbc831.txt|.|1
+market|.|bbc438.txt|.|4|.|bbc831.txt|.|4|.|bbc459.txt|.|3|.|bbc2009.txt|.|5|.|bbc194.txt|.|2|.|bbc220.txt|.|3|.|bbc226.txt|.|2|.|bbc232.txt|.|3|.|bbc215.txt|.|5|.|bbc254.txt|.|3|.|bbc290.txt|.|4|.|bbc141.txt|.|5|.|bbc233.txt|.|2|.|bbc264.txt|.|5|.|bbc283.txt|.|1|.|bbc31.txt|.|3|.|bbc149.txt|.|5
+us stock market|.|bbc215.txt|.|2
+music buyer|.|bbc831.txt|.|1
+demand for crossover|.|bbc141.txt|.|1
+demand for such crossover vehicles|.|bbc141.txt|.|1

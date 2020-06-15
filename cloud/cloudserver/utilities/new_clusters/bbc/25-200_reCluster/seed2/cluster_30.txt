@@ -1,0 +1,30 @@
+30
+mobiles with cameras|.|bbc2212.txt|.|1|.|bbc1927.txt|.|1
+phone technology|.|bbc2212.txt|.|2|.|bbc1927.txt|.|2
+cheaper|.|bbc1874.txt|.|2
+tabloid|.|bbc2032.txt|.|2
+western europe|.|bbc1888.txt|.|2
+gartner said|.|bbc1888.txt|.|1
+mobile phones|.|bbc2212.txt|.|1|.|bbc1858.txt|.|2|.|bbc1927.txt|.|1
+celebrities|.|bbc2032.txt|.|4
+phones|.|bbc2212.txt|.|13|.|bbc2032.txt|.|7|.|bbc2006.txt|.|5|.|bbc1858.txt|.|3|.|bbc1874.txt|.|6|.|bbc1888.txt|.|7|.|bbc2210.txt|.|4|.|bbc1927.txt|.|13
+cameras|.|bbc2212.txt|.|7|.|bbc1927.txt|.|7
+camera phones|.|bbc2212.txt|.|9|.|bbc2032.txt|.|3|.|bbc1927.txt|.|9
+tabloid newspapers|.|bbc2032.txt|.|1
+downloads|.|bbc1888.txt|.|2
+replacement phones|.|bbc1888.txt|.|2
+mobiles|.|bbc2196.txt|.|4|.|bbc2212.txt|.|6|.|bbc1927.txt|.|6
+catch|.|bbc2032.txt|.|3
+gartner|.|bbc2212.txt|.|3|.|bbc1888.txt|.|5|.|bbc1927.txt|.|3
+camera|.|bbc2212.txt|.|13|.|bbc2032.txt|.|5|.|bbc1927.txt|.|13
+sold|.|bbc2212.txt|.|5|.|bbc2002.txt|.|3|.|bbc197.txt|.|3|.|bbc1888.txt|.|2|.|bbc1927.txt|.|5
+images|.|bbc2212.txt|.|6|.|bbc1927.txt|.|6
+megapixel images|.|bbc2212.txt|.|2|.|bbc1927.txt|.|2
+megapixel|.|bbc2212.txt|.|2|.|bbc1927.txt|.|2
+music downloads|.|bbc1888.txt|.|2
+immediacy|.|bbc2032.txt|.|3
+phone|.|bbc2212.txt|.|3|.|bbc2032.txt|.|8|.|bbc202.txt|.|4|.|bbc2054.txt|.|4|.|bbc1976.txt|.|2|.|bbc1874.txt|.|1|.|bbc162.txt|.|2|.|bbc1888.txt|.|5|.|bbc2210.txt|.|5|.|bbc1130.txt|.|2|.|bbc1927.txt|.|3
+mobile phone|.|bbc2032.txt|.|5|.|bbc2054.txt|.|2|.|bbc1874.txt|.|1|.|bbc1888.txt|.|1
+mobile gig|.|bbc2006.txt|.|1
+drive|.|bbc2160.txt|.|2|.|bbc1874.txt|.|2|.|bbc1888.txt|.|3|.|bbc1011.txt|.|1
+mobile picture|.|bbc2032.txt|.|1

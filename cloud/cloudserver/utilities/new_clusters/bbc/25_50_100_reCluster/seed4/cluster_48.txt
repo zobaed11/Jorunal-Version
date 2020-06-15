@@ -1,0 +1,58 @@
+48
+espn|.|bbc1880.txt|.|12
+like google|.|bbc1986.txt|.|2
+called|.|bbc457.txt|.|2|.|bbc921.txt|.|1|.|bbc1101.txt|.|2
+officer|.|bbc949.txt|.|2
+independent of government|.|bbc921.txt|.|2
+msn|.|bbc1986.txt|.|3
+body|.|bbc921.txt|.|4|.|bbc1774.txt|.|2|.|bbc1915.txt|.|3|.|bbc981.txt|.|2
+officer who|.|bbc949.txt|.|2
+competitors|.|bbc1986.txt|.|2
+ea|.|bbc1880.txt|.|6
+top spot|.|bbc654.txt|.|2
+hunger strike|.|bbc949.txt|.|4
+lives|.|bbc1961.txt|.|4
+like|.|bbc949.txt|.|2|.|bbc1511.txt|.|2|.|bbc1961.txt|.|7|.|bbc1114.txt|.|3|.|bbc921.txt|.|3|.|bbc1880.txt|.|3|.|bbc1986.txt|.|2|.|bbc1803.txt|.|3|.|bbc716.txt|.|2|.|bbc654.txt|.|2
+like migration|.|bbc921.txt|.|2
+journals|.|bbc1986.txt|.|3
+mtv|.|bbc716.txt|.|2
+rivals|.|bbc1880.txt|.|2|.|bbc252.txt|.|3
+hunger|.|bbc949.txt|.|4
+donofrio|.|bbc1961.txt|.|10
+brazilian|.|bbc1524.txt|.|2|.|bbc1511.txt|.|2|.|bbc303.txt|.|2
+british authorities|.|bbc949.txt|.|2
+ea sports|.|bbc1880.txt|.|2
+arsene|.|bbc1511.txt|.|1|.|bbc1456.txt|.|2
+spaces|.|bbc1986.txt|.|2
+pervasive|.|bbc1961.txt|.|4
+changed|.|bbc1961.txt|.|1
+eminem|.|bbc654.txt|.|2
+blair dismisses|.|bbc1114.txt|.|1
+osbournes|.|bbc716.txt|.|6
+mtv show|.|bbc716.txt|.|1
+soldiers|.|bbc654.txt|.|3
+pervasive computing|.|bbc1961.txt|.|2
+computing|.|bbc1961.txt|.|6|.|bbc2204.txt|.|7
+toy soldiers|.|bbc654.txt|.|3
+elvis|.|bbc654.txt|.|2
+independent body|.|bbc921.txt|.|2
+ozzy|.|bbc716.txt|.|4
+live|.|bbc949.txt|.|2
+boss arsene|.|bbc1511.txt|.|1|.|bbc1456.txt|.|1
+toy|.|bbc654.txt|.|3
+innovation|.|bbc1961.txt|.|5
+immigration|.|bbc921.txt|.|5
+live like|.|bbc949.txt|.|2
+sports|.|bbc1880.txt|.|7
+like toy soldiers|.|bbc654.txt|.|2
+msn spaces|.|bbc1986.txt|.|2
+monitor|.|bbc921.txt|.|2|.|bbc1903.txt|.|3
+titles|.|bbc1880.txt|.|3|.|bbc1803.txt|.|1|.|bbc1994.txt|.|6
+ozzy osbourne|.|bbc716.txt|.|2
+jobs like|.|bbc1114.txt|.|2
+competitors like|.|bbc1986.txt|.|2
+mr donofrio|.|bbc1961.txt|.|9
+sports games|.|bbc1880.txt|.|2
+like toy|.|bbc654.txt|.|2
+publish|.|bbc921.txt|.|1
+migration|.|bbc921.txt|.|4

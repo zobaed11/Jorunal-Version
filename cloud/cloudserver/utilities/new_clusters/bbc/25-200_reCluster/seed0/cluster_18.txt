@@ -1,0 +1,32 @@
+18
+ore costs|.|bbc140.txt|.|4
+pro magazine|.|bbc1845.txt|.|2
+internet service|.|bbc1845.txt|.|2
+steel firms|.|bbc140.txt|.|2
+wholesale broadband|.|bbc252.txt|.|2
+ore costs hit|.|bbc140.txt|.|1
+halifax said|.|bbc405.txt|.|3
+said prices|.|bbc405.txt|.|3
+prices rose|.|bbc405.txt|.|2
+halifax|.|bbc405.txt|.|8
+prices|.|bbc140.txt|.|5|.|bbc405.txt|.|13|.|bbc252.txt|.|3|.|bbc360.txt|.|3|.|bbc152.txt|.|9|.|bbc259.txt|.|2|.|bbc144.txt|.|4|.|bbc286.txt|.|2|.|bbc182.txt|.|3|.|bbc1845.txt|.|3|.|bbc461.txt|.|2|.|bbc57.txt|.|2|.|bbc294.txt|.|5
+house prices|.|bbc405.txt|.|7
+oil prices|.|bbc152.txt|.|2|.|bbc144.txt|.|4|.|bbc182.txt|.|3
+pc pro|.|bbc1845.txt|.|3
+crude oil|.|bbc152.txt|.|3
+equal access for rivals|.|bbc252.txt|.|1
+costs hit|.|bbc140.txt|.|1
+uk house prices|.|bbc405.txt|.|2
+chilean copper|.|bbc360.txt|.|2
+baoshan|.|bbc140.txt|.|3
+nippon|.|bbc140.txt|.|3
+crude oil prices|.|bbc152.txt|.|2
+heavy|.|bbc152.txt|.|2
+nippon steel|.|bbc140.txt|.|2
+britons|.|bbc1845.txt|.|2
+access to rivals|.|bbc252.txt|.|1
+closed higher|.|bbc294.txt|.|2
+steel prices|.|bbc140.txt|.|2
+uk house|.|bbc405.txt|.|2
+us crude|.|bbc152.txt|.|3
+chile|.|bbc360.txt|.|2

@@ -1,0 +1,19 @@
+38
+spending spree|.|bbc1255.txt|.|2
+projects|.|bbc195.txt|.|1|.|bbc1991.txt|.|1
+congress|.|bbc41.txt|.|3|.|bbc249.txt|.|4
+administration|.|bbc245.txt|.|2
+bush|.|bbc204.txt|.|5|.|bbc249.txt|.|6|.|bbc1947.txt|.|3|.|bbc245.txt|.|4
+digby|.|bbc1255.txt|.|3
+seek|.|bbc271.txt|.|1|.|bbc249.txt|.|1
+push|.|bbc2155.txt|.|2
+domestic|.|bbc249.txt|.|2
+puts|.|bbc2155.txt|.|1
+budget include|.|bbc249.txt|.|1
+spending|.|bbc1255.txt|.|3|.|bbc204.txt|.|4|.|bbc438.txt|.|2|.|bbc249.txt|.|8|.|bbc124.txt|.|1|.|bbc1240.txt|.|6|.|bbc245.txt|.|9|.|bbc182.txt|.|2|.|bbc195.txt|.|5|.|bbc1456.txt|.|1|.|bbc2155.txt|.|2|.|bbc240.txt|.|2|.|bbc175.txt|.|5
+spending projects|.|bbc195.txt|.|1
+digby jones|.|bbc1255.txt|.|2
+sir digby|.|bbc1255.txt|.|3
+use linux|.|bbc2155.txt|.|1
+spree|.|bbc1255.txt|.|3
+breaking|.|bbc195.txt|.|2

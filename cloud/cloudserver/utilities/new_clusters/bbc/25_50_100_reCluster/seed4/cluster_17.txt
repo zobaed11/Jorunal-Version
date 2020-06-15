@@ -1,0 +1,28 @@
+17
+tries|.|bbc1697.txt|.|2
+win the next game|.|bbc1454.txt|.|1
+gerrard|.|bbc1454.txt|.|3
+ahead|.|bbc1559.txt|.|3|.|bbc1388.txt|.|2
+adelaide|.|bbc1766.txt|.|2
+said dent|.|bbc1766.txt|.|1
+cole|.|bbc1591.txt|.|5|.|bbc1476.txt|.|2
+substitute|.|bbc1697.txt|.|2
+leipzig|.|bbc1322.txt|.|2
+late|.|bbc1591.txt|.|2
+weston|.|bbc1697.txt|.|2
+win|.|bbc1109.txt|.|2|.|bbc1591.txt|.|3|.|bbc1458.txt|.|2|.|bbc1697.txt|.|2|.|bbc1388.txt|.|3|.|bbc1454.txt|.|5|.|bbc1322.txt|.|3|.|bbc1665.txt|.|4|.|bbc1648.txt|.|3|.|bbc1108.txt|.|2|.|bbc1766.txt|.|2|.|bbc1489.txt|.|2
+portsmouth|.|bbc1591.txt|.|3
+side|.|bbc1648.txt|.|1
+johansson|.|bbc1766.txt|.|5
+said in a statement|.|bbc1108.txt|.|1
+relay|.|bbc1388.txt|.|3
+won his second|.|bbc1766.txt|.|1
+dent|.|bbc1766.txt|.|4
+ulster|.|bbc1697.txt|.|4
+gardener|.|bbc1388.txt|.|3|.|bbc1322.txt|.|4
+steinmetz|.|bbc1697.txt|.|4
+steven|.|bbc1454.txt|.|2
+pompey|.|bbc1591.txt|.|4|.|bbc1583.txt|.|2
+try|.|bbc1697.txt|.|2
+drogba|.|bbc1591.txt|.|3
+quashie|.|bbc1591.txt|.|3

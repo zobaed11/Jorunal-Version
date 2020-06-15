@@ -1,0 +1,76 @@
+30
+pupils|.|bbc1165.txt|.|3|.|bbc990.txt|.|3
+fees|.|bbc1109.txt|.|6|.|bbc461.txt|.|4
+university fees|.|bbc1109.txt|.|2
+lib|.|bbc1109.txt|.|9|.|bbc1235.txt|.|8|.|bbc1292.txt|.|5|.|bbc1313.txt|.|4|.|bbc966.txt|.|2|.|bbc1165.txt|.|2|.|bbc1294.txt|.|3|.|bbc1299.txt|.|3|.|bbc1042.txt|.|2|.|bbc981.txt|.|2
+tell|.|bbc1299.txt|.|2|.|bbc1858.txt|.|4
+buy|.|bbc1235.txt|.|5|.|bbc171.txt|.|2|.|bbc352.txt|.|1
+voting|.|bbc1292.txt|.|5|.|bbc1097.txt|.|2|.|bbc1096.txt|.|1
+british|.|bbc949.txt|.|6|.|bbc1021.txt|.|2|.|bbc484.txt|.|5|.|bbc799.txt|.|5|.|bbc810.txt|.|4|.|bbc1068.txt|.|3|.|bbc763.txt|.|17|.|bbc1165.txt|.|2|.|bbc646.txt|.|2|.|bbc813.txt|.|3|.|bbc2055.txt|.|2|.|bbc1025.txt|.|2|.|bbc532.txt|.|5
+body|.|bbc921.txt|.|4|.|bbc1774.txt|.|2|.|bbc981.txt|.|2
+seats|.|bbc1109.txt|.|4
+telephoning|.|bbc1292.txt|.|2
+local election|.|bbc1294.txt|.|1
+win students|.|bbc1109.txt|.|1
+useless|.|bbc981.txt|.|3
+information commissioner|.|bbc1292.txt|.|3
+marketing calls|.|bbc1292.txt|.|2
+tell the truth|.|bbc1299.txt|.|2
+dems say|.|bbc1109.txt|.|2
+promotional|.|bbc1292.txt|.|2
+terror|.|bbc966.txt|.|5|.|bbc1275.txt|.|3|.|bbc1101.txt|.|2
+local income tax|.|bbc1294.txt|.|1
+intentions|.|bbc1292.txt|.|2
+said politicians|.|bbc1299.txt|.|4
+efforts|.|bbc981.txt|.|1|.|bbc334.txt|.|2
+existing buildings|.|bbc1235.txt|.|2
+buildings|.|bbc1235.txt|.|2
+lib dems|.|bbc1109.txt|.|5|.|bbc1235.txt|.|6|.|bbc1292.txt|.|3|.|bbc1313.txt|.|2|.|bbc966.txt|.|2|.|bbc1165.txt|.|2|.|bbc1294.txt|.|3|.|bbc1299.txt|.|2|.|bbc981.txt|.|1
+survey|.|bbc108.txt|.|1|.|bbc1165.txt|.|3|.|bbc1845.txt|.|2|.|bbc361.txt|.|2|.|bbc2170.txt|.|4
+know|.|bbc1165.txt|.|2|.|bbc2055.txt|.|2|.|bbc1489.txt|.|2
+buy a share|.|bbc1235.txt|.|3
+little|.|bbc722.txt|.|4|.|bbc1165.txt|.|3
+next election|.|bbc1150.txt|.|3|.|bbc1299.txt|.|4
+income|.|bbc484.txt|.|3|.|bbc1294.txt|.|1|.|bbc940.txt|.|6
+trust|.|bbc473.txt|.|5|.|bbc1299.txt|.|14
+politics|.|bbc1165.txt|.|2
+buyers|.|bbc1235.txt|.|4
+student|.|bbc1109.txt|.|4
+student vote|.|bbc1109.txt|.|1
+university|.|bbc1109.txt|.|6|.|bbc891.txt|.|4|.|bbc806.txt|.|1
+key choice|.|bbc1299.txt|.|2
+students|.|bbc1109.txt|.|18|.|bbc2205.txt|.|5
+trust politicians|.|bbc1299.txt|.|2
+dems|.|bbc1109.txt|.|5|.|bbc1235.txt|.|6|.|bbc1292.txt|.|3|.|bbc1313.txt|.|2|.|bbc966.txt|.|2|.|bbc1165.txt|.|2|.|bbc1294.txt|.|3|.|bbc1299.txt|.|2|.|bbc981.txt|.|1
+cold|.|bbc1292.txt|.|3
+body is set|.|bbc981.txt|.|1
+local|.|bbc1235.txt|.|6|.|bbc2189.txt|.|5|.|bbc1295.txt|.|7|.|bbc1294.txt|.|5|.|bbc2066.txt|.|3|.|bbc1130.txt|.|5
+foreign|.|bbc914.txt|.|3|.|bbc966.txt|.|3|.|bbc936.txt|.|5|.|bbc2208.txt|.|9|.|bbc1101.txt|.|3|.|bbc18.txt|.|2|.|bbc215.txt|.|6
+secretary|.|bbc1116.txt|.|3|.|bbc914.txt|.|3|.|bbc966.txt|.|3|.|bbc936.txt|.|5|.|bbc1029.txt|.|2|.|bbc1052.txt|.|3|.|bbc1303.txt|.|2|.|bbc1264.txt|.|2
+democrat|.|bbc1109.txt|.|1
+land|.|bbc1235.txt|.|3
+predict|.|bbc1294.txt|.|1
+voting intentions|.|bbc1292.txt|.|2
+share|.|bbc1235.txt|.|6|.|bbc271.txt|.|3|.|bbc276.txt|.|3|.|bbc726.txt|.|4|.|bbc485.txt|.|2|.|bbc689.txt|.|4
+vote|.|bbc1109.txt|.|6|.|bbc1313.txt|.|4
+key|.|bbc1299.txt|.|2
+mr kennedy|.|bbc1313.txt|.|6
+telephoning people|.|bbc1292.txt|.|2
+howard said|.|bbc1260.txt|.|2|.|bbc966.txt|.|3|.|bbc983.txt|.|4
+set|.|bbc1824.txt|.|2|.|bbc981.txt|.|5
+cold calling|.|bbc1292.txt|.|2
+democrats|.|bbc1171.txt|.|2|.|bbc1313.txt|.|2|.|bbc1042.txt|.|2
+campaigning|.|bbc1313.txt|.|1|.|bbc903.txt|.|1
+questioned|.|bbc1165.txt|.|2
+lewis|.|bbc981.txt|.|4
+say|.|bbc1109.txt|.|4|.|bbc971.txt|.|3|.|bbc568.txt|.|2|.|bbc1161.txt|.|2|.|bbc1872.txt|.|2
+liberal democrat|.|bbc1109.txt|.|1
+politicians|.|bbc1299.txt|.|11
+people|.|bbc2140.txt|.|5|.|bbc2119.txt|.|10|.|bbc717.txt|.|2|.|bbc2216.txt|.|5|.|bbc2052.txt|.|10|.|bbc2026.txt|.|6|.|bbc2065.txt|.|5|.|bbc1235.txt|.|8|.|bbc1292.txt|.|9|.|bbc2189.txt|.|7|.|bbc1921.txt|.|7|.|bbc2074.txt|.|3|.|bbc1986.txt|.|5|.|bbc1858.txt|.|7|.|bbc1974.txt|.|5|.|bbc914.txt|.|2|.|bbc1855.txt|.|8|.|bbc2054.txt|.|2|.|bbc990.txt|.|7|.|bbc1898.txt|.|8|.|bbc2037.txt|.|10|.|bbc1991.txt|.|2|.|bbc1130.txt|.|7|.|bbc722.txt|.|2|.|bbc1055.txt|.|5|.|bbc275.txt|.|2|.|bbc1432.txt|.|2|.|bbc982.txt|.|5
+liberal democrats|.|bbc1171.txt|.|2|.|bbc1313.txt|.|2|.|bbc1042.txt|.|2
+marketing|.|bbc1292.txt|.|6
+existing|.|bbc1235.txt|.|2
+truth|.|bbc1299.txt|.|2
+calls|.|bbc1292.txt|.|7|.|bbc1960.txt|.|6
+calling|.|bbc1292.txt|.|2
+liberal|.|bbc1171.txt|.|2|.|bbc1109.txt|.|2|.|bbc1313.txt|.|2|.|bbc1042.txt|.|2|.|bbc1199.txt|.|3

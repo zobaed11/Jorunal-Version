@@ -1,0 +1,86 @@
+21
+gss api|.|rfc2623.txt|.|3
+anti replay|.|rfc4303.txt|.|2
+dos attacks|.|rfc3837.txt|.|6
+string name|.|rfc2623.txt|.|12
+gss|.|rfc2623.txt|.|3|.|rfc4401.txt|.|2
+generic security|.|rfc4401.txt|.|4
+base exchange|.|rfc5202.txt|.|20
+threats september|.|rfc5355.txt|.|18
+mode algorithm|.|rfc4303.txt|.|20
+anti|.|rfc4303.txt|.|2
+link local|.|rfc4942.txt|.|1
+open pluggable edge|.|rfc3837.txt|.|6
+algorithm implementation|.|rfc4835.txt|.|4
+security|.|rfc2316.txt|.|41|.|rfc2634.txt|.|159|.|rfc2623.txt|.|92|.|rfc4835.txt|.|33|.|rfc2402.txt|.|56|.|rfc5932.txt|.|7|.|rfc5878.txt|.|24|.|rfc4682.txt|.|72|.|rfc4303.txt|.|112|.|rfc2554.txt|.|13|.|rfc2541.txt|.|24|.|rfc4009.txt|.|9|.|rfc5273.txt|.|6|.|rfc3130.txt|.|11|.|rfc5355.txt|.|50|.|rfc2084.txt|.|13|.|rfc4942.txt|.|139|.|rfc4272.txt|.|41|.|rfc2576.txt|.|25|.|rfc5425.txt|.|33|.|rfc3837.txt|.|41|.|rfc4401.txt|.|28|.|rfc5202.txt|.|49|.|rfc5034.txt|.|15
+verify the signature|.|rfc2634.txt|.|12
+layer security|.|rfc5932.txt|.|3
+security specification|.|rfc4682.txt|.|32
+keys and signatures|.|rfc2541.txt|.|2
+api|.|rfc2623.txt|.|3|.|rfc4401.txt|.|3
+enhanced security services|.|rfc2634.txt|.|58
+packetcable security specification|.|rfc4682.txt|.|32
+rpc|.|rfc2623.txt|.|29
+replay|.|rfc4303.txt|.|6
+api extension|.|rfc4401.txt|.|1
+enhanced|.|rfc2634.txt|.|58|.|rfc2476.txt|.|12
+provisioning specification|.|rfc4682.txt|.|26
+security architecture|.|rfc2316.txt|.|5|.|rfc2402.txt|.|16
+pluggable|.|rfc3837.txt|.|6
+security and privacy|.|rfc3837.txt|.|3
+stillman|.|rfc5355.txt|.|23
+encapsulating|.|rfc4835.txt|.|13|.|rfc4303.txt|.|52
+security overview september|.|rfc4942.txt|.|40
+exchange delegation
+security considerations
+algorithm march
+exchange delegation record
+option specifies
+protection level
+suppression
+area specifications
+error codes
+algorithm identifiers
+attack
+algorithm substitution
+security handbook
+generic string
+security agency
+error types
+private use
+private network
+community attribute
+base size
+security incident
+area june
+security mechanism
+status avp
+algorithm integration
+error messages
+private ip
+transfer server
+algorithm october
+profile june
+association type
+string encoding
+batch processing
+private ip addresses
+private networks
+generic reqmnts
+computation request
+name spaces
+private networks february
+status notification
+naming format
+intelligence
+generic routing
+parameter is set
+naming
+parameter registry
+exchange format
+surveillance
+signature schemes
+keyword
+generic routing encapsulation
+parameter values
+base type

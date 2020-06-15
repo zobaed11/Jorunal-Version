@@ -1,0 +1,51 @@
+6
+text request|.|rfc3720.txt|.|53
+request and response|.|rfc3829.txt|.|4
+putscript|.|rfc5804.txt|.|14
+value length|.|rfc2910.txt|.|3
+triggered update|.|rfc2080.txt|.|10
+certreq payload|.|rfc4806.txt|.|8
+split|.|rfc2080.txt|.|15
+minnear standards|.|rfc2080.txt|.|19
+mechanisms are designed|.|rfc3720.txt|.|1
+tag|.|rfc3720.txt|.|209|.|rfc2506.txt|.|52|.|rfc4034.txt|.|55|.|rfc5131.txt|.|7|.|rfc5874.txt|.|12|.|rfc2565.txt|.|40|.|rfc2910.txt|.|28
+iscsi target|.|rfc3720.txt|.|57
+response code|.|rfc5804.txt|.|85|.|rfc6230.txt|.|37
+checkscript|.|rfc5804.txt|.|9
+responder|.|rfc4806.txt|.|23
+route change|.|rfc2080.txt|.|9
+certificate revocation|.|rfc4806.txt|.|7
+metz|.|rfc2243.txt|.|13
+secret pass|.|rfc2243.txt|.|6
+re|.|rfc2243.txt|.|2
+extended responses|.|rfc2243.txt|.|19
+re initialization|.|rfc2243.txt|.|2
+otp extended|.|rfc2243.txt|.|18
+challenge response|.|rfc6287.txt|.|7
+online certificate status|.|rfc4806.txt|.|3
+ocsp content|.|rfc4806.txt|.|14
+revocation|.|rfc4806.txt|.|10
+noop|.|rfc5804.txt|.|13
+connected network|.|rfc2080.txt|.|1
+split horizon|.|rfc2080.txt|.|14
+structure to a network|.|rfc3720.txt|.|1
+initialization|.|rfc2243.txt|.|2
+ocsp responder|.|rfc4806.txt|.|9
+script name|.|rfc5804.txt|.|22
+bind operation|.|rfc3829.txt|.|7
+designed|.|rfc3720.txt|.|7
+response control|.|rfc3829.txt|.|10
+initiator and target|.|rfc3720.txt|.|73
+client response|.|rfc5034.txt|.|10
+deletescript|.|rfc5804.txt|.|10
+imap auth|.|rfc2195.txt|.|1
+structure|.|rfc3720.txt|.|12|.|rfc4839.txt|.|4
+connected|.|rfc2080.txt|.|3|.|rfc4423.txt|.|2
+target transfer tag|.|rfc3720.txt|.|73
+name length|.|rfc2910.txt|.|1
+code is returned|.|rfc5804.txt|.|12
+response|.|rfc6230.txt|.|103|.|rfc3720.txt|.|385|.|rfc2080.txt|.|38|.|rfc5216.txt|.|13|.|rfc3829.txt|.|19|.|rfc2195.txt|.|2|.|rfc5804.txt|.|190|.|rfc2243.txt|.|44|.|rfc5034.txt|.|27|.|rfc4806.txt|.|38|.|rfc6287.txt|.|38|.|rfc305.txt|.|2|.|rfc2910.txt|.|48
+expected data|.|rfc3720.txt|.|19
+online|.|rfc4806.txt|.|4
+response message|.|rfc2080.txt|.|4
+returned|.|rfc5804.txt|.|53

@@ -1,0 +1,40 @@
+13
+takings|.|bbc860.txt|.|2
+charts|.|bbc582.txt|.|2
+us box|.|bbc860.txt|.|2
+american|.|bbc2151.txt|.|3|.|bbc563.txt|.|2|.|bbc729.txt|.|4
+box|.|bbc860.txt|.|3|.|bbc848.txt|.|2|.|bbc563.txt|.|6|.|bbc575.txt|.|2|.|bbc570.txt|.|2|.|bbc610.txt|.|4|.|bbc582.txt|.|4|.|bbc586.txt|.|4
+office|.|bbc1128.txt|.|3|.|bbc357.txt|.|2|.|bbc446.txt|.|2|.|bbc938.txt|.|2|.|bbc563.txt|.|6|.|bbc570.txt|.|2|.|bbc860.txt|.|3|.|bbc848.txt|.|2|.|bbc1865.txt|.|7|.|bbc575.txt|.|2|.|bbc610.txt|.|4|.|bbc1034.txt|.|4|.|bbc582.txt|.|4|.|bbc586.txt|.|4
+comedy meet|.|bbc610.txt|.|2|.|bbc586.txt|.|2
+head|.|bbc563.txt|.|1|.|bbc232.txt|.|2|.|bbc1513.txt|.|2
+boogeyman|.|bbc563.txt|.|2
+snicket|.|bbc570.txt|.|3
+office chart|.|bbc570.txt|.|2
+box office chart|.|bbc570.txt|.|2
+unfortunate events|.|bbc570.txt|.|2
+day|.|bbc1632.txt|.|1|.|bbc565.txt|.|1|.|bbc167.txt|.|1|.|bbc868.txt|.|2|.|bbc1859.txt|.|6|.|bbc1679.txt|.|2|.|bbc1124.txt|.|2|.|bbc2205.txt|.|2|.|bbc634.txt|.|2|.|bbc610.txt|.|4|.|bbc1486.txt|.|3|.|bbc428.txt|.|2|.|bbc586.txt|.|4
+events|.|bbc1775.txt|.|2|.|bbc570.txt|.|2
+fockers|.|bbc610.txt|.|5|.|bbc825.txt|.|3|.|bbc586.txt|.|5
+took|.|bbc1818.txt|.|2|.|bbc1537.txt|.|2|.|bbc1474.txt|.|2|.|bbc586.txt|.|4
+unfortunate|.|bbc570.txt|.|2
+horror|.|bbc563.txt|.|2
+yen|.|bbc848.txt|.|5
+box office|.|bbc860.txt|.|3|.|bbc848.txt|.|2|.|bbc563.txt|.|6|.|bbc575.txt|.|2|.|bbc570.txt|.|2|.|bbc610.txt|.|4|.|bbc582.txt|.|4|.|bbc586.txt|.|4
+screen daily|.|bbc575.txt|.|2
+office takings|.|bbc860.txt|.|2
+comedy|.|bbc823.txt|.|4|.|bbc722.txt|.|2|.|bbc540.txt|.|2|.|bbc610.txt|.|3|.|bbc586.txt|.|3
+director|.|bbc880.txt|.|1|.|bbc604.txt|.|3|.|bbc582.txt|.|2|.|bbc572.txt|.|1
+festive|.|bbc586.txt|.|2
+meet the fockers|.|bbc610.txt|.|4|.|bbc825.txt|.|3|.|bbc586.txt|.|4
+lemony|.|bbc570.txt|.|2
+animation|.|bbc842.txt|.|2|.|bbc575.txt|.|2
+stone|.|bbc1829.txt|.|3|.|bbc582.txt|.|3
+alexander|.|bbc582.txt|.|5
+meet|.|bbc610.txt|.|5|.|bbc359.txt|.|1|.|bbc825.txt|.|4|.|bbc1383.txt|.|3|.|bbc586.txt|.|5
+horror film|.|bbc563.txt|.|2
+nominated|.|bbc860.txt|.|1
+oliver|.|bbc1164.txt|.|2|.|bbc582.txt|.|3
+christmas day|.|bbc586.txt|.|3
+box office takings|.|bbc860.txt|.|2
+chart|.|bbc535.txt|.|3|.|bbc646.txt|.|3|.|bbc570.txt|.|3|.|bbc610.txt|.|2|.|bbc669.txt|.|2|.|bbc586.txt|.|2
+lemony snicket|.|bbc570.txt|.|2

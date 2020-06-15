@@ -1,0 +1,90 @@
+29
+information assets|.|rfc4452.txt|.|21
+college|.|rfc5697.txt|.|3
+rsa public|.|rfc3447.txt|.|40
+address lending|.|rfc2008.txt|.|21
+subject|.|rfc5480.txt|.|10
+vigil|.|rfc5756.txt|.|2
+management trust anchor|.|rfc5934.txt|.|25
+public key infrastructure|.|rfc5758.txt|.|5|.|rfc6253.txt|.|4|.|rfc2528.txt|.|6
+random number|.|rfc4108.txt|.|5
+asset identified|.|rfc4452.txt|.|5
+trust anchor store|.|rfc5934.txt|.|112
+rsvp message|.|rfc2752.txt|.|15
+rsaes|.|rfc3447.txt|.|1
+identified|.|rfc4452.txt|.|7
+assets|.|rfc4452.txt|.|21
+subject public key|.|rfc5480.txt|.|9
+key certificates|.|rfc5697.txt|.|5
+address allocation|.|rfc2775.txt|.|5|.|rfc2008.txt|.|25
+package load receipt|.|rfc4108.txt|.|22
+ext|.|rfc2752.txt|.|1
+generation|.|rfc3447.txt|.|45
+anchor store|.|rfc5934.txt|.|112
+rsaes oaep|.|rfc3447.txt|.|1
+representation of a certificate|.|rfc6170.txt|.|3
+rescorla|.|rfc2631.txt|.|15
+lending|.|rfc2008.txt|.|22
+van de sompel|.|rfc4452.txt|.|19
+address allocation policies|.|rfc2008.txt|.|5
+identifiers from public|.|rfc4452.txt|.|6
+certification practice|.|rfc2527.txt|.|24
+public internet|.|rfc2008.txt|.|23
+key infrastructure|.|rfc5758.txt|.|5|.|rfc2528.txt|.|6
+subjectpublickeyinfo field|.|rfc5756.txt|.|5
+elliptic|.|rfc5480.txt|.|23
+memo defines|.|rfc5697.txt|.|3
+uri allocation|.|rfc4452.txt|.|11
+namespaces|.|rfc4452.txt|.|38
+public key certificates|.|rfc5697.txt|.|5
+trust|.|rfc4794.txt|.|3|.|rfc5378.txt|.|47|.|rfc5876.txt|.|37|.|rfc4812.txt|.|3|.|rfc4839.txt|.|3|.|rfc4969.txt|.|3|.|rfc4926.txt|.|3|.|rfc5934.txt|.|604|.|rfc4739.txt|.|3
+dublin|.|rfc5697.txt|.|3
+public key|.|rfc4108.txt|.|44|.|rfc2528.txt|.|17|.|rfc2632.txt|.|19|.|rfc5697.txt|.|11|.|rfc5756.txt|.|6|.|rfc6253.txt|.|11|.|rfc5269.txt|.|31|.|rfc5480.txt|.|33|.|rfc2752.txt|.|12|.|rfc4806.txt|.|8|.|rfc5934.txt|.|135|.|rfc6170.txt|.|5|.|rfc2631.txt|.|13|.|rfc3447.txt|.|30|.|rfc2527.txt|.|26
+cert parameters|.|rfc6253.txt|.|11
+kea|.|rfc2528.txt|.|48
+trust anchor|.|rfc5934.txt|.|543
+rsassa|.|rfc5756.txt|.|2|.|rfc3447.txt|.|1
+pol|.|rfc2752.txt|.|1
+canonical path|.|rfc2055.txt|.|8
+webnfs clients|.|rfc2055.txt|.|6
+oaep|.|rfc3447.txt|.|9
+identifiers from public namespaces|.|rfc4452.txt|.|6
+identifier of an information asset|.|rfc4452.txt|.|5
+uri syntax|.|rfc4452.txt|.|10
+random|.|rfc4108.txt|.|9|.|rfc4401.txt|.|2
+exchange algorithm|.|rfc2528.txt|.|4
+pss|.|rfc5756.txt|.|1|.|rfc4056.txt|.|6|.|rfc3447.txt|.|10
+public|.|rfc4108.txt|.|47|.|rfc2055.txt|.|31|.|rfc2528.txt|.|27|.|rfc2632.txt|.|23|.|rfc5697.txt|.|11|.|rfc5756.txt|.|7|.|rfc4452.txt|.|35|.|rfc5758.txt|.|10|.|rfc6253.txt|.|13|.|rfc5269.txt|.|31|.|rfc5480.txt|.|35|.|rfc2752.txt|.|13|.|rfc4806.txt|.|8|.|rfc5934.txt|.|139|.|rfc2008.txt|.|23|.|rfc6170.txt|.|7|.|rfc2631.txt|.|14|.|rfc3447.txt|.|45|.|rfc2527.txt|.|32
+generation function|.|rfc3447.txt|.|28
+public namespaces|.|rfc4452.txt|.|25
+certification practice statement|.|rfc2527.txt|.|18
+tamp message|.|rfc5934.txt|.|137
+state information|.|rfc5697.txt|.|4
+kea march|.|rfc2528.txt|.|8
+trinity college dublin|.|rfc5697.txt|.|3
+key|.|rfc4108.txt|.|102|.|rfc3537.txt|.|90|.|rfc2528.txt|.|30|.|rfc3686.txt|.|113|.|rfc5448.txt|.|60|.|rfc5697.txt|.|18|.|rfc5756.txt|.|11|.|rfc6253.txt|.|16|.|rfc5269.txt|.|181|.|rfc5904.txt|.|25|.|rfc2752.txt|.|22|.|rfc4806.txt|.|13|.|rfc5934.txt|.|194|.|rfc3447.txt|.|93|.|rfc5553.txt|.|49|.|rfc2527.txt|.|126|.|rfc5708.txt|.|37|.|rfc3852.txt|.|215|.|rfc5649.txt|.|98|.|rfc2890.txt|.|29|.|rfc4009.txt|.|40|.|rfc3394.txt|.|156|.|rfc2632.txt|.|39|.|rfc5758.txt|.|14|.|rfc5480.txt|.|59|.|rfc4034.txt|.|118|.|rfc3657.txt|.|66|.|rfc6170.txt|.|7|.|rfc3369.txt|.|199|.|rfc2631.txt|.|85|.|rfc3962.txt|.|43
+housley vigil security|.|rfc5756.txt|.|2
+digital|.|rfc3240.txt|.|6|.|rfc5485.txt|.|37|.|rfc4069.txt|.|9|.|rfc5934.txt|.|73
+management policies|.|rfc2008.txt|.|8
+allocation|.|rfc4452.txt|.|12|.|rfc2775.txt|.|6|.|rfc467.txt|.|26|.|rfc2008.txt|.|30
+tamp|.|rfc5934.txt|.|436
+public keys|.|rfc2528.txt|.|10
+subject public|.|rfc5480.txt|.|9
+sompel|.|rfc4452.txt|.|19
+pol ext|.|rfc2752.txt|.|1
+kea public|.|rfc2528.txt|.|11
+store|.|rfc5934.txt|.|117
+format march|.|rfc5480.txt|.|19
+practice statement|.|rfc2527.txt|.|18
+certs|.|rfc5697.txt|.|7
+server specification|.|rfc2055.txt|.|10
+ownership|.|rfc2008.txt|.|26
+end entity|.|rfc5697.txt|.|10
+infrastructure|.|rfc5758.txt|.|5|.|rfc6253.txt|.|4|.|rfc2528.txt|.|6
+kea algorithm|.|rfc2528.txt|.|9
+certificate handling|.|rfc2632.txt|.|14
+hellman|.|rfc2631.txt|.|1
+ecc subjectpublickeyinfo|.|rfc5480.txt|.|19
+asset|.|rfc4452.txt|.|16
+trinity|.|rfc5697.txt|.|3
+diffie|.|rfc2631.txt|.|1

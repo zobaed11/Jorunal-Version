@@ -1,0 +1,62 @@
+20
+resource management|.|rfc3169.txt|.|6
+eap september|.|rfc3579.txt|.|45
+internationalized domain names|.|rfc4690.txt|.|11
+server access protocol|.|rfc5351.txt|.|6
+endpoint handlespace redundancy|.|rfc5351.txt|.|6
+criteria for evaluating|.|rfc3169.txt|.|18
+session timeout|.|rfc3588.txt|.|1
+compatible|.|rfc3373.txt|.|3
+september|.|rfc3588.txt|.|152|.|rfc2683.txt|.|23|.|rfc2187.txt|.|24|.|rfc3625.txt|.|15|.|rfc3373.txt|.|9|.|rfc3176.txt|.|32|.|rfc3387.txt|.|20|.|rfc4638.txt|.|9|.|rfc5351.txt|.|20|.|rfc2210.txt|.|38|.|rfc3169.txt|.|18|.|rfc5632.txt|.|12|.|rfc5355.txt|.|22|.|rfc4942.txt|.|42|.|rfc5005.txt|.|15|.|rfc4690.txt|.|40|.|rfc4173.txt|.|13|.|rfc3904.txt|.|19|.|rfc4640.txt|.|22|.|rfc3579.txt|.|48|.|rfc5356.txt|.|20|.|rfc3592.txt|.|77
+protocols september|.|rfc3169.txt|.|16
+sflow analyzer|.|rfc3176.txt|.|12
+backward|.|rfc3373.txt|.|4
+mitton informational|.|rfc3169.txt|.|17
+calhoun informational|.|rfc3579.txt|.|46
+read|.|rfc3591.txt|.|1|.|rfc3592.txt|.|3
+communication among web|.|rfc2187.txt|.|1
+network designs|.|rfc4638.txt|.|5
+protocol september|.|rfc3588.txt|.|146
+garudadri informational|.|rfc3625.txt|.|15
+experiences september|.|rfc5632.txt|.|11
+increase|.|rfc4638.txt|.|9
+steps|.|rfc4690.txt|.|41
+sflow datagram|.|rfc3176.txt|.|12
+accounting realtime|.|rfc3588.txt|.|1
+eap message|.|rfc3579.txt|.|2
+message format|.|rfc3588.txt|.|16
+result code avp|.|rfc3588.txt|.|1
+diameter based protocol|.|rfc3588.txt|.|146
+idn next|.|rfc4690.txt|.|36
+based protocol|.|rfc3588.txt|.|146
+yale|.|rfc5632.txt|.|9
+evaluating|.|rfc3169.txt|.|18
+control service|.|rfc2210.txt|.|29
+variable rate|.|rfc3625.txt|.|6
+filters
+caching
+test cases
+server discovery for mars
+server must return
+storage
+attacker
+optional checksums
+vendor extensions for service
+testing address
+resource identifiers
+router alert
+requirement
+vendor opaque
+sync
+testing
+stateless address
+router alert option
+testing address allocation
+resource identified
+server control
+server packets
+stateless
+resource list
+storage device
+testing march
+resource name

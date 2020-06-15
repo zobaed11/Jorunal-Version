@@ -1,0 +1,302 @@
+hautakorpi|.|rfc4796.txt|.|14
+router preference option|.|rfc6104.txt|.|6
+tdm data|.|rfc4553.txt|.|20
+benchmarking|.|rfc4061.txt|.|18
+service registration|.|rfc5028.txt|.|3
+pw|.|rfc4553.txt|.|76
+resource identified|.|rfc2169.txt|.|4
+mpls network|.|rfc4618.txt|.|9
+decency|.|rfc2057.txt|.|11
+remote|.|rfc2193.txt|.|36
+resolution|.|rfc2169.txt|.|41
+walsh|.|rfc3151.txt|.|12
+update protocol|.|rfc3928.txt|.|31
+assessment of arpanet|.|rfc635.txt|.|21
+reference topology|.|rfc4061.txt|.|16
+number mapping|.|rfc5028.txt|.|4
+remote server|.|rfc2193.txt|.|19
+multipacket messages|.|rfc635.txt|.|5
+control word|.|rfc4618.txt|.|22
+std|.|rfc5028.txt|.|3
+ras|.|rfc6104.txt|.|66
+preference|.|rfc6104.txt|.|8
+rosenberg|.|rfc6062.txt|.|18
+standards|.|rfc4618.txt|.|19|.|rfc4796.txt|.|14|.|rfc3585.txt|.|93|.|rfc5028.txt|.|8|.|rfc2193.txt|.|12|.|rfc6062.txt|.|16
+search request|.|rfc3928.txt|.|18
+ipsec|.|rfc3585.txt|.|181
+communications decency act|.|rfc2057.txt|.|11
+mpls september|.|rfc4618.txt|.|15
+rp|.|rfc4609.txt|.|40
+handle system|.|rfc3652.txt|.|82
+standards track|.|rfc4618.txt|.|18|.|rfc4796.txt|.|13|.|rfc3585.txt|.|90|.|rfc5028.txt|.|7|.|rfc2193.txt|.|11
+authenticate|.|rfc3652.txt|.|32
+access|.|rfc2057.txt|.|92
+association|.|rfc3585.txt|.|136
+turn|.|rfc6062.txt|.|58
+ietf trust|.|rfc4796.txt|.|3
+routing|.|rfc4609.txt|.|36
+search|.|rfc3928.txt|.|107
+advertisements|.|rfc6104.txt|.|19
+communications|.|rfc2057.txt|.|35
+turn tcp|.|rfc6062.txt|.|14
+gstn|.|rfc4160.txt|.|42
+mpls|.|rfc4618.txt|.|50
+attribute|.|rfc4796.txt|.|60
+persist|.|rfc3928.txt|.|23
+embedded|.|rfc4609.txt|.|2
+key|.|rfc3652.txt|.|112
+namespace for public|.|rfc3151.txt|.|9
+policy|.|rfc3585.txt|.|150
+lcup|.|rfc3928.txt|.|89
+detection|.|rfc635.txt|.|8
+memory address|.|rfc3018.txt|.|34
+destination imp|.|rfc142.txt|.|4|.|rfc635.txt|.|21
+address|.|rfc3018.txt|.|154|.|rfc6062.txt|.|28
+memory space protocol|.|rfc3018.txt|.|82
+arpanet|.|rfc635.txt|.|34
+neighbor|.|rfc6104.txt|.|9
+ppp|.|rfc4618.txt|.|26
+face|.|rfc142.txt|.|2
+june|.|rfc2169.txt|.|11
+emulated|.|rfc4061.txt|.|13|.|rfc4618.txt|.|7
+bradner|.|rfc2057.txt|.|21
+network working|.|rfc635.txt|.|2
+urn namespace|.|rfc3151.txt|.|12
+november|.|rfc2057.txt|.|20|.|rfc6062.txt|.|13
+ipsec configuration policy|.|rfc3585.txt|.|89
+mimura|.|rfc4160.txt|.|16
+language|.|rfc2723.txt|.|34
+source|.|rfc2057.txt|.|20|.|rfc4609.txt|.|56
+secure|.|rfc6104.txt|.|6
+source directed access control|.|rfc2057.txt|.|20
+language october|.|rfc2723.txt|.|21
+mailbox referrals|.|rfc2193.txt|.|16
+assessment|.|rfc635.txt|.|21
+act|.|rfc2057.txt|.|15
+fax gateway requirements|.|rfc4160.txt|.|13
+designated|.|rfc4061.txt|.|12
+frame relay|.|rfc4618.txt|.|16
+referrals|.|rfc2193.txt|.|30
+designated router|.|rfc4061.txt|.|12
+protocols|.|rfc635.txt|.|33
+host to host|.|rfc635.txt|.|1
+rtfm attributes|.|rfc2723.txt|.|6
+allocated resources|.|rfc3018.txt|.|2
+race condition|.|rfc142.txt|.|2
+minors|.|rfc2057.txt|.|26
+session description protocol|.|rfc4796.txt|.|7
+brownlee informational|.|rfc2723.txt|.|22
+namespace for public identifiers|.|rfc3151.txt|.|9
+source directed access|.|rfc2057.txt|.|20
+telephone|.|rfc5028.txt|.|6
+duplicate|.|rfc635.txt|.|9
+sync|.|rfc3928.txt|.|82
+rfc|.|rfc4061.txt|.|26|.|rfc3018.txt|.|89|.|rfc2723.txt|.|27|.|rfc2169.txt|.|14|.|rfc6104.txt|.|55
+directed access control|.|rfc2057.txt|.|20
+media stream|.|rfc4796.txt|.|30
+authority|.|rfc3652.txt|.|67
+http|.|rfc2169.txt|.|37
+telephone number mapping|.|rfc5028.txt|.|3
+rtfm|.|rfc2723.txt|.|34
+peer data|.|rfc6062.txt|.|23
+internet|.|rfc3151.txt|.|12|.|rfc4160.txt|.|79
+session description|.|rfc4796.txt|.|14
+ietf|.|rfc4796.txt|.|8
+frame|.|rfc4618.txt|.|21
+trust|.|rfc4796.txt|.|3
+memory|.|rfc3018.txt|.|186
+string|.|rfc3652.txt|.|26
+satop|.|rfc4553.txt|.|165
+onramp gateway|.|rfc4160.txt|.|25
+session|.|rfc4796.txt|.|26
+rate limiter|.|rfc4609.txt|.|2
+classes|.|rfc3585.txt|.|41
+changes|.|rfc3928.txt|.|20
+destination|.|rfc142.txt|.|5|.|rfc635.txt|.|54
+description|.|rfc4796.txt|.|19
+update|.|rfc3928.txt|.|62
+psn|.|rfc4553.txt|.|43
+interface|.|rfc142.txt|.|3
+content|.|rfc4796.txt|.|72
+multicast source|.|rfc4609.txt|.|5
+society|.|rfc3151.txt|.|6
+naming authority|.|rfc3652.txt|.|65
+rate|.|rfc4609.txt|.|7
+agnostic|.|rfc4553.txt|.|1
+flow language|.|rfc2723.txt|.|21
+client|.|rfc3652.txt|.|143
+instant messaging|.|rfc5028.txt|.|11
+operands|.|rfc3018.txt|.|99
+allocation|.|rfc6062.txt|.|27
+directed|.|rfc2057.txt|.|21
+race|.|rfc142.txt|.|2
+authenticate the client|.|rfc3652.txt|.|20
+relay|.|rfc4618.txt|.|16
+camarillo|.|rfc4796.txt|.|15
+label|.|rfc4618.txt|.|21
+message|.|rfc3652.txt|.|321
+persist phase|.|rfc3928.txt|.|23
+satop pws|.|rfc4553.txt|.|21
+service|.|rfc5028.txt|.|8|.|rfc2169.txt|.|9
+security association|.|rfc3585.txt|.|49
+source directed|.|rfc2057.txt|.|20
+routing security|.|rfc4609.txt|.|23
+urn resolution|.|rfc2169.txt|.|13
+duplicate detection|.|rfc635.txt|.|7
+gateway|.|rfc4160.txt|.|87
+taking|.|rfc142.txt|.|3
+copyright|.|rfc4796.txt|.|4
+tcp allocation|.|rfc6062.txt|.|3
+traffic flow|.|rfc2723.txt|.|25
+manral|.|rfc4061.txt|.|20
+description protocol|.|rfc4796.txt|.|7
+april|.|rfc4061.txt|.|19
+internet fax gateway|.|rfc4160.txt|.|19
+multicast routing security|.|rfc4609.txt|.|23
+number|.|rfc5028.txt|.|7
+identified|.|rfc2169.txt|.|4
+credential|.|rfc3652.txt|.|28
+model|.|rfc3585.txt|.|149
+connection|.|rfc3018.txt|.|112|.|rfc6062.txt|.|134
+fax|.|rfc4160.txt|.|96
+flow|.|rfc2723.txt|.|51
+policy model|.|rfc3585.txt|.|95
+phase|.|rfc3928.txt|.|55
+mapping|.|rfc5028.txt|.|4
+satop pw|.|rfc4553.txt|.|26
+telephone number|.|rfc5028.txt|.|4
+topology|.|rfc4061.txt|.|32
+inter|.|rfc142.txt|.|2
+handle|.|rfc3652.txt|.|391
+memory space|.|rfc3018.txt|.|86
+control november|.|rfc2057.txt|.|19
+messaging|.|rfc5028.txt|.|13
+system|.|rfc3652.txt|.|88
+mailbox|.|rfc2193.txt|.|62
+multiplexing|.|rfc4553.txt|.|7
+messages|.|rfc142.txt|.|5|.|rfc635.txt|.|48
+registration|.|rfc5028.txt|.|5
+word|.|rfc4618.txt|.|22
+rosenberg standards|.|rfc6062.txt|.|13
+broadcast|.|rfc4061.txt|.|23
+server|.|rfc2193.txt|.|70|.|rfc6062.txt|.|72
+handle value|.|rfc3652.txt|.|36
+structure agnostic|.|rfc4553.txt|.|1
+public key|.|rfc3652.txt|.|33
+http in urn|.|rfc2169.txt|.|9
+venaas|.|rfc6104.txt|.|18
+network development|.|rfc635.txt|.|1
+resolution service|.|rfc2169.txt|.|8
+pws|.|rfc4553.txt|.|26
+local|.|rfc3018.txt|.|28|.|rfc2193.txt|.|6
+instant|.|rfc5028.txt|.|12
+stream|.|rfc4796.txt|.|37
+indicates|.|rfc3585.txt|.|75
+web|.|rfc2057.txt|.|61
+peer|.|rfc6062.txt|.|54
+internet fax gateway requirements|.|rfc4160.txt|.|13
+policy classes|.|rfc3585.txt|.|6
+identifiers|.|rfc3151.txt|.|48
+incremental|.|rfc3928.txt|.|12
+urn|.|rfc3151.txt|.|19|.|rfc2169.txt|.|44
+turn server|.|rfc6062.txt|.|26
+venaas informational|.|rfc6104.txt|.|16
+advertisements february|.|rfc6104.txt|.|15
+transport address|.|rfc6062.txt|.|22
+gstn fax|.|rfc4160.txt|.|26
+discovery|.|rfc6104.txt|.|8
+ipsec configuration|.|rfc3585.txt|.|90
+broadcast network|.|rfc4061.txt|.|16
+unified|.|rfc3018.txt|.|86
+attributes|.|rfc2723.txt|.|26
+remote mailboxes|.|rfc2193.txt|.|7
+multicast routing|.|rfc4609.txt|.|32
+internet society|.|rfc3151.txt|.|6
+ike|.|rfc3585.txt|.|131
+taking messages|.|rfc142.txt|.|2
+data|.|rfc6062.txt|.|74|.|rfc4553.txt|.|39
+directed access|.|rfc2057.txt|.|20
+gateway requirements|.|rfc4160.txt|.|13
+space|.|rfc3018.txt|.|99
+secure neighbor discovery|.|rfc6104.txt|.|6
+reference|.|rfc4061.txt|.|19
+protocol|.|rfc3928.txt|.|62|.|rfc142.txt|.|4|.|rfc3018.txt|.|198|.|rfc4796.txt|.|16|.|rfc5028.txt|.|13|.|rfc635.txt|.|37|.|rfc2169.txt|.|11
+router|.|rfc4061.txt|.|22|.|rfc6104.txt|.|45
+ldap|.|rfc3928.txt|.|90
+pim|.|rfc4609.txt|.|60
+mahy|.|rfc5028.txt|.|8
+negotiation|.|rfc3585.txt|.|58
+octets|.|rfc3018.txt|.|278
+host|.|rfc142.txt|.|2|.|rfc635.txt|.|65
+links|.|rfc4061.txt|.|13
+group|.|rfc4609.txt|.|48
+traffic|.|rfc2723.txt|.|40
+sync phase|.|rfc3928.txt|.|29
+rogue|.|rfc6104.txt|.|73
+resolver|.|rfc2169.txt|.|13
+development|.|rfc635.txt|.|4
+resource|.|rfc2169.txt|.|28
+arpanet protocols|.|rfc635.txt|.|21
+fax gateway|.|rfc4160.txt|.|19
+mailboxes|.|rfc2193.txt|.|17
+offramp gateway|.|rfc4160.txt|.|34
+entry|.|rfc3928.txt|.|107
+condition|.|rfc142.txt|.|2
+offramp|.|rfc4160.txt|.|39
+local memory address|.|rfc3018.txt|.|12
+naming|.|rfc3652.txt|.|77
+header|.|rfc3652.txt|.|49
+october|.|rfc2723.txt|.|25
+cardinality indicates|.|rfc3585.txt|.|52
+option|.|rfc6104.txt|.|10
+router advertisements|.|rfc6104.txt|.|19
+request|.|rfc3928.txt|.|54|.|rfc2169.txt|.|25
+inter face|.|rfc142.txt|.|2
+tcp november|.|rfc6062.txt|.|12
+configuration policy|.|rfc3585.txt|.|89
+configuration|.|rfc3585.txt|.|101
+local mailboxes|.|rfc2193.txt|.|3
+media|.|rfc4796.txt|.|54
+imp|.|rfc142.txt|.|5|.|rfc635.txt|.|59
+point|.|rfc4061.txt|.|1
+bradner informational|.|rfc2057.txt|.|19
+network|.|rfc4061.txt|.|37|.|rfc4618.txt|.|15|.|rfc635.txt|.|30
+incremental or update|.|rfc3928.txt|.|3
+unified memory space|.|rfc3018.txt|.|82
+security|.|rfc3585.txt|.|87|.|rfc4609.txt|.|36
+september|.|rfc4618.txt|.|18
+public|.|rfc3151.txt|.|59|.|rfc3652.txt|.|37
+benchmarking april|.|rfc4061.txt|.|15
+internet fax|.|rfc4160.txt|.|57
+limiter|.|rfc4609.txt|.|3
+working|.|rfc635.txt|.|2
+informational|.|rfc2057.txt|.|22|.|rfc2723.txt|.|23|.|rfc6104.txt|.|20
+rogue ras|.|rfc6104.txt|.|29
+track|.|rfc4618.txt|.|18|.|rfc4796.txt|.|12|.|rfc3585.txt|.|89|.|rfc5028.txt|.|6|.|rfc2193.txt|.|10
+onramp|.|rfc4160.txt|.|30
+value|.|rfc3652.txt|.|72
+authentication|.|rfc3652.txt|.|49
+allocated|.|rfc3018.txt|.|19
+tcp|.|rfc6062.txt|.|61
+content attribute|.|rfc4796.txt|.|46
+requirements|.|rfc4160.txt|.|13
+mpls label|.|rfc4618.txt|.|9
+february|.|rfc6104.txt|.|18
+emulation|.|rfc4553.txt|.|18
+resources|.|rfc3018.txt|.|18
+urn namespace for public|.|rfc3151.txt|.|9
+control|.|rfc4618.txt|.|33|.|rfc2057.txt|.|39
+transport|.|rfc4618.txt|.|30|.|rfc6062.txt|.|28
+multipacket|.|rfc635.txt|.|13
+srl|.|rfc2723.txt|.|58
+multicast|.|rfc4609.txt|.|101
+cardinality|.|rfc3585.txt|.|56
+structure|.|rfc4553.txt|.|11
+urn namespace for public identifiers|.|rfc3151.txt|.|9
+entry changes|.|rfc3928.txt|.|3
+brownlee|.|rfc2723.txt|.|27
+public identifiers|.|rfc3151.txt|.|35
+namespace|.|rfc3151.txt|.|32
+resolution protocol|.|rfc2169.txt|.|6
+message credential|.|rfc3652.txt|.|26
+tdm|.|rfc4553.txt|.|95

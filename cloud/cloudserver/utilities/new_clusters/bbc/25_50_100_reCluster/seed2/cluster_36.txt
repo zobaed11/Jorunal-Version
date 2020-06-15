@@ -1,0 +1,26 @@
+36
+kennedy said|.|bbc1313.txt|.|2
+suspended a candidate|.|bbc1021.txt|.|1
+autumn conference|.|bbc900.txt|.|2|.|bbc1226.txt|.|2
+hockney said|.|bbc1184.txt|.|2
+uk independence|.|bbc1184.txt|.|2
+independence|.|bbc1184.txt|.|2
+conservatives|.|bbc1307.txt|.|1|.|bbc1200.txt|.|2|.|bbc1108.txt|.|1
+peter|.|bbc1307.txt|.|2
+topped|.|bbc739.txt|.|1
+new ukip|.|bbc1184.txt|.|1
+class|.|bbc900.txt|.|2|.|bbc1226.txt|.|2
+caution|.|bbc1180.txt|.|2
+london assembly|.|bbc1184.txt|.|2
+flying pigs|.|bbc1124.txt|.|1
+eurosceptic|.|bbc1184.txt|.|2
+independence party|.|bbc1184.txt|.|2
+labour party|.|bbc1152.txt|.|3|.|bbc900.txt|.|2|.|bbc1124.txt|.|2|.|bbc1226.txt|.|2
+working class|.|bbc900.txt|.|2|.|bbc1226.txt|.|2
+bournemouth|.|bbc900.txt|.|2|.|bbc1226.txt|.|2
+topped sound|.|bbc739.txt|.|1
+kennedy|.|bbc1313.txt|.|7|.|bbc1180.txt|.|3
+flying|.|bbc1124.txt|.|1
+autumn|.|bbc900.txt|.|2|.|bbc1226.txt|.|2
+party|.|bbc1021.txt|.|2|.|bbc739.txt|.|2|.|bbc1180.txt|.|11|.|bbc1108.txt|.|4|.|bbc1184.txt|.|6|.|bbc1307.txt|.|8|.|bbc1152.txt|.|3|.|bbc1292.txt|.|10|.|bbc1313.txt|.|9|.|bbc1200.txt|.|2|.|bbc900.txt|.|6|.|bbc1124.txt|.|3|.|bbc1226.txt|.|6|.|bbc1192.txt|.|2
+eurosceptic party|.|bbc1184.txt|.|2

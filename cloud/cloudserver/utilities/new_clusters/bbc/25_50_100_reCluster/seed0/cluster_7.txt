@@ -1,0 +1,31 @@
+7
+policing|.|bbc1116.txt|.|2
+home country|.|bbc1042.txt|.|1
+asylum children|.|bbc974.txt|.|1
+proper|.|bbc1116.txt|.|2
+proper policing|.|bbc1116.txt|.|2
+consuming|.|bbc1918.txt|.|1
+migrant|.|bbc1116.txt|.|1
+ruled|.|bbc1280.txt|.|1
+home secretary|.|bbc937.txt|.|3|.|bbc1116.txt|.|3|.|bbc1280.txt|.|4|.|bbc936.txt|.|3|.|bbc1264.txt|.|2|.|bbc1078.txt|.|3
+terrorism|.|bbc1264.txt|.|1
+david blunkett|.|bbc937.txt|.|2
+home entertainment|.|bbc1918.txt|.|3
+backing for id cards|.|bbc977.txt|.|1
+asylum claims|.|bbc1266.txt|.|1
+lords ruled|.|bbc1280.txt|.|1
+tech fair|.|bbc2171.txt|.|1
+police searches|.|bbc1001.txt|.|1
+suspected|.|bbc1264.txt|.|1
+simply wrong|.|bbc936.txt|.|2
+home international|.|bbc1412.txt|.|2
+international series|.|bbc1412.txt|.|2
+home|.|bbc974.txt|.|2|.|bbc1266.txt|.|3|.|bbc1280.txt|.|4|.|bbc2140.txt|.|4|.|bbc936.txt|.|4|.|bbc393.txt|.|2|.|bbc977.txt|.|3|.|bbc1245.txt|.|3|.|bbc2171.txt|.|4|.|bbc1264.txt|.|3|.|bbc1078.txt|.|5|.|bbc937.txt|.|6|.|bbc1591.txt|.|3|.|bbc1918.txt|.|6|.|bbc1116.txt|.|5|.|bbc1001.txt|.|2|.|bbc1042.txt|.|2|.|bbc1412.txt|.|5|.|bbc2001.txt|.|2|.|bbc1421.txt|.|2
+fixture|.|bbc1412.txt|.|1
+permanently stored|.|bbc1042.txt|.|1
+seeking children|.|bbc974.txt|.|1
+home video|.|bbc1918.txt|.|2
+detention ruling|.|bbc1264.txt|.|1
+stops|.|bbc1001.txt|.|1
+resign|.|bbc937.txt|.|1
+simply|.|bbc936.txt|.|2

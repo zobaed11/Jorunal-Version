@@ -1,0 +1,53 @@
+6
+dedicated|.|rfc2129.txt|.|3
+ip packet|.|rfc2129.txt|.|9
+edi mime|.|rfc3335.txt|.|6
+modifier|.|rfc3798.txt|.|9
+tnc message|.|rfc5793.txt|.|12
+validator|.|rfc5793.txt|.|50
+rsvp capable|.|rfc5945.txt|.|2
+mn ha|.|rfc6098.txt|.|2
+controlled proxy|.|rfc5945.txt|.|1
+disposition modifier|.|rfc3798.txt|.|8
+mdn gateway|.|rfc3798.txt|.|1
+message|.|rfc5655.txt|.|167|.|rfc3588.txt|.|288|.|rfc4227.txt|.|60|.|rfc31.txt|.|29|.|rfc5389.txt|.|129|.|rfc5256.txt|.|106|.|rfc3537.txt|.|5|.|rfc5751.txt|.|193|.|rfc3853.txt|.|5|.|rfc3204.txt|.|17|.|rfc3320.txt|.|168|.|rfc2752.txt|.|25|.|rfc3579.txt|.|24|.|rfc2129.txt|.|116|.|rfc3447.txt|.|187|.|rfc2315.txt|.|94|.|rfc5142.txt|.|68|.|rfc3798.txt|.|163|.|rfc5606.txt|.|18|.|rfc6160.txt|.|12|.|rfc6098.txt|.|190|.|rfc5878.txt|.|37|.|rfc5945.txt|.|65|.|rfc2080.txt|.|18|.|rfc3335.txt|.|126|.|rfc3547.txt|.|103|.|rfc2476.txt|.|78|.|rfc5461.txt|.|16|.|rfc2576.txt|.|73|.|rfc3321.txt|.|52|.|rfc2745.txt|.|81|.|rfc467.txt|.|27|.|rfc5793.txt|.|524|.|rfc5064.txt|.|70
+using ipfix files|.|rfc5655.txt|.|10
+remediation parameters|.|rfc5793.txt|.|59
+system has to operate|.|rfc2129.txt|.|3
+pb tnc|.|rfc5793.txt|.|19
+pull|.|rfc3547.txt|.|1
+operate|.|rfc2129.txt|.|4
+archived form|.|rfc5064.txt|.|5
+sort and thread|.|rfc5256.txt|.|8
+posture validator|.|rfc5793.txt|.|50
+dedicated vc|.|rfc2129.txt|.|2
+dynamic host
+route selection
+dynamic host configuration
+message must begin
+message type
+modifiers
+message processing
+center for advanced
+idea encryption algorithm
+idea encryption
+message authentication
+idea encryption algorithm in cms
+working lsp
+port randomization
+messages using
+mint
+envelope
+cookies
+port selection
+mime body part
+mint tags
+laurel
+camellia encryption
+port numbers
+camellia encryption algorithm
+proxy neighbor
+boxes
+ticket
+message context
+ticket granting

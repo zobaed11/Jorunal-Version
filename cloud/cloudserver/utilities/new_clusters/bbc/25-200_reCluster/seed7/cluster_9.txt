@@ -1,0 +1,56 @@
+9
+iranian|.|bbc1449.txt|.|2
+tour new|.|bbc1715.txt|.|1
+matt williams|.|bbc1611.txt|.|3
+northern|.|bbc1715.txt|.|2
+roger|.|bbc1738.txt|.|3
+blacks|.|bbc1679.txt|.|2|.|bbc1642.txt|.|2
+rugby aid|.|bbc1642.txt|.|2
+bryan twins|.|bbc1785.txt|.|2
+twins|.|bbc1785.txt|.|2
+stewart|.|bbc1458.txt|.|2
+host|.|bbc1715.txt|.|2|.|bbc729.txt|.|3
+downing|.|bbc1458.txt|.|2
+zealand|.|bbc1715.txt|.|4|.|bbc1681.txt|.|1|.|bbc1698.txt|.|2|.|bbc1642.txt|.|3
+ten|.|bbc1453.txt|.|2
+australian rugby|.|bbc1715.txt|.|2
+rain|.|bbc1747.txt|.|2
+assistants|.|bbc1453.txt|.|1
+international rugby board|.|bbc1659.txt|.|2
+hashemian|.|bbc1449.txt|.|2
+judo|.|bbc1449.txt|.|2
+protest|.|bbc1659.txt|.|2
+game was handled|.|bbc1611.txt|.|1
+rijkaard|.|bbc1453.txt|.|4
+ljubicic|.|bbc1738.txt|.|4|.|bbc1747.txt|.|2
+captains|.|bbc1652.txt|.|2
+bob|.|bbc1785.txt|.|2
+bath prop|.|bbc1647.txt|.|2
+pelous|.|bbc1652.txt|.|2
+southern hemisphere|.|bbc1715.txt|.|2
+southern|.|bbc1715.txt|.|3|.|bbc353.txt|.|3
+alive|.|bbc1785.txt|.|2
+spokesman said|.|bbc1449.txt|.|2
+bob bryan|.|bbc1785.txt|.|2
+bullock|.|bbc1652.txt|.|2
+rugby board|.|bbc1659.txt|.|2
+frustrating|.|bbc1747.txt|.|2
+new zealand|.|bbc1715.txt|.|4|.|bbc1681.txt|.|1|.|bbc1698.txt|.|2|.|bbc1642.txt|.|3
+sydney to host|.|bbc1715.txt|.|1
+graz|.|bbc1458.txt|.|2
+irb|.|bbc1659.txt|.|2
+hemisphere|.|bbc1715.txt|.|2|.|bbc1652.txt|.|2
+charity match|.|bbc1715.txt|.|4
+decisions|.|bbc1611.txt|.|4
+umpire|.|bbc1747.txt|.|2
+england have named|.|bbc1647.txt|.|1
+witnessed|.|bbc1453.txt|.|2
+aid match|.|bbc1652.txt|.|2|.|bbc1642.txt|.|2
+cate|.|bbc1453.txt|.|2
+looked|.|bbc1738.txt|.|1
+match|.|bbc1715.txt|.|6|.|bbc1747.txt|.|2|.|bbc1785.txt|.|3|.|bbc1647.txt|.|2|.|bbc1458.txt|.|2|.|bbc1453.txt|.|3|.|bbc1738.txt|.|3|.|bbc1652.txt|.|3|.|bbc1642.txt|.|4|.|bbc1748.txt|.|3|.|bbc1449.txt|.|2|.|bbc1611.txt|.|3|.|bbc1659.txt|.|2
+dubai|.|bbc1738.txt|.|2|.|bbc1747.txt|.|2
+world number|.|bbc1738.txt|.|2
+ten cate|.|bbc1453.txt|.|2
+handled|.|bbc1611.txt|.|1
+rugby union|.|bbc1715.txt|.|2

@@ -1,0 +1,30 @@
+7
+policing|.|bbc1116.txt|.|2
+home country|.|bbc1042.txt|.|1
+arrest|.|bbc966.txt|.|2
+house arrest|.|bbc966.txt|.|2
+serious misgivings|.|bbc966.txt|.|2
+proper|.|bbc1116.txt|.|2
+proper policing|.|bbc1116.txt|.|2
+foreign terror|.|bbc966.txt|.|2
+misgivings|.|bbc966.txt|.|2
+migrant|.|bbc1116.txt|.|1
+home secretary|.|bbc1116.txt|.|3|.|bbc966.txt|.|3|.|bbc936.txt|.|3|.|bbc1264.txt|.|2
+terrorism|.|bbc1264.txt|.|1
+serious|.|bbc966.txt|.|4|.|bbc289.txt|.|2|.|bbc1858.txt|.|3
+backing for id cards|.|bbc977.txt|.|1
+home international series|.|bbc1412.txt|.|2
+bank of mexico|.|bbc84.txt|.|1
+living|.|bbc84.txt|.|1
+suspected|.|bbc1264.txt|.|1
+terror suspects|.|bbc966.txt|.|3
+simply wrong|.|bbc936.txt|.|2
+home international|.|bbc1412.txt|.|2
+international series|.|bbc1412.txt|.|2
+home|.|bbc2140.txt|.|4|.|bbc966.txt|.|8|.|bbc936.txt|.|4|.|bbc393.txt|.|2|.|bbc977.txt|.|3|.|bbc1245.txt|.|3|.|bbc1435.txt|.|2|.|bbc1264.txt|.|3|.|bbc1130.txt|.|3|.|bbc84.txt|.|2|.|bbc1591.txt|.|3|.|bbc1116.txt|.|5|.|bbc1042.txt|.|2|.|bbc1412.txt|.|5|.|bbc1858.txt|.|7|.|bbc1421.txt|.|2
+fixture|.|bbc1412.txt|.|1
+permanently stored|.|bbc1042.txt|.|1
+mexico|.|bbc84.txt|.|1
+robinson said|.|bbc1264.txt|.|1
+detention ruling|.|bbc1264.txt|.|1
+simply|.|bbc936.txt|.|2

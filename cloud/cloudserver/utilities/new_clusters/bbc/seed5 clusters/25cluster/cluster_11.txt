@@ -1,0 +1,58 @@
+11
+tries|.|bbc1697.txt|.|2
+win the next game|.|bbc1454.txt|.|1
+gerrard|.|bbc1454.txt|.|3
+university fees|.|bbc1109.txt|.|2
+liverpool|.|bbc1572.txt|.|3|.|bbc1585.txt|.|5|.|bbc1549.txt|.|3|.|bbc1454.txt|.|3|.|bbc1478.txt|.|1
+seats|.|bbc1109.txt|.|4
+wood believes|.|bbc1665.txt|.|2
+late|.|bbc1591.txt|.|2
+ireland can win|.|bbc1665.txt|.|2
+wood|.|bbc1665.txt|.|6
+weston|.|bbc1697.txt|.|2
+dems say|.|bbc1109.txt|.|2
+goals|.|bbc1549.txt|.|2|.|bbc1489.txt|.|2
+glasgow|.|bbc1388.txt|.|2
+portsmouth|.|bbc1591.txt|.|3
+contest|.|bbc682.txt|.|4|.|bbc1648.txt|.|3
+champions|.|bbc1549.txt|.|3|.|bbc1454.txt|.|2|.|bbc1449.txt|.|1|.|bbc1473.txt|.|5
+teams|.|bbc1665.txt|.|1
+last|.|bbc80.txt|.|3|.|bbc317.txt|.|4|.|bbc726.txt|.|5|.|bbc1814.txt|.|2|.|bbc425.txt|.|2|.|bbc1485.txt|.|3|.|bbc503.txt|.|2|.|bbc310.txt|.|1|.|bbc689.txt|.|5|.|bbc2042.txt|.|2|.|bbc1665.txt|.|5|.|bbc813.txt|.|3|.|bbc85.txt|.|2
+finished|.|bbc1307.txt|.|2|.|bbc1322.txt|.|3|.|bbc1677.txt|.|5
+ulster|.|bbc1697.txt|.|4
+gardener|.|bbc1388.txt|.|3|.|bbc1322.txt|.|4
+steven|.|bbc1454.txt|.|2
+lib dems|.|bbc1109.txt|.|5|.|bbc1235.txt|.|6|.|bbc1165.txt|.|2|.|bbc1294.txt|.|3|.|bbc1299.txt|.|2|.|bbc981.txt|.|1
+know|.|bbc1165.txt|.|2|.|bbc1489.txt|.|2
+indoor|.|bbc1368.txt|.|1|.|bbc1325.txt|.|2|.|bbc1373.txt|.|4|.|bbc1379.txt|.|3|.|bbc1322.txt|.|6|.|bbc1383.txt|.|3|.|bbc1382.txt|.|6
+win grand slam|.|bbc1665.txt|.|1
+try|.|bbc1697.txt|.|2
+drogba|.|bbc1591.txt|.|3
+quashie|.|bbc1591.txt|.|3
+boss|.|bbc1456.txt|.|1|.|bbc1526.txt|.|2|.|bbc385.txt|.|2|.|bbc1489.txt|.|2
+student|.|bbc1109.txt|.|4
+borders|.|bbc1697.txt|.|7
+city|.|bbc1452.txt|.|3|.|bbc461.txt|.|1|.|bbc70.txt|.|4|.|bbc1489.txt|.|4
+ahead|.|bbc1559.txt|.|3|.|bbc1388.txt|.|2
+dems|.|bbc1109.txt|.|5|.|bbc1235.txt|.|6|.|bbc1165.txt|.|2|.|bbc1294.txt|.|3|.|bbc1299.txt|.|2|.|bbc981.txt|.|1
+cole|.|bbc1591.txt|.|5|.|bbc1476.txt|.|2
+substitute|.|bbc1697.txt|.|2
+leipzig|.|bbc1322.txt|.|2
+believes|.|bbc1665.txt|.|2
+place|.|bbc1458.txt|.|2|.|bbc616.txt|.|2|.|bbc731.txt|.|5
+win|.|bbc1109.txt|.|2|.|bbc1591.txt|.|3|.|bbc1458.txt|.|2|.|bbc1697.txt|.|2|.|bbc1388.txt|.|3|.|bbc1454.txt|.|5|.|bbc1322.txt|.|3|.|bbc1665.txt|.|4|.|bbc1648.txt|.|3|.|bbc1108.txt|.|2|.|bbc1489.txt|.|2
+vote|.|bbc1109.txt|.|6
+norwich|.|bbc1376.txt|.|2|.|bbc1489.txt|.|3
+italy|.|bbc1615.txt|.|9|.|bbc1648.txt|.|3
+side|.|bbc1648.txt|.|1
+cunningham|.|bbc1697.txt|.|3|.|bbc1132.txt|.|4
+relay|.|bbc1388.txt|.|3
+fowler|.|bbc1452.txt|.|5|.|bbc1489.txt|.|3
+say|.|bbc1109.txt|.|4|.|bbc971.txt|.|3|.|bbc568.txt|.|2|.|bbc1161.txt|.|2
+steinmetz|.|bbc1697.txt|.|4
+robben|.|bbc1591.txt|.|5|.|bbc1427.txt|.|5
+pompey|.|bbc1591.txt|.|4
+keegan|.|bbc1489.txt|.|6
+win a grand|.|bbc1665.txt|.|1
+champions league|.|bbc1549.txt|.|3|.|bbc1454.txt|.|2|.|bbc1473.txt|.|5
+chester

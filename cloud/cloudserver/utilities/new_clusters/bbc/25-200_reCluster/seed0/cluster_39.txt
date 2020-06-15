@@ -1,0 +1,20 @@
+39
+golden rule|.|bbc195.txt|.|4
+mr chidambaram|.|bbc159.txt|.|7
+projects|.|bbc195.txt|.|1|.|bbc1991.txt|.|1
+south african|.|bbc55.txt|.|3
+social|.|bbc55.txt|.|2
+administration|.|bbc245.txt|.|2
+spending on primary|.|bbc159.txt|.|2
+manuel|.|bbc55.txt|.|4
+health|.|bbc159.txt|.|3|.|bbc1161.txt|.|2
+seek|.|bbc249.txt|.|1
+puts|.|bbc2155.txt|.|1
+budget include|.|bbc249.txt|.|1
+spending|.|bbc1255.txt|.|3|.|bbc438.txt|.|2|.|bbc55.txt|.|5|.|bbc249.txt|.|8|.|bbc124.txt|.|1|.|bbc1240.txt|.|6|.|bbc245.txt|.|9|.|bbc159.txt|.|8|.|bbc182.txt|.|2|.|bbc195.txt|.|5|.|bbc1456.txt|.|1|.|bbc214.txt|.|2|.|bbc2155.txt|.|2|.|bbc240.txt|.|2|.|bbc175.txt|.|5
+spending projects|.|bbc195.txt|.|1
+manuel said|.|bbc55.txt|.|2
+income tax|.|bbc55.txt|.|2
+social spending|.|bbc55.txt|.|2
+primary|.|bbc159.txt|.|2
+breaking|.|bbc195.txt|.|2

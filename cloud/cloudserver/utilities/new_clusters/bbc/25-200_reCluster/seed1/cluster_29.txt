@@ -1,0 +1,14 @@
+29
+game playing|.|bbc1919.txt|.|1
+travel expenses|.|bbc1964.txt|.|1
+knights|.|bbc1949.txt|.|1
+game|.|bbc1632.txt|.|1|.|bbc1963.txt|.|13|.|bbc1446.txt|.|3|.|bbc1454.txt|.|2|.|bbc1709.txt|.|1|.|bbc1539.txt|.|2|.|bbc1513.txt|.|2|.|bbc1464.txt|.|2|.|bbc1549.txt|.|2|.|bbc1655.txt|.|2|.|bbc1748.txt|.|2|.|bbc1646.txt|.|2|.|bbc1611.txt|.|3|.|bbc1501.txt|.|1|.|bbc1964.txt|.|6|.|bbc1554.txt|.|2|.|bbc1919.txt|.|11|.|bbc1949.txt|.|5|.|bbc2002.txt|.|3|.|bbc1936.txt|.|2|.|bbc1558.txt|.|2|.|bbc1580.txt|.|2|.|bbc1621.txt|.|5|.|bbc1829.txt|.|6|.|bbc1453.txt|.|3|.|bbc1679.txt|.|2|.|bbc1816.txt|.|1|.|bbc1652.txt|.|2|.|bbc1614.txt|.|4|.|bbc1733.txt|.|2|.|bbc2042.txt|.|4|.|bbc1665.txt|.|1|.|bbc1432.txt|.|4|.|bbc1648.txt|.|3|.|bbc2090.txt|.|9
+handsets than own|.|bbc1919.txt|.|1
+mobile operators|.|bbc1919.txt|.|1
+graphics|.|bbc2090.txt|.|2
+platform game|.|bbc2090.txt|.|2
+jedi|.|bbc1949.txt|.|1
+good arrogance|.|bbc1621.txt|.|1
+stakes|.|bbc1621.txt|.|1
+operators|.|bbc1919.txt|.|1
+affair|.|bbc2090.txt|.|2

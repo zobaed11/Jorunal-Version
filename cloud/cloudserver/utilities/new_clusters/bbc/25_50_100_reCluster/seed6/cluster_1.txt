@@ -1,0 +1,32 @@
+1
+distance|.|bbc162.txt|.|1
+long distance|.|bbc162.txt|.|1
+sunday telegraph|.|bbc14.txt|.|2|.|bbc179.txt|.|2
+euronext|.|bbc264.txt|.|7
+cash bid|.|bbc264.txt|.|2
+boerse|.|bbc279.txt|.|5|.|bbc220.txt|.|6|.|bbc264.txt|.|4
+blues|.|bbc1586.txt|.|2
+talks with the lse|.|bbc279.txt|.|2
+newcastle to join|.|bbc1585.txt|.|1
+seals|.|bbc162.txt|.|1
+dialogue|.|bbc1502.txt|.|2
+friday|.|bbc202.txt|.|2
+tottenham|.|bbc1504.txt|.|2
+stock|.|bbc279.txt|.|4|.|bbc220.txt|.|3|.|bbc233.txt|.|2|.|bbc264.txt|.|4|.|bbc48.txt|.|2|.|bbc215.txt|.|4
+rafa|.|bbc1585.txt|.|2
+irish duo|.|bbc179.txt|.|2
+us phone|.|bbc202.txt|.|2
+tottenham bid|.|bbc1504.txt|.|1
+rafa benitez|.|bbc1585.txt|.|2
+utd|.|bbc179.txt|.|2
+reid rejected|.|bbc1504.txt|.|2
+deutsche|.|bbc279.txt|.|4|.|bbc83.txt|.|3|.|bbc220.txt|.|9|.|bbc264.txt|.|6
+midfielder|.|bbc1502.txt|.|2
+deutsche boerse|.|bbc279.txt|.|4|.|bbc220.txt|.|6|.|bbc264.txt|.|4
+man utd|.|bbc179.txt|.|2
+rovers|.|bbc1502.txt|.|2
+phone firm|.|bbc202.txt|.|2
+exchange|.|bbc279.txt|.|4|.|bbc220.txt|.|3|.|bbc264.txt|.|3|.|bbc48.txt|.|2
+reid|.|bbc1504.txt|.|4
+brady|.|bbc1586.txt|.|2
+bid|.|bbc242.txt|.|7|.|bbc279.txt|.|5|.|bbc1585.txt|.|2|.|bbc1586.txt|.|2|.|bbc202.txt|.|2|.|bbc264.txt|.|6|.|bbc179.txt|.|5|.|bbc1504.txt|.|3|.|bbc162.txt|.|2|.|bbc1502.txt|.|2

@@ -1,0 +1,4 @@
+12
+election|.|bbc955.txt|.|3|.|bbc1217.txt|.|4|.|bbc1255.txt|.|6|.|bbc1947.txt|.|2|.|bbc1294.txt|.|3|.|bbc1299.txt|.|4|.|bbc1145.txt|.|4|.|bbc1200.txt|.|1|.|bbc1256.txt|.|4|.|bbc1310.txt|.|2|.|bbc1230.txt|.|5|.|bbc1150.txt|.|6|.|bbc1222.txt|.|4|.|bbc1109.txt|.|5|.|bbc1164.txt|.|2|.|bbc1245.txt|.|3|.|bbc1275.txt|.|5|.|bbc1240.txt|.|6|.|bbc1180.txt|.|9|.|bbc1199.txt|.|3|.|bbc918.txt|.|2|.|bbc1055.txt|.|7|.|bbc1229.txt|.|5|.|bbc1003.txt|.|5|.|bbc1114.txt|.|2|.|bbc1271.txt|.|6|.|bbc1246.txt|.|7|.|bbc1148.txt|.|3|.|bbc1293.txt|.|3|.|bbc1174.txt|.|5|.|bbc917.txt|.|2
+press conferences|.|bbc1174.txt|.|1
+conferences|.|bbc1174.txt|.|1

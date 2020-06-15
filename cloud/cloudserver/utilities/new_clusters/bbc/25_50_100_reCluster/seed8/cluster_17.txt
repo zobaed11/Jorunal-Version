@@ -1,0 +1,58 @@
+17
+tries|.|bbc1697.txt|.|2
+win the next game|.|bbc1454.txt|.|1
+gerrard|.|bbc1454.txt|.|3
+university fees|.|bbc1109.txt|.|2
+liverpool|.|bbc1572.txt|.|3|.|bbc1585.txt|.|5|.|bbc1549.txt|.|3|.|bbc1454.txt|.|3|.|bbc1478.txt|.|1
+seats|.|bbc1109.txt|.|4
+benitez|.|bbc1572.txt|.|4|.|bbc1585.txt|.|3|.|bbc1549.txt|.|3|.|bbc1454.txt|.|5|.|bbc1478.txt|.|2
+win students|.|bbc1109.txt|.|1
+wood believes|.|bbc1665.txt|.|2
+late|.|bbc1591.txt|.|2
+stewart|.|bbc1458.txt|.|2
+ireland can win|.|bbc1665.txt|.|2
+downing|.|bbc1458.txt|.|2
+wood|.|bbc1665.txt|.|6
+weston|.|bbc1697.txt|.|2
+dems say|.|bbc1109.txt|.|2
+meeting|.|bbc1444.txt|.|2|.|bbc486.txt|.|3|.|bbc1322.txt|.|6|.|bbc1377.txt|.|2
+goals|.|bbc1549.txt|.|2|.|bbc1489.txt|.|2
+glasgow|.|bbc1388.txt|.|2
+portsmouth|.|bbc1591.txt|.|3
+champions|.|bbc1549.txt|.|3|.|bbc1454.txt|.|2|.|bbc1449.txt|.|1|.|bbc1473.txt|.|5
+teams|.|bbc1665.txt|.|1
+finished|.|bbc1307.txt|.|2|.|bbc1322.txt|.|3|.|bbc1677.txt|.|5
+ulster|.|bbc1697.txt|.|4
+gardener|.|bbc1388.txt|.|3|.|bbc1322.txt|.|4
+steven|.|bbc1454.txt|.|2
+know|.|bbc1165.txt|.|2|.|bbc1489.txt|.|2
+win grand slam|.|bbc1665.txt|.|1
+try|.|bbc1697.txt|.|2
+drogba|.|bbc1591.txt|.|3
+quashie|.|bbc1591.txt|.|3
+student|.|bbc1109.txt|.|4
+borders|.|bbc1697.txt|.|7
+student vote|.|bbc1109.txt|.|1
+substitute|.|bbc1697.txt|.|2
+leipzig|.|bbc1322.txt|.|2
+democrat|.|bbc1109.txt|.|1
+believes|.|bbc1665.txt|.|2
+graz|.|bbc1458.txt|.|2
+statement|.|bbc384.txt|.|2|.|bbc1108.txt|.|2|.|bbc48.txt|.|1
+win|.|bbc1109.txt|.|2|.|bbc1591.txt|.|3|.|bbc1458.txt|.|2|.|bbc1697.txt|.|2|.|bbc1388.txt|.|3|.|bbc1454.txt|.|5|.|bbc1322.txt|.|3|.|bbc1665.txt|.|4|.|bbc1648.txt|.|3|.|bbc1108.txt|.|2|.|bbc1489.txt|.|2
+vote|.|bbc1109.txt|.|6
+norwich|.|bbc1376.txt|.|2|.|bbc1489.txt|.|3
+hamstring|.|bbc1368.txt|.|4|.|bbc1458.txt|.|2
+side|.|bbc1648.txt|.|1
+cunningham|.|bbc1697.txt|.|3|.|bbc1132.txt|.|4
+boro|.|bbc1458.txt|.|2|.|bbc1535.txt|.|3
+said in a statement|.|bbc1108.txt|.|1
+relay|.|bbc1388.txt|.|3
+liberal democrat|.|bbc1109.txt|.|1
+steinmetz|.|bbc1697.txt|.|4
+robben|.|bbc1591.txt|.|5|.|bbc1427.txt|.|5
+pompey|.|bbc1591.txt|.|4
+denied|.|bbc1452.txt|.|2|.|bbc1108.txt|.|1|.|bbc1478.txt|.|2
+keegan|.|bbc1489.txt|.|6
+win a grand|.|bbc1665.txt|.|1
+champions league|.|bbc1549.txt|.|3|.|bbc1454.txt|.|2|.|bbc1473.txt|.|5

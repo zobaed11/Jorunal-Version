@@ -1,0 +1,34 @@
+26
+relative distinguished|.|rfc4511.txt|.|6
+example value|.|rfc4222.txt|.|10
+value length|.|rfc2910.txt|.|3
+terminate the ldap session|.|rfc4511.txt|.|10
+attribute group|.|rfc2910.txt|.|14
+internet printing protocol|.|rfc2565.txt|.|21
+symmetric response routing|.|rfc3581.txt|.|13
+abandon operation|.|rfc4511.txt|.|8
+assertion|.|rfc4511.txt|.|19
+attributes tag|.|rfc2565.txt|.|1
+tag|.|rfc3720.txt|.|209|.|rfc2506.txt|.|52|.|rfc4034.txt|.|55|.|rfc5131.txt|.|7|.|rfc2565.txt|.|40|.|rfc2910.txt|.|28
+prioritized treatment|.|rfc4222.txt|.|18
+value|.|rfc4222.txt|.|27|.|rfc4342.txt|.|26|.|rfc5546.txt|.|139|.|rfc2983.txt|.|22|.|rfc3581.txt|.|17|.|rfc4511.txt|.|61|.|rfc2565.txt|.|166|.|rfc3567.txt|.|12|.|rfc2910.txt|.|184
+icalendar object|.|rfc5546.txt|.|68
+itip|.|rfc5546.txt|.|222
+ip tunnels|.|rfc2983.txt|.|8
+storm|.|rfc4222.txt|.|15
+ipp|.|rfc2565.txt|.|115|.|rfc2910.txt|.|170|.|rfc2566.txt|.|685
+treatment october|.|rfc4222.txt|.|14
+assertion value|.|rfc4511.txt|.|8
+result code|.|rfc4511.txt|.|18
+printing|.|rfc2565.txt|.|26|.|rfc2910.txt|.|28
+value tag|.|rfc2565.txt|.|1|.|rfc2910.txt|.|1
+request or response|.|rfc2910.txt|.|11
+intermediateresponse messages|.|rfc4511.txt|.|12
+intermediateresponse|.|rfc4511.txt|.|25
+name length|.|rfc2910.txt|.|1
+referral|.|rfc4511.txt|.|34
+abandon|.|rfc4511.txt|.|24
+terminate|.|rfc4511.txt|.|12
+transport april|.|rfc2565.txt|.|36
+outer ip|.|rfc2983.txt|.|16
+field value|.|rfc3581.txt|.|12

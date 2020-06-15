@@ -1,0 +1,57 @@
+6
+raise money|.|bbc621.txt|.|2
+congress|.|bbc41.txt|.|3|.|bbc249.txt|.|4
+concert|.|bbc621.txt|.|4
+elton|.|bbc621.txt|.|4
+shown|.|bbc2091.txt|.|2
+muslim community|.|bbc1081.txt|.|3
+lost|.|bbc458.txt|.|2
+raise|.|bbc621.txt|.|2|.|bbc233.txt|.|1|.|bbc1054.txt|.|3
+george clooney|.|bbc692.txt|.|2
+join|.|bbc1585.txt|.|1|.|bbc1443.txt|.|1|.|bbc1451.txt|.|1|.|bbc692.txt|.|2
+victims|.|bbc187.txt|.|6|.|bbc692.txt|.|2
+fully|.|bbc458.txt|.|2
+raising|.|bbc1081.txt|.|2|.|bbc670.txt|.|1
+night|.|bbc1549.txt|.|3|.|bbc569.txt|.|2|.|bbc862.txt|.|3|.|bbc692.txt|.|3|.|bbc679.txt|.|2
+community|.|bbc1081.txt|.|5
+sharing|.|bbc2215.txt|.|2
+wimbledon|.|bbc1803.txt|.|3|.|bbc1751.txt|.|4
+legal cases|.|bbc2215.txt|.|2
+england club|.|bbc1751.txt|.|2
+lost money|.|bbc458.txt|.|2
+south wales|.|bbc1081.txt|.|3
+equal prize money|.|bbc1751.txt|.|3
+wales police|.|bbc1081.txt|.|2
+raising money|.|bbc1081.txt|.|2
+women|.|bbc861.txt|.|9|.|bbc1751.txt|.|6
+mosque|.|bbc1081.txt|.|6
+search engines|.|bbc2091.txt|.|1
+muslim|.|bbc1081.txt|.|3
+new mosque|.|bbc1081.txt|.|2
+davenport|.|bbc1751.txt|.|3
+networks|.|bbc2127.txt|.|2|.|bbc2099.txt|.|3|.|bbc2215.txt|.|10|.|bbc2181.txt|.|5
+seek|.|bbc324.txt|.|2|.|bbc271.txt|.|1|.|bbc249.txt|.|1
+prize|.|bbc841.txt|.|2|.|bbc517.txt|.|4|.|bbc1964.txt|.|2|.|bbc1751.txt|.|4
+tsunami|.|bbc2139.txt|.|6|.|bbc692.txt|.|6
+file|.|bbc2215.txt|.|3
+google has shown|.|bbc2091.txt|.|2
+tv special|.|bbc692.txt|.|2
+make|.|bbc1267.txt|.|3|.|bbc2215.txt|.|3|.|bbc2174.txt|.|5
+clooney|.|bbc692.txt|.|3
+us tv|.|bbc692.txt|.|2
+cases|.|bbc2215.txt|.|2
+founder|.|bbc458.txt|.|2
+raised|.|bbc692.txt|.|2
+elton played|.|bbc621.txt|.|1
+fully with prosecutors|.|bbc458.txt|.|2
+played|.|bbc686.txt|.|2|.|bbc621.txt|.|3|.|bbc1674.txt|.|2
+prosecutors|.|bbc458.txt|.|4
+equal|.|bbc252.txt|.|2|.|bbc1751.txt|.|3
+special|.|bbc692.txt|.|2
+money|.|bbc1081.txt|.|2|.|bbc458.txt|.|4|.|bbc621.txt|.|3|.|bbc312.txt|.|2|.|bbc249.txt|.|3|.|bbc2215.txt|.|4|.|bbc2091.txt|.|2|.|bbc1751.txt|.|5|.|bbc692.txt|.|4
+sir elton|.|bbc621.txt|.|3
+prize money|.|bbc1751.txt|.|4
+make money|.|bbc2215.txt|.|2
+parmalat|.|bbc458.txt|.|7|.|bbc17.txt|.|2|.|bbc312.txt|.|6|.|bbc48.txt|.|7
+collapse|.|bbc458.txt|.|4
+equal prize|.|bbc1751.txt|.|3

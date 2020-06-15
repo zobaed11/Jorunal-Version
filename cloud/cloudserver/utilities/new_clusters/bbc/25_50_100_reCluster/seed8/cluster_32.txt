@@ -1,0 +1,13 @@
+32
+jedi|.|bbc1949.txt|.|1
+travel expenses|.|bbc1964.txt|.|1
+knights|.|bbc1949.txt|.|1
+game|.|bbc1632.txt|.|1|.|bbc1938.txt|.|2|.|bbc1963.txt|.|13|.|bbc1454.txt|.|2|.|bbc1513.txt|.|2|.|bbc1794.txt|.|2|.|bbc1668.txt|.|2|.|bbc1464.txt|.|2|.|bbc1549.txt|.|2|.|bbc1748.txt|.|2|.|bbc1616.txt|.|3|.|bbc1646.txt|.|2|.|bbc1611.txt|.|3|.|bbc1501.txt|.|1|.|bbc1964.txt|.|6|.|bbc1554.txt|.|2|.|bbc1949.txt|.|5|.|bbc2002.txt|.|3|.|bbc1995.txt|.|6|.|bbc1796.txt|.|2|.|bbc1580.txt|.|2|.|bbc1714.txt|.|3|.|bbc1829.txt|.|6|.|bbc1453.txt|.|3|.|bbc1679.txt|.|2|.|bbc1652.txt|.|2|.|bbc1614.txt|.|4|.|bbc2042.txt|.|4|.|bbc1665.txt|.|1|.|bbc1432.txt|.|4|.|bbc1648.txt|.|3|.|bbc2090.txt|.|9
+video game|.|bbc1963.txt|.|2|.|bbc2002.txt|.|1
+science fiction|.|bbc1963.txt|.|2
+science|.|bbc1963.txt|.|2
+halo fans|.|bbc1963.txt|.|2
+range|.|bbc1616.txt|.|1
+affair|.|bbc2090.txt|.|2
+graphics|.|bbc2090.txt|.|2
+platform game|.|bbc2090.txt|.|2

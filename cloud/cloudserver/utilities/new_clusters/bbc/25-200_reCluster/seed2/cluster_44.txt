@@ -1,0 +1,30 @@
+44
+helens|.|bbc1670.txt|.|4
+waiting times|.|bbc1017.txt|.|3
+rugby league|.|bbc1670.txt|.|2
+gareth|.|bbc1604.txt|.|2|.|bbc1661.txt|.|2
+cockbain|.|bbc1729.txt|.|3
+current target|.|bbc1017.txt|.|2
+current|.|bbc1017.txt|.|3
+tom|.|bbc1625.txt|.|2|.|bbc1729.txt|.|2
+striking civil servants|.|bbc1106.txt|.|1
+striking|.|bbc1106.txt|.|1
+thomas|.|bbc1625.txt|.|5|.|bbc1604.txt|.|5|.|bbc1661.txt|.|4|.|bbc1729.txt|.|5
+rome|.|bbc1625.txt|.|2
+waiting less than|.|bbc1017.txt|.|1
+strike across wales|.|bbc1106.txt|.|1
+shane|.|bbc1625.txt|.|5|.|bbc1729.txt|.|5
+joined|.|bbc1585.txt|.|1|.|bbc1106.txt|.|2
+tom shanklin|.|bbc1625.txt|.|2|.|bbc1729.txt|.|2
+hutt said|.|bbc1017.txt|.|3
+federation has said|.|bbc1135.txt|.|1
+wales|.|bbc1081.txt|.|4|.|bbc1625.txt|.|9|.|bbc1670.txt|.|8|.|bbc1135.txt|.|2|.|bbc1604.txt|.|8|.|bbc1106.txt|.|11|.|bbc940.txt|.|2|.|bbc1017.txt|.|8|.|bbc1661.txt|.|3|.|bbc1716.txt|.|7|.|bbc1729.txt|.|9
+patients in wales|.|bbc1017.txt|.|3
+shane williams|.|bbc1625.txt|.|5|.|bbc1729.txt|.|5
+martyn williams|.|bbc1625.txt|.|3|.|bbc1708.txt|.|2|.|bbc1729.txt|.|3
+monthly waiting|.|bbc1017.txt|.|2
+training with a rugby league|.|bbc1670.txt|.|1
+leeds|.|bbc1670.txt|.|2
+hutt|.|bbc1017.txt|.|4
+wales police|.|bbc1081.txt|.|2
+shanklin|.|bbc1625.txt|.|4|.|bbc1646.txt|.|3|.|bbc1729.txt|.|4

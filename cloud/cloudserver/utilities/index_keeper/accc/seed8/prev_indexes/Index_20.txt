@@ -1,0 +1,186 @@
+studio|.|WET6032.txt|.|19
+leader|.|WET5269.txt|.|234
+half|.|WET5201.txt|.|41
+saved|.|WET6564.txt|.|76
+congress|.|WET5178.txt|.|32
+bag|.|WET6688.txt|.|60
+couch|.|WET5201.txt|.|40
+cycling|.|WET5201.txt|.|30
+american|.|WET5269.txt|.|98
+bible studies|.|WET6769.txt|.|27
+type|.|WET5636.txt|.|1|.|WET5623.txt|.|4|.|WET6108.txt|.|2|.|WET5616.txt|.|6|.|WET5027.txt|.|1|.|WET6151.txt|.|1|.|WET5233.txt|.|2
+tips|.|WET5201.txt|.|122
+cheese|.|WET5170.txt|.|150
+trail running|.|WET5201.txt|.|20
+twitter|.|WET5233.txt|.|4
+music|.|WET6032.txt|.|30
+framed|.|WET6185.txt|.|61
+price|.|WET5170.txt|.|7
+xml|.|WET5178.txt|.|1
+english|.|WET5273.txt|.|15
+state|.|WET5273.txt|.|46
+bathroom|.|WET6781.txt|.|102
+bible|.|WET6769.txt|.|104
+statue|.|WET6564.txt|.|2
+resorts|.|WET5216.txt|.|35
+state university|.|WET5273.txt|.|41
+utilize the functionality|.|WET6769.txt|.|8
+austin state|.|WET5273.txt|.|41
+saving|.|WET6564.txt|.|12
+ships|.|WET6185.txt|.|31
+evacuate|.|WET5216.txt|.|2
+science|.|WET6564.txt|.|65
+utilize|.|WET6769.txt|.|8
+murals|.|WET6185.txt|.|14
+animal|.|WET6011.txt|.|1|.|WET5178.txt|.|1
+beanie|.|WET6688.txt|.|135
+louisville|.|WET5269.txt|.|792
+compression|.|WET5170.txt|.|32
+items|.|WET6564.txt|.|51
+search by date|.|WET5269.txt|.|22
+sellers|.|WET6185.txt|.|8|.|WET6688.txt|.|7
+status|.|WET6688.txt|.|2
+browse|.|WET5273.txt|.|55
+shower|.|WET6781.txt|.|120
+archives|.|WET6151.txt|.|38|.|WET5273.txt|.|33
+pirate|.|WET5273.txt|.|5
+martial arts|.|WET6688.txt|.|20
+skip|.|WET5273.txt|.|29
+functionality|.|WET6769.txt|.|8
+warc|.|WET6032.txt|.|11|.|WET5170.txt|.|11|.|WET6781.txt|.|11|.|WET5269.txt|.|11|.|WET6011.txt|.|11|.|WET5178.txt|.|11|.|WET6688.txt|.|11|.|WET5273.txt|.|11|.|WET5216.txt|.|11|.|WET5636.txt|.|11|.|WET5623.txt|.|11|.|WET6108.txt|.|11|.|WET5616.txt|.|11|.|WET5027.txt|.|11|.|WET6185.txt|.|11|.|WET6151.txt|.|11|.|WET6564.txt|.|11|.|WET5233.txt|.|11
+smart|.|WET6011.txt|.|97
+training cycling century|.|WET5201.txt|.|10
+search|.|WET5269.txt|.|81
+bathroom faucets|.|WET6781.txt|.|16
+library|.|WET5178.txt|.|51
+christian|.|WET6769.txt|.|143|.|WET6564.txt|.|21
+austin|.|WET5273.txt|.|41
+framed art|.|WET6185.txt|.|23
+shorts|.|WET5170.txt|.|34
+kitchen|.|WET6781.txt|.|91
+arts|.|WET6688.txt|.|20
+university of louisville|.|WET5269.txt|.|144
+email|.|WET5233.txt|.|15
+kids|.|WET6769.txt|.|146
+hand|.|WET6781.txt|.|46
+witnessed|.|WET5178.txt|.|1
+marathon training marathon|.|WET5201.txt|.|20
+art|.|WET6185.txt|.|326
+product|.|WET6781.txt|.|101
+decision|.|WET6769.txt|.|7
+scouting|.|WET6185.txt|.|2
+gear compression|.|WET5170.txt|.|14
+uri|.|WET5623.txt|.|1
+releases|.|WET6769.txt|.|60
+cheat|.|WET5178.txt|.|2
+showers|.|WET6781.txt|.|36
+century|.|WET5201.txt|.|20
+podcasts|.|WET6032.txt|.|16
+trusted|.|WET6688.txt|.|2
+student email|.|WET5233.txt|.|4
+lb|.|WET6781.txt|.|66
+progress|.|WET6781.txt|.|54
+runs|.|WET5201.txt|.|31
+cabinet|.|WET5233.txt|.|2
+board|.|WET5216.txt|.|28
+rocchio|.|WET6011.txt|.|2
+date|.|WET5269.txt|.|35
+fiction|.|WET6769.txt|.|60
+blogs|.|WET5216.txt|.|9
+wiki|.|WET6151.txt|.|32
+library of congress|.|WET5178.txt|.|28
+voting|.|WET6032.txt|.|2
+saving money|.|WET6564.txt|.|8
+reputation|.|WET5178.txt|.|2
+run|.|WET5201.txt|.|12
+apparel|.|WET6769.txt|.|96
+couples resorts|.|WET5216.txt|.|28
+bible reference|.|WET6769.txt|.|24
+blog|.|WET6108.txt|.|9|.|WET5027.txt|.|16|.|WET6011.txt|.|20|.|WET6688.txt|.|3|.|WET6564.txt|.|19
+bet|.|WET6011.txt|.|2
+reference|.|WET6769.txt|.|32
+cheese location|.|WET5170.txt|.|42
+trail|.|WET5201.txt|.|30
+hit|.|WET6564.txt|.|2
+jamaica|.|WET5216.txt|.|70
+stemming|.|WET6564.txt|.|1
+donation|.|WET6032.txt|.|13
+mud runs|.|WET5201.txt|.|20
+faucets|.|WET6781.txt|.|174
+saved items|.|WET6564.txt|.|42
+day|.|WET6769.txt|.|59
+gifts|.|WET6769.txt|.|73
+tower|.|WET5216.txt|.|21
+new|.|WET6769.txt|.|136
+volume no|.|WET5273.txt|.|38
+marathon|.|WET5201.txt|.|82
+louisville leader|.|WET5269.txt|.|194
+message board|.|WET5216.txt|.|21
+twitter youtube|.|WET5233.txt|.|4
+new releases|.|WET6769.txt|.|52
+run training trail|.|WET5201.txt|.|10
+archive|.|WET5269.txt|.|24
+history|.|WET6151.txt|.|75
+collection|.|WET5269.txt|.|782
+newspapers|.|WET5269.txt|.|102
+couples|.|WET5216.txt|.|148
+volume|.|WET5273.txt|.|40
+american newspapers|.|WET5269.txt|.|49
+toilets|.|WET6781.txt|.|78
+purchased|.|WET5178.txt|.|1
+martial|.|WET6688.txt|.|22
+sports shorts|.|WET5170.txt|.|2
+neighborhood|.|WET6564.txt|.|2
+mud|.|WET5201.txt|.|30
+gear|.|WET5170.txt|.|27
+youtube|.|WET5233.txt|.|4
+christian science|.|WET6564.txt|.|21
+no|.|WET5273.txt|.|222
+jacuzzis|.|WET5216.txt|.|56
+student|.|WET5233.txt|.|23
+records|.|WET5273.txt|.|29
+university|.|WET5269.txt|.|211|.|WET5273.txt|.|96
+privacy|.|WET6688.txt|.|4
+training|.|WET5201.txt|.|174
+house|.|WET6011.txt|.|29
+content|.|WET5636.txt|.|2|.|WET5623.txt|.|9|.|WET6151.txt|.|6
+running|.|WET5201.txt|.|107
+training mud run|.|WET5201.txt|.|10
+total|.|WET6781.txt|.|53
+cap|.|WET6688.txt|.|524
+walking tips running|.|WET5201.txt|.|10
+jersey|.|WET5170.txt|.|19
+walking|.|WET5201.txt|.|21
+christian fiction|.|WET6769.txt|.|34
+studies|.|WET6769.txt|.|44
+wall murals|.|WET6185.txt|.|12
+home browse|.|WET5273.txt|.|5
+vote|.|WET6011.txt|.|180
+make|.|WET6769.txt|.|15
+total progress|.|WET6781.txt|.|52
+views|.|WET5616.txt|.|600
+live|.|WET6032.txt|.|42
+conversion|.|WET5636.txt|.|11|.|WET5623.txt|.|11|.|WET6108.txt|.|11|.|WET5616.txt|.|11|.|WET5027.txt|.|11|.|WET6151.txt|.|11|.|WET5233.txt|.|11
+hand showers|.|WET6781.txt|.|18
+sports|.|WET5170.txt|.|14
+purchase|.|WET6781.txt|.|35|.|WET6185.txt|.|4
+half marathon|.|WET5201.txt|.|41
+message|.|WET5216.txt|.|35
+target|.|WET5636.txt|.|1|.|WET6108.txt|.|1
+decision to make|.|WET6769.txt|.|3
+home|.|WET5273.txt|.|36
+prints|.|WET6185.txt|.|65
+couples tower|.|WET5216.txt|.|21
+print|.|WET6185.txt|.|193
+louisville leader collection|.|WET5269.txt|.|82
+money|.|WET6564.txt|.|25
+family history|.|WET6151.txt|.|65
+training marathon training|.|WET5201.txt|.|20
+pirate english|.|WET5273.txt|.|5
+collectable|.|WET6185.txt|.|28
+opinions|.|WET5178.txt|.|1
+location|.|WET5170.txt|.|44
+family|.|WET6151.txt|.|94
+pm|.|WET6032.txt|.|35
+wall|.|WET6185.txt|.|63
+collectable print|.|WET6185.txt|.|20

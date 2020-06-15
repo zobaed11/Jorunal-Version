@@ -1,0 +1,58 @@
+15
+established|.|rfc4964.txt|.|8
+established session|.|rfc4964.txt|.|1
+diff processing|.|rfc5875.txt|.|1
+invoke|.|rfc4117.txt|.|4
+answer state|.|rfc4964.txt|.|2
+state header|.|rfc4964.txt|.|1
+schulzrinne informational|.|rfc4485.txt|.|23
+retransmission allowed|.|rfc5606.txt|.|4
+conveyed|.|rfc5606.txt|.|4
+basic call|.|rfc3665.txt|.|95
+answer|.|rfc5373.txt|.|30|.|rfc4964.txt|.|38
+basic call flow|.|rfc3665.txt|.|94
+call flow|.|rfc3665.txt|.|98
+customer service representative|.|rfc3725.txt|.|8
+talk|.|rfc4964.txt|.|10
+sip|.|rfc3725.txt|.|58|.|rfc5606.txt|.|68|.|rfc5373.txt|.|72|.|rfc4485.txt|.|171|.|rfc4117.txt|.|29|.|rfc5379.txt|.|61|.|rfc4479.txt|.|35|.|rfc3204.txt|.|18|.|rfc3665.txt|.|374|.|rfc5875.txt|.|30|.|rfc5897.txt|.|71|.|rfc6157.txt|.|59|.|rfc4964.txt|.|216
+sip message|.|rfc5606.txt|.|13|.|rfc3204.txt|.|3
+state information
+basic snmp
+tip makes
+enabling
+state being refreshed
+shared handover
+intended
+throughput equation
+processing model
+call flows
+processing to support
+state machine
+basic support
+throughput
+intended state
+call routing
+set initiation
+set related
+collation
+set pres
+collation algorithm
+set bridge
+government internet
+processing the query
+federal
+reject contact
+pipelining
+state record
+government
+federal networking
+caller
+caller preferences
+distinguished names
+government internet domain
+basic fec
+federal networking council
+pipelining with chunks
+query
+set class
+tended

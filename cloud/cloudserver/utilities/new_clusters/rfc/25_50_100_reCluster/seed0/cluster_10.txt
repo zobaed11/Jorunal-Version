@@ -1,0 +1,59 @@
+10
+active measurement|.|rfc5938.txt|.|8
+authentication october|.|rfc4643.txt|.|23
+idle command|.|rfc2177.txt|.|16
+user process|.|rfc607.txt|.|8|.|rfc165.txt|.|4|.|rfc524.txt|.|31|.|rfc151.txt|.|3
+filter search|.|rfc5466.txt|.|7
+contexts|.|rfc5267.txt|.|22
+filter values|.|rfc5466.txt|.|4
+addto and removefrom|.|rfc5267.txt|.|6
+receiving ncp|.|rfc467.txt|.|6
+authinfo sasl|.|rfc4643.txt|.|44
+terminationid|.|rfc2885.txt|.|96
+nntp authentication|.|rfc4643.txt|.|24
+searches|.|rfc5466.txt|.|8
+uid search|.|rfc5182.txt|.|7
+memo describes|.|rfc5938.txt|.|4
+mp|.|rfc5747.txt|.|1|.|rfc524.txt|.|34
+last|.|rfc5182.txt|.|15
+individual|.|rfc5938.txt|.|30
+last search|.|rfc5182.txt|.|13
+authinfo pass|.|rfc4643.txt|.|21
+search command|.|rfc5182.txt|.|21|.|rfc5267.txt|.|10|.|rfc5466.txt|.|8
+new mail|.|rfc2177.txt|.|4
+generator package|.|rfc2885.txt|.|8
+media gateway|.|rfc4040.txt|.|4|.|rfc3064.txt|.|36|.|rfc2885.txt|.|96
+removefrom|.|rfc5267.txt|.|16
+test sessions|.|rfc5938.txt|.|15
+convert command|.|rfc5259.txt|.|13
+protocol august|.|rfc2885.txt|.|169
+message allocation|.|rfc467.txt|.|12
+exit|.|rfc524.txt|.|33
+burchfiel|.|rfc467.txt|.|7
+connection is closed|.|rfc467.txt|.|3
+replacement|.|rfc5259.txt|.|1
+update contexts|.|rfc5267.txt|.|5
+chiba|.|rfc5938.txt|.|19
+extended sort|.|rfc5267.txt|.|12
+generator|.|rfc2885.txt|.|8
+filter name|.|rfc5466.txt|.|1
+proposed mail|.|rfc524.txt|.|40
+measurement|.|rfc5938.txt|.|10
+sasl command|.|rfc4643.txt|.|18
+found|.|rfc5182.txt|.|8
+individual session control|.|rfc5938.txt|.|23
+individual session|.|rfc5938.txt|.|25
+named searches|.|rfc5466.txt|.|5
+package defines|.|rfc2885.txt|.|10
+last search result|.|rfc5182.txt|.|13
+user and server|.|rfc524.txt|.|6
+authinfo user|.|rfc4643.txt|.|27
+server process|.|rfc165.txt|.|5|.|rfc524.txt|.|17
+command|.|rfc5182.txt|.|50|.|rfc5259.txt|.|38|.|rfc491.txt|.|5|.|rfc506.txt|.|2|.|rfc2177.txt|.|23|.|rfc5267.txt|.|43|.|rfc2885.txt|.|190|.|rfc5804.txt|.|128|.|rfc4643.txt|.|77|.|rfc607.txt|.|18|.|rfc535.txt|.|11|.|rfc524.txt|.|138|.|rfc5466.txt|.|13|.|rfc467.txt|.|23|.|rfc5938.txt|.|54
+describes|.|rfc4358.txt|.|1|.|rfc5938.txt|.|5
+removefrom return data|.|rfc5267.txt|.|6
+session control|.|rfc5938.txt|.|39
+negotiation of protocol|.|rfc2885.txt|.|2
+sessions command|.|rfc5938.txt|.|2
+found messages|.|rfc5182.txt|.|4
+context july|.|rfc5267.txt|.|17

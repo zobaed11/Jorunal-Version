@@ -1,0 +1,30 @@
+15
+documents|.|bbc2003.txt|.|1|.|bbc1199.txt|.|3|.|bbc267.txt|.|1
+balls|.|bbc1255.txt|.|6
+edward|.|bbc868.txt|.|3|.|bbc1199.txt|.|9
+northern ireland minister|.|bbc1079.txt|.|2
+permanent secretary|.|bbc1052.txt|.|2
+british film|.|bbc893.txt|.|2
+heath|.|bbc1199.txt|.|3
+sir alan|.|bbc893.txt|.|2
+liberal leader|.|bbc1199.txt|.|2
+digby jones|.|bbc1255.txt|.|2
+scott dies|.|bbc1079.txt|.|1
+dies|.|bbc687.txt|.|1|.|bbc634.txt|.|1|.|bbc1079.txt|.|1
+spree|.|bbc1255.txt|.|3
+sir john|.|bbc1052.txt|.|4
+sir|.|bbc530.txt|.|2|.|bbc1255.txt|.|3|.|bbc621.txt|.|4|.|bbc1275.txt|.|4|.|bbc688.txt|.|4|.|bbc893.txt|.|3|.|bbc1052.txt|.|5|.|bbc1199.txt|.|11|.|bbc1079.txt|.|5
+spending spree|.|bbc1255.txt|.|2
+nicholas|.|bbc1079.txt|.|5
+sir john was made|.|bbc1052.txt|.|1
+agency|.|bbc1052.txt|.|3|.|bbc1211.txt|.|4
+cultural|.|bbc893.txt|.|1
+northern ireland|.|bbc1079.txt|.|4
+sir edward|.|bbc1199.txt|.|9
+wilson|.|bbc1199.txt|.|4
+permanent|.|bbc1052.txt|.|2
+visa|.|bbc1052.txt|.|3
+sir digby|.|bbc1255.txt|.|3
+ireland minister|.|bbc1079.txt|.|2
+support agency|.|bbc1052.txt|.|2
+documents released|.|bbc1199.txt|.|2

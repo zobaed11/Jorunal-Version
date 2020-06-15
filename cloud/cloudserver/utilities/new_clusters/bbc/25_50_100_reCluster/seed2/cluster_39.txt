@@ -1,0 +1,49 @@
+39
+computer code|.|bbc1873.txt|.|1
+report says|.|bbc1898.txt|.|1
+playlist files|.|bbc2108.txt|.|2
+codes|.|bbc1873.txt|.|2
+addresses|.|bbc1941.txt|.|2|.|bbc1873.txt|.|2
+code|.|bbc578.txt|.|1|.|bbc1873.txt|.|1
+mail|.|bbc2138.txt|.|1|.|bbc1941.txt|.|1|.|bbc2186.txt|.|3|.|bbc2214.txt|.|3
+radicati group|.|bbc2186.txt|.|2
+fake sites|.|bbc1873.txt|.|2
+sustains spam|.|bbc2186.txt|.|1
+bad|.|bbc648.txt|.|2|.|bbc2186.txt|.|3
+new law|.|bbc1920.txt|.|2
+spam messages|.|bbc2186.txt|.|2
+update|.|bbc2108.txt|.|1
+alphabet|.|bbc1873.txt|.|2
+domain names|.|bbc1873.txt|.|2
+microsoft said|.|bbc2074.txt|.|2|.|bbc1839.txt|.|2
+playlist|.|bbc2108.txt|.|2
+spyware|.|bbc1920.txt|.|8|.|bbc1860.txt|.|3|.|bbc2140.txt|.|3|.|bbc2074.txt|.|9
+hackers|.|bbc2108.txt|.|1
+net users|.|bbc1898.txt|.|2
+links|.|bbc477.txt|.|2|.|bbc2186.txt|.|1
+radicati|.|bbc2186.txt|.|2
+protect|.|bbc1920.txt|.|2|.|bbc2140.txt|.|1|.|bbc2166.txt|.|1|.|bbc1872.txt|.|1
+sustains|.|bbc2186.txt|.|1
+codes used|.|bbc1873.txt|.|1
+western nations|.|bbc1898.txt|.|2
+links in spam|.|bbc2186.txt|.|1
+filters|.|bbc2186.txt|.|2
+windows|.|bbc1884.txt|.|3|.|bbc2074.txt|.|5
+users|.|bbc1920.txt|.|4|.|bbc1884.txt|.|3|.|bbc2074.txt|.|4|.|bbc2202.txt|.|4|.|bbc1941.txt|.|3|.|bbc2186.txt|.|6|.|bbc1898.txt|.|4|.|bbc2108.txt|.|6|.|bbc1873.txt|.|5
+lead|.|bbc1873.txt|.|2
+internationalised domain|.|bbc1873.txt|.|2
+names|.|bbc1873.txt|.|3
+toolkit|.|bbc2074.txt|.|3
+website addresses|.|bbc1873.txt|.|1
+files|.|bbc2031.txt|.|3|.|bbc2108.txt|.|2
+firm giant|.|bbc2074.txt|.|2
+internationalised|.|bbc1873.txt|.|2
+fake|.|bbc2139.txt|.|4|.|bbc1873.txt|.|5
+lead users|.|bbc1873.txt|.|2
+chinese people|.|bbc1898.txt|.|4
+programs|.|bbc1920.txt|.|4|.|bbc1884.txt|.|4|.|bbc2065.txt|.|2
+western|.|bbc1898.txt|.|3|.|bbc1888.txt|.|3
+microsoft outlook|.|bbc1941.txt|.|2
+spam|.|bbc2186.txt|.|13|.|bbc2214.txt|.|2
+outlook|.|bbc1941.txt|.|2
+net use|.|bbc1898.txt|.|3

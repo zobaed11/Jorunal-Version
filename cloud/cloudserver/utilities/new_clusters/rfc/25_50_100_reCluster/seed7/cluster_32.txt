@@ -1,0 +1,14 @@
+32
+user profile|.|rfc4740.txt|.|36
+established|.|rfc4964.txt|.|8
+item|.|rfc4740.txt|.|1
+established session|.|rfc4964.txt|.|1
+diff processing|.|rfc5875.txt|.|1
+diameter client|.|rfc4740.txt|.|150
+answer state|.|rfc4964.txt|.|2
+state header|.|rfc4964.txt|.|1
+schulzrinne informational|.|rfc4485.txt|.|23
+push to talk|.|rfc4964.txt|.|10
+send a request|.|rfc5923.txt|.|7
+talk|.|rfc4964.txt|.|10
+sip|.|rfc3725.txt|.|58|.|rfc5606.txt|.|68|.|rfc5373.txt|.|72|.|rfc4740.txt|.|770|.|rfc4485.txt|.|171|.|rfc4117.txt|.|29|.|rfc5379.txt|.|61|.|rfc4479.txt|.|35|.|rfc3204.txt|.|18|.|rfc3665.txt|.|374|.|rfc5875.txt|.|30|.|rfc3603.txt|.|47|.|rfc5923.txt|.|53|.|rfc5897.txt|.|71|.|rfc6157.txt|.|59|.|rfc4964.txt|.|216

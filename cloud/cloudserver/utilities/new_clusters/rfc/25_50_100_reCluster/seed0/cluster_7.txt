@@ -1,0 +1,23 @@
+7
+security management|.|rfc4031.txt|.|5
+new service|.|rfc3082.txt|.|5
+service quality|.|rfc4664.txt|.|7
+auto|.|rfc5523.txt|.|1|.|rfc4664.txt|.|3
+abstract dtp|.|rfc2594.txt|.|7
+communicate|.|rfc5505.txt|.|2
+service definition|.|rfc2924.txt|.|12
+higher layer|.|rfc5505.txt|.|1
+link layers|.|rfc5679.txt|.|2
+internet layer|.|rfc5505.txt|.|5
+service request|.|rfc3837.txt|.|2|.|rfc2165.txt|.|30
+document transfer|.|rfc2594.txt|.|15
+communicate at the link|.|rfc5505.txt|.|1
+application management|.|rfc2594.txt|.|7
+protocol operations|.|rfc2955.txt|.|4
+service|.|rfc2214.txt|.|18|.|rfc2443.txt|.|20|.|rfc3469.txt|.|31|.|rfc4176.txt|.|124|.|rfc3087.txt|.|75|.|rfc4664.txt|.|89|.|rfc5028.txt|.|8|.|rfc4117.txt|.|14|.|rfc5505.txt|.|60|.|rfc2815.txt|.|64|.|rfc5379.txt|.|84|.|rfc2549.txt|.|6|.|rfc2955.txt|.|88|.|rfc4689.txt|.|10|.|rfc3088.txt|.|71|.|rfc5679.txt|.|54|.|rfc2594.txt|.|117|.|rfc5160.txt|.|33|.|rfc2165.txt|.|631|.|rfc2039.txt|.|24|.|rfc3059.txt|.|43|.|rfc3082.txt|.|69|.|rfc2170.txt|.|9|.|rfc5728.txt|.|7|.|rfc4804.txt|.|10|.|rfc6171.txt|.|9|.|rfc4031.txt|.|274|.|rfc5375.txt|.|39|.|rfc2307.txt|.|36|.|rfc2554.txt|.|9|.|rfc2775.txt|.|7|.|rfc2210.txt|.|189|.|rfc5898.txt|.|2|.|rfc2084.txt|.|6|.|rfc3837.txt|.|27|.|rfc4084.txt|.|48|.|rfc630.txt|.|4|.|rfc5897.txt|.|240|.|rfc2075.txt|.|5|.|rfc3341.txt|.|89|.|rfc3725.txt|.|21|.|rfc5945.txt|.|15|.|rfc3387.txt|.|163|.|rfc4143.txt|.|11|.|rfc2924.txt|.|89|.|rfc4401.txt|.|5|.|rfc4640.txt|.|97|.|rfc3817.txt|.|44|.|rfc2670.txt|.|55|.|rfc3313.txt|.|8
+auto discovery|.|rfc5523.txt|.|1|.|rfc4664.txt|.|3
+access remote|.|rfc4084.txt|.|2
+qualities|.|rfc2210.txt|.|2
+qualities of service|.|rfc2210.txt|.|2
+multipoint|.|rfc4664.txt|.|5
+higher|.|rfc5505.txt|.|4

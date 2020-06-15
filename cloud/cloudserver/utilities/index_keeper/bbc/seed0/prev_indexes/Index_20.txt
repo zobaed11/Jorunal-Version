@@ -1,0 +1,248 @@
+national insurance|.|bbc1236.txt|.|2
+bad|.|bbc1056.txt|.|2
+year|.|bbc214.txt|.|4|.|bbc360.txt|.|2
+johnson|.|bbc1211.txt|.|5
+laptop|.|bbc1833.txt|.|6
+remote|.|bbc1833.txt|.|3
+nationalist|.|bbc1073.txt|.|3
+firm|.|bbc318.txt|.|3
+music|.|bbc1914.txt|.|4
+speaking|.|bbc1914.txt|.|1
+record|.|bbc1319.txt|.|2|.|bbc360.txt|.|2
+draws|.|bbc1446.txt|.|1
+poverty|.|bbc159.txt|.|4
+caballeros|.|bbc1914.txt|.|3
+rap|.|bbc1914.txt|.|9
+prime|.|bbc52.txt|.|2
+unrealistic|.|bbc703.txt|.|2
+spending on primary|.|bbc159.txt|.|2
+beaten|.|bbc1633.txt|.|2
+pace|.|bbc52.txt|.|2
+stade|.|bbc1633.txt|.|2
+economy|.|bbc52.txt|.|2|.|bbc1257.txt|.|5
+yukos|.|bbc318.txt|.|6
+demand|.|bbc360.txt|.|2
+buyer|.|bbc318.txt|.|2
+lord roberts|.|bbc1073.txt|.|2
+public spending|.|bbc214.txt|.|2
+tory|.|bbc1311.txt|.|1
+slow|.|bbc52.txt|.|2
+kennedy|.|bbc1236.txt|.|7
+elfyn|.|bbc1073.txt|.|2
+science|.|bbc703.txt|.|10
+mr berlusconi|.|bbc52.txt|.|2
+lords|.|bbc1056.txt|.|2
+lib dems|.|bbc1236.txt|.|3|.|bbc1257.txt|.|2
+boost|.|bbc1236.txt|.|2|.|bbc159.txt|.|2
+stoy|.|bbc214.txt|.|2
+us mortgage|.|bbc298.txt|.|2
+action plan|.|bbc52.txt|.|2
+interest rate|.|bbc214.txt|.|2
+welsh office|.|bbc1073.txt|.|1
+slow pace|.|bbc52.txt|.|2
+giving|.|bbc1056.txt|.|2
+two|.|bbc1633.txt|.|3
+marine|.|bbc1833.txt|.|4
+secretary|.|bbc942.txt|.|6
+rail tickets|.|bbc942.txt|.|2
+ian|.|bbc1056.txt|.|2
+copper|.|bbc360.txt|.|9
+national|.|bbc1236.txt|.|2
+bdo stoy|.|bbc214.txt|.|2
+who also won|.|bbc1319.txt|.|1
+business|.|bbc214.txt|.|2
+fannie mae|.|bbc298.txt|.|5
+llwyd|.|bbc1073.txt|.|4
+services|.|bbc1073.txt|.|7
+bdo|.|bbc214.txt|.|4
+berlusconi|.|bbc52.txt|.|3
+chilean|.|bbc360.txt|.|2
+meibion glyndwr|.|bbc1073.txt|.|3
+childcare|.|bbc1236.txt|.|5
+stamp duty|.|bbc1257.txt|.|8
+tv show|.|bbc703.txt|.|2
+insurance|.|bbc1236.txt|.|2
+elfyn llwyd|.|bbc1073.txt|.|2
+tv|.|bbc703.txt|.|3
+london|.|bbc1385.txt|.|6
+smith|.|bbc1211.txt|.|7
+lib|.|bbc1236.txt|.|3|.|bbc1257.txt|.|2
+republic|.|bbc1446.txt|.|2
+language|.|bbc1914.txt|.|3
+accounting|.|bbc298.txt|.|2
+glyndwr|.|bbc1073.txt|.|4
+welsh|.|bbc1073.txt|.|3
+view|.|bbc703.txt|.|3
+conservatives|.|bbc1311.txt|.|2
+barristers|.|bbc1056.txt|.|2
+won|.|bbc1319.txt|.|2|.|bbc1633.txt|.|2
+france|.|bbc1633.txt|.|7
+us|.|bbc298.txt|.|3
+budget|.|bbc159.txt|.|8
+marathon|.|bbc1385.txt|.|6
+minister|.|bbc52.txt|.|2|.|bbc1073.txt|.|2
+brown|.|bbc1257.txt|.|2
+nationalist vote|.|bbc1073.txt|.|2
+spending|.|bbc159.txt|.|8|.|bbc214.txt|.|2
+apple laptop|.|bbc1833.txt|.|2
+stoy hayward|.|bbc214.txt|.|2
+petrol|.|bbc1257.txt|.|2
+roberts|.|bbc1073.txt|.|3
+mobile phone|.|bbc1833.txt|.|5
+name|.|bbc1056.txt|.|2
+campaign|.|bbc1311.txt|.|7
+wyatt|.|bbc1311.txt|.|4
+wyatt and said|.|bbc1311.txt|.|1
+support|.|bbc1211.txt|.|3
+rises|.|bbc214.txt|.|2
+chile|.|bbc360.txt|.|2
+child|.|bbc1211.txt|.|3
+higher|.|bbc1257.txt|.|2
+trust|.|bbc1311.txt|.|2
+olympic|.|bbc1385.txt|.|4
+petrol duty|.|bbc1257.txt|.|2
+lord|.|bbc1073.txt|.|2
+show|.|bbc703.txt|.|3
+win the group|.|bbc1446.txt|.|2
+training|.|bbc1385.txt|.|3
+auction|.|bbc318.txt|.|3
+apple|.|bbc1833.txt|.|7
+higher taxes|.|bbc1257.txt|.|2
+interest|.|bbc214.txt|.|3|.|bbc1257.txt|.|2
+rate|.|bbc214.txt|.|2
+giving britain|.|bbc1056.txt|.|2
+vote|.|bbc1073.txt|.|2
+owner|.|bbc318.txt|.|2
+sold|.|bbc318.txt|.|2
+spanish|.|bbc1914.txt|.|8
+cochilco|.|bbc360.txt|.|3
+marine chronometer|.|bbc1833.txt|.|4
+election|.|bbc1257.txt|.|3|.|bbc1311.txt|.|3
+remote control|.|bbc1833.txt|.|3
+mobile|.|bbc1833.txt|.|12
+purchase|.|bbc318.txt|.|2
+home|.|bbc942.txt|.|5
+hayward|.|bbc214.txt|.|2
+duty|.|bbc1257.txt|.|10
+magazine|.|bbc1833.txt|.|7
+bid|.|bbc1385.txt|.|3
+ireland|.|bbc1446.txt|.|3
+prime minister|.|bbc52.txt|.|2
+expert|.|bbc703.txt|.|1
+mobile pc|.|bbc1833.txt|.|3
+gadget|.|bbc1833.txt|.|14
+office minister|.|bbc1073.txt|.|2
+blunkett|.|bbc942.txt|.|7
+powerbook|.|bbc1833.txt|.|2
+taxes|.|bbc1257.txt|.|2
+los caballeros|.|bbc1914.txt|.|3
+wales coach|.|bbc1633.txt|.|2
+greatest gadget|.|bbc1833.txt|.|2
+bdo stoy hayward|.|bbc214.txt|.|2
+executive|.|bbc1211.txt|.|5
+marathon training|.|bbc1385.txt|.|2
+apple powerbook|.|bbc1833.txt|.|2
+games|.|bbc1633.txt|.|2
+rate rises|.|bbc214.txt|.|2
+action|.|bbc52.txt|.|2
+two games|.|bbc1633.txt|.|2
+mr blair|.|bbc942.txt|.|2
+plan|.|bbc52.txt|.|2
+french|.|bbc1446.txt|.|2
+laws|.|bbc1056.txt|.|2
+made|.|bbc1633.txt|.|3
+interest rates|.|bbc1257.txt|.|2
+khodorkovsky|.|bbc318.txt|.|3
+terror suspects|.|bbc1056.txt|.|2
+chronometer|.|bbc1833.txt|.|4
+books|.|bbc298.txt|.|3
+phone|.|bbc1833.txt|.|5
+child support|.|bbc1211.txt|.|3
+finnan|.|bbc1446.txt|.|4
+coach|.|bbc1633.txt|.|3
+champion|.|bbc1319.txt|.|2
+primary|.|bbc159.txt|.|2
+women|.|bbc1236.txt|.|12
+mr smith|.|bbc1211.txt|.|7
+britain|.|bbc1056.txt|.|3
+forensic science|.|bbc703.txt|.|5
+stamp|.|bbc1257.txt|.|8
+csa chief|.|bbc1211.txt|.|2
+labour|.|bbc1236.txt|.|3|.|bbc1311.txt|.|6
+mae|.|bbc298.txt|.|5
+los|.|bbc1914.txt|.|3
+world|.|bbc1319.txt|.|3|.|bbc1914.txt|.|9
+birmingham|.|bbc1319.txt|.|2
+government|.|bbc159.txt|.|2
+mortgage|.|bbc298.txt|.|3
+restate|.|bbc298.txt|.|2
+web|.|bbc1914.txt|.|4
+home secretary|.|bbc942.txt|.|4
+blair|.|bbc942.txt|.|4
+indoors|.|bbc1319.txt|.|1
+security services|.|bbc1073.txt|.|7
+agency|.|bbc1211.txt|.|4
+mr brown|.|bbc1257.txt|.|1
+health|.|bbc159.txt|.|3
+mrs|.|bbc942.txt|.|4
+earnings|.|bbc298.txt|.|3|.|bbc360.txt|.|2
+speaking world|.|bbc1914.txt|.|1
+london marathon|.|bbc1385.txt|.|3
+child support agency|.|bbc1211.txt|.|2
+manifesto|.|bbc1236.txt|.|3
+mr chidambaram|.|bbc159.txt|.|7
+stade de france|.|bbc1633.txt|.|2
+mr blunkett|.|bbc942.txt|.|5
+maurice|.|bbc1319.txt|.|2
+threshold|.|bbc1257.txt|.|5
+office|.|bbc1073.txt|.|2
+forensic|.|bbc703.txt|.|12
+duty threshold|.|bbc1257.txt|.|4
+chidambaram|.|bbc159.txt|.|8
+fannie|.|bbc298.txt|.|7
+maternity|.|bbc1236.txt|.|4
+plaid|.|bbc1073.txt|.|7
+group|.|bbc1446.txt|.|4
+terror|.|bbc1056.txt|.|2
+mp|.|bbc1311.txt|.|2
+mr|.|bbc1236.txt|.|6|.|bbc159.txt|.|7|.|bbc52.txt|.|2|.|bbc1257.txt|.|2|.|bbc942.txt|.|10|.|bbc1211.txt|.|15
+rail|.|bbc942.txt|.|2
+wales|.|bbc1633.txt|.|7
+suspects|.|bbc1056.txt|.|2
+spanish language|.|bbc1914.txt|.|3
+departure|.|bbc1211.txt|.|6
+who|.|bbc1319.txt|.|2
+game|.|bbc1446.txt|.|3|.|bbc1633.txt|.|2
+chief executive|.|bbc1211.txt|.|5
+tickets|.|bbc942.txt|.|3
+week|.|bbc1385.txt|.|3
+unveil|.|bbc1236.txt|.|2
+dems|.|bbc1236.txt|.|3|.|bbc1257.txt|.|2
+world record|.|bbc1319.txt|.|2
+bad name|.|bbc1056.txt|.|2
+running|.|bbc1385.txt|.|7
+security|.|bbc1073.txt|.|7
+paris|.|bbc1446.txt|.|3
+oil|.|bbc318.txt|.|3
+public|.|bbc214.txt|.|2
+prices|.|bbc360.txt|.|3
+said|.|bbc1311.txt|.|5|.|bbc298.txt|.|3
+win|.|bbc1446.txt|.|4
+greatest|.|bbc1833.txt|.|2
+mr kennedy|.|bbc1236.txt|.|6
+meibion|.|bbc1073.txt|.|3
+mikhail|.|bbc318.txt|.|2
+chief|.|bbc1211.txt|.|7
+chilean copper|.|bbc360.txt|.|2
+rates|.|bbc1257.txt|.|2
+spanish speaking|.|bbc1914.txt|.|1
+clear|.|bbc1319.txt|.|1
+control|.|bbc1833.txt|.|3
+italian|.|bbc52.txt|.|1
+manifesto for women|.|bbc1236.txt|.|1
+csa|.|bbc1211.txt|.|5
+pc|.|bbc1833.txt|.|5
+mikhail khodorkovsky|.|bbc318.txt|.|2
+isinbayeva|.|bbc1319.txt|.|2
+csi|.|bbc703.txt|.|8
+sport|.|bbc1385.txt|.|1

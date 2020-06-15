@@ -1,0 +1,13 @@
+9
+new service|.|rfc3082.txt|.|5
+communicate|.|rfc5505.txt|.|2
+communicate at the link|.|rfc5505.txt|.|1
+protocol operations|.|rfc2955.txt|.|4
+service|.|rfc2214.txt|.|18|.|rfc2443.txt|.|20|.|rfc3469.txt|.|31|.|rfc4176.txt|.|124|.|rfc5028.txt|.|8|.|rfc4117.txt|.|14|.|rfc5505.txt|.|60|.|rfc2815.txt|.|64|.|rfc5379.txt|.|84|.|rfc2549.txt|.|6|.|rfc2955.txt|.|88|.|rfc4689.txt|.|10|.|rfc3088.txt|.|71|.|rfc5679.txt|.|54|.|rfc2594.txt|.|117|.|rfc5160.txt|.|33|.|rfc2165.txt|.|631|.|rfc3729.txt|.|17|.|rfc2039.txt|.|24|.|rfc2724.txt|.|9|.|rfc90.txt|.|12|.|rfc2614.txt|.|315|.|rfc3082.txt|.|69|.|rfc5728.txt|.|7|.|rfc3091.txt|.|24|.|rfc6171.txt|.|9|.|rfc5375.txt|.|39|.|rfc2307.txt|.|36|.|rfc2554.txt|.|9|.|rfc3111.txt|.|73|.|rfc2775.txt|.|7|.|rfc2210.txt|.|189|.|rfc2084.txt|.|6|.|rfc3837.txt|.|27|.|rfc4084.txt|.|48|.|rfc630.txt|.|4|.|rfc5897.txt|.|240|.|rfc2075.txt|.|5|.|rfc3341.txt|.|89|.|rfc3725.txt|.|21|.|rfc5945.txt|.|15|.|rfc3387.txt|.|163|.|rfc5946.txt|.|2|.|rfc4143.txt|.|11|.|rfc2924.txt|.|89|.|rfc4401.txt|.|5|.|rfc4640.txt|.|97|.|rfc3817.txt|.|44|.|rfc2670.txt|.|55|.|rfc3105.txt|.|50
+qualities|.|rfc2210.txt|.|2
+dns srv|.|rfc3088.txt|.|7
+higher layer|.|rfc5505.txt|.|1
+link layers|.|rfc5679.txt|.|2
+embedded|.|rfc5375.txt|.|2
+qualities of service|.|rfc2210.txt|.|2
+higher|.|rfc5505.txt|.|4

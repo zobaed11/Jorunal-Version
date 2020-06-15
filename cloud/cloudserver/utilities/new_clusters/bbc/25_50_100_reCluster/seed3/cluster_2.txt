@@ -1,0 +1,34 @@
+2
+indications|.|bbc6.txt|.|1
+technical|.|bbc6.txt|.|2
+thought|.|bbc6.txt|.|2
+growth estimate|.|bbc98.txt|.|2
+job creation|.|bbc416.txt|.|2
+economic growth|.|bbc459.txt|.|2|.|bbc436.txt|.|2|.|bbc175.txt|.|2
+job growth|.|bbc416.txt|.|2
+irish shares|.|bbc31.txt|.|2
+stocks|.|bbc31.txt|.|2
+period last year|.|bbc310.txt|.|2
+previously|.|bbc6.txt|.|2
+estimate|.|bbc98.txt|.|2
+continues|.|bbc453.txt|.|1
+main concerns|.|bbc416.txt|.|2
+end|.|bbc459.txt|.|4
+creation|.|bbc416.txt|.|2
+unemployment rate|.|bbc253.txt|.|2
+period last|.|bbc310.txt|.|2
+strong growth|.|bbc31.txt|.|3
+than had previously been thought|.|bbc6.txt|.|1
+period|.|bbc459.txt|.|3|.|bbc310.txt|.|3
+lowest level|.|bbc253.txt|.|2
+previously been thought|.|bbc6.txt|.|1
+labor department|.|bbc253.txt|.|2
+financial stocks|.|bbc31.txt|.|2
+concerns|.|bbc416.txt|.|2
+explosion|.|bbc2208.txt|.|1
+growth forecast|.|bbc31.txt|.|1
+jobs growth|.|bbc253.txt|.|1
+growth|.|bbc6.txt|.|3|.|bbc459.txt|.|6|.|bbc53.txt|.|1|.|bbc436.txt|.|4|.|bbc2208.txt|.|2|.|bbc310.txt|.|3|.|bbc416.txt|.|6|.|bbc453.txt|.|3|.|bbc259.txt|.|2|.|bbc286.txt|.|4|.|bbc98.txt|.|4|.|bbc31.txt|.|7|.|bbc253.txt|.|4|.|bbc175.txt|.|3
+german economy|.|bbc98.txt|.|2
+athletic|.|bbc310.txt|.|2
+german growth|.|bbc98.txt|.|2
