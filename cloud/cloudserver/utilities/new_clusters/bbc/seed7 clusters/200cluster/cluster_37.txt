@@ -1,3 +1,0 @@
-blackground records
-logs
-record loss

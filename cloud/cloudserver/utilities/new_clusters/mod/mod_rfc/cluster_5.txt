@@ -1,7 +1,0 @@
-5
-mobile ip
-node
-mobility
-mobile node
-foreign
-foreign agent

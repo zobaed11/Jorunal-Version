@@ -1,7 +1,0 @@
-19
-parcel|.|bbc1945.txt|.|1
-robots learn|.|bbc1945.txt|.|1
-companion robot|.|bbc1945.txt|.|2
-companion|.|bbc1945.txt|.|3
-robotiquette|.|bbc1945.txt|.|3
-human|.|bbc1032.txt|.|5|.|bbc1176.txt|.|2|.|bbc1175.txt|.|16|.|bbc1945.txt|.|6|.|bbc936.txt|.|3|.|bbc1125.txt|.|4|.|bbc1120.txt|.|4|.|bbc1027.txt|.|3|.|bbc1264.txt|.|4

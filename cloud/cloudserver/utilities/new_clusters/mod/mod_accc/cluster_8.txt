@@ -1,6 +1,0 @@
-8
-x
-luminance adjustment
-luminance
-lb
-dim

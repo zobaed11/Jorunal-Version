@@ -1,4 +1,0 @@
-zone
-targets set
-targets
-strike

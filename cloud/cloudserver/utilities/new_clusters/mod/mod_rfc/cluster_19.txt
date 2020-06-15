@@ -1,6 +1,0 @@
-19
-data services
-managing the resources
-activity is supported
-mobile
-standardization
