@@ -1,0 +1,12 @@
+1070
+no return|.|WET4172.txt|.|2
+graduate students|.|WET510.txt|.|6
+indian institute|.|WET510.txt|.|14
+slideshows|.|WET1958.txt|.|14
+louise|.|WET4172.txt|.|64
+howard|.|WET948.txt|.|33
+charles|.|WET288.txt|.|11|.|WET4172.txt|.|62
+shop front|.|WET5890.txt|.|12
+john|.|WET1958.txt|.|122|.|WET3065.txt|.|12|.|WET1910.txt|.|104|.|WET5891.txt|.|75|.|WET6231.txt|.|58|.|WET540.txt|.|72|.|WET4370.txt|.|11|.|WET948.txt|.|12|.|WET323.txt|.|86|.|WET498.txt|.|11|.|WET5890.txt|.|30|.|WET2150.txt|.|77|.|WET5638.txt|.|239|.|WET847.txt|.|70|.|WET134.txt|.|12|.|WET4172.txt|.|234|.|WET510.txt|.|108
+agricultural college|.|WET948.txt|.|12
+kerry|.|WET510.txt|.|107

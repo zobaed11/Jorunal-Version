@@ -1,0 +1,12 @@
+514
+zip|.|WET479.txt|.|8|.|WET1952.txt|.|44|.|WET2731.txt|.|1|.|WET4853.txt|.|22
+doors|.|WET5934.txt|.|24
+services find|.|WET5494.txt|.|10
+lukisan|.|WET4491.txt|.|20
+fail blog|.|WET4106.txt|.|74|.|WET362.txt|.|74
+linux|.|WET2256.txt|.|87|.|WET5993.txt|.|70|.|WET568.txt|.|49|.|WET5995.txt|.|99|.|WET4333.txt|.|67|.|WET590.txt|.|54|.|WET997.txt|.|55
+removal|.|WET5027.txt|.|28|.|WET6166.txt|.|45
+discussions|.|WET5618.txt|.|26|.|WET3280.txt|.|7|.|WET6130.txt|.|196
+international airport|.|WET2187.txt|.|50
+hitting|.|WET6000.txt|.|2|.|WET6018.txt|.|2|.|WET1931.txt|.|3|.|WET2933.txt|.|4|.|WET4316.txt|.|3|.|WET4550.txt|.|2|.|WET3418.txt|.|1|.|WET3077.txt|.|3|.|WET1017.txt|.|2|.|WET2586.txt|.|2|.|WET134.txt|.|2|.|WET4244.txt|.|2|.|WET590.txt|.|2|.|WET3964.txt|.|2
+zil|.|WET1456.txt|.|45

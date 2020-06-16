@@ -1,0 +1,12 @@
+909
+southern|.|WET282.txt|.|31|.|WET4036.txt|.|252|.|WET3960.txt|.|99|.|WET1039.txt|.|51|.|WET293.txt|.|54|.|WET213.txt|.|198|.|WET291.txt|.|356|.|WET212.txt|.|99|.|WET292.txt|.|280|.|WET4026.txt|.|53|.|WET405.txt|.|7|.|WET4035.txt|.|188
+jgo kernelmedals|.|WET2129.txt|.|37
+recorder|.|WET5419.txt|.|203
+iggy azalea|.|WET5900.txt|.|15|.|WET2159.txt|.|13|.|WET5901.txt|.|7|.|WET5899.txt|.|10
+range booster|.|WET1537.txt|.|7
+passover|.|WET4886.txt|.|29
+warning|.|WET1039.txt|.|55
+cart hungarian arabic|.|WET4239.txt|.|11
+visual basic|.|WET4150.txt|.|72|.|WET2701.txt|.|20|.|WET409.txt|.|38
+aes|.|WET1127.txt|.|51
+political approval|.|WET5850.txt|.|133

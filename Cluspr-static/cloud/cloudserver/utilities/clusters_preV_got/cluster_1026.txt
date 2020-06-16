@@ -1,0 +1,12 @@
+1026
+bigscreen cinema|.|WET3839.txt|.|15
+ladder hook|.|WET2730.txt|.|36
+adaptive|.|WET5051.txt|.|8|.|WET4832.txt|.|2
+gallery picture|.|WET5052.txt|.|8
+zimbabwe all countries|.|WET240.txt|.|30
+album gallery|.|WET5052.txt|.|8
+actions|.|WET412.txt|.|9|.|WET1968.txt|.|14|.|WET4161.txt|.|8|.|WET5291.txt|.|11|.|WET5718.txt|.|6|.|WET1572.txt|.|6|.|WET1301.txt|.|6|.|WET2190.txt|.|13|.|WET6030.txt|.|11|.|WET5027.txt|.|7|.|WET5928.txt|.|11|.|WET3922.txt|.|8
+uuid|.|WET4337.txt|.|1|.|WET5283.txt|.|1|.|WET1533.txt|.|1|.|WET5282.txt|.|1|.|WET4668.txt|.|4|.|WET403.txt|.|7
+juiz|.|WET5643.txt|.|24
+bike|.|WET3839.txt|.|41|.|WET1302.txt|.|60|.|WET5164.txt|.|72|.|WET5051.txt|.|114|.|WET2730.txt|.|124|.|WET1414.txt|.|70|.|WET1301.txt|.|127|.|WET5052.txt|.|132|.|WET2444.txt|.|31|.|WET1459.txt|.|56|.|WET4905.txt|.|174|.|WET3965.txt|.|11|.|WET1413.txt|.|99|.|WET2402.txt|.|31|.|WET1644.txt|.|22
+help contact|.|WET1459.txt|.|5

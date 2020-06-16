@@ -1,0 +1,12 @@
+1029
+running|.|WET3965.txt|.|112|.|WET1118.txt|.|106|.|WET2797.txt|.|9|.|WET1415.txt|.|161|.|WET5576.txt|.|20|.|WET218.txt|.|107|.|WET5551.txt|.|53
+half marathon training|.|WET1118.txt|.|15
+running tips|.|WET1118.txt|.|11
+makeup brushes|.|WET5955.txt|.|8
+makeup tools|.|WET5955.txt|.|8
+couch|.|WET218.txt|.|40
+run training trail|.|WET3965.txt|.|11|.|WET218.txt|.|10
+mud runs|.|WET218.txt|.|20
+brushes makeup tools|.|WET5955.txt|.|8
+half marathon marathon|.|WET3965.txt|.|22
+tips|.|WET5955.txt|.|34|.|WET2442.txt|.|36|.|WET1118.txt|.|124|.|WET2097.txt|.|22|.|WET5901.txt|.|14|.|WET2902.txt|.|5|.|WET5718.txt|.|6|.|WET1645.txt|.|19|.|WET5900.txt|.|11|.|WET4978.txt|.|32|.|WET3965.txt|.|137|.|WET5467.txt|.|37|.|WET1724.txt|.|45|.|WET3949.txt|.|47|.|WET218.txt|.|122

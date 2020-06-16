@@ -1,0 +1,12 @@
+101
+coverage|.|WET3713.txt|.|29
+cfd online|.|WET5206.txt|.|54
+basics|.|WET5580.txt|.|10
+magnum|.|WET2886.txt|.|88
+pen standsfountain|.|WET5879.txt|.|10
+earth|.|WET6199.txt|.|26|.|WET5755.txt|.|42|.|WET4256.txt|.|42|.|WET1935.txt|.|23|.|WET666.txt|.|18
+kid|.|WET5547.txt|.|43|.|WET5546.txt|.|20
+earth elements|.|WET666.txt|.|11
+trade paperback|.|WET1144.txt|.|20
+inventory|.|WET1107.txt|.|79
+dog shop|.|WET2635.txt|.|27

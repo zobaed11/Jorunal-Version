@@ -1,0 +1,12 @@
+970
+korea|.|WET61.txt|.|19
+discountsparty|.|WET1628.txt|.|10
+sutta|.|WET5385.txt|.|73
+questions tags|.|WET45.txt|.|14
+mapa|.|WET2087.txt|.|124
+postcard style|.|WET5238.txt|.|78
+media insider|.|WET5249.txt|.|12
+knobs|.|WET2185.txt|.|60|.|WET5417.txt|.|17|.|WET2073.txt|.|2|.|WET5923.txt|.|73
+warwick|.|WET1034.txt|.|70
+modification|.|WET3890.txt|.|100
+center uw|.|WET3205.txt|.|12

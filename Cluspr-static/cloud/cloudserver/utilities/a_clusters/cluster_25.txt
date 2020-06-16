@@ -1,0 +1,28 @@
+25
+mobility message|.|rfc5096.txt|.|3
+initiator cookie|.|rfc2522.txt|.|6
+cookie pair|.|rfc6013.txt|.|4
+mail message|.|rfc4405.txt|.|1
+experimental|.|rfc4956.txt|.|26|.|rfc5257.txt|.|38|.|rfc4478.txt|.|7|.|rfc4727.txt|.|32|.|rfc4913.txt|.|10|.|rfc2567.txt|.|46|.|rfc2143.txt|.|7|.|rfc2522.txt|.|83|.|rfc2168.txt|.|25|.|rfc2540.txt|.|7|.|rfc5514.txt|.|7|.|rfc4407.txt|.|9|.|rfc2593.txt|.|23|.|rfc2090.txt|.|7|.|rfc6013.txt|.|50|.|rfc3695.txt|.|15|.|rfc2692.txt|.|16|.|rfc3082.txt|.|15|.|rfc1966.txt|.|8|.|rfc3618.txt|.|24|.|rfc4138.txt|.|24|.|rfc4693.txt|.|12|.|rfc2758.txt|.|74|.|rfc5634.txt|.|26|.|rfc2307.txt|.|23|.|rfc4065.txt|.|39|.|rfc4624.txt|.|44|.|rfc2756.txt|.|18|.|rfc4908.txt|.|12|.|rfc4633.txt|.|15|.|rfc3430.txt|.|11|.|rfc6023.txt|.|9|.|rfc4765.txt|.|158|.|rfc3179.txt|.|26|.|rfc5504.txt|.|42|.|rfc2094.txt|.|23|.|rfc5878.txt|.|21|.|rfc3123.txt|.|10|.|rfc5327.txt|.|13|.|rfc503.txt|.|3|.|rfc2762.txt|.|14|.|rfc2162.txt|.|35|.|rfc3183.txt|.|26|.|rfc3529.txt|.|17|.|rfc2568.txt|.|12|.|rfc5787.txt|.|52|.|rfc5337.txt|.|19|.|rfc5096.txt|.|37|.|rfc6078.txt|.|19|.|rfc518.txt|.|20|.|rfc4912.txt|.|166|.|rfc5320.txt|.|35|.|rfc2770.txt|.|12|.|rfc2523.txt|.|22|.|rfc4620.txt|.|15|.|rfc2116.txt|.|36|.|rfc2009.txt|.|28|.|rfc2521.txt|.|10|.|rfc5335.txt|.|19|.|rfc2217.txt|.|15|.|rfc2483.txt|.|19|.|rfc5081.txt|.|9|.|rfc5825.txt|.|16|.|rfc5983.txt|.|12|.|rfc5971.txt|.|159|.|rfc5525.txt|.|54|.|rfc1949.txt|.|19|.|rfc4914.txt|.|39|.|rfc5622.txt|.|39|.|rfc3789.txt|.|14|.|rfc2657.txt|.|13|.|rfc4406.txt|.|21|.|rfc4767.txt|.|30|.|rfc4324.txt|.|144|.|rfc2481.txt|.|30|.|rfc3163.txt|.|19|.|rfc2201.txt|.|16|.|rfc4405.txt|.|16|.|rfc4316.txt|.|13|.|rfc3952.txt|.|15|.|rfc5721.txt|.|18|.|rfc4498.txt|.|36|.|rfc604.txt|.|3|.|rfc6296.txt|.|34|.|rfc2189.txt|.|25|.|rfc1986.txt|.|24|.|rfc3421.txt|.|9|.|rfc2659.txt|.|5|.|rfc3929.txt|.|14|.|rfc2093.txt|.|25|.|rfc2716.txt|.|25|.|rfc4911.txt|.|92|.|rfc2016.txt|.|32|.|rfc2052.txt|.|12|.|rfc4126.txt|.|23|.|rfc3692.txt|.|27|.|rfc4813.txt|.|12|.|rfc4064.txt|.|61
+assigning experimental and testing|.|rfc3692.txt|.|7
+ospf link|.|rfc4813.txt|.|1
+deng|.|rfc6023.txt|.|2
+recommendation for network|.|rfc6296.txt|.|2
+document is classified|.|rfc5787.txt|.|2
+resolution system|.|rfc2168.txt|.|3
+tcp friendly rate|.|rfc5622.txt|.|4
+entry name|.|rfc5257.txt|.|6
+start rate|.|rfc5634.txt|.|1
+offered attributes|.|rfc2522.txt|.|3
+seal encapsulated|.|rfc5320.txt|.|4
+results of this algorithm|.|rfc4407.txt|.|1
+index server mesh|.|rfc2657.txt|.|1
+karn and william|.|rfc2521.txt|.|2
+idxp greeting|.|rfc4767.txt|.|2
+authority must assign|.|rfc2094.txt|.|1
+basis for internet|.|rfc2540.txt|.|1
+classified|.|rfc5787.txt|.|3
+xml rpc|.|rfc3529.txt|.|1
+approving body|.|rfc4693.txt|.|2
+sender specific keys|.|rfc1949.txt|.|1
+web objects|.|rfc2756.txt|.|3

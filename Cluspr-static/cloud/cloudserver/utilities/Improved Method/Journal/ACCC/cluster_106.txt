@@ -1,0 +1,78 @@
+106
+tv|.|WET2057.txt|.|22|.|WET1625.txt|.|25|.|WET2439.txt|.|32|.|WET643.txt|.|7|.|WET401.txt|.|11|.|WET1286.txt|.|90|.|WET2035.txt|.|5|.|WET1070.txt|.|36|.|WET2083.txt|.|52|.|WET2879.txt|.|38|.|WET4120.txt|.|69|.|WET3159.txt|.|329|.|WET1752.txt|.|24|.|WET1588.txt|.|53|.|WET989.txt|.|112|.|WET3156.txt|.|39|.|WET3894.txt|.|1|.|WET1873.txt|.|37|.|WET4758.txt|.|36|.|WET1775.txt|.|83|.|WET2355.txt|.|14|.|WET4729.txt|.|37|.|WET3842.txt|.|39|.|WET3085.txt|.|59|.|WET3609.txt|.|36|.|WET2415.txt|.|30|.|WET4573.txt|.|21|.|WET2906.txt|.|66|.|WET1402.txt|.|43|.|WET4728.txt|.|59|.|WET1246.txt|.|21|.|WET4590.txt|.|14
+traffic flowing|.|WET306.txt|.|9
+connectors|.|WET5242.txt|.|2|.|WET4355.txt|.|2|.|WET3773.txt|.|1|.|WET2399.txt|.|1|.|WET5901.txt|.|2|.|WET3638.txt|.|2|.|WET2013.txt|.|2|.|WET6083.txt|.|5|.|WET615.txt|.|2|.|WET1537.txt|.|2|.|WET2772.txt|.|2|.|WET4019.txt|.|3|.|WET5477.txt|.|2|.|WET915.txt|.|2|.|WET1796.txt|.|3|.|WET5358.txt|.|2|.|WET5867.txt|.|2|.|WET3618.txt|.|2|.|WET2339.txt|.|2|.|WET6049.txt|.|4|.|WET4936.txt|.|2
+labspatheos|.|WET2602.txt|.|5
+newsletters follow|.|WET2602.txt|.|5
+otterbein university|.|WET4477.txt|.|20
+otterbein|.|WET4477.txt|.|56
+tv news|.|WET3159.txt|.|9|.|WET4590.txt|.|5
+bluepolitics|.|WET2602.txt|.|5
+continue|.|WET2306.txt|.|272|.|WET1624.txt|.|10|.|WET3837.txt|.|10|.|WET188.txt|.|66|.|WET4316.txt|.|45|.|WET5885.txt|.|11|.|WET2487.txt|.|11|.|WET3936.txt|.|68|.|WET4896.txt|.|446
+patheos|.|WET2602.txt|.|58
+annual|.|WET1879.txt|.|22|.|WET2240.txt|.|38|.|WET5393.txt|.|186
+michael balderston|.|WET3159.txt|.|22
+benchmarks|.|WET3159.txt|.|125
+protocols|.|WET306.txt|.|8
+squarepolitics bluepolitics|.|WET2602.txt|.|5
+traffic|.|WET928.txt|.|1|.|WET306.txt|.|247|.|WET1889.txt|.|65
+anzeigenalles|.|WET2013.txt|.|5
+service level agreements|.|WET306.txt|.|3
+tigres|.|WET4084.txt|.|3
+link utilization|.|WET306.txt|.|8
+events future|.|WET4477.txt|.|4
+opportunity|.|WET4477.txt|.|3
+agreements|.|WET306.txt|.|3
+managed by a service|.|WET306.txt|.|3
+utilization|.|WET306.txt|.|27
+balderston|.|WET3159.txt|.|22
+flowing|.|WET306.txt|.|9
+corps|.|WET3832.txt|.|206|.|WET2306.txt|.|166
+news organization|.|WET4126.txt|.|9|.|WET387.txt|.|8|.|WET3159.txt|.|2|.|WET388.txt|.|6|.|WET4127.txt|.|8
+judicial|.|WET4184.txt|.|22
+routing protocols|.|WET306.txt|.|8
+clubreligion|.|WET2602.txt|.|5
+labspatheos pressshop|.|WET2602.txt|.|5
+acres|.|WET4037.txt|.|60|.|WET5393.txt|.|104
+permalink|.|WET5325.txt|.|74|.|WET3481.txt|.|51|.|WET2306.txt|.|316|.|WET555.txt|.|35|.|WET3105.txt|.|97|.|WET2379.txt|.|19
+speculations|.|WET4289.txt|.|1|.|WET705.txt|.|1|.|WET4692.txt|.|1|.|WET3323.txt|.|2
+marine corps|.|WET2306.txt|.|156
+annual report|.|WET5393.txt|.|128
+manuel|.|WET645.txt|.|42|.|WET784.txt|.|44
+equal opportunity|.|WET4477.txt|.|1
+aggregation|.|WET306.txt|.|6
+coker|.|WET3959.txt|.|71
+interstate|.|WET5393.txt|.|122
+marine|.|WET2308.txt|.|31|.|WET2306.txt|.|390|.|WET2307.txt|.|35|.|WET2573.txt|.|40|.|WET1032.txt|.|69|.|WET1325.txt|.|98
+composites|.|WET554.txt|.|1|.|WET3638.txt|.|1|.|WET615.txt|.|2
+channelspublic squarepolitics|.|WET2602.txt|.|5
+routing|.|WET306.txt|.|83
+scouts|.|WET5242.txt|.|2|.|WET4084.txt|.|2|.|WET2306.txt|.|2|.|WET4184.txt|.|2|.|WET2013.txt|.|6|.|WET784.txt|.|1|.|WET2602.txt|.|14|.|WET6141.txt|.|1|.|WET615.txt|.|7|.|WET3959.txt|.|2|.|WET4289.txt|.|3|.|WET306.txt|.|3|.|WET966.txt|.|1|.|WET3159.txt|.|1|.|WET4477.txt|.|2|.|WET2404.txt|.|2|.|WET3062.txt|.|2|.|WET5393.txt|.|6
+drama|.|WET3159.txt|.|101
+cobras|.|WET3959.txt|.|15
+redbook clubreligion|.|WET2602.txt|.|5
+december|.|WET1988.txt|.|7|.|WET3762.txt|.|26|.|WET2306.txt|.|177|.|WET591.txt|.|32|.|WET829.txt|.|103|.|WET3998.txt|.|29|.|WET5699.txt|.|257|.|WET6141.txt|.|217|.|WET587.txt|.|32|.|WET4623.txt|.|26|.|WET105.txt|.|36|.|WET3876.txt|.|32|.|WET681.txt|.|50|.|WET3382.txt|.|83|.|WET6274.txt|.|321
+squarepolitics|.|WET2602.txt|.|5
+commission|.|WET3633.txt|.|38|.|WET246.txt|.|129|.|WET5393.txt|.|458
+traffic class|.|WET306.txt|.|77
+soft errors|.|WET306.txt|.|14
+beninger|.|WET784.txt|.|43
+class|.|WET5133.txt|.|24|.|WET3304.txt|.|18|.|WET306.txt|.|78|.|WET2996.txt|.|13|.|WET302.txt|.|41|.|WET224.txt|.|8|.|WET3735.txt|.|32|.|WET4046.txt|.|8
+permalink december|.|WET2306.txt|.|30
+aggregation of this information|.|WET306.txt|.|3
+continue reading|.|WET2306.txt|.|268|.|WET1624.txt|.|9|.|WET3837.txt|.|10|.|WET188.txt|.|66|.|WET4316.txt|.|12|.|WET2487.txt|.|10|.|WET3936.txt|.|66|.|WET4896.txt|.|438
+reading|.|WET2306.txt|.|268|.|WET1624.txt|.|9|.|WET3837.txt|.|13|.|WET1590.txt|.|17|.|WET188.txt|.|96|.|WET4316.txt|.|17|.|WET2487.txt|.|11|.|WET442.txt|.|24|.|WET3936.txt|.|96|.|WET4896.txt|.|440
+einfach|.|WET2013.txt|.|11
+pressshop|.|WET2602.txt|.|5
+gambled|.|WET3159.txt|.|1
+manuel beninger|.|WET784.txt|.|43
+equal|.|WET4477.txt|.|3
+channelspublic|.|WET2602.txt|.|5
+redbook|.|WET2602.txt|.|5
+january|.|WET257.txt|.|22|.|WET208.txt|.|60|.|WET3762.txt|.|41|.|WET4622.txt|.|42|.|WET634.txt|.|29|.|WET217.txt|.|30|.|WET3861.txt|.|63|.|WET325.txt|.|112|.|WET4987.txt|.|27|.|WET118.txt|.|42|.|WET4289.txt|.|100|.|WET2808.txt|.|65|.|WET4284.txt|.|38|.|WET4623.txt|.|26|.|WET555.txt|.|28|.|WET530.txt|.|55|.|WET3873.txt|.|61|.|WET4213.txt|.|63|.|WET2770.txt|.|37|.|WET956.txt|.|53|.|WET123.txt|.|279|.|WET1510.txt|.|132|.|WET4960.txt|.|34
+cbs|.|WET4440.txt|.|170|.|WET4306.txt|.|25|.|WET278.txt|.|79|.|WET189.txt|.|19|.|WET699.txt|.|70|.|WET3159.txt|.|104|.|WET5195.txt|.|33
+future|.|WET564.txt|.|9|.|WET5871.txt|.|34|.|WET4477.txt|.|22|.|WET2470.txt|.|14
+patheos labspatheos|.|WET2602.txt|.|5
+routing policy|.|WET306.txt|.|4
+organization|.|WET4126.txt|.|9|.|WET387.txt|.|8|.|WET3159.txt|.|3|.|WET3010.txt|.|37|.|WET388.txt|.|8|.|WET4127.txt|.|8
+bluepolitics redbook|.|WET2602.txt|.|5

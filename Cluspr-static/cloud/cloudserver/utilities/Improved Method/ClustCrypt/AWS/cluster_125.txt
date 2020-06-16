@@ -1,0 +1,5 @@
+car charger|.|WET3567.txt|.|6
+life art|.|WET5492.txt|.|6
+new products sale|.|WET3567.txt|.|12
+promotional|.|WET222.txt|.|1|.|WET1756.txt|.|175|.|WET3624.txt|.|2|.|WET1757.txt|.|50|.|WET5552.txt|.|36|.|WET1790.txt|.|2|.|WET4552.txt|.|2|.|WET5332.txt|.|2|.|WET4200.txt|.|2|.|WET1287.txt|.|3|.|WET6049.txt|.|2|.|WET360.txt|.|3|.|WET742.txt|.|2|.|WET4533.txt|.|2|.|WET5508.txt|.|52|.|WET5427.txt|.|1|.|WET3567.txt|.|81|.|WET1924.txt|.|14|.|WET2470.txt|.|2|.|WET1033.txt|.|1|.|WET2424.txt|.|2|.|WET2091.txt|.|2|.|WET5492.txt|.|32|.|WET1679.txt|.|12|.|WET5382.txt|.|1|.|WET2339.txt|.|2|.|WET1843.txt|.|1|.|WET155.txt|.|2|.|WET5493.txt|.|113|.|WET2662.txt|.|19|.|WET1816.txt|.|42|.|WET2035.txt|.|2|.|WET5777.txt|.|2|.|WET2621.txt|.|2|.|WET1583.txt|.|3|.|WET5185.txt|.|2|.|WET3319.txt|.|2|.|WET6053.txt|.|1|.|WET27.txt|.|1|.|WET5275.txt|.|2|.|WET6083.txt|.|5|.|WET1931.txt|.|2|.|WET3691.txt|.|2|.|WET746.txt|.|2|.|WET5988.txt|.|2|.|WET3529.txt|.|2|.|WET2891.txt|.|1|.|WET512.txt|.|2|.|WET4886.txt|.|2|.|WET1817.txt|.|42|.|WET5551.txt|.|66
+successful|.|WET3567.txt|.|7

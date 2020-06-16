@@ -1,0 +1,12 @@
+1099
+der|.|WET4786.txt|.|28|.|WET3702.txt|.|6|.|WET5993.txt|.|101|.|WET5781.txt|.|44|.|WET5372.txt|.|20|.|WET3422.txt|.|41|.|WET1221.txt|.|159|.|WET4976.txt|.|113|.|WET4439.txt|.|38|.|WET3424.txt|.|68|.|WET2146.txt|.|62|.|WET5791.txt|.|112|.|WET1222.txt|.|293|.|WET3183.txt|.|56|.|WET988.txt|.|129|.|WET5458.txt|.|461|.|WET5869.txt|.|210|.|WET1088.txt|.|47
+beitrag|.|WET1088.txt|.|9
+diese|.|WET3423.txt|.|15|.|WET5458.txt|.|38
+oder|.|WET1714.txt|.|87|.|WET5458.txt|.|217|.|WET5869.txt|.|61
+diesen beitrag|.|WET1088.txt|.|9
+beitrag melden|.|WET1088.txt|.|9
+dienst|.|WET1222.txt|.|30|.|WET1221.txt|.|30
+politisches|.|WET1221.txt|.|24
+diesen|.|WET1088.txt|.|12
+amt|.|WET1222.txt|.|117|.|WET1221.txt|.|111|.|WET4975.txt|.|115|.|WET4976.txt|.|103
+gast|.|WET1221.txt|.|24

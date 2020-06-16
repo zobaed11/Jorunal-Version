@@ -1,0 +1,32 @@
+58
+heart health|.|WET5436.txt|.|15
+years old|.|WET6079.txt|.|30|.|WET4002.txt|.|32|.|WET5558.txt|.|48
+content tag|.|WET3586.txt|.|6
+quality and service|.|WET2519.txt|.|2|.|WET5426.txt|.|4|.|WET4363.txt|.|2|.|WET5436.txt|.|6
+digestive|.|WET5877.txt|.|12|.|WET5436.txt|.|12
+poem|.|WET3586.txt|.|41|.|WET2673.txt|.|168
+immune health|.|WET5436.txt|.|12
+rate|.|WET874.txt|.|13|.|WET4004.txt|.|71|.|WET3963.txt|.|23|.|WET1998.txt|.|32|.|WET5282.txt|.|40|.|WET2329.txt|.|21
+heart disease|.|WET6079.txt|.|22
+diet|.|WET5985.txt|.|56|.|WET6259.txt|.|62|.|WET6079.txt|.|33|.|WET5455.txt|.|39
+tag|.|WET3586.txt|.|13
+booksie|.|WET3586.txt|.|63
+poetry|.|WET3586.txt|.|33|.|WET775.txt|.|40
+stephen sinatra|.|WET5436.txt|.|8
+heart rate|.|WET1998.txt|.|22
+immune|.|WET5613.txt|.|54|.|WET5436.txt|.|12
+booksie classic|.|WET3586.txt|.|52
+stephen|.|WET5436.txt|.|8
+monitor|.|WET1580.txt|.|49|.|WET1998.txt|.|29|.|WET5496.txt|.|19
+heart|.|WET6079.txt|.|46|.|WET5651.txt|.|4|.|WET3586.txt|.|10|.|WET1998.txt|.|25|.|WET5436.txt|.|65
+sinatra|.|WET5436.txt|.|53
+tags|.|WET226.txt|.|12|.|WET45.txt|.|18|.|WET3871.txt|.|25|.|WET3586.txt|.|115|.|WET2591.txt|.|22|.|WET4682.txt|.|11|.|WET127.txt|.|31|.|WET943.txt|.|9|.|WET1647.txt|.|12|.|WET4192.txt|.|10|.|WET1023.txt|.|16
+quality|.|WET3691.txt|.|20|.|WET4093.txt|.|7|.|WET2504.txt|.|41|.|WET2519.txt|.|114|.|WET5426.txt|.|16|.|WET5736.txt|.|78|.|WET4363.txt|.|7|.|WET5436.txt|.|24|.|WET5238.txt|.|80|.|WET1500.txt|.|36|.|WET5617.txt|.|11|.|WET2590.txt|.|30
+poem poetry tags|.|WET3586.txt|.|12
+house tags|.|WET3586.txt|.|53
+heart rate monitor|.|WET1998.txt|.|9
+rate monitor|.|WET1998.txt|.|12
+digestive health|.|WET5436.txt|.|12
+diabetes|.|WET3779.txt|.|27|.|WET6079.txt|.|35|.|WET1997.txt|.|36|.|WET918.txt|.|66
+classic house|.|WET3586.txt|.|52
+pressure monitor|.|WET1998.txt|.|13

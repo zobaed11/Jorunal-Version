@@ -1,0 +1,14 @@
+105
+nearby upcoming|.|WET4591.txt|.|6
+barn quilt|.|WET6123.txt|.|10
+profileview|.|WET2582.txt|.|19
+bay city times|.|WET2377.txt|.|33|.|WET6122.txt|.|30
+nearby|.|WET4591.txt|.|8
+soccer boys|.|WET6122.txt|.|16
+chronicle the saginaw|.|WET2377.txt|.|33|.|WET6122.txt|.|30
+kyle|.|WET3378.txt|.|20|.|WET4613.txt|.|16|.|WET873.txt|.|20
+userview applause|.|WET2582.txt|.|19
+groups reviews|.|WET4591.txt|.|6
+bay|.|WET2377.txt|.|82|.|WET2582.txt|.|138|.|WET1951.txt|.|9|.|WET6123.txt|.|28|.|WET4613.txt|.|32|.|WET3901.txt|.|23|.|WET1481.txt|.|16|.|WET1708.txt|.|15|.|WET4591.txt|.|19|.|WET6122.txt|.|83|.|WET3378.txt|.|40|.|WET873.txt|.|40|.|WET3856.txt|.|40
+rooms amenities|.|WET4591.txt|.|6
+userview|.|WET2582.txt|.|19

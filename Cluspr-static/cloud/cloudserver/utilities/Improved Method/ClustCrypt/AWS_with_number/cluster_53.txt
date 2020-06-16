@@ -1,0 +1,20 @@
+53
+tripadvisor|.|WET3730.txt|.|112|.|WET3729.txt|.|126
+panama city|.|WET3729.txt|.|100|.|WET1563.txt|.|19
+downloads k lite pro|.|WET5038.txt|.|4
+downloads kazaa lite|.|WET5038.txt|.|8
+revista|.|WET6187.txt|.|88
+download vista|.|WET5038.txt|.|36
+florida panhandle|.|WET3729.txt|.|50
+toll|.|WET5038.txt|.|71
+vista revista|.|WET6187.txt|.|88
+panama|.|WET3729.txt|.|109|.|WET1563.txt|.|19|.|WET5776.txt|.|33
+sons|.|WET6187.txt|.|21
+kazaa|.|WET5038.txt|.|17
+toll free|.|WET5038.txt|.|71
+mostrar en|.|WET6187.txt|.|90
+panhandle|.|WET3729.txt|.|50
+en vista|.|WET6187.txt|.|88
+lite|.|WET5038.txt|.|19
+mostrar|.|WET3730.txt|.|130|.|WET6187.txt|.|99
+vista|.|WET3798.txt|.|17|.|WET3729.txt|.|56|.|WET6187.txt|.|89|.|WET2420.txt|.|23|.|WET5038.txt|.|54

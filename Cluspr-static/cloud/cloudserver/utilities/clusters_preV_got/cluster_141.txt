@@ -1,0 +1,12 @@
+141
+indices|.|WET1359.txt|.|22|.|WET3838.txt|.|21
+indices movies|.|WET1359.txt|.|22
+title game|.|WET4835.txt|.|78
+weekend|.|WET1071.txt|.|9|.|WET6254.txt|.|44|.|WET1359.txt|.|45|.|WET4835.txt|.|222|.|WET854.txt|.|9
+add to clock|.|WET1595.txt|.|81
+blogs daily|.|WET870.txt|.|8
+franchises showdowns|.|WET1359.txt|.|22
+john donald robb|.|WET323.txt|.|63
+cups|.|WET879.txt|.|16
+misused words|.|WET1532.txt|.|64
+stain|.|WET2957.txt|.|24

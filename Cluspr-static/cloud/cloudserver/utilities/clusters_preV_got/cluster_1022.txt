@@ -1,0 +1,12 @@
+1022
+million years|.|WET5725.txt|.|3
+pocket books|.|WET4857.txt|.|13
+new events new|.|WET362.txt|.|20
+itp people|.|WET525.txt|.|14
+win friends|.|WET4857.txt|.|15
+objects|.|WET1681.txt|.|33
+admire|.|WET5514.txt|.|27
+abstract animals|.|WET1681.txt|.|33
+conversations|.|WET5725.txt|.|29|.|WET5724.txt|.|28
+new people new|.|WET362.txt|.|20
+influence|.|WET4857.txt|.|14

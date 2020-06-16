@@ -1,0 +1,12 @@
+1183
+reviews compare|.|WET1956.txt|.|14
+add to compare crown alloy|.|WET3270.txt|.|15
+compare|.|WET1568.txt|.|345|.|WET5804.txt|.|114|.|WET3270.txt|.|47|.|WET1956.txt|.|53|.|WET5316.txt|.|240|.|WET3574.txt|.|41|.|WET4615.txt|.|33|.|WET1725.txt|.|29|.|WET3260.txt|.|20|.|WET5710.txt|.|9|.|WET1952.txt|.|48|.|WET2838.txt|.|23|.|WET5606.txt|.|45|.|WET3354.txt|.|323|.|WET5663.txt|.|80|.|WET1214.txt|.|19|.|WET5467.txt|.|51|.|WET1796.txt|.|20|.|WET1343.txt|.|50|.|WET1923.txt|.|103|.|WET2726.txt|.|98|.|WET1724.txt|.|35|.|WET5605.txt|.|57
+report this review|.|WET1956.txt|.|9
+amanti artamanti|.|WET3574.txt|.|9
+low ratings|.|WET3354.txt|.|22
+efficient|.|WET5605.txt|.|14
+artamanti art|.|WET3574.txt|.|9
+add to compare crown|.|WET3270.txt|.|15
+art printwidth|.|WET3574.txt|.|12
+amanti|.|WET3574.txt|.|9

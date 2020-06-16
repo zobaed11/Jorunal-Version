@@ -1,0 +1,12 @@
+961
+event calendar|.|WET5616.txt|.|12
+guards ankle|.|WET2893.txt|.|4
+journeys|.|WET5656.txt|.|31|.|WET2153.txt|.|117
+point dume|.|WET4272.txt|.|30
+bulan yang|.|WET4368.txt|.|12
+answer answered|.|WET628.txt|.|21|.|WET340.txt|.|20|.|WET4532.txt|.|15
+study guide|.|WET5488.txt|.|14
+truman parkway|.|WET4584.txt|.|15
+store or puma outlet|.|WET4750.txt|.|135
+greenwichtime|.|WET5700.txt|.|77|.|WET5699.txt|.|511
+esl|.|WET411.txt|.|33

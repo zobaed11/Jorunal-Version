@@ -1,0 +1,12 @@
+1202
+ikea systems|.|WET2070.txt|.|11
+home automation|.|WET5603.txt|.|8
+background check|.|WET3710.txt|.|80
+function generators|.|WET5603.txt|.|2
+expiration date|.|WET1061.txt|.|4
+vnc web services|.|WET3733.txt|.|23
+concept|.|WET2070.txt|.|8
+integration|.|WET3710.txt|.|46|.|WET465.txt|.|6
+spotlight spotlight|.|WET3733.txt|.|7
+recommended systems|.|WET3733.txt|.|10
+spotlight new|.|WET3733.txt|.|7

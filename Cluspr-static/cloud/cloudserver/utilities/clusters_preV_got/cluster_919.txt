@@ -1,0 +1,12 @@
+919
+franchises|.|WET1359.txt|.|22
+terbaik|.|WET3868.txt|.|19
+sundance|.|WET5827.txt|.|4
+jambalaya jake|.|WET5278.txt|.|10
+insidehoops|.|WET2095.txt|.|45|.|WET5838.txt|.|33|.|WET2094.txt|.|77
+showdowns|.|WET1359.txt|.|22
+klaus|.|WET1101.txt|.|13
+news reviews|.|WET5827.txt|.|4
+view all categories|.|WET3289.txt|.|399
+ebay|.|WET3595.txt|.|2|.|WET3226.txt|.|2|.|WET1714.txt|.|54|.|WET5933.txt|.|2|.|WET1005.txt|.|3|.|WET4163.txt|.|3|.|WET5456.txt|.|70|.|WET1597.txt|.|2|.|WET726.txt|.|2|.|WET4014.txt|.|2|.|WET1006.txt|.|6|.|WET1092.txt|.|2|.|WET1713.txt|.|81|.|WET2404.txt|.|3|.|WET6315.txt|.|4|.|WET4659.txt|.|35|.|WET5457.txt|.|72|.|WET4660.txt|.|55|.|WET5919.txt|.|2|.|WET3206.txt|.|2|.|WET1967.txt|.|2|.|WET1857.txt|.|2|.|WET2258.txt|.|2|.|WET5394.txt|.|2|.|WET520.txt|.|4|.|WET4661.txt|.|25|.|WET5572.txt|.|2|.|WET851.txt|.|2|.|WET3131.txt|.|41|.|WET1382.txt|.|2|.|WET4749.txt|.|5|.|WET2263.txt|.|2|.|WET1335.txt|.|2|.|WET2957.txt|.|2|.|WET4399.txt|.|2|.|WET847.txt|.|2|.|WET1793.txt|.|2|.|WET5458.txt|.|86|.|WET1843.txt|.|3|.|WET2577.txt|.|2|.|WET2817.txt|.|2|.|WET5763.txt|.|12|.|WET2700.txt|.|2|.|WET3582.txt|.|2|.|WET3132.txt|.|2|.|WET5344.txt|.|2|.|WET16.txt|.|3|.|WET3505.txt|.|2|.|WET1663.txt|.|3|.|WET278.txt|.|2|.|WET1468.txt|.|2|.|WET5459.txt|.|19|.|WET6009.txt|.|2|.|WET4407.txt|.|5|.|WET5079.txt|.|2|.|WET3833.txt|.|2|.|WET1982.txt|.|2|.|WET2002.txt|.|2|.|WET660.txt|.|3|.|WET2769.txt|.|4|.|WET925.txt|.|22|.|WET4938.txt|.|2|.|WET5389.txt|.|3|.|WET5257.txt|.|2|.|WET2116.txt|.|2|.|WET4311.txt|.|2|.|WET131.txt|.|3|.|WET623.txt|.|7|.|WET1711.txt|.|77|.|WET5974.txt|.|2|.|WET5151.txt|.|2|.|WET924.txt|.|59|.|WET5864.txt|.|2|.|WET1503.txt|.|2|.|WET3626.txt|.|2|.|WET3122.txt|.|2|.|WET3496.txt|.|2|.|WET1710.txt|.|19|.|WET5894.txt|.|2|.|WET1712.txt|.|76|.|WET923.txt|.|54|.|WET1706.txt|.|2|.|WET1521.txt|.|2|.|WET6207.txt|.|15|.|WET5711.txt|.|2
+museum of art|.|WET1101.txt|.|53

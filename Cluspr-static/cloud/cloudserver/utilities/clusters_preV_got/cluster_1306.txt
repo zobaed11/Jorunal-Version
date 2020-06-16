@@ -1,0 +1,12 @@
+1306
+rooms bedroom|.|WET4957.txt|.|11
+warhol|.|WET4957.txt|.|14
+room kitchen|.|WET4957.txt|.|16
+print|.|WET1146.txt|.|54|.|WET2519.txt|.|182|.|WET2721.txt|.|60|.|WET392.txt|.|16|.|WET5963.txt|.|178|.|WET2154.txt|.|44|.|WET270.txt|.|38|.|WET3252.txt|.|17|.|WET447.txt|.|30|.|WET4913.txt|.|57|.|WET4028.txt|.|17|.|WET6270.txt|.|14|.|WET6151.txt|.|28|.|WET841.txt|.|29|.|WET1202.txt|.|193|.|WET4958.txt|.|260|.|WET5571.txt|.|21|.|WET2152.txt|.|17|.|WET4957.txt|.|314|.|WET836.txt|.|66|.|WET3621.txt|.|24|.|WET4894.txt|.|28|.|WET5894.txt|.|23|.|WET406.txt|.|33|.|WET2838.txt|.|23|.|WET6152.txt|.|33|.|WET4131.txt|.|21|.|WET2225.txt|.|225|.|WET835.txt|.|19|.|WET2733.txt|.|4|.|WET1203.txt|.|164|.|WET4869.txt|.|32|.|WET5817.txt|.|12|.|WET6153.txt|.|24
+ongoing|.|WET406.txt|.|11|.|WET4147.txt|.|10
+give us|.|WET1203.txt|.|9
+print starting|.|WET4957.txt|.|148
+wall murals|.|WET1202.txt|.|12
+decorative|.|WET4958.txt|.|21
+submit news|.|WET6152.txt|.|22|.|WET5348.txt|.|10|.|WET2152.txt|.|10|.|WET2408.txt|.|22|.|WET6151.txt|.|18
+digitally printed|.|WET4958.txt|.|50

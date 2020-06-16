@@ -1,0 +1,12 @@
+427
+natural earth vector|.|WET6199.txt|.|12
+tampa|.|WET3378.txt|.|30|.|WET424.txt|.|16|.|WET4613.txt|.|24|.|WET873.txt|.|30|.|WET3901.txt|.|22|.|WET3008.txt|.|89
+view raw|.|WET4357.txt|.|10
+department images|.|WET3975.txt|.|183
+arthropod pests|.|WET229.txt|.|132|.|WET3975.txt|.|418
+earth vector|.|WET6199.txt|.|12
+arthropod|.|WET229.txt|.|132|.|WET3975.txt|.|418
+history department|.|WET229.txt|.|74|.|WET3975.txt|.|221
+billing|.|WET3601.txt|.|24
+architecture|.|WET3966.txt|.|4|.|WET3975.txt|.|461
+eagles|.|WET922.txt|.|54

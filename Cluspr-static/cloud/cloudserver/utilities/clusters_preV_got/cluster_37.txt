@@ -1,0 +1,12 @@
+37
+fx|.|WET6224.txt|.|11
+query search|.|WET870.txt|.|1
+manicure and pedicure|.|WET6224.txt|.|10
+massage tables|.|WET2320.txt|.|19
+spa|.|WET2320.txt|.|58
+product demo videos|.|WET6224.txt|.|10
+massage kits|.|WET6061.txt|.|11
+massage|.|WET870.txt|.|18|.|WET6224.txt|.|150|.|WET2001.txt|.|64|.|WET2320.txt|.|246|.|WET6061.txt|.|215
+ordering catalog quick|.|WET6224.txt|.|10
+stone massage|.|WET6061.txt|.|19
+expresso daily|.|WET870.txt|.|8

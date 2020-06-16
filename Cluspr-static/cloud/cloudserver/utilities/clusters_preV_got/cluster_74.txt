@@ -1,0 +1,12 @@
+74
+lehigh|.|WET578.txt|.|16
+ret|.|WET3480.txt|.|101
+highest rated|.|WET5078.txt|.|37|.|WET1327.txt|.|27
+highest|.|WET3616.txt|.|36|.|WET3985.txt|.|111|.|WET3986.txt|.|43|.|WET5078.txt|.|37|.|WET1327.txt|.|30
+recent highest|.|WET3616.txt|.|36
+africa sri|.|WET3986.txt|.|20
+finish|.|WET2678.txt|.|71
+ren|.|WET4415.txt|.|14
+bangladesh|.|WET3985.txt|.|55|.|WET3986.txt|.|20
+clipper|.|WET3953.txt|.|62
+swift|.|WET483.txt|.|91

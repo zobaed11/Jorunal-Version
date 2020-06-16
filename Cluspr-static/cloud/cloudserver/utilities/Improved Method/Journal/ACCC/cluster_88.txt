@@ -1,0 +1,46 @@
+88
+hoosiers iowa|.|WET872.txt|.|8
+boilermakers|.|WET872.txt|.|41
+illinois fighting|.|WET872.txt|.|8
+michigan state spartans|.|WET4611.txt|.|19
+artist|.|WET1207.txt|.|10|.|WET4959.txt|.|26|.|WET3594.txt|.|17|.|WET4542.txt|.|19|.|WET2290.txt|.|36|.|WET1145.txt|.|18|.|WET1102.txt|.|17|.|WET6028.txt|.|36|.|WET2289.txt|.|31
+jack yo|.|WET2291.txt|.|11
+ohio state|.|WET4611.txt|.|20
+yeah|.|WET2291.txt|.|7
+ohio|.|WET4611.txt|.|20
+editor meet|.|WET4853.txt|.|11
+flat rate|.|WET874.txt|.|13
+hell|.|WET2291.txt|.|8
+redundant|.|WET1615.txt|.|2|.|WET4402.txt|.|2|.|WET3469.txt|.|2|.|WET19.txt|.|1|.|WET2900.txt|.|2|.|WET3452.txt|.|2|.|WET1156.txt|.|2|.|WET3112.txt|.|2|.|WET5525.txt|.|5|.|WET3088.txt|.|3|.|WET2882.txt|.|2
+items are shipped|.|WET872.txt|.|9
+yo ass|.|WET2291.txt|.|11
+indiana hoosiers|.|WET872.txt|.|8
+zip codes|.|WET4853.txt|.|22
+diego chargers|.|WET2820.txt|.|21|.|WET874.txt|.|87
+yo|.|WET2291.txt|.|18
+missing|.|WET4853.txt|.|11|.|WET874.txt|.|14|.|WET4611.txt|.|12|.|WET872.txt|.|18|.|WET2291.txt|.|4|.|WET2289.txt|.|16|.|WET5525.txt|.|4
+diego|.|WET2820.txt|.|29|.|WET2819.txt|.|59|.|WET874.txt|.|93|.|WET4613.txt|.|16|.|WET3172.txt|.|38|.|WET2998.txt|.|9|.|WET2818.txt|.|53
+wolverines|.|WET4611.txt|.|67
+cleveland|.|WET1497.txt|.|42|.|WET874.txt|.|96|.|WET4614.txt|.|101
+missing some information|.|WET2291.txt|.|2|.|WET2289.txt|.|8
+gophers|.|WET872.txt|.|8
+zip|.|WET479.txt|.|8|.|WET1952.txt|.|44|.|WET2731.txt|.|1|.|WET4853.txt|.|22
+boilermakers rutgers|.|WET872.txt|.|8
+see bet|.|WET2291.txt|.|8
+san diego|.|WET2820.txt|.|28|.|WET2819.txt|.|58|.|WET874.txt|.|93|.|WET4613.txt|.|16|.|WET3172.txt|.|38|.|WET2998.txt|.|9|.|WET2818.txt|.|53
+spartans|.|WET4611.txt|.|20|.|WET872.txt|.|8
+state buckeyes|.|WET4611.txt|.|20
+michigan|.|WET5147.txt|.|9|.|WET4611.txt|.|86
+michigan state|.|WET4611.txt|.|19
+michigan wolverines|.|WET4611.txt|.|67
+chargers|.|WET2820.txt|.|43|.|WET874.txt|.|91
+golden gophers|.|WET872.txt|.|8
+jack|.|WET2291.txt|.|14
+missing entries|.|WET4853.txt|.|11
+rutgers|.|WET872.txt|.|8
+buckeyes|.|WET4611.txt|.|21
+state spartans|.|WET4611.txt|.|19|.|WET872.txt|.|8
+hoosiers|.|WET872.txt|.|8
+missing information|.|WET874.txt|.|7|.|WET4611.txt|.|6|.|WET872.txt|.|9|.|WET5525.txt|.|2
+cleveland browns|.|WET874.txt|.|84|.|WET4614.txt|.|101
+hell yeah|.|WET2291.txt|.|7

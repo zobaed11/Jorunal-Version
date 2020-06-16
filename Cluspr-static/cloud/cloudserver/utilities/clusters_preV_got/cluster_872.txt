@@ -1,0 +1,12 @@
+872
+ballparks|.|WET4693.txt|.|50
+central|.|WET3504.txt|.|34|.|WET796.txt|.|15|.|WET4015.txt|.|233|.|WET3104.txt|.|83|.|WET4831.txt|.|14|.|WET643.txt|.|15|.|WET3237.txt|.|6|.|WET3105.txt|.|79|.|WET4693.txt|.|43|.|WET3883.txt|.|12|.|WET4922.txt|.|98
+suite|.|WET3237.txt|.|6
+tiki|.|WET3104.txt|.|118|.|WET3105.txt|.|372
+pm permalink|.|WET3105.txt|.|60
+assistant|.|WET4015.txt|.|139
+montgomery scott hikaru|.|WET643.txt|.|14
+emery county|.|WET1721.txt|.|45
+wiki activity|.|WET796.txt|.|16
+facilities|.|WET1454.txt|.|50|.|WET4015.txt|.|112
+android central|.|WET3504.txt|.|22|.|WET4922.txt|.|80

@@ -1,0 +1,12 @@
+1048
+hauschka|.|WET2398.txt|.|22
+des|.|WET2953.txt|.|134|.|WET569.txt|.|26|.|WET2228.txt|.|203|.|WET2398.txt|.|131|.|WET3892.txt|.|60|.|WET20.txt|.|43|.|WET2314.txt|.|51|.|WET6089.txt|.|21|.|WET2047.txt|.|48|.|WET2852.txt|.|65|.|WET3424.txt|.|27|.|WET6057.txt|.|67|.|WET4798.txt|.|501|.|WET2242.txt|.|40|.|WET6142.txt|.|158|.|WET4168.txt|.|64
+hydratants soins nettoyants|.|WET6142.txt|.|60
+demelants soins|.|WET6142.txt|.|10
+max volume|.|WET2047.txt|.|8
+mousses|.|WET6142.txt|.|10
+dr hauschka|.|WET2398.txt|.|22
+recent version|.|WET2047.txt|.|8
+blood flow|.|WET6089.txt|.|8
+demelants|.|WET6142.txt|.|10
+hydratants|.|WET2398.txt|.|58|.|WET6142.txt|.|86

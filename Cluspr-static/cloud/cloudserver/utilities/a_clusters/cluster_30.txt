@@ -1,0 +1,32 @@
+30
+template|.|rfc2609.txt|.|120|.|rfc3265.txt|.|8|.|rfc3954.txt|.|189|.|rfc2639.txt|.|52|.|rfc2216.txt|.|26|.|rfc2656.txt|.|59|.|rfc2926.txt|.|50|.|rfc6117.txt|.|25|.|rfc5385.txt|.|64|.|rfc3864.txt|.|17|.|rfc5153.txt|.|101|.|rfc5471.txt|.|198|.|rfc5101.txt|.|344|.|rfc6235.txt|.|60|.|rfc3196.txt|.|57
+exporting|.|rfc6183.txt|.|44|.|rfc5470.txt|.|44|.|rfc3917.txt|.|62|.|rfc5474.txt|.|46|.|rfc5153.txt|.|63|.|rfc5471.txt|.|82|.|rfc5101.txt|.|136|.|rfc6235.txt|.|46
+testing march|.|rfc5471.txt|.|31
+options template record|.|rfc5101.txt|.|28
+ipfix messages|.|rfc5153.txt|.|16
+netflow|.|rfc3954.txt|.|108
+template record|.|rfc3954.txt|.|32|.|rfc5101.txt|.|72
+enumservice is used|.|rfc6117.txt|.|2
+ipfix testing|.|rfc5471.txt|.|32
+touch informational|.|rfc5385.txt|.|20
+microsoft word template|.|rfc5385.txt|.|22
+url syntax|.|rfc2609.txt|.|10|.|rfc2224.txt|.|4
+ldap directory|.|rfc2926.txt|.|12
+services export|.|rfc3954.txt|.|34
+urls june|.|rfc2609.txt|.|32
+netflow services|.|rfc3954.txt|.|40
+touch|.|rfc5385.txt|.|23
+collecting process|.|rfc6183.txt|.|14|.|rfc5470.txt|.|33|.|rfc5153.txt|.|45|.|rfc5471.txt|.|189|.|rfc5101.txt|.|127|.|rfc5473.txt|.|31
+withdrawal|.|rfc5471.txt|.|19|.|rfc5473.txt|.|10
+exported are anonymized|.|rfc6235.txt|.|8
+abstract service|.|rfc2609.txt|.|26
+options template|.|rfc3954.txt|.|53|.|rfc5153.txt|.|10|.|rfc5101.txt|.|74|.|rfc6235.txt|.|20
+service advertisement|.|rfc2926.txt|.|11
+cisco systems netflow|.|rfc3954.txt|.|36
+systems netflow|.|rfc3954.txt|.|36
+schmoll|.|rfc5471.txt|.|34
+registration procedures for soif|.|rfc2656.txt|.|9
+template package|.|rfc3265.txt|.|1
+soif template types|.|rfc2656.txt|.|6
+soif template|.|rfc2656.txt|.|6
+export packet|.|rfc3954.txt|.|28

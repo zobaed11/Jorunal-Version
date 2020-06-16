@@ -1,0 +1,12 @@
+609
+generosity|.|WET221.txt|.|2|.|WET2492.txt|.|2|.|WET3090.txt|.|2|.|WET4002.txt|.|1|.|WET151.txt|.|2|.|WET4021.txt|.|2
+fishing clearance|.|WET151.txt|.|10
+japanese|.|WET329.txt|.|11|.|WET4268.txt|.|11|.|WET3387.txt|.|11|.|WET349.txt|.|12|.|WET704.txt|.|11|.|WET140.txt|.|11|.|WET3884.txt|.|11|.|WET4169.txt|.|11|.|WET3193.txt|.|11|.|WET907.txt|.|11
+firearms|.|WET5708.txt|.|28
+fishing|.|WET5708.txt|.|68|.|WET2239.txt|.|213|.|WET2583.txt|.|36|.|WET355.txt|.|19|.|WET4384.txt|.|53|.|WET3752.txt|.|3|.|WET151.txt|.|120|.|WET5190.txt|.|376
+boating|.|WET151.txt|.|20
+disc golf|.|WET3425.txt|.|7|.|WET1635.txt|.|29|.|WET1651.txt|.|28|.|WET3610.txt|.|21|.|WET3426.txt|.|4|.|WET1636.txt|.|27|.|WET6260.txt|.|40
+heating|.|WET3249.txt|.|173
+su twittercondividi|.|WET4759.txt|.|6
+line fishing|.|WET5190.txt|.|333
+essential|.|WET5010.txt|.|109|.|WET1768.txt|.|6

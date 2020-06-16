@@ -1,0 +1,13 @@
+lista|.|WET3985.txt|.|42
+score career|.|WET3986.txt|.|40
+countries australia bangladesh|.|WET3985.txt|.|11
+west indies|.|WET3986.txt|.|20
+optical society|.|WET3678.txt|.|98
+actions mark|.|WET5027.txt|.|7
+osa publishing china|.|WET3678.txt|.|25
+indies|.|WET3986.txt|.|20
+society|.|WET214.txt|.|49|.|WET3985.txt|.|166|.|WET2042.txt|.|9|.|WET3678.txt|.|98|.|WET5027.txt|.|24|.|WET3986.txt|.|60|.|WET62.txt|.|16
+test career runs|.|WET3985.txt|.|22
+indies zimbabwe|.|WET3986.txt|.|20
+cricket society|.|WET3985.txt|.|110|.|WET3986.txt|.|40
+bangladesh|.|WET3985.txt|.|55|.|WET3986.txt|.|20

@@ -1,0 +1,12 @@
+154
+harvey norman|.|WET1984.txt|.|13
+dgcr store rss|.|WET5383.txt|.|10
+mchenry|.|WET6261.txt|.|15
+times argus|.|WET4711.txt|.|32
+litigation|.|WET2511.txt|.|36
+zines|.|WET4795.txt|.|48
+pulls cabinet|.|WET2185.txt|.|8
+womens plus|.|WET4715.txt|.|37
+kjv|.|WET5921.txt|.|14
+sql server blog spot|.|WET905.txt|.|33
+technology|.|WET1117.txt|.|9|.|WET6255.txt|.|9|.|WET2902.txt|.|14|.|WET1285.txt|.|66|.|WET1566.txt|.|13

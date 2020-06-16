@@ -1,0 +1,12 @@
+4
+raspberry|.|WET3215.txt|.|93|.|WET3217.txt|.|62
+delivery|.|WET3215.txt|.|276|.|WET1305.txt|.|13|.|WET5056.txt|.|30|.|WET3217.txt|.|210|.|WET2658.txt|.|225
+configure item|.|WET3217.txt|.|38
+no delivery date|.|WET3215.txt|.|243
+pi|.|WET3215.txt|.|105|.|WET3217.txt|.|73
+home delivery|.|WET2658.txt|.|49
+configure|.|WET3217.txt|.|40
+credit card|.|WET1570.txt|.|34|.|WET2658.txt|.|56
+no delivery|.|WET3215.txt|.|243|.|WET3217.txt|.|186
+raspberry pi|.|WET3215.txt|.|88|.|WET3217.txt|.|59
+date confirmed|.|WET3215.txt|.|245|.|WET3217.txt|.|187

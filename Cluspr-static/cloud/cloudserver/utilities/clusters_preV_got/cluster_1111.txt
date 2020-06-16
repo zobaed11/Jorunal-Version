@@ -1,0 +1,12 @@
+1111
+search and rescue|.|WET2321.txt|.|2
+civic sedan|.|WET5763.txt|.|113
+boys skiing|.|WET6240.txt|.|7|.|WET6239.txt|.|10
+skiing girls|.|WET6240.txt|.|7|.|WET6239.txt|.|10
+gymnastics boys|.|WET3004.txt|.|11
+boys|.|WET2041.txt|.|22|.|WET2321.txt|.|133|.|WET1546.txt|.|10|.|WET6240.txt|.|101|.|WET2950.txt|.|78|.|WET1816.txt|.|81|.|WET4225.txt|.|85|.|WET4766.txt|.|46|.|WET5070.txt|.|20|.|WET4641.txt|.|371|.|WET479.txt|.|119|.|WET6122.txt|.|154|.|WET563.txt|.|8|.|WET113.txt|.|73|.|WET3004.txt|.|93|.|WET2828.txt|.|120|.|WET6239.txt|.|154|.|WET3847.txt|.|72|.|WET5551.txt|.|110
+rowing girls|.|WET3004.txt|.|11
+girls basketball|.|WET4641.txt|.|196
+boys lacrosse|.|WET479.txt|.|17
+teams in playing|.|WET4641.txt|.|199
+boys basketball|.|WET4641.txt|.|204

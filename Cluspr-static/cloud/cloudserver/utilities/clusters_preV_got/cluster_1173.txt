@@ -1,0 +1,12 @@
+1173
+scouted|.|WET4002.txt|.|1|.|WET1001.txt|.|1
+september|.|WET1027.txt|.|100|.|WET570.txt|.|35|.|WET1145.txt|.|31|.|WET890.txt|.|95
+red bull|.|WET4982.txt|.|40|.|WET2405.txt|.|20
+technical error|.|WET2070.txt|.|18
+handball|.|WET5918.txt|.|25
+store cart czech|.|WET244.txt|.|11
+ageist|.|WET3767.txt|.|10
+statu|.|WET3767.txt|.|2
+screen resolution|.|WET4664.txt|.|2
+heart|.|WET6079.txt|.|46|.|WET5651.txt|.|4|.|WET3586.txt|.|10|.|WET1998.txt|.|25|.|WET5436.txt|.|65
+ageist beauty|.|WET3767.txt|.|10

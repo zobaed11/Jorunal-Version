@@ -1,0 +1,31 @@
+83
+monthly prayer times|.|WET5855.txt|.|22
+prayer times|.|WET2112.txt|.|56|.|WET5854.txt|.|74|.|WET5855.txt|.|117|.|WET2113.txt|.|64
+sahar|.|WET5854.txt|.|7
+find christian prayers|.|WET5029.txt|.|18
+guinea|.|WET5855.txt|.|44|.|WET1180.txt|.|22
+sahor sahar|.|WET5854.txt|.|7
+azan|.|WET2112.txt|.|48|.|WET2113.txt|.|41
+fast ramazan|.|WET5854.txt|.|7
+athan|.|WET2112.txt|.|66|.|WET5855.txt|.|110|.|WET2113.txt|.|63
+coral|.|WET5854.txt|.|10
+timings|.|WET5854.txt|.|14
+islands malvinas faroe|.|WET5854.txt|.|10
+hear automatic athan|.|WET5855.txt|.|29|.|WET2113.txt|.|17
+hear|.|WET5855.txt|.|29|.|WET2113.txt|.|17
+automatic athan|.|WET2113.txt|.|17
+pray learn|.|WET2112.txt|.|14
+monthly prayer|.|WET5855.txt|.|22
+falkland islands|.|WET5855.txt|.|11
+family love|.|WET5029.txt|.|9
+malvinas|.|WET5854.txt|.|10
+islands coral sea|.|WET5854.txt|.|10
+timetable|.|WET5854.txt|.|14
+ramadan timetable|.|WET5854.txt|.|7
+falkland|.|WET5855.txt|.|11
+prayer|.|WET2112.txt|.|66|.|WET5854.txt|.|92|.|WET5029.txt|.|115|.|WET5855.txt|.|157|.|WET2113.txt|.|87
+download athan|.|WET2113.txt|.|18
+athan azan|.|WET2113.txt|.|41
+muslim prayer|.|WET5854.txt|.|7
+ramazan|.|WET5854.txt|.|7
+sahor|.|WET5854.txt|.|7

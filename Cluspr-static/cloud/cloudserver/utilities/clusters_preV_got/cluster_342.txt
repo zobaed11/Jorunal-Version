@@ -1,0 +1,12 @@
+342
+singers|.|WET773.txt|.|43
+institution|.|WET1373.txt|.|19
+news live feedadvertisinglocal|.|WET550.txt|.|5
+reader|.|WET319.txt|.|32|.|WET5090.txt|.|11|.|WET2818.txt|.|41
+cart serbian arabic|.|WET4644.txt|.|11
+gop|.|WET4519.txt|.|32
+baguhin|.|WET3551.txt|.|47
+favorites bestsellers new|.|WET1253.txt|.|40
+radio control|.|WET2745.txt|.|16
+gov|.|WET1031.txt|.|133
+grosset|.|WET5863.txt|.|25

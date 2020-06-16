@@ -1,0 +1,12 @@
+29
+strand woven|.|WET5804.txt|.|43
+patch|.|WET1706.txt|.|101|.|WET5452.txt|.|73|.|WET4075.txt|.|56
+solid|.|WET5804.txt|.|144|.|WET541.txt|.|19|.|WET2061.txt|.|80
+attestation|.|WET3415.txt|.|189
+wide sale|.|WET5804.txt|.|59|.|WET2061.txt|.|38
+etsy|.|WET3093.txt|.|13
+wide shoes|.|WET1840.txt|.|4
+utah valley|.|WET3976.txt|.|324
+emerytur|.|WET3843.txt|.|16
+add to compare click|.|WET5804.txt|.|21
+recurve bows|.|WET2217.txt|.|39

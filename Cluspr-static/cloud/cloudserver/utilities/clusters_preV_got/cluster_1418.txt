@@ -1,0 +1,12 @@
+1418
+bbq|.|WET3722.txt|.|40
+bbq grills|.|WET3722.txt|.|13
+sale add to cart|.|WET6278.txt|.|205
+grill covers|.|WET3722.txt|.|1
+instruction|.|WET5349.txt|.|5|.|WET2596.txt|.|50
+help contact instant|.|WET2596.txt|.|22
+profiles|.|WET1385.txt|.|24
+price category|.|WET2804.txt|.|2
+stress relievers|.|WET2865.txt|.|8
+cart|.|WET2251.txt|.|45|.|WET876.txt|.|285|.|WET2480.txt|.|32|.|WET6277.txt|.|195|.|WET5137.txt|.|84|.|WET1307.txt|.|27|.|WET5730.txt|.|20|.|WET4969.txt|.|25|.|WET3217.txt|.|51|.|WET4615.txt|.|178|.|WET6022.txt|.|21|.|WET875.txt|.|159|.|WET1201.txt|.|6|.|WET5668.txt|.|94|.|WET6278.txt|.|378|.|WET2597.txt|.|129|.|WET1704.txt|.|203|.|WET3120.txt|.|37|.|WET3722.txt|.|50|.|WET2596.txt|.|65|.|WET1482.txt|.|131|.|WET6112.txt|.|52|.|WET3951.txt|.|25|.|WET921.txt|.|21|.|WET4616.txt|.|273|.|WET2562.txt|.|61|.|WET1541.txt|.|12|.|WET4957.txt|.|249|.|WET1924.txt|.|38|.|WET4766.txt|.|30|.|WET5059.txt|.|33|.|WET3539.txt|.|530|.|WET2712.txt|.|126|.|WET3572.txt|.|30|.|WET3997.txt|.|5|.|WET2822.txt|.|11|.|WET2865.txt|.|81|.|WET4614.txt|.|39|.|WET2932.txt|.|46|.|WET1144.txt|.|24|.|WET2804.txt|.|82|.|WET5843.txt|.|24|.|WET4644.txt|.|11|.|WET1095.txt|.|25|.|WET4239.txt|.|11|.|WET918.txt|.|28|.|WET5989.txt|.|34|.|WET2929.txt|.|27|.|WET5417.txt|.|9|.|WET244.txt|.|11|.|WET5974.txt|.|63|.|WET1385.txt|.|98|.|WET1386.txt|.|19|.|WET2236.txt|.|33|.|WET2872.txt|.|108|.|WET4169.txt|.|11|.|WET1293.txt|.|51|.|WET3119.txt|.|30|.|WET5042.txt|.|97|.|WET3216.txt|.|34|.|WET2543.txt|.|245|.|WET4268.txt|.|11|.|WET1980.txt|.|63|.|WET1343.txt|.|59|.|WET5988.txt|.|19|.|WET3529.txt|.|26|.|WET6157.txt|.|41|.|WET5073.txt|.|31
+store cart hungarian|.|WET4239.txt|.|11

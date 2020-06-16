@@ -1,0 +1,12 @@
+988
+int file|.|WET332.txt|.|2
+acc|.|WET3304.txt|.|7|.|WET1937.txt|.|50
+file|.|WET2538.txt|.|109|.|WET3304.txt|.|49|.|WET871.txt|.|103|.|WET300.txt|.|30|.|WET3745.txt|.|45|.|WET332.txt|.|54|.|WET896.txt|.|1282|.|WET734.txt|.|21|.|WET4300.txt|.|5|.|WET5528.txt|.|327|.|WET3703.txt|.|36|.|WET5934.txt|.|30|.|WET1097.txt|.|26|.|WET23.txt|.|6
+definition|.|WET871.txt|.|80
+nissan|.|WET4444.txt|.|92|.|WET5468.txt|.|20
+commercial break|.|WET4071.txt|.|21
+radio schedule|.|WET791.txt|.|8
+closings|.|WET2266.txt|.|64
+kolbe|.|WET5934.txt|.|27
+yarn|.|WET5753.txt|.|58|.|WET2193.txt|.|49
+command|.|WET5528.txt|.|96

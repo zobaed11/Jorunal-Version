@@ -1,0 +1,12 @@
+572
+dialogues|.|WET1603.txt|.|2|.|WET2953.txt|.|2|.|WET5509.txt|.|1|.|WET4966.txt|.|1|.|WET5824.txt|.|2|.|WET3464.txt|.|2|.|WET4433.txt|.|2|.|WET5803.txt|.|1
+knights|.|WET4617.txt|.|7|.|WET6072.txt|.|16
+jakie auto|.|WET1847.txt|.|24
+na|.|WET3418.txt|.|11|.|WET1027.txt|.|52|.|WET5824.txt|.|32|.|WET5202.txt|.|54|.|WET1847.txt|.|58|.|WET241.txt|.|28|.|WET588.txt|.|27|.|WET4391.txt|.|28
+niemczech|.|WET1847.txt|.|27
+horoskop|.|WET5202.txt|.|23
+maker|.|WET3352.txt|.|30
+shop all deals help|.|WET2173.txt|.|128
+please contact|.|WET5824.txt|.|5
+dobre|.|WET1027.txt|.|27
+odc|.|WET1027.txt|.|26

@@ -1,0 +1,12 @@
+1432
+silk|.|WET4660.txt|.|25
+transceiver wireless|.|WET5457.txt|.|11
+rear|.|WET923.txt|.|12
+poweredge|.|WET924.txt|.|41
+transceiver|.|WET5457.txt|.|15
+wifi transceiver|.|WET5457.txt|.|12
+proliant|.|WET924.txt|.|33
+shippingpersonalized|.|WET924.txt|.|13
+completed|.|WET5456.txt|.|8
+wireless module|.|WET5457.txt|.|11
+galleria|.|WET924.txt|.|13

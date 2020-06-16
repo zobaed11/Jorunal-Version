@@ -1,0 +1,12 @@
+980
+zimbabwe|.|WET240.txt|.|31|.|WET3986.txt|.|20
+jefferson city|.|WET2578.txt|.|60
+laurel park|.|WET5966.txt|.|15
+county park|.|WET4091.txt|.|24|.|WET4272.txt|.|60
+academic enrichment|.|WET6264.txt|.|12
+edit page|.|WET3455.txt|.|12
+shortline|.|WET3455.txt|.|18
+nuevo enlace|.|WET5966.txt|.|7
+relational databases|.|WET6300.txt|.|1
+sam shortline|.|WET3455.txt|.|18
+park|.|WET5769.txt|.|65|.|WET3455.txt|.|288|.|WET5966.txt|.|17|.|WET6264.txt|.|25|.|WET4091.txt|.|36|.|WET213.txt|.|102|.|WET6017.txt|.|29|.|WET1252.txt|.|76|.|WET439.txt|.|214|.|WET6263.txt|.|51|.|WET4899.txt|.|78|.|WET6300.txt|.|12|.|WET4406.txt|.|49|.|WET4272.txt|.|90

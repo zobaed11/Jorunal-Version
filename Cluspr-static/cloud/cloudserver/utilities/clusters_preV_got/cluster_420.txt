@@ -1,0 +1,12 @@
+420
+veteran|.|WET5418.txt|.|2|.|WET2842.txt|.|66
+nation|.|WET1466.txt|.|6|.|WET1851.txt|.|22|.|WET1508.txt|.|39|.|WET4106.txt|.|34|.|WET260.txt|.|16|.|WET3259.txt|.|13|.|WET2842.txt|.|47
+steeler|.|WET3259.txt|.|6
+fund|.|WET2144.txt|.|39|.|WET1999.txt|.|31|.|WET1508.txt|.|21|.|WET260.txt|.|9
+fox business fox|.|WET1851.txt|.|22
+asia europe|.|WET1508.txt|.|32|.|WET260.txt|.|16
+classifieds free|.|WET3259.txt|.|6
+net nation|.|WET2842.txt|.|39
+dressed|.|WET4106.txt|.|35
+fund screener|.|WET1508.txt|.|16|.|WET260.txt|.|8
+geek universe|.|WET4106.txt|.|50

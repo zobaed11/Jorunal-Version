@@ -1,0 +1,6 @@
+million years|.|WET5725.txt|.|3
+bk bookstore|.|WET1324.txt|.|3
+bookstore|.|WET1324.txt|.|3
+office results|.|WET1359.txt|.|7
+free trade|.|WET1720.txt|.|16
+people|.|WET418.txt|.|85|.|WET998.txt|.|115|.|WET5725.txt|.|61|.|WET1779.txt|.|46|.|WET362.txt|.|21|.|WET4857.txt|.|34|.|WET4973.txt|.|48|.|WET4714.txt|.|49|.|WET1359.txt|.|24|.|WET1324.txt|.|10|.|WET5514.txt|.|49|.|WET1720.txt|.|56|.|WET525.txt|.|28|.|WET1681.txt|.|38|.|WET4047.txt|.|32

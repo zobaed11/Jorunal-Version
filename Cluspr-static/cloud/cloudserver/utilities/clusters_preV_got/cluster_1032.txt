@@ -1,0 +1,12 @@
+1032
+biomed central|.|WET3883.txt|.|12
+recipes healthy|.|WET5455.txt|.|14
+healthy living|.|WET1116.txt|.|5
+healthy immune|.|WET5613.txt|.|16
+maintain|.|WET5613.txt|.|14|.|WET4827.txt|.|9
+saves champagne|.|WET5232.txt|.|18
+crock pot|.|WET5232.txt|.|18
+supports healthy|.|WET5613.txt|.|14
+information about formatting|.|WET5455.txt|.|4
+chemicals|.|WET5739.txt|.|17
+diet eatingwell|.|WET5455.txt|.|10

@@ -1,0 +1,53 @@
+98
+products books|.|WET5233.txt|.|13
+sociales|.|WET5488.txt|.|153
+bible study|.|WET1482.txt|.|12|.|WET5233.txt|.|14
+print bibles|.|WET1146.txt|.|11
+section|.|WET2914.txt|.|12|.|WET2224.txt|.|38|.|WET452.txt|.|25|.|WET3365.txt|.|44|.|WET5961.txt|.|57|.|WET5962.txt|.|17
+full time mba|.|WET452.txt|.|11
+university of alaska|.|WET3166.txt|.|113
+time mba|.|WET4198.txt|.|20|.|WET452.txt|.|22
+verbal gmat books|.|WET452.txt|.|12
+teen bibles|.|WET1146.txt|.|7
+toys gifts kids|.|WET5233.txt|.|9
+alaska|.|WET4889.txt|.|40|.|WET4768.txt|.|199|.|WET3321.txt|.|11|.|WET3166.txt|.|202|.|WET1023.txt|.|146
+empire|.|WET3269.txt|.|2|.|WET4382.txt|.|16|.|WET3166.txt|.|62
+stock|.|WET71.txt|.|4|.|WET5132.txt|.|43|.|WET1506.txt|.|6|.|WET1680.txt|.|120|.|WET1108.txt|.|8|.|WET1853.txt|.|44|.|WET5429.txt|.|64|.|WET3829.txt|.|36|.|WET3079.txt|.|124|.|WET1214.txt|.|17|.|WET1482.txt|.|113|.|WET1019.txt|.|39|.|WET2592.txt|.|69|.|WET1681.txt|.|119|.|WET1970.txt|.|122|.|WET2399.txt|.|16|.|WET1835.txt|.|46|.|WET2598.txt|.|144|.|WET5639.txt|.|26|.|WET5729.txt|.|29|.|WET1682.txt|.|54|.|WET2454.txt|.|139|.|WET6259.txt|.|118|.|WET5428.txt|.|113|.|WET3835.txt|.|63|.|WET5233.txt|.|163
+juneau empire|.|WET3166.txt|.|61
+bible|.|WET2563.txt|.|37|.|WET1146.txt|.|330|.|WET4320.txt|.|62|.|WET5520.txt|.|124|.|WET1482.txt|.|28|.|WET1786.txt|.|104|.|WET4894.txt|.|301|.|WET5233.txt|.|72
+pew|.|WET1146.txt|.|93
+cbd stock|.|WET1482.txt|.|28|.|WET5233.txt|.|42
+lesson|.|WET5488.txt|.|10
+gmat|.|WET4198.txt|.|591|.|WET453.txt|.|246|.|WET452.txt|.|691
+verbal|.|WET452.txt|.|65
+rankings|.|WET4198.txt|.|60|.|WET1198.txt|.|2|.|WET3028.txt|.|22|.|WET1187.txt|.|12|.|WET6072.txt|.|2|.|WET453.txt|.|30|.|WET452.txt|.|76|.|WET5499.txt|.|14
+tests|.|WET5468.txt|.|6|.|WET452.txt|.|88
+catalogs|.|WET5233.txt|.|18
+large print|.|WET1146.txt|.|39|.|WET4894.txt|.|9
+study plans gmat|.|WET452.txt|.|11
+southeast|.|WET3166.txt|.|116
+biblekjv|.|WET1146.txt|.|21|.|WET4894.txt|.|24
+study|.|WET5488.txt|.|36|.|WET1146.txt|.|107|.|WET1482.txt|.|16|.|WET452.txt|.|34|.|WET3166.txt|.|17|.|WET4894.txt|.|149|.|WET5233.txt|.|19
+part time mba|.|WET452.txt|.|11
+pew bible|.|WET1146.txt|.|79
+tests gmat|.|WET452.txt|.|22
+literature lesson plans|.|WET5488.txt|.|10
+literature|.|WET5488.txt|.|29|.|WET342.txt|.|18
+request our catalogs|.|WET5233.txt|.|9
+gmat club|.|WET4198.txt|.|75|.|WET453.txt|.|20|.|WET452.txt|.|101
+composition|.|WET6242.txt|.|2|.|WET3226.txt|.|2|.|WET5197.txt|.|2|.|WET20.txt|.|3|.|WET1790.txt|.|3|.|WET5578.txt|.|2|.|WET3366.txt|.|2|.|WET2502.txt|.|2|.|WET4359.txt|.|2|.|WET2015.txt|.|1|.|WET2854.txt|.|2|.|WET1447.txt|.|1|.|WET1792.txt|.|2|.|WET4084.txt|.|2|.|WET2435.txt|.|2|.|WET1156.txt|.|3|.|WET4894.txt|.|2|.|WET5180.txt|.|4|.|WET5475.txt|.|2|.|WET4171.txt|.|2|.|WET3207.txt|.|4|.|WET4551.txt|.|2|.|WET4000.txt|.|3|.|WET2417.txt|.|2|.|WET4212.txt|.|2|.|WET4998.txt|.|2|.|WET3026.txt|.|2|.|WET3963.txt|.|1|.|WET1859.txt|.|26|.|WET163.txt|.|1|.|WET3939.txt|.|1|.|WET24.txt|.|1|.|WET1645.txt|.|2|.|WET3478.txt|.|2|.|WET69.txt|.|2|.|WET3583.txt|.|3|.|WET1194.txt|.|1|.|WET2452.txt|.|2|.|WET4832.txt|.|2|.|WET4575.txt|.|2|.|WET3778.txt|.|2|.|WET164.txt|.|2|.|WET2240.txt|.|3|.|WET2678.txt|.|2|.|WET1342.txt|.|2|.|WET271.txt|.|2|.|WET1723.txt|.|1|.|WET5803.txt|.|1|.|WET4967.txt|.|2|.|WET5848.txt|.|2|.|WET4813.txt|.|2|.|WET4432.txt|.|2
+alaska southeast|.|WET3166.txt|.|92
+time mba rankings|.|WET452.txt|.|22
+study bible|.|WET1146.txt|.|31|.|WET4894.txt|.|54
+gmat verbal section|.|WET452.txt|.|14
+abroad|.|WET3166.txt|.|6
+cbd|.|WET1482.txt|.|32|.|WET5233.txt|.|54
+enotes|.|WET5488.txt|.|28
+study abroad|.|WET3166.txt|.|6
+study guide|.|WET5488.txt|.|14
+mba|.|WET4198.txt|.|220|.|WET4202.txt|.|91|.|WET453.txt|.|106|.|WET452.txt|.|297|.|WET456.txt|.|39
+gmat books math|.|WET452.txt|.|11
+study biblekjv|.|WET1146.txt|.|21|.|WET4894.txt|.|24
+juneau|.|WET5898.txt|.|12|.|WET3166.txt|.|107
+audio bibles|.|WET1146.txt|.|18
+video bibles|.|WET1146.txt|.|13

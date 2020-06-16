@@ -1,0 +1,12 @@
+1288
+local events|.|WET249.txt|.|47
+news politics|.|WET2439.txt|.|32
+living healthy|.|WET2439.txt|.|16
+weird|.|WET2439.txt|.|16|.|WET3259.txt|.|6
+forced|.|WET5159.txt|.|36
+manitou|.|WET2782.txt|.|57
+manitou views early|.|WET2782.txt|.|14
+sports columns preps local|.|WET1892.txt|.|22
+local|.|WET960.txt|.|75|.|WET1892.txt|.|77|.|WET249.txt|.|79|.|WET6250.txt|.|42|.|WET634.txt|.|6|.|WET2439.txt|.|64|.|WET6.txt|.|12|.|WET1552.txt|.|36|.|WET2485.txt|.|39|.|WET4863.txt|.|9|.|WET676.txt|.|12|.|WET2782.txt|.|146|.|WET722.txt|.|8|.|WET1337.txt|.|21|.|WET5159.txt|.|53|.|WET6151.txt|.|49|.|WET2765.txt|.|16|.|WET5788.txt|.|69|.|WET5317.txt|.|66|.|WET1410.txt|.|105|.|WET2407.txt|.|41|.|WET4316.txt|.|24|.|WET1699.txt|.|33|.|WET6206.txt|.|24|.|WET6152.txt|.|52|.|WET2905.txt|.|25|.|WET3838.txt|.|20|.|WET2746.txt|.|17|.|WET2906.txt|.|42|.|WET2560.txt|.|28|.|WET3259.txt|.|33|.|WET6153.txt|.|37
+map fulton county|.|WET2782.txt|.|14
+circulars|.|WET249.txt|.|40

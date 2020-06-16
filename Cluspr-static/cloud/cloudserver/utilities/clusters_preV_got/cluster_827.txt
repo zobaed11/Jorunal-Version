@@ -1,0 +1,12 @@
+827
+gold|.|WET3354.txt|.|171|.|WET5636.txt|.|197|.|WET2793.txt|.|127|.|WET1186.txt|.|49|.|WET591.txt|.|19|.|WET4196.txt|.|53|.|WET5634.txt|.|29|.|WET4939.txt|.|48|.|WET5635.txt|.|226|.|WET3355.txt|.|20|.|WET5657.txt|.|15
+multiplexers|.|WET5634.txt|.|2
+web self service|.|WET131.txt|.|1|.|WET3355.txt|.|5
+prayer times|.|WET2112.txt|.|56|.|WET5854.txt|.|74|.|WET5855.txt|.|117|.|WET2113.txt|.|64
+popular styles design|.|WET3354.txt|.|33
+vwap|.|WET2399.txt|.|2
+box breaks|.|WET3131.txt|.|31
+ladies|.|WET3354.txt|.|100|.|WET1534.txt|.|46
+styles|.|WET3354.txt|.|72|.|WET3554.txt|.|23
+perpetual calendar|.|WET5830.txt|.|33
+gold silver stainless|.|WET3354.txt|.|33

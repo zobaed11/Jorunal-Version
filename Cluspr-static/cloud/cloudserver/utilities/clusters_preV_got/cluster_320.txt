@@ -1,0 +1,12 @@
+320
+carson|.|WET2479.txt|.|54
+waze|.|WET3564.txt|.|90
+listbooksget|.|WET6196.txt|.|11
+louis public|.|WET2904.txt|.|31
+purchaser|.|WET4810.txt|.|2|.|WET1321.txt|.|3|.|WET2035.txt|.|1
+starfleet personnel|.|WET4382.txt|.|14
+points started|.|WET2701.txt|.|159
+mailing|.|WET5992.txt|.|96|.|WET3652.txt|.|13
+trailblazer|.|WET5425.txt|.|48
+updated|.|WET4810.txt|.|20|.|WET2550.txt|.|386
+beyonce|.|WET2736.txt|.|11|.|WET2159.txt|.|25

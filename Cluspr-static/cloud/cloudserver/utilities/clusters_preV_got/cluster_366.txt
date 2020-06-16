@@ -1,0 +1,12 @@
+366
+trading nation|.|WET1508.txt|.|15|.|WET260.txt|.|4
+markets|.|WET1508.txt|.|7|.|WET260.txt|.|1
+analyst research|.|WET3416.txt|.|6
+vine reddit delicious|.|WET2493.txt|.|12
+wireless|.|WET5457.txt|.|29|.|WET1286.txt|.|91
+areas|.|WET412.txt|.|9|.|WET5251.txt|.|12
+floor heating|.|WET3249.txt|.|146
+superoxide|.|WET2172.txt|.|201
+europe|.|WET1508.txt|.|65|.|WET355.txt|.|17|.|WET3185.txt|.|143|.|WET5269.txt|.|14|.|WET5506.txt|.|46|.|WET260.txt|.|32
+oceana|.|WET355.txt|.|17
+temu|.|WET4547.txt|.|47

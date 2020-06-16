@@ -1,0 +1,23 @@
+22
+witnessed|.|WET1309.txt|.|2|.|WET4692.txt|.|1|.|WET4482.txt|.|2|.|WET4277.txt|.|1|.|WET2082.txt|.|1|.|WET2996.txt|.|1|.|WET4002.txt|.|3|.|WET927.txt|.|2|.|WET3200.txt|.|1|.|WET195.txt|.|1|.|WET4784.txt|.|2|.|WET2113.txt|.|2|.|WET1083.txt|.|3|.|WET294.txt|.|4|.|WET5924.txt|.|2|.|WET1179.txt|.|1|.|WET4293.txt|.|1|.|WET4214.txt|.|1|.|WET2488.txt|.|1|.|WET3867.txt|.|1|.|WET6248.txt|.|2
+iggy|.|WET5900.txt|.|15|.|WET2159.txt|.|13|.|WET5901.txt|.|7|.|WET5899.txt|.|10
+ramirez|.|WET5900.txt|.|17|.|WET2159.txt|.|18
+hemsworth|.|WET5900.txt|.|14|.|WET2159.txt|.|13|.|WET5901.txt|.|9
+sara|.|WET5900.txt|.|17|.|WET2159.txt|.|18|.|WET2491.txt|.|27
+report comment|.|WET4214.txt|.|63
+chris hemsworth shows|.|WET5900.txt|.|14|.|WET2159.txt|.|13
+azalea|.|WET5900.txt|.|15|.|WET2159.txt|.|13|.|WET5901.txt|.|7|.|WET5899.txt|.|10
+expertise|.|WET6285.txt|.|2|.|WET5522.txt|.|1|.|WET2519.txt|.|2|.|WET2862.txt|.|2|.|WET1565.txt|.|2|.|WET5197.txt|.|2|.|WET4286.txt|.|1|.|WET901.txt|.|2|.|WET1727.txt|.|1|.|WET3442.txt|.|2|.|WET4816.txt|.|2|.|WET3120.txt|.|2|.|WET4214.txt|.|2|.|WET4015.txt|.|3|.|WET3663.txt|.|2|.|WET4443.txt|.|2|.|WET4112.txt|.|2|.|WET5169.txt|.|3|.|WET1910.txt|.|1|.|WET1321.txt|.|2|.|WET1059.txt|.|2|.|WET3452.txt|.|10|.|WET4173.txt|.|2|.|WET5427.txt|.|2|.|WET5046.txt|.|3|.|WET6275.txt|.|2|.|WET4567.txt|.|2|.|WET5736.txt|.|2|.|WET5059.txt|.|2|.|WET459.txt|.|5|.|WET294.txt|.|2|.|WET4967.txt|.|2|.|WET2263.txt|.|3|.|WET1395.txt|.|2|.|WET809.txt|.|2|.|WET1691.txt|.|2|.|WET1706.txt|.|3|.|WET3874.txt|.|2|.|WET3094.txt|.|3|.|WET1679.txt|.|2|.|WET2038.txt|.|2|.|WET5179.txt|.|2|.|WET5780.txt|.|3|.|WET3395.txt|.|2|.|WET4856.txt|.|3|.|WET3776.txt|.|3|.|WET3590.txt|.|2|.|WET2564.txt|.|6
+hemsworth shows|.|WET5900.txt|.|14|.|WET2159.txt|.|13|.|WET5901.txt|.|7
+beyonce|.|WET2736.txt|.|11|.|WET2159.txt|.|25
+shows|.|WET989.txt|.|16|.|WET5259.txt|.|26|.|WET5900.txt|.|25|.|WET2159.txt|.|24|.|WET1873.txt|.|34|.|WET5901.txt|.|13|.|WET6.txt|.|6|.|WET500.txt|.|16|.|WET5443.txt|.|77
+chris|.|WET5900.txt|.|15|.|WET2159.txt|.|16|.|WET4214.txt|.|66|.|WET925.txt|.|11
+chris brown|.|WET925.txt|.|9
+iggy azalea|.|WET5900.txt|.|15|.|WET2159.txt|.|13|.|WET5901.txt|.|7|.|WET5899.txt|.|10
+kate|.|WET2159.txt|.|43|.|WET5899.txt|.|15
+hacks|.|WET466.txt|.|22|.|WET4214.txt|.|232
+comment reply|.|WET4214.txt|.|1
+jared|.|WET2159.txt|.|61
+leaving|.|WET5900.txt|.|17|.|WET2159.txt|.|18
+sara ramirez leaving|.|WET5900.txt|.|17|.|WET2159.txt|.|18
+chris hemsworth|.|WET5900.txt|.|14|.|WET2159.txt|.|13

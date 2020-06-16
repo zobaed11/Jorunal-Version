@@ -1,0 +1,12 @@
+458
+university historical student|.|WET3976.txt|.|46
+map collection cuban|.|WET4385.txt|.|23
+cuban|.|WET4385.txt|.|165|.|WET4386.txt|.|29|.|WET645.txt|.|144
+historical photographs|.|WET4385.txt|.|230|.|WET645.txt|.|173|.|WET3976.txt|.|71
+alan|.|WET645.txt|.|17
+historical student newspapers|.|WET3976.txt|.|46
+manuel|.|WET645.txt|.|42|.|WET784.txt|.|44
+postcards cuban|.|WET4385.txt|.|23
+cuban photograph collections|.|WET4385.txt|.|26|.|WET645.txt|.|23
+ochoa|.|WET645.txt|.|17
+art museum|.|WET3976.txt|.|88

@@ -1,0 +1,12 @@
+1375
+factory|.|WET594.txt|.|9|.|WET3649.txt|.|41
+aventura|.|WET2156.txt|.|48
+paxton carnegie|.|WET2604.txt|.|10
+phuket orchid|.|WET2168.txt|.|25
+cinematic classical|.|WET70.txt|.|66
+subversion|.|WET3545.txt|.|32
+dell poweredge|.|WET924.txt|.|41
+andres sarda|.|WET6192.txt|.|51
+station|.|WET3980.txt|.|11|.|WET2266.txt|.|48
+skate kabul|.|WET5536.txt|.|4
+sportswear|.|WET891.txt|.|40

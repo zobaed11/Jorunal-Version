@@ -1,0 +1,23 @@
+72
+app|.|WET4809.txt|.|24|.|WET1364.txt|.|8|.|WET3419.txt|.|19|.|WET5783.txt|.|34|.|WET4178.txt|.|26|.|WET3312.txt|.|19|.|WET987.txt|.|10|.|WET442.txt|.|18|.|WET615.txt|.|22|.|WET1293.txt|.|40|.|WET977.txt|.|27|.|WET4203.txt|.|41|.|WET4941.txt|.|105|.|WET1188.txt|.|116|.|WET2040.txt|.|35|.|WET277.txt|.|11|.|WET1187.txt|.|147|.|WET4940.txt|.|145|.|WET5250.txt|.|20|.|WET1075.txt|.|12|.|WET3791.txt|.|50|.|WET404.txt|.|52|.|WET1499.txt|.|25
+max volume|.|WET2047.txt|.|8
+flash player|.|WET5936.txt|.|30
+thousand installs|.|WET4940.txt|.|9
+android|.|WET4000.txt|.|54|.|WET4181.txt|.|28|.|WET1171.txt|.|145|.|WET5783.txt|.|22|.|WET6130.txt|.|37|.|WET338.txt|.|42|.|WET4922.txt|.|125|.|WET1293.txt|.|16|.|WET1191.txt|.|49|.|WET3504.txt|.|24|.|WET4941.txt|.|72|.|WET3785.txt|.|49|.|WET1188.txt|.|70|.|WET2040.txt|.|22|.|WET1187.txt|.|78|.|WET4940.txt|.|74|.|WET255.txt|.|99|.|WET5250.txt|.|10|.|WET1190.txt|.|88|.|WET404.txt|.|96|.|WET36.txt|.|91|.|WET4923.txt|.|71
+update|.|WET959.txt|.|74|.|WET1188.txt|.|60|.|WET1187.txt|.|48|.|WET4940.txt|.|50
+view network|.|WET4940.txt|.|9
+version|.|WET2047.txt|.|8|.|WET1188.txt|.|71|.|WET1187.txt|.|66|.|WET2968.txt|.|23|.|WET4940.txt|.|65|.|WET3487.txt|.|74|.|WET5936.txt|.|27
+printable|.|WET2968.txt|.|5
+installs|.|WET4940.txt|.|11
+install instructions|.|WET3487.txt|.|22
+appbrain|.|WET4941.txt|.|95|.|WET1188.txt|.|93|.|WET1187.txt|.|78|.|WET4940.txt|.|78
+downloads mar|.|WET1187.txt|.|4
+communication full network|.|WET1187.txt|.|8
+appbrain android app|.|WET4941.txt|.|11|.|WET1187.txt|.|11|.|WET4940.txt|.|11
+new price|.|WET1188.txt|.|5
+subscribe to distribution|.|WET3487.txt|.|11
+android app|.|WET1188.txt|.|38|.|WET1187.txt|.|45|.|WET4940.txt|.|44|.|WET5250.txt|.|6
+printable version|.|WET2968.txt|.|5
+recent version|.|WET2047.txt|.|8
+version latest|.|WET3487.txt|.|22
+update version|.|WET1188.txt|.|57|.|WET1187.txt|.|46|.|WET4940.txt|.|48

@@ -1,0 +1,12 @@
+207
+recommendation database|.|WET1174.txt|.|5|.|WET1173.txt|.|11
+indiana state|.|WET2891.txt|.|16
+intelligencer vulture|.|WET4453.txt|.|23
+outdoors|.|WET6112.txt|.|7|.|WET2484.txt|.|61|.|WET1723.txt|.|67
+ushelpsubscription|.|WET5178.txt|.|11
+readers|.|WET3188.txt|.|22|.|WET3190.txt|.|22|.|WET3189.txt|.|22
+sunset|.|WET4302.txt|.|27
+playboy plus|.|WET2669.txt|.|12
+cfp|.|WET5207.txt|.|47
+beach volleyball|.|WET3082.txt|.|28
+carranza|.|WET1403.txt|.|30

@@ -1,0 +1,12 @@
+1209
+atis|.|WET1795.txt|.|30
+board index board|.|WET1795.txt|.|20
+encaustic painting mediums|.|WET1307.txt|.|3
+airbrush painting templates|.|WET1307.txt|.|3
+message board|.|WET233.txt|.|21|.|WET5838.txt|.|17|.|WET374.txt|.|17|.|WET216.txt|.|10
+directory sponsor links|.|WET1795.txt|.|10
+atis cub faq|.|WET1795.txt|.|20
+salvage|.|WET1795.txt|.|20
+mediums|.|WET1307.txt|.|45
+board|.|WET6242.txt|.|40|.|WET1795.txt|.|61|.|WET2345.txt|.|72|.|WET5162.txt|.|15|.|WET2095.txt|.|22|.|WET1251.txt|.|45|.|WET5530.txt|.|28|.|WET1307.txt|.|31|.|WET6243.txt|.|16|.|WET2701.txt|.|21|.|WET5837.txt|.|23|.|WET5001.txt|.|24|.|WET3036.txt|.|30|.|WET2724.txt|.|22|.|WET233.txt|.|28|.|WET5559.txt|.|186|.|WET1907.txt|.|73|.|WET1165.txt|.|10|.|WET5063.txt|.|25|.|WET821.txt|.|330|.|WET5838.txt|.|18|.|WET2094.txt|.|33|.|WET374.txt|.|32|.|WET216.txt|.|13|.|WET5021.txt|.|7
+tower|.|WET233.txt|.|21

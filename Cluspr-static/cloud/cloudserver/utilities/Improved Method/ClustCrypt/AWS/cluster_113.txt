@@ -1,0 +1,27 @@
+cab|.|WET5287.txt|.|67|.|WET5432.txt|.|11
+mpg estimates|.|WET5605.txt|.|18
+honda parts|.|WET5763.txt|.|20
+manual|.|WET157.txt|.|12|.|WET5394.txt|.|22|.|WET5763.txt|.|172
+civic hatchback|.|WET5763.txt|.|46
+compare side|.|WET5606.txt|.|24|.|WET5605.txt|.|42
+vehicle|.|WET2926.txt|.|62|.|WET3525.txt|.|32|.|WET5605.txt|.|66|.|WET5763.txt|.|27|.|WET5432.txt|.|21
+pickup reg|.|WET5432.txt|.|11
+honda civic|.|WET2022.txt|.|123|.|WET5763.txt|.|221
+car|.|WET2383.txt|.|501|.|WET1425.txt|.|94|.|WET2014.txt|.|21|.|WET1217.txt|.|30|.|WET4556.txt|.|24|.|WET2926.txt|.|253|.|WET5184.txt|.|93|.|WET2392.txt|.|55|.|WET2384.txt|.|936|.|WET1435.txt|.|54|.|WET3717.txt|.|56|.|WET1995.txt|.|25|.|WET1685.txt|.|125|.|WET5248.txt|.|29|.|WET5465.txt|.|262|.|WET1228.txt|.|26|.|WET3567.txt|.|34|.|WET2745.txt|.|28|.|WET1725.txt|.|135|.|WET691.txt|.|48|.|WET3042.txt|.|45|.|WET1424.txt|.|91|.|WET1225.txt|.|192|.|WET3653.txt|.|45|.|WET5467.txt|.|157|.|WET6135.txt|.|36|.|WET5174.txt|.|87|.|WET1724.txt|.|589|.|WET3525.txt|.|32|.|WET5605.txt|.|53|.|WET5432.txt|.|117
+find|.|WET2269.txt|.|15|.|WET4132.txt|.|20|.|WET2057.txt|.|55|.|WET3251.txt|.|55|.|WET1477.txt|.|12|.|WET3175.txt|.|69|.|WET2412.txt|.|21|.|WET5801.txt|.|56|.|WET5225.txt|.|103|.|WET4892.txt|.|27|.|WET5128.txt|.|43|.|WET3526.txt|.|44|.|WET5494.txt|.|10|.|WET2096.txt|.|62|.|WET2108.txt|.|37|.|WET5160.txt|.|60|.|WET2319.txt|.|34|.|WET4345.txt|.|72|.|WET6071.txt|.|51|.|WET2367.txt|.|10|.|WET293.txt|.|11|.|WET5164.txt|.|25|.|WET1410.txt|.|97|.|WET1996.txt|.|119|.|WET5029.txt|.|120|.|WET5839.txt|.|70|.|WET4029.txt|.|11|.|WET5736.txt|.|106|.|WET128.txt|.|8|.|WET1725.txt|.|18|.|WET1818.txt|.|17|.|WET3974.txt|.|13|.|WET2609.txt|.|73|.|WET2330.txt|.|23|.|WET3308.txt|.|12|.|WET5467.txt|.|19|.|WET2610.txt|.|156|.|WET2386.txt|.|125|.|WET3025.txt|.|47|.|WET1529.txt|.|11|.|WET3590.txt|.|37|.|WET2763.txt|.|17|.|WET5605.txt|.|39
+civic sedan|.|WET5763.txt|.|113
+carfax reports|.|WET3524.txt|.|160|.|WET3525.txt|.|64
+estimates|.|WET3712.txt|.|52|.|WET5605.txt|.|30
+side|.|WET5606.txt|.|48|.|WET1868.txt|.|48|.|WET2448.txt|.|29|.|WET1691.txt|.|69|.|WET5605.txt|.|84
+efficient|.|WET5605.txt|.|14
+find a car|.|WET5605.txt|.|25
+car amplifier|.|WET2926.txt|.|22
+hatchback|.|WET5763.txt|.|46
+used car|.|WET3525.txt|.|12
+car audio|.|WET1424.txt|.|83|.|WET1425.txt|.|64|.|WET5174.txt|.|78|.|WET2926.txt|.|32
+fuel economy|.|WET1868.txt|.|20|.|WET5605.txt|.|46
+car stereo|.|WET2926.txt|.|18
+install|.|WET3450.txt|.|74|.|WET2926.txt|.|74|.|WET3487.txt|.|44
+stereo|.|WET2926.txt|.|41
+amplifier|.|WET2926.txt|.|50
+sedan|.|WET5763.txt|.|176

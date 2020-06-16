@@ -1,0 +1,12 @@
+63
+wager|.|WET5301.txt|.|2|.|WET1792.txt|.|2|.|WET2027.txt|.|24|.|WET3812.txt|.|2|.|WET3110.txt|.|2
+rc|.|WET2014.txt|.|209|.|WET2745.txt|.|74|.|WET2746.txt|.|190
+outdoor living|.|WET1414.txt|.|23|.|WET5125.txt|.|25
+athletic boots|.|WET2153.txt|.|44
+snowboarding|.|WET4629.txt|.|115|.|WET2913.txt|.|93
+infrastructure|.|WET465.txt|.|81
+bluetooth speaker|.|WET5805.txt|.|7
+photo gallery|.|WET1556.txt|.|50|.|WET154.txt|.|6|.|WET3175.txt|.|6|.|WET502.txt|.|12|.|WET2746.txt|.|29
+rcu youtube|.|WET2746.txt|.|15
+tunics jackets|.|WET2145.txt|.|28
+jesusatlanta|.|WET67.txt|.|8

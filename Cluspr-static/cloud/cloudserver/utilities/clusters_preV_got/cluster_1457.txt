@@ -1,0 +1,12 @@
+1457
+clinical trial|.|WET4286.txt|.|7
+infected|.|WET4286.txt|.|22
+annual results|.|WET2240.txt|.|12
+nouvelle plateforme|.|WET5977.txt|.|5
+primary plus|.|WET6223.txt|.|10
+tenofovir|.|WET4286.txt|.|112
+nouvelle|.|WET5977.txt|.|7
+indistinguishable|.|WET2772.txt|.|3|.|WET4286.txt|.|3|.|WET1656.txt|.|3
+tenofovir treatment|.|WET4286.txt|.|47
+immunodeficiency|.|WET4286.txt|.|64
+simian immunodeficiency|.|WET4286.txt|.|49

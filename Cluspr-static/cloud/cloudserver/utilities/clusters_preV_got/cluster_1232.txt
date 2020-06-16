@@ -1,0 +1,12 @@
+1232
+dom na|.|WET4391.txt|.|15
+subscriber|.|WET6261.txt|.|20|.|WET5475.txt|.|10|.|WET4711.txt|.|24|.|WET4573.txt|.|26|.|WET2154.txt|.|72
+gambling|.|WET3904.txt|.|2|.|WET3210.txt|.|2|.|WET3256.txt|.|1|.|WET885.txt|.|2|.|WET3917.txt|.|1|.|WET2862.txt|.|3|.|WET5695.txt|.|1|.|WET3442.txt|.|2|.|WET3539.txt|.|1|.|WET2604.txt|.|2|.|WET1597.txt|.|2|.|WET2504.txt|.|3|.|WET5981.txt|.|2|.|WET4071.txt|.|2|.|WET2484.txt|.|3|.|WET123.txt|.|2
+fan art|.|WET4704.txt|.|5
+shea stadium|.|WET3176.txt|.|109
+book review|.|WET785.txt|.|13
+full coverage|.|WET3713.txt|.|27
+coaching candidates|.|WET5236.txt|.|13|.|WET1484.txt|.|10
+killer unicorns|.|WET785.txt|.|61
+march|.|WET4704.txt|.|36|.|WET146.txt|.|20|.|WET829.txt|.|85|.|WET4411.txt|.|58|.|WET626.txt|.|62|.|WET3167.txt|.|115|.|WET3198.txt|.|63|.|WET2227.txt|.|37|.|WET103.txt|.|29|.|WET5713.txt|.|41|.|WET131.txt|.|159|.|WET785.txt|.|215|.|WET3851.txt|.|68|.|WET4567.txt|.|96|.|WET985.txt|.|36|.|WET5699.txt|.|247|.|WET801.txt|.|18|.|WET4550.txt|.|77|.|WET1268.txt|.|166|.|WET2808.txt|.|69|.|WET105.txt|.|34|.|WET3873.txt|.|73|.|WET458.txt|.|28|.|WET123.txt|.|152|.|WET601.txt|.|36|.|WET4391.txt|.|77
+ice hockey|.|WET1268.txt|.|12

@@ -1,0 +1,12 @@
+433
+mets giants jets|.|WET4440.txt|.|10
+mets|.|WET4440.txt|.|13
+mike francesa joe|.|WET4440.txt|.|13
+wbbm newsradio|.|WET189.txt|.|4
+michael balderston|.|WET3159.txt|.|22
+sports radio|.|WET4440.txt|.|20
+wfan|.|WET4440.txt|.|43
+jets|.|WET4440.txt|.|21|.|WET5878.txt|.|17
+benchmarks|.|WET3159.txt|.|125
+cbs dallas|.|WET278.txt|.|19
+newsradio|.|WET189.txt|.|4

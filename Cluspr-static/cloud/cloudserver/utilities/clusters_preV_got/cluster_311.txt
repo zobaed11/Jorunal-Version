@@ -1,0 +1,12 @@
+311
+contentdm collection|.|WET506.txt|.|7
+illinois university|.|WET3960.txt|.|141|.|WET213.txt|.|282|.|WET212.txt|.|141
+southern illinois university edwardsville|.|WET213.txt|.|120
+university edwardsville|.|WET3960.txt|.|60|.|WET213.txt|.|120|.|WET212.txt|.|60
+north park|.|WET213.txt|.|102
+illinois|.|WET3960.txt|.|334|.|WET213.txt|.|672|.|WET4251.txt|.|29|.|WET872.txt|.|12|.|WET212.txt|.|330|.|WET506.txt|.|24
+xavier university|.|WET212.txt|.|27
+illinois contentdm|.|WET506.txt|.|7
+southern illinois|.|WET3960.txt|.|99|.|WET213.txt|.|198|.|WET212.txt|.|99
+university of illinois contentdm|.|WET506.txt|.|7
+contentdm|.|WET506.txt|.|14

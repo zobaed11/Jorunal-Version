@@ -1,0 +1,12 @@
+1311
+volume|.|WET2047.txt|.|10|.|WET290.txt|.|40
+stock items|.|WET1853.txt|.|20
+schausammlung|.|WET6041.txt|.|3
+lid|.|WET4850.txt|.|19
+zaloguj|.|WET4547.txt|.|9
+ebooks|.|WET1716.txt|.|22|.|WET5460.txt|.|51
+news big|.|WET216.txt|.|5
+tutorial|.|WET3922.txt|.|16
+todos|.|WET2830.txt|.|9|.|WET350.txt|.|40
+union leader|.|WET6223.txt|.|35
+female|.|WET5145.txt|.|33|.|WET870.txt|.|5

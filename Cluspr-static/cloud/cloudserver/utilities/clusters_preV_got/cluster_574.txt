@@ -1,0 +1,12 @@
+574
+bmw model|.|WET1306.txt|.|18
+bmw forums|.|WET1305.txt|.|17
+shimla|.|WET4807.txt|.|104
+sq ft|.|WET3249.txt|.|122
+cynthiana|.|WET5338.txt|.|29
+coupe|.|WET5057.txt|.|100|.|WET5056.txt|.|44|.|WET2022.txt|.|55
+models bmw|.|WET1304.txt|.|11|.|WET5056.txt|.|8
+bmw community|.|WET5056.txt|.|16
+home bmw models|.|WET5056.txt|.|8
+event|.|WET6056.txt|.|27|.|WET2533.txt|.|30|.|WET4251.txt|.|15|.|WET5508.txt|.|223|.|WET5266.txt|.|48|.|WET5946.txt|.|77|.|WET4699.txt|.|37|.|WET498.txt|.|13|.|WET2244.txt|.|19|.|WET3581.txt|.|170|.|WET3002.txt|.|22|.|WET5616.txt|.|12|.|WET2670.txt|.|54|.|WET1512.txt|.|25|.|WET2778.txt|.|34
+favorite|.|WET1926.txt|.|340|.|WET5666.txt|.|114|.|WET3375.txt|.|30|.|WET1469.txt|.|29|.|WET5886.txt|.|16|.|WET3988.txt|.|28|.|WET4804.txt|.|5

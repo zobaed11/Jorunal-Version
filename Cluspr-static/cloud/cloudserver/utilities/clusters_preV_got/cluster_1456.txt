@@ -1,0 +1,12 @@
+1456
+heat|.|WET1243.txt|.|21|.|WET4428.txt|.|13
+head|.|WET5734.txt|.|47|.|WET1993.txt|.|36|.|WET4374.txt|.|72|.|WET1994.txt|.|29|.|WET1794.txt|.|56|.|WET1992.txt|.|42
+gaza|.|WET322.txt|.|55
+skirt|.|WET3064.txt|.|41|.|WET1008.txt|.|28
+warnings summary|.|WET5098.txt|.|16
+advertisers|.|WET5631.txt|.|14
+vol nantes|.|WET939.txt|.|12
+see verse|.|WET5921.txt|.|30
+daunorubicin iv|.|WET2807.txt|.|13
+overstock|.|WET128.txt|.|8
+discussion forums|.|WET4152.txt|.|13|.|WET5206.txt|.|16

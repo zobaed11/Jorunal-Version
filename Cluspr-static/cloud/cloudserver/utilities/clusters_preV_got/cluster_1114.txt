@@ -1,0 +1,12 @@
+1114
+login or sign|.|WET2682.txt|.|19
+sinds|.|WET4850.txt|.|19
+bekijk profiel|.|WET4850.txt|.|17
+phone plan|.|WET2650.txt|.|520
+phone|.|WET2616.txt|.|49|.|WET2875.txt|.|12|.|WET4000.txt|.|84|.|WET3773.txt|.|96|.|WET3571.txt|.|25|.|WET2649.txt|.|1279|.|WET2650.txt|.|692|.|WET2944.txt|.|27|.|WET6130.txt|.|21|.|WET3301.txt|.|127|.|WET5286.txt|.|71|.|WET1286.txt|.|70|.|WET1100.txt|.|56|.|WET1688.txt|.|110|.|WET3359.txt|.|32|.|WET3717.txt|.|75|.|WET1170.txt|.|29|.|WET4850.txt|.|32|.|WET3601.txt|.|8
+brainyquote|.|WET1364.txt|.|28
+name relative last|.|WET2944.txt|.|9
+angel|.|WET1087.txt|.|25
+sedan|.|WET5763.txt|.|176
+bmx|.|WET5054.txt|.|26|.|WET1153.txt|.|45
+packard|.|WET5286.txt|.|1

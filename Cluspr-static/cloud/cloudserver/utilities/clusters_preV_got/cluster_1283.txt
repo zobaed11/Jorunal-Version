@@ -1,0 +1,12 @@
+1283
+item|.|WET5721.txt|.|21|.|WET1781.txt|.|43|.|WET3217.txt|.|81|.|WET4273.txt|.|155|.|WET4329.txt|.|110|.|WET3429.txt|.|27|.|WET5663.txt|.|95|.|WET6120.txt|.|47|.|WET4088.txt|.|22|.|WET4274.txt|.|44|.|WET439.txt|.|88|.|WET584.txt|.|140|.|WET4185.txt|.|220|.|WET2592.txt|.|83|.|WET4194.txt|.|154|.|WET268.txt|.|208|.|WET4186.txt|.|176|.|WET1292.txt|.|89|.|WET4262.txt|.|154|.|WET440.txt|.|242|.|WET4279.txt|.|242|.|WET585.txt|.|176|.|WET4907.txt|.|32|.|WET4195.txt|.|154|.|WET449.txt|.|111|.|WET4330.txt|.|133|.|WET517.txt|.|110|.|WET529.txt|.|177|.|WET1259.txt|.|299|.|WET4263.txt|.|67|.|WET534.txt|.|132|.|WET1923.txt|.|109
+flag|.|WET2198.txt|.|80|.|WET3850.txt|.|30|.|WET1857.txt|.|78|.|WET3591.txt|.|192
+baltimore police|.|WET3072.txt|.|6
+preceded in death|.|WET1252.txt|.|123
+air conditioning|.|WET5180.txt|.|30
+referenced|.|WET4273.txt|.|1
+seasonal|.|WET5727.txt|.|10|.|WET1498.txt|.|25
+compact flash|.|WET3217.txt|.|21
+freight|.|WET2733.txt|.|11
+cars in tyler|.|WET169.txt|.|13
+james|.|WET4216.txt|.|136|.|WET215.txt|.|167|.|WET1255.txt|.|7

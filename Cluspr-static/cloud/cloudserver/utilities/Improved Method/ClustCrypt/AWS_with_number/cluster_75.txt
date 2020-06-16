@@ -1,0 +1,15 @@
+75
+direkt|.|WET4975.txt|.|20|.|WET4976.txt|.|22
+im|.|WET5624.txt|.|33|.|WET1222.txt|.|109|.|WET1221.txt|.|107|.|WET4975.txt|.|92|.|WET4976.txt|.|67
+deutschland|.|WET1222.txt|.|54|.|WET4975.txt|.|44
+europapolitik|.|WET4976.txt|.|27
+im test|.|WET5624.txt|.|21
+amt|.|WET1222.txt|.|117|.|WET1221.txt|.|111|.|WET4975.txt|.|115|.|WET4976.txt|.|103
+gast|.|WET1221.txt|.|24
+gesundheit|.|WET4975.txt|.|37
+reisen|.|WET4975.txt|.|32
+politisches archiv|.|WET1221.txt|.|24
+dienst|.|WET1222.txt|.|30|.|WET1221.txt|.|30
+politisches|.|WET1221.txt|.|24
+verweist|.|WET4976.txt|.|32
+link verweist auf|.|WET4976.txt|.|32

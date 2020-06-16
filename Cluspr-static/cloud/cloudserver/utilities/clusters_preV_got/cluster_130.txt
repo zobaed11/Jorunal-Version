@@ -1,0 +1,12 @@
+130
+trainers|.|WET5944.txt|.|42
+kornhauser|.|WET287.txt|.|29
+plants|.|WET3197.txt|.|13|.|WET809.txt|.|23|.|WET4946.txt|.|26
+agama|.|WET3749.txt|.|135
+khan|.|WET1348.txt|.|40|.|WET1140.txt|.|50
+cochlear|.|WET1487.txt|.|8
+fraud report learn|.|WET4050.txt|.|55
+forum ford|.|WET1842.txt|.|180
+buyer and seller|.|WET973.txt|.|2
+salary|.|WET5860.txt|.|48|.|WET2119.txt|.|19|.|WET3087.txt|.|11|.|WET4672.txt|.|66|.|WET2605.txt|.|96
+lcms opens|.|WET1254.txt|.|3

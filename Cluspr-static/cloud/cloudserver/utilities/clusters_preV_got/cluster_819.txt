@@ -1,0 +1,12 @@
+819
+superoxide dismutase|.|WET2172.txt|.|200
+hybrids|.|WET1939.txt|.|2|.|WET1059.txt|.|1|.|WET5318.txt|.|2|.|WET2929.txt|.|3|.|WET1226.txt|.|3|.|WET620.txt|.|3|.|WET3618.txt|.|2|.|WET4779.txt|.|2|.|WET1644.txt|.|3|.|WET5605.txt|.|63|.|WET4684.txt|.|2
+heather|.|WET2266.txt|.|24
+gmc|.|WET5425.txt|.|29|.|WET2788.txt|.|46
+trellis|.|WET2802.txt|.|15
+mlbam|.|WET845.txt|.|191
+party supplies|.|WET2563.txt|.|71|.|WET2599.txt|.|76|.|WET6302.txt|.|51
+efficient vehicle|.|WET5605.txt|.|14
+dictionarymedicine|.|WET1310.txt|.|10
+hammer item|.|WET5721.txt|.|16
+pm cst|.|WET3382.txt|.|204

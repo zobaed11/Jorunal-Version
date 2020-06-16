@@ -1,0 +1,12 @@
+24
+como|.|WET750.txt|.|76|.|WET1401.txt|.|11
+john tarleton|.|WET948.txt|.|12
+wifi|.|WET5457.txt|.|25
+leer|.|WET2092.txt|.|13|.|WET3122.txt|.|9
+dependency|.|WET5992.txt|.|3|.|WET5968.txt|.|2|.|WET2956.txt|.|2|.|WET6109.txt|.|2|.|WET5309.txt|.|2|.|WET5358.txt|.|2|.|WET1720.txt|.|3|.|WET2060.txt|.|2|.|WET403.txt|.|1
+chains|.|WET2823.txt|.|60
+woven|.|WET5804.txt|.|43|.|WET445.txt|.|34
+wife|.|WET1915.txt|.|6|.|WET2468.txt|.|22|.|WET2770.txt|.|33|.|WET1911.txt|.|10
+wigs|.|WET1556.txt|.|31|.|WET994.txt|.|2|.|WET1557.txt|.|20|.|WET5304.txt|.|32|.|WET3112.txt|.|3|.|WET1485.txt|.|2
+surrounds|.|WET1437.txt|.|10
+repository|.|WET345.txt|.|24

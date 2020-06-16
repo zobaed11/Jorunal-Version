@@ -1,0 +1,12 @@
+489
+tournaments|.|WET1549.txt|.|13
+racquet|.|WET1549.txt|.|6
+tennis radsport|.|WET5918.txt|.|21
+formel|.|WET5918.txt|.|22
+eishockey|.|WET5918.txt|.|24
+tennis results|.|WET1549.txt|.|14
+eishockey basketball|.|WET5918.txt|.|22
+tournament|.|WET5700.txt|.|52
+olympia|.|WET5918.txt|.|21
+sport olympia|.|WET5918.txt|.|21
+radsport|.|WET5918.txt|.|21

@@ -1,0 +1,13 @@
+tours remove|.|WET1926.txt|.|112|.|WET5666.txt|.|37
+remove view|.|WET1926.txt|.|112|.|WET5666.txt|.|37
+us email|.|WET5666.txt|.|2
+seasoned|.|WET3988.txt|.|7
+book online|.|WET1926.txt|.|69|.|WET2631.txt|.|3
+tours|.|WET1926.txt|.|379|.|WET1422.txt|.|20|.|WET5666.txt|.|130
+favorite tours|.|WET1926.txt|.|336|.|WET5666.txt|.|111
+highlights|.|WET1926.txt|.|81
+river cruising|.|WET5666.txt|.|2
+day tour|.|WET1926.txt|.|112|.|WET5666.txt|.|37
+change country|.|WET5666.txt|.|4
+favorite|.|WET1926.txt|.|340|.|WET5666.txt|.|114|.|WET3375.txt|.|30|.|WET1469.txt|.|29|.|WET5886.txt|.|16|.|WET3988.txt|.|28|.|WET4804.txt|.|5
+highlights slideshow|.|WET1926.txt|.|69

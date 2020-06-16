@@ -1,0 +1,8 @@
+96
+football uniforms|.|WET384.txt|.|24
+nike game day jersey|.|WET917.txt|.|18
+ladies youth tall|.|WET1534.txt|.|12
+youth football jerseys|.|WET384.txt|.|10
+youth|.|WET384.txt|.|85|.|WET917.txt|.|99|.|WET4654.txt|.|148|.|WET3744.txt|.|9|.|WET2915.txt|.|61|.|WET2427.txt|.|50|.|WET4652.txt|.|22|.|WET5004.txt|.|71|.|WET1534.txt|.|42
+day jersey|.|WET917.txt|.|38
+youth hats|.|WET917.txt|.|16

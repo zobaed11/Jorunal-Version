@@ -1,0 +1,12 @@
+985
+jobssalary search|.|WET2080.txt|.|60
+jobs for this search|.|WET2080.txt|.|6
+sales representative|.|WET2080.txt|.|14|.|WET5822.txt|.|14
+jobs nationwide|.|WET160.txt|.|9
+nationwide|.|WET160.txt|.|9
+ramon|.|WET2080.txt|.|12
+easily apply|.|WET2080.txt|.|30
+search job|.|WET5822.txt|.|7|.|WET1317.txt|.|10
+job|.|WET2118.txt|.|68|.|WET539.txt|.|59|.|WET4283.txt|.|50|.|WET2081.txt|.|48|.|WET3022.txt|.|29|.|WET1647.txt|.|50|.|WET2814.txt|.|54|.|WET4295.txt|.|36|.|WET2119.txt|.|28|.|WET2080.txt|.|124|.|WET5822.txt|.|73|.|WET160.txt|.|35|.|WET1317.txt|.|30|.|WET3049.txt|.|25
+change process|.|WET3049.txt|.|9
+job title|.|WET2119.txt|.|10

@@ -1,0 +1,12 @@
+1019
+meter cw|.|WET5450.txt|.|9
+sours|.|WET6220.txt|.|20
+costa|.|WET5450.txt|.|6
+lost|.|WET2481.txt|.|22|.|WET5026.txt|.|8|.|WET6220.txt|.|20
+idaho legislature|.|WET4247.txt|.|16
+costa rica|.|WET5450.txt|.|6
+beer finder|.|WET6220.txt|.|20
+mountain project|.|WET6155.txt|.|14
+meters band|.|WET5450.txt|.|5
+senate floors|.|WET4247.txt|.|16
+world channels|.|WET4247.txt|.|16

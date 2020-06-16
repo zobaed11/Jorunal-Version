@@ -1,0 +1,12 @@
+532
+insurance|.|WET3042.txt|.|40|.|WET2081.txt|.|19|.|WET2171.txt|.|36|.|WET3963.txt|.|36|.|WET1098.txt|.|36|.|WET5382.txt|.|85|.|WET2806.txt|.|12
+kcsn|.|WET2171.txt|.|34
+auto insurance|.|WET2171.txt|.|16
+spud and chloe|.|WET690.txt|.|28
+grade|.|WET2143.txt|.|123|.|WET5884.txt|.|125|.|WET210.txt|.|25
+music mix|.|WET2171.txt|.|14
+group rate|.|WET3963.txt|.|16
+erlanger|.|WET1760.txt|.|24
+mix|.|WET2171.txt|.|15
+no ippo|.|WET2303.txt|.|52|.|WET6045.txt|.|26|.|WET4927.txt|.|36
+apple juice|.|WET1400.txt|.|14

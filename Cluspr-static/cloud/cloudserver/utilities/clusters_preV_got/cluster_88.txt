@@ -1,0 +1,12 @@
+88
+quoting|.|WET1934.txt|.|84|.|WET5675.txt|.|63|.|WET1935.txt|.|69
+maps|.|WET1022.txt|.|16|.|WET1473.txt|.|11|.|WET4768.txt|.|12|.|WET2103.txt|.|6|.|WET1023.txt|.|8
+opener|.|WET1375.txt|.|8|.|WET6271.txt|.|31
+starships|.|WET4382.txt|.|9
+top rated|.|WET1568.txt|.|81|.|WET2793.txt|.|6|.|WET5316.txt|.|72|.|WET2456.txt|.|15
+rollerball|.|WET2139.txt|.|61
+documents and maps|.|WET1022.txt|.|13|.|WET4768.txt|.|12|.|WET1023.txt|.|8
+starwood hotels|.|WET2964.txt|.|25
+pedicure|.|WET6224.txt|.|20
+jual geotextile|.|WET445.txt|.|34
+compare cities vacation|.|WET3260.txt|.|20

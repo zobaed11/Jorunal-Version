@@ -1,0 +1,12 @@
+800
+launchers|.|WET4885.txt|.|32|.|WET1138.txt|.|28
+grenade|.|WET4885.txt|.|32|.|WET1138.txt|.|28
+megastore|.|WET4885.txt|.|108
+phone pay|.|WET3601.txt|.|8
+green gas|.|WET1139.txt|.|12
+gas|.|WET869.txt|.|51|.|WET3143.txt|.|42|.|WET5912.txt|.|22|.|WET2598.txt|.|22|.|WET1139.txt|.|52|.|WET3715.txt|.|12|.|WET3601.txt|.|158|.|WET4885.txt|.|171|.|WET1138.txt|.|170|.|WET5113.txt|.|51
+rifles|.|WET1139.txt|.|50|.|WET4885.txt|.|191|.|WET1138.txt|.|197
+airsoft rifles|.|WET1139.txt|.|20|.|WET4885.txt|.|80|.|WET1138.txt|.|81
+aegs|.|WET1139.txt|.|14
+airsoft guns|.|WET1139.txt|.|60|.|WET4885.txt|.|258|.|WET1138.txt|.|236
+airsoft grenade launchers|.|WET4885.txt|.|16|.|WET1138.txt|.|14

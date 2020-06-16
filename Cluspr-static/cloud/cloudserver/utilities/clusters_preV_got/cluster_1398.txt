@@ -1,0 +1,12 @@
+1398
+county durham|.|WET4806.txt|.|9
+herbarium|.|WET5744.txt|.|13
+split|.|WET5205.txt|.|66
+encyclopedia of life|.|WET342.txt|.|22
+publication|.|WET4296.txt|.|108|.|WET553.txt|.|70|.|WET3841.txt|.|393|.|WET1156.txt|.|23
+kao|.|WET4684.txt|.|5
+ang batayan|.|WET3551.txt|.|38
+master series|.|WET2750.txt|.|48
+cue cube|.|WET3992.txt|.|6
+rome pas|.|WET939.txt|.|5
+congested|.|WET778.txt|.|2|.|WET1188.txt|.|2|.|WET3756.txt|.|2|.|WET4956.txt|.|2|.|WET3167.txt|.|1|.|WET4725.txt|.|2

@@ -1,0 +1,12 @@
+1108
+suns|.|WET2024.txt|.|6|.|WET5765.txt|.|130
+dick|.|WET1177.txt|.|5|.|WET6047.txt|.|32
+booking|.|WET5106.txt|.|63|.|WET4962.txt|.|18|.|WET1208.txt|.|22
+looks|.|WET5955.txt|.|10|.|WET3025.txt|.|43
+disability|.|WET2920.txt|.|68
+fee|.|WET3210.txt|.|23
+screws|.|WET2598.txt|.|16
+hull|.|WET3339.txt|.|144
+render|.|WET3450.txt|.|2|.|WET5980.txt|.|2|.|WET2046.txt|.|3|.|WET3861.txt|.|1|.|WET4608.txt|.|2|.|WET5621.txt|.|2|.|WET6171.txt|.|7|.|WET2429.txt|.|11|.|WET5082.txt|.|2|.|WET2545.txt|.|2|.|WET5148.txt|.|3|.|WET573.txt|.|4|.|WET49.txt|.|1|.|WET5142.txt|.|2|.|WET194.txt|.|2|.|WET2036.txt|.|1|.|WET4032.txt|.|2|.|WET2564.txt|.|2|.|WET3060.txt|.|2
+economic|.|WET1339.txt|.|27|.|WET5850.txt|.|139
+harvard business school|.|WET1989.txt|.|22

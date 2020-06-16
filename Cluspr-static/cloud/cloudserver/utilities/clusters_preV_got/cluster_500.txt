@@ -1,0 +1,12 @@
+500
+ducks oregon|.|WET1789.txt|.|8
+add tags|.|WET226.txt|.|6|.|WET1647.txt|.|6|.|WET1023.txt|.|8
+fallin|.|WET723.txt|.|19
+pratai kenlium|.|WET35.txt|.|3
+sprgs|.|WET2792.txt|.|21
+colorado buffaloes|.|WET1789.txt|.|8
+search architect|.|WET5934.txt|.|12
+oklahoma|.|WET4438.txt|.|20|.|WET2792.txt|.|33|.|WET3135.txt|.|32|.|WET723.txt|.|19|.|WET537.txt|.|9|.|WET1647.txt|.|391|.|WET1789.txt|.|32
+ducks|.|WET1789.txt|.|16
+job training|.|WET1647.txt|.|44
+service managers|.|WET1647.txt|.|6

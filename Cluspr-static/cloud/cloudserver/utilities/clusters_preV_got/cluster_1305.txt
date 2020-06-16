@@ -1,0 +1,12 @@
+1305
+jake|.|WET5278.txt|.|10
+zeiten|.|WET5278.txt|.|10
+ocean|.|WET4591.txt|.|46
+community groups|.|WET5726.txt|.|6|.|WET1506.txt|.|2|.|WET4980.txt|.|5|.|WET1307.txt|.|3|.|WET2591.txt|.|12|.|WET1985.txt|.|3|.|WET4946.txt|.|2|.|WET4400.txt|.|2|.|WET1227.txt|.|8|.|WET1194.txt|.|1|.|WET1092.txt|.|2|.|WET2769.txt|.|6|.|WET5257.txt|.|6|.|WET5027.txt|.|7|.|WET5222.txt|.|9|.|WET1275.txt|.|11|.|WET3292.txt|.|3|.|WET5046.txt|.|3|.|WET1991.txt|.|8|.|WET2580.txt|.|11|.|WET1470.txt|.|9|.|WET4842.txt|.|2|.|WET4119.txt|.|5|.|WET6318.txt|.|9|.|WET1091.txt|.|11|.|WET4105.txt|.|2|.|WET378.txt|.|3
+sirk noah|.|WET5278.txt|.|10
+aller|.|WET5278.txt|.|10
+archer|.|WET5278.txt|.|10
+noah|.|WET5278.txt|.|10
+ray|.|WET5278.txt|.|13|.|WET2543.txt|.|4|.|WET5568.txt|.|17
+interactively|.|WET632.txt|.|2
+member member|.|WET5726.txt|.|17

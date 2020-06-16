@@ -1,0 +1,36 @@
+76
+poblano|.|WET5231.txt|.|20
+saves salmon fajitas|.|WET5231.txt|.|20
+slow chat|.|WET4150.txt|.|40
+saves crock pot|.|WET5232.txt|.|18|.|WET5231.txt|.|20
+crock pot|.|WET5232.txt|.|18
+programming visual|.|WET4150.txt|.|43
+codeguru|.|WET4150.txt|.|68
+pot|.|WET5232.txt|.|27|.|WET5231.txt|.|30|.|WET3685.txt|.|20
+saves|.|WET5232.txt|.|369|.|WET5231.txt|.|410
+stuffed poblano peppers|.|WET5231.txt|.|20
+cake|.|WET954.txt|.|29|.|WET5231.txt|.|20|.|WET77.txt|.|24
+saves champagne|.|WET5232.txt|.|18
+champagne|.|WET5232.txt|.|18
+visual|.|WET5721.txt|.|9|.|WET1700.txt|.|11|.|WET2200.txt|.|2|.|WET6221.txt|.|6|.|WET409.txt|.|83|.|WET4256.txt|.|20|.|WET511.txt|.|8|.|WET788.txt|.|11|.|WET5446.txt|.|11|.|WET288.txt|.|18|.|WET4714.txt|.|1|.|WET4031.txt|.|16|.|WET4150.txt|.|133|.|WET1548.txt|.|19|.|WET1701.txt|.|8|.|WET2701.txt|.|21|.|WET5447.txt|.|2|.|WET2143.txt|.|134|.|WET1135.txt|.|18|.|WET4431.txt|.|6|.|WET1195.txt|.|2|.|WET1699.txt|.|11|.|WET1220.txt|.|2|.|WET5445.txt|.|11|.|WET3077.txt|.|4|.|WET3927.txt|.|3|.|WET3254.txt|.|4|.|WET2941.txt|.|3|.|WET5298.txt|.|14|.|WET23.txt|.|2|.|WET5391.txt|.|15|.|WET789.txt|.|11|.|WET3724.txt|.|3
+visual basic|.|WET4150.txt|.|72|.|WET2701.txt|.|20|.|WET409.txt|.|38
+saves crock|.|WET5232.txt|.|18
+codeguru forums|.|WET4150.txt|.|12
+programming|.|WET2130.txt|.|91|.|WET4150.txt|.|121|.|WET756.txt|.|56|.|WET1716.txt|.|14|.|WET4497.txt|.|42|.|WET2128.txt|.|33
+crock|.|WET5232.txt|.|18|.|WET5231.txt|.|20
+slow cooker|.|WET1148.txt|.|52|.|WET5232.txt|.|27|.|WET1481.txt|.|27
+peppers|.|WET5231.txt|.|20
+fajitas|.|WET5231.txt|.|22
+saves dirt cake|.|WET5231.txt|.|20
+dirt|.|WET1577.txt|.|10|.|WET5231.txt|.|20
+salmon|.|WET5231.txt|.|20
+stuffed|.|WET5231.txt|.|21
+san francisco bay|.|WET1481.txt|.|15
+slow|.|WET4150.txt|.|40|.|WET1148.txt|.|53|.|WET5232.txt|.|36|.|WET1481.txt|.|36|.|WET5231.txt|.|40
+dish|.|WET1481.txt|.|27
+cooker|.|WET1148.txt|.|54|.|WET5232.txt|.|27|.|WET1481.txt|.|27|.|WET5231.txt|.|30
+saves slow cooker|.|WET5231.txt|.|20
+chat|.|WET4858.txt|.|30|.|WET4150.txt|.|56|.|WET4860.txt|.|15|.|WET4369.txt|.|25|.|WET5303.txt|.|54|.|WET3606.txt|.|31
+restaurants|.|WET1481.txt|.|54|.|WET1654.txt|.|30
+saves stuffed poblano|.|WET5231.txt|.|20
+basic|.|WET4150.txt|.|72|.|WET2701.txt|.|38|.|WET4824.txt|.|6|.|WET409.txt|.|38|.|WET631.txt|.|14|.|WET2157.txt|.|11

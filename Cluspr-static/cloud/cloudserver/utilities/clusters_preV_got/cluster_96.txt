@@ -1,0 +1,12 @@
+96
+valid|.|WET1532.txt|.|11
+formatdate|.|WET4492.txt|.|12
+showlevelbadge level|.|WET4492.txt|.|4
+texas shootout|.|WET701.txt|.|30
+era|.|WET921.txt|.|76
+alibris|.|WET4892.txt|.|157
+television|.|WET4256.txt|.|56|.|WET4699.txt|.|18
+belts|.|WET5124.txt|.|54|.|WET2409.txt|.|32|.|WET2153.txt|.|42
+order images digital collections|.|WET214.txt|.|11
+bhl collections|.|WET3841.txt|.|256
+dead space|.|WET5611.txt|.|12

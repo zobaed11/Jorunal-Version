@@ -1,0 +1,12 @@
+318
+massa|.|WET5555.txt|.|26
+who drug information|.|WET3794.txt|.|171
+twins|.|WET1238.txt|.|21
+save save|.|WET1747.txt|.|41
+names|.|WET1238.txt|.|92|.|WET1237.txt|.|67|.|WET4991.txt|.|44|.|WET3794.txt|.|110|.|WET1239.txt|.|15|.|WET3434.txt|.|110
+opinionated|.|WET1237.txt|.|1|.|WET5082.txt|.|1
+geneva|.|WET3794.txt|.|150|.|WET3187.txt|.|24
+baby names|.|WET1238.txt|.|54|.|WET1237.txt|.|34|.|WET4991.txt|.|32|.|WET1239.txt|.|13
+male|.|WET3434.txt|.|3
+ovulation|.|WET1238.txt|.|10
+who|.|WET3794.txt|.|228|.|WET751.txt|.|30|.|WET4180.txt|.|47|.|WET5617.txt|.|55|.|WET789.txt|.|36|.|WET788.txt|.|39

@@ -1,0 +1,12 @@
+719
+scoring split stats|.|WET5205.txt|.|4
+dark souls|.|WET5622.txt|.|42
+forums forums|.|WET2557.txt|.|11
+painting|.|WET1307.txt|.|62
+republican|.|WET4519.txt|.|31|.|WET559.txt|.|14|.|WET4316.txt|.|15
+reading local news|.|WET4316.txt|.|9
+white swan|.|WET4896.txt|.|21
+vermont|.|WET4574.txt|.|97|.|WET835.txt|.|51
+duncan|.|WET2792.txt|.|26
+azan|.|WET2112.txt|.|48|.|WET2113.txt|.|41
+prophetic|.|WET5211.txt|.|18

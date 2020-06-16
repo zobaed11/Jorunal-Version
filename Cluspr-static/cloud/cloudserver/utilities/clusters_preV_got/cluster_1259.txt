@@ -1,0 +1,12 @@
+1259
+rammed hard|.|WET2935.txt|.|4
+invitational|.|WET3770.txt|.|9
+cancel submit|.|WET2935.txt|.|8
+report a bug|.|WET739.txt|.|11
+report|.|WET4132.txt|.|20|.|WET1956.txt|.|15|.|WET1663.txt|.|55|.|WET626.txt|.|66|.|WET169.txt|.|43|.|WET2935.txt|.|79|.|WET2896.txt|.|42|.|WET4680.txt|.|16|.|WET4050.txt|.|59|.|WET5252.txt|.|11|.|WET3916.txt|.|74|.|WET4214.txt|.|65|.|WET393.txt|.|28|.|WET739.txt|.|11|.|WET5112.txt|.|70|.|WET5315.txt|.|27|.|WET5393.txt|.|304|.|WET6248.txt|.|84|.|WET1627.txt|.|58|.|WET5029.txt|.|105|.|WET3770.txt|.|48|.|WET4682.txt|.|42|.|WET1809.txt|.|42|.|WET5440.txt|.|21|.|WET2454.txt|.|40|.|WET2776.txt|.|155|.|WET5179.txt|.|279|.|WET1776.txt|.|37|.|WET2605.txt|.|49
+inappropriate|.|WET5440.txt|.|21|.|WET2935.txt|.|20
+reports filed|.|WET2776.txt|.|10
+rammed|.|WET2935.txt|.|4
+gaming gaming|.|WET1627.txt|.|8
+race results|.|WET3770.txt|.|10
+bill murray|.|WET626.txt|.|19

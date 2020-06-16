@@ -1,0 +1,12 @@
+99
+reference library|.|WET1925.txt|.|18|.|WET6100.txt|.|14
+lodging|.|WET2896.txt|.|55
+suppliers products|.|WET1925.txt|.|9
+wait time|.|WET73.txt|.|15|.|WET1047.txt|.|59|.|WET1048.txt|.|25
+state cross|.|WET1213.txt|.|36
+illumination|.|WET2853.txt|.|4
+slave project|.|WET4033.txt|.|202
+surgery subject|.|WET6166.txt|.|8
+hr|.|WET1256.txt|.|44|.|WET3049.txt|.|46
+pidns|.|WET4336.txt|.|19
+drug interactions source|.|WET2807.txt|.|16

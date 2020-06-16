@@ -1,0 +1,12 @@
+649
+horoscopes|.|WET2906.txt|.|33
+ben harper|.|WET5032.txt|.|6
+marriott rewards|.|WET6056.txt|.|84|.|WET2314.txt|.|21|.|WET2312.txt|.|121
+card marriott|.|WET2313.txt|.|8
+patterns|.|WET5930.txt|.|21|.|WET1392.txt|.|23|.|WET5141.txt|.|87|.|WET2642.txt|.|59|.|WET2722.txt|.|91|.|WET1391.txt|.|88
+rescue missions|.|WET1132.txt|.|3
+events overview|.|WET2313.txt|.|8
+facebook using twitter|.|WET4792.txt|.|22
+fairfield|.|WET6056.txt|.|31|.|WET2314.txt|.|22
+michel|.|WET4364.txt|.|17
+wow|.|WET4820.txt|.|34

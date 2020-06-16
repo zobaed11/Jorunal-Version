@@ -1,0 +1,12 @@
+682
+races put|.|WET3072.txt|.|6
+telephone number|.|WET927.txt|.|20
+bias|.|WET371.txt|.|3|.|WET791.txt|.|2|.|WET3438.txt|.|2|.|WET3548.txt|.|2|.|WET4184.txt|.|2|.|WET745.txt|.|3|.|WET1403.txt|.|2|.|WET948.txt|.|2|.|WET1048.txt|.|2|.|WET1764.txt|.|2|.|WET3883.txt|.|2|.|WET2366.txt|.|2|.|WET139.txt|.|2|.|WET425.txt|.|2|.|WET3540.txt|.|21|.|WET3583.txt|.|2|.|WET3722.txt|.|2|.|WET2363.txt|.|2|.|WET2401.txt|.|3|.|WET1321.txt|.|2|.|WET6223.txt|.|2|.|WET5028.txt|.|2|.|WET4483.txt|.|6|.|WET2100.txt|.|2|.|WET3749.txt|.|3|.|WET2492.txt|.|2|.|WET864.txt|.|3|.|WET1984.txt|.|2|.|WET3547.txt|.|3|.|WET3941.txt|.|1|.|WET2038.txt|.|2|.|WET6034.txt|.|3|.|WET5140.txt|.|2
+lis|.|WET4380.txt|.|47
+fume|.|WET4363.txt|.|51
+juros|.|WET3931.txt|.|74|.|WET4334.txt|.|103
+dogs|.|WET4050.txt|.|110|.|WET1666.txt|.|95|.|WET2639.txt|.|38|.|WET307.txt|.|124
+times independent|.|WET655.txt|.|10
+telephone|.|WET927.txt|.|20
+lapd|.|WET5959.txt|.|27
+lil|.|WET1791.txt|.|52|.|WET2736.txt|.|11

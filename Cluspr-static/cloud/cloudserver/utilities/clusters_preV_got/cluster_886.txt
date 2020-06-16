@@ -1,0 +1,12 @@
+886
+current sports|.|WET4813.txt|.|12
+groups community|.|WET5962.txt|.|2
+corning|.|WET5258.txt|.|97
+rural|.|WET2804.txt|.|63
+infantil|.|WET910.txt|.|18
+current game|.|WET2282.txt|.|32
+sparrow|.|WET3152.txt|.|12
+locator|.|WET2804.txt|.|21
+played|.|WET2947.txt|.|13|.|WET5104.txt|.|26
+current student|.|WET3591.txt|.|161
+player|.|WET2023.txt|.|32|.|WET5205.txt|.|20|.|WET4985.txt|.|14|.|WET2796.txt|.|1|.|WET5477.txt|.|39|.|WET2624.txt|.|10|.|WET3029.txt|.|33|.|WET4729.txt|.|7|.|WET4693.txt|.|87|.|WET5961.txt|.|11|.|WET4936.txt|.|18|.|WET5936.txt|.|34

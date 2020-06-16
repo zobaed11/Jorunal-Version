@@ -1,0 +1,12 @@
+20
+block hat|.|WET5452.txt|.|13
+hat occupational|.|WET1706.txt|.|15
+wide brim hat|.|WET5452.txt|.|25
+shawl|.|WET1706.txt|.|47
+scarf|.|WET1706.txt|.|65
+top hat|.|WET1706.txt|.|45
+hat|.|WET4992.txt|.|6|.|WET4872.txt|.|5|.|WET1706.txt|.|1696|.|WET5452.txt|.|1309|.|WET921.txt|.|87
+hat wide|.|WET5452.txt|.|13
+shawl scarf|.|WET1706.txt|.|30
+sun block|.|WET5452.txt|.|13
+pontiac fiero|.|WET3916.txt|.|48

@@ -1,0 +1,12 @@
+active learning|.|WET4015.txt|.|2
+learning activity|.|WET4977.txt|.|3
+exercises|.|WET3665.txt|.|60
+flash storage|.|WET4258.txt|.|2
+techniques|.|WET1040.txt|.|3
+learning community|.|WET5419.txt|.|1
+peel|.|WET4490.txt|.|3
+learning|.|WET4258.txt|.|5|.|WET3665.txt|.|148|.|WET4490.txt|.|11|.|WET2318.txt|.|8|.|WET4593.txt|.|7|.|WET2849.txt|.|8|.|WET3411.txt|.|72|.|WET1040.txt|.|14|.|WET4015.txt|.|30|.|WET3410.txt|.|81|.|WET1733.txt|.|188|.|WET3367.txt|.|7|.|WET4977.txt|.|15|.|WET5419.txt|.|7
+enjoy using|.|WET1733.txt|.|100
+machine learning techniques|.|WET1040.txt|.|2
+motor skills|.|WET1733.txt|.|86
+communication skills|.|WET1733.txt|.|84

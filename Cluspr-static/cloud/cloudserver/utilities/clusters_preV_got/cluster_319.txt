@@ -1,0 +1,12 @@
+319
+worry|.|WET4824.txt|.|11
+mpc|.|WET4650.txt|.|34
+rss feeds|.|WET5402.txt|.|20|.|WET5383.txt|.|10
+mph|.|WET3260.txt|.|159
+slow chat|.|WET4150.txt|.|40
+trina turk|.|WET3142.txt|.|27
+antal varer|.|WET5055.txt|.|12
+soles|.|WET2157.txt|.|14
+maxi briefs|.|WET2157.txt|.|15
+codeguru forums|.|WET4150.txt|.|12
+heavenly|.|WET2157.txt|.|14

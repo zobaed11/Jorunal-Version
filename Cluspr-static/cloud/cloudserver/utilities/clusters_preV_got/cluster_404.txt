@@ -1,0 +1,12 @@
+404
+telstra media|.|WET2523.txt|.|15
+asked|.|WET4993.txt|.|16|.|WET729.txt|.|51|.|WET1067.txt|.|20|.|WET191.txt|.|54
+vacuum|.|WET3759.txt|.|125|.|WET6299.txt|.|54|.|WET6298.txt|.|154
+fedora|.|WET1985.txt|.|9
+sun hats|.|WET1546.txt|.|12
+hats|.|WET4612.txt|.|27|.|WET917.txt|.|64|.|WET4654.txt|.|80|.|WET1546.txt|.|62|.|WET1985.txt|.|69|.|WET3275.txt|.|24|.|WET4658.txt|.|34
+tunics sun|.|WET1546.txt|.|1
+hats fedora|.|WET1985.txt|.|3
+business directory|.|WET2443.txt|.|8|.|WET2577.txt|.|12
+pants dresses|.|WET1546.txt|.|1
+women new|.|WET1546.txt|.|6

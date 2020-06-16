@@ -1,0 +1,12 @@
+1282
+airsoft|.|WET1139.txt|.|334|.|WET4885.txt|.|1287|.|WET1138.txt|.|1168
+industrial|.|WET5693.txt|.|7
+special orders|.|WET5693.txt|.|18|.|WET1953.txt|.|10
+transportation issues and global|.|WET2773.txt|.|372
+display|.|WET6023.txt|.|14|.|WET2985.txt|.|80|.|WET6021.txt|.|14
+advocacy|.|WET2776.txt|.|40
+name|.|WET2328.txt|.|18|.|WET3582.txt|.|10|.|WET279.txt|.|9|.|WET1531.txt|.|34|.|WET3087.txt|.|22|.|WET2794.txt|.|28|.|WET2985.txt|.|232|.|WET2608.txt|.|48|.|WET6234.txt|.|65|.|WET934.txt|.|9|.|WET5693.txt|.|108|.|WET3469.txt|.|10|.|WET4439.txt|.|8|.|WET1828.txt|.|16|.|WET2828.txt|.|94|.|WET2261.txt|.|13|.|WET4990.txt|.|129|.|WET77.txt|.|32|.|WET6235.txt|.|32|.|WET5024.txt|.|986|.|WET4223.txt|.|14|.|WET1953.txt|.|60|.|WET1240.txt|.|31|.|WET2944.txt|.|29|.|WET3643.txt|.|23|.|WET5085.txt|.|14|.|WET1042.txt|.|36|.|WET3348.txt|.|402|.|WET2094.txt|.|22|.|WET396.txt|.|14|.|WET3387.txt|.|21|.|WET471.txt|.|23
+mailing list|.|WET5992.txt|.|96|.|WET3652.txt|.|13
+ben|.|WET5032.txt|.|12|.|WET103.txt|.|13
+no results|.|WET2944.txt|.|9
+welsh|.|WET5494.txt|.|20

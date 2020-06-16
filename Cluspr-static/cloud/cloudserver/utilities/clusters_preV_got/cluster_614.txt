@@ -1,0 +1,12 @@
+614
+recycled|.|WET2592.txt|.|71
+paper|.|WET3691.txt|.|13|.|WET2593.txt|.|167|.|WET3614.txt|.|7|.|WET5071.txt|.|50|.|WET2721.txt|.|272|.|WET2592.txt|.|193|.|WET1989.txt|.|12|.|WET2154.txt|.|20
+store see|.|WET2721.txt|.|18
+towels|.|WET2721.txt|.|50|.|WET5615.txt|.|4
+cardstock envelope|.|WET2592.txt|.|30
+office supplies|.|WET2721.txt|.|57
+paper stock|.|WET2592.txt|.|31
+larger images front|.|WET2592.txt|.|26
+cardstock|.|WET2592.txt|.|37
+boy cards baby|.|WET2593.txt|.|11
+christmas card|.|WET2592.txt|.|37

@@ -1,0 +1,12 @@
+347
+total|.|WET983.txt|.|17|.|WET1831.txt|.|65|.|WET1798.txt|.|53|.|WET846.txt|.|74|.|WET5254.txt|.|80|.|WET3704.txt|.|30
+polymerase|.|WET5254.txt|.|145
+protein|.|WET5668.txt|.|113|.|WET1928.txt|.|45|.|WET1503.txt|.|242|.|WET2705.txt|.|32|.|WET5254.txt|.|349|.|WET5911.txt|.|204
+specificity|.|WET2705.txt|.|5
+bisphosphoglycerate|.|WET5911.txt|.|15
+sirna validation|.|WET2705.txt|.|4
+dependent|.|WET5911.txt|.|1
+validation|.|WET2705.txt|.|10
+seq|.|WET5254.txt|.|5
+protein atlas|.|WET2705.txt|.|4
+phospho|.|WET5911.txt|.|114

@@ -1,0 +1,12 @@
+9
+linguistics|.|WET2693.txt|.|33
+birmingham|.|WET101.txt|.|83|.|WET1319.txt|.|57|.|WET5069.txt|.|92|.|WET3847.txt|.|111
+ultimate variety|.|WET1107.txt|.|61|.|WET3099.txt|.|60
+donations|.|WET5212.txt|.|22
+cadet|.|WET1583.txt|.|69
+developmental biology|.|WET273.txt|.|7
+pride|.|WET1940.txt|.|30|.|WET2712.txt|.|184|.|WET2713.txt|.|152|.|WET1795.txt|.|21
+meal planning|.|WET918.txt|.|13
+final judgment|.|WET1813.txt|.|36
+buddy|.|WET2083.txt|.|20
+sonicfire|.|WET2908.txt|.|59

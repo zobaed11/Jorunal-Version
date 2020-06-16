@@ -1,0 +1,12 @@
+468
+icelandic|.|WET336.txt|.|816
+mime unnamed|.|WET4357.txt|.|10
+bipolar disorder|.|WET5738.txt|.|13
+envoy|.|WET5425.txt|.|29
+gift basket|.|WET2063.txt|.|37
+hues|.|WET3724.txt|.|24
+compare crown|.|WET3270.txt|.|15
+national polls|.|WET4271.txt|.|16
+aldridge|.|WET944.txt|.|15
+ce message|.|WET4134.txt|.|133
+demographics|.|WET4003.txt|.|12

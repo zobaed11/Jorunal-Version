@@ -1,0 +1,12 @@
+861
+top school|.|WET4517.txt|.|3
+searches|.|WET1321.txt|.|50|.|WET2614.txt|.|10
+anxiety|.|WET5241.txt|.|25
+rooms|.|WET1542.txt|.|20|.|WET4957.txt|.|42|.|WET4591.txt|.|48
+pizza sauce|.|WET2957.txt|.|10
+accessories compassion fund|.|WET2144.txt|.|11
+tickets last minute|.|WET336.txt|.|379
+professional medical advice|.|WET2713.txt|.|18
+jeu|.|WET4169.txt|.|11
+crap we missed|.|WET3083.txt|.|23
+pulls|.|WET2185.txt|.|22|.|WET3208.txt|.|44

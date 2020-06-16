@@ -1,0 +1,12 @@
+14
+school man|.|WET1730.txt|.|53|.|WET5471.txt|.|79
+bachelors|.|WET1730.txt|.|214|.|WET5471.txt|.|365
+woman|.|WET1730.txt|.|492|.|WET567.txt|.|22|.|WET1056.txt|.|48|.|WET5647.txt|.|24|.|WET5471.txt|.|844
+associates|.|WET1730.txt|.|97|.|WET5471.txt|.|158
+public transport|.|WET1056.txt|.|7
+white associates man|.|WET5471.txt|.|38
+masters woman|.|WET1730.txt|.|59
+masters|.|WET1730.txt|.|104|.|WET2117.txt|.|4|.|WET5471.txt|.|139
+transport|.|WET1056.txt|.|8
+man member|.|WET1730.txt|.|348|.|WET5471.txt|.|524
+white masters|.|WET5471.txt|.|106

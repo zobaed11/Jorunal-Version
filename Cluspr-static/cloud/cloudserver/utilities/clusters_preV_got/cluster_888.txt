@@ -1,0 +1,12 @@
+888
+tw fb|.|WET2023.txt|.|60
+environmental|.|WET5728.txt|.|11|.|WET123.txt|.|4|.|WET6220.txt|.|30|.|WET4233.txt|.|89
+managed|.|WET2365.txt|.|5|.|WET1574.txt|.|5|.|WET306.txt|.|9|.|WET1122.txt|.|4|.|WET5322.txt|.|4|.|WET3415.txt|.|18|.|WET3867.txt|.|4
+help center|.|WET2713.txt|.|18|.|WET3585.txt|.|19
+redwood falls|.|WET2756.txt|.|16
+pens ballpoint pens|.|WET2662.txt|.|12
+vizion|.|WET6066.txt|.|15
+ballpoint|.|WET2662.txt|.|12
+professional|.|WET3706.txt|.|18|.|WET2072.txt|.|21|.|WET2713.txt|.|18|.|WET1122.txt|.|64|.|WET5427.txt|.|13|.|WET2662.txt|.|18|.|WET5207.txt|.|17|.|WET4796.txt|.|5|.|WET2337.txt|.|25|.|WET2643.txt|.|28|.|WET5802.txt|.|13|.|WET4233.txt|.|90
+higher|.|WET2590.txt|.|18|.|WET4233.txt|.|155
+lois|.|WET5.txt|.|16

@@ -1,0 +1,12 @@
+893
+dispensing device|.|WET5686.txt|.|38
+advanced search find results|.|WET4029.txt|.|11
+lexington city|.|WET4296.txt|.|30
+underwater accessories|.|WET2817.txt|.|4
+speech|.|WET1053.txt|.|5|.|WET4364.txt|.|5
+div add|.|WET293.txt|.|11|.|WET4029.txt|.|11
+wikimedia commons|.|WET3416.txt|.|18
+archival|.|WET4296.txt|.|28|.|WET3768.txt|.|16|.|WET4785.txt|.|2|.|WET4029.txt|.|57|.|WET5371.txt|.|2|.|WET3404.txt|.|1|.|WET285.txt|.|46|.|WET2038.txt|.|2|.|WET2645.txt|.|1|.|WET2816.txt|.|102|.|WET2817.txt|.|12|.|WET4327.txt|.|42
+search by date|.|WET282.txt|.|16|.|WET4029.txt|.|22|.|WET292.txt|.|22|.|WET3933.txt|.|22|.|WET228.txt|.|22|.|WET286.txt|.|22|.|WET177.txt|.|16
+cabinet|.|WET2185.txt|.|69|.|WET250.txt|.|2|.|WET746.txt|.|66|.|WET5923.txt|.|87
+searching collections|.|WET4029.txt|.|11

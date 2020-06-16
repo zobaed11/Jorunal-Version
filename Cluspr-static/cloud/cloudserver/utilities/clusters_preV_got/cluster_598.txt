@@ -1,0 +1,12 @@
+598
+find a dealer|.|WET5467.txt|.|18
+roseville|.|WET5204.txt|.|42
+pleasant|.|WET6152.txt|.|12|.|WET5204.txt|.|16|.|WET6151.txt|.|40
+insider rewards|.|WET5249.txt|.|12
+acura|.|WET5467.txt|.|23
+cars new cars|.|WET4978.txt|.|9
+new cars used|.|WET4978.txt|.|17
+dealer|.|WET1497.txt|.|41|.|WET4978.txt|.|68|.|WET5204.txt|.|11|.|WET3251.txt|.|16|.|WET5467.txt|.|57|.|WET1408.txt|.|27|.|WET200.txt|.|6|.|WET5249.txt|.|24
+new cars used cars|.|WET4978.txt|.|17
+pay|.|WET3582.txt|.|2|.|WET3524.txt|.|30|.|WET1408.txt|.|27|.|WET3601.txt|.|51
+interested|.|WET3411.txt|.|152|.|WET5467.txt|.|27|.|WET3410.txt|.|171

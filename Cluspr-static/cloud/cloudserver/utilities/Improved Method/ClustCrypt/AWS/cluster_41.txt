@@ -1,0 +1,8 @@
+loss|.|WET941.txt|.|4|.|WET34.txt|.|27|.|WET5809.txt|.|81|.|WET4983.txt|.|12|.|WET2067.txt|.|99|.|WET2937.txt|.|20|.|WET2277.txt|.|22|.|WET5808.txt|.|103
+blood sugar cholesterol|.|WET2067.txt|.|88
+joints|.|WET2067.txt|.|88|.|WET5808.txt|.|89
+mood stress weight|.|WET2067.txt|.|88|.|WET5808.txt|.|88
+weight loss|.|WET5809.txt|.|81|.|WET2937.txt|.|20|.|WET2277.txt|.|22
+weight|.|WET34.txt|.|31|.|WET5809.txt|.|97|.|WET2067.txt|.|116|.|WET2937.txt|.|126|.|WET2277.txt|.|22|.|WET5808.txt|.|126
+privileges to access|.|WET2277.txt|.|9
+news research|.|WET34.txt|.|8

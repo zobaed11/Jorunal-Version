@@ -1,0 +1,12 @@
+616
+endpoint|.|WET131.txt|.|2|.|WET1671.txt|.|2|.|WET3575.txt|.|4|.|WET265.txt|.|2|.|WET4212.txt|.|2|.|WET5639.txt|.|3|.|WET510.txt|.|2|.|WET1647.txt|.|4
+mentor|.|WET2645.txt|.|60
+lab coats|.|WET2839.txt|.|169
+appreciating|.|WET3575.txt|.|1831
+hedge funds|.|WET6288.txt|.|132
+like other stuff|.|WET4530.txt|.|10
+liked pictures|.|WET2181.txt|.|12
+ring sizer|.|WET4607.txt|.|20
+talklocal weddingslocal photoslocal|.|WET3267.txt|.|20
+funny|.|WET3575.txt|.|1832|.|WET4530.txt|.|82|.|WET4459.txt|.|15|.|WET3376.txt|.|36|.|WET2181.txt|.|72|.|WET789.txt|.|88|.|WET4737.txt|.|88|.|WET788.txt|.|88
+gratuit depuis|.|WET1618.txt|.|20

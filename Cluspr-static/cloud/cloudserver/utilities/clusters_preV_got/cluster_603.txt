@@ -1,0 +1,12 @@
+603
+reviewed query|.|WET1857.txt|.|43
+perform predictive|.|WET1945.txt|.|3
+edit delete|.|WET1857.txt|.|51
+view history|.|WET1857.txt|.|43
+reference value|.|WET1945.txt|.|171
+perform|.|WET1945.txt|.|14
+physiological characteristic|.|WET1945.txt|.|200
+predictive|.|WET1945.txt|.|7
+compositions|.|WET1945.txt|.|4|.|WET3185.txt|.|2|.|WET5506.txt|.|2|.|WET6166.txt|.|2
+value|.|WET1945.txt|.|560|.|WET1878.txt|.|2|.|WET2504.txt|.|10|.|WET3357.txt|.|11|.|WET3207.txt|.|22|.|WET2456.txt|.|39|.|WET1857.txt|.|37|.|WET1632.txt|.|4
+characteristic|.|WET1945.txt|.|283

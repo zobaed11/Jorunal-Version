@@ -1,0 +1,12 @@
+262
+quiz|.|WET1137.txt|.|11|.|WET4243.txt|.|85|.|WET494.txt|.|174|.|WET495.txt|.|136
+open forum|.|WET4242.txt|.|220|.|WET494.txt|.|200|.|WET495.txt|.|160
+residential|.|WET4242.txt|.|94
+forum discussion|.|WET4242.txt|.|198|.|WET4243.txt|.|90|.|WET494.txt|.|180|.|WET495.txt|.|144
+commercial hvac educational|.|WET4242.txt|.|44
+educational|.|WET3047.txt|.|11|.|WET3966.txt|.|2|.|WET2970.txt|.|9|.|WET4242.txt|.|198|.|WET3367.txt|.|14|.|WET4990.txt|.|11|.|WET3048.txt|.|3|.|WET219.txt|.|6
+reference information|.|WET4242.txt|.|187|.|WET494.txt|.|170|.|WET495.txt|.|136
+discussion commercial hvac|.|WET4242.txt|.|44
+inter|.|WET389.txt|.|1|.|WET2070.txt|.|11
+articles quiz|.|WET4243.txt|.|85|.|WET494.txt|.|170|.|WET495.txt|.|136
+technical information|.|WET4243.txt|.|85|.|WET494.txt|.|172|.|WET495.txt|.|136

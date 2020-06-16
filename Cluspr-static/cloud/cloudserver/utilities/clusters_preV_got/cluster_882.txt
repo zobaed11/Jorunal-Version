@@ -1,0 +1,12 @@
+882
+tmz|.|WET3113.txt|.|189|.|WET3115.txt|.|24
+inclusion|.|WET4693.txt|.|20
+qos|.|WET4936.txt|.|2
+latest version|.|WET5936.txt|.|15
+tex|.|WET4687.txt|.|58|.|WET4693.txt|.|20
+ranked|.|WET3029.txt|.|10|.|WET999.txt|.|4|.|WET5711.txt|.|10
+min al west|.|WET4693.txt|.|20
+tex nl east|.|WET4693.txt|.|20
+libreoffice|.|WET739.txt|.|3
+search player|.|WET3029.txt|.|10
+stats advertise|.|WET5205.txt|.|8

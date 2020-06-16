@@ -1,0 +1,12 @@
+396
+pinot|.|WET3296.txt|.|42|.|WET3297.txt|.|57
+seconds|.|WET2094.txt|.|11|.|WET1595.txt|.|82
+reg|.|WET3296.txt|.|138|.|WET5432.txt|.|11
+valle|.|WET1744.txt|.|6
+vacanze|.|WET1744.txt|.|44
+tractors classic trucks|.|WET3345.txt|.|11
+emulation|.|WET5242.txt|.|3|.|WET3636.txt|.|2|.|WET1744.txt|.|20|.|WET6310.txt|.|2|.|WET1922.txt|.|1
+noir|.|WET3296.txt|.|24|.|WET3297.txt|.|33
+venezia|.|WET1744.txt|.|5
+tip|.|WET3113.txt|.|21|.|WET5879.txt|.|20|.|WET2139.txt|.|36|.|WET4652.txt|.|27|.|WET1595.txt|.|163
+bottle|.|WET3296.txt|.|193|.|WET2770.txt|.|22|.|WET6271.txt|.|35

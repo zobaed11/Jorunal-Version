@@ -1,0 +1,12 @@
+1294
+medicare part|.|WET295.txt|.|98
+maps videos|.|WET2103.txt|.|5
+intellectual property|.|WET2134.txt|.|25|.|WET575.txt|.|7
+drugs|.|WET1132.txt|.|12|.|WET295.txt|.|92
+calendar earnings|.|WET2310.txt|.|14
+builder store jobs|.|WET5801.txt|.|33
+professions|.|WET2057.txt|.|66|.|WET5802.txt|.|32
+personal|.|WET2310.txt|.|28|.|WET4463.txt|.|44|.|WET4204.txt|.|20|.|WET2057.txt|.|174|.|WET1018.txt|.|11|.|WET4052.txt|.|14|.|WET5801.txt|.|66|.|WET6085.txt|.|143|.|WET5539.txt|.|47|.|WET295.txt|.|3172|.|WET2340.txt|.|143|.|WET4485.txt|.|23|.|WET2341.txt|.|143|.|WET2058.txt|.|52|.|WET3625.txt|.|10|.|WET3214.txt|.|6|.|WET2134.txt|.|52|.|WET2103.txt|.|42|.|WET4806.txt|.|3|.|WET6084.txt|.|143|.|WET5739.txt|.|9|.|WET5802.txt|.|52|.|WET2088.txt|.|9|.|WET3499.txt|.|6|.|WET2342.txt|.|143|.|WET4317.txt|.|188|.|WET1835.txt|.|8|.|WET6083.txt|.|65|.|WET5351.txt|.|148|.|WET1152.txt|.|2|.|WET3838.txt|.|24|.|WET703.txt|.|6|.|WET4529.txt|.|18
+school of law|.|WET4317.txt|.|13
+career guide nutrition|.|WET2057.txt|.|22
+medicare|.|WET295.txt|.|410

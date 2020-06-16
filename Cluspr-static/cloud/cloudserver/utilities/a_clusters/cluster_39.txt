@@ -1,0 +1,29 @@
+39
+tolerant networking|.|rfc6259.txt|.|1|.|rfc4838.txt|.|6
+security protocol|.|rfc4565.txt|.|9|.|rfc4705.txt|.|12|.|rfc6257.txt|.|66
+tolerant|.|rfc6259.txt|.|1|.|rfc4838.txt|.|17|.|rfc4981.txt|.|4
+bab|.|rfc6257.txt|.|71
+nodes in a sensor|.|rfc5050.txt|.|1
+hoc registry|.|rfc6255.txt|.|5
+networking architecture|.|rfc4838.txt|.|36
+bundle processing|.|rfc6260.txt|.|3
+delay tolerant networking|.|rfc6259.txt|.|1|.|rfc4838.txt|.|5
+metadata that is carried|.|rfc6258.txt|.|2
+bundle nodes|.|rfc5050.txt|.|16
+bundle layer|.|rfc4838.txt|.|29
+primary block|.|rfc6260.txt|.|10
+bundle|.|rfc5050.txt|.|608|.|rfc2125.txt|.|37|.|rfc4290.txt|.|29|.|rfc2701.txt|.|39|.|rfc4838.txt|.|150|.|rfc2494.txt|.|13|.|rfc3020.txt|.|143|.|rfc2961.txt|.|47|.|rfc6260.txt|.|64|.|rfc6258.txt|.|70|.|rfc6255.txt|.|50|.|rfc6257.txt|.|434|.|rfc6107.txt|.|40|.|rfc4410.txt|.|71
+additional information|.|rfc6258.txt|.|5
+accept custody|.|rfc5050.txt|.|7
+carried|.|rfc2935.txt|.|4|.|rfc6258.txt|.|5
+dtn nodes|.|rfc4838.txt|.|27
+secondary link|.|rfc2701.txt|.|6
+compressed bundle|.|rfc6260.txt|.|5
+status report|.|rfc5050.txt|.|44
+convergence layer|.|rfc6260.txt|.|1
+bundle protocol|.|rfc5050.txt|.|143|.|rfc6258.txt|.|18|.|rfc6255.txt|.|17|.|rfc6260.txt|.|19
+mfr december|.|rfc3020.txt|.|35
+custody transfer|.|rfc5050.txt|.|46|.|rfc4838.txt|.|36
+callback request|.|rfc2125.txt|.|1
+callback|.|rfc2125.txt|.|5
+extension block|.|rfc6258.txt|.|15

@@ -1,0 +1,27 @@
+15
+averagefaith|.|WET2323.txt|.|19
+mailshow|.|WET6063.txt|.|90|.|WET2323.txt|.|40|.|WET6064.txt|.|30
+view profilesend|.|WET2323.txt|.|40|.|WET6064.txt|.|30
+interest|.|WET9.txt|.|4|.|WET6063.txt|.|95|.|WET2323.txt|.|41|.|WET6064.txt|.|30
+terms|.|WET9.txt|.|29|.|WET3923.txt|.|2|.|WET5890.txt|.|33|.|WET4649.txt|.|8|.|WET6204.txt|.|2|.|WET791.txt|.|9|.|WET4790.txt|.|11|.|WET6162.txt|.|13|.|WET1337.txt|.|16
+online privacy policy|.|WET9.txt|.|26
+rights|.|WET714.txt|.|12|.|WET613.txt|.|5|.|WET3230.txt|.|32|.|WET3102.txt|.|21|.|WET3859.txt|.|10|.|WET219.txt|.|18|.|WET9.txt|.|55|.|WET5782.txt|.|50|.|WET1968.txt|.|9|.|WET3664.txt|.|5|.|WET1278.txt|.|10|.|WET3164.txt|.|12|.|WET1668.txt|.|16|.|WET2447.txt|.|13|.|WET4977.txt|.|8|.|WET1223.txt|.|38|.|WET1673.txt|.|10|.|WET26.txt|.|12|.|WET2630.txt|.|47|.|WET5922.txt|.|13|.|WET3305.txt|.|10|.|WET5890.txt|.|15|.|WET1238.txt|.|12|.|WET2039.txt|.|29|.|WET1715.txt|.|16|.|WET4918.txt|.|30|.|WET6207.txt|.|17
+term|.|WET3869.txt|.|3|.|WET2323.txt|.|7|.|WET3207.txt|.|2|.|WET6064.txt|.|4
+dating|.|WET6063.txt|.|142|.|WET4647.txt|.|67|.|WET1124.txt|.|25|.|WET17.txt|.|60|.|WET2740.txt|.|28|.|WET3765.txt|.|60|.|WET3813.txt|.|26|.|WET6064.txt|.|60|.|WET4870.txt|.|31|.|WET3764.txt|.|80
+relationship|.|WET2323.txt|.|7|.|WET2720.txt|.|4|.|WET6064.txt|.|5
+pics|.|WET3304.txt|.|27|.|WET2323.txt|.|14|.|WET3958.txt|.|24|.|WET3320.txt|.|54
+mailshow interest|.|WET2323.txt|.|40|.|WET6064.txt|.|30
+policy your ca|.|WET9.txt|.|26
+based|.|WET9.txt|.|2
+view profilesend mailshow interest|.|WET6063.txt|.|90
+speed dating|.|WET6064.txt|.|27
+personals|.|WET6063.txt|.|42|.|WET2322.txt|.|37
+profilesend mailshow|.|WET2323.txt|.|40|.|WET6064.txt|.|30
+seeking|.|WET6063.txt|.|69
+online dating|.|WET6063.txt|.|38
+interest more pics|.|WET2323.txt|.|14
+cove|.|WET2323.txt|.|28
+view profilesend mailshow|.|WET6063.txt|.|90
+long term relationship|.|WET2323.txt|.|3|.|WET6064.txt|.|3
+profilesend mailshow interest|.|WET6063.txt|.|90
+glen|.|WET2323.txt|.|28

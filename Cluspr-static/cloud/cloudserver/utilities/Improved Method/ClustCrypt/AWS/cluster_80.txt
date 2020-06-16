@@ -1,0 +1,4 @@
+cars|.|WET4979.txt|.|89|.|WET168.txt|.|182|.|WET3915.txt|.|243|.|WET1428.txt|.|130|.|WET5468.txt|.|42|.|WET1226.txt|.|45|.|WET200.txt|.|28|.|WET169.txt|.|115|.|WET5314.txt|.|11|.|WET1725.txt|.|103|.|WET1225.txt|.|75|.|WET4978.txt|.|117|.|WET4176.txt|.|200|.|WET5467.txt|.|112|.|WET6135.txt|.|22|.|WET3916.txt|.|211|.|WET5609.txt|.|9|.|WET1724.txt|.|113
+cars in tyler|.|WET169.txt|.|13
+mini white|.|WET3915.txt|.|8
+used red|.|WET3915.txt|.|15

@@ -1,0 +1,12 @@
+294
+standard|.|WET3013.txt|.|78|.|WET1546.txt|.|6|.|WET3014.txt|.|92|.|WET1007.txt|.|398|.|WET4750.txt|.|270|.|WET2922.txt|.|23
+standard shipping|.|WET1546.txt|.|6|.|WET1007.txt|.|398|.|WET4750.txt|.|270
+tasting|.|WET621.txt|.|9|.|WET3298.txt|.|25|.|WET6220.txt|.|30
+x swash puma|.|WET4750.txt|.|30
+uses|.|WET3623.txt|.|19|.|WET5184.txt|.|10
+sauce|.|WET2957.txt|.|11|.|WET2063.txt|.|72
+promoted|.|WET2700.txt|.|2|.|WET1711.txt|.|4|.|WET5974.txt|.|1|.|WET172.txt|.|1|.|WET3716.txt|.|1|.|WET5537.txt|.|1|.|WET5933.txt|.|1|.|WET5444.txt|.|2|.|WET3048.txt|.|2|.|WET277.txt|.|1|.|WET1834.txt|.|2|.|WET757.txt|.|2|.|WET3088.txt|.|1
+puma|.|WET4751.txt|.|166|.|WET1007.txt|.|887|.|WET4750.txt|.|765
+swash|.|WET4750.txt|.|30
+pending see|.|WET1886.txt|.|56
+free standard shipping details|.|WET4750.txt|.|135

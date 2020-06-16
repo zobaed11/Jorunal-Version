@@ -1,0 +1,12 @@
+1250
+information acmi|.|WET2627.txt|.|10
+daily box|.|WET1357.txt|.|40|.|WET5109.txt|.|38
+heise|.|WET2002.txt|.|68
+elementary|.|WET3926.txt|.|16|.|WET258.txt|.|10
+hombre|.|WET6117.txt|.|81
+basketball uniform|.|WET83.txt|.|11
+producer|.|WET3366.txt|.|40
+statussee|.|WET2945.txt|.|55|.|WET2944.txt|.|131
+gift sets|.|WET5493.txt|.|108|.|WET1756.txt|.|133|.|WET1757.txt|.|24|.|WET3351.txt|.|46
+winder|.|WET2838.txt|.|26
+walkthrough part|.|WET1460.txt|.|77

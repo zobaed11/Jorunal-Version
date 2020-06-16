@@ -1,0 +1,8 @@
+63
+stardock|.|WET3294.txt|.|105|.|WET3293.txt|.|385
+font software|.|WET3745.txt|.|18
+desktop|.|WET1166.txt|.|22|.|WET4809.txt|.|41|.|WET4199.txt|.|16|.|WET3294.txt|.|96|.|WET4295.txt|.|54|.|WET551.txt|.|60|.|WET3293.txt|.|352|.|WET3745.txt|.|72|.|WET4920.txt|.|5
+kde desktop|.|WET4295.txt|.|18|.|WET551.txt|.|20
+passport|.|WET551.txt|.|12
+xfce desktop|.|WET4295.txt|.|9
+icons|.|WET3293.txt|.|143

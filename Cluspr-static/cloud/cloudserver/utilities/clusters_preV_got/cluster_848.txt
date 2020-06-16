@@ -1,0 +1,12 @@
+848
+halloween|.|WET2826.txt|.|26
+cellar|.|WET621.txt|.|31
+chipsfrom|.|WET1477.txt|.|56
+projectors|.|WET2702.txt|.|120
+trading co|.|WET1478.txt|.|34|.|WET5229.txt|.|33|.|WET5228.txt|.|36
+chocolate bars|.|WET1478.txt|.|55|.|WET5230.txt|.|30
+truffle|.|WET5228.txt|.|18
+chocolate trading company|.|WET1477.txt|.|21
+barspersonalised chocolate boxespersonalised|.|WET1477.txt|.|11
+chocolate|.|WET1478.txt|.|428|.|WET5230.txt|.|244|.|WET1477.txt|.|748|.|WET5229.txt|.|356|.|WET5228.txt|.|623|.|WET2063.txt|.|71|.|WET4526.txt|.|77|.|WET2857.txt|.|37|.|WET1962.txt|.|45
+chocolate trading|.|WET5230.txt|.|30|.|WET5228.txt|.|57

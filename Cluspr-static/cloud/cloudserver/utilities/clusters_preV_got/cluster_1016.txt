@@ -1,0 +1,12 @@
+1016
+discuss the finer|.|WET3411.txt|.|72
+wanting to discuss the finer|.|WET3411.txt|.|72
+wanting|.|WET3411.txt|.|80
+overflow|.|WET647.txt|.|35|.|WET1041.txt|.|28|.|WET4387.txt|.|74|.|WET4678.txt|.|33|.|WET4388.txt|.|51|.|WET4083.txt|.|24|.|WET449.txt|.|9|.|WET45.txt|.|32|.|WET646.txt|.|73|.|WET4601.txt|.|42|.|WET340.txt|.|22|.|WET3411.txt|.|98|.|WET3410.txt|.|92|.|WET4369.txt|.|33|.|WET629.txt|.|35
+adoption|.|WET573.txt|.|876
+philadelphia|.|WET922.txt|.|55|.|WET873.txt|.|68|.|WET2024.txt|.|7|.|WET4658.txt|.|167|.|WET4499.txt|.|22
+finer|.|WET3411.txt|.|72
+finer points|.|WET3411.txt|.|72
+stack overflow|.|WET647.txt|.|35|.|WET45.txt|.|32|.|WET646.txt|.|73|.|WET4601.txt|.|42|.|WET340.txt|.|22|.|WET1041.txt|.|28|.|WET4387.txt|.|74|.|WET3410.txt|.|92|.|WET4388.txt|.|51|.|WET4369.txt|.|33|.|WET4083.txt|.|24|.|WET629.txt|.|35
+aab webisode|.|WET1931.txt|.|90
+communities|.|WET3809.txt|.|7|.|WET2317.txt|.|12|.|WET2336.txt|.|44|.|WET5490.txt|.|12|.|WET4387.txt|.|32|.|WET343.txt|.|6|.|WET45.txt|.|23|.|WET6079.txt|.|40|.|WET4532.txt|.|23|.|WET2140.txt|.|11|.|WET4369.txt|.|22|.|WET4270.txt|.|4|.|WET629.txt|.|24

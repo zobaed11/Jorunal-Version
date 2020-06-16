@@ -1,0 +1,12 @@
+674
+occasion|.|WET1915.txt|.|6
+theme parties|.|WET2599.txt|.|11
+play next|.|WET4465.txt|.|50
+finds|.|WET1915.txt|.|6
+unique gifts|.|WET1915.txt|.|13|.|WET5653.txt|.|22
+top occasions|.|WET1915.txt|.|6
+added to my list|.|WET4465.txt|.|2
+unique|.|WET1915.txt|.|13|.|WET5653.txt|.|22
+birthday occasion|.|WET1915.txt|.|6
+sku|.|WET2599.txt|.|105
+track orders|.|WET1915.txt|.|12|.|WET5653.txt|.|22

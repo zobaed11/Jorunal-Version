@@ -1,0 +1,12 @@
+957
+readership tracking|.|WET605.txt|.|110|.|WET4347.txt|.|110|.|WET606.txt|.|70
+disorder|.|WET3877.txt|.|17|.|WET5738.txt|.|17
+foaming|.|WET1260.txt|.|106
+health topics|.|WET5738.txt|.|12
+toddler|.|WET1238.txt|.|42
+drinking|.|WET4887.txt|.|10|.|WET5431.txt|.|22
+topics|.|WET2328.txt|.|9|.|WET4858.txt|.|43|.|WET5541.txt|.|41|.|WET5709.txt|.|12|.|WET5162.txt|.|16|.|WET1860.txt|.|14|.|WET4347.txt|.|27|.|WET4148.txt|.|11|.|WET606.txt|.|32|.|WET5368.txt|.|10|.|WET5738.txt|.|28|.|WET1238.txt|.|62|.|WET1471.txt|.|9
+pm news|.|WET4128.txt|.|68
+louisville leader|.|WET286.txt|.|194
+bipolar|.|WET5738.txt|.|15
+unanswered posts|.|WET5541.txt|.|10

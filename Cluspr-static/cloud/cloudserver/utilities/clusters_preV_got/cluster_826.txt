@@ -1,0 +1,12 @@
+826
+taha|.|WET3344.txt|.|15
+website|.|WET245.txt|.|9|.|WET3294.txt|.|39|.|WET4463.txt|.|37|.|WET2150.txt|.|43|.|WET2395.txt|.|6|.|WET4467.txt|.|28|.|WET3292.txt|.|65|.|WET3344.txt|.|52|.|WET5874.txt|.|100|.|WET3925.txt|.|17|.|WET3603.txt|.|31
+committee|.|WET2238.txt|.|101|.|WET3897.txt|.|17|.|WET4458.txt|.|75
+ultrasparc|.|WET4467.txt|.|15
+dora|.|WET2150.txt|.|22
+manage the service|.|WET2134.txt|.|4|.|WET5874.txt|.|7
+defendi|.|WET4759.txt|.|76
+directory book|.|WET2395.txt|.|2
+michigan state|.|WET4611.txt|.|19
+im test|.|WET5624.txt|.|21
+tax collector|.|WET4463.txt|.|8

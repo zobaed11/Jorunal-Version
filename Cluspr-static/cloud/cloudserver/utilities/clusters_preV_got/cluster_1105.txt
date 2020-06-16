@@ -1,0 +1,12 @@
+1105
+inglaterra|.|WET4091.txt|.|8
+beach county park|.|WET4272.txt|.|30
+pacific north|.|WET4272.txt|.|30
+dume|.|WET4272.txt|.|30
+nueva inglaterra|.|WET4091.txt|.|8
+state beach|.|WET4091.txt|.|24|.|WET4272.txt|.|60
+hurricane joaquin|.|WET4272.txt|.|30
+florida panhandle|.|WET3729.txt|.|50
+surf beach|.|WET4091.txt|.|6
+point|.|WET1139.txt|.|15|.|WET4272.txt|.|135
+joaquin|.|WET4272.txt|.|45

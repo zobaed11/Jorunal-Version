@@ -1,0 +1,12 @@
+1402
+gift|.|WET3358.txt|.|19|.|WET1756.txt|.|223|.|WET1757.txt|.|43|.|WET3357.txt|.|55|.|WET5234.txt|.|73|.|WET5103.txt|.|25|.|WET3316.txt|.|33|.|WET3147.txt|.|99|.|WET2995.txt|.|178|.|WET5625.txt|.|45|.|WET3014.txt|.|74|.|WET1278.txt|.|6|.|WET2138.txt|.|35|.|WET5376.txt|.|62|.|WET3244.txt|.|121|.|WET3685.txt|.|72|.|WET5554.txt|.|19|.|WET3351.txt|.|68|.|WET3597.txt|.|44|.|WET3297.txt|.|72|.|WET3649.txt|.|57|.|WET5679.txt|.|89|.|WET1569.txt|.|52|.|WET3572.txt|.|26|.|WET4453.txt|.|25|.|WET1941.txt|.|87|.|WET3298.txt|.|41|.|WET6008.txt|.|31|.|WET3127.txt|.|58|.|WET5493.txt|.|180|.|WET2450.txt|.|21|.|WET918.txt|.|27|.|WET4859.txt|.|24|.|WET1478.txt|.|68|.|WET713.txt|.|25|.|WET5744.txt|.|22|.|WET5417.txt|.|20|.|WET5125.txt|.|77|.|WET2921.txt|.|22|.|WET1815.txt|.|31|.|WET5806.txt|.|56|.|WET3245.txt|.|51|.|WET4414.txt|.|17|.|WET5037.txt|.|36|.|WET5546.txt|.|212|.|WET5405.txt|.|15|.|WET1686.txt|.|1|.|WET2063.txt|.|106|.|WET3355.txt|.|21|.|WET1293.txt|.|16|.|WET2844.txt|.|66|.|WET5534.txt|.|78|.|WET2144.txt|.|85|.|WET5229.txt|.|71|.|WET2188.txt|.|28|.|WET3614.txt|.|26|.|WET1110.txt|.|35|.|WET3356.txt|.|55|.|WET4750.txt|.|146|.|WET2590.txt|.|120
+libros|.|WET918.txt|.|5
+diamonds|.|WET1815.txt|.|37
+exchange goods|.|WET3614.txt|.|1
+us my basket|.|WET5229.txt|.|11
+diabetes forecast|.|WET918.txt|.|3
+tote|.|WET2144.txt|.|11
+handmade|.|WET5534.txt|.|48
+information format|.|WET5234.txt|.|2
+libros en|.|WET918.txt|.|5
+sellers by brand hot|.|WET5493.txt|.|135

@@ -1,0 +1,147 @@
+52
+huffington|.|WET5783.txt|.|15
+store cart czech|.|WET244.txt|.|11
+store jobs fitnessconnect|.|WET5801.txt|.|33
+buds|.|WET5133.txt|.|63
+arabic azerbaijani bengali|.|WET4239.txt|.|11|.|WET4644.txt|.|11
+world market|.|WET3316.txt|.|96
+lorem|.|WET5403.txt|.|6
+store rss feeds|.|WET5383.txt|.|10
+store store|.|WET6102.txt|.|11
+market store|.|WET3316.txt|.|28
+standard shipping|.|WET1546.txt|.|6|.|WET1007.txt|.|398|.|WET4750.txt|.|270
+unsubscribe|.|WET5043.txt|.|16
+supplier|.|WET5043.txt|.|8
+x swash puma|.|WET4750.txt|.|30
+english|.|WET413.txt|.|227|.|WET290.txt|.|15|.|WET6314.txt|.|169|.|WET4446.txt|.|11|.|WET2575.txt|.|157|.|WET2938.txt|.|187|.|WET5698.txt|.|134|.|WET2143.txt|.|21|.|WET3181.txt|.|27|.|WET1958.txt|.|86|.|WET4444.txt|.|27|.|WET149.txt|.|8|.|WET4490.txt|.|11|.|WET280.txt|.|147|.|WET1686.txt|.|14|.|WET48.txt|.|52|.|WET4083.txt|.|77|.|WET3580.txt|.|91|.|WET5342.txt|.|12|.|WET1007.txt|.|768|.|WET2576.txt|.|157|.|WET797.txt|.|51|.|WET3609.txt|.|6|.|WET340.txt|.|66|.|WET3997.txt|.|6|.|WET281.txt|.|60|.|WET1008.txt|.|96
+favoritos|.|WET349.txt|.|11
+swash|.|WET4750.txt|.|30
+czech|.|WET4268.txt|.|11|.|WET3675.txt|.|14|.|WET349.txt|.|11|.|WET2693.txt|.|62|.|WET244.txt|.|22|.|WET4446.txt|.|11
+supplier diversity program|.|WET5043.txt|.|8
+voices|.|WET2040.txt|.|51|.|WET5783.txt|.|47
+pellentesque risus|.|WET5403.txt|.|6
+reader store|.|WET319.txt|.|32
+store on ebay|.|WET923.txt|.|10
+workout builder store|.|WET5801.txt|.|33
+utilize the functionality|.|WET4379.txt|.|3|.|WET2972.txt|.|6|.|WET639.txt|.|2|.|WET2917.txt|.|3|.|WET4866.txt|.|2|.|WET1005.txt|.|2|.|WET1786.txt|.|8|.|WET5357.txt|.|2|.|WET2061.txt|.|2|.|WET6022.txt|.|2|.|WET5697.txt|.|3|.|WET5375.txt|.|7|.|WET1731.txt|.|3|.|WET1214.txt|.|2|.|WET2015.txt|.|4|.|WET5473.txt|.|4|.|WET2536.txt|.|3|.|WET5735.txt|.|3|.|WET3620.txt|.|3|.|WET5804.txt|.|4|.|WET3270.txt|.|5|.|WET2401.txt|.|3|.|WET3589.txt|.|4|.|WET4851.txt|.|2|.|WET5944.txt|.|2|.|WET3759.txt|.|6|.|WET2788.txt|.|6|.|WET5520.txt|.|6|.|WET5478.txt|.|6|.|WET4716.txt|.|3|.|WET1119.txt|.|2|.|WET1007.txt|.|3|.|WET2179.txt|.|2|.|WET4534.txt|.|2|.|WET1161.txt|.|3|.|WET1609.txt|.|2|.|WET5954.txt|.|5|.|WET5759.txt|.|6|.|WET1980.txt|.|4|.|WET5599.txt|.|3|.|WET1343.txt|.|2|.|WET5754.txt|.|2|.|WET1415.txt|.|5|.|WET5953.txt|.|7|.|WET2932.txt|.|5|.|WET3246.txt|.|3|.|WET2804.txt|.|7
+pellentesque|.|WET5403.txt|.|6
+jobs fitnessconnect|.|WET2058.txt|.|18|.|WET5801.txt|.|33
+utilize|.|WET4379.txt|.|3|.|WET2972.txt|.|6|.|WET639.txt|.|2|.|WET2917.txt|.|3|.|WET4866.txt|.|2|.|WET1005.txt|.|2|.|WET1786.txt|.|8|.|WET5357.txt|.|2|.|WET2061.txt|.|2|.|WET6022.txt|.|2|.|WET5697.txt|.|3|.|WET5375.txt|.|7|.|WET1731.txt|.|3|.|WET1214.txt|.|2|.|WET2015.txt|.|4|.|WET5473.txt|.|4|.|WET2536.txt|.|3|.|WET5735.txt|.|3|.|WET3620.txt|.|3|.|WET5804.txt|.|4|.|WET3270.txt|.|5|.|WET2401.txt|.|3|.|WET3589.txt|.|4|.|WET4851.txt|.|2|.|WET5944.txt|.|2|.|WET3759.txt|.|6|.|WET2788.txt|.|6|.|WET5520.txt|.|6|.|WET5478.txt|.|6|.|WET4716.txt|.|3|.|WET1119.txt|.|2|.|WET1007.txt|.|3|.|WET2179.txt|.|2|.|WET4534.txt|.|2|.|WET1161.txt|.|3|.|WET1609.txt|.|2|.|WET5954.txt|.|5|.|WET5759.txt|.|6|.|WET1980.txt|.|4|.|WET5599.txt|.|3|.|WET1343.txt|.|2|.|WET5754.txt|.|2|.|WET1415.txt|.|5|.|WET5953.txt|.|7|.|WET2932.txt|.|5|.|WET3246.txt|.|3|.|WET2804.txt|.|7
+nyc store pickup|.|WET5043.txt|.|16
+ipsum|.|WET5403.txt|.|6
+bulgarian chinese czech|.|WET4268.txt|.|11|.|WET349.txt|.|11
+current ad|.|WET2804.txt|.|21
+elit|.|WET5403.txt|.|6
+nuevo juego favoritos|.|WET349.txt|.|11
+star rating|.|WET2269.txt|.|58
+gun|.|WET977.txt|.|41|.|WET5708.txt|.|80|.|WET5133.txt|.|71|.|WET5126.txt|.|63|.|WET1376.txt|.|23|.|WET1064.txt|.|34|.|WET1198.txt|.|9|.|WET3577.txt|.|80|.|WET5365.txt|.|42
+store jobs|.|WET2058.txt|.|18
+featured brands adidas|.|WET5128.txt|.|20
+rural king|.|WET2804.txt|.|63
+adipiscing elit|.|WET5403.txt|.|6
+store hours|.|WET6102.txt|.|11
+rss feeds help|.|WET5383.txt|.|10
+functionality|.|WET4379.txt|.|3|.|WET2972.txt|.|6|.|WET639.txt|.|2|.|WET2917.txt|.|3|.|WET4866.txt|.|2|.|WET1005.txt|.|8|.|WET1786.txt|.|8|.|WET5357.txt|.|2|.|WET2061.txt|.|2|.|WET6022.txt|.|2|.|WET5697.txt|.|3|.|WET5375.txt|.|7|.|WET1731.txt|.|3|.|WET1214.txt|.|2|.|WET2015.txt|.|4|.|WET5473.txt|.|4|.|WET2536.txt|.|3|.|WET5735.txt|.|3|.|WET3620.txt|.|3|.|WET5804.txt|.|4|.|WET3270.txt|.|5|.|WET2401.txt|.|3|.|WET3589.txt|.|4|.|WET4851.txt|.|2|.|WET5944.txt|.|2|.|WET3759.txt|.|6|.|WET2788.txt|.|8|.|WET5520.txt|.|6|.|WET5478.txt|.|7|.|WET4716.txt|.|3|.|WET1119.txt|.|2|.|WET1007.txt|.|11|.|WET2179.txt|.|2|.|WET4534.txt|.|2|.|WET1161.txt|.|3|.|WET1609.txt|.|3|.|WET5954.txt|.|7|.|WET5759.txt|.|6|.|WET1980.txt|.|5|.|WET5599.txt|.|3|.|WET1343.txt|.|2|.|WET5754.txt|.|2|.|WET1415.txt|.|5|.|WET5953.txt|.|7|.|WET2932.txt|.|5|.|WET3246.txt|.|3|.|WET2804.txt|.|7
+hungarian|.|WET329.txt|.|11|.|WET3990.txt|.|11|.|WET4239.txt|.|22|.|WET4268.txt|.|11|.|WET3387.txt|.|11|.|WET349.txt|.|11|.|WET74.txt|.|10|.|WET471.txt|.|11|.|WET3884.txt|.|11|.|WET4169.txt|.|11
+handbags women shoes|.|WET5128.txt|.|20
+dolor|.|WET5403.txt|.|6
+enter your email|.|WET2040.txt|.|20|.|WET5783.txt|.|22
+store rss|.|WET5383.txt|.|10
+diversity|.|WET3786.txt|.|20|.|WET5043.txt|.|8
+builder|.|WET2058.txt|.|18|.|WET5801.txt|.|33|.|WET4270.txt|.|77
+bengali|.|WET4239.txt|.|11|.|WET5558.txt|.|6|.|WET4644.txt|.|11
+azerbaijani|.|WET4239.txt|.|11|.|WET4644.txt|.|11
+store visit|.|WET5403.txt|.|2
+voices women black|.|WET2040.txt|.|11|.|WET5783.txt|.|11
+personal trainer|.|WET2058.txt|.|46|.|WET2057.txt|.|121|.|WET5801.txt|.|61|.|WET5802.txt|.|41
+michael michael kors|.|WET5128.txt|.|18
+ad wish list|.|WET3316.txt|.|6
+code score|.|WET3649.txt|.|27
+ipsum dolor|.|WET5403.txt|.|6
+emailed|.|WET5783.txt|.|33
+huffington post|.|WET5783.txt|.|15
+pickup|.|WET5043.txt|.|16|.|WET3316.txt|.|113|.|WET5432.txt|.|14
+store|.|WET2269.txt|.|37|.|WET5043.txt|.|25|.|WET4239.txt|.|11|.|WET5403.txt|.|12|.|WET5383.txt|.|20|.|WET2721.txt|.|111|.|WET5801.txt|.|33|.|WET710.txt|.|3|.|WET5128.txt|.|50|.|WET6102.txt|.|22|.|WET5133.txt|.|32|.|WET2058.txt|.|20|.|WET3316.txt|.|187|.|WET2040.txt|.|11|.|WET244.txt|.|11|.|WET2041.txt|.|80|.|WET5783.txt|.|11|.|WET319.txt|.|32|.|WET349.txt|.|11|.|WET3649.txt|.|30|.|WET1007.txt|.|253|.|WET4169.txt|.|11|.|WET923.txt|.|38|.|WET4268.txt|.|11|.|WET2804.txt|.|56|.|WET4750.txt|.|186
+puma|.|WET4751.txt|.|166|.|WET1007.txt|.|887|.|WET4750.txt|.|765
+spaceexpert|.|WET5043.txt|.|8
+posts emailed|.|WET5783.txt|.|33
+skin rash|.|WET3316.txt|.|6
+fitnessconnect|.|WET2058.txt|.|30|.|WET2057.txt|.|55|.|WET5801.txt|.|55
+promotions|.|WET3269.txt|.|2|.|WET451.txt|.|2|.|WET4455.txt|.|2|.|WET2463.txt|.|2|.|WET1226.txt|.|2|.|WET3712.txt|.|2|.|WET3234.txt|.|3|.|WET3658.txt|.|2|.|WET5668.txt|.|62|.|WET2147.txt|.|1|.|WET6163.txt|.|2|.|WET107.txt|.|2|.|WET1704.txt|.|2|.|WET3651.txt|.|2|.|WET4765.txt|.|3|.|WET4951.txt|.|2|.|WET1130.txt|.|4|.|WET5788.txt|.|10|.|WET19.txt|.|1|.|WET4300.txt|.|1|.|WET5211.txt|.|1|.|WET1382.txt|.|3|.|WET3569.txt|.|1|.|WET2534.txt|.|2|.|WET1348.txt|.|2|.|WET1793.txt|.|2|.|WET166.txt|.|2|.|WET1671.txt|.|1|.|WET3904.txt|.|1|.|WET2000.txt|.|2|.|WET5786.txt|.|2|.|WET6107.txt|.|2|.|WET2662.txt|.|24|.|WET1468.txt|.|2|.|WET3913.txt|.|1|.|WET2158.txt|.|2|.|WET3680.txt|.|1|.|WET34.txt|.|9|.|WET1257.txt|.|2|.|WET1982.txt|.|1|.|WET6311.txt|.|2|.|WET3806.txt|.|2|.|WET3194.txt|.|2|.|WET6181.txt|.|2|.|WET2401.txt|.|2|.|WET4872.txt|.|56|.|WET475.txt|.|2|.|WET5944.txt|.|2|.|WET569.txt|.|2|.|WET1007.txt|.|199|.|WET1656.txt|.|2|.|WET1927.txt|.|52|.|WET4703.txt|.|2|.|WET5754.txt|.|17|.|WET3008.txt|.|1|.|WET4127.txt|.|2|.|WET4750.txt|.|135|.|WET3667.txt|.|2|.|WET1189.txt|.|1|.|WET4411.txt|.|2|.|WET6197.txt|.|1|.|WET3926.txt|.|2|.|WET6039.txt|.|2|.|WET150.txt|.|5|.|WET5959.txt|.|1|.|WET3677.txt|.|3|.|WET1421.txt|.|2|.|WET4032.txt|.|6|.|WET1642.txt|.|2|.|WET2642.txt|.|140|.|WET6231.txt|.|1|.|WET411.txt|.|1|.|WET1401.txt|.|2|.|WET3571.txt|.|2|.|WET5059.txt|.|2|.|WET3126.txt|.|2|.|WET4779.txt|.|2|.|WET6012.txt|.|2|.|WET1543.txt|.|2|.|WET4741.txt|.|1|.|WET66.txt|.|1|.|WET2847.txt|.|12|.|WET1949.txt|.|2|.|WET4220.txt|.|3|.|WET2221.txt|.|1|.|WET4726.txt|.|3|.|WET4751.txt|.|33|.|WET5548.txt|.|3|.|WET104.txt|.|1|.|WET4980.txt|.|2|.|WET2663.txt|.|6|.|WET2998.txt|.|1|.|WET715.txt|.|2|.|WET5742.txt|.|1|.|WET4459.txt|.|1|.|WET3920.txt|.|2|.|WET6310.txt|.|2|.|WET4920.txt|.|1|.|WET3167.txt|.|2|.|WET3485.txt|.|2|.|WET139.txt|.|1|.|WET845.txt|.|2|.|WET6302.txt|.|2|.|WET1435.txt|.|108|.|WET2849.txt|.|1|.|WET42.txt|.|3|.|WET3231.txt|.|4|.|WET2778.txt|.|2|.|WET1369.txt|.|1|.|WET1928.txt|.|32|.|WET5877.txt|.|36|.|WET764.txt|.|1|.|WET1373.txt|.|3|.|WET2462.txt|.|2|.|WET237.txt|.|2|.|WET4860.txt|.|1|.|WET3957.txt|.|2|.|WET5309.txt|.|2|.|WET670.txt|.|1|.|WET3882.txt|.|3
+workout|.|WET2058.txt|.|18|.|WET5801.txt|.|33
+lowest firstprice|.|WET923.txt|.|22
+booties|.|WET5128.txt|.|11
+juego favoritos store|.|WET349.txt|.|11
+builder store|.|WET2058.txt|.|18
+store or puma outlet|.|WET4750.txt|.|135
+free standard shipping details|.|WET4750.txt|.|135
+workout builder|.|WET2058.txt|.|18
+standard|.|WET3013.txt|.|78|.|WET1546.txt|.|6|.|WET3014.txt|.|92|.|WET1007.txt|.|398|.|WET4750.txt|.|270|.|WET2922.txt|.|23
+gift card|.|WET3316.txt|.|12|.|WET5744.txt|.|7|.|WET5625.txt|.|39|.|WET3649.txt|.|26
+reader|.|WET319.txt|.|32|.|WET5090.txt|.|11|.|WET2818.txt|.|41
+rural|.|WET2804.txt|.|63
+adipiscing|.|WET5403.txt|.|6
+builder store jobs|.|WET5801.txt|.|33
+rating|.|WET2269.txt|.|58|.|WET4156.txt|.|73|.|WET5349.txt|.|54|.|WET822.txt|.|144|.|WET5797.txt|.|15|.|WET5150.txt|.|31|.|WET3154.txt|.|100|.|WET5140.txt|.|122|.|WET5684.txt|.|190
+dgcr store|.|WET5383.txt|.|10
+list track order|.|WET5043.txt|.|8
+store cart|.|WET4239.txt|.|11|.|WET244.txt|.|11
+rear|.|WET923.txt|.|12
+articles workout|.|WET2058.txt|.|18
+idea fitnessconnect find|.|WET2057.txt|.|22|.|WET5801.txt|.|21
+hra|.|WET244.txt|.|11
+kors|.|WET5128.txt|.|18
+find a store|.|WET2269.txt|.|11|.|WET5128.txt|.|40
+app store android|.|WET2040.txt|.|10|.|WET5783.txt|.|11
+brands sale women|.|WET5128.txt|.|20
+free standard shipping|.|WET1007.txt|.|398|.|WET4750.txt|.|270
+results found|.|WET923.txt|.|11|.|WET4660.txt|.|10|.|WET2944.txt|.|9
+king|.|WET1255.txt|.|7|.|WET868.txt|.|54|.|WET2804.txt|.|69
+italian japanese korean|.|WET4268.txt|.|11|.|WET3387.txt|.|11|.|WET349.txt|.|11|.|WET140.txt|.|11|.|WET4169.txt|.|11|.|WET3193.txt|.|11
+no code|.|WET6007.txt|.|90|.|WET2269.txt|.|73|.|WET6008.txt|.|119
+retail store|.|WET5133.txt|.|16
+hair accessories|.|WET2269.txt|.|13
+unsubscribe from catalog|.|WET5043.txt|.|8
+top stories|.|WET5783.txt|.|33
+boots booties rain|.|WET5128.txt|.|11
+bulgarian|.|WET4239.txt|.|11|.|WET4268.txt|.|11|.|WET349.txt|.|11|.|WET4644.txt|.|11
+english deutsch|.|WET1007.txt|.|192|.|WET1008.txt|.|24
+bumper|.|WET2514.txt|.|16|.|WET923.txt|.|14
+locator|.|WET2804.txt|.|21
+free standard|.|WET1007.txt|.|398|.|WET4750.txt|.|270
+firstprice|.|WET923.txt|.|33
+joining|.|WET5043.txt|.|16
+reserve order|.|WET5133.txt|.|24
+idea|.|WET1628.txt|.|20|.|WET2057.txt|.|225|.|WET5801.txt|.|217|.|WET5870.txt|.|27
+mobile dgcr store|.|WET5383.txt|.|10
+selected store|.|WET3316.txt|.|36
+shipping costs|.|WET3316.txt|.|46|.|WET3216.txt|.|13|.|WET3291.txt|.|20
+courses browse|.|WET5383.txt|.|20
+price category|.|WET2804.txt|.|2
+risus|.|WET5403.txt|.|6
+store cart hungarian|.|WET4239.txt|.|11
+articles workout builder|.|WET5801.txt|.|33
+hungarian arabic azerbaijani|.|WET4239.txt|.|11
+evening top handles|.|WET5128.txt|.|30
+high heels low|.|WET5128.txt|.|22
+feeds help|.|WET5383.txt|.|10
+trainer|.|WET5769.txt|.|29|.|WET2058.txt|.|53|.|WET2057.txt|.|140|.|WET5801.txt|.|74|.|WET5802.txt|.|47
+deutsch|.|WET1007.txt|.|256|.|WET1008.txt|.|32|.|WET5698.txt|.|30
+store store hours|.|WET6102.txt|.|11
+lorem ipsum|.|WET5403.txt|.|6
+cart hungarian arabic|.|WET4239.txt|.|11
+store locator|.|WET2804.txt|.|21
+factory|.|WET594.txt|.|9|.|WET3649.txt|.|41
+costs|.|WET3316.txt|.|46|.|WET3216.txt|.|13|.|WET3291.txt|.|20
+stories|.|WET1778.txt|.|29|.|WET4234.txt|.|19|.|WET2481.txt|.|22|.|WET2160.txt|.|35|.|WET3625.txt|.|20|.|WET2040.txt|.|36|.|WET5783.txt|.|33|.|WET4466.txt|.|14|.|WET2859.txt|.|32|.|WET2670.txt|.|21|.|WET2684.txt|.|5|.|WET1034.txt|.|32
+purchase|.|WET4463.txt|.|1|.|WET6285.txt|.|2|.|WET168.txt|.|2|.|WET6145.txt|.|2|.|WET4226.txt|.|2|.|WET4331.txt|.|2|.|WET745.txt|.|2|.|WET5615.txt|.|2|.|WET2420.txt|.|2|.|WET6102.txt|.|11|.|WET1801.txt|.|1|.|WET5074.txt|.|3|.|WET1112.txt|.|3|.|WET1376.txt|.|2|.|WET6218.txt|.|2|.|WET1783.txt|.|2|.|WET1597.txt|.|3|.|WET1836.txt|.|14|.|WET3015.txt|.|40|.|WET4447.txt|.|1|.|WET1925.txt|.|2|.|WET5376.txt|.|2|.|WET982.txt|.|2|.|WET2765.txt|.|3|.|WET3739.txt|.|4|.|WET65.txt|.|3|.|WET822.txt|.|1|.|WET3597.txt|.|78|.|WET5511.txt|.|2|.|WET958.txt|.|15|.|WET10.txt|.|3|.|WET2068.txt|.|2|.|WET5538.txt|.|2|.|WET1127.txt|.|2|.|WET3538.txt|.|13|.|WET601.txt|.|1|.|WET3450.txt|.|4|.|WET5980.txt|.|1|.|WET1159.txt|.|3|.|WET5344.txt|.|3|.|WET3204.txt|.|1|.|WET1124.txt|.|2|.|WET3213.txt|.|7|.|WET3115.txt|.|2|.|WET1922.txt|.|2|.|WET5795.txt|.|2|.|WET2770.txt|.|1|.|WET4849.txt|.|3|.|WET3151.txt|.|2|.|WET77.txt|.|2|.|WET6040.txt|.|2|.|WET3292.txt|.|50|.|WET5372.txt|.|2|.|WET5820.txt|.|16|.|WET1600.txt|.|2|.|WET5502.txt|.|2|.|WET970.txt|.|2|.|WET652.txt|.|3|.|WET1007.txt|.|400|.|WET2169.txt|.|2|.|WET3550.txt|.|56|.|WET3755.txt|.|6|.|WET334.txt|.|2|.|WET4157.txt|.|3|.|WET4161.txt|.|1|.|WET5135.txt|.|23|.|WET4428.txt|.|2|.|WET4789.txt|.|2|.|WET1852.txt|.|2|.|WET4750.txt|.|272|.|WET3140.txt|.|2|.|WET1233.txt|.|2|.|WET193.txt|.|2|.|WET2519.txt|.|26|.|WET3810.txt|.|1|.|WET4861.txt|.|3|.|WET4705.txt|.|3|.|WET5197.txt|.|2|.|WET4608.txt|.|2|.|WET1721.txt|.|2|.|WET2693.txt|.|2|.|WET3853.txt|.|4|.|WET150.txt|.|2|.|WET1896.txt|.|2|.|WET3731.txt|.|3|.|WET5103.txt|.|1|.|WET3316.txt|.|27|.|WET5509.txt|.|3|.|WET1959.txt|.|2|.|WET4278.txt|.|2|.|WET3820.txt|.|2|.|WET5616.txt|.|2|.|WET1261.txt|.|2|.|WET3499.txt|.|2|.|WET3649.txt|.|32|.|WET823.txt|.|1|.|WET2085.txt|.|49|.|WET1113.txt|.|11|.|WET3126.txt|.|38|.|WET5180.txt|.|2|.|WET4822.txt|.|2|.|WET1868.txt|.|3|.|WET1489.txt|.|70|.|WET154.txt|.|1|.|WET5683.txt|.|2|.|WET3255.txt|.|3|.|WET4754.txt|.|3|.|WET1144.txt|.|2|.|WET5776.txt|.|20|.|WET5505.txt|.|3|.|WET3718.txt|.|18|.|WET2018.txt|.|2|.|WET2204.txt|.|1|.|WET1273.txt|.|2|.|WET4230.txt|.|2|.|WET6182.txt|.|3|.|WET6302.txt|.|2|.|WET1584.txt|.|2|.|WET3824.txt|.|2|.|WET4213.txt|.|2|.|WET5142.txt|.|2|.|WET3549.txt|.|50|.|WET1815.txt|.|25|.|WET1202.txt|.|4|.|WET5215.txt|.|2|.|WET4491.txt|.|48|.|WET5766.txt|.|2|.|WET5275.txt|.|4|.|WET5405.txt|.|2|.|WET3355.txt|.|2|.|WET1710.txt|.|26|.|WET2364.txt|.|2|.|WET2020.txt|.|2|.|WET4378.txt|.|2|.|WET3293.txt|.|110|.|WET5437.txt|.|2|.|WET1691.txt|.|3|.|WET4860.txt|.|2|.|WET3957.txt|.|2|.|WET2415.txt|.|18|.|WET5136.txt|.|39|.|WET2560.txt|.|1|.|WET4886.txt|.|3|.|WET3577.txt|.|2|.|WET5962.txt|.|3|.|WET3684.txt|.|2|.|WET1129.txt|.|2|.|WET3269.txt|.|2|.|WET3226.txt|.|2|.|WET3013.txt|.|93|.|WET1781.txt|.|3|.|WET1862.txt|.|3|.|WET1005.txt|.|2|.|WET6119.txt|.|2|.|WET1323.txt|.|4|.|WET2933.txt|.|2|.|WET5366.txt|.|2|.|WET778.txt|.|3|.|WET5986.txt|.|2|.|WET2147.txt|.|2|.|WET2333.txt|.|7|.|WET2066.txt|.|1|.|WET239.txt|.|2|.|WET6120.txt|.|30|.|WET1722.txt|.|2|.|WET1897.txt|.|3|.|WET4739.txt|.|1|.|WET3869.txt|.|3|.|WET3648.txt|.|15|.|WET2097.txt|.|2|.|WET4690.txt|.|2|.|WET3745.txt|.|19|.|WET3524.txt|.|40|.|WET6275.txt|.|3|.|WET135.txt|.|2|.|WET2104.txt|.|3|.|WET5351.txt|.|18|.|WET468.txt|.|2|.|WET5617.txt|.|2|.|WET928.txt|.|2|.|WET5572.txt|.|27|.|WET4399.txt|.|2|.|WET5095.txt|.|1|.|WET1966.txt|.|2|.|WET5826.txt|.|2|.|WET216.txt|.|2|.|WET3605.txt|.|3|.|WET6183.txt|.|1|.|WET4379.txt|.|2|.|WET2574.txt|.|2|.|WET4212.txt|.|1|.|WET6107.txt|.|2|.|WET1370.txt|.|2|.|WET3505.txt|.|3|.|WET554.txt|.|2|.|WET368.txt|.|6|.|WET67.txt|.|2|.|WET944.txt|.|2|.|WET3044.txt|.|2|.|WET1602.txt|.|2|.|WET1193.txt|.|2|.|WET5133.txt|.|33|.|WET2930.txt|.|2|.|WET1320.txt|.|2|.|WET1982.txt|.|2|.|WET5451.txt|.|2|.|WET3796.txt|.|2|.|WET2566.txt|.|2|.|WET5893.txt|.|3|.|WET925.txt|.|2|.|WET4646.txt|.|1|.|WET3288.txt|.|1|.|WET1711.txt|.|3|.|WET5974.txt|.|3|.|WET2732.txt|.|2|.|WET3877.txt|.|2|.|WET4868.txt|.|2|.|WET5338.txt|.|2|.|WET1630.txt|.|2|.|WET2922.txt|.|27|.|WET4089.txt|.|2|.|WET28.txt|.|2|.|WET5878.txt|.|2|.|WET3008.txt|.|5|.|WET488.txt|.|3|.|WET428.txt|.|2|.|WET5419.txt|.|1|.|WET2034.txt|.|16|.|WET4799.txt|.|2|.|WET1057.txt|.|6|.|WET5535.txt|.|63|.|WET1189.txt|.|3|.|WET5624.txt|.|2|.|WET2624.txt|.|2|.|WET80.txt|.|1|.|WET4411.txt|.|2|.|WET4111.txt|.|2|.|WET5022.txt|.|2|.|WET1799.txt|.|52|.|WET2829.txt|.|1|.|WET2853.txt|.|1|.|WET531.txt|.|2|.|WET3926.txt|.|5|.|WET5578.txt|.|4|.|WET3083.txt|.|2|.|WET3596.txt|.|60|.|WET6057.txt|.|2|.|WET620.txt|.|3|.|WET56.txt|.|2|.|WET134.txt|.|2|.|WET3014.txt|.|111|.|WET5071.txt|.|3|.|WET5819.txt|.|2|.|WET2138.txt|.|5|.|WET4977.txt|.|3|.|WET3934.txt|.|2|.|WET1802.txt|.|184|.|WET467.txt|.|2|.|WET564.txt|.|2|.|WET2520.txt|.|2|.|WET5809.txt|.|2|.|WET2991.txt|.|2|.|WET4851.txt|.|2|.|WET742.txt|.|3|.|WET4533.txt|.|2|.|WET3571.txt|.|2|.|WET330.txt|.|2|.|WET5758.txt|.|3|.|WET5334.txt|.|2|.|WET1967.txt|.|2|.|WET5377.txt|.|3|.|WET3537.txt|.|52|.|WET5156.txt|.|3|.|WET2630.txt|.|2|.|WET118.txt|.|2|.|WET5241.txt|.|3|.|WET1004.txt|.|2|.|WET1812.txt|.|5|.|WET2957.txt|.|1|.|WET2914.txt|.|3|.|WET1543.txt|.|2|.|WET3715.txt|.|2|.|WET2847.txt|.|23|.|WET521.txt|.|2|.|WET3525.txt|.|16|.|WET1939.txt|.|3|.|WET4751.txt|.|83|.|WET3637.txt|.|2|.|WET6280.txt|.|2|.|WET2663.txt|.|2|.|WET2176.txt|.|1|.|WET5892.txt|.|17|.|WET3353.txt|.|3|.|WET3485.txt|.|82|.|WET2814.txt|.|1|.|WET4019.txt|.|2|.|WET3231.txt|.|2|.|WET2921.txt|.|27|.|WET4205.txt|.|2|.|WET4311.txt|.|2|.|WET2778.txt|.|3|.|WET3737.txt|.|2|.|WET3660.txt|.|20|.|WET4487.txt|.|26|.|WET3067.txt|.|2|.|WET2996.txt|.|2|.|WET3797.txt|.|2|.|WET1877.txt|.|2|.|WET5202.txt|.|2|.|WET2541.txt|.|2|.|WET3007.txt|.|2|.|WET1119.txt|.|3|.|WET4907.txt|.|35|.|WET5779.txt|.|3|.|WET5710.txt|.|47|.|WET480.txt|.|2|.|WET3203.txt|.|2|.|WET1772.txt|.|20|.|WET1798.txt|.|35|.|WET6304.txt|.|3|.|WET5958.txt|.|2|.|WET4873.txt|.|6|.|WET4555.txt|.|2|.|WET3711.txt|.|4|.|WET1008.txt|.|62|.|WET2590.txt|.|26
+azerbaijani bengali bulgarian|.|WET4239.txt|.|11
+juego|.|WET349.txt|.|11
+puma store|.|WET1007.txt|.|209
+dgcr store rss|.|WET5383.txt|.|10
+rash|.|WET3316.txt|.|11
+nuevo|.|WET5966.txt|.|11|.|WET592.txt|.|108|.|WET4335.txt|.|52|.|WET829.txt|.|44|.|WET349.txt|.|11|.|WET6117.txt|.|30
+rear bumper|.|WET923.txt|.|8
+class iii|.|WET5133.txt|.|24
+animating|.|WET2804.txt|.|2
+sale items|.|WET3649.txt|.|18

@@ -1,0 +1,22 @@
+57
+diese|.|WET3423.txt|.|15|.|WET5458.txt|.|38
+wechseln|.|WET3423.txt|.|11
+ein|.|WET594.txt|.|39|.|WET848.txt|.|514|.|WET2002.txt|.|28|.|WET4908.txt|.|27|.|WET4009.txt|.|13
+nicht|.|WET1065.txt|.|10|.|WET848.txt|.|393|.|WET5458.txt|.|141
+den|.|WET5993.txt|.|48|.|WET848.txt|.|636|.|WET5505.txt|.|47|.|WET3771.txt|.|181|.|WET3423.txt|.|83|.|WET3542.txt|.|53|.|WET1181.txt|.|20
+wie ein|.|WET848.txt|.|34
+dem|.|WET848.txt|.|477
+er|.|WET1256.txt|.|25|.|WET4073.txt|.|82|.|WET848.txt|.|523|.|WET1047.txt|.|155
+es|.|WET4719.txt|.|30|.|WET6170.txt|.|26|.|WET4093.txt|.|49|.|WET3438.txt|.|77|.|WET848.txt|.|528|.|WET5784.txt|.|15|.|WET569.txt|.|35|.|WET1204.txt|.|44|.|WET5480.txt|.|80|.|WET2218.txt|.|6|.|WET3408.txt|.|18|.|WET2087.txt|.|72
+wie|.|WET848.txt|.|345
+auf|.|WET5811.txt|.|13|.|WET848.txt|.|410|.|WET2002.txt|.|30|.|WET3423.txt|.|46|.|WET4976.txt|.|63
+kaufen|.|WET5811.txt|.|7
+artikel|.|WET3423.txt|.|35|.|WET975.txt|.|20
+von|.|WET2002.txt|.|41|.|WET4008.txt|.|33|.|WET3423.txt|.|100|.|WET1645.txt|.|53|.|WET3271.txt|.|35
+online kaufen|.|WET5811.txt|.|7
+das|.|WET5993.txt|.|56|.|WET848.txt|.|723|.|WET2830.txt|.|76
+heise|.|WET2002.txt|.|68
+bearbeiten|.|WET3423.txt|.|84
+zu|.|WET3424.txt|.|32|.|WET848.txt|.|469|.|WET3423.txt|.|59|.|WET1221.txt|.|48
+heise online|.|WET2002.txt|.|18
+kaufen auf|.|WET5811.txt|.|7

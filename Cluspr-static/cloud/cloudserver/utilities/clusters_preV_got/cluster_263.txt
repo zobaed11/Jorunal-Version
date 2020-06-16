@@ -1,0 +1,12 @@
+263
+dallas|.|WET278.txt|.|49|.|WET277.txt|.|27
+degree programs|.|WET2427.txt|.|64
+case vacanze|.|WET1744.txt|.|35
+evening shoe|.|WET1244.txt|.|42
+hostel|.|WET265.txt|.|14|.|WET3744.txt|.|10
+keeper league|.|WET2580.txt|.|57
+no brainer|.|WET2532.txt|.|17
+sewing|.|WET1392.txt|.|39|.|WET1800.txt|.|40
+book your next|.|WET3445.txt|.|33|.|WET3446.txt|.|30
+linen pure jill|.|WET5886.txt|.|11
+college football|.|WET2675.txt|.|10

@@ -1,0 +1,12 @@
+202
+habits|.|WET5446.txt|.|14
+online auctions|.|WET5844.txt|.|24|.|WET1483.txt|.|2|.|WET2101.txt|.|26
+animas river|.|WET1699.txt|.|22
+herald subscribe mobile the durango|.|WET1700.txt|.|11|.|WET1699.txt|.|11|.|WET5446.txt|.|11
+durango herald|.|WET5445.txt|.|46|.|WET1700.txt|.|43|.|WET1701.txt|.|28|.|WET1699.txt|.|49|.|WET5446.txt|.|44
+durango|.|WET1664.txt|.|63|.|WET5445.txt|.|134|.|WET1700.txt|.|144|.|WET1701.txt|.|96|.|WET1699.txt|.|157|.|WET5446.txt|.|151
+fort lewis college|.|WET5446.txt|.|27
+plata|.|WET1701.txt|.|46|.|WET5447.txt|.|18
+missing some information|.|WET2291.txt|.|2|.|WET2289.txt|.|8
+organic|.|WET3527.txt|.|137|.|WET920.txt|.|82|.|WET919.txt|.|78|.|WET3528.txt|.|530|.|WET4656.txt|.|66
+healthy habits|.|WET5446.txt|.|14

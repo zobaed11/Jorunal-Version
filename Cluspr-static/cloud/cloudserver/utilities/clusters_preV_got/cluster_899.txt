@@ -1,0 +1,12 @@
+899
+mint|.|WET4939.txt|.|24
+grateful|.|WET2752.txt|.|105
+ryan|.|WET215.txt|.|197|.|WET4737.txt|.|12|.|WET972.txt|.|16
+wikitext|.|WET3542.txt|.|43
+profiling|.|WET4336.txt|.|16
+magazine joomla|.|WET3427.txt|.|9
+stationslisten|.|WET2066.txt|.|14|.|WET5807.txt|.|18
+stringing threads and accessories bead|.|WET2175.txt|.|4
+vikings unearthed|.|WET501.txt|.|13
+medieval|.|WET5544.txt|.|146
+sturgeon|.|WET4417.txt|.|14

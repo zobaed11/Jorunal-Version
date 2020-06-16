@@ -1,0 +1,12 @@
+976
+smartech|.|WET3534.txt|.|22
+shopko|.|WET2876.txt|.|52
+backcountry|.|WET1241.txt|.|29
+ten things|.|WET895.txt|.|10
+clothing|.|WET2449.txt|.|12|.|WET2401.txt|.|62|.|WET3092.txt|.|11|.|WET2189.txt|.|54|.|WET1241.txt|.|30|.|WET3243.txt|.|37|.|WET5235.txt|.|80|.|WET4905.txt|.|124|.|WET5360.txt|.|14|.|WET2876.txt|.|74|.|WET2188.txt|.|189|.|WET2880.txt|.|58|.|WET151.txt|.|55|.|WET2166.txt|.|112
+perla|.|WET2450.txt|.|131|.|WET6192.txt|.|224
+popularhighest|.|WET1241.txt|.|16
+new items|.|WET2880.txt|.|41
+ratednew|.|WET1241.txt|.|16
+author by title|.|WET3432.txt|.|2
+expert profiles|.|WET1385.txt|.|24

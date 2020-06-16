@@ -1,0 +1,12 @@
+447
+romance|.|WET4065.txt|.|62|.|WET1351.txt|.|18
+assessment|.|WET3415.txt|.|10|.|WET2777.txt|.|31
+guides|.|WET2016.txt|.|30|.|WET4535.txt|.|11|.|WET2992.txt|.|87|.|WET3205.txt|.|15|.|WET1351.txt|.|25|.|WET5960.txt|.|34|.|WET2430.txt|.|150
+ukulele|.|WET2430.txt|.|27
+anglais|.|WET2222.txt|.|22|.|WET5960.txt|.|32
+leave|.|WET514.txt|.|14|.|WET4137.txt|.|47|.|WET397.txt|.|55
+golden number|.|WET4370.txt|.|21
+ethics|.|WET4501.txt|.|17
+en ti|.|WET2416.txt|.|21
+tipstimenauts|.|WET2992.txt|.|16
+allemand|.|WET2222.txt|.|22|.|WET5960.txt|.|33

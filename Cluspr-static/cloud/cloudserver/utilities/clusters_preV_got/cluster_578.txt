@@ -1,0 +1,12 @@
+578
+sam club|.|WET1414.txt|.|23
+internet explorer|.|WET4809.txt|.|162
+new products|.|WET1414.txt|.|90
+explorer|.|WET4809.txt|.|162|.|WET3712.txt|.|10
+indoor|.|WET1413.txt|.|48|.|WET2916.txt|.|10
+making power|.|WET51.txt|.|6
+bike racks|.|WET1413.txt|.|49|.|WET1414.txt|.|23
+experts|.|WET5164.txt|.|2
+sam|.|WET3455.txt|.|18|.|WET1414.txt|.|37
+products shop|.|WET1413.txt|.|187
+internet|.|WET4809.txt|.|180|.|WET5164.txt|.|200|.|WET1413.txt|.|289|.|WET751.txt|.|21|.|WET1040.txt|.|18|.|WET1414.txt|.|187|.|WET51.txt|.|20|.|WET2312.txt|.|60

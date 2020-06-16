@@ -1,0 +1,12 @@
+301
+wool|.|WET3589.txt|.|78|.|WET3650.txt|.|53
+buttons|.|WET3589.txt|.|124
+fabric|.|WET3589.txt|.|344|.|WET3622.txt|.|15|.|WET919.txt|.|38|.|WET3621.txt|.|201|.|WET367.txt|.|42|.|WET4656.txt|.|35
+lace trim|.|WET3589.txt|.|80
+pillow|.|WET919.txt|.|37|.|WET4656.txt|.|32
+cotton|.|WET919.txt|.|43|.|WET4656.txt|.|40
+aircraft certification|.|WET3621.txt|.|8
+baby carriers|.|WET919.txt|.|67|.|WET4656.txt|.|55
+wool fabric|.|WET3589.txt|.|50
+inserts|.|WET919.txt|.|50|.|WET4656.txt|.|43
+performance bundle of joy|.|WET919.txt|.|37

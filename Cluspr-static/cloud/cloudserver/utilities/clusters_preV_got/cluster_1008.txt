@@ -1,0 +1,12 @@
+1008
+ron|.|WET829.txt|.|6
+simon|.|WET72.txt|.|57|.|WET2884.txt|.|90
+subhover|.|WET6088.txt|.|12
+flight attendant|.|WET3977.txt|.|8
+jason lloyd|.|WET6274.txt|.|63
+continue|.|WET2306.txt|.|272|.|WET1624.txt|.|10|.|WET3837.txt|.|10|.|WET188.txt|.|66|.|WET4316.txt|.|45|.|WET5885.txt|.|11|.|WET2487.txt|.|11|.|WET3936.txt|.|68|.|WET4896.txt|.|446
+beethoven|.|WET1988.txt|.|10
+december|.|WET1988.txt|.|7|.|WET3762.txt|.|26|.|WET2306.txt|.|177|.|WET591.txt|.|32|.|WET829.txt|.|103|.|WET3998.txt|.|29|.|WET5699.txt|.|257|.|WET6141.txt|.|217|.|WET587.txt|.|32|.|WET4623.txt|.|26|.|WET105.txt|.|36|.|WET3876.txt|.|32|.|WET681.txt|.|50|.|WET3382.txt|.|83|.|WET6274.txt|.|321
+people|.|WET418.txt|.|85|.|WET998.txt|.|115|.|WET5725.txt|.|61|.|WET1779.txt|.|46|.|WET362.txt|.|21|.|WET4857.txt|.|34|.|WET4973.txt|.|48|.|WET4714.txt|.|49|.|WET1359.txt|.|24|.|WET1324.txt|.|10|.|WET5514.txt|.|49|.|WET1720.txt|.|56|.|WET525.txt|.|28|.|WET1681.txt|.|38|.|WET4047.txt|.|32
+hatchback|.|WET5763.txt|.|46
+kubuntu|.|WET568.txt|.|7

@@ -1,0 +1,12 @@
+82
+baking|.|WET2995.txt|.|89|.|WET4416.txt|.|26
+cheese gifts|.|WET5806.txt|.|3
+drinkware|.|WET6113.txt|.|90
+toner|.|WET2443.txt|.|60|.|WET5516.txt|.|47|.|WET2721.txt|.|77
+advice|.|WET2016.txt|.|34|.|WET2713.txt|.|45|.|WET1753.txt|.|16|.|WET1406.txt|.|25
+bowls|.|WET6113.txt|.|180
+olive oil|.|WET2063.txt|.|76
+fame|.|WET1939.txt|.|18|.|WET3931.txt|.|55|.|WET5723.txt|.|13
+replacement|.|WET5693.txt|.|44|.|WET6049.txt|.|206
+new in dining|.|WET2995.txt|.|22
+flatware|.|WET6113.txt|.|120|.|WET2367.txt|.|114

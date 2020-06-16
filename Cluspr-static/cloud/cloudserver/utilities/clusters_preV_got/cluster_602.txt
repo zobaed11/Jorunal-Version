@@ -1,0 +1,12 @@
+602
+rocchio|.|WET1028.txt|.|2
+political courage test|.|WET1029.txt|.|20
+carver|.|WET1437.txt|.|36
+smart list|.|WET3695.txt|.|75
+set my reminder|.|WET3695.txt|.|12
+speeches|.|WET4776.txt|.|10
+help us|.|WET1029.txt|.|28
+smart please|.|WET4776.txt|.|5
+bright light|.|WET4776.txt|.|5
+smart|.|WET4775.txt|.|119|.|WET4774.txt|.|106|.|WET1028.txt|.|97|.|WET1029.txt|.|94|.|WET1030.txt|.|123|.|WET2614.txt|.|20|.|WET4776.txt|.|53|.|WET3695.txt|.|182
+courage|.|WET1029.txt|.|20

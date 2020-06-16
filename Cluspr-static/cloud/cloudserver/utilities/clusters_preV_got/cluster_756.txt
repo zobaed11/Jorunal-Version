@@ -1,0 +1,12 @@
+756
+dfs|.|WET5527.txt|.|144
+speeddome ultra|.|WET1159.txt|.|20
+digital camera|.|WET5818.txt|.|44
+david brothers|.|WET5.txt|.|3
+tiki central|.|WET3104.txt|.|83|.|WET3105.txt|.|75
+reducer maximum|.|WET1690.txt|.|6
+mileschin|.|WET2297.txt|.|19
+das|.|WET5993.txt|.|56|.|WET848.txt|.|723|.|WET2830.txt|.|76
+kabbalah centre|.|WET3474.txt|.|15
+buyer|.|WET973.txt|.|4
+hurricane summary|.|WET5841.txt|.|136|.|WET2098.txt|.|170|.|WET5842.txt|.|85

@@ -1,0 +1,12 @@
+51
+covenants|.|WET4285.txt|.|91
+subscribe now sign|.|WET3880.txt|.|22|.|WET3879.txt|.|20
+moneybeat|.|WET137.txt|.|51
+wallflowers|.|WET5012.txt|.|20
+glossy|.|WET3955.txt|.|15
+kernel|.|WET5714.txt|.|33
+subjects text|.|WET96.txt|.|100
+meilenstein|.|WET4331.txt|.|24
+jones|.|WET2090.txt|.|65|.|WET137.txt|.|86|.|WET136.txt|.|89|.|WET5834.txt|.|66|.|WET3838.txt|.|41
+printing|.|WET5835.txt|.|17
+wsj|.|WET137.txt|.|237|.|WET136.txt|.|231|.|WET3880.txt|.|232|.|WET3879.txt|.|218|.|WET3325.txt|.|119

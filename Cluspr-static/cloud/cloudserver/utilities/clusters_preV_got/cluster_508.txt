@@ -1,0 +1,12 @@
+508
+sports high|.|WET2560.txt|.|11
+south carolina|.|WET4835.txt|.|81
+columbia river|.|WET4723.txt|.|8
+saturday|.|WET4835.txt|.|209
+florida state|.|WET4835.txt|.|72
+exercises|.|WET3665.txt|.|60
+travel oregon|.|WET4723.txt|.|36
+oregonian|.|WET2560.txt|.|27
+bookcase|.|WET1395.txt|.|80
+programmers|.|WET2701.txt|.|70|.|WET4532.txt|.|85
+oregon|.|WET1083.txt|.|221|.|WET4834.txt|.|219|.|WET4835.txt|.|219|.|WET4723.txt|.|204|.|WET2560.txt|.|42|.|WET3169.txt|.|18|.|WET1789.txt|.|16

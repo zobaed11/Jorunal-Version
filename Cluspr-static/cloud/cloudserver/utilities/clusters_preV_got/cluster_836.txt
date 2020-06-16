@@ -1,0 +1,12 @@
+836
+side by side|.|WET1868.txt|.|24
+screening|.|WET2840.txt|.|32
+effects|.|WET5726.txt|.|8|.|WET1691.txt|.|73|.|WET3724.txt|.|11
+health sciences library|.|WET287.txt|.|29
+sewer district collection|.|WET287.txt|.|30
+library history collections|.|WET287.txt|.|29
+louisville and nashville|.|WET287.txt|.|28
+kornhauser health sciences|.|WET287.txt|.|29
+oral health|.|WET2840.txt|.|15
+oral|.|WET282.txt|.|73|.|WET3960.txt|.|52|.|WET3928.txt|.|74|.|WET287.txt|.|75|.|WET213.txt|.|195|.|WET1691.txt|.|34|.|WET4386.txt|.|12|.|WET3976.txt|.|112|.|WET2840.txt|.|17|.|WET3961.txt|.|175|.|WET4327.txt|.|147
+dark souls iii|.|WET1883.txt|.|16

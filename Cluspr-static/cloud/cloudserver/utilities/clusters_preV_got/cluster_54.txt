@@ -1,0 +1,12 @@
+54
+routing|.|WET306.txt|.|83
+routine|.|WET3623.txt|.|21
+pot|.|WET5232.txt|.|27|.|WET5231.txt|.|30|.|WET3685.txt|.|20
+framed art print|.|WET4957.txt|.|37
+restaurants|.|WET1481.txt|.|54|.|WET1654.txt|.|30
+chairs|.|WET2538.txt|.|536|.|WET4840.txt|.|61|.|WET3981.txt|.|14|.|WET5496.txt|.|36
+sumatera|.|WET5251.txt|.|22
+rover|.|WET1224.txt|.|41
+made multiple submissions|.|WET1901.txt|.|32
+new in baking|.|WET2995.txt|.|22
+frame|.|WET6158.txt|.|38|.|WET4957.txt|.|246|.|WET5352.txt|.|40|.|WET5208.txt|.|18

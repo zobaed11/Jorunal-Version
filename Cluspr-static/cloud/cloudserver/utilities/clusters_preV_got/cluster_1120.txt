@@ -1,0 +1,12 @@
+1120
+hockey|.|WET3198.txt|.|48|.|WET1268.txt|.|12|.|WET4223.txt|.|110|.|WET1335.txt|.|25|.|WET2506.txt|.|21|.|WET2321.txt|.|33|.|WET4639.txt|.|14|.|WET2950.txt|.|81|.|WET4225.txt|.|43|.|WET4224.txt|.|79|.|WET2499.txt|.|132
+fan|.|WET4704.txt|.|10|.|WET2950.txt|.|120|.|WET5695.txt|.|16|.|WET1967.txt|.|26|.|WET1342.txt|.|43|.|WET3050.txt|.|227|.|WET4124.txt|.|11|.|WET4779.txt|.|11|.|WET401.txt|.|10|.|WET5550.txt|.|31|.|WET1035.txt|.|14|.|WET3035.txt|.|74|.|WET2842.txt|.|44|.|WET3198.txt|.|28|.|WET2927.txt|.|57|.|WET5475.txt|.|8|.|WET6297.txt|.|18|.|WET277.txt|.|20|.|WET2190.txt|.|17|.|WET3828.txt|.|11
+fan experience|.|WET1967.txt|.|14
+dakota|.|WET3198.txt|.|60|.|WET1664.txt|.|72
+pm mr|.|WET2927.txt|.|51
+texans|.|WET3035.txt|.|20
+toms|.|WET3118.txt|.|97
+ions|.|WET4833.txt|.|7
+logic|.|WET2270.txt|.|14|.|WET1716.txt|.|3
+broncos fan|.|WET6297.txt|.|18
+eisenhower|.|WET238.txt|.|24

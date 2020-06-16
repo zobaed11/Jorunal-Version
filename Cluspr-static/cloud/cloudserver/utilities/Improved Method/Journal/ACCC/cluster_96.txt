@@ -1,0 +1,35 @@
+96
+news swimming|.|WET1973.txt|.|6
+indiana state|.|WET2891.txt|.|16
+head coach|.|WET4374.txt|.|72
+roster news|.|WET3342.txt|.|20|.|WET4109.txt|.|36|.|WET2259.txt|.|30|.|WET1973.txt|.|72|.|WET2541.txt|.|37
+facebook twitter|.|WET3786.txt|.|7|.|WET3923.txt|.|33|.|WET2239.txt|.|11|.|WET4374.txt|.|72|.|WET2718.txt|.|3|.|WET4435.txt|.|26|.|WET4442.txt|.|5|.|WET5790.txt|.|4|.|WET457.txt|.|4|.|WET4259.txt|.|13|.|WET4649.txt|.|8|.|WET5741.txt|.|43|.|WET1776.txt|.|24|.|WET4352.txt|.|6
+dead|.|WET5611.txt|.|13|.|WET2752.txt|.|119|.|WET1894.txt|.|6
+instagram|.|WET5673.txt|.|60|.|WET4938.txt|.|18|.|WET2536.txt|.|9|.|WET6062.txt|.|22
+schedule head|.|WET4374.txt|.|72
+shot|.|WET2468.txt|.|23|.|WET4952.txt|.|46|.|WET5539.txt|.|111|.|WET166.txt|.|53
+head|.|WET5734.txt|.|47|.|WET1993.txt|.|36|.|WET4374.txt|.|72|.|WET1994.txt|.|29|.|WET1794.txt|.|56|.|WET1992.txt|.|42
+schedule roster|.|WET455.txt|.|41|.|WET5673.txt|.|160|.|WET3342.txt|.|20|.|WET4109.txt|.|36|.|WET2259.txt|.|30|.|WET1973.txt|.|69|.|WET4952.txt|.|69
+roster schedule|.|WET4374.txt|.|72|.|WET3178.txt|.|40|.|WET2891.txt|.|18
+roster|.|WET5673.txt|.|163|.|WET3342.txt|.|22|.|WET4374.txt|.|75|.|WET5611.txt|.|6|.|WET4109.txt|.|38|.|WET3171.txt|.|26|.|WET2541.txt|.|40|.|WET3178.txt|.|46|.|WET4952.txt|.|69|.|WET3169.txt|.|69|.|WET455.txt|.|42|.|WET2259.txt|.|30|.|WET1973.txt|.|72|.|WET2891.txt|.|19
+news soccer|.|WET1973.txt|.|6
+twitter|.|WET3331.txt|.|21|.|WET4374.txt|.|75|.|WET4519.txt|.|19|.|WET1535.txt|.|17|.|WET1829.txt|.|24|.|WET5790.txt|.|5|.|WET1820.txt|.|9|.|WET2198.txt|.|9|.|WET2900.txt|.|19|.|WET2536.txt|.|9|.|WET4791.txt|.|55|.|WET6062.txt|.|47|.|WET3923.txt|.|33|.|WET903.txt|.|18|.|WET250.txt|.|4|.|WET5279.txt|.|60|.|WET119.txt|.|17|.|WET4435.txt|.|34|.|WET5511.txt|.|32|.|WET4504.txt|.|22|.|WET4259.txt|.|17|.|WET1402.txt|.|37|.|WET1776.txt|.|26|.|WET5936.txt|.|9|.|WET3786.txt|.|8|.|WET2239.txt|.|20|.|WET4912.txt|.|17|.|WET1477.txt|.|11|.|WET1345.txt|.|12|.|WET2718.txt|.|5|.|WET1044.txt|.|55|.|WET4442.txt|.|12|.|WET414.txt|.|54|.|WET457.txt|.|9|.|WET455.txt|.|51|.|WET2108.txt|.|24|.|WET4938.txt|.|23|.|WET4700.txt|.|17|.|WET2377.txt|.|41|.|WET4775.txt|.|11|.|WET5673.txt|.|148|.|WET3589.txt|.|8|.|WET4792.txt|.|55|.|WET4758.txt|.|13|.|WET4303.txt|.|18|.|WET3405.txt|.|29|.|WET1989.txt|.|50|.|WET366.txt|.|32|.|WET4649.txt|.|9|.|WET3865.txt|.|18|.|WET5741.txt|.|45|.|WET3326.txt|.|16|.|WET1030.txt|.|10|.|WET4352.txt|.|7
+polo schedule|.|WET1973.txt|.|6
+country schedule|.|WET1973.txt|.|6
+coach facebook|.|WET4374.txt|.|69
+twitter facebook|.|WET4504.txt|.|20|.|WET5673.txt|.|100|.|WET2536.txt|.|9
+roster twitter facebook|.|WET455.txt|.|25
+schedule roster news|.|WET3342.txt|.|20|.|WET4109.txt|.|36|.|WET1973.txt|.|69
+dead space|.|WET5611.txt|.|12
+news schedule|.|WET2541.txt|.|37
+roster twitter|.|WET455.txt|.|37|.|WET5673.txt|.|148
+basketball schedule|.|WET1973.txt|.|6
+ft shot|.|WET4952.txt|.|45
+theft|.|WET5611.txt|.|17|.|WET5705.txt|.|35
+rush|.|WET4374.txt|.|10
+grand theft|.|WET5611.txt|.|15|.|WET5705.txt|.|34
+news roster|.|WET2891.txt|.|17
+schedule|.|WET2646.txt|.|35|.|WET2845.txt|.|2|.|WET3170.txt|.|45|.|WET791.txt|.|23|.|WET4374.txt|.|73|.|WET6107.txt|.|57|.|WET2439.txt|.|32|.|WET2472.txt|.|26|.|WET1801.txt|.|24|.|WET455.txt|.|44|.|WET1070.txt|.|26|.|WET5677.txt|.|16|.|WET4200.txt|.|102|.|WET854.txt|.|32|.|WET4201.txt|.|48|.|WET1973.txt|.|69|.|WET248.txt|.|49|.|WET4311.txt|.|18|.|WET2778.txt|.|15|.|WET5673.txt|.|167|.|WET3342.txt|.|23|.|WET6164.txt|.|53|.|WET4109.txt|.|38|.|WET3812.txt|.|17|.|WET5766.txt|.|68|.|WET2541.txt|.|39|.|WET3178.txt|.|55|.|WET4952.txt|.|75|.|WET6260.txt|.|24|.|WET4271.txt|.|37|.|WET5706.txt|.|79|.|WET2259.txt|.|36|.|WET2891.txt|.|21|.|WET5609.txt|.|2
+coach|.|WET1064.txt|.|36|.|WET4374.txt|.|72|.|WET134.txt|.|14|.|WET4123.txt|.|14|.|WET1937.txt|.|24
+twitter instagram|.|WET5673.txt|.|48
+roster news schedule|.|WET2541.txt|.|37

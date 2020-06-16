@@ -1,0 +1,12 @@
+1121
+red|.|WET180.txt|.|14|.|WET2629.txt|.|16|.|WET4872.txt|.|5|.|WET924.txt|.|13|.|WET3915.txt|.|81|.|WET5334.txt|.|19|.|WET2753.txt|.|20|.|WET2061.txt|.|42|.|WET2405.txt|.|20|.|WET4552.txt|.|86|.|WET4619.txt|.|55|.|WET544.txt|.|348|.|WET3827.txt|.|58|.|WET5716.txt|.|21|.|WET6149.txt|.|15|.|WET4982.txt|.|55|.|WET235.txt|.|21|.|WET1752.txt|.|19|.|WET2456.txt|.|46|.|WET4287.txt|.|468
+writes about wine|.|WET2456.txt|.|8
+scouting|.|WET1202.txt|.|2|.|WET5005.txt|.|2|.|WET468.txt|.|2|.|WET4552.txt|.|2|.|WET1803.txt|.|1|.|WET294.txt|.|2|.|WET4163.txt|.|2|.|WET1064.txt|.|3|.|WET3481.txt|.|2|.|WET4278.txt|.|2|.|WET3796.txt|.|2|.|WET4956.txt|.|3|.|WET813.txt|.|3
+tool sets|.|WET5313.txt|.|30
+additional|.|WET3890.txt|.|53|.|WET2103.txt|.|22|.|WET6192.txt|.|29|.|WET1752.txt|.|37
+hoteles en|.|WET5498.txt|.|133
+baseball bat faq|.|WET3827.txt|.|6
+winesbest|.|WET2456.txt|.|42
+programs|.|WET2779.txt|.|15|.|WET2427.txt|.|109
+writes|.|WET3748.txt|.|102|.|WET2456.txt|.|8
+summer|.|WET5601.txt|.|45|.|WET3827.txt|.|14|.|WET5017.txt|.|42|.|WET2490.txt|.|26|.|WET3275.txt|.|24|.|WET6034.txt|.|27

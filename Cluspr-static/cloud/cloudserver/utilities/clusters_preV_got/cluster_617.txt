@@ -1,0 +1,12 @@
+617
+threads started|.|WET4141.txt|.|15
+technology education|.|WET2902.txt|.|5
+home technology|.|WET2902.txt|.|5
+leads|.|WET2902.txt|.|5
+started evaluate|.|WET4593.txt|.|10
+started|.|WET2701.txt|.|194|.|WET2902.txt|.|5|.|WET4593.txt|.|16|.|WET2381.txt|.|150|.|WET6125.txt|.|182|.|WET6126.txt|.|40|.|WET4141.txt|.|17|.|WET5684.txt|.|66
+net general|.|WET2701.txt|.|20
+view forum posts private message|.|WET2382.txt|.|20|.|WET3136.txt|.|61|.|WET6125.txt|.|172
+petition sitestart|.|WET5178.txt|.|11
+seeking|.|WET6063.txt|.|69
+view started|.|WET2381.txt|.|150|.|WET6125.txt|.|172|.|WET6126.txt|.|40

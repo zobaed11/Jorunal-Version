@@ -1,0 +1,12 @@
+19
+successfully|.|WET822.txt|.|102
+bbb business|.|WET1263.txt|.|39|.|WET1262.txt|.|278|.|WET5015.txt|.|95
+web browser|.|WET1095.txt|.|14|.|WET5242.txt|.|3|.|WET1262.txt|.|6|.|WET4847.txt|.|3|.|WET3810.txt|.|2|.|WET3831.txt|.|2|.|WET4844.txt|.|10|.|WET1263.txt|.|3|.|WET3494.txt|.|2|.|WET2042.txt|.|2|.|WET5058.txt|.|2|.|WET3207.txt|.|2|.|WET2222.txt|.|2|.|WET4432.txt|.|4
+business review|.|WET1263.txt|.|20|.|WET1262.txt|.|245|.|WET5015.txt|.|62
+browser|.|WET1095.txt|.|15|.|WET3845.txt|.|2|.|WET5242.txt|.|4|.|WET1262.txt|.|6|.|WET4847.txt|.|5|.|WET3810.txt|.|2|.|WET3831.txt|.|5|.|WET4844.txt|.|11|.|WET1263.txt|.|3|.|WET3494.txt|.|3|.|WET2042.txt|.|3|.|WET5058.txt|.|2|.|WET3207.txt|.|12|.|WET2222.txt|.|18|.|WET4432.txt|.|12
+bbb business review|.|WET1263.txt|.|20
+spock leonard|.|WET4382.txt|.|14
+dashboard|.|WET652.txt|.|37
+nrc|.|WET3197.txt|.|11
+request a quote|.|WET1262.txt|.|119
+previa|.|WET708.txt|.|57

@@ -1,0 +1,15 @@
+14
+abuse|.|WET5029.txt|.|2|.|WET1809.txt|.|7|.|WET5315.txt|.|20|.|WET626.txt|.|65|.|WET1620.txt|.|95
+tue|.|WET3051.txt|.|20|.|WET1620.txt|.|89|.|WET4143.txt|.|62
+printer friendly|.|WET1622.txt|.|19
+printer|.|WET1622.txt|.|19|.|WET838.txt|.|9
+top alert|.|WET1620.txt|.|92
+search web|.|WET3418.txt|.|3|.|WET3419.txt|.|5|.|WET1621.txt|.|10|.|WET6256.txt|.|2|.|WET6255.txt|.|8|.|WET2523.txt|.|5|.|WET1620.txt|.|9|.|WET2522.txt|.|4|.|WET5369.txt|.|6|.|WET5368.txt|.|7
+alert|.|WET1620.txt|.|96|.|WET4551.txt|.|3
+underground|.|WET1622.txt|.|30|.|WET1621.txt|.|60|.|WET1620.txt|.|37|.|WET5369.txt|.|37
+original post|.|WET1620.txt|.|55
+democratic|.|WET1622.txt|.|36|.|WET1621.txt|.|60|.|WET1620.txt|.|38|.|WET5369.txt|.|37
+tue sep|.|WET1620.txt|.|84
+alert abuse|.|WET1620.txt|.|95
+democratic underground|.|WET1622.txt|.|30|.|WET1621.txt|.|60|.|WET1620.txt|.|36|.|WET5369.txt|.|37
+sep|.|WET4305.txt|.|25|.|WET380.txt|.|367|.|WET3236.txt|.|18|.|WET1037.txt|.|10|.|WET464.txt|.|192|.|WET1620.txt|.|170|.|WET1180.txt|.|62

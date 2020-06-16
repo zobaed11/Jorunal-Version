@@ -1,0 +1,12 @@
+703
+seat|.|WET5815.txt|.|16|.|WET5180.txt|.|136
+pinot noir|.|WET3296.txt|.|20|.|WET3297.txt|.|33
+home news|.|WET4271.txt|.|33|.|WET3950.txt|.|14|.|WET1338.txt|.|6|.|WET6206.txt|.|4|.|WET5089.txt|.|7
+el comercio|.|WET330.txt|.|10
+tongues|.|WET4541.txt|.|13
+economy car rentals|.|WET5465.txt|.|87
+kirk spock|.|WET4382.txt|.|14
+viral|.|WET112.txt|.|6
+car rentals|.|WET3653.txt|.|34|.|WET5465.txt|.|170
+knit|.|WET2144.txt|.|44|.|WET5932.txt|.|47|.|WET5930.txt|.|15|.|WET2193.txt|.|25
+commentary|.|WET1036.txt|.|36

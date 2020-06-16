@@ -1,0 +1,12 @@
+588
+stress|.|WET2067.txt|.|88|.|WET2865.txt|.|11|.|WET5808.txt|.|92
+loss|.|WET941.txt|.|4|.|WET34.txt|.|27|.|WET5809.txt|.|81|.|WET4983.txt|.|12|.|WET2067.txt|.|99|.|WET2937.txt|.|20|.|WET2277.txt|.|22|.|WET5808.txt|.|103
+mood|.|WET2067.txt|.|88|.|WET5808.txt|.|90
+mood stress weight loss|.|WET5808.txt|.|88
+mood stress|.|WET5808.txt|.|88
+pressure|.|WET5809.txt|.|72|.|WET2067.txt|.|88|.|WET1998.txt|.|28
+hearing loss|.|WET4983.txt|.|11
+blood|.|WET5809.txt|.|145|.|WET2067.txt|.|176|.|WET918.txt|.|16|.|WET5436.txt|.|53|.|WET6089.txt|.|13
+stress weight|.|WET5808.txt|.|88
+blood pressure blood|.|WET2067.txt|.|88
+sugar cholesterol immunity|.|WET2067.txt|.|88

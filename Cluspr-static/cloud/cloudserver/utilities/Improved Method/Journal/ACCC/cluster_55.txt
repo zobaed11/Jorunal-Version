@@ -1,0 +1,9 @@
+55
+trentino|.|WET1744.txt|.|2
+case vacanze|.|WET1744.txt|.|35
+outsourcing|.|WET6310.txt|.|41
+valle|.|WET1744.txt|.|6
+vacanze|.|WET1744.txt|.|44
+emulation|.|WET5242.txt|.|3|.|WET3636.txt|.|2|.|WET1744.txt|.|20|.|WET6310.txt|.|2|.|WET1922.txt|.|1
+venezia|.|WET1744.txt|.|5
+service level agreement|.|WET6310.txt|.|1

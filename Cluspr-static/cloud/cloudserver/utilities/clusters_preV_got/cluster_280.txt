@@ -1,0 +1,12 @@
+280
+french antiques|.|WET4201.txt|.|11
+south jersey|.|WET2506.txt|.|47|.|WET3949.txt|.|40
+battle dawn forum|.|WET1261.txt|.|13
+paris|.|WET1660.txt|.|36|.|WET4566.txt|.|12
+lemming|.|WET2666.txt|.|33
+balloons|.|WET5070.txt|.|28
+timestamps|.|WET1489.txt|.|2|.|WET6111.txt|.|1|.|WET652.txt|.|3
+bj|.|WET1322.txt|.|4
+email newsletters|.|WET2321.txt|.|33|.|WET6062.txt|.|18
+ice|.|WET1268.txt|.|12|.|WET3642.txt|.|60|.|WET1322.txt|.|18|.|WET3569.txt|.|22|.|WET2506.txt|.|20|.|WET2321.txt|.|24
+hoist|.|WET772.txt|.|9

@@ -1,0 +1,12 @@
+308
+pope|.|WET5191.txt|.|34
+preparing|.|WET3326.txt|.|14
+brochures|.|WET333.txt|.|10
+blackbird designs|.|WET2315.txt|.|35
+bishop|.|WET5191.txt|.|18|.|WET6249.txt|.|60
+italian japanese korean|.|WET4268.txt|.|11|.|WET3387.txt|.|11|.|WET349.txt|.|11|.|WET140.txt|.|11|.|WET4169.txt|.|11|.|WET3193.txt|.|11
+scientific|.|WET4965.txt|.|21
+vis detaljer|.|WET5055.txt|.|3
+catholic|.|WET1442.txt|.|57|.|WET6250.txt|.|22|.|WET3920.txt|.|41|.|WET5191.txt|.|67|.|WET2516.txt|.|83|.|WET6249.txt|.|78
+priest|.|WET5191.txt|.|7
+purdue university|.|WET4062.txt|.|257

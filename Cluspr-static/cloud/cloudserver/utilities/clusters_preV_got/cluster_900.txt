@@ -1,0 +1,12 @@
+900
+english dictionary|.|WET280.txt|.|23|.|WET6314.txt|.|20
+recent and recommended|.|WET280.txt|.|11
+american english|.|WET280.txt|.|15
+buy the mug|.|WET932.txt|.|13
+preferite|.|WET4268.txt|.|11
+dictionary for writers|.|WET2575.txt|.|33
+preferite store cart|.|WET4268.txt|.|11
+learner|.|WET280.txt|.|11
+new oxford dictionary|.|WET2575.txt|.|33
+word lists|.|WET3350.txt|.|20
+english french|.|WET2576.txt|.|8

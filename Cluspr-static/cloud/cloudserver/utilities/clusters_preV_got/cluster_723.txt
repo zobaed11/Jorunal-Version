@@ -1,0 +1,12 @@
+723
+no hay|.|WET3979.txt|.|7
+hay|.|WET3979.txt|.|7
+blueye|.|WET3979.txt|.|7
+convention center|.|WET1544.txt|.|22
+book convention|.|WET1544.txt|.|12
+publicado por|.|WET3979.txt|.|7
+comic|.|WET5280.txt|.|170|.|WET5279.txt|.|215|.|WET1544.txt|.|135|.|WET1530.txt|.|142|.|WET1528.txt|.|213|.|WET1529.txt|.|198|.|WET3376.txt|.|97|.|WET3979.txt|.|87|.|WET5048.txt|.|16
+comic book|.|WET1544.txt|.|36|.|WET3979.txt|.|45
+por blueye|.|WET3979.txt|.|7
+community link|.|WET1544.txt|.|2
+marvel comics reviews|.|WET5280.txt|.|18

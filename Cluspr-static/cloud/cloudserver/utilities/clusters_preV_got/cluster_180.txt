@@ -1,0 +1,12 @@
+180
+cc|.|WET989.txt|.|201
+cd|.|WET3594.txt|.|39|.|WET3915.txt|.|32|.|WET5729.txt|.|59|.|WET1987.txt|.|38
+peg hook|.|WET2730.txt|.|60
+scoring|.|WET5205.txt|.|7|.|WET2085.txt|.|50
+ce|.|WET4134.txt|.|164
+outstanding|.|WET1970.txt|.|35
+votez|.|WET4134.txt|.|133
+mdelections|.|WET636.txt|.|11|.|WET4375.txt|.|11
+guest services|.|WET1381.txt|.|13
+panel|.|WET2983.txt|.|2
+foot|.|WET1839.txt|.|242|.|WET5576.txt|.|92|.|WET3883.txt|.|101

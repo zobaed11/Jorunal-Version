@@ -1,0 +1,12 @@
+411
+native american|.|WET994.txt|.|91
+hollywood resort|.|WET3099.txt|.|54
+er bb|.|WET1256.txt|.|22
+shopping bag continue|.|WET5885.txt|.|11
+blood glucose|.|WET918.txt|.|16
+time warp|.|WET425.txt|.|12|.|WET5171.txt|.|2|.|WET912.txt|.|4
+lochem|.|WET1631.txt|.|26
+relaxing|.|WET5323.txt|.|12
+vital watford|.|WET3255.txt|.|24
+shop style|.|WET5580.txt|.|10
+pictorial|.|WET1507.txt|.|10|.|WET5523.txt|.|12|.|WET323.txt|.|462

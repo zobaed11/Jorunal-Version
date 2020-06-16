@@ -1,0 +1,12 @@
+1017
+search for recipes|.|WET5566.txt|.|6
+recipes|.|WET4081.txt|.|18|.|WET382.txt|.|64|.|WET1148.txt|.|58|.|WET4760.txt|.|23|.|WET1481.txt|.|81|.|WET5455.txt|.|130|.|WET1963.txt|.|84|.|WET5152.txt|.|155|.|WET1753.txt|.|65|.|WET5703.txt|.|79|.|WET5568.txt|.|135|.|WET3010.txt|.|65|.|WET2248.txt|.|97|.|WET5566.txt|.|149|.|WET5367.txt|.|10
+sweet potato|.|WET5703.txt|.|16
+browse recipes|.|WET1753.txt|.|25
+slow|.|WET4150.txt|.|40|.|WET1148.txt|.|53|.|WET5232.txt|.|36|.|WET1481.txt|.|36|.|WET5231.txt|.|40
+potato|.|WET5703.txt|.|29|.|WET3528.txt|.|40
+recipes to browse|.|WET1963.txt|.|11
+san francisco bay|.|WET1481.txt|.|15
+chefs|.|WET2491.txt|.|27|.|WET5568.txt|.|26
+formatting|.|WET5455.txt|.|4
+eatingwell|.|WET5455.txt|.|75

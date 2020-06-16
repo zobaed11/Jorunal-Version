@@ -1,0 +1,12 @@
+1116
+pogorzelicy|.|WET2532.txt|.|14
+color lipstick|.|WET591.txt|.|33
+transmission|.|WET2532.txt|.|16
+laserjet|.|WET5516.txt|.|199
+color|.|WET6158.txt|.|90|.|WET5170.txt|.|21|.|WET168.txt|.|45|.|WET268.txt|.|10|.|WET4011.txt|.|9|.|WET5516.txt|.|152|.|WET3915.txt|.|63|.|WET591.txt|.|89|.|WET4262.txt|.|7|.|WET4280.txt|.|5|.|WET5712.txt|.|1|.|WET267.txt|.|6|.|WET4195.txt|.|9|.|WET535.txt|.|2|.|WET450.txt|.|4|.|WET2532.txt|.|18|.|WET439.txt|.|8|.|WET4010.txt|.|7|.|WET4263.txt|.|3
+color laserjet|.|WET5516.txt|.|140
+playa del|.|WET2574.txt|.|133
+exterior|.|WET168.txt|.|29|.|WET2532.txt|.|16
+jelly|.|WET5170.txt|.|17
+lupe|.|WET459.txt|.|40
+jelly belly|.|WET5170.txt|.|12

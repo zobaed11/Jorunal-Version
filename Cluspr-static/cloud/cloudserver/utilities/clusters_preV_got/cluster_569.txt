@@ -1,0 +1,12 @@
+569
+interviews festivals|.|WET5827.txt|.|4
+celebrity|.|WET2436.txt|.|45|.|WET2160.txt|.|7|.|WET1921.txt|.|11
+nexus|.|WET4145.txt|.|111|.|WET4146.txt|.|63|.|WET1170.txt|.|62|.|WET66.txt|.|24|.|WET404.txt|.|100|.|WET4049.txt|.|25
+weekend box|.|WET1359.txt|.|18
+member join date|.|WET2581.txt|.|59|.|WET6011.txt|.|27|.|WET5084.txt|.|32|.|WET2191.txt|.|23|.|WET4698.txt|.|36
+box office|.|WET1358.txt|.|73|.|WET1357.txt|.|80|.|WET5827.txt|.|12|.|WET5110.txt|.|69|.|WET1359.txt|.|69|.|WET5109.txt|.|92|.|WET5111.txt|.|41|.|WET1921.txt|.|30
+umkc|.|WET100.txt|.|12
+office results|.|WET1359.txt|.|7
+genres franchises|.|WET1359.txt|.|22
+criticwire|.|WET5827.txt|.|9
+showtimesat box office|.|WET5109.txt|.|11

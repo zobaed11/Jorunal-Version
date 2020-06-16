@@ -1,0 +1,12 @@
+1082
+tug atis cub|.|WET1795.txt|.|10
+find list|.|WET128.txt|.|8
+eartha|.|WET5654.txt|.|19
+arduino|.|WET207.txt|.|6
+faq|.|WET2832.txt|.|14|.|WET3654.txt|.|12|.|WET1137.txt|.|22|.|WET1795.txt|.|30|.|WET5291.txt|.|22|.|WET4148.txt|.|11|.|WET5253.txt|.|10|.|WET410.txt|.|16|.|WET5928.txt|.|22|.|WET892.txt|.|19|.|WET207.txt|.|6|.|WET2257.txt|.|14|.|WET3827.txt|.|26|.|WET593.txt|.|7|.|WET2094.txt|.|11|.|WET2190.txt|.|22|.|WET4631.txt|.|30|.|WET4960.txt|.|10
+tractor|.|WET1795.txt|.|164|.|WET3345.txt|.|237
+tin|.|WET4690.txt|.|19|.|WET1021.txt|.|185
+technocrati short url|.|WET2493.txt|.|12
+videos and books|.|WET4148.txt|.|11
+rumors|.|WET4148.txt|.|11|.|WET2093.txt|.|19
+pruitt|.|WET5919.txt|.|9

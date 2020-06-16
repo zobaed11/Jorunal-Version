@@ -1,0 +1,12 @@
+513
+zil sesleri|.|WET1456.txt|.|34
+carol|.|WET1742.txt|.|9
+total fat|.|WET1831.txt|.|55
+movies scenes clips|.|WET3222.txt|.|40
+cherokee nation|.|WET1466.txt|.|6
+tpms|.|WET3552.txt|.|64
+product types|.|WET3153.txt|.|10
+uspa|.|WET5435.txt|.|61
+jeep tech tech|.|WET2136.txt|.|11|.|WET5876.txt|.|7|.|WET5875.txt|.|7
+cherokee|.|WET1466.txt|.|32|.|WET2136.txt|.|209|.|WET2137.txt|.|191|.|WET2135.txt|.|180|.|WET5876.txt|.|148|.|WET5875.txt|.|127|.|WET5185.txt|.|28
+scoop neck|.|WET5926.txt|.|28

@@ -1,0 +1,42 @@
+60
+auditions|.|WET2427.txt|.|69
+world bank|.|WET4890.txt|.|4|.|WET974.txt|.|36
+market information|.|WET2211.txt|.|2|.|WET5760.txt|.|2|.|WET1647.txt|.|2
+interviews|.|WET1879.txt|.|11|.|WET5827.txt|.|12|.|WET2427.txt|.|64|.|WET1019.txt|.|21
+theatre|.|WET4900.txt|.|8|.|WET4267.txt|.|30|.|WET2427.txt|.|35|.|WET171.txt|.|141|.|WET3688.txt|.|24|.|WET5895.txt|.|5
+online degree|.|WET3738.txt|.|5
+performing arts|.|WET1701.txt|.|7|.|WET2427.txt|.|24
+oklahoma city|.|WET1647.txt|.|106
+endpoint|.|WET131.txt|.|2|.|WET1671.txt|.|2|.|WET3575.txt|.|4|.|WET265.txt|.|2|.|WET4212.txt|.|2|.|WET5639.txt|.|3|.|WET510.txt|.|2|.|WET1647.txt|.|4
+tipping|.|WET6255.txt|.|32|.|WET2523.txt|.|20
+bureau of labor statistics|.|WET294.txt|.|4|.|WET4003.txt|.|16|.|WET260.txt|.|3|.|WET1647.txt|.|2|.|WET5087.txt|.|5|.|WET4103.txt|.|12|.|WET259.txt|.|4
+raises|.|WET974.txt|.|22
+alarm|.|WET974.txt|.|25
+information systems management|.|WET3738.txt|.|2
+bureau|.|WET294.txt|.|16|.|WET834.txt|.|24|.|WET4003.txt|.|16|.|WET260.txt|.|4|.|WET1647.txt|.|3|.|WET3593.txt|.|6|.|WET4965.txt|.|8|.|WET3712.txt|.|75|.|WET5087.txt|.|5|.|WET4103.txt|.|12|.|WET259.txt|.|4
+oklahoma|.|WET4438.txt|.|20|.|WET2792.txt|.|33|.|WET3135.txt|.|32|.|WET723.txt|.|19|.|WET537.txt|.|9|.|WET1647.txt|.|391|.|WET1789.txt|.|32
+service managers|.|WET1647.txt|.|6
+overview degree|.|WET2427.txt|.|60
+overview|.|WET647.txt|.|5|.|WET4667.txt|.|11|.|WET863.txt|.|11|.|WET545.txt|.|5|.|WET1956.txt|.|11|.|WET4387.txt|.|11|.|WET859.txt|.|4|.|WET4543.txt|.|2|.|WET4388.txt|.|5|.|WET63.txt|.|5|.|WET243.txt|.|5|.|WET792.txt|.|11|.|WET3486.txt|.|5|.|WET4642.txt|.|4|.|WET646.txt|.|12|.|WET630.txt|.|7|.|WET4787.txt|.|6|.|WET4532.txt|.|11|.|WET4668.txt|.|5|.|WET3791.txt|.|5|.|WET4722.txt|.|4|.|WET629.txt|.|11|.|WET628.txt|.|11|.|WET3792.txt|.|6|.|WET1041.txt|.|9|.|WET2427.txt|.|93|.|WET3885.txt|.|5|.|WET4083.txt|.|8|.|WET191.txt|.|2|.|WET4193.txt|.|9|.|WET5710.txt|.|28|.|WET3842.txt|.|2|.|WET3462.txt|.|3|.|WET899.txt|.|6|.|WET45.txt|.|10|.|WET864.txt|.|3|.|WET4601.txt|.|10|.|WET3454.txt|.|3|.|WET331.txt|.|3|.|WET340.txt|.|8|.|WET4410.txt|.|7|.|WET4507.txt|.|3|.|WET4369.txt|.|11|.|WET4687.txt|.|8|.|WET4529.txt|.|3|.|WET2313.txt|.|31|.|WET4817.txt|.|5
+technology degree|.|WET6255.txt|.|7
+degree programs|.|WET2427.txt|.|64
+counseling|.|WET3738.txt|.|12
+add tags|.|WET226.txt|.|6|.|WET1647.txt|.|6|.|WET1023.txt|.|8
+performing|.|WET1701.txt|.|7|.|WET2427.txt|.|24
+degree|.|WET6255.txt|.|13|.|WET2427.txt|.|64|.|WET974.txt|.|25|.|WET1647.txt|.|174|.|WET3738.txt|.|9
+programs auditions|.|WET2427.txt|.|60
+degree hotter|.|WET974.txt|.|23
+job training|.|WET1647.txt|.|44
+labor|.|WET294.txt|.|10|.|WET4003.txt|.|44|.|WET260.txt|.|44|.|WET1647.txt|.|20|.|WET5087.txt|.|18|.|WET4103.txt|.|25|.|WET259.txt|.|8
+raises alarm|.|WET974.txt|.|22
+placement test|.|WET6255.txt|.|19
+hotter world|.|WET974.txt|.|28
+youth programs|.|WET2427.txt|.|28
+programs|.|WET2779.txt|.|15|.|WET2427.txt|.|109
+placement|.|WET6255.txt|.|34
+job|.|WET2118.txt|.|68|.|WET539.txt|.|59|.|WET4283.txt|.|50|.|WET2081.txt|.|48|.|WET3022.txt|.|29|.|WET1647.txt|.|50|.|WET2814.txt|.|54|.|WET4295.txt|.|36|.|WET2119.txt|.|28|.|WET2080.txt|.|124|.|WET5822.txt|.|73|.|WET160.txt|.|35|.|WET1317.txt|.|30|.|WET3049.txt|.|25
+hotter|.|WET974.txt|.|29
+managers|.|WET2764.txt|.|5|.|WET4693.txt|.|20|.|WET1647.txt|.|24
+stem|.|WET4810.txt|.|2|.|WET3090.txt|.|2|.|WET3005.txt|.|2|.|WET5535.txt|.|2|.|WET583.txt|.|2|.|WET5411.txt|.|1|.|WET3861.txt|.|3|.|WET1900.txt|.|2|.|WET3634.txt|.|2|.|WET3943.txt|.|3|.|WET3464.txt|.|3|.|WET2545.txt|.|3|.|WET4200.txt|.|2|.|WET3854.txt|.|2|.|WET5685.txt|.|2|.|WET5554.txt|.|2|.|WET4355.txt|.|2|.|WET2399.txt|.|2|.|WET5046.txt|.|4|.|WET2037.txt|.|3|.|WET1649.txt|.|2|.|WET2699.txt|.|2|.|WET3180.txt|.|2|.|WET615.txt|.|2|.|WET4550.txt|.|2|.|WET1064.txt|.|2|.|WET5254.txt|.|77|.|WET171.txt|.|3|.|WET5237.txt|.|2|.|WET2441.txt|.|2|.|WET6263.txt|.|2|.|WET3395.txt|.|2|.|WET361.txt|.|3|.|WET3776.txt|.|8|.|WET3204.txt|.|2|.|WET3281.txt|.|2|.|WET3913.txt|.|2|.|WET4946.txt|.|3|.|WET1647.txt|.|2|.|WET3816.txt|.|2|.|WET295.txt|.|2|.|WET5857.txt|.|2|.|WET1965.txt|.|3|.|WET3185.txt|.|2|.|WET5213.txt|.|3|.|WET130.txt|.|3|.|WET4506.txt|.|2|.|WET5053.txt|.|2|.|WET1912.txt|.|1|.|WET138.txt|.|3|.|WET3194.txt|.|2|.|WET4016.txt|.|14|.|WET5465.txt|.|3|.|WET5639.txt|.|2|.|WET4114.txt|.|2|.|WET3012.txt|.|2|.|WET2530.txt|.|2|.|WET4598.txt|.|2|.|WET428.txt|.|2|.|WET4192.txt|.|2|.|WET1644.txt|.|2
+statistics|.|WET294.txt|.|6|.|WET4271.txt|.|29|.|WET5859.txt|.|16|.|WET1781.txt|.|48|.|WET4003.txt|.|33|.|WET260.txt|.|7|.|WET3045.txt|.|23|.|WET1647.txt|.|5|.|WET5087.txt|.|16|.|WET4103.txt|.|24|.|WET259.txt|.|7
+counseling ms|.|WET3738.txt|.|8

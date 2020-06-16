@@ -1,0 +1,12 @@
+992
+bb|.|WET1256.txt|.|43
+ar|.|WET1232.txt|.|10|.|WET3482.txt|.|53
+wildcats|.|WET3378.txt|.|50|.|WET873.txt|.|50|.|WET5524.txt|.|40
+haunted|.|WET5726.txt|.|78
+av|.|WET1825.txt|.|19|.|WET5761.txt|.|33|.|WET3771.txt|.|199|.|WET3542.txt|.|34|.|WET932.txt|.|28
+folk|.|WET5728.txt|.|13
+bk|.|WET1324.txt|.|13
+events calendar|.|WET3329.txt|.|24
+compression|.|WET3143.txt|.|18|.|WET187.txt|.|32
+elit|.|WET5403.txt|.|6
+company where city|.|WET4282.txt|.|11

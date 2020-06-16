@@ -1,0 +1,12 @@
+1362
+convector heater|.|WET1984.txt|.|8
+buckingham palace|.|WET2271.txt|.|52
+login or create|.|WET5730.txt|.|19
+quantities notable|.|WET1590.txt|.|43|.|WET5340.txt|.|24
+pool|.|WET5981.txt|.|4|.|WET6106.txt|.|25|.|WET1192.txt|.|163
+ios|.|WET1293.txt|.|8|.|WET5211.txt|.|9|.|WET6030.txt|.|28|.|WET4155.txt|.|186
+gardening forums|.|WET1416.txt|.|4
+del norte|.|WET2428.txt|.|19
+academic affairs|.|WET1063.txt|.|15
+swiss bike hotels|.|WET2444.txt|.|18
+airport|.|WET3229.txt|.|1096|.|WET2187.txt|.|214|.|WET4741.txt|.|33|.|WET3621.txt|.|37

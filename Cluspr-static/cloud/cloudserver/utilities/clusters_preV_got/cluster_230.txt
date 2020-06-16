@@ -1,0 +1,12 @@
+230
+wire|.|WET3690.txt|.|36|.|WET5373.txt|.|40|.|WET835.txt|.|14
+puzzlesfamily|.|WET3690.txt|.|12
+shades|.|WET1330.txt|.|256|.|WET5081.txt|.|289
+timely|.|WET3690.txt|.|6
+yong|.|WET3690.txt|.|12
+window blinds|.|WET5081.txt|.|14
+gong yong|.|WET3690.txt|.|12
+cheating|.|WET3331.txt|.|1|.|WET3692.txt|.|15|.|WET3810.txt|.|3|.|WET1001.txt|.|2|.|WET714.txt|.|2|.|WET4412.txt|.|1|.|WET1998.txt|.|2|.|WET4176.txt|.|3|.|WET5345.txt|.|3|.|WET5969.txt|.|4|.|WET4514.txt|.|2|.|WET5049.txt|.|2|.|WET5350.txt|.|2|.|WET5262.txt|.|2|.|WET2775.txt|.|2|.|WET5290.txt|.|2|.|WET3755.txt|.|3|.|WET5835.txt|.|2|.|WET3322.txt|.|3|.|WET369.txt|.|2|.|WET3997.txt|.|17|.|WET3458.txt|.|2|.|WET4454.txt|.|2|.|WET4873.txt|.|3|.|WET3110.txt|.|2|.|WET484.txt|.|3
+puzzle collectionother|.|WET3690.txt|.|12
+wood blinds|.|WET1330.txt|.|31
+window treatments|.|WET1330.txt|.|51

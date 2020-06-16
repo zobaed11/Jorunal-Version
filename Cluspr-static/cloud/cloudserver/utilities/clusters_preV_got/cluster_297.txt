@@ -1,0 +1,12 @@
+297
+alibris for libraries|.|WET4892.txt|.|14
+email marketing|.|WET3599.txt|.|45
+ellison groce|.|WET2245.txt|.|8
+manuscript|.|WET2245.txt|.|10
+lsu health sciences|.|WET3928.txt|.|53
+neosho daily|.|WET6216.txt|.|27
+libraries|.|WET2245.txt|.|21|.|WET3928.txt|.|109|.|WET581.txt|.|16|.|WET5982.txt|.|11|.|WET4892.txt|.|14|.|WET4326.txt|.|29
+biographical manuscript|.|WET2245.txt|.|7
+digital collections|.|WET581.txt|.|48|.|WET4026.txt|.|13|.|WET4326.txt|.|21|.|WET3961.txt|.|39
+digital services|.|WET5982.txt|.|12
+lsu|.|WET3101.txt|.|108|.|WET3928.txt|.|248

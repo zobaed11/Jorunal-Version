@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="edu.mit.jwi_2.4.0.jar"/>
+	<classpathentry kind="lib" path="ws4j-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/c00300901/Music/word_correction.jar"/>
+	<classpathentry kind="output" path="out/production/threshold_estimation"/>
+</classpath>

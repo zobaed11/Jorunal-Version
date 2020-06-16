@@ -1,0 +1,12 @@
+615
+bible|.|WET2563.txt|.|37|.|WET1146.txt|.|330|.|WET4320.txt|.|62|.|WET5520.txt|.|124|.|WET1482.txt|.|28|.|WET1786.txt|.|104|.|WET4894.txt|.|301|.|WET5233.txt|.|72
+tai vie luo|.|WET3444.txt|.|9
+romulan|.|WET4382.txt|.|12
+zondervan bibles|.|WET5520.txt|.|11
+print bibles|.|WET1146.txt|.|11
+teen bibles|.|WET1146.txt|.|7
+audio bibles|.|WET1146.txt|.|18
+bible studies|.|WET5520.txt|.|20|.|WET1786.txt|.|27
+peak|.|WET2621.txt|.|73|.|WET2620.txt|.|45
+zondervan|.|WET5520.txt|.|25
+new international|.|WET5520.txt|.|32

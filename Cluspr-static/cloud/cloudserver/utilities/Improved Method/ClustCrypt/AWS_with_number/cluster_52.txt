@@ -1,0 +1,15 @@
+52
+gurus premium|.|WET1970.txt|.|18
+rank revenue|.|WET5711.txt|.|5
+net cash|.|WET1970.txt|.|26
+net veteran|.|WET2842.txt|.|63
+stock email|.|WET1970.txt|.|27
+current assets|.|WET1970.txt|.|20
+email alerts|.|WET1970.txt|.|45
+assets|.|WET1970.txt|.|116
+net veteran posts|.|WET2842.txt|.|63
+veteran posts|.|WET2842.txt|.|63
+cash flow|.|WET1970.txt|.|84
+net|.|WET1970.txt|.|155|.|WET2701.txt|.|48|.|WET6092.txt|.|20|.|WET5711.txt|.|118|.|WET2842.txt|.|184
+seahawks|.|WET2842.txt|.|50
+shares outstanding|.|WET1970.txt|.|25

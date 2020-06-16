@@ -1,0 +1,12 @@
+162
+intraday|.|WET3838.txt|.|40
+ver|.|WET5481.txt|.|249|.|WET1018.txt|.|25|.|WET6167.txt|.|23|.|WET2087.txt|.|129
+alex|.|WET2090.txt|.|73|.|WET5834.txt|.|75|.|WET1143.txt|.|53
+personal finance|.|WET1835.txt|.|7|.|WET3838.txt|.|20
+club conspiracy forums|.|WET5255.txt|.|34|.|WET1504.txt|.|32
+vef|.|WET5776.txt|.|31
+chart interactive|.|WET3838.txt|.|10
+alex jones show|.|WET5834.txt|.|43
+bhutto|.|WET5537.txt|.|15
+faucets|.|WET1798.txt|.|174|.|WET4615.txt|.|70
+alex jones|.|WET2090.txt|.|64|.|WET5834.txt|.|66

@@ -1,0 +1,12 @@
+316
+famous poets|.|WET2674.txt|.|125
+area news|.|WET5090.txt|.|11
+newsreader columnspublic noticescalendaradvertiser specialsbluff country|.|WET5090.txt|.|11
+rug size|.|WET3570.txt|.|11
+stellenbosch|.|WET4876.txt|.|90
+famous poems|.|WET2674.txt|.|70
+area rug|.|WET3570.txt|.|36
+class|.|WET5133.txt|.|24|.|WET3304.txt|.|18|.|WET306.txt|.|78|.|WET2996.txt|.|13|.|WET302.txt|.|41|.|WET224.txt|.|8|.|WET3735.txt|.|32|.|WET4046.txt|.|8
+reader bluff country|.|WET5090.txt|.|11
+reporting|.|WET3627.txt|.|13|.|WET1571.txt|.|16
+apartments|.|WET6056.txt|.|13|.|WET4876.txt|.|54|.|WET2762.txt|.|111|.|WET2312.txt|.|15

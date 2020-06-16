@@ -1,0 +1,12 @@
+877
+australia au|.|WET5784.txt|.|5
+museo|.|WET6170.txt|.|42
+museo reina|.|WET6170.txt|.|15
+centelles|.|WET6170.txt|.|47
+maghreb mg|.|WET5784.txt|.|5
+canada ca|.|WET5784.txt|.|5
+extensiones|.|WET4093.txt|.|23
+las extensiones|.|WET4093.txt|.|9
+france fr|.|WET5784.txt|.|5
+es|.|WET4719.txt|.|30|.|WET6170.txt|.|26|.|WET4093.txt|.|49|.|WET3438.txt|.|77|.|WET848.txt|.|528|.|WET5784.txt|.|15|.|WET569.txt|.|35|.|WET1204.txt|.|44|.|WET5480.txt|.|80|.|WET2218.txt|.|6|.|WET3408.txt|.|18|.|WET2087.txt|.|72
+uk united|.|WET5784.txt|.|7

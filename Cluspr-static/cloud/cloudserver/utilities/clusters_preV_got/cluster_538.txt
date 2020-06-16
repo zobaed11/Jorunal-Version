@@ -1,0 +1,12 @@
+538
+england|.|WET240.txt|.|45|.|WET3341.txt|.|31|.|WET5649.txt|.|46|.|WET3986.txt|.|35|.|WET5700.txt|.|145|.|WET5500.txt|.|50|.|WET1762.txt|.|104
+sponsor|.|WET564.txt|.|6|.|WET5734.txt|.|104|.|WET1795.txt|.|10|.|WET2914.txt|.|12|.|WET3969.txt|.|3|.|WET6149.txt|.|3
+premium photographic|.|WET4958.txt|.|90
+canvas|.|WET6158.txt|.|68|.|WET837.txt|.|35|.|WET4958.txt|.|195|.|WET836.txt|.|33|.|WET1203.txt|.|106|.|WET4578.txt|.|34|.|WET4869.txt|.|52
+funny pictures|.|WET2181.txt|.|24|.|WET4737.txt|.|28
+audi|.|WET691.txt|.|22
+fbrn|.|WET4095.txt|.|10|.|WET351.txt|.|11
+currency|.|WET4576.txt|.|22|.|WET837.txt|.|22|.|WET5220.txt|.|13|.|WET836.txt|.|22|.|WET4578.txt|.|22|.|WET5776.txt|.|4|.|WET4857.txt|.|34
+captain|.|WET1562.txt|.|12|.|WET3894.txt|.|20|.|WET2666.txt|.|34|.|WET4590.txt|.|5
+dairy|.|WET2014.txt|.|35
+masn nationals|.|WET2319.txt|.|44

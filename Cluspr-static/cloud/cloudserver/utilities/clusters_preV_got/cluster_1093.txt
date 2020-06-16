@@ -1,0 +1,12 @@
+1093
+cu|.|WET299.txt|.|88|.|WET5291.txt|.|34
+water filters|.|WET5037.txt|.|9
+cw|.|WET1573.txt|.|36|.|WET5450.txt|.|25|.|WET5320.txt|.|60
+partner|.|WET3237.txt|.|16
+redbook|.|WET2602.txt|.|5
+squarepolitics|.|WET2602.txt|.|5
+cm|.|WET2071.txt|.|350
+data sheet|.|WET4048.txt|.|4
+noudettu|.|WET3444.txt|.|9
+cq|.|WET237.txt|.|10
+flu|.|WET2417.txt|.|29

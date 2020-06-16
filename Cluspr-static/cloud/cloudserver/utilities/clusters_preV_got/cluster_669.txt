@@ -1,0 +1,12 @@
+669
+businesses place|.|WET201.txt|.|9
+histopolis|.|WET2011.txt|.|44|.|WET5749.txt|.|66
+atlas|.|WET2705.txt|.|8|.|WET5830.txt|.|55
+place finder|.|WET5830.txt|.|33
+infoplease|.|WET5830.txt|.|48
+place an ad|.|WET202.txt|.|42|.|WET4878.txt|.|28|.|WET2505.txt|.|52|.|WET2165.txt|.|14
+transportation and automotive|.|WET2165.txt|.|21
+expedited shipping|.|WET5042.txt|.|36|.|WET1292.txt|.|29
+south jersey times|.|WET202.txt|.|42
+free expedited shipping|.|WET5042.txt|.|31
+iframes|.|WET6134.txt|.|14|.|WET2165.txt|.|14

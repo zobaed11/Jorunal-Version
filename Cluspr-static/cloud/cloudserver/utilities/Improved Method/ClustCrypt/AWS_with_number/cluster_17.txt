@@ -1,0 +1,22 @@
+17
+english dictionary|.|WET280.txt|.|23|.|WET6314.txt|.|20
+spanish|.|WET899.txt|.|99|.|WET3138.txt|.|9|.|WET423.txt|.|55|.|WET355.txt|.|14|.|WET3997.txt|.|5|.|WET1686.txt|.|10|.|WET704.txt|.|11|.|WET2576.txt|.|69|.|WET6314.txt|.|63|.|WET3579.txt|.|272|.|WET907.txt|.|11
+australia au|.|WET5784.txt|.|5
+test|.|WET3706.txt|.|46|.|WET3985.txt|.|72|.|WET5624.txt|.|21|.|WET6255.txt|.|38|.|WET1029.txt|.|20|.|WET5818.txt|.|34
+australia|.|WET3985.txt|.|66|.|WET5784.txt|.|7|.|WET3261.txt|.|59|.|WET4974.txt|.|9|.|WET6314.txt|.|79
+countries|.|WET240.txt|.|42|.|WET3985.txt|.|77|.|WET5850.txt|.|157|.|WET3247.txt|.|37
+climate|.|WET3261.txt|.|30|.|WET3260.txt|.|35
+france fr|.|WET5784.txt|.|5
+maghreb|.|WET5784.txt|.|7
+grammar|.|WET2575.txt|.|152|.|WET797.txt|.|29|.|WET1103.txt|.|33|.|WET2576.txt|.|124|.|WET6314.txt|.|114|.|WET6313.txt|.|91
+south america|.|WET3261.txt|.|7
+weather|.|WET388.txt|.|69|.|WET1498.txt|.|38|.|WET3260.txt|.|126|.|WET5841.txt|.|144|.|WET3307.txt|.|30|.|WET3757.txt|.|24|.|WET566.txt|.|97|.|WET3261.txt|.|303|.|WET4302.txt|.|43|.|WET2527.txt|.|48|.|WET4126.txt|.|125|.|WET1377.txt|.|16|.|WET3304.txt|.|62|.|WET4309.txt|.|113|.|WET4855.txt|.|50|.|WET2098.txt|.|156|.|WET565.txt|.|68|.|WET3303.txt|.|59|.|WET6206.txt|.|32|.|WET2467.txt|.|35|.|WET1039.txt|.|43|.|WET1106.txt|.|44|.|WET1081.txt|.|40|.|WET387.txt|.|111|.|WET2196.txt|.|33|.|WET3259.txt|.|71|.|WET4127.txt|.|91
+france|.|WET5784.txt|.|7
+maghreb mg|.|WET5784.txt|.|5
+canada ca|.|WET5784.txt|.|5
+spanish english|.|WET6314.txt|.|14
+wickets|.|WET240.txt|.|104|.|WET3985.txt|.|138|.|WET3986.txt|.|65
+australia canada|.|WET6314.txt|.|63
+uk united|.|WET5784.txt|.|7
+highest score|.|WET3985.txt|.|111
+us english synonyms|.|WET6314.txt|.|20

@@ -1,0 +1,12 @@
+1278
+monitoring your network|.|WET3151.txt|.|2
+monitoring network|.|WET5361.txt|.|1
+refers|.|WET3413.txt|.|1|.|WET826.txt|.|1|.|WET5866.txt|.|12|.|WET1516.txt|.|2|.|WET3460.txt|.|2|.|WET3301.txt|.|5|.|WET4643.txt|.|1
+multiplexing|.|WET5685.txt|.|7
+acronym|.|WET1117.txt|.|41|.|WET4865.txt|.|16|.|WET1103.txt|.|23
+rendezvous|.|WET1220.txt|.|2|.|WET2933.txt|.|4|.|WET5685.txt|.|3
+promotes|.|WET3767.txt|.|1|.|WET4226.txt|.|1|.|WET4121.txt|.|2|.|WET4325.txt|.|2|.|WET4089.txt|.|2|.|WET1179.txt|.|2|.|WET4865.txt|.|1|.|WET4680.txt|.|3|.|WET6218.txt|.|2|.|WET3532.txt|.|2|.|WET3478.txt|.|2|.|WET4229.txt|.|2|.|WET6256.txt|.|2|.|WET926.txt|.|2|.|WET1858.txt|.|1|.|WET6004.txt|.|1|.|WET3813.txt|.|1|.|WET3220.txt|.|2|.|WET521.txt|.|1|.|WET2088.txt|.|2
+wide area networking|.|WET6218.txt|.|4
+aston|.|WET3255.txt|.|14
+network|.|WET5361.txt|.|6|.|WET2107.txt|.|34|.|WET528.txt|.|4|.|WET5569.txt|.|112|.|WET6141.txt|.|4|.|WET3329.txt|.|19|.|WET6218.txt|.|68|.|WET199.txt|.|2|.|WET1833.txt|.|99|.|WET2397.txt|.|2|.|WET1103.txt|.|33|.|WET4854.txt|.|24|.|WET3151.txt|.|7|.|WET6222.txt|.|5|.|WET5685.txt|.|258|.|WET575.txt|.|34|.|WET4707.txt|.|2|.|WET4931.txt|.|7|.|WET220.txt|.|6|.|WET1453.txt|.|8|.|WET5347.txt|.|2|.|WET4820.txt|.|12|.|WET1325.txt|.|17|.|WET1179.txt|.|4|.|WET5691.txt|.|9|.|WET1187.txt|.|30|.|WET1516.txt|.|192|.|WET4064.txt|.|7|.|WET3255.txt|.|9|.|WET4940.txt|.|37|.|WET1975.txt|.|8
+lotrointerface|.|WET4820.txt|.|6

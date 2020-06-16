@@ -1,0 +1,12 @@
+607
+nouvelles|.|WET5504.txt|.|6
+christian science|.|WET1581.txt|.|21|.|WET1580.txt|.|23|.|WET5329.txt|.|24
+roman philosophy|.|WET4501.txt|.|8
+saving|.|WET1581.txt|.|12
+science applied|.|WET2334.txt|.|12
+cognitive|.|WET4501.txt|.|8
+roman|.|WET4501.txt|.|8
+science news|.|WET5504.txt|.|12
+applied ethics|.|WET4501.txt|.|5
+calendar featured meeting|.|WET5504.txt|.|6
+cognitive science|.|WET4501.txt|.|4

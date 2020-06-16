@@ -1,0 +1,12 @@
+586
+bad credit loan|.|WET1236.txt|.|38
+olympic|.|WET3965.txt|.|23|.|WET5954.txt|.|42|.|WET2217.txt|.|60|.|WET1440.txt|.|26
+sana|.|WET4645.txt|.|32
+royal house|.|WET3073.txt|.|66
+legal forms|.|WET5968.txt|.|10|.|WET2231.txt|.|11
+provider|.|WET1402.txt|.|18
+attorney|.|WET5968.txt|.|42|.|WET2231.txt|.|39
+sara|.|WET5900.txt|.|17|.|WET2159.txt|.|18|.|WET2491.txt|.|27
+projection|.|WET2702.txt|.|132
+hare|.|WET2111.txt|.|19
+main content|.|WET1062.txt|.|5|.|WET6112.txt|.|6|.|WET1063.txt|.|9|.|WET3974.txt|.|11

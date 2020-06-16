@@ -1,0 +1,12 @@
+606
+favorite arguments|.|WET4804.txt|.|5
+starship|.|WET643.txt|.|10
+memory alpha|.|WET643.txt|.|24
+psychology|.|WET796.txt|.|58
+newer edit|.|WET4804.txt|.|2
+wiki|.|WET14.txt|.|24|.|WET796.txt|.|62|.|WET1054.txt|.|30|.|WET2062.txt|.|40|.|WET643.txt|.|63|.|WET4804.txt|.|32|.|WET1168.txt|.|32|.|WET2882.txt|.|14
+spacecraft classes starship|.|WET643.txt|.|7
+psychology journals|.|WET796.txt|.|24
+sulu|.|WET643.txt|.|14
+journals list|.|WET796.txt|.|8
+uss enterprise|.|WET643.txt|.|14

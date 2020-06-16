@@ -1,0 +1,12 @@
+1107
+scraped|.|WET5804.txt|.|46
+shop her exact|.|WET483.txt|.|13
+stock no|.|WET5639.txt|.|24
+serial|.|WET5639.txt|.|26
+add artist photo|.|WET2290.txt|.|9|.|WET6028.txt|.|9
+feel free|.|WET5619.txt|.|26
+heroine|.|WET5619.txt|.|85
+small medium|.|WET2608.txt|.|7
+mixer mfg|.|WET5639.txt|.|8
+click|.|WET5804.txt|.|58|.|WET3582.txt|.|7|.|WET4493.txt|.|22|.|WET5336.txt|.|19|.|WET4828.txt|.|26|.|WET6045.txt|.|9|.|WET5639.txt|.|63|.|WET4718.txt|.|19|.|WET3548.txt|.|6|.|WET483.txt|.|41|.|WET6028.txt|.|56|.|WET1119.txt|.|15|.|WET2608.txt|.|19|.|WET6009.txt|.|20|.|WET5619.txt|.|215|.|WET2290.txt|.|56|.|WET754.txt|.|31|.|WET4495.txt|.|14|.|WET3049.txt|.|6
+read article|.|WET483.txt|.|22

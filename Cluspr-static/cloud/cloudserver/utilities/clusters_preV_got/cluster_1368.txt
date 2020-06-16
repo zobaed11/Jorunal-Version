@@ -1,0 +1,12 @@
+1368
+health media|.|WET3047.txt|.|40
+unflued lpg|.|WET1984.txt|.|6
+york knicks|.|WET2530.txt|.|121|.|WET5928.txt|.|39
+ibm|.|WET3641.txt|.|57
+ibm platform|.|WET3641.txt|.|9
+ian|.|WET5466.txt|.|34
+rugs|.|WET1568.txt|.|99|.|WET2689.txt|.|80|.|WET1406.txt|.|8|.|WET3272.txt|.|107
+expertise|.|WET6285.txt|.|2|.|WET5522.txt|.|1|.|WET2519.txt|.|2|.|WET2862.txt|.|2|.|WET1565.txt|.|2|.|WET5197.txt|.|2|.|WET4286.txt|.|1|.|WET901.txt|.|2|.|WET1727.txt|.|1|.|WET3442.txt|.|2|.|WET4816.txt|.|2|.|WET3120.txt|.|2|.|WET4214.txt|.|2|.|WET4015.txt|.|3|.|WET3663.txt|.|2|.|WET4443.txt|.|2|.|WET4112.txt|.|2|.|WET5169.txt|.|3|.|WET1910.txt|.|1|.|WET1321.txt|.|2|.|WET1059.txt|.|2|.|WET3452.txt|.|10|.|WET4173.txt|.|2|.|WET5427.txt|.|2|.|WET5046.txt|.|3|.|WET6275.txt|.|2|.|WET4567.txt|.|2|.|WET5736.txt|.|2|.|WET5059.txt|.|2|.|WET459.txt|.|5|.|WET294.txt|.|2|.|WET4967.txt|.|2|.|WET2263.txt|.|3|.|WET1395.txt|.|2|.|WET809.txt|.|2|.|WET1691.txt|.|2|.|WET1706.txt|.|3|.|WET3874.txt|.|2|.|WET3094.txt|.|3|.|WET1679.txt|.|2|.|WET2038.txt|.|2|.|WET5179.txt|.|2|.|WET5780.txt|.|3|.|WET3395.txt|.|2|.|WET4856.txt|.|3|.|WET3776.txt|.|3|.|WET3590.txt|.|2|.|WET2564.txt|.|6
+hot seller as low|.|WET5493.txt|.|225
+scooters|.|WET1644.txt|.|31
+toughpigs|.|WET667.txt|.|21

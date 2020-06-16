@@ -1,0 +1,12 @@
+65
+undergraduates graduates|.|WET3437.txt|.|6
+popularhighest ratednew|.|WET1241.txt|.|16
+snow days|.|WET2409.txt|.|20
+rss feeds podcasts|.|WET1655.txt|.|30
+voting|.|WET719.txt|.|1|.|WET1331.txt|.|1|.|WET2552.txt|.|2|.|WET3366.txt|.|2|.|WET1615.txt|.|1|.|WET3959.txt|.|1|.|WET1819.txt|.|1|.|WET3384.txt|.|1|.|WET778.txt|.|4|.|WET5536.txt|.|2|.|WET5292.txt|.|1|.|WET5375.txt|.|2|.|WET3651.txt|.|1|.|WET1421.txt|.|2|.|WET4977.txt|.|2|.|WET1049.txt|.|2|.|WET3635.txt|.|1|.|WET4707.txt|.|1|.|WET65.txt|.|1|.|WET4767.txt|.|1|.|WET1224.txt|.|2|.|WET5150.txt|.|1|.|WET1020.txt|.|1|.|WET4300.txt|.|1|.|WET2772.txt|.|1|.|WET1489.txt|.|2|.|WET4741.txt|.|1|.|WET1648.txt|.|3|.|WET5192.txt|.|2|.|WET5352.txt|.|1|.|WET4391.txt|.|2|.|WET1603.txt|.|4|.|WET5980.txt|.|1|.|WET5344.txt|.|2|.|WET3875.txt|.|2|.|WET3920.txt|.|3|.|WET3831.txt|.|1|.|WET5459.txt|.|2|.|WET2814.txt|.|1|.|WET121.txt|.|2|.|WET6248.txt|.|3|.|WET5770.txt|.|2|.|WET4953.txt|.|1|.|WET4996.txt|.|1|.|WET4321.txt|.|2|.|WET697.txt|.|2|.|WET1072.txt|.|1|.|WET5894.txt|.|1|.|WET3534.txt|.|1|.|WET5975.txt|.|2|.|WET3724.txt|.|2|.|WET2021.txt|.|3
+goods|.|WET3614.txt|.|8
+bay city|.|WET2377.txt|.|81|.|WET6123.txt|.|28
+harry potter|.|WET4216.txt|.|86
+us submit news|.|WET2407.txt|.|18
+religion|.|WET4554.txt|.|30
+instructors|.|WET1134.txt|.|15

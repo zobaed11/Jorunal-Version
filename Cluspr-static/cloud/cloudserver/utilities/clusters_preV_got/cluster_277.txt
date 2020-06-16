@@ -1,0 +1,12 @@
+277
+headquarters|.|WET3794.txt|.|150|.|WET3259.txt|.|6
+international nonproprietary|.|WET3794.txt|.|135
+johan toresson|.|WET4180.txt|.|8
+toresson|.|WET4180.txt|.|8
+quality jobs|.|WET5617.txt|.|5
+johan|.|WET4180.txt|.|10
+visual puns|.|WET789.txt|.|11|.|WET788.txt|.|11
+gallifreyan embassy|.|WET4180.txt|.|5
+nonproprietary|.|WET3794.txt|.|135
+puns|.|WET789.txt|.|11|.|WET788.txt|.|11
+drug|.|WET2807.txt|.|96|.|WET3794.txt|.|201|.|WET5437.txt|.|86|.|WET3048.txt|.|14

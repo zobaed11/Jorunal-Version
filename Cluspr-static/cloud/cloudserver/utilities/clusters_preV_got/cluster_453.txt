@@ -1,0 +1,12 @@
+453
+exceeded|.|WET2336.txt|.|61
+balance|.|WET2706.txt|.|9|.|WET3682.txt|.|6
+dna|.|WET5254.txt|.|335
+ctb mvp|.|WET3953.txt|.|45|.|WET206.txt|.|44
+values limited|.|WET2025.txt|.|10
+chloe|.|WET690.txt|.|36
+construction hoover dam|.|WET582.txt|.|36
+baez|.|WET4370.txt|.|6
+sencha touch|.|WET3706.txt|.|36
+time view pacific|.|WET4247.txt|.|12
+trillion euros|.|WET2053.txt|.|5

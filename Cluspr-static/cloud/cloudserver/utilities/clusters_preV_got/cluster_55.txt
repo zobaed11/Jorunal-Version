@@ -1,0 +1,12 @@
+55
+membre|.|WET6057.txt|.|16
+marriott executive apartments|.|WET6056.txt|.|13|.|WET2312.txt|.|15
+earn points|.|WET2313.txt|.|8
+meilleur|.|WET2314.txt|.|12
+towneplace|.|WET6056.txt|.|15
+fairfield inn|.|WET6056.txt|.|31
+offers resorts|.|WET2313.txt|.|8
+breakfast|.|WET2312.txt|.|35
+rewards overview|.|WET2313.txt|.|8
+map contact|.|WET2313.txt|.|8
+high speed internet free breakfast|.|WET2312.txt|.|26

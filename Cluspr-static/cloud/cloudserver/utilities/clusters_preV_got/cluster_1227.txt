@@ -1,0 +1,12 @@
+1227
+stock report|.|WET2454.txt|.|15
+barbary macaque|.|WET1682.txt|.|7
+dividend history|.|WET2454.txt|.|24
+company news|.|WET2454.txt|.|50
+request our catalogs|.|WET5233.txt|.|9
+bible study|.|WET1482.txt|.|12|.|WET5233.txt|.|14
+searched the web|.|WET2598.txt|.|2
+toys gifts kids|.|WET5233.txt|.|9
+orders placed|.|WET2598.txt|.|4
+free stock|.|WET5428.txt|.|30|.|WET1680.txt|.|31
+stock reports competitors|.|WET2454.txt|.|9

@@ -1,0 +1,28 @@
+78
+saves crock pot|.|WET5232.txt|.|18|.|WET5231.txt|.|20
+crock pot|.|WET5232.txt|.|18
+programming visual|.|WET4150.txt|.|43
+search forums|.|WET1274.txt|.|10|.|WET4150.txt|.|9|.|WET2558.txt|.|11|.|WET190.txt|.|5
+codeguru|.|WET4150.txt|.|68
+pot|.|WET5232.txt|.|27|.|WET5231.txt|.|30|.|WET3685.txt|.|20
+saves|.|WET5232.txt|.|369|.|WET5231.txt|.|410
+stuffed poblano peppers|.|WET5231.txt|.|20
+cake|.|WET954.txt|.|29|.|WET5231.txt|.|20|.|WET77.txt|.|24
+saves champagne|.|WET5232.txt|.|18
+champagne|.|WET5232.txt|.|18
+visual basic|.|WET4150.txt|.|72|.|WET2701.txt|.|20|.|WET409.txt|.|38
+cooking|.|WET1832.txt|.|51|.|WET2996.txt|.|9|.|WET5232.txt|.|49|.|WET1481.txt|.|52|.|WET3528.txt|.|140
+codeguru forums|.|WET4150.txt|.|12
+programming|.|WET2130.txt|.|91|.|WET4150.txt|.|121|.|WET756.txt|.|56|.|WET1716.txt|.|14|.|WET4497.txt|.|42|.|WET2128.txt|.|33
+slow cooker|.|WET1148.txt|.|52|.|WET5232.txt|.|27|.|WET1481.txt|.|27
+peppers|.|WET5231.txt|.|20
+fajitas|.|WET5231.txt|.|22
+saves dirt cake|.|WET5231.txt|.|20
+salmon|.|WET5231.txt|.|20
+stuffed|.|WET5231.txt|.|21
+san francisco bay|.|WET1481.txt|.|15
+slow|.|WET4150.txt|.|40|.|WET1148.txt|.|53|.|WET5232.txt|.|36|.|WET1481.txt|.|36|.|WET5231.txt|.|40
+cooker|.|WET1148.txt|.|54|.|WET5232.txt|.|27|.|WET1481.txt|.|27|.|WET5231.txt|.|30
+saves slow cooker|.|WET5231.txt|.|20
+saves stuffed poblano|.|WET5231.txt|.|20
+basic|.|WET4150.txt|.|72|.|WET2701.txt|.|38|.|WET4824.txt|.|6|.|WET409.txt|.|38|.|WET631.txt|.|14|.|WET2157.txt|.|11

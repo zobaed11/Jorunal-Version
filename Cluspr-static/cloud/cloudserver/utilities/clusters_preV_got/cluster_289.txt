@@ -1,0 +1,12 @@
+289
+processed|.|WET2263.txt|.|12|.|WET3690.txt|.|12
+cremas victoria|.|WET592.txt|.|13
+flats|.|WET3606.txt|.|15
+gas boiler|.|WET3715.txt|.|7
+utara|.|WET5251.txt|.|20
+counter top microwavegeneral|.|WET390.txt|.|108
+ocho|.|WET3981.txt|.|16
+gospel|.|WET5728.txt|.|12|.|WET2432.txt|.|45
+opteron|.|WET3164.txt|.|12
+eye shadow|.|WET2678.txt|.|35
+music downloads|.|WET6175.txt|.|115|.|WET6173.txt|.|309|.|WET6174.txt|.|307|.|WET2433.txt|.|56|.|WET2432.txt|.|316|.|WET2431.txt|.|305

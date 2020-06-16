@@ -1,0 +1,12 @@
+512
+broadcast ratings|.|WET959.txt|.|6
+phosphoglycerate mutase|.|WET5911.txt|.|1013
+sterling silver|.|WET3354.txt|.|146
+espresso|.|WET3705.txt|.|79
+tuesday|.|WET959.txt|.|35|.|WET86.txt|.|14
+money|.|WET1581.txt|.|25|.|WET3079.txt|.|104|.|WET2477.txt|.|7|.|WET4071.txt|.|161
+orig|.|WET3354.txt|.|280
+spins the numbers|.|WET959.txt|.|35
+pox|.|WET3311.txt|.|30
+earrings|.|WET3354.txt|.|154|.|WET1800.txt|.|34
+pearl|.|WET3354.txt|.|108|.|WET2175.txt|.|10

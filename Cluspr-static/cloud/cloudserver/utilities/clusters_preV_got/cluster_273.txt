@@ -1,0 +1,12 @@
+273
+basketball cross|.|WET1950.txt|.|25
+weightlifting|.|WET1440.txt|.|33
+catalyst athletics|.|WET1440.txt|.|17
+opensecrets|.|WET6291.txt|.|12
+adid|.|WET2202.txt|.|77
+freebsd|.|WET5594.txt|.|482
+jsm|.|WET5847.txt|.|123
+jta|.|WET2155.txt|.|19
+civil|.|WET4839.txt|.|46
+homeabout|.|WET5178.txt|.|11
+athletics|.|WET3170.txt|.|19|.|WET3171.txt|.|32|.|WET5676.txt|.|31|.|WET1440.txt|.|17|.|WET1950.txt|.|23|.|WET1937.txt|.|20

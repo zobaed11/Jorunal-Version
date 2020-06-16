@@ -1,0 +1,12 @@
+1061
+santorum|.|WET5173.txt|.|50
+sea bay|.|WET4591.txt|.|18
+trucker|.|WET4992.txt|.|12
+north|.|WET798.txt|.|27|.|WET6250.txt|.|17|.|WET3770.txt|.|12|.|WET1241.txt|.|38|.|WET6078.txt|.|12|.|WET3198.txt|.|48|.|WET4992.txt|.|35|.|WET3634.txt|.|38|.|WET213.txt|.|129|.|WET2986.txt|.|125|.|WET2516.txt|.|47|.|WET982.txt|.|29|.|WET4032.txt|.|292|.|WET1432.txt|.|18|.|WET4272.txt|.|48|.|WET5393.txt|.|138|.|WET4233.txt|.|29
+design|.|WET3354.txt|.|58|.|WET3269.txt|.|87|.|WET3654.txt|.|8|.|WET2382.txt|.|5|.|WET1635.txt|.|65|.|WET3094.txt|.|41|.|WET2718.txt|.|25|.|WET1680.txt|.|26|.|WET2324.txt|.|50|.|WET5155.txt|.|66
+nick anderson|.|WET5236.txt|.|87
+redeem|.|WET5220.txt|.|11
+italian|.|WET329.txt|.|11|.|WET1832.txt|.|55|.|WET4268.txt|.|22|.|WET3387.txt|.|11|.|WET349.txt|.|12|.|WET6113.txt|.|30|.|WET140.txt|.|11|.|WET3884.txt|.|11|.|WET4169.txt|.|11|.|WET5858.txt|.|40|.|WET3193.txt|.|11
+title object title|.|WET2986.txt|.|45
+department|.|WET245.txt|.|19|.|WET2316.txt|.|28|.|WET186.txt|.|8|.|WET288.txt|.|68|.|WET5727.txt|.|9|.|WET3581.txt|.|38|.|WET210.txt|.|20|.|WET229.txt|.|90|.|WET6058.txt|.|41|.|WET3975.txt|.|221
+north dakota|.|WET3198.txt|.|42

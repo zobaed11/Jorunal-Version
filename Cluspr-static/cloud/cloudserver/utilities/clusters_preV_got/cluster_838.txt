@@ -1,0 +1,12 @@
+838
+worn twice|.|WET5726.txt|.|6
+hockey online|.|WET3198.txt|.|16
+collectionother|.|WET3690.txt|.|12
+set vector|.|WET3737.txt|.|32
+new era|.|WET921.txt|.|75
+dates|.|WET2365.txt|.|18|.|WET1454.txt|.|21|.|WET5127.txt|.|7|.|WET1812.txt|.|51|.|WET1926.txt|.|73|.|WET2252.txt|.|15|.|WET6310.txt|.|31|.|WET3892.txt|.|67|.|WET3646.txt|.|26|.|WET1817.txt|.|15
+family life|.|WET1824.txt|.|19
+stack exchange communities|.|WET4387.txt|.|20
+rubens|.|WET5548.txt|.|33
+local business|.|WET5788.txt|.|36
+creative|.|WET1570.txt|.|33|.|WET963.txt|.|36|.|WET4867.txt|.|72|.|WET4299.txt|.|21

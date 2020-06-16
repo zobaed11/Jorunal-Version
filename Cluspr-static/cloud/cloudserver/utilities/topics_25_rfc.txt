@@ -1,0 +1,17 @@
+standards
+rfc
+message
+mckenzie
+nic
+protocol
+user
+telnet
+bbn
+server
+file
+ftp
+mail
+host
+control
+data
+network

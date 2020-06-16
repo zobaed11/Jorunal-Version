@@ -1,0 +1,12 @@
+571
+cover|.|WET3282.txt|.|22|.|WET2001.txt|.|341|.|WET2243.txt|.|29|.|WET3022.txt|.|8|.|WET5684.txt|.|66
+services view|.|WET304.txt|.|14
+specialty|.|WET2893.txt|.|4|.|WET5736.txt|.|82|.|WET1474.txt|.|12|.|WET5485.txt|.|7
+hospital alleghany|.|WET580.txt|.|9
+vesiculobullous lesions|.|WET4205.txt|.|8
+alleghany|.|WET580.txt|.|10
+required field|.|WET782.txt|.|8
+find a doctor|.|WET5736.txt|.|16
+professional medical|.|WET4796.txt|.|4
+hospital quality|.|WET5736.txt|.|59
+hospital|.|WET304.txt|.|105|.|WET580.txt|.|17|.|WET4796.txt|.|54|.|WET5736.txt|.|170|.|WET73.txt|.|45|.|WET1474.txt|.|12|.|WET4205.txt|.|18|.|WET4047.txt|.|50

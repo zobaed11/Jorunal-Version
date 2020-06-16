@@ -1,0 +1,12 @@
+523
+favorite tours|.|WET1926.txt|.|336|.|WET5666.txt|.|111
+highlights|.|WET1926.txt|.|81
+remove view|.|WET1926.txt|.|112|.|WET5666.txt|.|37
+us email|.|WET5666.txt|.|2
+river cruising|.|WET5666.txt|.|2
+linen|.|WET5886.txt|.|23
+slideshow|.|WET1926.txt|.|69
+map highlights|.|WET1926.txt|.|69
+outfits linen pure|.|WET5886.txt|.|11
+cruising|.|WET5666.txt|.|2
+jill|.|WET5886.txt|.|23

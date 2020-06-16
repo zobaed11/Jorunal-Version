@@ -1,0 +1,12 @@
+1260
+nuevo|.|WET5966.txt|.|11|.|WET592.txt|.|108|.|WET4335.txt|.|52|.|WET829.txt|.|44|.|WET349.txt|.|11|.|WET6117.txt|.|30
+dalma garden|.|WET4954.txt|.|5
+associated press|.|WET4234.txt|.|15|.|WET969.txt|.|14|.|WET487.txt|.|31
+accredited business|.|WET5015.txt|.|27
+advertising|.|WET5145.txt|.|10|.|WET5183.txt|.|12|.|WET2057.txt|.|33|.|WET4955.txt|.|8|.|WET5396.txt|.|11|.|WET4950.txt|.|6|.|WET2485.txt|.|11|.|WET2058.txt|.|18|.|WET5163.txt|.|11|.|WET624.txt|.|7|.|WET5014.txt|.|25|.|WET4731.txt|.|10|.|WET3146.txt|.|11|.|WET6053.txt|.|8|.|WET5088.txt|.|22|.|WET131.txt|.|21|.|WET6223.txt|.|16|.|WET1262.txt|.|34|.|WET3291.txt|.|10|.|WET5015.txt|.|29|.|WET4180.txt|.|9|.|WET1166.txt|.|33|.|WET2492.txt|.|12|.|WET1263.txt|.|29|.|WET6052.txt|.|22|.|WET3599.txt|.|15|.|WET4902.txt|.|10|.|WET2488.txt|.|7|.|WET2590.txt|.|10
+builder store|.|WET2058.txt|.|18
+seforim|.|WET5473.txt|.|172
+killed|.|WET2468.txt|.|40
+abusif|.|WET2228.txt|.|218
+tracking|.|WET2893.txt|.|4|.|WET605.txt|.|110|.|WET4347.txt|.|110|.|WET606.txt|.|70
+beacons|.|WET1105.txt|.|2|.|WET1179.txt|.|2|.|WET3281.txt|.|3|.|WET3133.txt|.|3|.|WET265.txt|.|2|.|WET3599.txt|.|2|.|WET5820.txt|.|2|.|WET5525.txt|.|2|.|WET3882.txt|.|2

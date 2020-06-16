@@ -1,0 +1,12 @@
+302
+iowa duck hunting|.|WET5442.txt|.|9
+waterfowl|.|WET5442.txt|.|38
+forum goose|.|WET1695.txt|.|21
+goose|.|WET1695.txt|.|69
+duck|.|WET1695.txt|.|479|.|WET1531.txt|.|11|.|WET5442.txt|.|297
+hunting new|.|WET1695.txt|.|28
+hunting forum|.|WET1695.txt|.|33
+taget|.|WET6011.txt|.|11
+hunting|.|WET5708.txt|.|21|.|WET1695.txt|.|569|.|WET5441.txt|.|172|.|WET6011.txt|.|42|.|WET5442.txt|.|324|.|WET2272.txt|.|36
+hunter|.|WET1695.txt|.|57|.|WET2673.txt|.|33
+duck hunting|.|WET1695.txt|.|447|.|WET5442.txt|.|269

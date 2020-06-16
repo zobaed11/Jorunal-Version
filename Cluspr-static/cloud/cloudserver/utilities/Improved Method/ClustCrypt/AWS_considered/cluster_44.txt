@@ -1,0 +1,23 @@
+44
+groups public statements|.|WET4774.txt|.|20
+corba|.|WET2676.txt|.|2
+murray|.|WET626.txt|.|23
+speeches speeches|.|WET4776.txt|.|5
+speeches|.|WET4776.txt|.|10
+bill|.|WET2238.txt|.|49|.|WET1700.txt|.|31|.|WET4774.txt|.|113|.|WET4594.txt|.|21|.|WET2676.txt|.|82|.|WET626.txt|.|45|.|WET121.txt|.|30|.|WET1030.txt|.|98|.|WET4776.txt|.|18
+committees|.|WET4774.txt|.|20
+statements|.|WET4774.txt|.|36|.|WET2848.txt|.|12
+public statements committees|.|WET4774.txt|.|20
+smart please|.|WET4776.txt|.|5
+ways to help|.|WET4775.txt|.|11|.|WET4774.txt|.|10|.|WET1029.txt|.|11|.|WET1030.txt|.|11
+bill murray|.|WET626.txt|.|19
+login with facebook|.|WET4775.txt|.|11|.|WET1030.txt|.|10
+committees leadership vetoes|.|WET4774.txt|.|20
+defense|.|WET4775.txt|.|20|.|WET4774.txt|.|14|.|WET1030.txt|.|18|.|WET4776.txt|.|30
+leadership|.|WET4774.txt|.|20
+ghostbusters|.|WET626.txt|.|23
+vetoes|.|WET4774.txt|.|20
+moyers|.|WET4776.txt|.|5
+login forgot|.|WET4776.txt|.|5
+login with twitter|.|WET4775.txt|.|11|.|WET1030.txt|.|10
+bright light|.|WET4776.txt|.|5

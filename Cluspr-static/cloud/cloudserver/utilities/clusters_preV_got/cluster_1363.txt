@@ -1,0 +1,12 @@
+1363
+random|.|WET4731.txt|.|51|.|WET992.txt|.|41|.|WET993.txt|.|39|.|WET4473.txt|.|11
+alloy|.|WET3270.txt|.|24
+research association|.|WET814.txt|.|16
+celebration|.|WET1876.txt|.|6
+transworld skateboarding|.|WET883.txt|.|43
+pincher|.|WET5548.txt|.|19
+teachers|.|WET6195.txt|.|31|.|WET778.txt|.|26|.|WET4021.txt|.|32
+juxtapoz|.|WET1214.txt|.|22
+report comment|.|WET4214.txt|.|63
+thickening|.|WET5140.txt|.|80
+forecasts|.|WET1603.txt|.|2|.|WET2939.txt|.|21|.|WET1969.txt|.|2|.|WET2846.txt|.|23|.|WET2677.txt|.|2|.|WET3389.txt|.|2|.|WET3324.txt|.|1|.|WET99.txt|.|2|.|WET4417.txt|.|2|.|WET3499.txt|.|4|.|WET4966.txt|.|1|.|WET1571.txt|.|21|.|WET3266.txt|.|2|.|WET5898.txt|.|2|.|WET3496.txt|.|2|.|WET3621.txt|.|4|.|WET3738.txt|.|2|.|WET304.txt|.|3|.|WET1039.txt|.|10|.|WET5318.txt|.|31|.|WET5754.txt|.|1|.|WET3255.txt|.|1|.|WET5899.txt|.|2|.|WET3932.txt|.|1|.|WET4923.txt|.|1|.|WET110.txt|.|2

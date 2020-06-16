@@ -1,0 +1,50 @@
+117
+pope|.|WET5191.txt|.|34
+emulating|.|WET5787.txt|.|1|.|WET991.txt|.|1|.|WET6304.txt|.|1|.|WET3088.txt|.|1
+bishop|.|WET5191.txt|.|18|.|WET6249.txt|.|60
+sacrament|.|WET1441.txt|.|34
+bowling|.|WET5183.txt|.|35|.|WET1431.txt|.|30
+radio|.|WET1201.txt|.|69|.|WET1851.txt|.|44|.|WET5183.txt|.|84|.|WET4440.txt|.|70|.|WET791.txt|.|9|.|WET5201.txt|.|44|.|WET727.txt|.|27|.|WET2745.txt|.|22|.|WET5443.txt|.|77|.|WET1431.txt|.|73
+canonical claims|.|WET6304.txt|.|26
+fort worth|.|WET2516.txt|.|35|.|WET6249.txt|.|36
+newest|.|WET1554.txt|.|48|.|WET5521.txt|.|28
+orthodox|.|WET2566.txt|.|70|.|WET6303.txt|.|358
+smith papers|.|WET4285.txt|.|27
+citedhide|.|WET4285.txt|.|56
+doctrine and covenants|.|WET4285.txt|.|66
+eastern|.|WET1039.txt|.|34|.|WET5147.txt|.|8|.|WET6303.txt|.|79|.|WET5165.txt|.|20
+works cited|.|WET4285.txt|.|28
+caroline|.|WET5183.txt|.|119|.|WET1431.txt|.|102
+metropolitan council|.|WET4457.txt|.|23
+amateur radio|.|WET1201.txt|.|40|.|WET5183.txt|.|56|.|WET1431.txt|.|48
+canonical|.|WET739.txt|.|22|.|WET6304.txt|.|50|.|WET738.txt|.|22
+claims|.|WET6304.txt|.|27
+catholic|.|WET1442.txt|.|57|.|WET6250.txt|.|22|.|WET3920.txt|.|41|.|WET5191.txt|.|67|.|WET2516.txt|.|83|.|WET6249.txt|.|78
+orthodox church|.|WET2566.txt|.|11
+doctrine|.|WET4285.txt|.|81
+joseph|.|WET5892.txt|.|30|.|WET4285.txt|.|69
+orthodox christian|.|WET6303.txt|.|30
+ministry|.|WET5521.txt|.|72
+church|.|WET4457.txt|.|36|.|WET1441.txt|.|35|.|WET3991.txt|.|20|.|WET2566.txt|.|41|.|WET6304.txt|.|137|.|WET5191.txt|.|25|.|WET2516.txt|.|60|.|WET6303.txt|.|133|.|WET5521.txt|.|100|.|WET4285.txt|.|102|.|WET1431.txt|.|36
+north texas catholic|.|WET2516.txt|.|41
+cited|.|WET541.txt|.|39|.|WET4285.txt|.|61
+bowling green|.|WET1431.txt|.|30
+amateur|.|WET1201.txt|.|51|.|WET5183.txt|.|58|.|WET1431.txt|.|48
+bibles books|.|WET5521.txt|.|32
+works citedhide|.|WET4285.txt|.|56
+worth|.|WET3363.txt|.|42|.|WET2516.txt|.|36|.|WET6249.txt|.|36
+covenants|.|WET4285.txt|.|91
+christian|.|WET814.txt|.|42|.|WET1580.txt|.|24|.|WET5029.txt|.|56|.|WET4320.txt|.|12|.|WET1589.txt|.|9|.|WET5519.txt|.|16|.|WET1786.txt|.|143|.|WET6303.txt|.|86|.|WET5329.txt|.|24|.|WET2565.txt|.|100|.|WET1581.txt|.|21|.|WET4921.txt|.|115|.|WET1482.txt|.|39|.|WET5521.txt|.|124|.|WET2432.txt|.|109
+joseph smith|.|WET5892.txt|.|9|.|WET4285.txt|.|56
+holy martyr|.|WET6303.txt|.|26
+compiler|.|WET3991.txt|.|14
+caroline county|.|WET5183.txt|.|56|.|WET1431.txt|.|48
+oldest to newest|.|WET5521.txt|.|14
+martyr|.|WET6303.txt|.|26
+holy|.|WET2913.txt|.|9|.|WET6303.txt|.|57
+priest|.|WET5191.txt|.|7
+texas catholic|.|WET2516.txt|.|41
+russian church|.|WET6304.txt|.|26
+oldest|.|WET5521.txt|.|28
+fort|.|WET57.txt|.|21|.|WET2516.txt|.|36|.|WET6249.txt|.|38|.|WET5236.txt|.|13|.|WET5446.txt|.|27
+speculating|.|WET6304.txt|.|2|.|WET3442.txt|.|2|.|WET1739.txt|.|2

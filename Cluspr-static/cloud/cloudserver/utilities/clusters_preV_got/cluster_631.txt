@@ -1,0 +1,12 @@
+631
+lots|.|WET658.txt|.|11
+headwear|.|WET2409.txt|.|32
+latest activity|.|WET4347.txt|.|12
+jub|.|WET2161.txt|.|145
+island|.|WET4487.txt|.|51|.|WET3105.txt|.|19|.|WET1034.txt|.|40
+year all time|.|WET2161.txt|.|60
+wonder|.|WET3607.txt|.|11
+ama congress|.|WET4906.txt|.|15
+headwear gloves belts|.|WET2409.txt|.|32
+indian|.|WET5824.txt|.|17|.|WET3927.txt|.|17|.|WET4718.txt|.|36|.|WET511.txt|.|27|.|WET3528.txt|.|556|.|WET510.txt|.|51
+viral reaction|.|WET112.txt|.|6

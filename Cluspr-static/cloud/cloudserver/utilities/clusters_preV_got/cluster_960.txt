@@ -1,0 +1,12 @@
+960
+convert currency|.|WET4857.txt|.|34
+cent|.|WET4939.txt|.|6|.|WET2183.txt|.|29
+soins hydratants soins|.|WET6142.txt|.|70
+message reply|.|WET2937.txt|.|196
+est|.|WET5355.txt|.|21|.|WET2597.txt|.|44|.|WET5478.txt|.|16|.|WET2009.txt|.|42|.|WET5061.txt|.|14
+kobo tablets|.|WET6128.txt|.|6
+products new|.|WET1758.txt|.|11|.|WET3567.txt|.|18
+metals|.|WET1930.txt|.|13
+entertainment events calendarmoviestvtickets|.|WET1337.txt|.|16
+trial|.|WET4286.txt|.|49|.|WET23.txt|.|3|.|WET5021.txt|.|7
+otterbein university|.|WET4477.txt|.|20

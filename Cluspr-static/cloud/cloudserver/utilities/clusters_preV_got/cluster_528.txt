@@ -1,0 +1,12 @@
+528
+ski|.|WET4905.txt|.|256|.|WET3147.txt|.|914|.|WET2913.txt|.|27|.|WET2484.txt|.|33|.|WET1153.txt|.|445|.|WET2550.txt|.|199|.|WET2896.txt|.|219
+speculative|.|WET1792.txt|.|3|.|WET4589.txt|.|1|.|WET5505.txt|.|1|.|WET3810.txt|.|1|.|WET4874.txt|.|1|.|WET2680.txt|.|10|.|WET2484.txt|.|2|.|WET5404.txt|.|16|.|WET3868.txt|.|2|.|WET4550.txt|.|1
+carb|.|WET6014.txt|.|90|.|WET6015.txt|.|90|.|WET2278.txt|.|27|.|WET2277.txt|.|99|.|WET5567.txt|.|73
+piano|.|WET2909.txt|.|24|.|WET2654.txt|.|848|.|WET6175.txt|.|104|.|WET29.txt|.|18|.|WET2433.txt|.|59|.|WET2655.txt|.|623|.|WET2866.txt|.|277|.|WET2867.txt|.|73
+snow report|.|WET2896.txt|.|36
+gift cards community|.|WET3147.txt|.|90
+cask|.|WET3918.txt|.|46
+brands gift|.|WET3147.txt|.|99
+ski gear|.|WET2896.txt|.|20
+resort|.|WET2894.txt|.|56|.|WET148.txt|.|42|.|WET5907.txt|.|95|.|WET3135.txt|.|26|.|WET3099.txt|.|54|.|WET2550.txt|.|108|.|WET2896.txt|.|46|.|WET2168.txt|.|95
+case|.|WET5086.txt|.|37|.|WET3296.txt|.|189|.|WET1744.txt|.|37|.|WET3345.txt|.|42|.|WET1595.txt|.|85|.|WET4867.txt|.|22

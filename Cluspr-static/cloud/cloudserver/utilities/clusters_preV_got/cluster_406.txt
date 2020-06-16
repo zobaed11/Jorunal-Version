@@ -1,0 +1,12 @@
+406
+joining|.|WET5043.txt|.|16
+receive|.|WET1586.txt|.|50|.|WET6224.txt|.|20|.|WET5239.txt|.|7
+genius|.|WET444.txt|.|44
+charges|.|WET1976.txt|.|51|.|WET112.txt|.|6
+account order status|.|WET5017.txt|.|30|.|WET1265.txt|.|33
+schlemmer|.|WET1976.txt|.|49|.|WET5717.txt|.|26
+runway sale|.|WET5017.txt|.|15
+nyc|.|WET5043.txt|.|32|.|WET3007.txt|.|6|.|WET6263.txt|.|18|.|WET6206.txt|.|41
+spaceexpert|.|WET5043.txt|.|8
+catalog home|.|WET3698.txt|.|8
+special shipping charges|.|WET1976.txt|.|21

@@ -1,0 +1,33 @@
+80
+calm our fears|.|WET5422.txt|.|16
+trys to calm|.|WET5422.txt|.|16
+verizon|.|WET1688.txt|.|49|.|WET2649.txt|.|325
+olympus|.|WET5422.txt|.|45
+sony xperia|.|WET3505.txt|.|140
+sprint|.|WET1118.txt|.|20|.|WET2649.txt|.|144
+prophet|.|WET803.txt|.|4|.|WET4692.txt|.|2|.|WET3505.txt|.|3|.|WET1031.txt|.|2|.|WET2260.txt|.|2|.|WET4422.txt|.|2|.|WET5894.txt|.|1|.|WET4100.txt|.|1|.|WET3691.txt|.|2|.|WET4666.txt|.|9|.|WET3389.txt|.|2|.|WET1984.txt|.|13|.|WET4112.txt|.|2|.|WET1140.txt|.|26
+cell|.|WET2616.txt|.|63|.|WET4016.txt|.|13|.|WET2705.txt|.|65|.|WET5254.txt|.|249|.|WET2649.txt|.|1116|.|WET2650.txt|.|553|.|WET5396.txt|.|7
+cell phone|.|WET2616.txt|.|42|.|WET2649.txt|.|1102|.|WET2650.txt|.|547
+fears|.|WET5422.txt|.|16
+canon|.|WET3629.txt|.|18|.|WET5422.txt|.|60|.|WET1674.txt|.|142
+powershot|.|WET5422.txt|.|26|.|WET1674.txt|.|29
+samsung|.|WET1112.txt|.|31|.|WET4145.txt|.|39|.|WET639.txt|.|23|.|WET4516.txt|.|8|.|WET3931.txt|.|43|.|WET3505.txt|.|624|.|WET2649.txt|.|1348|.|WET1170.txt|.|60|.|WET1648.txt|.|34|.|WET404.txt|.|45|.|WET4922.txt|.|58
+sony|.|WET5422.txt|.|70|.|WET3505.txt|.|152|.|WET2649.txt|.|330|.|WET1674.txt|.|26|.|WET5111.txt|.|13
+olympus trys|.|WET5422.txt|.|16
+htc|.|WET4146.txt|.|74|.|WET2649.txt|.|412|.|WET2650.txt|.|173|.|WET404.txt|.|51|.|WET4922.txt|.|66
+lumix|.|WET5422.txt|.|27|.|WET1674.txt|.|31
+camera|.|WET4000.txt|.|48|.|WET3629.txt|.|22|.|WET4708.txt|.|12|.|WET5422.txt|.|64|.|WET5162.txt|.|48|.|WET235.txt|.|15|.|WET2816.txt|.|370|.|WET5818.txt|.|56
+witnesses|.|WET193.txt|.|3|.|WET5397.txt|.|1|.|WET6225.txt|.|2|.|WET1269.txt|.|2|.|WET1056.txt|.|2|.|WET3849.txt|.|2|.|WET5905.txt|.|2|.|WET3505.txt|.|2|.|WET4987.txt|.|2|.|WET3866.txt|.|2|.|WET2694.txt|.|2|.|WET2603.txt|.|2
+nokia|.|WET2649.txt|.|601
+imax|.|WET5111.txt|.|8
+pro|.|WET6032.txt|.|66|.|WET2309.txt|.|22|.|WET4156.txt|.|33|.|WET5043.txt|.|29|.|WET2652.txt|.|176|.|WET3505.txt|.|140|.|WET2217.txt|.|64|.|WET4381.txt|.|40|.|WET2643.txt|.|18|.|WET3079.txt|.|33|.|WET6031.txt|.|11|.|WET2295.txt|.|30|.|WET447.txt|.|10|.|WET3889.txt|.|5|.|WET2545.txt|.|48|.|WET2908.txt|.|54|.|WET5326.txt|.|48|.|WET5038.txt|.|24
+complain|.|WET1674.txt|.|27
+trys|.|WET5422.txt|.|16
+quote complain|.|WET1674.txt|.|26
+calm|.|WET5422.txt|.|16
+blackberry|.|WET3504.txt|.|207|.|WET1171.txt|.|7|.|WET2649.txt|.|250|.|WET5077.txt|.|34
+phone|.|WET2616.txt|.|49|.|WET2875.txt|.|12|.|WET4000.txt|.|84|.|WET3773.txt|.|96|.|WET3571.txt|.|25|.|WET2649.txt|.|1279|.|WET2650.txt|.|692|.|WET2944.txt|.|27|.|WET6130.txt|.|21|.|WET3301.txt|.|127|.|WET5286.txt|.|71|.|WET1286.txt|.|70|.|WET1100.txt|.|56|.|WET1688.txt|.|110|.|WET3359.txt|.|32|.|WET3717.txt|.|75|.|WET1170.txt|.|29|.|WET4850.txt|.|32|.|WET3601.txt|.|8
+panasonic|.|WET5422.txt|.|2|.|WET1674.txt|.|4
+motorola|.|WET1746.txt|.|15|.|WET2649.txt|.|768|.|WET2650.txt|.|375
+samsung galaxy|.|WET1112.txt|.|21|.|WET639.txt|.|19|.|WET4516.txt|.|8|.|WET3931.txt|.|41|.|WET3505.txt|.|340|.|WET2649.txt|.|261|.|WET1170.txt|.|49|.|WET1648.txt|.|18|.|WET404.txt|.|42
+ebay|.|WET3595.txt|.|2|.|WET3226.txt|.|2|.|WET1714.txt|.|54|.|WET5933.txt|.|2|.|WET1005.txt|.|3|.|WET4163.txt|.|3|.|WET5456.txt|.|70|.|WET1597.txt|.|2|.|WET726.txt|.|2|.|WET4014.txt|.|2|.|WET1006.txt|.|6|.|WET1092.txt|.|2|.|WET1713.txt|.|81|.|WET2404.txt|.|3|.|WET6315.txt|.|4|.|WET4659.txt|.|35|.|WET5457.txt|.|72|.|WET4660.txt|.|55|.|WET5919.txt|.|2|.|WET3206.txt|.|2|.|WET1967.txt|.|2|.|WET1857.txt|.|2|.|WET2258.txt|.|2|.|WET5394.txt|.|2|.|WET520.txt|.|4|.|WET4661.txt|.|25|.|WET5572.txt|.|2|.|WET851.txt|.|2|.|WET3131.txt|.|41|.|WET1382.txt|.|2|.|WET4749.txt|.|5|.|WET2263.txt|.|2|.|WET1335.txt|.|2|.|WET2957.txt|.|2|.|WET4399.txt|.|2|.|WET847.txt|.|2|.|WET1793.txt|.|2|.|WET5458.txt|.|86|.|WET1843.txt|.|3|.|WET2577.txt|.|2|.|WET2817.txt|.|2|.|WET5763.txt|.|12|.|WET2700.txt|.|2|.|WET3582.txt|.|2|.|WET3132.txt|.|2|.|WET5344.txt|.|2|.|WET16.txt|.|3|.|WET3505.txt|.|2|.|WET1663.txt|.|3|.|WET278.txt|.|2|.|WET1468.txt|.|2|.|WET5459.txt|.|19|.|WET6009.txt|.|2|.|WET4407.txt|.|5|.|WET5079.txt|.|2|.|WET3833.txt|.|2|.|WET1982.txt|.|2|.|WET2002.txt|.|2|.|WET660.txt|.|3|.|WET2769.txt|.|4|.|WET925.txt|.|22|.|WET4938.txt|.|2|.|WET5389.txt|.|3|.|WET5257.txt|.|2|.|WET2116.txt|.|2|.|WET4311.txt|.|2|.|WET131.txt|.|3|.|WET623.txt|.|7|.|WET1711.txt|.|77|.|WET5974.txt|.|2|.|WET5151.txt|.|2|.|WET924.txt|.|59|.|WET5864.txt|.|2|.|WET1503.txt|.|2|.|WET3626.txt|.|2|.|WET3122.txt|.|2|.|WET3496.txt|.|2|.|WET1710.txt|.|19|.|WET5894.txt|.|2|.|WET1712.txt|.|76|.|WET923.txt|.|54|.|WET1706.txt|.|2|.|WET1521.txt|.|2|.|WET6207.txt|.|15|.|WET5711.txt|.|2

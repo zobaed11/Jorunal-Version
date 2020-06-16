@@ -1,0 +1,12 @@
+611
+pegboard|.|WET2729.txt|.|22|.|WET2728.txt|.|16
+mat|.|WET2729.txt|.|22
+grip|.|WET2729.txt|.|23|.|WET2728.txt|.|18
+peg|.|WET2729.txt|.|110|.|WET2730.txt|.|60|.|WET2728.txt|.|80
+hook zinc|.|WET2730.txt|.|6
+grip organizer bar|.|WET2729.txt|.|22|.|WET2728.txt|.|16
+organizer|.|WET2729.txt|.|66|.|WET4052.txt|.|38|.|WET2728.txt|.|48
+bar storage hooks|.|WET2729.txt|.|22
+duty|.|WET391.txt|.|3|.|WET1873.txt|.|19|.|WET2730.txt|.|48|.|WET1612.txt|.|43|.|WET2728.txt|.|64
+hooks|.|WET2729.txt|.|125|.|WET2730.txt|.|70|.|WET2728.txt|.|94
+rack the racor|.|WET2729.txt|.|21

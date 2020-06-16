@@ -1,0 +1,12 @@
+856
+heritage center|.|WET4033.txt|.|54
+bulletins|.|WET4033.txt|.|24
+topics faq|.|WET4148.txt|.|11
+quilting|.|WET4033.txt|.|33
+runaway slave|.|WET4033.txt|.|202
+sciences sfa bulletins|.|WET4033.txt|.|23
+texas|.|WET1083.txt|.|155|.|WET2442.txt|.|61|.|WET4835.txt|.|153|.|WET701.txt|.|30|.|WET278.txt|.|39|.|WET4033.txt|.|343|.|WET2516.txt|.|71|.|WET6078.txt|.|14|.|WET4688.txt|.|76|.|WET4950.txt|.|67|.|WET3035.txt|.|56
+texas runaway|.|WET4033.txt|.|202
+log q quilting|.|WET4033.txt|.|17
+shadowpriest|.|WET3554.txt|.|31
+sfa|.|WET4033.txt|.|24

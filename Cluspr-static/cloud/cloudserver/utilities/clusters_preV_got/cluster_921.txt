@@ -1,0 +1,12 @@
+921
+list find|.|WET3025.txt|.|21
+features|.|WET5547.txt|.|7|.|WET485.txt|.|288|.|WET3257.txt|.|2|.|WET3609.txt|.|30|.|WET2461.txt|.|36|.|WET1372.txt|.|12|.|WET5621.txt|.|11|.|WET3025.txt|.|21|.|WET4753.txt|.|45|.|WET4232.txt|.|107|.|WET4618.txt|.|9|.|WET1391.txt|.|22
+directv watch directv|.|WET3609.txt|.|6
+features photos|.|WET485.txt|.|141|.|WET1372.txt|.|6|.|WET4232.txt|.|47
+press kit|.|WET485.txt|.|144|.|WET4232.txt|.|48
+photos videos photos videos|.|WET4232.txt|.|13
+shade match|.|WET3025.txt|.|21
+features press|.|WET485.txt|.|75
+watch directv|.|WET3609.txt|.|20
+press releases|.|WET485.txt|.|150|.|WET1119.txt|.|101|.|WET4232.txt|.|51
+home reviews community looks|.|WET3025.txt|.|7

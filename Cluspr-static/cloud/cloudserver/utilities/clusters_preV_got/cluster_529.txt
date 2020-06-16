@@ -1,0 +1,12 @@
+529
+couples tower|.|WET233.txt|.|21
+world heritage convention|.|WET1051.txt|.|118
+printers|.|WET2616.txt|.|127
+next generation|.|WET1656.txt|.|38
+cards forums|.|WET5085.txt|.|16
+doctor find|.|WET1996.txt|.|26
+flue|.|WET5477.txt|.|21
+const char|.|WET871.txt|.|16
+thorsten|.|WET2799.txt|.|91
+muscle|.|WET6177.txt|.|16
+cru|.|WET2481.txt|.|22|.|WET5239.txt|.|20

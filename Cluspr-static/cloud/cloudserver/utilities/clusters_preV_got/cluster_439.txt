@@ -1,0 +1,12 @@
+439
+cortex|.|WET390.txt|.|2|.|WET3755.txt|.|6|.|WET2083.txt|.|21|.|WET3547.txt|.|2|.|WET3464.txt|.|6|.|WET5394.txt|.|2
+prospect|.|WET3400.txt|.|21
+harvey|.|WET1984.txt|.|13
+sara la fountain|.|WET2491.txt|.|27
+sensex|.|WET51.txt|.|21
+wysig|.|WET3394.txt|.|20
+ozarks|.|WET2578.txt|.|102|.|WET6315.txt|.|68
+jodi west|.|WET1089.txt|.|44
+india|.|WET240.txt|.|39|.|WET2083.txt|.|11|.|WET3985.txt|.|66|.|WET3940.txt|.|16|.|WET3394.txt|.|19|.|WET1913.txt|.|15|.|WET51.txt|.|69
+bse sensex|.|WET51.txt|.|10
+iheartradio|.|WET5807.txt|.|18

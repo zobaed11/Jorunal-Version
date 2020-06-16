@@ -1,0 +1,12 @@
+692
+salons|.|WET5371.txt|.|51
+zoeken op|.|WET4445.txt|.|18
+uit|.|WET3497.txt|.|37
+van|.|WET2520.txt|.|44|.|WET3702.txt|.|6|.|WET703.txt|.|112|.|WET4237.txt|.|37|.|WET5371.txt|.|187|.|WET3497.txt|.|211|.|WET4445.txt|.|57|.|WET3208.txt|.|8|.|WET1499.txt|.|62
+wikimedia|.|WET3559.txt|.|20|.|WET3416.txt|.|18|.|WET3497.txt|.|13
+camper|.|WET4237.txt|.|19
+van het|.|WET2520.txt|.|10|.|WET3497.txt|.|23
+personal injury|.|WET703.txt|.|6
+camper van|.|WET4237.txt|.|11
+van de wikimedia|.|WET3497.txt|.|11
+gratis|.|WET1821.txt|.|46|.|WET703.txt|.|22

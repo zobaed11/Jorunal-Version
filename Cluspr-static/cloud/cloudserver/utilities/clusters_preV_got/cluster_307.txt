@@ -1,0 +1,12 @@
+307
+evening mba|.|WET4202.txt|.|21
+ralph|.|WET1377.txt|.|15
+fox news|.|WET1850.txt|.|78|.|WET1851.txt|.|184|.|WET5588.txt|.|71|.|WET5368.txt|.|6
+brochure|.|WET2097.txt|.|20|.|WET333.txt|.|10
+adidas|.|WET2916.txt|.|44|.|WET5128.txt|.|25
+certificate|.|WET2139.txt|.|16
+ace of hearts|.|WET3761.txt|.|15
+browns shoes|.|WET1378.txt|.|19
+magazines|.|WET1930.txt|.|12|.|WET4885.txt|.|224
+evening|.|WET1244.txt|.|52|.|WET1377.txt|.|67|.|WET4202.txt|.|21|.|WET5575.txt|.|15|.|WET5128.txt|.|52|.|WET1378.txt|.|30
+travelmore|.|WET5428.txt|.|22|.|WET1681.txt|.|22

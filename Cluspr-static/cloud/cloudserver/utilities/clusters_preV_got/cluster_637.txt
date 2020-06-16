@@ -1,0 +1,12 @@
+637
+performance|.|WET6307.txt|.|37|.|WET3389.txt|.|25|.|WET4904.txt|.|30|.|WET3251.txt|.|41|.|WET3873.txt|.|6|.|WET919.txt|.|83|.|WET2297.txt|.|7|.|WET4656.txt|.|66
+doll|.|WET4656.txt|.|34
+performance tri|.|WET3389.txt|.|20
+joy|.|WET2672.txt|.|15|.|WET919.txt|.|73|.|WET4656.txt|.|59
+four position|.|WET919.txt|.|95|.|WET4656.txt|.|73
+cotton fabric|.|WET919.txt|.|38|.|WET4656.txt|.|35
+hannah montana|.|WET4866.txt|.|424
+doll carriers|.|WET4656.txt|.|24
+bundle|.|WET919.txt|.|97|.|WET4656.txt|.|82
+ocaholic|.|WET2297.txt|.|9
+customer service check|.|WET2358.txt|.|11

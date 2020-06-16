@@ -1,0 +1,12 @@
+194
+house plans|.|WET846.txt|.|50|.|WET5137.txt|.|19
+toilets|.|WET1798.txt|.|78|.|WET1799.txt|.|74
+profile posted|.|WET3704.txt|.|15
+add to recipe|.|WET1831.txt|.|8
+rna|.|WET5254.txt|.|184
+grand strand|.|WET4206.txt|.|10
+deadline|.|WET2756.txt|.|1|.|WET3331.txt|.|2|.|WET2676.txt|.|2|.|WET2306.txt|.|2|.|WET1031.txt|.|4|.|WET6269.txt|.|2|.|WET524.txt|.|1|.|WET5933.txt|.|2|.|WET3926.txt|.|2|.|WET2552.txt|.|2|.|WET1632.txt|.|1|.|WET514.txt|.|2|.|WET2023.txt|.|2|.|WET5189.txt|.|2|.|WET2201.txt|.|2|.|WET56.txt|.|4|.|WET700.txt|.|3|.|WET398.txt|.|2|.|WET4960.txt|.|2|.|WET2520.txt|.|2|.|WET5541.txt|.|2|.|WET3291.txt|.|2|.|WET410.txt|.|2|.|WET4593.txt|.|2|.|WET565.txt|.|3|.|WET178.txt|.|2|.|WET3696.txt|.|4|.|WET4289.txt|.|1|.|WET215.txt|.|6|.|WET4293.txt|.|1|.|WET3936.txt|.|2|.|WET2646.txt|.|2|.|WET3396.txt|.|1|.|WET4204.txt|.|2|.|WET2345.txt|.|2|.|WET3280.txt|.|1|.|WET325.txt|.|2|.|WET3409.txt|.|2|.|WET2645.txt|.|8|.|WET4701.txt|.|2|.|WET5079.txt|.|1|.|WET2451.txt|.|2|.|WET925.txt|.|2|.|WET5088.txt|.|2|.|WET4210.txt|.|2|.|WET3894.txt|.|2|.|WET5834.txt|.|2|.|WET1687.txt|.|2|.|WET4427.txt|.|2|.|WET954.txt|.|2|.|WET5372.txt|.|2|.|WET5134.txt|.|2|.|WET1589.txt|.|2|.|WET5766.txt|.|2|.|WET4716.txt|.|2|.|WET777.txt|.|2|.|WET459.txt|.|2|.|WET2169.txt|.|3|.|WET5392.txt|.|2|.|WET983.txt|.|2|.|WET5343.txt|.|2|.|WET648.txt|.|2|.|WET5852.txt|.|2|.|WET132.txt|.|2|.|WET4298.txt|.|2|.|WET4759.txt|.|3|.|WET1834.txt|.|4|.|WET2800.txt|.|3
+total progress|.|WET1798.txt|.|52
+def jam|.|WET1618.txt|.|76|.|WET5366.txt|.|98
+latex|.|WET5965.txt|.|25|.|WET946.txt|.|74
+hand|.|WET5804.txt|.|46|.|WET1798.txt|.|46|.|WET1260.txt|.|121|.|WET5011.txt|.|105|.|WET1115.txt|.|44

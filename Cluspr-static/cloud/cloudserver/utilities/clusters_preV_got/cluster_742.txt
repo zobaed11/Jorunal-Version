@@ -1,0 +1,12 @@
+742
+started not set|.|WET5684.txt|.|60
+searching the web|.|WET5150.txt|.|2
+instruction set|.|WET5349.txt|.|4
+checkbox|.|WET5684.txt|.|61
+date pub|.|WET5684.txt|.|128
+smalltrue|.|WET822.txt|.|15
+date pub edition|.|WET5684.txt|.|60
+web service|.|WET3120.txt|.|2|.|WET5684.txt|.|47
+pp avg rating|.|WET5684.txt|.|59
+star rating|.|WET2269.txt|.|58
+checkbox position cover|.|WET5684.txt|.|60

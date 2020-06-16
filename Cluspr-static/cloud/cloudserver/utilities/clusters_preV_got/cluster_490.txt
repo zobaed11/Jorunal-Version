@@ -1,0 +1,12 @@
+490
+epithelial na|.|WET588.txt|.|15
+limit large|.|WET5190.txt|.|361
+theater system|.|WET3576.txt|.|66
+bulbagarden|.|WET3903.txt|.|45
+limit|.|WET2336.txt|.|61|.|WET5190.txt|.|1069
+channel|.|WET3576.txt|.|110|.|WET3903.txt|.|18|.|WET1948.txt|.|19|.|WET2746.txt|.|15|.|WET5190.txt|.|302|.|WET1749.txt|.|25|.|WET588.txt|.|38
+theater system epic|.|WET3576.txt|.|66
+sensitivity|.|WET588.txt|.|3
+fish daily|.|WET5190.txt|.|645
+view all models|.|WET3576.txt|.|55
+airplanes|.|WET2746.txt|.|48

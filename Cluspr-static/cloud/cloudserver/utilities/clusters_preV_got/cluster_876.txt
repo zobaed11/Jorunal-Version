@@ -1,0 +1,12 @@
+876
+dx roc|.|WET1651.txt|.|7
+age range|.|WET4617.txt|.|21
+mutant ninja|.|WET4617.txt|.|7
+vera|.|WET3213.txt|.|44
+teenage|.|WET4617.txt|.|7
+teenage mutant|.|WET4617.txt|.|7
+jeans pants|.|WET1780.txt|.|6
+body bag|.|WET2732.txt|.|35
+cropped top|.|WET1780.txt|.|22
+public library|.|WET2904.txt|.|31|.|WET4028.txt|.|37|.|WET3626.txt|.|11|.|WET709.txt|.|10
+cross body|.|WET2732.txt|.|48

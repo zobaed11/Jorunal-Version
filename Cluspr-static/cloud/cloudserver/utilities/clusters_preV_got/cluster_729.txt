@@ -1,0 +1,12 @@
+729
+william|.|WET2791.txt|.|33|.|WET2099.txt|.|92|.|WET3553.txt|.|11
+och|.|WET4651.txt|.|75|.|WET3542.txt|.|73|.|WET2978.txt|.|17
+culture|.|WET5284.txt|.|12|.|WET1748.txt|.|6|.|WET2520.txt|.|35|.|WET5479.txt|.|22|.|WET1584.txt|.|15|.|WET6253.txt|.|51|.|WET1535.txt|.|15|.|WET2484.txt|.|14|.|WET5486.txt|.|27
+obj|.|WET3153.txt|.|285|.|WET1009.txt|.|55
+canadian|.|WET1416.txt|.|76
+venues|.|WET2005.txt|.|66
+public access|.|WET5486.txt|.|36
+registered and logged|.|WET4646.txt|.|14
+bradley|.|WET740.txt|.|281
+communications group|.|WET6253.txt|.|2
+legislative|.|WET5370.txt|.|18|.|WET5975.txt|.|119

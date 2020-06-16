@@ -1,0 +1,12 @@
+795
+faqsprivacy policy|.|WET4346.txt|.|8
+dilemmas|.|WET1220.txt|.|2|.|WET3547.txt|.|2|.|WET2545.txt|.|2
+using|.|WET3503.txt|.|17|.|WET4792.txt|.|88|.|WET3547.txt|.|24|.|WET4346.txt|.|11|.|WET4758.txt|.|42|.|WET1600.txt|.|20|.|WET1733.txt|.|104|.|WET3470.txt|.|8|.|WET5858.txt|.|6|.|WET3683.txt|.|22
+social networks|.|WET443.txt|.|2|.|WET3503.txt|.|5|.|WET5488.txt|.|1|.|WET806.txt|.|4|.|WET4055.txt|.|2|.|WET3007.txt|.|2|.|WET3685.txt|.|2|.|WET2524.txt|.|3
+dailytech using|.|WET1600.txt|.|11
+commenting using|.|WET3503.txt|.|16|.|WET3547.txt|.|20|.|WET4758.txt|.|40|.|WET3470.txt|.|8
+news gadgets|.|WET1600.txt|.|4
+john deere|.|WET1958.txt|.|122
+commenting|.|WET3503.txt|.|16|.|WET3547.txt|.|20|.|WET4758.txt|.|40|.|WET1297.txt|.|8|.|WET3470.txt|.|8
+hood river|.|WET4675.txt|.|32
+american legion|.|WET2747.txt|.|6

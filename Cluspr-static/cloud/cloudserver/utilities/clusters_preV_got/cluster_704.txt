@@ -1,0 +1,12 @@
+704
+next|.|WET406.txt|.|23|.|WET5024.txt|.|983|.|WET4465.txt|.|50|.|WET4147.txt|.|14|.|WET3445.txt|.|56|.|WET1656.txt|.|39|.|WET3924.txt|.|5|.|WET4247.txt|.|26|.|WET3446.txt|.|50
+time view|.|WET4247.txt|.|38
+month next|.|WET4247.txt|.|20
+trek|.|WET5404.txt|.|51|.|WET1656.txt|.|385
+nintendo|.|WET5623.txt|.|75|.|WET5625.txt|.|44|.|WET1884.txt|.|41|.|WET4813.txt|.|21|.|WET6238.txt|.|116|.|WET1885.txt|.|84|.|WET3286.txt|.|154|.|WET3287.txt|.|31
+sears|.|WET2844.txt|.|77
+peter|.|WET5827.txt|.|5|.|WET5548.txt|.|30|.|WET1324.txt|.|21
+farming|.|WET298.txt|.|9
+cats and humans|.|WET2639.txt|.|19
+hearing|.|WET4983.txt|.|45
+legislature|.|WET4247.txt|.|16

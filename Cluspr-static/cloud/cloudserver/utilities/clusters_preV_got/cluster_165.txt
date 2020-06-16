@@ -1,0 +1,12 @@
+165
+diamond engagement rings|.|WET1898.txt|.|227|.|WET5636.txt|.|176|.|WET5635.txt|.|242
+birthstone jewelry|.|WET1898.txt|.|130|.|WET5636.txt|.|104
+diamond|.|WET5906.txt|.|33|.|WET1898.txt|.|496|.|WET5636.txt|.|330|.|WET103.txt|.|12|.|WET5635.txt|.|466
+wedding bands|.|WET1898.txt|.|80|.|WET1815.txt|.|6
+oval|.|WET5635.txt|.|23
+engagement rings|.|WET1898.txt|.|466|.|WET5636.txt|.|359|.|WET5635.txt|.|504
+engagement rings oval|.|WET5635.txt|.|22
+bands|.|WET1898.txt|.|92|.|WET1815.txt|.|25
+engagement photos|.|WET4401.txt|.|11
+anniversary|.|WET5636.txt|.|66
+gemstone|.|WET5635.txt|.|130

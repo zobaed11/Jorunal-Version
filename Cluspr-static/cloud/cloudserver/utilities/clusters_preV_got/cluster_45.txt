@@ -1,0 +1,12 @@
+45
+butter|.|WET1831.txt|.|49
+russian serbian spanish|.|WET704.txt|.|11|.|WET907.txt|.|11
+lego creations|.|WET658.txt|.|30|.|WET4398.txt|.|32
+colleges|.|WET2811.txt|.|57|.|WET1446.txt|.|154|.|WET4062.txt|.|99|.|WET5196.txt|.|132
+career highest|.|WET3986.txt|.|40
+allis chalmers case|.|WET3345.txt|.|30
+drafts|.|WET4224.txt|.|16
+descuentos en|.|WET3768.txt|.|31
+join us|.|WET474.txt|.|47|.|WET5740.txt|.|65|.|WET2000.txt|.|74
+politico|.|WET2676.txt|.|175
+recommended|.|WET280.txt|.|11|.|WET3733.txt|.|10|.|WET6168.txt|.|5|.|WET5579.txt|.|9

@@ -1,0 +1,12 @@
+1279
+arabia|.|WET4947.txt|.|42
+aa|.|WET3042.txt|.|15
+surf|.|WET527.txt|.|88|.|WET4091.txt|.|36|.|WET348.txt|.|54|.|WET4538.txt|.|32|.|WET3247.txt|.|51
+jigsaw puzzle|.|WET5881.txt|.|17
+marine species|.|WET2308.txt|.|19
+zimbra connector|.|WET422.txt|.|23
+statue|.|WET4947.txt|.|3|.|WET2832.txt|.|2|.|WET2756.txt|.|1|.|WET1625.txt|.|2|.|WET885.txt|.|1|.|WET5823.txt|.|2|.|WET4645.txt|.|2|.|WET4807.txt|.|2|.|WET4433.txt|.|2|.|WET5787.txt|.|2|.|WET1796.txt|.|1|.|WET2015.txt|.|2|.|WET2404.txt|.|1|.|WET3819.txt|.|4|.|WET4960.txt|.|2|.|WET5648.txt|.|2|.|WET1016.txt|.|2|.|WET381.txt|.|2|.|WET4855.txt|.|1|.|WET1649.txt|.|2|.|WET4178.txt|.|1|.|WET1581.txt|.|2|.|WET5666.txt|.|1|.|WET2679.txt|.|2|.|WET687.txt|.|2|.|WET4399.txt|.|2|.|WET7.txt|.|2|.|WET1475.txt|.|2|.|WET4813.txt|.|2|.|WET5564.txt|.|1|.|WET1073.txt|.|1
+diff|.|WET3564.txt|.|14
+wedding thread|.|WET418.txt|.|54
+natalie|.|WET2456.txt|.|35
+ao|.|WET1227.txt|.|60

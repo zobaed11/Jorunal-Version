@@ -1,0 +1,12 @@
+197
+dose|.|WET2794.txt|.|160
+edgelg|.|WET4145.txt|.|20
+pages nba|.|WET2794.txt|.|8
+jason mick|.|WET5350.txt|.|36|.|WET5349.txt|.|38|.|WET1601.txt|.|38|.|WET1602.txt|.|38
+batteries|.|WET5485.txt|.|18
+news home|.|WET4504.txt|.|4
+mujer|.|WET2878.txt|.|20|.|WET3440.txt|.|15
+omaha steaks|.|WET6280.txt|.|28
+profootballtalk probasketballtalk|.|WET2794.txt|.|16
+rescue|.|WET501.txt|.|12|.|WET2321.txt|.|2|.|WET1132.txt|.|3|.|WET3849.txt|.|21|.|WET4877.txt|.|27
+news new|.|WET6131.txt|.|10

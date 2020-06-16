@@ -1,0 +1,12 @@
+445
+specjalizacyjne|.|WET4138.txt|.|20
+cedric|.|WET4336.txt|.|78
+ihs|.|WET5665.txt|.|39
+registered lobbyists|.|WET802.txt|.|6
+ihg|.|WET5810.txt|.|268
+ciao|.|WET1486.txt|.|144
+swimming girls|.|WET6240.txt|.|14
+temptalia|.|WET3025.txt|.|27
+current ad|.|WET2804.txt|.|21
+news scanner rumors|.|WET4148.txt|.|11
+swim|.|WET1011.txt|.|23|.|WET3201.txt|.|36|.|WET3002.txt|.|23

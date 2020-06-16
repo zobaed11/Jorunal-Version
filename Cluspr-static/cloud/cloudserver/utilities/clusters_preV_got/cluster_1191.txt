@@ -1,0 +1,12 @@
+1191
+san|.|WET424.txt|.|28|.|WET2442.txt|.|229|.|WET874.txt|.|103|.|WET172.txt|.|36|.|WET4613.txt|.|56|.|WET4582.txt|.|89|.|WET6092.txt|.|14|.|WET2998.txt|.|13|.|WET3758.txt|.|37|.|WET1481.txt|.|21|.|WET2024.txt|.|6|.|WET2818.txt|.|61|.|WET4604.txt|.|43|.|WET1563.txt|.|39|.|WET2820.txt|.|28|.|WET2819.txt|.|65|.|WET6184.txt|.|415|.|WET3172.txt|.|64|.|WET2080.txt|.|19|.|WET2860.txt|.|87|.|WET6185.txt|.|435|.|WET5765.txt|.|140|.|WET3895.txt|.|11|.|WET5155.txt|.|132
+kyle|.|WET3378.txt|.|20|.|WET4613.txt|.|16|.|WET873.txt|.|20
+diego reader|.|WET2818.txt|.|15
+san marcos|.|WET3172.txt|.|14
+trusting|.|WET172.txt|.|1|.|WET5520.txt|.|2|.|WET6299.txt|.|1
+diego|.|WET2820.txt|.|29|.|WET2819.txt|.|59|.|WET874.txt|.|93|.|WET4613.txt|.|16|.|WET3172.txt|.|38|.|WET2998.txt|.|9|.|WET2818.txt|.|53
+cooking|.|WET1832.txt|.|51|.|WET2996.txt|.|9|.|WET5232.txt|.|49|.|WET1481.txt|.|52|.|WET3528.txt|.|140
+san carlos|.|WET5155.txt|.|55
+turnpike|.|WET424.txt|.|18
+petty|.|WET4613.txt|.|24|.|WET873.txt|.|30
+doobie|.|WET4582.txt|.|8

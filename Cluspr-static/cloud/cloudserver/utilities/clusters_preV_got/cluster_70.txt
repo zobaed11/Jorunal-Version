@@ -1,0 +1,12 @@
+70
+song|.|WET6098.txt|.|37|.|WET2970.txt|.|18|.|WET2962.txt|.|14|.|WET5868.txt|.|17|.|WET2085.txt|.|48|.|WET2126.txt|.|25|.|WET1921.txt|.|16|.|WET720.txt|.|10
+london heathrow|.|WET3229.txt|.|3023
+sono|.|WET524.txt|.|25
+intl airport|.|WET3229.txt|.|410
+cream|.|WET1322.txt|.|18|.|WET3633.txt|.|13|.|WET5011.txt|.|38
+heathrow|.|WET3229.txt|.|3028
+twitterkongsi|.|WET1979.txt|.|20
+intl|.|WET3229.txt|.|460|.|WET931.txt|.|162
+new york|.|WET4440.txt|.|76|.|WET3229.txt|.|1069|.|WET699.txt|.|47|.|WET698.txt|.|66|.|WET4619.txt|.|80
+manchester|.|WET3229.txt|.|1621|.|WET1929.txt|.|39|.|WET2302.txt|.|67|.|WET2485.txt|.|72
+detroit red wings|.|WET4619.txt|.|51

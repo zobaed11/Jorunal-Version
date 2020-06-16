@@ -1,0 +1,12 @@
+138
+grado|.|WET4400.txt|.|36
+enrichment|.|WET6264.txt|.|16
+checkered flag|.|WET3850.txt|.|30
+hue adjustment|.|WET759.txt|.|16
+starring|.|WET2846.txt|.|107
+abc news|.|WET10.txt|.|53|.|WET3758.txt|.|49
+search abc news|.|WET656.txt|.|6
+alfa|.|WET1224.txt|.|15
+seahawks|.|WET2842.txt|.|50
+questions general|.|WET1540.txt|.|12
+honorable|.|WET2494.txt|.|25

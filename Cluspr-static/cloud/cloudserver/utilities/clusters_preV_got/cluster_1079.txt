@@ -1,0 +1,12 @@
+1079
+fusion|.|WET4378.txt|.|2
+barrel|.|WET5708.txt|.|25|.|WET2175.txt|.|36
+elite|.|WET5477.txt|.|22|.|WET393.txt|.|26
+fiasco|.|WET459.txt|.|40
+winter lace|.|WET5321.txt|.|10
+network monitoring|.|WET2107.txt|.|2
+carry holsters|.|WET1616.txt|.|11
+ivory|.|WET648.txt|.|24
+sensor|.|WET4378.txt|.|2
+poll conducted|.|WET5850.txt|.|162
+great|.|WET2574.txt|.|49|.|WET2629.txt|.|14|.|WET2107.txt|.|44|.|WET2519.txt|.|125|.|WET5340.txt|.|25|.|WET1128.txt|.|94|.|WET15.txt|.|22|.|WET4378.txt|.|51|.|WET4203.txt|.|40|.|WET72.txt|.|30|.|WET5561.txt|.|52|.|WET5321.txt|.|147|.|WET951.txt|.|34|.|WET5058.txt|.|24|.|WET4988.txt|.|129|.|WET5850.txt|.|193|.|WET5696.txt|.|24|.|WET5140.txt|.|61

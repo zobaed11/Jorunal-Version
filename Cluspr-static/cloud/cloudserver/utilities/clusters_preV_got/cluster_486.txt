@@ -1,0 +1,12 @@
+486
+shopping bag|.|WET2450.txt|.|25|.|WET3649.txt|.|18|.|WET5885.txt|.|22
+occupational|.|WET1706.txt|.|15|.|WET4003.txt|.|17
+sweeper|.|WET1287.txt|.|22
+carfax|.|WET3524.txt|.|410|.|WET3525.txt|.|164
+serveras|.|WET2032.txt|.|15
+earnings by demographics|.|WET4003.txt|.|6
+deere|.|WET1958.txt|.|124
+nettoyants|.|WET2398.txt|.|49|.|WET6142.txt|.|75
+options learn|.|WET5409.txt|.|96
+labor|.|WET294.txt|.|10|.|WET4003.txt|.|44|.|WET260.txt|.|44|.|WET1647.txt|.|20|.|WET5087.txt|.|18|.|WET4103.txt|.|25|.|WET259.txt|.|8
+amigurumi|.|WET1149.txt|.|54

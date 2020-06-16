@@ -1,0 +1,12 @@
+534
+macaque|.|WET1682.txt|.|8
+revenue|.|WET5711.txt|.|24
+underwire|.|WET5002.txt|.|30
+strip|.|WET5963.txt|.|161
+drc|.|WET3429.txt|.|36
+safeguards data|.|WET4048.txt|.|4
+wizards nba|.|WET2024.txt|.|6
+statements committees leadership|.|WET4774.txt|.|20
+mais|.|WET5704.txt|.|58|.|WET4537.txt|.|47
+rectangular width|.|WET5533.txt|.|19
+deposits|.|WET577.txt|.|368

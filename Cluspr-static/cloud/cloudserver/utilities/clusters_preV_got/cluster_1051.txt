@@ -1,0 +1,12 @@
+1051
+coupons|.|WET1338.txt|.|6|.|WET5089.txt|.|7
+sportsticketsauto racing|.|WET1338.txt|.|6|.|WET5089.txt|.|7
+millions|.|WET3188.txt|.|22|.|WET3190.txt|.|22|.|WET3189.txt|.|22
+photos world news|.|WET3188.txt|.|11|.|WET3190.txt|.|11|.|WET3189.txt|.|11
+health news news|.|WET3188.txt|.|11|.|WET3190.txt|.|11|.|WET3189.txt|.|11
+member rewards|.|WET1338.txt|.|6
+odd|.|WET3189.txt|.|28
+industry energy|.|WET3190.txt|.|11
+breaking|.|WET2648.txt|.|5
+espanol follow upi|.|WET3188.txt|.|11|.|WET3190.txt|.|11|.|WET3189.txt|.|11
+upi|.|WET3188.txt|.|224|.|WET3190.txt|.|246|.|WET3189.txt|.|194

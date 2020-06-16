@@ -1,0 +1,12 @@
+798
+sanitation|.|WET186.txt|.|7
+sencha|.|WET3706.txt|.|205
+judaism|.|WET4100.txt|.|21
+department field|.|WET186.txt|.|5
+dialoguing|.|WET288.txt|.|1
+charles templeton|.|WET288.txt|.|6
+military sanitation|.|WET186.txt|.|4
+raw milk|.|WET210.txt|.|6
+department website|.|WET245.txt|.|9
+mediator|.|WET265.txt|.|2|.|WET3820.txt|.|1|.|WET4555.txt|.|2
+magic leverag|.|WET520.txt|.|29

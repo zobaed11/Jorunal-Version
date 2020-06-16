@@ -1,0 +1,7 @@
+30
+ski|.|WET4905.txt|.|256|.|WET3147.txt|.|914|.|WET2913.txt|.|27|.|WET2484.txt|.|33|.|WET1153.txt|.|445|.|WET2550.txt|.|199|.|WET2896.txt|.|219
+brands gift cards|.|WET3147.txt|.|99
+gift cards community|.|WET3147.txt|.|90
+brands gift|.|WET3147.txt|.|99
+cards community|.|WET3147.txt|.|90
+ski gear|.|WET2896.txt|.|20

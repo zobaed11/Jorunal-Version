@@ -1,0 +1,12 @@
+757
+eating disorder|.|WET3877.txt|.|16
+taiwanese|.|WET3319.txt|.|44
+baby name|.|WET4990.txt|.|41
+dispatch|.|WET5402.txt|.|51
+calendrier|.|WET902.txt|.|35
+saints|.|WET3101.txt|.|33|.|WET172.txt|.|16|.|WET952.txt|.|47|.|WET3920.txt|.|12
+mock|.|WET5423.txt|.|66|.|WET4224.txt|.|17
+dailytech|.|WET5350.txt|.|23|.|WET1600.txt|.|29
+mock draft|.|WET5423.txt|.|54
+auto video|.|WET5918.txt|.|21
+playoffs|.|WET902.txt|.|10

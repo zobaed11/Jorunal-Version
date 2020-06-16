@@ -1,0 +1,12 @@
+573
+slightly|.|WET1651.txt|.|18
+daily news|.|WET6216.txt|.|27|.|WET2133.txt|.|22
+roc|.|WET1651.txt|.|20
+worstof|.|WET5404.txt|.|12
+disc golf course|.|WET1636.txt|.|12
+course|.|WET4636.txt|.|8|.|WET1635.txt|.|89|.|WET5384.txt|.|95|.|WET1636.txt|.|71|.|WET5106.txt|.|27|.|WET5574.txt|.|12|.|WET2405.txt|.|8
+disc|.|WET3425.txt|.|80|.|WET1635.txt|.|35|.|WET1651.txt|.|55|.|WET3610.txt|.|29|.|WET3426.txt|.|33|.|WET1636.txt|.|33|.|WET5404.txt|.|143|.|WET6260.txt|.|47
+tng|.|WET5404.txt|.|96
+new mexico|.|WET6242.txt|.|25|.|WET3636.txt|.|9|.|WET323.txt|.|342
+champion|.|WET3425.txt|.|40|.|WET1473.txt|.|33|.|WET3610.txt|.|81
+tng season|.|WET5404.txt|.|45

@@ -1,0 +1,12 @@
+929
+sussex|.|WET3561.txt|.|24
+flaming|.|WET1822.txt|.|17
+find a grave|.|WET3526.txt|.|44
+fantasy|.|WET5320.txt|.|19|.|WET2794.txt|.|154|.|WET2024.txt|.|6|.|WET6318.txt|.|27|.|WET370.txt|.|60|.|WET1929.txt|.|31|.|WET477.txt|.|40|.|WET5492.txt|.|9|.|WET5538.txt|.|24|.|WET4441.txt|.|25|.|WET5527.txt|.|48|.|WET3895.txt|.|32|.|WET2499.txt|.|41
+fantasy football|.|WET370.txt|.|34|.|WET1929.txt|.|25|.|WET5538.txt|.|17
+kernelmedals|.|WET2129.txt|.|37
+architects|.|WET1195.txt|.|78
+keeper|.|WET6318.txt|.|18|.|WET2580.txt|.|57
+liverpool manchester|.|WET1929.txt|.|8
+fischer|.|WET5392.txt|.|182
+code sort|.|WET2122.txt|.|6

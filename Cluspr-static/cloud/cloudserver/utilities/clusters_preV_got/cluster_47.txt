@@ -1,0 +1,12 @@
+47
+romeo|.|WET1224.txt|.|15
+chic|.|WET5220.txt|.|63|.|WET1469.txt|.|57
+menlo|.|WET4899.txt|.|72
+smart home|.|WET2614.txt|.|20
+tar heels|.|WET1432.txt|.|18
+cher|.|WET939.txt|.|5
+stride|.|WET2977.txt|.|18
+sutter coast|.|WET2997.txt|.|8
+cliff hotel|.|WET2221.txt|.|16|.|WET5958.txt|.|8
+advance|.|WET3119.txt|.|34
+sachgebiet|.|WET1181.txt|.|15

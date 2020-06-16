@@ -1,0 +1,12 @@
+344
+birth announcements|.|WET458.txt|.|9
+accessories shop|.|WET2173.txt|.|64|.|WET3244.txt|.|44|.|WET1459.txt|.|29
+gothic|.|WET4122.txt|.|54
+en espanol|.|WET918.txt|.|5
+native|.|WET994.txt|.|192
+valid words|.|WET1532.txt|.|11
+gut|.|WET3026.txt|.|81
+metropolitan council|.|WET4457.txt|.|23
+guy|.|WET1793.txt|.|46|.|WET6010.txt|.|23
+cell phone|.|WET2616.txt|.|42|.|WET2649.txt|.|1102|.|WET2650.txt|.|547
+heaven|.|WET1742.txt|.|14|.|WET2701.txt|.|55|.|WET2750.txt|.|28

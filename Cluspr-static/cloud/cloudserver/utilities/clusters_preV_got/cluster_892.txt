@@ -1,0 +1,12 @@
+892
+care regimen|.|WET2895.txt|.|77
+pads|.|WET2441.txt|.|44
+hair care|.|WET5438.txt|.|14|.|WET2895.txt|.|79
+skin|.|WET6183.txt|.|29|.|WET3316.txt|.|6|.|WET5372.txt|.|31|.|WET1367.txt|.|28|.|WET2068.txt|.|82|.|WET1259.txt|.|182|.|WET5117.txt|.|47|.|WET2441.txt|.|48|.|WET2895.txt|.|292|.|WET5246.txt|.|18|.|WET1366.txt|.|47|.|WET5140.txt|.|234
+claims|.|WET6304.txt|.|27
+sex therapist|.|WET5117.txt|.|14|.|WET1366.txt|.|14
+customer rating|.|WET5140.txt|.|117
+skin concern|.|WET5140.txt|.|117
+regimen|.|WET2895.txt|.|98
+therapist|.|WET5117.txt|.|14|.|WET1366.txt|.|14
+concern|.|WET5140.txt|.|117

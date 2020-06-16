@@ -1,0 +1,12 @@
+811
+parking|.|WET2729.txt|.|28|.|WET4827.txt|.|9
+nie ma|.|WET1965.txt|.|27|.|WET3843.txt|.|7
+romans|.|WET4071.txt|.|134
+large|.|WET180.txt|.|21|.|WET2729.txt|.|80|.|WET1146.txt|.|49|.|WET2730.txt|.|38|.|WET3925.txt|.|32|.|WET5190.txt|.|420|.|WET1023.txt|.|25|.|WET4894.txt|.|20|.|WET177.txt|.|30|.|WET284.txt|.|30
+polly|.|WET2871.txt|.|19
+extra large large|.|WET3925.txt|.|10|.|WET177.txt|.|10|.|WET284.txt|.|10
+hypothetical|.|WET5911.txt|.|120
+felt|.|WET5879.txt|.|20
+polls|.|WET4271.txt|.|16|.|WET3333.txt|.|12|.|WET3332.txt|.|22
+recap|.|WET3169.txt|.|96
+sections|.|WET5089.txt|.|14

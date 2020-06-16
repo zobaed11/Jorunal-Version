@@ -1,0 +1,12 @@
+1219
+swedish|.|WET3997.txt|.|6
+osgi|.|WET1858.txt|.|14
+process it into image|.|WET4608.txt|.|3
+diabetic meal|.|WET5444.txt|.|4
+processing|.|WET2802.txt|.|7|.|WET421.txt|.|3|.|WET1901.txt|.|32|.|WET2164.txt|.|2|.|WET1913.txt|.|2|.|WET2261.txt|.|2
+word processor|.|WET2548.txt|.|10
+related changes|.|WET1055.txt|.|6
+mac os x|.|WET4522.txt|.|2|.|WET3294.txt|.|3|.|WET413.txt|.|35|.|WET3781.txt|.|5|.|WET4608.txt|.|4|.|WET1913.txt|.|3|.|WET2548.txt|.|2|.|WET414.txt|.|21|.|WET1697.txt|.|12|.|WET6031.txt|.|3|.|WET3451.txt|.|16|.|WET1858.txt|.|23|.|WET3867.txt|.|2|.|WET6274.txt|.|4|.|WET4155.txt|.|42|.|WET3215.txt|.|2|.|WET2292.txt|.|2|.|WET3351.txt|.|2|.|WET1055.txt|.|24|.|WET5444.txt|.|7|.|WET3312.txt|.|3|.|WET178.txt|.|2|.|WET615.txt|.|8|.|WET3293.txt|.|14|.|WET2091.txt|.|2|.|WET988.txt|.|2
+purdue colleges|.|WET4062.txt|.|99
+meal plan|.|WET5444.txt|.|4
+panama city beach|.|WET3729.txt|.|97

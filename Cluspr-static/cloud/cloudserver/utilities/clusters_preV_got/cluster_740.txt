@@ -1,0 +1,12 @@
+740
+laps or in seats|.|WET3446.txt|.|40
+operations|.|WET751.txt|.|21
+harmonica pocket|.|WET1447.txt|.|15
+sexually|.|WET751.txt|.|15
+spoken|.|WET5728.txt|.|11
+vacation deals|.|WET3446.txt|.|20
+listening electronic environmental|.|WET5728.txt|.|11
+flights|.|WET2051.txt|.|33|.|WET1210.txt|.|132|.|WET3445.txt|.|336|.|WET3446.txt|.|241
+cheap|.|WET1210.txt|.|35|.|WET3445.txt|.|101|.|WET3446.txt|.|48
+close|.|WET3654.txt|.|15|.|WET6224.txt|.|30|.|WET2493.txt|.|13|.|WET5010.txt|.|36|.|WET2992.txt|.|69|.|WET1972.txt|.|10|.|WET3446.txt|.|70
+pocket|.|WET1447.txt|.|16|.|WET4857.txt|.|14

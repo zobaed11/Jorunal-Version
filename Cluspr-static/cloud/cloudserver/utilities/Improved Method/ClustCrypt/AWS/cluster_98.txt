@@ -1,0 +1,12 @@
+winder steps|.|WET2838.txt|.|17
+led lcd|.|WET3245.txt|.|1
+workwear|.|WET2838.txt|.|28
+customer ratings|.|WET1454.txt|.|14
+add to wishlist|.|WET1482.txt|.|31
+walmart|.|WET3245.txt|.|54
+deliver|.|WET2838.txt|.|22
+stars|.|WET1454.txt|.|55|.|WET2838.txt|.|56|.|WET3245.txt|.|83|.|WET432.txt|.|22|.|WET1482.txt|.|64|.|WET4937.txt|.|118|.|WET2033.txt|.|49
+christian living|.|WET1482.txt|.|16
+steps|.|WET2838.txt|.|17
+collect deliver|.|WET2838.txt|.|20
+south las|.|WET4937.txt|.|16

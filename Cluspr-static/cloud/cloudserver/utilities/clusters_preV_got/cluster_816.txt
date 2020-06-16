@@ -1,0 +1,12 @@
+816
+extension|.|WET4062.txt|.|208
+north america|.|WET2986.txt|.|120
+courier|.|WET1421.txt|.|10
+ignore posts|.|WET5104.txt|.|57
+club conspiracy|.|WET5255.txt|.|56|.|WET1504.txt|.|60
+last edited date|.|WET2986.txt|.|80
+chronicling america|.|WET3943.txt|.|25|.|WET3942.txt|.|48
+word|.|WET2548.txt|.|29|.|WET1165.txt|.|158|.|WET3350.txt|.|65|.|WET1880.txt|.|5
+object title object|.|WET2986.txt|.|45
+rutland|.|WET835.txt|.|32|.|WET4366.txt|.|28
+america|.|WET3943.txt|.|27|.|WET701.txt|.|41|.|WET4877.txt|.|15|.|WET3942.txt|.|50|.|WET2986.txt|.|120|.|WET3261.txt|.|21|.|WET4831.txt|.|28|.|WET5008.txt|.|12|.|WET2644.txt|.|23|.|WET4590.txt|.|5

@@ -1,0 +1,12 @@
+1084
+max lwo|.|WET3153.txt|.|49
+primary school|.|WET2827.txt|.|140
+types|.|WET5170.txt|.|21|.|WET3153.txt|.|11
+max obj|.|WET3153.txt|.|152
+lwo|.|WET3153.txt|.|70
+max|.|WET717.txt|.|1|.|WET268.txt|.|1|.|WET4186.txt|.|2|.|WET4262.txt|.|1|.|WET4280.txt|.|1|.|WET4273.txt|.|1|.|WET2047.txt|.|8|.|WET4330.txt|.|1|.|WET2827.txt|.|170|.|WET517.txt|.|1|.|WET3153.txt|.|283|.|WET2828.txt|.|240|.|WET4185.txt|.|1|.|WET5592.txt|.|40|.|WET1802.txt|.|8|.|WET1856.txt|.|24|.|WET1817.txt|.|15|.|WET5551.txt|.|37
+lwo obj|.|WET3153.txt|.|61
+falcon|.|WET2827.txt|.|169|.|WET2828.txt|.|240
+banner|.|WET2827.txt|.|142|.|WET5452.txt|.|48|.|WET2828.txt|.|200
+school uniform|.|WET2828.txt|.|51
+primary|.|WET6223.txt|.|18|.|WET2827.txt|.|172|.|WET3205.txt|.|15

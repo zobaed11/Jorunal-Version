@@ -1,0 +1,12 @@
+1416
+jay inslee|.|WET1031.txt|.|111
+falls|.|WET2756.txt|.|16|.|WET1822.txt|.|37
+lil wayne|.|WET1791.txt|.|50
+athlete|.|WET4967.txt|.|28
+query|.|WET870.txt|.|1|.|WET2361.txt|.|2|.|WET6293.txt|.|37|.|WET2261.txt|.|4|.|WET1857.txt|.|45
+matt damon|.|WET2325.txt|.|20
+counties|.|WET5510.txt|.|2
+comments post|.|WET3926.txt|.|8
+pm edt|.|WET2676.txt|.|206
+family compare|.|WET5663.txt|.|65|.|WET1923.txt|.|78
+bush bbf|.|WET5144.txt|.|70

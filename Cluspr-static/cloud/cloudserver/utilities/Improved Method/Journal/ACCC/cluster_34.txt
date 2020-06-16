@@ -1,0 +1,42 @@
+34
+deco|.|WET3096.txt|.|22|.|WET3686.txt|.|64
+ephemera postcards|.|WET3096.txt|.|670
+regional|.|WET3096.txt|.|278|.|WET5051.txt|.|88|.|WET1301.txt|.|67|.|WET3321.txt|.|55|.|WET5052.txt|.|66|.|WET1063.txt|.|12|.|WET2527.txt|.|36
+collectibles|.|WET3096.txt|.|250|.|WET2543.txt|.|19|.|WET2101.txt|.|45
+glass plate|.|WET4252.txt|.|17
+dennis|.|WET5336.txt|.|17
+sour|.|WET5431.txt|.|19
+postcards|.|WET4385.txt|.|50|.|WET3096.txt|.|785
+details dennis bialek|.|WET5336.txt|.|16
+vodka|.|WET5431.txt|.|37
+fine|.|WET2125.txt|.|8|.|WET5671.txt|.|8|.|WET1930.txt|.|11|.|WET297.txt|.|9
+metallodielectric|.|WET297.txt|.|9
+nanocomposite|.|WET297.txt|.|13
+base material|.|WET297.txt|.|9|.|WET2604.txt|.|5
+books childrens|.|WET3096.txt|.|22
+kitchen|.|WET2875.txt|.|28|.|WET2994.txt|.|137|.|WET4957.txt|.|16|.|WET1799.txt|.|125|.|WET4615.txt|.|105|.|WET875.txt|.|114|.|WET3096.txt|.|259|.|WET2844.txt|.|77|.|WET5924.txt|.|24|.|WET1322.txt|.|45|.|WET1798.txt|.|91|.|WET2880.txt|.|31|.|WET5923.txt|.|85
+avis hotel|.|WET5336.txt|.|78
+plate slide|.|WET4252.txt|.|17
+nanocomposite glass|.|WET297.txt|.|11
+glass|.|WET3096.txt|.|548|.|WET5336.txt|.|31|.|WET4252.txt|.|17|.|WET5492.txt|.|12|.|WET5431.txt|.|12|.|WET297.txt|.|17
+kitchen collectibles|.|WET3096.txt|.|222
+drinking|.|WET4887.txt|.|10|.|WET5431.txt|.|22
+ephemera|.|WET3096.txt|.|759|.|WET6312.txt|.|6
+life art|.|WET5492.txt|.|6
+dennis bialek|.|WET5336.txt|.|16
+mugs|.|WET5492.txt|.|17
+nast|.|WET5692.txt|.|16|.|WET5492.txt|.|18
+bialek|.|WET5336.txt|.|16
+microstructuring|.|WET297.txt|.|8
+juice|.|WET1400.txt|.|14|.|WET5431.txt|.|29
+postcards regional|.|WET3096.txt|.|277
+avis|.|WET5336.txt|.|107
+childrens|.|WET3096.txt|.|55
+slide|.|WET4252.txt|.|17
+art deco|.|WET3096.txt|.|22
+vintage|.|WET3696.txt|.|14|.|WET3096.txt|.|267|.|WET1711.txt|.|40|.|WET3093.txt|.|19|.|WET4770.txt|.|71|.|WET1468.txt|.|66|.|WET2687.txt|.|18
+click for details|.|WET5336.txt|.|16
+magazine|.|WET5950.txt|.|33|.|WET3427.txt|.|9|.|WET714.txt|.|36|.|WET6011.txt|.|15|.|WET5565.txt|.|10|.|WET2628.txt|.|26|.|WET3096.txt|.|191|.|WET1833.txt|.|32|.|WET713.txt|.|67|.|WET4453.txt|.|88|.|WET2019.txt|.|24|.|WET5218.txt|.|59|.|WET2618.txt|.|14
+fine metallodielectric|.|WET297.txt|.|9
+fantasy art|.|WET5492.txt|.|8
+metallodielectric microstructuring|.|WET297.txt|.|8

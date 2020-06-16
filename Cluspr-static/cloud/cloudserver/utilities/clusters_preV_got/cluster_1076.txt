@@ -1,0 +1,12 @@
+1076
+view resource details|.|WET2453.txt|.|22
+resource allocation|.|WET1946.txt|.|4|.|WET3409.txt|.|2|.|WET3410.txt|.|3
+nano labs|.|WET2452.txt|.|9
+resource|.|WET796.txt|.|8|.|WET2453.txt|.|51|.|WET3398.txt|.|12|.|WET2862.txt|.|5|.|WET2403.txt|.|3|.|WET3409.txt|.|8|.|WET4037.txt|.|10|.|WET3738.txt|.|4|.|WET5818.txt|.|37|.|WET1946.txt|.|10|.|WET2481.txt|.|11|.|WET2411.txt|.|10|.|WET2452.txt|.|96|.|WET3410.txt|.|12|.|WET4832.txt|.|45|.|WET3166.txt|.|6|.|WET2975.txt|.|3|.|WET6220.txt|.|10
+clips|.|WET3222.txt|.|52|.|WET2481.txt|.|22|.|WET5028.txt|.|2|.|WET2728.txt|.|16
+health and fitness|.|WET2452.txt|.|19
+copy|.|WET2453.txt|.|22|.|WET6009.txt|.|15
+test image|.|WET5818.txt|.|17
+imaging resource|.|WET5818.txt|.|32
+resource manager|.|WET2403.txt|.|2
+add to list|.|WET2453.txt|.|22

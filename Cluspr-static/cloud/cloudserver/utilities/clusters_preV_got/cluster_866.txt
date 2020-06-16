@@ -1,0 +1,12 @@
+866
+offers|.|WET2226.txt|.|30|.|WET1478.txt|.|20|.|WET5494.txt|.|32|.|WET4295.txt|.|18|.|WET2108.txt|.|26|.|WET1259.txt|.|227|.|WET5963.txt|.|98|.|WET2313.txt|.|19
+sandals mary|.|WET3606.txt|.|15
+vegas blvd|.|WET2225.txt|.|104|.|WET5963.txt|.|89
+canada clearance|.|WET2147.txt|.|8
+rental houses|.|WET2763.txt|.|132
+grand canyon|.|WET2226.txt|.|13
+nowmore|.|WET1184.txt|.|72|.|WET4937.txt|.|82
+las vegas|.|WET2226.txt|.|157|.|WET2225.txt|.|491|.|WET3211.txt|.|42|.|WET1107.txt|.|61|.|WET5964.txt|.|102|.|WET324.txt|.|6|.|WET3405.txt|.|38|.|WET5963.txt|.|435|.|WET4937.txt|.|111|.|WET4316.txt|.|58|.|WET1563.txt|.|27
+offers commissions|.|WET2226.txt|.|16
+pricing|.|WET3635.txt|.|2|.|WET4673.txt|.|290|.|WET935.txt|.|319|.|WET3541.txt|.|4|.|WET4674.txt|.|174|.|WET4703.txt|.|2|.|WET2225.txt|.|105|.|WET4587.txt|.|3|.|WET5963.txt|.|111
+ask bookseller|.|WET1107.txt|.|65

@@ -1,0 +1,12 @@
+845
+generation|.|WET1656.txt|.|38
+hours qty|.|WET3835.txt|.|63
+studio|.|WET4000.txt|.|60|.|WET3346.txt|.|21|.|WET1194.txt|.|25|.|WET2601.txt|.|14|.|WET5155.txt|.|55|.|WET1049.txt|.|19|.|WET5896.txt|.|10
+palo|.|WET2588.txt|.|69
+gregory sp|.|WET1493.txt|.|12
+clear filter|.|WET1493.txt|.|9
+titles|.|WET2118.txt|.|21|.|WET5259.txt|.|8|.|WET2490.txt|.|18
+candle holders|.|WET1568.txt|.|46
+wikitravel|.|WET4806.txt|.|54|.|WET4807.txt|.|56
+sara ramirez leaving|.|WET5900.txt|.|17|.|WET2159.txt|.|18
+error persists|.|WET4045.txt|.|199

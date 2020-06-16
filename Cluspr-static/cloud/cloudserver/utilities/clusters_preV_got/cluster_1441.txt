@@ -1,0 +1,12 @@
+1441
+rendere|.|WET706.txt|.|2|.|WET2977.txt|.|2|.|WET861.txt|.|1|.|WET4920.txt|.|1
+pas|.|WET3852.txt|.|13|.|WET939.txt|.|9
+personality|.|WET4160.txt|.|12
+apsaugos|.|WET2164.txt|.|29
+wits|.|WET941.txt|.|3|.|WET1889.txt|.|2|.|WET745.txt|.|2
+roll call|.|WET237.txt|.|11
+ner|.|WET4664.txt|.|1|.|WET998.txt|.|3|.|WET5988.txt|.|2|.|WET4037.txt|.|2|.|WET1350.txt|.|2
+metai|.|WET2164.txt|.|17
+rotten tomatoes|.|WET4114.txt|.|8
+lupe fiasco|.|WET459.txt|.|38
+dei diritti|.|WET5658.txt|.|78

@@ -1,0 +1,12 @@
+353
+classic space|.|WET687.txt|.|30
+trademarks or registered|.|WET5775.txt|.|10
+airbus|.|WET4883.txt|.|55|.|WET1136.txt|.|259|.|WET4881.txt|.|370
+historic prairie|.|WET1772.txt|.|40|.|WET1771.txt|.|88|.|WET5507.txt|.|88
+country news|.|WET1990.txt|.|12
+animes|.|WET586.txt|.|2
+mec|.|WET3329.txt|.|12
+mer|.|WET812.txt|.|77
+med|.|WET5505.txt|.|24|.|WET4651.txt|.|34|.|WET2032.txt|.|36
+year by year|.|WET2088.txt|.|12
+feeds podcasts|.|WET5402.txt|.|20

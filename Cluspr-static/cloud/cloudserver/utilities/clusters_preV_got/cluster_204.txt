@@ -1,0 +1,12 @@
+204
+strand|.|WET5804.txt|.|48|.|WET4206.txt|.|14|.|WET5990.txt|.|22
+ephemera postcards|.|WET3096.txt|.|670
+shop all deals|.|WET2844.txt|.|77|.|WET2173.txt|.|128|.|WET5926.txt|.|24
+free sample|.|WET5081.txt|.|102
+http|.|WET4379.txt|.|1|.|WET5361.txt|.|2|.|WET4814.txt|.|1
+european tour|.|WET5506.txt|.|25
+end|.|WET3890.txt|.|60|.|WET96.txt|.|165
+medical id bracelet|.|WET2657.txt|.|35
+council pos|.|WET2209.txt|.|24
+account cart|.|WET6112.txt|.|6
+store locator|.|WET2804.txt|.|21

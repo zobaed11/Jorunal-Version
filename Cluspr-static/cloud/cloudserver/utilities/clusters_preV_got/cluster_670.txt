@@ -1,0 +1,12 @@
+670
+julianc|.|WET3619.txt|.|2
+kick|.|WET4631.txt|.|10
+castilla|.|WET1439.txt|.|23
+baseball bat|.|WET81.txt|.|40
+soccer coaching|.|WET892.txt|.|5
+soccer equipment|.|WET4631.txt|.|28|.|WET892.txt|.|17
+equipment|.|WET3609.txt|.|30|.|WET2917.txt|.|22|.|WET385.txt|.|22|.|WET1439.txt|.|51|.|WET81.txt|.|85|.|WET80.txt|.|27|.|WET4631.txt|.|61|.|WET3619.txt|.|44|.|WET892.txt|.|37
+guide soccer|.|WET4631.txt|.|30
+directv my account|.|WET3609.txt|.|6
+shelters|.|WET4631.txt|.|10
+packages english tv|.|WET3609.txt|.|6

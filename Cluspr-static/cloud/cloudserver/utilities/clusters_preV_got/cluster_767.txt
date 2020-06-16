@@ -1,0 +1,12 @@
+767
+mutase|.|WET5911.txt|.|1026
+gatehouse|.|WET6266.txt|.|20
+vitamins|.|WET2712.txt|.|50|.|WET2713.txt|.|40
+data|.|WET4048.txt|.|5|.|WET4883.txt|.|34|.|WET889.txt|.|56|.|WET5844.txt|.|32|.|WET1048.txt|.|5|.|WET4115.txt|.|55|.|WET1688.txt|.|112|.|WET1849.txt|.|7|.|WET2203.txt|.|35|.|WET3838.txt|.|62|.|WET6077.txt|.|33|.|WET5845.txt|.|114|.|WET4486.txt|.|234
+murah|.|WET2623.txt|.|13
+dark|.|WET1478.txt|.|114|.|WET5230.txt|.|63|.|WET1477.txt|.|198|.|WET5279.txt|.|73|.|WET1530.txt|.|40|.|WET5228.txt|.|201|.|WET5622.txt|.|42|.|WET1883.txt|.|72|.|WET4592.txt|.|2|.|WET5391.txt|.|26|.|WET2750.txt|.|32
+reading|.|WET2306.txt|.|268|.|WET1624.txt|.|9|.|WET3837.txt|.|13|.|WET1590.txt|.|17|.|WET188.txt|.|96|.|WET4316.txt|.|17|.|WET2487.txt|.|11|.|WET442.txt|.|24|.|WET3936.txt|.|96|.|WET4896.txt|.|440
+dawson county library|.|WET188.txt|.|58|.|WET3936.txt|.|58
+waterproof|.|WET2786.txt|.|53|.|WET2787.txt|.|90
+dawson|.|WET188.txt|.|60|.|WET3936.txt|.|60
+busch|.|WET3378.txt|.|20|.|WET4613.txt|.|16|.|WET609.txt|.|57|.|WET873.txt|.|20

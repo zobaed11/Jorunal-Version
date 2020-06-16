@@ -1,0 +1,12 @@
+405
+rv insurance|.|WET2806.txt|.|7
+roster twitter|.|WET455.txt|.|37|.|WET5673.txt|.|148
+news soccer|.|WET1973.txt|.|6
+polo schedule|.|WET1973.txt|.|6
+country schedule|.|WET1973.txt|.|6
+smoke|.|WET5319.txt|.|7
+twitter facebook|.|WET4504.txt|.|20|.|WET5673.txt|.|100|.|WET2536.txt|.|9
+azerbaijani bengali bulgarian|.|WET4239.txt|.|11
+locomotives|.|WET2733.txt|.|7
+twitter instagram|.|WET5673.txt|.|48
+herb|.|WET5613.txt|.|48

@@ -1,0 +1,12 @@
+1013
+american athletic|.|WET1462.txt|.|52
+mountain west|.|WET1462.txt|.|52
+palm|.|WET3445.txt|.|50|.|WET5831.txt|.|5
+west|.|WET2862.txt|.|116|.|WET4693.txt|.|41|.|WET1089.txt|.|71|.|WET2630.txt|.|33|.|WET2238.txt|.|65|.|WET2316.txt|.|17|.|WET2448.txt|.|32|.|WET240.txt|.|39|.|WET1462.txt|.|100|.|WET2120.txt|.|34|.|WET436.txt|.|26|.|WET1006.txt|.|104|.|WET6058.txt|.|13|.|WET3986.txt|.|21|.|WET3445.txt|.|43
+west virginia|.|WET2238.txt|.|64
+enjoy|.|WET1733.txt|.|240
+jodi|.|WET1089.txt|.|48
+hiker|.|WET5441.txt|.|5|.|WET3994.txt|.|20|.|WET3995.txt|.|2|.|WET1006.txt|.|2
+wv code|.|WET2238.txt|.|38|.|WET5976.txt|.|16
+athletic|.|WET5523.txt|.|41|.|WET1462.txt|.|52|.|WET3665.txt|.|33|.|WET5677.txt|.|11|.|WET4123.txt|.|12|.|WET5893.txt|.|33|.|WET3171.txt|.|23|.|WET2787.txt|.|28|.|WET2153.txt|.|44
+missouri valley|.|WET1462.txt|.|44

@@ -1,0 +1,12 @@
+1054
+bmx bikes|.|WET5054.txt|.|14|.|WET1153.txt|.|21
+stretch|.|WET3063.txt|.|60
+nav|.|WET3063.txt|.|11
+excludes|.|WET3063.txt|.|22
+person tents|.|WET1153.txt|.|35
+pants|.|WET1178.txt|.|65|.|WET4904.txt|.|192|.|WET2839.txt|.|178|.|WET1546.txt|.|4|.|WET3063.txt|.|151|.|WET3740.txt|.|48|.|WET4753.txt|.|50|.|WET6182.txt|.|32|.|WET1459.txt|.|30|.|WET1201.txt|.|8|.|WET4930.txt|.|43|.|WET673.txt|.|24|.|WET1780.txt|.|65|.|WET3093.txt|.|25|.|WET1265.txt|.|49|.|WET1153.txt|.|290|.|WET3590.txt|.|40
+main nav skip|.|WET3063.txt|.|11
+new arrivals excludes|.|WET3063.txt|.|22
+please turn|.|WET3063.txt|.|6
+koi scrubs|.|WET2839.txt|.|48
+tops|.|WET1178.txt|.|50|.|WET4930.txt|.|52|.|WET2839.txt|.|213|.|WET1546.txt|.|21|.|WET2145.txt|.|58|.|WET3142.txt|.|23|.|WET3275.txt|.|150

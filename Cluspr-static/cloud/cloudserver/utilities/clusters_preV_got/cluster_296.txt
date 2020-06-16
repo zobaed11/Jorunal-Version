@@ -1,0 +1,12 @@
+296
+holiday inn club|.|WET3643.txt|.|24
+hualuxe hotels|.|WET2069.txt|.|9
+hualuxe|.|WET2069.txt|.|9
+inn club|.|WET2069.txt|.|9
+staybridge|.|WET2069.txt|.|6
+suites|.|WET6056.txt|.|63|.|WET2069.txt|.|21
+inn club vacations|.|WET3643.txt|.|24
+inn|.|WET6056.txt|.|70|.|WET5810.txt|.|257|.|WET2797.txt|.|9|.|WET2069.txt|.|57|.|WET3643.txt|.|109|.|WET1273.txt|.|17
+rewards club|.|WET5810.txt|.|172|.|WET2069.txt|.|59|.|WET3643.txt|.|214
+inn express|.|WET5810.txt|.|119
+staybridge suites|.|WET2069.txt|.|6

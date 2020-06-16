@@ -1,0 +1,12 @@
+501
+coast|.|WET1513.txt|.|93|.|WET5265.txt|.|93|.|WET648.txt|.|22|.|WET2997.txt|.|9|.|WET5266.txt|.|69|.|WET4723.txt|.|26|.|WET2932.txt|.|100
+bill withers|.|WET4594.txt|.|18
+coast to coast tickets|.|WET5266.txt|.|31
+coast tickets|.|WET1513.txt|.|52|.|WET5265.txt|.|52|.|WET5266.txt|.|38
+concert|.|WET5266.txt|.|43|.|WET1515.txt|.|32
+sutter|.|WET2997.txt|.|29
+claire|.|WET366.txt|.|8|.|WET3262.txt|.|374
+mediation|.|WET6223.txt|.|2|.|WET4204.txt|.|2|.|WET3702.txt|.|2|.|WET3624.txt|.|2|.|WET3656.txt|.|2|.|WET2338.txt|.|34|.|WET459.txt|.|2|.|WET1749.txt|.|3|.|WET5509.txt|.|2|.|WET5984.txt|.|2|.|WET3547.txt|.|2|.|WET5371.txt|.|2|.|WET573.txt|.|6|.|WET2183.txt|.|2|.|WET5060.txt|.|2
+cart south|.|WET2932.txt|.|23
+venue guide|.|WET5266.txt|.|14
+south coast|.|WET2932.txt|.|90

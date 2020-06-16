@@ -1,0 +1,54 @@
+89
+geographical society|.|WET214.txt|.|49
+career|.|WET3437.txt|.|29|.|WET2814.txt|.|19|.|WET240.txt|.|240|.|WET3179.txt|.|3|.|WET6211.txt|.|12|.|WET3985.txt|.|458|.|WET2057.txt|.|33|.|WET3986.txt|.|160|.|WET4127.txt|.|28
+bee|.|WET5027.txt|.|110|.|WET392.txt|.|89
+uwm|.|WET214.txt|.|101
+lett|.|WET3678.txt|.|337
+osa publishing china|.|WET3678.txt|.|25
+apicultural|.|WET5027.txt|.|24
+score|.|WET2568.txt|.|31|.|WET6231.txt|.|28|.|WET3985.txt|.|111|.|WET4730.txt|.|32|.|WET2985.txt|.|86|.|WET3649.txt|.|45|.|WET3379.txt|.|15|.|WET1818.txt|.|16|.|WET2198.txt|.|24|.|WET991.txt|.|16|.|WET3460.txt|.|118|.|WET3986.txt|.|45|.|WET1672.txt|.|50
+humane society|.|WET2042.txt|.|8
+photonics|.|WET3678.txt|.|79
+publishing|.|WET5280.txt|.|24|.|WET3678.txt|.|53|.|WET1530.txt|.|30
+lista|.|WET3985.txt|.|42
+rev|.|WET3678.txt|.|234
+test|.|WET3706.txt|.|46|.|WET3985.txt|.|72|.|WET5624.txt|.|21|.|WET6255.txt|.|38|.|WET1029.txt|.|20|.|WET5818.txt|.|34
+countries australia bangladesh|.|WET3985.txt|.|11
+phys|.|WET3678.txt|.|462
+countries|.|WET240.txt|.|42|.|WET3985.txt|.|77|.|WET5850.txt|.|157|.|WET3247.txt|.|37
+optical society|.|WET3678.txt|.|98
+apicultural society|.|WET5027.txt|.|24
+beekeeping|.|WET5027.txt|.|86
+cultural|.|WET2042.txt|.|8|.|WET4321.txt|.|14|.|WET281.txt|.|43|.|WET1195.txt|.|11
+wickets career|.|WET240.txt|.|60|.|WET3985.txt|.|110|.|WET3986.txt|.|40
+opt|.|WET3678.txt|.|266
+highest|.|WET3616.txt|.|36|.|WET3985.txt|.|111|.|WET3986.txt|.|43|.|WET5078.txt|.|37|.|WET1327.txt|.|30
+bangladesh england|.|WET3986.txt|.|20
+cricket society|.|WET3985.txt|.|110|.|WET3986.txt|.|40
+career runs|.|WET240.txt|.|60|.|WET3985.txt|.|110|.|WET3986.txt|.|40
+geographical|.|WET214.txt|.|49
+humane|.|WET2042.txt|.|9
+journal of the optical|.|WET3678.txt|.|78
+india|.|WET240.txt|.|39|.|WET2083.txt|.|11|.|WET3985.txt|.|66|.|WET3940.txt|.|16|.|WET3394.txt|.|19|.|WET1913.txt|.|15|.|WET51.txt|.|69
+actions mark|.|WET5027.txt|.|7
+order images digital collections|.|WET214.txt|.|11
+society|.|WET214.txt|.|49|.|WET3985.txt|.|166|.|WET2042.txt|.|9|.|WET3678.txt|.|98|.|WET5027.txt|.|24|.|WET3986.txt|.|60|.|WET62.txt|.|16
+laser|.|WET3678.txt|.|102|.|WET3694.txt|.|36
+honey|.|WET3254.txt|.|32|.|WET5027.txt|.|56
+test career runs|.|WET3985.txt|.|22
+indies zimbabwe|.|WET3986.txt|.|20
+crossref|.|WET3678.txt|.|920
+score career|.|WET3986.txt|.|40
+africa sri|.|WET3986.txt|.|20
+career highest|.|WET3986.txt|.|40
+west indies|.|WET3986.txt|.|20
+asia society|.|WET62.txt|.|12
+int|.|WET3480.txt|.|47|.|WET3985.txt|.|23|.|WET332.txt|.|116
+american geographical|.|WET214.txt|.|49
+bee removal|.|WET5027.txt|.|20
+indies|.|WET3986.txt|.|20
+bangladesh|.|WET3985.txt|.|55|.|WET3986.txt|.|20
+osa|.|WET3678.txt|.|79
+runs|.|WET240.txt|.|95|.|WET3985.txt|.|114|.|WET822.txt|.|2|.|WET3986.txt|.|45|.|WET218.txt|.|31
+wickets|.|WET240.txt|.|104|.|WET3985.txt|.|138|.|WET3986.txt|.|65
+optical|.|WET3678.txt|.|300|.|WET4599.txt|.|55

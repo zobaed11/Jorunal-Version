@@ -1,0 +1,38 @@
+48
+warhol|.|WET4957.txt|.|14
+room kitchen|.|WET4957.txt|.|16
+dining room|.|WET4957.txt|.|16
+clear filter|.|WET1493.txt|.|9
+print starting|.|WET4957.txt|.|148
+rooms bedroom|.|WET4957.txt|.|11
+trek|.|WET5404.txt|.|51|.|WET1656.txt|.|385
+bird house|.|WET3835.txt|.|16
+framed|.|WET1202.txt|.|61|.|WET4958.txt|.|71|.|WET4957.txt|.|122|.|WET3574.txt|.|42
+rugs|.|WET1568.txt|.|99|.|WET2689.txt|.|80|.|WET1406.txt|.|8|.|WET3272.txt|.|107
+sp|.|WET1493.txt|.|30
+generation|.|WET1656.txt|.|38
+business hours|.|WET3835.txt|.|63
+hours|.|WET2389.txt|.|11|.|WET3634.txt|.|52|.|WET5966.txt|.|34|.|WET3835.txt|.|64|.|WET3205.txt|.|20|.|WET4536.txt|.|21|.|WET6102.txt|.|22
+gregory|.|WET1493.txt|.|12
+next generation|.|WET1656.txt|.|38
+framed art print|.|WET4957.txt|.|37
+ships free|.|WET1568.txt|.|256|.|WET1386.txt|.|8
+trek worstof|.|WET5404.txt|.|12
+tng|.|WET5404.txt|.|96
+hours qty|.|WET3835.txt|.|63
+speculative|.|WET1792.txt|.|3|.|WET4589.txt|.|1|.|WET5505.txt|.|1|.|WET3810.txt|.|1|.|WET4874.txt|.|1|.|WET2680.txt|.|10|.|WET2484.txt|.|2|.|WET5404.txt|.|16|.|WET3868.txt|.|2|.|WET4550.txt|.|1
+gregory sp|.|WET1493.txt|.|12
+stock ships|.|WET3835.txt|.|63
+print|.|WET1146.txt|.|54|.|WET2519.txt|.|182|.|WET2721.txt|.|60|.|WET392.txt|.|16|.|WET5963.txt|.|178|.|WET2154.txt|.|44|.|WET270.txt|.|38|.|WET3252.txt|.|17|.|WET447.txt|.|30|.|WET4913.txt|.|57|.|WET4028.txt|.|17|.|WET6270.txt|.|14|.|WET6151.txt|.|28|.|WET841.txt|.|29|.|WET1202.txt|.|193|.|WET4958.txt|.|260|.|WET5571.txt|.|21|.|WET2152.txt|.|17|.|WET4957.txt|.|314|.|WET836.txt|.|66|.|WET3621.txt|.|24|.|WET4894.txt|.|28|.|WET5894.txt|.|23|.|WET406.txt|.|33|.|WET2838.txt|.|23|.|WET6152.txt|.|33|.|WET4131.txt|.|21|.|WET2225.txt|.|225|.|WET835.txt|.|19|.|WET2733.txt|.|4|.|WET1203.txt|.|164|.|WET4869.txt|.|32|.|WET5817.txt|.|12|.|WET6153.txt|.|24
+ships|.|WET1568.txt|.|256|.|WET2646.txt|.|28|.|WET1202.txt|.|31|.|WET3835.txt|.|63|.|WET1386.txt|.|9|.|WET1157.txt|.|13|.|WET4957.txt|.|28|.|WET1493.txt|.|53|.|WET1203.txt|.|59|.|WET5404.txt|.|50|.|WET1656.txt|.|50
+jesus|.|WET533.txt|.|29|.|WET1157.txt|.|13
+give us|.|WET1203.txt|.|9
+star trek|.|WET1656.txt|.|328
+cart frame|.|WET4957.txt|.|219
+qty|.|WET3835.txt|.|68
+indistinguishable|.|WET2772.txt|.|3|.|WET4286.txt|.|3|.|WET1656.txt|.|3
+worstof|.|WET5404.txt|.|12
+candle holders|.|WET1568.txt|.|46
+andy warhol|.|WET4957.txt|.|14
+frame|.|WET6158.txt|.|38|.|WET4957.txt|.|246|.|WET5352.txt|.|40|.|WET5208.txt|.|18
+tng season|.|WET5404.txt|.|45

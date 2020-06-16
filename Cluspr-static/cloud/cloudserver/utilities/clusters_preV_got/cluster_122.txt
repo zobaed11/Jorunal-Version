@@ -1,0 +1,12 @@
+122
+td|.|WET3646.txt|.|20
+developer updates|.|WET6132.txt|.|11
+matzah plates|.|WET879.txt|.|4
+ti|.|WET2416.txt|.|22|.|WET4684.txt|.|6
+tm|.|WET1795.txt|.|20
+pamuk|.|WET4082.txt|.|7
+police department|.|WET5727.txt|.|5
+ua libraries|.|WET5982.txt|.|8
+sensory illumination|.|WET2853.txt|.|4
+tb|.|WET5198.txt|.|80
+monster|.|WET1554.txt|.|23

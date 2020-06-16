@@ -1,0 +1,12 @@
+117
+nonprofit partners|.|WET5178.txt|.|11
+montgomery scott|.|WET4382.txt|.|14
+bids|.|WET1711.txt|.|88|.|WET4660.txt|.|1|.|WET5456.txt|.|95
+hancock intl|.|WET931.txt|.|17
+mico|.|WET1995.txt|.|17
+ballot questions|.|WET1540.txt|.|12
+quot|.|WET3943.txt|.|10|.|WET3942.txt|.|41|.|WET3941.txt|.|46|.|WET1896.txt|.|9
+chicks|.|WET1243.txt|.|24
+metallic|.|WET1243.txt|.|18
+assmat|.|WET64.txt|.|37
+dojo|.|WET1134.txt|.|70|.|WET4879.txt|.|67

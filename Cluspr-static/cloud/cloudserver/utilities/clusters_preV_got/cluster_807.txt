@@ -1,0 +1,12 @@
+807
+mirror|.|WET3954.txt|.|32|.|WET5533.txt|.|169
+patient information|.|WET1048.txt|.|13
+firmy|.|WET5476.txt|.|28
+patient|.|WET304.txt|.|63|.|WET1996.txt|.|62|.|WET4796.txt|.|42|.|WET5736.txt|.|68|.|WET73.txt|.|27|.|WET2645.txt|.|50|.|WET3816.txt|.|23|.|WET5737.txt|.|41|.|WET6073.txt|.|29|.|WET1048.txt|.|51
+healthgrades|.|WET1996.txt|.|87
+active|.|WET1676.txt|.|22|.|WET5127.txt|.|7|.|WET4865.txt|.|81|.|WET71.txt|.|35|.|WET5541.txt|.|30|.|WET5709.txt|.|7|.|WET5614.txt|.|44|.|WET5162.txt|.|5|.|WET1875.txt|.|36|.|WET4015.txt|.|5|.|WET5615.txt|.|12|.|WET2220.txt|.|56
+print pages|.|WET4131.txt|.|12|.|WET392.txt|.|16
+australian museum|.|WET3816.txt|.|19
+court|.|WET3418.txt|.|25|.|WET1014.txt|.|29|.|WET3703.txt|.|72|.|WET4757.txt|.|44|.|WET6267.txt|.|24|.|WET170.txt|.|102|.|WET320.txt|.|12|.|WET650.txt|.|68|.|WET3273.txt|.|14
+beaumont|.|WET1270.txt|.|99|.|WET5021.txt|.|171
+annonsering|.|WET931.txt|.|20

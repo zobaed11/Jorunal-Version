@@ -1,0 +1,12 @@
+829
+washington dc|.|WET4782.txt|.|38
+buy wine|.|WET3298.txt|.|22
+ny times|.|WET5003.txt|.|10
+hollywood|.|WET3099.txt|.|54|.|WET483.txt|.|26|.|WET4609.txt|.|12|.|WET4230.txt|.|27
+voted comment|.|WET5219.txt|.|52|.|WET1468.txt|.|42|.|WET1469.txt|.|25
+medal of honor|.|WET1485.txt|.|137
+backpacks|.|WET2153.txt|.|60
+maximum|.|WET1711.txt|.|30|.|WET1690.txt|.|6
+neosho daily news|.|WET6216.txt|.|27
+quartet|.|WET4411.txt|.|9
+quarter|.|WET1758.txt|.|55

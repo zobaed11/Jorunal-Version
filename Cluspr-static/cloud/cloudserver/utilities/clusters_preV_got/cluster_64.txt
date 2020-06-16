@@ -1,0 +1,12 @@
+64
+studios|.|WET2298.txt|.|8|.|WET1270.txt|.|98|.|WET5896.txt|.|5
+meter|.|WET5450.txt|.|38
+meritbadgedotorg|.|WET4384.txt|.|22
+guys|.|WET2870.txt|.|25|.|WET4717.txt|.|31|.|WET5117.txt|.|22|.|WET1270.txt|.|100|.|WET1365.txt|.|21
+crookston|.|WET5323.txt|.|33
+sale price|.|WET5804.txt|.|106|.|WET2185.txt|.|47|.|WET2061.txt|.|40
+taliaferro|.|WET1531.txt|.|9
+clarion|.|WET1494.txt|.|18
+spike|.|WET1270.txt|.|180
+lancaster|.|WET2217.txt|.|131
+webinar|.|WET4165.txt|.|22

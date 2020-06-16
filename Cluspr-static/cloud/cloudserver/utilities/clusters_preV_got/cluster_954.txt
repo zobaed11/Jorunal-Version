@@ -1,0 +1,12 @@
+954
+score|.|WET2568.txt|.|31|.|WET6231.txt|.|28|.|WET3985.txt|.|111|.|WET4730.txt|.|32|.|WET2985.txt|.|86|.|WET3649.txt|.|45|.|WET3379.txt|.|15|.|WET1818.txt|.|16|.|WET2198.txt|.|24|.|WET991.txt|.|16|.|WET3460.txt|.|118|.|WET3986.txt|.|45|.|WET1672.txt|.|50
+don|.|WET6231.txt|.|1
+box score|.|WET4730.txt|.|32|.|WET991.txt|.|16
+gift card|.|WET3316.txt|.|12|.|WET5744.txt|.|7|.|WET5625.txt|.|39|.|WET3649.txt|.|26
+retweet|.|WET2850.txt|.|18
+marketplace sponsors classifieds|.|WET1408.txt|.|18
+reply parent|.|WET2568.txt|.|14
+reputed|.|WET1818.txt|.|1
+parent score|.|WET2568.txt|.|14
+cricket score|.|WET1672.txt|.|18
+object|.|WET4809.txt|.|14|.|WET3294.txt|.|43|.|WET3293.txt|.|154|.|WET2986.txt|.|158|.|WET2985.txt|.|158|.|WET3924.txt|.|27

@@ -1,0 +1,30 @@
+75
+tripadvisor|.|WET3730.txt|.|112|.|WET3729.txt|.|126
+luzern|.|WET6187.txt|.|114
+panama city|.|WET3729.txt|.|100|.|WET1563.txt|.|19
+downloads k lite pro|.|WET5038.txt|.|4
+downloads kazaa lite|.|WET5038.txt|.|8
+download vista|.|WET5038.txt|.|36
+ms vista|.|WET3798.txt|.|17
+florida panhandle|.|WET3729.txt|.|50
+toll|.|WET5038.txt|.|71
+vista revista|.|WET6187.txt|.|88
+panama city beach|.|WET3729.txt|.|97
+iseries|.|WET3798.txt|.|17
+panama|.|WET3729.txt|.|109|.|WET1563.txt|.|19|.|WET5776.txt|.|33
+iseries access|.|WET3798.txt|.|17
+sons|.|WET6187.txt|.|21
+kazaa|.|WET5038.txt|.|17
+vista and iseries|.|WET3798.txt|.|17
+en vista|.|WET6187.txt|.|88
+lite|.|WET5038.txt|.|19
+este establecimiento|.|WET3729.txt|.|99
+establecimiento|.|WET3729.txt|.|151
+revista|.|WET6187.txt|.|88
+city beach|.|WET3729.txt|.|97
+este|.|WET3729.txt|.|105|.|WET5583.txt|.|15|.|WET1486.txt|.|62
+toll free|.|WET5038.txt|.|71
+mostrar en|.|WET6187.txt|.|90
+panhandle|.|WET3729.txt|.|50
+mostrar|.|WET3730.txt|.|130|.|WET6187.txt|.|99
+vista|.|WET3798.txt|.|17|.|WET3729.txt|.|56|.|WET6187.txt|.|89|.|WET2420.txt|.|23|.|WET5038.txt|.|54

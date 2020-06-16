@@ -1,0 +1,12 @@
+600
+msg|.|WET4882.txt|.|116
+public profile send|.|WET5388.txt|.|40
+quote selected|.|WET4882.txt|.|116
+public profile send a private|.|WET4141.txt|.|15
+profile send|.|WET196.txt|.|50|.|WET2798.txt|.|42|.|WET4133.txt|.|52|.|WET6214.txt|.|86|.|WET2195.txt|.|28|.|WET5388.txt|.|40|.|WET4141.txt|.|15|.|WET4882.txt|.|116
+quote reply|.|WET4133.txt|.|33|.|WET393.txt|.|28
+sin|.|WET2798.txt|.|28
+rpgwatch|.|WET2798.txt|.|48|.|WET2797.txt|.|65
+users suggest|.|WET4882.txt|.|109
+resp users|.|WET4882.txt|.|109
+selected|.|WET3316.txt|.|36|.|WET1360.txt|.|4|.|WET4882.txt|.|116

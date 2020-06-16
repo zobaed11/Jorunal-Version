@@ -1,0 +1,12 @@
+663
+moral character|.|WET5803.txt|.|86
+tropes|.|WET4732.txt|.|79|.|WET4731.txt|.|108|.|WET992.txt|.|79|.|WET993.txt|.|79
+game theory|.|WET724.txt|.|6|.|WET130.txt|.|2|.|WET3854.txt|.|1|.|WET2104.txt|.|2
+woods|.|WET6220.txt|.|40
+acoustic|.|WET2909.txt|.|47
+controllers|.|WET1886.txt|.|56|.|WET4754.txt|.|23
+amelie|.|WET5311.txt|.|42
+jumpsuits and rompers|.|WET1265.txt|.|37
+motley|.|WET1835.txt|.|54|.|WET5571.txt|.|85
+analysis network|.|WET1453.txt|.|8
+media research|.|WET696.txt|.|18

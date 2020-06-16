@@ -1,0 +1,12 @@
+97
+speed manual|.|WET5763.txt|.|172
+honda civic sedan|.|WET5763.txt|.|113
+honda|.|WET2022.txt|.|324|.|WET5763.txt|.|632
+automatic|.|WET5855.txt|.|29|.|WET2113.txt|.|17|.|WET2022.txt|.|196|.|WET5763.txt|.|184
+manual|.|WET157.txt|.|12|.|WET5394.txt|.|22|.|WET5763.txt|.|172
+vice city|.|WET4763.txt|.|119
+silversmith|.|WET3097.txt|.|15
+speed|.|WET6064.txt|.|105|.|WET2726.txt|.|96|.|WET2022.txt|.|221|.|WET2312.txt|.|48|.|WET5763.txt|.|356
+civic|.|WET2022.txt|.|123|.|WET5763.txt|.|221
+rios|.|WET3981.txt|.|24
+harpercollins|.|WET1144.txt|.|32

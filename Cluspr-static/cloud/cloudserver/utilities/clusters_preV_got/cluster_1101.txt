@@ -1,0 +1,12 @@
+1101
+x x|.|WET1257.txt|.|17
+batting|.|WET3826.txt|.|20
+camps|.|WET3827.txt|.|14
+history baseball|.|WET3826.txt|.|70|.|WET3827.txt|.|42|.|WET81.txt|.|56
+schools baseball|.|WET4226.txt|.|14
+baseball categories|.|WET3826.txt|.|10
+guide baseball|.|WET81.txt|.|32
+breast cancer|.|WET3826.txt|.|10
+baseball america|.|WET5008.txt|.|11
+baseball|.|WET1256.txt|.|36|.|WET3826.txt|.|326|.|WET5005.txt|.|41|.|WET3013.txt|.|52|.|WET4226.txt|.|78|.|WET3280.txt|.|13|.|WET4394.txt|.|48|.|WET1937.txt|.|79|.|WET5273.txt|.|20|.|WET1257.txt|.|226|.|WET3827.txt|.|206|.|WET81.txt|.|335|.|WET966.txt|.|24|.|WET3015.txt|.|26|.|WET5676.txt|.|113|.|WET5689.txt|.|18|.|WET3045.txt|.|66|.|WET5008.txt|.|162
+batting helmets|.|WET3826.txt|.|10

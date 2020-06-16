@@ -1,0 +1,12 @@
+715
+kadas|.|WET6267.txt|.|12
+owners lounge|.|WET2831.txt|.|11
+ski club|.|WET2896.txt|.|25
+opera shop|.|WET6103.txt|.|44|.|WET2359.txt|.|28|.|WET6101.txt|.|44
+double tourbillon|.|WET3638.txt|.|7
+pathway|.|WET3876.txt|.|72
+rentals|.|WET3653.txt|.|34|.|WET5465.txt|.|170|.|WET119.txt|.|22|.|WET3950.txt|.|34|.|WET816.txt|.|43|.|WET5592.txt|.|28|.|WET2631.txt|.|50|.|WET1856.txt|.|13|.|WET2763.txt|.|8
+rental reviews|.|WET5465.txt|.|255
+collect leads|.|WET2902.txt|.|5
+slap|.|WET166.txt|.|22
+rental|.|WET4175.txt|.|18|.|WET2574.txt|.|31|.|WET5465.txt|.|304|.|WET3638.txt|.|35|.|WET5927.txt|.|29|.|WET5592.txt|.|75|.|WET1856.txt|.|31|.|WET2763.txt|.|153|.|WET2896.txt|.|100

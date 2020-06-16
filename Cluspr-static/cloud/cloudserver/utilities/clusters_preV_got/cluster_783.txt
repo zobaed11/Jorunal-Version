@@ -1,0 +1,12 @@
+783
+green|.|WET2582.txt|.|146|.|WET514.txt|.|52|.|WET4258.txt|.|23|.|WET3058.txt|.|54|.|WET515.txt|.|28|.|WET5112.txt|.|79|.|WET1290.txt|.|7|.|WET1139.txt|.|14|.|WET2923.txt|.|53|.|WET1431.txt|.|30
+bay packers|.|WET2582.txt|.|128
+real men|.|WET515.txt|.|26
+profileview|.|WET2582.txt|.|19
+news report|.|WET5112.txt|.|45
+applause|.|WET2582.txt|.|54
+packers talk|.|WET2582.txt|.|107
+men wear|.|WET515.txt|.|26
+leave a comment|.|WET514.txt|.|14
+userview|.|WET2582.txt|.|19
+brad|.|WET977.txt|.|19|.|WET5112.txt|.|136

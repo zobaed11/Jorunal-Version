@@ -1,0 +1,12 @@
+62
+oktay usta|.|WET6276.txt|.|14
+karate european|.|WET3306.txt|.|36
+manchester united|.|WET1929.txt|.|17
+homologated items|.|WET3306.txt|.|27
+edad media|.|WET5544.txt|.|138
+neb|.|WET3670.txt|.|66
+greenpeace|.|WET1959.txt|.|132|.|WET5698.txt|.|171
+artamanti|.|WET3574.txt|.|9
+macaques|.|WET4286.txt|.|80
+erasers|.|WET2627.txt|.|31
+premier league|.|WET3306.txt|.|45|.|WET2917.txt|.|39|.|WET1929.txt|.|34|.|WET700.txt|.|32|.|WET2919.txt|.|36

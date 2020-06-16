@@ -1,0 +1,12 @@
+271
+individual|.|WET5679.txt|.|27|.|WET5680.txt|.|33
+sierra designs|.|WET4904.txt|.|94
+sierra|.|WET4904.txt|.|113
+snow|.|WET4904.txt|.|73|.|WET5390.txt|.|57|.|WET2409.txt|.|23|.|WET2550.txt|.|91|.|WET2896.txt|.|88
+gift cards|.|WET3597.txt|.|35|.|WET5405.txt|.|8|.|WET3357.txt|.|44|.|WET3355.txt|.|17|.|WET5679.txt|.|40|.|WET2144.txt|.|23|.|WET3147.txt|.|99|.|WET2995.txt|.|44|.|WET1941.txt|.|42|.|WET2188.txt|.|21|.|WET1278.txt|.|5|.|WET3356.txt|.|44|.|WET6008.txt|.|21|.|WET4750.txt|.|146
+comparisons|.|WET1154.txt|.|10
+golf shoes|.|WET5679.txt|.|44
+iron|.|WET5679.txt|.|56|.|WET5680.txt|.|68|.|WET5542.txt|.|4|.|WET5719.txt|.|26|.|WET228.txt|.|42|.|WET4804.txt|.|19
+outlet|.|WET1154.txt|.|230|.|WET5679.txt|.|247|.|WET5680.txt|.|306|.|WET4904.txt|.|392|.|WET5434.txt|.|42|.|WET4750.txt|.|135
+iron sets individual|.|WET5679.txt|.|27|.|WET5680.txt|.|33
+loading|.|WET4504.txt|.|36|.|WET3374.txt|.|6|.|WET4907.txt|.|37|.|WET4615.txt|.|31|.|WET5961.txt|.|11

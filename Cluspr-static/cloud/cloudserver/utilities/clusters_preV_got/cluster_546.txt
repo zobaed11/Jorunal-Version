@@ -1,0 +1,12 @@
+546
+alumni|.|WET2229.txt|.|18
+filter|.|WET1382.txt|.|46|.|WET5930.txt|.|67|.|WET3993.txt|.|8|.|WET1493.txt|.|19|.|WET2631.txt|.|3|.|WET6049.txt|.|140|.|WET2193.txt|.|37
+alistair|.|WET6010.txt|.|23
+london|.|WET2118.txt|.|26|.|WET4900.txt|.|5|.|WET4438.txt|.|339|.|WET3634.txt|.|50|.|WET3229.txt|.|3458|.|WET6010.txt|.|279|.|WET2271.txt|.|80
+alistair guy alistair guy|.|WET6010.txt|.|22
+alistair guy|.|WET6010.txt|.|23
+oracle forms|.|WET3417.txt|.|31
+celiac disease|.|WET1452.txt|.|17|.|WET5200.txt|.|106
+espagnol|.|WET2222.txt|.|20
+bd rb|.|WET1702.txt|.|14
+bd ra|.|WET1702.txt|.|35

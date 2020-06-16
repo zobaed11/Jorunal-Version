@@ -1,0 +1,12 @@
+155
+peter paul|.|WET5548.txt|.|30
+flyout|.|WET3009.txt|.|13
+marionette|.|WET3688.txt|.|10
+candy|.|WET5170.txt|.|345
+sem juros|.|WET3931.txt|.|74|.|WET4334.txt|.|101
+zu|.|WET3424.txt|.|32|.|WET848.txt|.|469|.|WET3423.txt|.|59|.|WET1221.txt|.|48
+directly|.|WET1448.txt|.|32
+lush|.|WET2285.txt|.|39
+topbuzz|.|WET3953.txt|.|15
+heise online|.|WET2002.txt|.|18
+angaben|.|WET1714.txt|.|136

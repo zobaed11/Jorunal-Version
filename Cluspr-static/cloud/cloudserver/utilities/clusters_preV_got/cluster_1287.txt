@@ -1,0 +1,12 @@
+1287
+nose|.|WET4120.txt|.|11
+comcast|.|WET4729.txt|.|7
+tv|.|WET2057.txt|.|22|.|WET1625.txt|.|25|.|WET2439.txt|.|32|.|WET643.txt|.|7|.|WET401.txt|.|11|.|WET1286.txt|.|90|.|WET2035.txt|.|5|.|WET1070.txt|.|36|.|WET2083.txt|.|52|.|WET2879.txt|.|38|.|WET4120.txt|.|69|.|WET3159.txt|.|329|.|WET1752.txt|.|24|.|WET1588.txt|.|53|.|WET989.txt|.|112|.|WET3156.txt|.|39|.|WET3894.txt|.|1|.|WET1873.txt|.|37|.|WET4758.txt|.|36|.|WET1775.txt|.|83|.|WET2355.txt|.|14|.|WET4729.txt|.|37|.|WET3842.txt|.|39|.|WET3085.txt|.|59|.|WET3609.txt|.|36|.|WET2415.txt|.|30|.|WET4573.txt|.|21|.|WET2906.txt|.|66|.|WET1402.txt|.|43|.|WET4728.txt|.|59|.|WET1246.txt|.|21|.|WET4590.txt|.|14
+tv provider|.|WET1402.txt|.|8
+tv news|.|WET3159.txt|.|9|.|WET4590.txt|.|5
+tv shows online|.|WET989.txt|.|7
+tv schedule|.|WET1070.txt|.|24|.|WET2439.txt|.|32
+gambled|.|WET3159.txt|.|1
+tv listings|.|WET989.txt|.|30|.|WET4573.txt|.|16
+mailaots|.|WET1873.txt|.|11
+byu sports prep|.|WET2906.txt|.|31

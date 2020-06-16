@@ -1,0 +1,12 @@
+375
+wireimage|.|WET5021.txt|.|39
+turkish writer|.|WET4082.txt|.|9
+administrative|.|WET3570.txt|.|116|.|WET210.txt|.|17
+estate rental|.|WET4175.txt|.|18
+electric|.|WET5606.txt|.|24|.|WET390.txt|.|204|.|WET6138.txt|.|58|.|WET5208.txt|.|9
+clker|.|WET1502.txt|.|22|.|WET5252.txt|.|22|.|WET5253.txt|.|18
+win|.|WET4381.txt|.|295|.|WET4857.txt|.|19
+clip|.|WET4175.txt|.|24|.|WET2729.txt|.|22|.|WET1502.txt|.|42|.|WET2836.txt|.|239|.|WET5253.txt|.|34|.|WET4712.txt|.|24
+clip art|.|WET1502.txt|.|21|.|WET2836.txt|.|238|.|WET5253.txt|.|17
+option|.|WET2005.txt|.|32|.|WET3469.txt|.|41|.|WET5268.txt|.|11
+integrated|.|WET42.txt|.|17|.|WET217.txt|.|1

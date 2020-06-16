@@ -1,0 +1,12 @@
+1119
+diesem|.|WET988.txt|.|51
+landwirtschaftliches nutztier|.|WET2659.txt|.|15
+oddball re|.|WET594.txt|.|17
+die|.|WET594.txt|.|160|.|WET155.txt|.|27|.|WET3226.txt|.|17|.|WET5993.txt|.|102|.|WET5781.txt|.|52|.|WET1625.txt|.|37|.|WET1329.txt|.|38|.|WET5992.txt|.|274|.|WET3424.txt|.|63|.|WET2002.txt|.|70|.|WET3796.txt|.|37|.|WET4908.txt|.|57|.|WET2146.txt|.|49|.|WET4008.txt|.|32|.|WET465.txt|.|92|.|WET1222.txt|.|182|.|WET988.txt|.|167|.|WET5458.txt|.|362|.|WET5869.txt|.|150|.|WET2659.txt|.|40
+schermesser messersatz|.|WET2659.txt|.|14
+atomic|.|WET4043.txt|.|3|.|WET4972.txt|.|2|.|WET3005.txt|.|2|.|WET4968.txt|.|3|.|WET3200.txt|.|2|.|WET1794.txt|.|4|.|WET1721.txt|.|3|.|WET745.txt|.|1|.|WET85.txt|.|1|.|WET1128.txt|.|8|.|WET5752.txt|.|3|.|WET5509.txt|.|3|.|WET129.txt|.|2|.|WET2451.txt|.|2|.|WET6080.txt|.|1|.|WET1553.txt|.|2|.|WET4908.txt|.|3|.|WET2363.txt|.|2|.|WET3893.txt|.|1|.|WET5802.txt|.|1|.|WET1076.txt|.|1|.|WET3991.txt|.|2|.|WET6097.txt|.|2|.|WET4076.txt|.|2|.|WET26.txt|.|1|.|WET4431.txt|.|1|.|WET6193.txt|.|1|.|WET2551.txt|.|1|.|WET3768.txt|.|2|.|WET2586.txt|.|1|.|WET5135.txt|.|3|.|WET2402.txt|.|3
+messersatz li|.|WET2659.txt|.|14
+dpms|.|WET2077.txt|.|2|.|WET5992.txt|.|4
+easylinux ubuntu|.|WET5992.txt|.|4
+easylinux|.|WET5992.txt|.|4
+camo|.|WET2787.txt|.|35

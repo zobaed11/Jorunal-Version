@@ -1,0 +1,12 @@
+1129
+press centre|.|WET4881.txt|.|22
+airbus helicopters|.|WET4881.txt|.|23
+defence and space|.|WET4881.txt|.|19
+physicians|.|WET1760.txt|.|4
+ut erlanger|.|WET1760.txt|.|6
+defence|.|WET4881.txt|.|19
+sporting group|.|WET6232.txt|.|2
+sporting|.|WET6232.txt|.|2
+families|.|WET3073.txt|.|55|.|WET4881.txt|.|21
+order employment|.|WET1590.txt|.|11
+airbus defence|.|WET4881.txt|.|19

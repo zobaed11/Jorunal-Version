@@ -1,0 +1,12 @@
+641
+indicespalabras|.|WET2830.txt|.|6
+hill|.|WET2448.txt|.|17|.|WET303.txt|.|16|.|WET1402.txt|.|22|.|WET1602.txt|.|15
+brewing company|.|WET1274.txt|.|17
+dictionnaire espagnol|.|WET2222.txt|.|6
+wii u nintendo|.|WET5623.txt|.|27
+periodicals|.|WET3973.txt|.|61
+cigars international|.|WET5239.txt|.|19
+sims|.|WET5285.txt|.|23
+wayne|.|WET1791.txt|.|50|.|WET2736.txt|.|7
+eshop|.|WET6238.txt|.|41
+hillary|.|WET4948.txt|.|8

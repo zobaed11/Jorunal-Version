@@ -1,0 +1,12 @@
+786
+spell checker|.|WET1532.txt|.|11
+chrome firefox safari|.|WET1778.txt|.|11
+search queries|.|WET3582.txt|.|2
+page provided|.|WET4827.txt|.|9
+provided|.|WET4827.txt|.|9
+trade mark|.|WET4827.txt|.|9
+domainthe|.|WET636.txt|.|11|.|WET4375.txt|.|11
+hawk|.|WET2065.txt|.|8
+donationware|.|WET5342.txt|.|11
+searchesbuy|.|WET636.txt|.|11|.|WET4375.txt|.|11
+domain parking|.|WET4827.txt|.|9

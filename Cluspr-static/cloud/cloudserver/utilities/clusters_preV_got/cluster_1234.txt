@@ -1,0 +1,12 @@
+1234
+policy your ca|.|WET9.txt|.|26
+german|.|WET329.txt|.|11|.|WET3990.txt|.|11|.|WET4993.txt|.|8|.|WET1686.txt|.|10|.|WET1223.txt|.|11|.|WET3884.txt|.|11|.|WET4446.txt|.|11
+based|.|WET9.txt|.|2
+calculator|.|WET1238.txt|.|19
+belk rewards|.|WET1278.txt|.|15
+terms|.|WET9.txt|.|29|.|WET3923.txt|.|2|.|WET5890.txt|.|33|.|WET4649.txt|.|8|.|WET6204.txt|.|2|.|WET791.txt|.|9|.|WET4790.txt|.|11|.|WET6162.txt|.|13|.|WET1337.txt|.|16
+online privacy policy|.|WET9.txt|.|26
+rights|.|WET714.txt|.|12|.|WET613.txt|.|5|.|WET3230.txt|.|32|.|WET3102.txt|.|21|.|WET3859.txt|.|10|.|WET219.txt|.|18|.|WET9.txt|.|55|.|WET5782.txt|.|50|.|WET1968.txt|.|9|.|WET3664.txt|.|5|.|WET1278.txt|.|10|.|WET3164.txt|.|12|.|WET1668.txt|.|16|.|WET2447.txt|.|13|.|WET4977.txt|.|8|.|WET1223.txt|.|38|.|WET1673.txt|.|10|.|WET26.txt|.|12|.|WET2630.txt|.|47|.|WET5922.txt|.|13|.|WET3305.txt|.|10|.|WET5890.txt|.|15|.|WET1238.txt|.|12|.|WET2039.txt|.|29|.|WET1715.txt|.|16|.|WET4918.txt|.|30|.|WET6207.txt|.|17
+hudson reporter|.|WET5782.txt|.|75|.|WET2039.txt|.|59
+zodiac lounge|.|WET1715.txt|.|10
+web archive|.|WET3796.txt|.|2|.|WET1223.txt|.|4

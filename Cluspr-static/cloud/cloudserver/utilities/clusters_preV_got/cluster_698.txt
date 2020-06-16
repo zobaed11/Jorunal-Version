@@ -1,0 +1,12 @@
+698
+practice|.|WET701.txt|.|30
+live extra|.|WET701.txt|.|100
+shootout|.|WET701.txt|.|30
+artikel|.|WET3423.txt|.|35|.|WET975.txt|.|20
+suppliers|.|WET1925.txt|.|73
+extra|.|WET180.txt|.|7|.|WET6254.txt|.|22|.|WET2521.txt|.|20|.|WET701.txt|.|101|.|WET3925.txt|.|10|.|WET1023.txt|.|8|.|WET177.txt|.|10|.|WET284.txt|.|10|.|WET3962.txt|.|102
+sat|.|WET687.txt|.|22|.|WET3172.txt|.|29|.|WET701.txt|.|149|.|WET2841.txt|.|31
+championship golf|.|WET701.txt|.|30
+prix practice|.|WET701.txt|.|30
+sponsored|.|WET5912.txt|.|18|.|WET964.txt|.|2|.|WET3326.txt|.|25|.|WET4816.txt|.|3
+physical therapy|.|WET3617.txt|.|12

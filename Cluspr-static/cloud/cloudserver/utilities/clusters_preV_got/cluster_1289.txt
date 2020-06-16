@@ -1,0 +1,12 @@
+1289
+bodhi|.|WET4100.txt|.|4
+us subscribe|.|WET201.txt|.|9
+county clark|.|WET115.txt|.|9
+search tips|.|WET3949.txt|.|27
+group community|.|WET203.txt|.|11
+clemson|.|WET1497.txt|.|39
+main menu|.|WET3654.txt|.|6|.|WET2506.txt|.|61|.|WET6123.txt|.|48|.|WET4226.txt|.|41|.|WET3969.txt|.|51|.|WET3950.txt|.|182|.|WET3859.txt|.|8|.|WET113.txt|.|53|.|WET4717.txt|.|22|.|WET4014.txt|.|10|.|WET2505.txt|.|87|.|WET2625.txt|.|123|.|WET6239.txt|.|84|.|WET201.txt|.|156|.|WET6062.txt|.|64|.|WET101.txt|.|122|.|WET6240.txt|.|61|.|WET119.txt|.|134|.|WET4766.txt|.|40|.|WET115.txt|.|80|.|WET479.txt|.|128|.|WET1497.txt|.|113|.|WET202.txt|.|146|.|WET3004.txt|.|134|.|WET102.txt|.|22|.|WET3860.txt|.|57|.|WET2560.txt|.|95|.|WET3847.txt|.|176|.|WET114.txt|.|26|.|WET203.txt|.|286|.|WET3949.txt|.|172|.|WET110.txt|.|56
+babycenter|.|WET4990.txt|.|134|.|WET219.txt|.|71
+alabama back to main menu|.|WET3847.txt|.|16
+track boys winter|.|WET3847.txt|.|8
+search sponsor|.|WET3969.txt|.|2

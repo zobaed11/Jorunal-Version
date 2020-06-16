@@ -1,0 +1,12 @@
+773
+marvel|.|WET5278.txt|.|35|.|WET5280.txt|.|56|.|WET1530.txt|.|67|.|WET1528.txt|.|113
+lake mirror|.|WET3954.txt|.|32
+huffington|.|WET5783.txt|.|15
+disney|.|WET5625.txt|.|34|.|WET1654.txt|.|267
+tom ford|.|WET5891.txt|.|71
+word solvers|.|WET1165.txt|.|10
+paper plates|.|WET3614.txt|.|5
+phoenix suns|.|WET2024.txt|.|6|.|WET5765.txt|.|129
+lifestyle|.|WET3389.txt|.|29|.|WET3251.txt|.|32
+fencing|.|WET3171.txt|.|30
+fantasy art|.|WET5492.txt|.|8

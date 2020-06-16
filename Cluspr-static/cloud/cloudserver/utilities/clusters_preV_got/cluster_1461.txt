@@ -1,0 +1,12 @@
+1461
+joyner|.|WET106.txt|.|27
+mediation practicum|.|WET2338.txt|.|6
+mediators|.|WET3541.txt|.|1|.|WET4757.txt|.|1|.|WET56.txt|.|2|.|WET5309.txt|.|1|.|WET6264.txt|.|2|.|WET5755.txt|.|1
+nursery|.|WET2577.txt|.|18
+neatorama posts|.|WET2474.txt|.|2
+scheduling|.|WET2338.txt|.|2
+rep|.|WET6286.txt|.|10
+engineering search|.|WET4072.txt|.|1
+congestion|.|WET1688.txt|.|2|.|WET705.txt|.|2|.|WET2845.txt|.|2|.|WET1017.txt|.|2|.|WET3704.txt|.|2|.|WET6299.txt|.|2|.|WET433.txt|.|2|.|WET4807.txt|.|1|.|WET2577.txt|.|3|.|WET2777.txt|.|2
+wagers|.|WET458.txt|.|2
+horror story|.|WET3851.txt|.|14

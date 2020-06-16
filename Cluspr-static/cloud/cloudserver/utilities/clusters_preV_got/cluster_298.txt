@@ -1,0 +1,12 @@
+298
+semi flush mount|.|WET2215.txt|.|8
+chandelier|.|WET2215.txt|.|65
+flush|.|WET2215.txt|.|35
+light|.|WET2215.txt|.|205|.|WET5081.txt|.|59|.|WET1385.txt|.|101|.|WET235.txt|.|18|.|WET5449.txt|.|86|.|WET4776.txt|.|5
+semi flush|.|WET2215.txt|.|10
+torchiere lamps|.|WET2215.txt|.|8
+arc lamps|.|WET2215.txt|.|11
+packing|.|WET5449.txt|.|31
+grant|.|WET235.txt|.|26
+light fixtures|.|WET2215.txt|.|10
+fixtures|.|WET2215.txt|.|19|.|WET1924.txt|.|7

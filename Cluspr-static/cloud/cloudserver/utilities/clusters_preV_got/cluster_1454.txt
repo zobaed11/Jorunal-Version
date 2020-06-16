@@ -1,0 +1,12 @@
+1454
+promotions|.|WET3269.txt|.|2|.|WET451.txt|.|2|.|WET4455.txt|.|2|.|WET2463.txt|.|2|.|WET1226.txt|.|2|.|WET3712.txt|.|2|.|WET3234.txt|.|3|.|WET3658.txt|.|2|.|WET5668.txt|.|62|.|WET2147.txt|.|1|.|WET6163.txt|.|2|.|WET107.txt|.|2|.|WET1704.txt|.|2|.|WET3651.txt|.|2|.|WET4765.txt|.|3|.|WET4951.txt|.|2|.|WET1130.txt|.|4|.|WET5788.txt|.|10|.|WET19.txt|.|1|.|WET4300.txt|.|1|.|WET5211.txt|.|1|.|WET1382.txt|.|3|.|WET3569.txt|.|1|.|WET2534.txt|.|2|.|WET1348.txt|.|2|.|WET1793.txt|.|2|.|WET166.txt|.|2|.|WET1671.txt|.|1|.|WET3904.txt|.|1|.|WET2000.txt|.|2|.|WET5786.txt|.|2|.|WET6107.txt|.|2|.|WET2662.txt|.|24|.|WET1468.txt|.|2|.|WET3913.txt|.|1|.|WET2158.txt|.|2|.|WET3680.txt|.|1|.|WET34.txt|.|9|.|WET1257.txt|.|2|.|WET1982.txt|.|1|.|WET6311.txt|.|2|.|WET3806.txt|.|2|.|WET3194.txt|.|2|.|WET6181.txt|.|2|.|WET2401.txt|.|2|.|WET4872.txt|.|56|.|WET475.txt|.|2|.|WET5944.txt|.|2|.|WET569.txt|.|2|.|WET1007.txt|.|199|.|WET1656.txt|.|2|.|WET1927.txt|.|52|.|WET4703.txt|.|2|.|WET5754.txt|.|17|.|WET3008.txt|.|1|.|WET4127.txt|.|2|.|WET4750.txt|.|135|.|WET3667.txt|.|2|.|WET1189.txt|.|1|.|WET4411.txt|.|2|.|WET6197.txt|.|1|.|WET3926.txt|.|2|.|WET6039.txt|.|2|.|WET150.txt|.|5|.|WET5959.txt|.|1|.|WET3677.txt|.|3|.|WET1421.txt|.|2|.|WET4032.txt|.|6|.|WET1642.txt|.|2|.|WET2642.txt|.|140|.|WET6231.txt|.|1|.|WET411.txt|.|1|.|WET1401.txt|.|2|.|WET3571.txt|.|2|.|WET5059.txt|.|2|.|WET3126.txt|.|2|.|WET4779.txt|.|2|.|WET6012.txt|.|2|.|WET1543.txt|.|2|.|WET4741.txt|.|1|.|WET66.txt|.|1|.|WET2847.txt|.|12|.|WET1949.txt|.|2|.|WET4220.txt|.|3|.|WET2221.txt|.|1|.|WET4726.txt|.|3|.|WET4751.txt|.|33|.|WET5548.txt|.|3|.|WET104.txt|.|1|.|WET4980.txt|.|2|.|WET2663.txt|.|6|.|WET2998.txt|.|1|.|WET715.txt|.|2|.|WET5742.txt|.|1|.|WET4459.txt|.|1|.|WET3920.txt|.|2|.|WET6310.txt|.|2|.|WET4920.txt|.|1|.|WET3167.txt|.|2|.|WET3485.txt|.|2|.|WET139.txt|.|1|.|WET845.txt|.|2|.|WET6302.txt|.|2|.|WET1435.txt|.|108|.|WET2849.txt|.|1|.|WET42.txt|.|3|.|WET3231.txt|.|4|.|WET2778.txt|.|2|.|WET1369.txt|.|1|.|WET1928.txt|.|32|.|WET5877.txt|.|36|.|WET764.txt|.|1|.|WET1373.txt|.|3|.|WET2462.txt|.|2|.|WET237.txt|.|2|.|WET4860.txt|.|1|.|WET3957.txt|.|2|.|WET5309.txt|.|2|.|WET670.txt|.|1|.|WET3882.txt|.|3
+platters|.|WET2642.txt|.|50
+public file|.|WET4300.txt|.|5
+kitchenware home accents|.|WET2642.txt|.|29
+savemore|.|WET2642.txt|.|149
+pinnacle promotions|.|WET2662.txt|.|18
+promotions home|.|WET2847.txt|.|6
+accents|.|WET2642.txt|.|40
+patterns and collections|.|WET2642.txt|.|40
+red hat|.|WET4872.txt|.|5
+luna|.|WET2356.txt|.|14|.|WET2642.txt|.|37

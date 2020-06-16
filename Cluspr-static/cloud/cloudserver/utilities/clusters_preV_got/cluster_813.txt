@@ -1,0 +1,12 @@
+813
+marketing|.|WET2309.txt|.|62|.|WET3599.txt|.|108
+iditarod invitational|.|WET3770.txt|.|6
+ingredient|.|WET1691.txt|.|18
+languages|.|WET1956.txt|.|6
+new york city|.|WET2347.txt|.|22|.|WET6263.txt|.|11
+us watch|.|WET6206.txt|.|4
+reporter|.|WET5782.txt|.|77|.|WET3954.txt|.|32|.|WET2039.txt|.|64|.|WET5510.txt|.|3
+clockpersonal|.|WET3106.txt|.|10
+thing|.|WET3575.txt|.|1832|.|WET4771.txt|.|18|.|WET4918.txt|.|25|.|WET1565.txt|.|15
+ca privacy|.|WET3758.txt|.|18
+featured productsnew arrivalsstaff|.|WET5954.txt|.|40

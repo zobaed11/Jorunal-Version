@@ -1,0 +1,12 @@
+1151
+campus locations|.|WET3732.txt|.|20
+searching for information|.|WET3732.txt|.|4
+student|.|WET2245.txt|.|15|.|WET3732.txt|.|129|.|WET2317.txt|.|28|.|WET1143.txt|.|224|.|WET250.txt|.|23|.|WET4891.txt|.|126|.|WET3622.txt|.|27|.|WET1063.txt|.|135|.|WET1446.txt|.|56|.|WET3976.txt|.|93|.|WET682.txt|.|39|.|WET3591.txt|.|331|.|WET5273.txt|.|23|.|WET4035.txt|.|123|.|WET3437.txt|.|27|.|WET3897.txt|.|21|.|WET3477.txt|.|24|.|WET4562.txt|.|43|.|WET3367.txt|.|26|.|WET5196.txt|.|50|.|WET2618.txt|.|89
+government student|.|WET2618.txt|.|10
+graduates|.|WET3437.txt|.|6
+uhd online|.|WET3732.txt|.|16
+twitter youtube|.|WET250.txt|.|4
+justice|.|WET2618.txt|.|23
+resources career|.|WET3437.txt|.|12
+atcc|.|WET1143.txt|.|64
+community engagement|.|WET3732.txt|.|20

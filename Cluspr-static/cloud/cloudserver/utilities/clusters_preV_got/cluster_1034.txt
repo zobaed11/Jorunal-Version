@@ -1,0 +1,12 @@
+1034
+dancer|.|WET1960.txt|.|7
+urn|.|WET5122.txt|.|1|.|WET569.txt|.|1|.|WET1371.txt|.|1|.|WET833.txt|.|1|.|WET5545.txt|.|1|.|WET5819.txt|.|6|.|WET314.txt|.|3|.|WET1475.txt|.|1|.|WET5377.txt|.|1|.|WET987.txt|.|1
+newsletter|.|WET6266.txt|.|30|.|WET5828.txt|.|36|.|WET1137.txt|.|22|.|WET3230.txt|.|15|.|WET5351.txt|.|19|.|WET6074.txt|.|15|.|WET6009.txt|.|20|.|WET5922.txt|.|22|.|WET5006.txt|.|33|.|WET2488.txt|.|21|.|WET2086.txt|.|26|.|WET1997.txt|.|22|.|WET1475.txt|.|18|.|WET2183.txt|.|28|.|WET1960.txt|.|12|.|WET6207.txt|.|8
+witness|.|WET1057.txt|.|1|.|WET4184.txt|.|2|.|WET291.txt|.|4|.|WET325.txt|.|2|.|WET6299.txt|.|1|.|WET5106.txt|.|1|.|WET4814.txt|.|4|.|WET1247.txt|.|5|.|WET1833.txt|.|2|.|WET99.txt|.|2|.|WET3943.txt|.|1|.|WET2545.txt|.|3|.|WET541.txt|.|2|.|WET2452.txt|.|2|.|WET752.txt|.|3|.|WET897.txt|.|2|.|WET4097.txt|.|2|.|WET6223.txt|.|2|.|WET4355.txt|.|2|.|WET19.txt|.|2|.|WET3797.txt|.|1|.|WET5559.txt|.|33|.|WET5046.txt|.|1|.|WET5695.txt|.|1|.|WET1606.txt|.|2|.|WET2775.txt|.|1|.|WET148.txt|.|2|.|WET3720.txt|.|2|.|WET28.txt|.|3|.|WET2119.txt|.|1|.|WET4171.txt|.|2|.|WET2086.txt|.|2|.|WET2051.txt|.|2|.|WET326.txt|.|2|.|WET670.txt|.|2|.|WET2484.txt|.|4|.|WET1445.txt|.|2|.|WET4551.txt|.|1
+long range|.|WET6011.txt|.|30|.|WET2272.txt|.|26
+pit|.|WET1960.txt|.|6
+griddlers|.|WET1960.txt|.|12
+pit bull|.|WET1960.txt|.|6
+newsletter rss|.|WET5006.txt|.|11
+kiowa|.|WET5922.txt|.|35
+heating cable|.|WET3249.txt|.|124

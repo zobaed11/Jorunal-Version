@@ -1,0 +1,12 @@
+592
+salt lake|.|WET4043.txt|.|116|.|WET2906.txt|.|53
+elementary school|.|WET3926.txt|.|15|.|WET258.txt|.|9
+skiing|.|WET4043.txt|.|8|.|WET6240.txt|.|14|.|WET6239.txt|.|20
+salt|.|WET4043.txt|.|117|.|WET1831.txt|.|43|.|WET5549.txt|.|11|.|WET2906.txt|.|53
+notes|.|WET2594.txt|.|36|.|WET3172.txt|.|1|.|WET2906.txt|.|31|.|WET5684.txt|.|128
+puzzles|.|WET2715.txt|.|116|.|WET2906.txt|.|33|.|WET2714.txt|.|175
+lake city|.|WET4043.txt|.|96
+brass|.|WET2429.txt|.|23|.|WET5533.txt|.|94|.|WET5417.txt|.|14
+pancakes|.|WET3900.txt|.|13
+lake|.|WET3954.txt|.|76|.|WET4043.txt|.|124|.|WET3744.txt|.|9|.|WET2412.txt|.|41|.|WET2906.txt|.|52|.|WET87.txt|.|20|.|WET815.txt|.|18|.|WET3605.txt|.|25
+skiing company|.|WET4043.txt|.|7

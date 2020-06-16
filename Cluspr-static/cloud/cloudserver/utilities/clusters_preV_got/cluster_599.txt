@@ -1,0 +1,12 @@
+599
+academic searchciteseerxsemantic scholarshare|.|WET264.txt|.|166
+com|.|WET785.txt|.|20|.|WET2132.txt|.|6
+major league baseball|.|WET4394.txt|.|28
+units help|.|WET839.txt|.|22
+cob|.|WET5494.txt|.|11
+arbitration results|.|WET3467.txt|.|15
+partstore|.|WET3681.txt|.|21
+rose|.|WET5636.txt|.|115|.|WET4967.txt|.|29|.|WET5078.txt|.|44
+stephens city|.|WET1059.txt|.|9
+thousand|.|WET4940.txt|.|9
+baseball softball football|.|WET3013.txt|.|30

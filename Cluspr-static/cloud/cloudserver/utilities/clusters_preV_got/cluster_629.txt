@@ -1,0 +1,12 @@
+629
+admissions consulting|.|WET453.txt|.|5
+ppp|.|WET5361.txt|.|12
+smith|.|WET4172.txt|.|263|.|WET5892.txt|.|27|.|WET4285.txt|.|75
+books mba|.|WET4198.txt|.|20
+pavel emelianov|.|WET4336.txt|.|88
+prep|.|WET4198.txt|.|171|.|WET2994.txt|.|40|.|WET2906.txt|.|31
+verbal|.|WET452.txt|.|65
+home sports concerts theater|.|WET4710.txt|.|15
+tutor|.|WET453.txt|.|10
+gmat questions|.|WET453.txt|.|10
+mba rankings|.|WET4198.txt|.|60|.|WET453.txt|.|30

@@ -1,0 +1,12 @@
+576
+collection louisiana|.|WET181.txt|.|49
+sciences|.|WET3928.txt|.|53|.|WET287.txt|.|29|.|WET4033.txt|.|32
+sentinel|.|WET3927.txt|.|11|.|WET2154.txt|.|45
+red cloud|.|WET180.txt|.|13
+new orleans|.|WET180.txt|.|282|.|WET3928.txt|.|226|.|WET3927.txt|.|191|.|WET181.txt|.|83|.|WET2248.txt|.|10|.|WET1563.txt|.|19|.|WET61.txt|.|16|.|WET5525.txt|.|8
+reference url|.|WET180.txt|.|7
+collections home|.|WET226.txt|.|6|.|WET3927.txt|.|8
+center for oral|.|WET3928.txt|.|48
+url|.|WET180.txt|.|15|.|WET2493.txt|.|12|.|WET3368.txt|.|3|.|WET4007.txt|.|3
+loyola university|.|WET3927.txt|.|69
+lsu libraries|.|WET3928.txt|.|107

@@ -1,0 +1,46 @@
+40
+meeting event|.|WET6056.txt|.|22
+booking|.|WET5106.txt|.|63|.|WET4962.txt|.|18|.|WET1208.txt|.|22
+marriott executive apartments|.|WET6056.txt|.|13|.|WET2312.txt|.|15
+fairfield inn|.|WET6056.txt|.|31
+ritz|.|WET6056.txt|.|16
+economic development|.|WET1339.txt|.|27
+marriott hotels|.|WET6056.txt|.|18
+council meeting|.|WET1339.txt|.|27
+renaissance|.|WET6056.txt|.|14
+helsinki commission|.|WET246.txt|.|104
+fairfield|.|WET6056.txt|.|31|.|WET2314.txt|.|22
+fillmore|.|WET1339.txt|.|54|.|WET5090.txt|.|66
+booking system|.|WET4962.txt|.|18
+eurekalert|.|WET5504.txt|.|45
+nouvelles|.|WET5504.txt|.|6
+dimension implementation|.|WET246.txt|.|6
+room booking|.|WET4962.txt|.|18|.|WET1208.txt|.|22
+marriott rewards|.|WET6056.txt|.|84|.|WET2314.txt|.|21|.|WET2312.txt|.|121
+implementation meeting|.|WET246.txt|.|5
+towneplace|.|WET6056.txt|.|15
+dimension|.|WET246.txt|.|11
+meeting|.|WET6056.txt|.|26|.|WET1339.txt|.|90|.|WET5504.txt|.|18|.|WET4962.txt|.|24|.|WET246.txt|.|19|.|WET1208.txt|.|29
+suites|.|WET6056.txt|.|63|.|WET2069.txt|.|21
+special rates|.|WET6056.txt|.|28
+marriott|.|WET6056.txt|.|252|.|WET6057.txt|.|101|.|WET2314.txt|.|75|.|WET2313.txt|.|255|.|WET2312.txt|.|334
+helsinki|.|WET246.txt|.|128
+rates|.|WET6056.txt|.|106|.|WET148.txt|.|104|.|WET3892.txt|.|204|.|WET4591.txt|.|10|.|WET4235.txt|.|52|.|WET2312.txt|.|148
+implementation|.|WET246.txt|.|8
+inn|.|WET6056.txt|.|70|.|WET5810.txt|.|257|.|WET2797.txt|.|9|.|WET2069.txt|.|57|.|WET3643.txt|.|109|.|WET1273.txt|.|17
+calendar featured meeting|.|WET5504.txt|.|6
+dystrophy|.|WET5504.txt|.|12
+agenda|.|WET1339.txt|.|45|.|WET6284.txt|.|23
+hotels and resorts|.|WET6056.txt|.|27
+renaissance hotels|.|WET6056.txt|.|14
+city council|.|WET1339.txt|.|27
+osce|.|WET246.txt|.|102
+carlton|.|WET6056.txt|.|2
+hotels|.|WET6056.txt|.|402|.|WET5775.txt|.|95|.|WET2964.txt|.|150|.|WET147.txt|.|59|.|WET3134.txt|.|12|.|WET5678.txt|.|16|.|WET6186.txt|.|77|.|WET3727.txt|.|304|.|WET2444.txt|.|156|.|WET1249.txt|.|181|.|WET5356.txt|.|105|.|WET2069.txt|.|161|.|WET3639.txt|.|172|.|WET488.txt|.|54|.|WET6010.txt|.|63|.|WET3620.txt|.|53|.|WET3445.txt|.|153
+marriott hotels and resorts|.|WET6056.txt|.|16
+council|.|WET616.txt|.|17|.|WET1339.txt|.|63|.|WET4457.txt|.|30|.|WET5269.txt|.|12|.|WET2698.txt|.|31|.|WET1918.txt|.|31|.|WET4675.txt|.|8|.|WET2209.txt|.|88
+science|.|WET1581.txt|.|65|.|WET2334.txt|.|53|.|WET5504.txt|.|56|.|WET1580.txt|.|45|.|WET185.txt|.|16|.|WET4256.txt|.|65|.|WET4501.txt|.|23|.|WET5329.txt|.|63
+science news|.|WET5504.txt|.|12
+fillmore county|.|WET1339.txt|.|54|.|WET5090.txt|.|66
+economic|.|WET1339.txt|.|27|.|WET5850.txt|.|139
+meeting room|.|WET4962.txt|.|18|.|WET1208.txt|.|22

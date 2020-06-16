@@ -1,0 +1,12 @@
+1238
+synthetic|.|WET3026.txt|.|55
+canyon courier|.|WET1421.txt|.|8
+tours remove|.|WET1926.txt|.|112|.|WET5666.txt|.|37
+senior tour|.|WET1769.txt|.|3
+day tour|.|WET1926.txt|.|112|.|WET5666.txt|.|37
+string black|.|WET3026.txt|.|44
+groups reviews|.|WET4591.txt|.|6
+rooms amenities|.|WET4591.txt|.|6
+tours|.|WET1926.txt|.|379|.|WET1422.txt|.|20|.|WET5666.txt|.|130
+tour|.|WET1939.txt|.|67|.|WET1926.txt|.|241|.|WET6099.txt|.|27|.|WET3026.txt|.|71|.|WET4591.txt|.|9|.|WET2779.txt|.|14|.|WET4532.txt|.|33|.|WET5506.txt|.|56|.|WET1769.txt|.|42|.|WET1421.txt|.|13|.|WET629.txt|.|33|.|WET1940.txt|.|69|.|WET5678.txt|.|26|.|WET4083.txt|.|24|.|WET1063.txt|.|11|.|WET5978.txt|.|14|.|WET4193.txt|.|27|.|WET480.txt|.|16|.|WET3462.txt|.|9|.|WET45.txt|.|33|.|WET6098.txt|.|39|.|WET4601.txt|.|30|.|WET340.txt|.|22|.|WET4410.txt|.|17|.|WET5666.txt|.|80|.|WET4369.txt|.|33|.|WET2644.txt|.|105
+highlights slideshow|.|WET1926.txt|.|69

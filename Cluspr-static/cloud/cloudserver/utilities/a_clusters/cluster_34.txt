@@ -1,0 +1,28 @@
+34
+additional system|.|rfc5311.txt|.|3
+rsvp te|.|rfc5151.txt|.|1|.|rfc3476.txt|.|1|.|rfc4920.txt|.|2|.|rfc3473.txt|.|1
+establishing|.|rfc3212.txt|.|4
+lsp|.|rfc4655.txt|.|48|.|rfc3214.txt|.|58|.|rfc4257.txt|.|37|.|rfc5150.txt|.|235|.|rfc4736.txt|.|61|.|rfc4206.txt|.|73|.|rfc4974.txt|.|39|.|rfc5710.txt|.|38|.|rfc3353.txt|.|35|.|rfc3786.txt|.|81|.|rfc5151.txt|.|130|.|rfc4247.txt|.|16|.|rfc4972.txt|.|18|.|rfc4379.txt|.|54|.|rfc4875.txt|.|236|.|rfc3213.txt|.|17|.|rfc5718.txt|.|9|.|rfc5311.txt|.|77|.|rfc4328.txt|.|39|.|rfc4726.txt|.|81|.|rfc5884.txt|.|90|.|rfc4216.txt|.|41|.|rfc3212.txt|.|73|.|rfc5814.txt|.|277|.|rfc5623.txt|.|124|.|rfc4920.txt|.|109|.|rfc5212.txt|.|72|.|rfc5586.txt|.|23|.|rfc6060.txt|.|10|.|rfc4105.txt|.|62|.|rfc5298.txt|.|182|.|rfc4090.txt|.|210|.|rfc3475.txt|.|4|.|rfc4803.txt|.|24|.|rfc5439.txt|.|96|.|rfc5146.txt|.|30|.|rfc4561.txt|.|27|.|rfc5251.txt|.|39|.|rfc4872.txt|.|455|.|rfc5420.txt|.|65|.|rfc5306.txt|.|37|.|rfc3210.txt|.|9|.|rfc5376.txt|.|17|.|rfc5862.txt|.|16|.|rfc3209.txt|.|160|.|rfc3473.txt|.|40|.|rfc5330.txt|.|33|.|rfc5152.txt|.|122|.|rfc5852.txt|.|84|.|rfc5467.txt|.|28|.|rfc5440.txt|.|48|.|rfc4428.txt|.|165|.|rfc4461.txt|.|124|.|rfc5712.txt|.|53|.|rfc3215.txt|.|314|.|rfc4427.txt|.|61|.|rfc5441.txt|.|34|.|rfc4873.txt|.|168|.|rfc5339.txt|.|48|.|rfc3988.txt|.|58|.|rfc3847.txt|.|37|.|rfc5711.txt|.|25
+layer lsp|.|rfc5623.txt|.|3
+structure of the network|.|rfc5439.txt|.|2
+hop tlv|.|rfc3212.txt|.|4
+fa lsp|.|rfc5339.txt|.|1|.|rfc4206.txt|.|3
+point lsr|.|rfc4736.txt|.|2
+processing to support|.|rfc3473.txt|.|2
+diverse lsps|.|rfc5298.txt|.|14
+inter pce|.|rfc5623.txt|.|2
+path re|.|rfc4736.txt|.|1
+cr lsp|.|rfc3212.txt|.|2
+group tlv|.|rfc4972.txt|.|1
+sub lsp|.|rfc4875.txt|.|1
+facility backup method|.|rfc4090.txt|.|12
+scaling techniques|.|rfc5439.txt|.|3
+er hop|.|rfc3212.txt|.|2
+re routing|.|rfc4920.txt|.|2
+lsp lsp|.|rfc5150.txt|.|7
+link state pdu|.|rfc5311.txt|.|4
+discovery and resource|.|rfc4257.txt|.|2
+mpls vpn|.|rfc4247.txt|.|1
+solutions developed|.|rfc4461.txt|.|2
+data plane failure|.|rfc5884.txt|.|6
+inter layer|.|rfc5623.txt|.|4

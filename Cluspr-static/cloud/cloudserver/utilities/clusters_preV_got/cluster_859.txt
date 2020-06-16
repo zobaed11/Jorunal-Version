@@ -1,0 +1,12 @@
+859
+managed service|.|WET3867.txt|.|1
+norwegian polish portuguese|.|WET704.txt|.|11
+events channels|.|WET3867.txt|.|5|.|WET123.txt|.|2
+postreport|.|WET1934.txt|.|64|.|WET5675.txt|.|65
+amreport abusive postreport|.|WET1934.txt|.|26
+tree|.|WET4464.txt|.|9|.|WET3545.txt|.|11|.|WET24.txt|.|46
+pm anonymous said|.|WET3381.txt|.|117
+bittorrent|.|WET1671.txt|.|2|.|WET5337.txt|.|2|.|WET3867.txt|.|3|.|WET2496.txt|.|3
+heartland|.|WET777.txt|.|16
+kerja|.|WET2148.txt|.|27
+bike rack|.|WET2730.txt|.|43

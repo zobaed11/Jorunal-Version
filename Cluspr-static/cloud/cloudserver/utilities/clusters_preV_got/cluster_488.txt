@@ -1,0 +1,12 @@
+488
+additions|.|WET4236.txt|.|168
+cars find|.|WET1725.txt|.|16
+ross|.|WET5143.txt|.|82|.|WET1393.txt|.|113
+whirlpool|.|WET4615.txt|.|26
+irish times|.|WET2109.txt|.|87
+redundancy|.|WET4583.txt|.|1|.|WET778.txt|.|3|.|WET4785.txt|.|4|.|WET4725.txt|.|1
+intellectual|.|WET2134.txt|.|25|.|WET575.txt|.|8
+breast cancer awareness|.|WET3828.txt|.|15
+picture|.|WET5052.txt|.|8|.|WET2249.txt|.|6|.|WET2631.txt|.|5
+cny|.|WET3004.txt|.|133|.|WET2250.txt|.|4|.|WET119.txt|.|111|.|WET203.txt|.|231
+improvement permit|.|WET1390.txt|.|5

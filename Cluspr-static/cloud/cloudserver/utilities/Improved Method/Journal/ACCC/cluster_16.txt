@@ -1,0 +1,17 @@
+16
+kindle uk|.|WET1003.txt|.|22
+kobo|.|WET6128.txt|.|36|.|WET3539.txt|.|155
+dictionnaire espagnol|.|WET2222.txt|.|6
+kindle fire|.|WET2386.txt|.|47|.|WET2222.txt|.|7
+join date|.|WET3888.txt|.|85|.|WET4137.txt|.|47|.|WET744.txt|.|10|.|WET4985.txt|.|28|.|WET397.txt|.|55|.|WET4162.txt|.|47|.|WET4879.txt|.|76|.|WET1217.txt|.|14|.|WET5225.txt|.|85|.|WET6286.txt|.|10|.|WET1472.txt|.|53|.|WET4154.txt|.|50|.|WET1473.txt|.|174|.|WET3889.txt|.|72|.|WET1333.txt|.|39|.|WET5160.txt|.|58|.|WET1092.txt|.|51|.|WET4518.txt|.|25|.|WET6071.txt|.|49|.|WET603.txt|.|29|.|WET5139.txt|.|62|.|WET5839.txt|.|70|.|WET5732.txt|.|152|.|WET5320.txt|.|30|.|WET5652.txt|.|14|.|WET4104.txt|.|24|.|WET2738.txt|.|40|.|WET1556.txt|.|50|.|WET2581.txt|.|94|.|WET2609.txt|.|61|.|WET3890.txt|.|50|.|WET2798.txt|.|42|.|WET5838.txt|.|14|.|WET2386.txt|.|112|.|WET5174.txt|.|41|.|WET2369.txt|.|88|.|WET1611.txt|.|10|.|WET5256.txt|.|26|.|WET6124.txt|.|44|.|WET2096.txt|.|61|.|WET1389.txt|.|56|.|WET5050.txt|.|101|.|WET6125.txt|.|174|.|WET5084.txt|.|52|.|WET5363.txt|.|53|.|WET4698.txt|.|41|.|WET4156.txt|.|16|.|WET1275.txt|.|122|.|WET1410.txt|.|91|.|WET4898.txt|.|10|.|WET1991.txt|.|128|.|WET2381.txt|.|150|.|WET6126.txt|.|40|.|WET6260.txt|.|69|.|WET5723.txt|.|37|.|WET1250.txt|.|23|.|WET2556.txt|.|11|.|WET5085.txt|.|18|.|WET6297.txt|.|23|.|WET5902.txt|.|164|.|WET145.txt|.|21|.|WET2610.txt|.|141|.|WET776.txt|.|47|.|WET1276.txt|.|49
+espagnol|.|WET2222.txt|.|20
+track posts|.|WET2386.txt|.|112
+uk|.|WET2118.txt|.|37|.|WET1849.txt|.|30|.|WET1003.txt|.|36|.|WET5784.txt|.|7|.|WET2040.txt|.|13|.|WET4741.txt|.|74
+find|.|WET2269.txt|.|15|.|WET4132.txt|.|20|.|WET2057.txt|.|55|.|WET3251.txt|.|55|.|WET1477.txt|.|12|.|WET3175.txt|.|69|.|WET2412.txt|.|21|.|WET5801.txt|.|56|.|WET5225.txt|.|103|.|WET4892.txt|.|27|.|WET5128.txt|.|43|.|WET3526.txt|.|44|.|WET5494.txt|.|10|.|WET2096.txt|.|62|.|WET2108.txt|.|37|.|WET5160.txt|.|60|.|WET2319.txt|.|34|.|WET4345.txt|.|72|.|WET6071.txt|.|51|.|WET2367.txt|.|10|.|WET293.txt|.|11|.|WET5164.txt|.|25|.|WET1410.txt|.|97|.|WET1996.txt|.|119|.|WET5029.txt|.|120|.|WET5839.txt|.|70|.|WET4029.txt|.|11|.|WET5736.txt|.|106|.|WET128.txt|.|8|.|WET1725.txt|.|18|.|WET1818.txt|.|17|.|WET3974.txt|.|13|.|WET2609.txt|.|73|.|WET2330.txt|.|23|.|WET3308.txt|.|12|.|WET5467.txt|.|19|.|WET2610.txt|.|156|.|WET2386.txt|.|125|.|WET3025.txt|.|47|.|WET1529.txt|.|11|.|WET3590.txt|.|37|.|WET2763.txt|.|17|.|WET5605.txt|.|39
+kobo tablets|.|WET6128.txt|.|6
+browser|.|WET1095.txt|.|15|.|WET3845.txt|.|2|.|WET5242.txt|.|4|.|WET1262.txt|.|6|.|WET4847.txt|.|5|.|WET3810.txt|.|2|.|WET3831.txt|.|5|.|WET4844.txt|.|11|.|WET1263.txt|.|3|.|WET3494.txt|.|3|.|WET2042.txt|.|3|.|WET5058.txt|.|2|.|WET3207.txt|.|12|.|WET2222.txt|.|18|.|WET4432.txt|.|12
+dictionnaire allemand|.|WET2222.txt|.|8
+fire|.|WET4176.txt|.|120|.|WET2386.txt|.|74|.|WET2222.txt|.|18
+kindle|.|WET1003.txt|.|47|.|WET2386.txt|.|185|.|WET2222.txt|.|10|.|WET6128.txt|.|99
+track|.|WET1915.txt|.|12|.|WET5906.txt|.|28|.|WET5745.txt|.|16|.|WET2383.txt|.|9|.|WET5043.txt|.|16|.|WET2713.txt|.|18|.|WET2506.txt|.|29|.|WET2321.txt|.|44|.|WET5690.txt|.|39|.|WET1950.txt|.|31|.|WET4892.txt|.|20|.|WET1293.txt|.|16|.|WET3384.txt|.|2|.|WET2064.txt|.|3|.|WET2386.txt|.|113|.|WET3120.txt|.|132|.|WET2625.txt|.|21|.|WET2224.txt|.|153|.|WET2800.txt|.|124|.|WET5653.txt|.|22|.|WET3847.txt|.|32|.|WET201.txt|.|30
+view public profile|.|WET1250.txt|.|23|.|WET2096.txt|.|61|.|WET1410.txt|.|91|.|WET2330.txt|.|15|.|WET2386.txt|.|112|.|WET5160.txt|.|58|.|WET5388.txt|.|40|.|WET6071.txt|.|49|.|WET5225.txt|.|85|.|WET4698.txt|.|41

@@ -1,0 +1,12 @@
+1369
+foul|.|WET5539.txt|.|98
+post count|.|WET1309.txt|.|36|.|WET2897.txt|.|37
+fm|.|WET3756.txt|.|124|.|WET4552.txt|.|47
+hp|.|WET2078.txt|.|8|.|WET4754.txt|.|200
+system software|.|WET4421.txt|.|8
+hq|.|WET4238.txt|.|8
+easily|.|WET2080.txt|.|30
+hs|.|WET3262.txt|.|275
+nibsdesk|.|WET5879.txt|.|10
+fri|.|WET3583.txt|.|53|.|WET701.txt|.|90|.|WET1629.txt|.|50
+contractions|.|WET4142.txt|.|74

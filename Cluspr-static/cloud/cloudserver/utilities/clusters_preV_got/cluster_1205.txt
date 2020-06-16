@@ -1,0 +1,12 @@
+1205
+plunge|.|WET2846.txt|.|87
+zodiac|.|WET1715.txt|.|10
+buddhist|.|WET5385.txt|.|42
+rare|.|WET3514.txt|.|25|.|WET4892.txt|.|18
+contribute|.|WET5709.txt|.|12|.|WET1968.txt|.|14|.|WET6132.txt|.|25|.|WET3427.txt|.|9
+rank|.|WET1715.txt|.|8|.|WET4587.txt|.|5|.|WET5711.txt|.|7
+liquor stores|.|WET6197.txt|.|17
+gass|.|WET2676.txt|.|80
+interview|.|WET3712.txt|.|22
+kilner|.|WET1684.txt|.|32
+lukoil|.|WET2284.txt|.|36

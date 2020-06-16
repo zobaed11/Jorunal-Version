@@ -1,0 +1,12 @@
+403
+shortcake|.|WET3900.txt|.|8
+fees|.|WET1259.txt|.|145
+olive|.|WET4464.txt|.|60|.|WET2063.txt|.|78
+fl|.|WET234.txt|.|153|.|WET3980.txt|.|170|.|WET3981.txt|.|68|.|WET2769.txt|.|75|.|WET1259.txt|.|128|.|WET4245.txt|.|111|.|WET3390.txt|.|56
+authority|.|WET4245.txt|.|8
+supplies last|.|WET1259.txt|.|164
+beach|.|WET3729.txt|.|196|.|WET147.txt|.|37|.|WET3135.txt|.|21|.|WET2846.txt|.|53|.|WET5831.txt|.|6|.|WET563.txt|.|9|.|WET4091.txt|.|220|.|WET234.txt|.|86|.|WET1172.txt|.|30|.|WET2346.txt|.|53|.|WET5719.txt|.|61|.|WET3082.txt|.|32|.|WET2932.txt|.|56|.|WET348.txt|.|187|.|WET3445.txt|.|60|.|WET3646.txt|.|21|.|WET2603.txt|.|37|.|WET4272.txt|.|547|.|WET2168.txt|.|45
+craft|.|WET5534.txt|.|292|.|WET1628.txt|.|33|.|WET5755.txt|.|29|.|WET5682.txt|.|5
+ocho rios|.|WET3981.txt|.|16
+book buy|.|WET4245.txt|.|13
+private au|.|WET234.txt|.|36

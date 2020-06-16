@@ -1,0 +1,12 @@
+1065
+youth hostel|.|WET3744.txt|.|9
+pentel|.|WET2627.txt|.|94
+evidence|.|WET4849.txt|.|34
+fast company|.|WET1797.txt|.|30
+museen|.|WET2910.txt|.|17
+proved reserves|.|WET6307.txt|.|358
+communion|.|WET2634.txt|.|32
+duluth|.|WET2515.txt|.|18
+ugliest|.|WET4106.txt|.|37
+palatine|.|WET2587.txt|.|36
+ohio|.|WET4611.txt|.|20

@@ -1,0 +1,12 @@
+693
+gun|.|WET977.txt|.|41|.|WET5708.txt|.|80|.|WET5133.txt|.|71|.|WET5126.txt|.|63|.|WET1376.txt|.|23|.|WET1064.txt|.|34|.|WET1198.txt|.|9|.|WET3577.txt|.|80|.|WET5365.txt|.|42
+reserve order|.|WET5133.txt|.|24
+ammo|.|WET1376.txt|.|22
+grand junction|.|WET1920.txt|.|71|.|WET5659.txt|.|103
+class iii|.|WET5133.txt|.|24
+bookshelf speakers|.|WET3577.txt|.|398
+witch craft|.|WET5682.txt|.|5
+arms|.|WET5126.txt|.|73|.|WET3933.txt|.|54|.|WET5496.txt|.|10|.|WET3934.txt|.|10
+units|.|WET839.txt|.|22|.|WET3712.txt|.|34
+buds|.|WET5133.txt|.|63
+rifle|.|WET1376.txt|.|28

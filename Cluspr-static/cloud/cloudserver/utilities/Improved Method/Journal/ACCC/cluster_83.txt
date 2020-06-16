@@ -1,0 +1,77 @@
+83
+othersgooglegoogle|.|WET264.txt|.|171|.|WET4007.txt|.|182
+rigor|.|WET3591.txt|.|149
+doiexport|.|WET264.txt|.|112|.|WET4007.txt|.|79
+dorm life|.|WET3591.txt|.|162
+current student|.|WET3591.txt|.|161
+prospective students|.|WET3591.txt|.|185
+enrichment|.|WET6264.txt|.|16
+anxious|.|WET6308.txt|.|14
+city colleges|.|WET1446.txt|.|133|.|WET5196.txt|.|114
+academic|.|WET3732.txt|.|66|.|WET3622.txt|.|26|.|WET264.txt|.|172|.|WET6308.txt|.|42|.|WET6264.txt|.|15|.|WET4477.txt|.|26|.|WET4867.txt|.|32|.|WET1063.txt|.|58|.|WET1446.txt|.|133|.|WET4007.txt|.|182|.|WET5196.txt|.|114|.|WET3591.txt|.|180
+graduate|.|WET6308.txt|.|60|.|WET3897.txt|.|47|.|WET4789.txt|.|74|.|WET510.txt|.|12
+options|.|WET2310.txt|.|25|.|WET5242.txt|.|26|.|WET838.txt|.|8|.|WET2184.txt|.|20|.|WET5002.txt|.|18|.|WET3175.txt|.|36|.|WET421.txt|.|41|.|WET4820.txt|.|22|.|WET4892.txt|.|37|.|WET1857.txt|.|12|.|WET5409.txt|.|98|.|WET3591.txt|.|58|.|WET3446.txt|.|30|.|WET6061.txt|.|50|.|WET2373.txt|.|24|.|WET4133.txt|.|35|.|WET393.txt|.|28|.|WET255.txt|.|110|.|WET590.txt|.|8|.|WET1144.txt|.|15|.|WET3484.txt|.|6|.|WET560.txt|.|25
+dual credit|.|WET1063.txt|.|9
+virtual tour|.|WET1063.txt|.|9|.|WET4591.txt|.|6
+prospective|.|WET3591.txt|.|191
+anxious exhibition|.|WET6308.txt|.|14
+parks historical|.|WET6264.txt|.|4
+searchciteseerxsemantic|.|WET264.txt|.|170|.|WET4007.txt|.|182
+pleasure|.|WET6308.txt|.|14
+pleasure makes|.|WET6308.txt|.|14
+dorm|.|WET3591.txt|.|196
+admissions|.|WET2779.txt|.|20|.|WET3732.txt|.|34|.|WET3846.txt|.|50|.|WET453.txt|.|30
+monica|.|WET3591.txt|.|227
+academic affairs|.|WET1063.txt|.|15
+community engagement|.|WET3732.txt|.|20
+scholarshare|.|WET264.txt|.|166|.|WET4007.txt|.|176
+uhd|.|WET3732.txt|.|192
+transfer|.|WET6308.txt|.|11|.|WET3694.txt|.|38
+academic calendar|.|WET3732.txt|.|15|.|WET4477.txt|.|16|.|WET1446.txt|.|56|.|WET5196.txt|.|48
+desk|.|WET2384.txt|.|448|.|WET3732.txt|.|49|.|WET5144.txt|.|83|.|WET5953.txt|.|21
+arts lecture|.|WET6308.txt|.|7
+student employment|.|WET1063.txt|.|22
+blackboard|.|WET3732.txt|.|36
+searching for information|.|WET3732.txt|.|4
+santa monica|.|WET3591.txt|.|225
+virtual|.|WET1063.txt|.|9|.|WET4591.txt|.|7
+mediators|.|WET3541.txt|.|1|.|WET4757.txt|.|1|.|WET56.txt|.|2|.|WET5309.txt|.|1|.|WET6264.txt|.|2|.|WET5755.txt|.|1
+flag|.|WET2198.txt|.|80|.|WET3850.txt|.|30|.|WET1857.txt|.|78|.|WET3591.txt|.|192
+student|.|WET2245.txt|.|15|.|WET3732.txt|.|129|.|WET2317.txt|.|28|.|WET1143.txt|.|224|.|WET250.txt|.|23|.|WET4891.txt|.|126|.|WET3622.txt|.|27|.|WET1063.txt|.|135|.|WET1446.txt|.|56|.|WET3976.txt|.|93|.|WET682.txt|.|39|.|WET3591.txt|.|331|.|WET5273.txt|.|23|.|WET4035.txt|.|123|.|WET3437.txt|.|27|.|WET3897.txt|.|21|.|WET3477.txt|.|24|.|WET4562.txt|.|43|.|WET3367.txt|.|26|.|WET5196.txt|.|50|.|WET2618.txt|.|89
+students|.|WET1608.txt|.|26|.|WET4828.txt|.|45|.|WET1956.txt|.|34|.|WET1519.txt|.|37|.|WET291.txt|.|185|.|WET4403.txt|.|21|.|WET3591.txt|.|673|.|WET2316.txt|.|36|.|WET4824.txt|.|39|.|WET5908.txt|.|17|.|WET4477.txt|.|38|.|WET510.txt|.|7|.|WET1393.txt|.|49|.|WET1580.txt|.|28|.|WET3665.txt|.|37|.|WET2253.txt|.|12|.|WET6308.txt|.|79|.|WET2427.txt|.|56|.|WET5143.txt|.|40|.|WET4325.txt|.|21|.|WET1974.txt|.|33|.|WET3411.txt|.|168|.|WET171.txt|.|410|.|WET326.txt|.|94|.|WET3166.txt|.|62
+edition|.|WET5216.txt|.|28|.|WET264.txt|.|180|.|WET1465.txt|.|34|.|WET4149.txt|.|552|.|WET4007.txt|.|195|.|WET3881.txt|.|44|.|WET2406.txt|.|112|.|WET5684.txt|.|61
+scholarms academic searchciteseerxsemantic|.|WET264.txt|.|170
+summit|.|WET4867.txt|.|48
+help desk|.|WET3732.txt|.|49
+categories comments|.|WET3591.txt|.|192
+othersgooglegoogle scholarms|.|WET264.txt|.|171|.|WET4007.txt|.|182
+life|.|WET1652.txt|.|22|.|WET5985.txt|.|66|.|WET1824.txt|.|22|.|WET1535.txt|.|10|.|WET3117.txt|.|32|.|WET3591.txt|.|286|.|WET118.txt|.|22|.|WET2515.txt|.|35|.|WET342.txt|.|30|.|WET622.txt|.|42|.|WET5492.txt|.|6|.|WET4623.txt|.|115|.|WET2545.txt|.|440|.|WET3477.txt|.|13|.|WET2573.txt|.|82|.|WET272.txt|.|9|.|WET4406.txt|.|28|.|WET3289.txt|.|41
+santa|.|WET3591.txt|.|227
+keywords to search|.|WET1063.txt|.|7
+campus locations|.|WET3732.txt|.|20
+current|.|WET1184.txt|.|1|.|WET1970.txt|.|104|.|WET2282.txt|.|32|.|WET4006.txt|.|30|.|WET4004.txt|.|62|.|WET5930.txt|.|20|.|WET2224.txt|.|37|.|WET4813.txt|.|23|.|WET3591.txt|.|177|.|WET2804.txt|.|23|.|WET5961.txt|.|56|.|WET5962.txt|.|20
+dual|.|WET1063.txt|.|11
+academic enrichment|.|WET6264.txt|.|12
+regional campuses|.|WET1063.txt|.|9
+clubs|.|WET1940.txt|.|102|.|WET916.txt|.|27|.|WET1059.txt|.|5|.|WET1461.txt|.|12|.|WET5390.txt|.|20|.|WET3297.txt|.|43|.|WET1446.txt|.|28|.|WET5679.txt|.|131|.|WET5680.txt|.|164|.|WET1941.txt|.|134|.|WET4196.txt|.|20|.|WET2746.txt|.|15|.|WET3298.txt|.|24|.|WET6010.txt|.|12|.|WET5196.txt|.|24
+lecture|.|WET6308.txt|.|21
+affairs|.|WET1063.txt|.|18
+calendar|.|WET2310.txt|.|35|.|WET3087.txt|.|11|.|WET6269.txt|.|29|.|WET1446.txt|.|77|.|WET1552.txt|.|33|.|WET3252.txt|.|38|.|WET3329.txt|.|35|.|WET2190.txt|.|11|.|WET4477.txt|.|20|.|WET5616.txt|.|17|.|WET2088.txt|.|36|.|WET709.txt|.|13|.|WET2724.txt|.|10|.|WET3732.txt|.|28|.|WET5291.txt|.|11|.|WET6308.txt|.|50|.|WET5928.txt|.|11|.|WET3695.txt|.|60|.|WET5504.txt|.|6|.|WET1238.txt|.|8|.|WET3106.txt|.|39|.|WET1772.txt|.|40|.|WET5370.txt|.|30|.|WET2941.txt|.|20|.|WET5196.txt|.|66|.|WET5830.txt|.|66
+exhibition|.|WET6308.txt|.|79
+transfer students|.|WET6308.txt|.|11
+uhd online|.|WET3732.txt|.|16
+colleges|.|WET2811.txt|.|57|.|WET1446.txt|.|154|.|WET4062.txt|.|99|.|WET5196.txt|.|132
+makes|.|WET6308.txt|.|14
+agencies|.|WET4867.txt|.|64|.|WET3367.txt|.|9
+doiexport recordbibtexrisrdfxmldblp|.|WET264.txt|.|112|.|WET4007.txt|.|79
+searchciteseerxsemantic scholarshare|.|WET264.txt|.|166|.|WET4007.txt|.|176
+scholarms|.|WET264.txt|.|171|.|WET4007.txt|.|182
+academic searchciteseerxsemantic scholarshare|.|WET264.txt|.|166
+academic searchciteseerxsemantic|.|WET264.txt|.|170|.|WET4007.txt|.|182
+academic rigor|.|WET3591.txt|.|147
+scholarms academic|.|WET264.txt|.|171|.|WET4007.txt|.|182
+policies student|.|WET5196.txt|.|12
+othersgooglegoogle scholarms academic|.|WET264.txt|.|171
+fun|.|WET2360.txt|.|66|.|WET2322.txt|.|22|.|WET5291.txt|.|16|.|WET3957.txt|.|12|.|WET433.txt|.|72|.|WET4178.txt|.|38|.|WET3591.txt|.|238|.|WET402.txt|.|32
+recordbibtexrisrdfxmldblp|.|WET264.txt|.|164|.|WET4007.txt|.|172
+campuses|.|WET1063.txt|.|19

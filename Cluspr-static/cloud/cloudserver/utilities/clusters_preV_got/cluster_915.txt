@@ -1,0 +1,12 @@
+915
+problem submitting|.|WET5179.txt|.|93
+submitting|.|WET5179.txt|.|93|.|WET4907.txt|.|30
+cline|.|WET5354.txt|.|15
+problem|.|WET5179.txt|.|93
+king|.|WET1255.txt|.|7|.|WET868.txt|.|54|.|WET2804.txt|.|69
+reputable|.|WET4510.txt|.|2|.|WET3904.txt|.|1|.|WET3720.txt|.|1|.|WET6231.txt|.|1|.|WET3714.txt|.|2|.|WET4705.txt|.|1|.|WET2667.txt|.|2|.|WET6197.txt|.|4|.|WET1432.txt|.|1|.|WET5803.txt|.|1
+send report|.|WET5179.txt|.|93
+try|.|WET3348.txt|.|145|.|WET5179.txt|.|98|.|WET4907.txt|.|77
+category|.|WET3227.txt|.|32|.|WET2118.txt|.|56|.|WET4929.txt|.|8|.|WET5103.txt|.|1|.|WET5668.txt|.|49|.|WET1928.txt|.|24|.|WET5898.txt|.|15|.|WET2804.txt|.|4|.|WET2009.txt|.|22
+gift baskets|.|WET3298.txt|.|24|.|WET5376.txt|.|45
+miss|.|WET3364.txt|.|4

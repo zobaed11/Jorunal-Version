@@ -1,0 +1,12 @@
+1138
+galway|.|WET6258.txt|.|13
+nui|.|WET6258.txt|.|9
+financial support|.|WET4824.txt|.|5
+cancer awareness|.|WET3826.txt|.|10|.|WET84.txt|.|11|.|WET2439.txt|.|32
+golf course|.|WET1636.txt|.|12
+healthy eating|.|WET107.txt|.|5
+saginaw|.|WET2377.txt|.|94|.|WET6122.txt|.|92|.|WET2376.txt|.|118|.|WET3856.txt|.|42
+oncolink|.|WET6282.txt|.|16
+nui galway|.|WET6258.txt|.|9
+wsmi|.|WET4824.txt|.|14
+healthcare|.|WET6258.txt|.|80

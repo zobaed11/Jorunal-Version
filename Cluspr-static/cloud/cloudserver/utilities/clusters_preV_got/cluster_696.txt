@@ -1,0 +1,12 @@
+696
+oct|.|WET2502.txt|.|10|.|WET2467.txt|.|36|.|WET464.txt|.|72|.|WET4142.txt|.|156|.|WET446.txt|.|75|.|WET3379.txt|.|40|.|WET4143.txt|.|112|.|WET5368.txt|.|130|.|WET402.txt|.|142
+help latest|.|WET5368.txt|.|7
+nbc new|.|WET2467.txt|.|12
+week four|.|WET4143.txt|.|27
+general discussion|.|WET5368.txt|.|17
+forum search|.|WET4142.txt|.|7
+vegan dinerposted|.|WET4143.txt|.|25
+tue oct|.|WET4143.txt|.|26
+dinerposted|.|WET4143.txt|.|25
+greatest|.|WET5368.txt|.|9
+topics places|.|WET5368.txt|.|7

@@ -1,0 +1,12 @@
+639
+electronics|.|WET5235.txt|.|20
+stocking|.|WET5235.txt|.|20
+mobile phones|.|WET5235.txt|.|20
+productsand|.|WET2592.txt|.|30
+electronics flowers|.|WET5235.txt|.|20
+christmas ornaments|.|WET5235.txt|.|24
+ornaments|.|WET5235.txt|.|24
+stuffers|.|WET5235.txt|.|20
+christmas|.|WET5235.txt|.|283|.|WET5534.txt|.|118|.|WET1824.txt|.|193|.|WET3993.txt|.|14|.|WET1629.txt|.|17|.|WET2432.txt|.|90|.|WET2592.txt|.|83|.|WET1483.txt|.|254
+children clothing|.|WET5235.txt|.|20
+family page|.|WET5235.txt|.|16

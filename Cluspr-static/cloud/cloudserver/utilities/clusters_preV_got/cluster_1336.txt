@@ -1,0 +1,12 @@
+1336
+official travel guide|.|WET2903.txt|.|10
+baseball equipment|.|WET81.txt|.|30
+abc|.|WET10.txt|.|66|.|WET1106.txt|.|60|.|WET656.txt|.|42|.|WET3758.txt|.|56|.|WET4855.txt|.|39
+tsmc|.|WET3334.txt|.|7
+choose blog|.|WET2173.txt|.|160
+bengali|.|WET4239.txt|.|11|.|WET5558.txt|.|6|.|WET4644.txt|.|11
+azerbaijani|.|WET4239.txt|.|11|.|WET4644.txt|.|11
+en vista|.|WET6187.txt|.|88
+guide assembly|.|WET746.txt|.|27
+guide|.|WET1184.txt|.|24|.|WET4535.txt|.|11|.|WET2361.txt|.|45|.|WET5264.txt|.|44|.|WET2057.txt|.|22|.|WET1515.txt|.|24|.|WET4124.txt|.|40|.|WET3252.txt|.|53|.|WET385.txt|.|20|.|WET2903.txt|.|10|.|WET81.txt|.|65|.|WET3828.txt|.|22|.|WET4049.txt|.|44|.|WET3839.txt|.|15|.|WET6104.txt|.|67|.|WET5024.txt|.|97|.|WET3826.txt|.|80|.|WET3092.txt|.|22|.|WET5266.txt|.|28|.|WET5405.txt|.|56|.|WET1768.txt|.|18|.|WET3788.txt|.|90|.|WET691.txt|.|3|.|WET1656.txt|.|63|.|WET3091.txt|.|14|.|WET1513.txt|.|44|.|WET2360.txt|.|91|.|WET83.txt|.|22|.|WET5488.txt|.|23|.|WET3290.txt|.|79|.|WET5683.txt|.|17|.|WET746.txt|.|39|.|WET1992.txt|.|56|.|WET5785.txt|.|25|.|WET2992.txt|.|91|.|WET6090.txt|.|24|.|WET6105.txt|.|26|.|WET5789.txt|.|99|.|WET4631.txt|.|30
+brad nicholson|.|WET977.txt|.|19

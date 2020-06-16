@@ -1,0 +1,12 @@
+850
+pet services|.|WET816.txt|.|6
+no min|.|WET5592.txt|.|40|.|WET1856.txt|.|24
+weather glossary climate|.|WET3260.txt|.|20
+glossary climate calculators|.|WET3260.txt|.|20
+no max|.|WET5592.txt|.|40|.|WET1856.txt|.|24
+equipped|.|WET2574.txt|.|52
+vacation|.|WET2574.txt|.|49|.|WET2412.txt|.|40|.|WET3638.txt|.|25|.|WET6106.txt|.|31|.|WET3727.txt|.|59|.|WET816.txt|.|72|.|WET3260.txt|.|20|.|WET5592.txt|.|49|.|WET2631.txt|.|67|.|WET1856.txt|.|22|.|WET3446.txt|.|48
+travel deals|.|WET3727.txt|.|15
+recommends|.|WET2631.txt|.|37
+rent by owner|.|WET1856.txt|.|9
+vacation rental|.|WET2574.txt|.|22

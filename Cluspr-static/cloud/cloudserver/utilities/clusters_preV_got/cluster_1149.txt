@@ -1,0 +1,12 @@
+1149
+serving bowls|.|WET6113.txt|.|30
+lemon|.|WET1832.txt|.|19
+white|.|WET1730.txt|.|608|.|WET3915.txt|.|69|.|WET1477.txt|.|44|.|WET4519.txt|.|34|.|WET927.txt|.|53|.|WET4760.txt|.|41|.|WET6113.txt|.|60|.|WET3297.txt|.|55|.|WET933.txt|.|10|.|WET1632.txt|.|37|.|WET4896.txt|.|43|.|WET4354.txt|.|30|.|WET5636.txt|.|121|.|WET2586.txt|.|20|.|WET1704.txt|.|154|.|WET4172.txt|.|112|.|WET5071.txt|.|50|.|WET2596.txt|.|8|.|WET2456.txt|.|29|.|WET3272.txt|.|46|.|WET5471.txt|.|1030
+masters man member|.|WET5471.txt|.|44
+bachelors woman|.|WET5471.txt|.|191
+associates woman|.|WET1730.txt|.|57
+college woman|.|WET1730.txt|.|178|.|WET5471.txt|.|238
+wine clubs gift|.|WET3297.txt|.|14
+richters|.|WET3698.txt|.|86
+verweist|.|WET4976.txt|.|32
+sauvignon blanc|.|WET3297.txt|.|17

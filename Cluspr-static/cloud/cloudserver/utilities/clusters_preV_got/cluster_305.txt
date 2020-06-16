@@ -1,0 +1,12 @@
+305
+mon secret|.|WET3832.txt|.|82
+peu|.|WET3832.txt|.|59
+avoir un|.|WET3832.txt|.|75
+security pour|.|WET1761.txt|.|18
+entreprise|.|WET2584.txt|.|21
+jesus|.|WET533.txt|.|29|.|WET1157.txt|.|13
+pour|.|WET533.txt|.|20|.|WET3832.txt|.|444|.|WET2584.txt|.|25|.|WET4134.txt|.|191|.|WET3944.txt|.|53|.|WET1761.txt|.|28
+un corps|.|WET3832.txt|.|109
+un peu|.|WET3832.txt|.|48
+avoir|.|WET3832.txt|.|106
+forum pagelines|.|WET2584.txt|.|9

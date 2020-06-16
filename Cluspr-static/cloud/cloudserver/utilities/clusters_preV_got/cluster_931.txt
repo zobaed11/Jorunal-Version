@@ -1,0 +1,12 @@
+931
+jews|.|WET2140.txt|.|52
+future|.|WET564.txt|.|9|.|WET5871.txt|.|34|.|WET4477.txt|.|22|.|WET2470.txt|.|14
+creo|.|WET2416.txt|.|22
+learn more about communities|.|WET5490.txt|.|2|.|WET343.txt|.|2
+medical emergency|.|WET2336.txt|.|23
+edit the text|.|WET2140.txt|.|2
+emergency|.|WET2336.txt|.|23
+message exceeded|.|WET2336.txt|.|61
+call your physician|.|WET2336.txt|.|22
+amoeba|.|WET4916.txt|.|43
+royal|.|WET418.txt|.|57|.|WET4030.txt|.|33|.|WET5845.txt|.|5|.|WET3073.txt|.|319

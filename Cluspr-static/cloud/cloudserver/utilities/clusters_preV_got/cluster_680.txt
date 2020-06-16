@@ -1,0 +1,12 @@
+680
+spoof|.|WET3076.txt|.|131
+geographic|.|WET4193.txt|.|57
+bookseller inventory|.|WET1107.txt|.|65
+listens|.|WET5356.txt|.|43
+walter|.|WET903.txt|.|22|.|WET4466.txt|.|9
+marketplace usa|.|WET5159.txt|.|44
+irons|.|WET940.txt|.|33
+wandleuchten|.|WET5643.txt|.|13
+thanksgiving|.|WET5755.txt|.|47|.|WET2867.txt|.|12
+different|.|WET45.txt|.|69|.|WET3792.txt|.|37|.|WET3791.txt|.|35
+english language|.|WET340.txt|.|55|.|WET4083.txt|.|63

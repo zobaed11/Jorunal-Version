@@ -1,0 +1,12 @@
+205
+user regular|.|WET3452.txt|.|77
+regular price|.|WET5599.txt|.|99
+hamas|.|WET322.txt|.|33
+gang|.|WET2468.txt|.|27|.|WET915.txt|.|111|.|WET4652.txt|.|187|.|WET6206.txt|.|34
+beach decor|.|WET5719.txt|.|33
+looking|.|WET2848.txt|.|2
+discover life|.|WET1652.txt|.|20
+fresh|.|WET1413.txt|.|63|.|WET5599.txt|.|36|.|WET5990.txt|.|60
+state university|.|WET227.txt|.|144|.|WET290.txt|.|41|.|WET1972.txt|.|22
+former|.|WET6284.txt|.|21
+premier sponsor|.|WET5734.txt|.|72

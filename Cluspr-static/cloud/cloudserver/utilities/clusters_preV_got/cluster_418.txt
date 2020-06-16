@@ -1,0 +1,12 @@
+418
+auditions|.|WET2427.txt|.|69
+wbbm|.|WET189.txt|.|6
+chicken pox|.|WET3311.txt|.|15
+automation|.|WET5603.txt|.|8
+keywords|.|WET4019.txt|.|1|.|WET238.txt|.|3|.|WET1980.txt|.|4|.|WET3585.txt|.|8|.|WET5603.txt|.|84|.|WET1063.txt|.|7|.|WET2231.txt|.|3
+geotextile|.|WET445.txt|.|105
+optical fiber|.|WET4599.txt|.|46
+student employment|.|WET1063.txt|.|22
+cable management|.|WET5603.txt|.|6
+geek soul|.|WET4188.txt|.|7
+vulture|.|WET659.txt|.|7|.|WET713.txt|.|52|.|WET4453.txt|.|40

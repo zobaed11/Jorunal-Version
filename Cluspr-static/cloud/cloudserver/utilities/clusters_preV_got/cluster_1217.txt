@@ -1,0 +1,12 @@
+1217
+mn|.|WET2172.txt|.|3
+cemetery census death|.|WET3886.txt|.|9
+bulgaria|.|WET3073.txt|.|11
+olive tree|.|WET4464.txt|.|8
+year message classification|.|WET3886.txt|.|9
+royal forums|.|WET3073.txt|.|55
+quick order|.|WET1924.txt|.|21|.|WET1923.txt|.|33
+royal blog|.|WET3073.txt|.|11
+family|.|WET1824.txt|.|23|.|WET3357.txt|.|26|.|WET2552.txt|.|39|.|WET5235.txt|.|38|.|WET5523.txt|.|18|.|WET2172.txt|.|124|.|WET5663.txt|.|81|.|WET4464.txt|.|34|.|WET4189.txt|.|10|.|WET5218.txt|.|43|.|WET1168.txt|.|94|.|WET268.txt|.|5|.|WET4011.txt|.|8|.|WET5029.txt|.|51|.|WET4262.txt|.|2|.|WET267.txt|.|6|.|WET2360.txt|.|75|.|WET4330.txt|.|3|.|WET1772.txt|.|21|.|WET3886.txt|.|43|.|WET4263.txt|.|1|.|WET1923.txt|.|133|.|WET577.txt|.|384|.|WET3657.txt|.|32|.|WET3073.txt|.|121
+maintenance|.|WET5663.txt|.|71|.|WET577.txt|.|372
+imperial|.|WET3073.txt|.|33

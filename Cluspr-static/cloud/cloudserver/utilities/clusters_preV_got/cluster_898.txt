@@ -1,0 +1,12 @@
+898
+coupling|.|WET4471.txt|.|17
+triathlon|.|WET1118.txt|.|66
+soup|.|WET1566.txt|.|11
+con|.|WET328.txt|.|380|.|WET1741.txt|.|54|.|WET3438.txt|.|106|.|WET5795.txt|.|66|.|WET4582.txt|.|20|.|WET31.txt|.|112|.|WET5480.txt|.|87|.|WET5303.txt|.|37|.|WET3448.txt|.|244|.|WET2087.txt|.|71|.|WET4471.txt|.|13|.|WET3882.txt|.|209
+cosplayers picnic northeast|.|WET5303.txt|.|6
+alertsschool closing alertsweather|.|WET6204.txt|.|10
+ocio|.|WET4602.txt|.|31
+quantum|.|WET237.txt|.|25|.|WET4471.txt|.|13
+sort|.|WET5863.txt|.|19|.|WET2122.txt|.|12
+teacup pigs|.|WET5214.txt|.|10
+fill|.|WET1471.txt|.|26

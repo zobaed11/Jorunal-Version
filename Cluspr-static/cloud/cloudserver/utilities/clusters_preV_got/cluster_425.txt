@@ -1,0 +1,12 @@
+425
+hardwood|.|WET5155.txt|.|44|.|WET1406.txt|.|16
+carpet hardwood|.|WET5155.txt|.|22
+recording studios|.|WET5896.txt|.|4
+laminate|.|WET5155.txt|.|33|.|WET1406.txt|.|12
+cushion|.|WET5896.txt|.|13
+luxury vinyl|.|WET5155.txt|.|22
+laminate luxury|.|WET5155.txt|.|22
+talk forum|.|WET2954.txt|.|26
+carpet|.|WET2629.txt|.|13|.|WET1752.txt|.|18|.|WET5155.txt|.|66|.|WET1406.txt|.|24
+onu|.|WET3187.txt|.|19
+vinyl sheet|.|WET5155.txt|.|22

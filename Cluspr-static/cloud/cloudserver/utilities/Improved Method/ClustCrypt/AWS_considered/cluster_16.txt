@@ -1,0 +1,10 @@
+16
+world heritage centre|.|WET1051.txt|.|303
+heritage sites|.|WET1051.txt|.|220
+unesco world|.|WET1051.txt|.|222
+world heritage sites|.|WET1051.txt|.|204
+unesco|.|WET1051.txt|.|1055
+heritage|.|WET1051.txt|.|2418|.|WET4798.txt|.|350|.|WET5744.txt|.|29|.|WET4033.txt|.|78
+heritage centre|.|WET1051.txt|.|303
+unesco world heritage|.|WET1051.txt|.|218
+world heritage|.|WET1051.txt|.|2011|.|WET4798.txt|.|274

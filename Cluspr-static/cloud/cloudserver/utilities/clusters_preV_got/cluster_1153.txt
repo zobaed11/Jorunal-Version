@@ -1,0 +1,12 @@
+1153
+baseball daily|.|WET5273.txt|.|3
+college|.|WET1730.txt|.|292|.|WET1143.txt|.|88|.|WET5005.txt|.|45|.|WET3980.txt|.|11|.|WET4891.txt|.|60|.|WET4693.txt|.|106|.|WET1561.txt|.|24|.|WET948.txt|.|36|.|WET3682.txt|.|40|.|WET5273.txt|.|259|.|WET5446.txt|.|40|.|WET221.txt|.|22|.|WET2675.txt|.|11|.|WET1255.txt|.|42|.|WET171.txt|.|1402|.|WET2086.txt|.|32|.|WET1523.txt|.|38|.|WET3367.txt|.|63|.|WET3579.txt|.|326|.|WET4233.txt|.|146|.|WET5471.txt|.|476
+office chairs|.|WET2538.txt|.|188
+theatre arts|.|WET171.txt|.|59
+lovely|.|WET1975.txt|.|6
+blood sugar cholesterol|.|WET2067.txt|.|88
+cardinals|.|WET5005.txt|.|42
+community college|.|WET221.txt|.|11|.|WET4233.txt|.|41
+catawba collegecatawba|.|WET171.txt|.|103
+stone|.|WET2972.txt|.|18|.|WET6186.txt|.|5|.|WET6061.txt|.|28
+norman|.|WET1984.txt|.|13

@@ -1,0 +1,12 @@
+236
+stardock|.|WET3294.txt|.|105|.|WET3293.txt|.|385
+ampliados|.|WET2059.txt|.|56
+atomics|.|WET4749.txt|.|5|.|WET3424.txt|.|2|.|WET1005.txt|.|3
+chino|.|WET249.txt|.|91|.|WET3994.txt|.|65
+music track|.|WET5906.txt|.|13
+corporation|.|WET4809.txt|.|29|.|WET3294.txt|.|87|.|WET4749.txt|.|270|.|WET3293.txt|.|319|.|WET5558.txt|.|25|.|WET1006.txt|.|324
+chiang mai|.|WET857.txt|.|16
+stardock corporation genre|.|WET3294.txt|.|39
+chile|.|WET2696.txt|.|15
+child|.|WET2360.txt|.|44|.|WET2361.txt|.|16|.|WET5309.txt|.|50|.|WET1733.txt|.|537|.|WET6105.txt|.|13|.|WET577.txt|.|482
+contribs|.|WET3545.txt|.|134

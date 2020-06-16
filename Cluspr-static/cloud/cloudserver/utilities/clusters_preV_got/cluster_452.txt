@@ -1,0 +1,12 @@
+452
+harvest|.|WET5152.txt|.|219
+fact|.|WET5152.txt|.|119
+months|.|WET5152.txt|.|298|.|WET5554.txt|.|90|.|WET530.txt|.|50
+fruit|.|WET2341.txt|.|209|.|WET5152.txt|.|545|.|WET6086.txt|.|19|.|WET2342.txt|.|209|.|WET6084.txt|.|209|.|WET6085.txt|.|209|.|WET2340.txt|.|209
+complement this wine|.|WET5152.txt|.|132
+download the fact|.|WET5152.txt|.|119
+warming|.|WET2773.txt|.|747|.|WET4600.txt|.|8
+french oak|.|WET5152.txt|.|254
+recipes that complement|.|WET5152.txt|.|132
+packages|.|WET3609.txt|.|66|.|WET4480.txt|.|26|.|WET3727.txt|.|33|.|WET738.txt|.|30|.|WET4591.txt|.|6
+french|.|WET3181.txt|.|5|.|WET329.txt|.|11|.|WET2576.txt|.|17|.|WET4169.txt|.|22|.|WET4446.txt|.|11|.|WET5208.txt|.|18|.|WET5152.txt|.|298|.|WET3990.txt|.|11|.|WET423.txt|.|72|.|WET1133.txt|.|7|.|WET4201.txt|.|20|.|WET3884.txt|.|11|.|WET1365.txt|.|20

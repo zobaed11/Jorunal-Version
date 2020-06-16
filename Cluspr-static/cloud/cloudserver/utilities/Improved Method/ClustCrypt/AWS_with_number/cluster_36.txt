@@ -1,0 +1,16 @@
+36
+palo|.|WET2588.txt|.|69
+town|.|WET2588.txt|.|55|.|WET1422.txt|.|92|.|WET3344.txt|.|25|.|WET4899.txt|.|65|.|WET378.txt|.|24|.|WET3020.txt|.|24|.|WET258.txt|.|15
+thamar|.|WET1422.txt|.|16
+moderator like|.|WET4899.txt|.|47
+square moderator|.|WET4899.txt|.|50
+objectionable content|.|WET2588.txt|.|38|.|WET4899.txt|.|50
+thamar houliston|.|WET1422.txt|.|16
+objectionable|.|WET2588.txt|.|38|.|WET4899.txt|.|50
+palo alto|.|WET2588.txt|.|62
+connect to the networked|.|WET378.txt|.|1
+town square|.|WET2588.txt|.|49|.|WET4899.txt|.|64|.|WET258.txt|.|10
+menlo park|.|WET4899.txt|.|66
+cape|.|WET1422.txt|.|104
+tours in cape|.|WET1422.txt|.|8
+networked|.|WET861.txt|.|3|.|WET378.txt|.|1

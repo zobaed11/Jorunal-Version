@@ -1,0 +1,12 @@
+1284
+file not found|.|WET3703.txt|.|27
+policies and links|.|WET4514.txt|.|6
+charm|.|WET2175.txt|.|12
+home beers|.|WET5026.txt|.|6
+charm beads|.|WET2175.txt|.|8
+ric rac|.|WET3071.txt|.|9
+advertise place|.|WET6153.txt|.|16
+lost abbey|.|WET5026.txt|.|6
+links|.|WET5183.txt|.|35|.|WET1795.txt|.|29|.|WET5026.txt|.|39|.|WET2175.txt|.|8|.|WET409.txt|.|6|.|WET2494.txt|.|3|.|WET3184.txt|.|9|.|WET4243.txt|.|93|.|WET4552.txt|.|4|.|WET4407.txt|.|4|.|WET2968.txt|.|16|.|WET1097.txt|.|14|.|WET3071.txt|.|11|.|WET4514.txt|.|12|.|WET6151.txt|.|36|.|WET2897.txt|.|51|.|WET190.txt|.|11|.|WET2041.txt|.|3|.|WET5223.txt|.|20|.|WET2695.txt|.|3|.|WET19.txt|.|10|.|WET3598.txt|.|20|.|WET462.txt|.|86|.|WET2407.txt|.|36|.|WET1431.txt|.|30|.|WET3922.txt|.|8|.|WET6152.txt|.|44|.|WET3703.txt|.|18|.|WET830.txt|.|19|.|WET1471.txt|.|18|.|WET6153.txt|.|33|.|WET2021.txt|.|13
+mitchell|.|WET462.txt|.|92
+pearl beads|.|WET2175.txt|.|8

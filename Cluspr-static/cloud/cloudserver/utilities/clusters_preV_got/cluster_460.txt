@@ -1,0 +1,12 @@
+460
+mountain bike racing|.|WET5051.txt|.|8
+bikes and gear|.|WET5051.txt|.|16
+bicycle|.|WET1302.txt|.|61|.|WET5053.txt|.|60|.|WET1301.txt|.|48|.|WET5052.txt|.|39
+bike forums|.|WET5051.txt|.|52|.|WET1301.txt|.|37|.|WET5052.txt|.|40
+forum leaders|.|WET5052.txt|.|14
+bike folding bikes|.|WET5051.txt|.|8
+discussion adaptive cycling|.|WET5051.txt|.|8
+folding|.|WET5051.txt|.|16|.|WET1644.txt|.|10
+cycling related jobs|.|WET5051.txt|.|8
+forums message|.|WET1301.txt|.|12
+rides|.|WET2136.txt|.|44|.|WET2137.txt|.|40|.|WET5051.txt|.|153|.|WET2135.txt|.|38|.|WET2398.txt|.|8|.|WET1301.txt|.|114|.|WET5052.txt|.|114

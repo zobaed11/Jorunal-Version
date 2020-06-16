@@ -1,0 +1,22 @@
+62
+directory product|.|WET3684.txt|.|16
+dog breed|.|WET3683.txt|.|14
+cat and dog|.|WET1666.txt|.|15
+activity recent corral|.|WET1666.txt|.|11
+pet parenting|.|WET2635.txt|.|9
+training dog|.|WET1666.txt|.|11
+grooming answers dog|.|WET1666.txt|.|10
+soft claws|.|WET3684.txt|.|9
+dog photos|.|WET2640.txt|.|6
+center bird|.|WET2635.txt|.|9
+sign in using|.|WET3683.txt|.|11
+food food|.|WET3683.txt|.|22
+using facebook|.|WET3683.txt|.|22
+corral|.|WET1666.txt|.|11
+pet profile|.|WET3683.txt|.|22
+dogs more videos|.|WET1666.txt|.|10
+grooming|.|WET1666.txt|.|13
+pal|.|WET1666.txt|.|12
+dog|.|WET3684.txt|.|69|.|WET2635.txt|.|56|.|WET2640.txt|.|110|.|WET903.txt|.|27|.|WET4050.txt|.|58|.|WET1666.txt|.|196|.|WET1969.txt|.|20|.|WET5411.txt|.|20|.|WET2638.txt|.|205|.|WET6275.txt|.|47|.|WET1776.txt|.|66|.|WET3683.txt|.|202
+pets pet blog|.|WET2640.txt|.|6
+accessories food|.|WET3683.txt|.|22

@@ -1,0 +1,12 @@
+763
+chickens|.|WET1243.txt|.|22
+give|.|WET713.txt|.|23|.|WET4453.txt|.|26|.|WET1408.txt|.|27|.|WET1203.txt|.|11
+zimbra collaboration|.|WET422.txt|.|16
+blowoutcards|.|WET5086.txt|.|64
+preemie|.|WET4154.txt|.|16
+stain solver|.|WET2957.txt|.|14
+flags|.|WET4858.txt|.|80
+chiefs news|.|WET5222.txt|.|36
+breastfeeding|.|WET4154.txt|.|112
+hp plus|.|WET2078.txt|.|8
+nearby|.|WET4591.txt|.|8

@@ -1,0 +1,21 @@
+products books|.|WET5233.txt|.|13
+abroad|.|WET3166.txt|.|6
+study|.|WET5488.txt|.|36|.|WET1146.txt|.|107|.|WET1482.txt|.|16|.|WET452.txt|.|34|.|WET3166.txt|.|17|.|WET4894.txt|.|149|.|WET5233.txt|.|19
+bible|.|WET2563.txt|.|37|.|WET1146.txt|.|330|.|WET4320.txt|.|62|.|WET5520.txt|.|124|.|WET1482.txt|.|28|.|WET1786.txt|.|104|.|WET4894.txt|.|301|.|WET5233.txt|.|72
+part time mba|.|WET452.txt|.|11
+print bibles|.|WET1146.txt|.|11
+enotes|.|WET5488.txt|.|28
+study abroad|.|WET3166.txt|.|6
+tests gmat|.|WET452.txt|.|22
+full time mba|.|WET452.txt|.|11
+gmat books math|.|WET452.txt|.|11
+literature lesson plans|.|WET5488.txt|.|10
+study biblekjv|.|WET1146.txt|.|21|.|WET4894.txt|.|24
+teen bibles|.|WET1146.txt|.|7
+audio bibles|.|WET1146.txt|.|18
+large print|.|WET1146.txt|.|39|.|WET4894.txt|.|9
+study plans gmat|.|WET452.txt|.|11
+study bible|.|WET1146.txt|.|31|.|WET4894.txt|.|54
+biblekjv|.|WET1146.txt|.|21|.|WET4894.txt|.|24
+video bibles|.|WET1146.txt|.|13
+gmat verbal section|.|WET452.txt|.|14

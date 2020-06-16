@@ -1,0 +1,12 @@
+1317
+keyword or filter|.|WET3993.txt|.|8
+month|.|WET5561.txt|.|34|.|WET1137.txt|.|12|.|WET5348.txt|.|12|.|WET3862.txt|.|32|.|WET3668.txt|.|21|.|WET4247.txt|.|42
+ben bridge|.|WET103.txt|.|12
+year of entry|.|WET3862.txt|.|20
+blue abstract|.|WET3993.txt|.|9
+blue abstract christmas|.|WET3993.txt|.|9
+keyword search|.|WET3065.txt|.|1|.|WET117.txt|.|6|.|WET2331.txt|.|2|.|WET3862.txt|.|10|.|WET122.txt|.|10|.|WET3747.txt|.|12|.|WET2375.txt|.|1|.|WET3866.txt|.|10|.|WET762.txt|.|1|.|WET3852.txt|.|1|.|WET3863.txt|.|6|.|WET105.txt|.|4|.|WET1865.txt|.|3|.|WET103.txt|.|3
+lot size|.|WET3747.txt|.|16
+signal|.|WET5286.txt|.|70
+phone signal|.|WET5286.txt|.|70
+browse previous blog|.|WET3862.txt|.|19

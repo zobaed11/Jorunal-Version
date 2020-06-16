@@ -1,0 +1,12 @@
+253
+actresses|.|WET5097.txt|.|21|.|WET1346.txt|.|23
+antimicrobial|.|WET5828.txt|.|26
+michigan|.|WET5147.txt|.|9|.|WET4611.txt|.|86
+isa|.|WET98.txt|.|14
+no delivery date confirmed|.|WET3215.txt|.|243
+nebraska city|.|WET6211.txt|.|39
+yahoo sports|.|WET902.txt|.|68
+irc|.|WET3903.txt|.|18
+pony|.|WET5494.txt|.|55|.|WET4691.txt|.|12|.|WET1758.txt|.|72
+pro picks|.|WET2217.txt|.|16
+algonkian|.|WET4823.txt|.|21

@@ -1,0 +1,12 @@
+1307
+fwc|.|WET4417.txt|.|25
+natural resources|.|WET3455.txt|.|18|.|WET229.txt|.|108|.|WET3975.txt|.|342
+dish|.|WET1481.txt|.|27
+ne|.|WET2163.txt|.|41
+nu|.|WET299.txt|.|127
+ng|.|WET4765.txt|.|22
+nh|.|WET2484.txt|.|142
+english deutsch|.|WET1007.txt|.|192|.|WET1008.txt|.|24
+nj|.|WET3364.txt|.|46
+fresh pick|.|WET5990.txt|.|26
+orthodox christian|.|WET6303.txt|.|30

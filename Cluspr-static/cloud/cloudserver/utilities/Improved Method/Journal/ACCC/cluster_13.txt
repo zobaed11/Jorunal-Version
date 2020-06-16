@@ -1,0 +1,30 @@
+13
+memory|.|WET2899.txt|.|36|.|WET1945.txt|.|1062|.|WET643.txt|.|31|.|WET6088.txt|.|187|.|WET1167.txt|.|39
+activity|.|WET4865.txt|.|11|.|WET796.txt|.|19|.|WET1666.txt|.|22|.|WET3185.txt|.|110|.|WET1663.txt|.|28|.|WET4347.txt|.|14|.|WET5364.txt|.|11|.|WET4977.txt|.|4|.|WET642.txt|.|20
+brothers|.|WET4582.txt|.|8|.|WET5.txt|.|4|.|WET6166.txt|.|26
+pmc|.|WET3185.txt|.|141
+physiological characteristic|.|WET1945.txt|.|200
+european tour|.|WET5506.txt|.|25
+characteristic|.|WET1945.txt|.|283
+europe pmc|.|WET3185.txt|.|141
+reference|.|WET180.txt|.|8|.|WET1945.txt|.|226|.|WET4242.txt|.|187|.|WET2949.txt|.|24|.|WET5520.txt|.|27|.|WET1925.txt|.|18|.|WET1786.txt|.|32|.|WET3260.txt|.|20|.|WET494.txt|.|170|.|WET6100.txt|.|14|.|WET495.txt|.|136
+perform predictive|.|WET1945.txt|.|3
+surgery subject|.|WET6166.txt|.|8
+europe|.|WET1508.txt|.|65|.|WET355.txt|.|17|.|WET3185.txt|.|143|.|WET5269.txt|.|14|.|WET5506.txt|.|46|.|WET260.txt|.|32
+value|.|WET1945.txt|.|560|.|WET1878.txt|.|2|.|WET2504.txt|.|10|.|WET3357.txt|.|11|.|WET3207.txt|.|22|.|WET2456.txt|.|39|.|WET1857.txt|.|37|.|WET1632.txt|.|4
+cataract removal|.|WET6166.txt|.|11
+annotation|.|WET3185.txt|.|102|.|WET96.txt|.|132
+uniprotkb|.|WET3185.txt|.|129
+cataract|.|WET6166.txt|.|83
+gene|.|WET3185.txt|.|110
+perform|.|WET1945.txt|.|14
+predictive|.|WET1945.txt|.|7
+procedure|.|WET6166.txt|.|8
+compositions|.|WET1945.txt|.|4|.|WET3185.txt|.|2|.|WET5506.txt|.|2|.|WET6166.txt|.|2
+kilimanjaro|.|WET6166.txt|.|25
+catalytic activity|.|WET3185.txt|.|73
+reference value|.|WET1945.txt|.|171
+removal|.|WET5027.txt|.|28|.|WET6166.txt|.|45
+cataract procedure|.|WET6166.txt|.|5
+catalytic|.|WET3185.txt|.|90
+physiological|.|WET1945.txt|.|235

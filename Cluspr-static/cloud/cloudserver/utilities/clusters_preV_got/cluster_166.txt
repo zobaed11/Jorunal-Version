@@ -1,0 +1,12 @@
+166
+family law|.|WET3657.txt|.|26
+mactech|.|WET406.txt|.|135|.|WET4148.txt|.|135
+acne|.|WET1116.txt|.|51
+refillsink|.|WET5879.txt|.|20
+marie claire|.|WET366.txt|.|8
+ebookmall|.|WET5460.txt|.|24
+hot items|.|WET2893.txt|.|8
+faithwriters|.|WET5519.txt|.|23
+quadrinhos|.|WET4543.txt|.|33
+date listed|.|WET3415.txt|.|183
+lister schermesser|.|WET2659.txt|.|31

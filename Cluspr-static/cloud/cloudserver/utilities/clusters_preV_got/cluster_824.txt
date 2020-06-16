@@ -1,0 +1,12 @@
+824
+online degree|.|WET3738.txt|.|5
+videos musicians|.|WET2356.txt|.|8
+counseling|.|WET3738.txt|.|12
+ms|.|WET3798.txt|.|17|.|WET450.txt|.|57|.|WET4329.txt|.|113|.|WET4011.txt|.|95|.|WET517.txt|.|95|.|WET439.txt|.|76|.|WET4280.txt|.|96|.|WET2356.txt|.|41|.|WET534.txt|.|115|.|WET535.txt|.|38|.|WET3738.txt|.|60
+information systems management|.|WET3738.txt|.|2
+charts top|.|WET2356.txt|.|16
+revista|.|WET6187.txt|.|88
+sale shop|.|WET2461.txt|.|33|.|WET940.txt|.|48
+foreshadowing seven heads|.|WET2356.txt|.|14
+jumalten|.|WET2356.txt|.|14
+counseling ms|.|WET3738.txt|.|8

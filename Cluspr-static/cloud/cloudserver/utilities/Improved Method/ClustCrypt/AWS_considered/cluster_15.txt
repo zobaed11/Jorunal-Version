@@ -1,0 +1,11 @@
+15
+weber state university historical publications|.|WET4327.txt|.|18
+bulletins|.|WET4033.txt|.|24
+quilting|.|WET4033.txt|.|33
+sciences sfa bulletins|.|WET4033.txt|.|23
+project|.|WET582.txt|.|123|.|WET2910.txt|.|13|.|WET3870.txt|.|56|.|WET6306.txt|.|17|.|WET6155.txt|.|17|.|WET4033.txt|.|204|.|WET3496.txt|.|15|.|WET1632.txt|.|52|.|WET1390.txt|.|46|.|WET3961.txt|.|181|.|WET4327.txt|.|173
+encoded archival|.|WET4327.txt|.|42
+create the value|.|WET1632.txt|.|1
+management software|.|WET1632.txt|.|4
+hoover dam scrapbook|.|WET582.txt|.|36
+sfa|.|WET4033.txt|.|24

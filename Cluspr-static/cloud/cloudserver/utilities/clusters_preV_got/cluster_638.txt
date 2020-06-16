@@ -1,0 +1,12 @@
+638
+sock|.|WET2921.txt|.|49
+developmental|.|WET273.txt|.|9
+project management|.|WET1632.txt|.|20
+heart rate|.|WET1998.txt|.|22
+heart rate monitor|.|WET1998.txt|.|9
+create the value|.|WET1632.txt|.|1
+views|.|WET633.txt|.|600|.|WET5082.txt|.|29|.|WET2782.txt|.|17|.|WET1998.txt|.|98|.|WET1629.txt|.|94|.|WET6046.txt|.|229|.|WET1632.txt|.|123|.|WET4077.txt|.|9
+management software|.|WET1632.txt|.|4
+chalmers case|.|WET3345.txt|.|30
+new photos|.|WET6046.txt|.|3
+pressure monitor|.|WET1998.txt|.|13

@@ -1,0 +1,12 @@
+851
+indonesian|.|WET329.txt|.|11|.|WET3990.txt|.|11|.|WET4268.txt|.|11|.|WET3387.txt|.|11|.|WET349.txt|.|11|.|WET74.txt|.|10|.|WET471.txt|.|11|.|WET3884.txt|.|11|.|WET4169.txt|.|11|.|WET3193.txt|.|11
+garlic|.|WET1832.txt|.|54
+converged|.|WET465.txt|.|84
+name last|.|WET3387.txt|.|11|.|WET471.txt|.|11
+lucerne|.|WET6113.txt|.|20
+portuguese romanian russian|.|WET704.txt|.|11|.|WET140.txt|.|11|.|WET907.txt|.|11
+romanian russian serbian|.|WET4268.txt|.|11|.|WET704.txt|.|11|.|WET140.txt|.|11|.|WET4169.txt|.|11|.|WET907.txt|.|11
+henson|.|WET498.txt|.|14
+captain lemming|.|WET2666.txt|.|33
+korean|.|WET4268.txt|.|11|.|WET3387.txt|.|11|.|WET349.txt|.|11|.|WET704.txt|.|11|.|WET140.txt|.|11|.|WET4169.txt|.|11|.|WET3193.txt|.|11|.|WET907.txt|.|11
+hungarian|.|WET329.txt|.|11|.|WET3990.txt|.|11|.|WET4239.txt|.|22|.|WET4268.txt|.|11|.|WET3387.txt|.|11|.|WET349.txt|.|11|.|WET74.txt|.|10|.|WET471.txt|.|11|.|WET3884.txt|.|11|.|WET4169.txt|.|11

@@ -1,0 +1,12 @@
+1047
+bachillerato|.|WET671.txt|.|34
+admit|.|WET821.txt|.|569
+interest|.|WET9.txt|.|4|.|WET6063.txt|.|95|.|WET2323.txt|.|41|.|WET6064.txt|.|30
+needed|.|WET6007.txt|.|90|.|WET2269.txt|.|73|.|WET6008.txt|.|119
+admin|.|WET6097.txt|.|24|.|WET4896.txt|.|405
+feb mar|.|WET1209.txt|.|4
+clyro|.|WET2344.txt|.|19
+reference weather glossary|.|WET3260.txt|.|20
+kiowa county|.|WET5922.txt|.|32
+tmz live|.|WET3113.txt|.|52
+amoeba music|.|WET4916.txt|.|15

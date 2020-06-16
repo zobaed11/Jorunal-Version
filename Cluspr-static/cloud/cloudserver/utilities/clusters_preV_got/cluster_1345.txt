@@ -1,0 +1,12 @@
+1345
+emulator|.|WET977.txt|.|2|.|WET1671.txt|.|2|.|WET5553.txt|.|1|.|WET4588.txt|.|2|.|WET2124.txt|.|2|.|WET466.txt|.|2|.|WET3018.txt|.|3|.|WET1860.txt|.|28|.|WET3266.txt|.|2|.|WET5704.txt|.|2|.|WET465.txt|.|2|.|WET338.txt|.|1
+private|.|WET3888.txt|.|91|.|WET2888.txt|.|45|.|WET4162.txt|.|25|.|WET6106.txt|.|28|.|WET5388.txt|.|52|.|WET2191.txt|.|93|.|WET4141.txt|.|17|.|WET5684.txt|.|61|.|WET4154.txt|.|60|.|WET3889.txt|.|77|.|WET4133.txt|.|55|.|WET1092.txt|.|30|.|WET5389.txt|.|22|.|WET2190.txt|.|83|.|WET6125.txt|.|181|.|WET5222.txt|.|68|.|WET5325.txt|.|4|.|WET1275.txt|.|132|.|WET1860.txt|.|103|.|WET144.txt|.|71|.|WET6214.txt|.|86|.|WET2937.txt|.|196|.|WET2195.txt|.|30|.|WET5928.txt|.|102|.|WET2381.txt|.|160|.|WET2580.txt|.|128|.|WET4461.txt|.|14|.|WET6126.txt|.|43|.|WET429.txt|.|111|.|WET3706.txt|.|53|.|WET2581.txt|.|99|.|WET234.txt|.|38|.|WET6318.txt|.|66|.|WET2382.txt|.|21|.|WET3136.txt|.|70|.|WET1091.txt|.|142|.|WET2798.txt|.|46|.|WET776.txt|.|47|.|WET4945.txt|.|55|.|WET5237.txt|.|54|.|WET1276.txt|.|53
+bob|.|WET4571.txt|.|31|.|WET3385.txt|.|29|.|WET1343.txt|.|54
+posts private|.|WET1275.txt|.|121|.|WET2581.txt|.|93|.|WET3889.txt|.|69|.|WET776.txt|.|47|.|WET2381.txt|.|149|.|WET1276.txt|.|48|.|WET6125.txt|.|172|.|WET6126.txt|.|40|.|WET5222.txt|.|68|.|WET4154.txt|.|49
+sunnah|.|WET4666.txt|.|2
+standsfountain|.|WET5879.txt|.|10
+donald duck|.|WET1531.txt|.|9
+bmw|.|WET1304.txt|.|318|.|WET4137.txt|.|47|.|WET1305.txt|.|136|.|WET5057.txt|.|299|.|WET5056.txt|.|241|.|WET1306.txt|.|271|.|WET4104.txt|.|57|.|WET6071.txt|.|130
+original sin|.|WET2798.txt|.|28
+bodhi bhikkhu|.|WET4100.txt|.|4
+loyola|.|WET180.txt|.|135|.|WET3927.txt|.|98

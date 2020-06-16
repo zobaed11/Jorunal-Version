@@ -1,0 +1,12 @@
+402
+world heritage centre|.|WET1051.txt|.|303
+deleted|.|WET2707.txt|.|66
+unesco world|.|WET1051.txt|.|222
+sites|.|WET2437.txt|.|4|.|WET1051.txt|.|456|.|WET3251.txt|.|8|.|WET4798.txt|.|238|.|WET5820.txt|.|144|.|WET128.txt|.|8|.|WET362.txt|.|30
+heritage|.|WET1051.txt|.|2418|.|WET4798.txt|.|350|.|WET5744.txt|.|29|.|WET4033.txt|.|78
+kirkhof center|.|WET1972.txt|.|21
+heritage centre|.|WET1051.txt|.|303
+unesco world heritage|.|WET1051.txt|.|218
+world heritage|.|WET1051.txt|.|2011|.|WET4798.txt|.|274
+tigers|.|WET3378.txt|.|50|.|WET4392.txt|.|24
+dragons of middle|.|WET1822.txt|.|13

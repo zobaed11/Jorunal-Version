@@ -1,0 +1,12 @@
+540
+square cushion|.|WET5896.txt|.|12
+ashley|.|WET1762.txt|.|9
+otterbein|.|WET4477.txt|.|56
+tennis tournament|.|WET5700.txt|.|49
+sri lanka|.|WET1762.txt|.|48
+wintersport|.|WET5918.txt|.|21
+sri|.|WET240.txt|.|37|.|WET3986.txt|.|24|.|WET1762.txt|.|54
+mark nicholas|.|WET1762.txt|.|9
+ashley mallett|.|WET1762.txt|.|9
+tennis|.|WET5918.txt|.|27|.|WET1549.txt|.|65|.|WET5690.txt|.|45|.|WET3026.txt|.|111|.|WET1950.txt|.|39|.|WET5700.txt|.|187|.|WET3379.txt|.|28
+new cookbooks|.|WET4997.txt|.|10

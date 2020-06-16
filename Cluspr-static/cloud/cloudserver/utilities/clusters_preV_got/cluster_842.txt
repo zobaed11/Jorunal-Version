@@ -1,0 +1,12 @@
+842
+road dragon|.|WET4103.txt|.|15
+ivy statistics|.|WET4271.txt|.|14
+interactive fitness|.|WET4103.txt|.|15
+mlb|.|WET3045.txt|.|34
+injuries|.|WET4003.txt|.|18
+essentials|.|WET1781.txt|.|16|.|WET2320.txt|.|37
+bureau|.|WET294.txt|.|16|.|WET834.txt|.|24|.|WET4003.txt|.|16|.|WET260.txt|.|4|.|WET1647.txt|.|3|.|WET3593.txt|.|6|.|WET4965.txt|.|8|.|WET3712.txt|.|75|.|WET5087.txt|.|5|.|WET4103.txt|.|12|.|WET259.txt|.|4
+tarleton|.|WET948.txt|.|25
+langstone|.|WET2221.txt|.|18|.|WET5958.txt|.|9
+baseball statistics|.|WET3045.txt|.|6
+violence|.|WET2758.txt|.|19|.|WET2524.txt|.|26

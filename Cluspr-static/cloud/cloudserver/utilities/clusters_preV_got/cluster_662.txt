@@ -1,0 +1,12 @@
+662
+call sign|.|WET1061.txt|.|6
+sells wines|.|WET6197.txt|.|16
+mystic rainbow|.|WET5549.txt|.|5
+sells|.|WET6197.txt|.|44
+ahead|.|WET505.txt|.|3
+lime|.|WET5549.txt|.|106
+please call|.|WET6197.txt|.|70
+call ahead|.|WET505.txt|.|3
+mystic|.|WET5549.txt|.|9
+arc cycle|.|WET505.txt|.|1
+liquor|.|WET6197.txt|.|41

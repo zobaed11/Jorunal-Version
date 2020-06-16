@@ -1,0 +1,12 @@
+802
+app|.|WET4809.txt|.|24|.|WET1364.txt|.|8|.|WET3419.txt|.|19|.|WET5783.txt|.|34|.|WET4178.txt|.|26|.|WET3312.txt|.|19|.|WET987.txt|.|10|.|WET442.txt|.|18|.|WET615.txt|.|22|.|WET1293.txt|.|40|.|WET977.txt|.|27|.|WET4203.txt|.|41|.|WET4941.txt|.|105|.|WET1188.txt|.|116|.|WET2040.txt|.|35|.|WET277.txt|.|11|.|WET1187.txt|.|147|.|WET4940.txt|.|145|.|WET5250.txt|.|20|.|WET1075.txt|.|12|.|WET3791.txt|.|50|.|WET404.txt|.|52|.|WET1499.txt|.|25
+call|.|WET237.txt|.|12|.|WET1873.txt|.|15|.|WET2336.txt|.|22|.|WET505.txt|.|68|.|WET5549.txt|.|140|.|WET6197.txt|.|122|.|WET3234.txt|.|24|.|WET1061.txt|.|12
+downloads|.|WET2047.txt|.|18|.|WET6175.txt|.|148|.|WET6173.txt|.|377|.|WET1187.txt|.|88|.|WET6174.txt|.|373|.|WET2433.txt|.|69|.|WET2432.txt|.|401|.|WET5038.txt|.|114|.|WET338.txt|.|30|.|WET2431.txt|.|371
+toll free|.|WET5038.txt|.|71
+partners|.|WET1574.txt|.|25|.|WET4165.txt|.|22|.|WET5178.txt|.|11
+arutz|.|WET2115.txt|.|25
+nano|.|WET2452.txt|.|26
+downloads k lite pro|.|WET5038.txt|.|4
+download vista|.|WET5038.txt|.|36
+holder|.|WET2729.txt|.|57|.|WET2728.txt|.|40
+toll|.|WET5038.txt|.|71

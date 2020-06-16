@@ -1,0 +1,12 @@
+56
+puget|.|WET2711.txt|.|20
+light filtering|.|WET5081.txt|.|30
+pink|.|WET1135.txt|.|20|.|WET1595.txt|.|162|.|WET5926.txt|.|22
+work area|.|WET5980.txt|.|8
+goto|.|WET3952.txt|.|17|.|WET3105.txt|.|46
+team usa|.|WET3016.txt|.|19
+houliston|.|WET1422.txt|.|16
+protection|.|WET889.txt|.|27|.|WET2338.txt|.|22|.|WET5208.txt|.|56
+stock images|.|WET5428.txt|.|52|.|WET1680.txt|.|53|.|WET5429.txt|.|26|.|WET1681.txt|.|53
+toy garden|.|WET1215.txt|.|25
+teilen|.|WET1329.txt|.|16

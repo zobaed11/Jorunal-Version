@@ -1,0 +1,12 @@
+399
+fly|.|WET2239.txt|.|472|.|WET2583.txt|.|42|.|WET4171.txt|.|19|.|WET1828.txt|.|34|.|WET3445.txt|.|32|.|WET5156.txt|.|11|.|WET2351.txt|.|24
+flights cheap|.|WET3445.txt|.|30
+rod|.|WET2239.txt|.|318
+lawn care|.|WET1947.txt|.|25
+fly rod|.|WET2239.txt|.|57
+casting|.|WET2239.txt|.|114
+fly fishing|.|WET2239.txt|.|120|.|WET2583.txt|.|27
+fly reel|.|WET2239.txt|.|22
+polish|.|WET3997.txt|.|5|.|WET704.txt|.|11
+optical|.|WET3678.txt|.|300|.|WET4599.txt|.|55
+reel|.|WET2239.txt|.|117

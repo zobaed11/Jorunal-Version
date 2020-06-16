@@ -1,0 +1,12 @@
+1246
+kata|.|WET5907.txt|.|50|.|WET4244.txt|.|33|.|WET2168.txt|.|50
+stopped|.|WET501.txt|.|12
+falaholic|.|WET1785.txt|.|43
+remote user|.|WET5752.txt|.|272
+topreplyreplies|.|WET3101.txt|.|120
+katy|.|WET4112.txt|.|132
+sabanero eco|.|WET333.txt|.|73
+biographies|.|WET1103.txt|.|33
+asphalt|.|WET1658.txt|.|14
+sector|.|WET403.txt|.|67
+tags community|.|WET2591.txt|.|12

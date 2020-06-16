@@ -1,0 +1,12 @@
+1018
+hong|.|WET1628.txt|.|20
+hong kong dollarjpy|.|WET1628.txt|.|20
+yuan|.|WET1628.txt|.|20
+dropunder|.|WET1886.txt|.|48
+renminbidkk|.|WET1628.txt|.|20
+visual effects|.|WET3724.txt|.|3
+party favors|.|WET6302.txt|.|20|.|WET5070.txt|.|12
+discountscupcake|.|WET1628.txt|.|10
+supplies google|.|WET1628.txt|.|5
+theme|.|WET3401.txt|.|9|.|WET2599.txt|.|101|.|WET4703.txt|.|26
+party|.|WET2563.txt|.|195|.|WET6301.txt|.|311|.|WET1886.txt|.|64|.|WET548.txt|.|68|.|WET2561.txt|.|196|.|WET5070.txt|.|92|.|WET3766.txt|.|37|.|WET2599.txt|.|230|.|WET3077.txt|.|74|.|WET6302.txt|.|131|.|WET1628.txt|.|120|.|WET1320.txt|.|42|.|WET3631.txt|.|33|.|WET2562.txt|.|301|.|WET3724.txt|.|78

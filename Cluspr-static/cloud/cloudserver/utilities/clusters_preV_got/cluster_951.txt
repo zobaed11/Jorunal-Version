@@ -1,0 +1,12 @@
+951
+dimension implementation|.|WET246.txt|.|6
+plastic surgeon|.|WET3694.txt|.|20
+maria magdalena|.|WET3668.txt|.|21
+kardashians|.|WET4729.txt|.|5
+boiler|.|WET3715.txt|.|7
+separation|.|WET5241.txt|.|23
+surgeon|.|WET3694.txt|.|22
+filipino|.|WET329.txt|.|11|.|WET3990.txt|.|11|.|WET3997.txt|.|5|.|WET3884.txt|.|11|.|WET4446.txt|.|11
+javascript|.|WET6250.txt|.|45|.|WET1240.txt|.|9|.|WET1067.txt|.|106|.|WET2325.txt|.|9|.|WET4729.txt|.|21|.|WET6249.txt|.|166|.|WET3814.txt|.|5|.|WET96.txt|.|9|.|WET2516.txt|.|165|.|WET3715.txt|.|13|.|WET3694.txt|.|22|.|WET5882.txt|.|15|.|WET4817.txt|.|49
+burberry|.|WET1853.txt|.|96
+show additional|.|WET3890.txt|.|50

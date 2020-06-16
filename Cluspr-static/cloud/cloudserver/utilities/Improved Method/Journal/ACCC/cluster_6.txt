@@ -1,0 +1,26 @@
+6
+nie ma|.|WET1965.txt|.|27|.|WET3843.txt|.|7
+friendly|.|WET1622.txt|.|19|.|WET5547.txt|.|116|.|WET4050.txt|.|3|.|WET5546.txt|.|71|.|WET4762.txt|.|687|.|WET2312.txt|.|29
+kid|.|WET5547.txt|.|43|.|WET5546.txt|.|20
+products new|.|WET1758.txt|.|11|.|WET3567.txt|.|18
+nie|.|WET3508.txt|.|51|.|WET1965.txt|.|241|.|WET4547.txt|.|23|.|WET3843.txt|.|47
+social networking|.|WET2016.txt|.|2|.|WET941.txt|.|7|.|WET4913.txt|.|4|.|WET676.txt|.|9|.|WET5756.txt|.|5|.|WET5451.txt|.|2|.|WET3867.txt|.|6|.|WET123.txt|.|2|.|WET4367.txt|.|3|.|WET4499.txt|.|3
+dam|.|WET582.txt|.|36|.|WET1758.txt|.|44
+ma|.|WET1965.txt|.|38|.|WET3153.txt|.|64|.|WET3843.txt|.|20|.|WET1272.txt|.|43
+selle|.|WET1758.txt|.|11
+sport horse|.|WET1758.txt|.|22
+adspecial|.|WET1758.txt|.|44
+yodeya|.|WET545.txt|.|38
+mi|.|WET5547.txt|.|61|.|WET1965.txt|.|65|.|WET545.txt|.|40|.|WET1758.txt|.|132|.|WET5756.txt|.|54
+quarter horse|.|WET1758.txt|.|44
+misje|.|WET1965.txt|.|22
+mi yodeya|.|WET545.txt|.|38
+jest|.|WET1965.txt|.|131|.|WET4400.txt|.|42
+horses for sale|.|WET1758.txt|.|34|.|WET2026.txt|.|34
+horse|.|WET2028.txt|.|130|.|WET5769.txt|.|116|.|WET1562.txt|.|29|.|WET5966.txt|.|19|.|WET5768.txt|.|421|.|WET1758.txt|.|196|.|WET2586.txt|.|16|.|WET2029.txt|.|55|.|WET2026.txt|.|309|.|WET5237.txt|.|77|.|WET1485.txt|.|40
+gluten free|.|WET5547.txt|.|30|.|WET3900.txt|.|11|.|WET1452.txt|.|8|.|WET5200.txt|.|18
+kid friendly|.|WET5547.txt|.|43
+sire|.|WET1758.txt|.|44
+pony|.|WET5494.txt|.|55|.|WET4691.txt|.|12|.|WET1758.txt|.|72
+quarter|.|WET1758.txt|.|55
+horses|.|WET1759.txt|.|19|.|WET5768.txt|.|164|.|WET1758.txt|.|92|.|WET2029.txt|.|76|.|WET2026.txt|.|111

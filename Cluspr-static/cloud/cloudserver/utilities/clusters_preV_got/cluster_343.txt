@@ -1,0 +1,12 @@
+343
+osce|.|WET246.txt|.|102
+stand your ground|.|WET2093.txt|.|22
+grand piano|.|WET29.txt|.|16
+php|.|WET4505.txt|.|52
+rugby league|.|WET3124.txt|.|26
+pid|.|WET4336.txt|.|37
+jimmy beans|.|WET3650.txt|.|43
+pic|.|WET1059.txt|.|84
+pie|.|WET27.txt|.|64
+racquets|.|WET2015.txt|.|24
+alertsschool|.|WET6204.txt|.|10

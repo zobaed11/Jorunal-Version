@@ -1,0 +1,12 @@
+367
+average salary|.|WET5860.txt|.|27|.|WET2119.txt|.|14
+lounge|.|WET1473.txt|.|33|.|WET1715.txt|.|10|.|WET2831.txt|.|13
+world champion royals|.|WET1473.txt|.|33
+lucky eagle|.|WET947.txt|.|18
+champion royals lounge|.|WET1473.txt|.|33
+subaru|.|WET3177.txt|.|83
+benzinga|.|WET1281.txt|.|24
+casino|.|WET1473.txt|.|196|.|WET2225.txt|.|94|.|WET5225.txt|.|97|.|WET5963.txt|.|93|.|WET1472.txt|.|59|.|WET947.txt|.|35
+casino cash|.|WET1473.txt|.|174|.|WET5225.txt|.|85|.|WET1472.txt|.|53
+vuitton|.|WET4995.txt|.|36|.|WET1245.txt|.|8
+business gifts|.|WET6280.txt|.|13

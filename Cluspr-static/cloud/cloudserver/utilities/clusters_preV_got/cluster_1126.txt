@@ -1,0 +1,12 @@
+1126
+stephens|.|WET1059.txt|.|9
+opera blogs|.|WET6292.txt|.|6
+arutz sheva|.|WET2115.txt|.|25
+new game|.|WET6035.txt|.|5
+private pool|.|WET6106.txt|.|16
+granular|.|WET5000.txt|.|2|.|WET3758.txt|.|2|.|WET4945.txt|.|2|.|WET1192.txt|.|4|.|WET2604.txt|.|2
+opinione|.|WET2115.txt|.|1
+pic map|.|WET1059.txt|.|59
+johnson|.|WET3846.txt|.|73
+map|.|WET4385.txt|.|25|.|WET1059.txt|.|74|.|WET1926.txt|.|74|.|WET3994.txt|.|12|.|WET2115.txt|.|161|.|WET2591.txt|.|15|.|WET6106.txt|.|17|.|WET5621.txt|.|12|.|WET2985.txt|.|83|.|WET2098.txt|.|44|.|WET3390.txt|.|16|.|WET6035.txt|.|9|.|WET3564.txt|.|20|.|WET3174.txt|.|26|.|WET5841.txt|.|40|.|WET3846.txt|.|5|.|WET2782.txt|.|57|.|WET2986.txt|.|80|.|WET4618.txt|.|35|.|WET2313.txt|.|22
+sheva|.|WET2115.txt|.|30

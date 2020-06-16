@@ -1,0 +1,12 @@
+384
+mind|.|WET4120.txt|.|20|.|WET760.txt|.|15
+tour help|.|WET3462.txt|.|6|.|WET45.txt|.|20|.|WET4601.txt|.|20|.|WET340.txt|.|14|.|WET4532.txt|.|22|.|WET4369.txt|.|22|.|WET4083.txt|.|16|.|WET629.txt|.|22|.|WET4193.txt|.|18
+mathematics stack|.|WET4369.txt|.|28
+sonicfire pro|.|WET2908.txt|.|54
+round|.|WET2000.txt|.|10|.|WET3358.txt|.|26|.|WET2782.txt|.|29|.|WET5635.txt|.|30|.|WET2419.txt|.|1
+bluetooth|.|WET5805.txt|.|7
+mathematics|.|WET2334.txt|.|20|.|WET224.txt|.|26|.|WET171.txt|.|47|.|WET4369.txt|.|72|.|WET760.txt|.|24|.|WET629.txt|.|59
+nominee|.|WET1485.txt|.|70
+philosophy of mathematics|.|WET760.txt|.|12
+rondeau|.|WET4255.txt|.|15
+greenpeace international|.|WET1959.txt|.|7

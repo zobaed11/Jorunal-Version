@@ -1,0 +1,53 @@
+52
+foreign socket|.|rfc44.txt|.|4|.|rfc121.txt|.|21
+selection rules|.|rfc5014.txt|.|18
+requesting a service|.|rfc129.txt|.|1
+code which indicates|.|rfc119.txt|.|2
+local host|.|rfc44.txt|.|3
+nancy neigus|.|rfc433.txt|.|2
+address structure|.|rfc3493.txt|.|21|.|rfc2133.txt|.|19
+receiving sockets|.|rfc147.txt|.|1
+time by a process|.|rfc147.txt|.|1
+operation on systems|.|rfc3493.txt|.|1
+host specific|.|rfc433.txt|.|1|.|rfc503.txt|.|2
+socket identifier|.|rfc129.txt|.|8
+socket names|.|rfc129.txt|.|4
+output retrieval|.|rfc105.txt|.|2
+network socket|.|rfc147.txt|.|2
+tip news|.|rfc470.txt|.|2
+socket address|.|rfc2553.txt|.|25
+sockets for server|.|rfc503.txt|.|1
+change in socket|.|rfc470.txt|.|1
+socket number|.|rfc76.txt|.|8|.|rfc167.txt|.|16|.|rfc165.txt|.|6|.|rfc74.txt|.|3|.|rfc617.txt|.|10|.|rfc433.txt|.|6|.|rfc121.txt|.|11|.|rfc503.txt|.|9
+rje server|.|rfc407.txt|.|1|.|rfc360.txt|.|2
+useful|.|rfc433.txt|.|1
+default address selection|.|rfc5014.txt|.|21
+sockets identifying|.|rfc147.txt|.|2
+function mapper|.|rfc3338.txt|.|16
+gender|.|rfc129.txt|.|4
+cac|.|rfc76.txt|.|7
+process port|.|rfc167.txt|.|3
+network wide standard functions|.|rfc349.txt|.|2
+address mapper|.|rfc3338.txt|.|12
+news facility|.|rfc470.txt|.|2
+measurement notes|.|rfc388.txt|.|1
+retrieve the input|.|rfc360.txt|.|2
+two cases|.|rfc44.txt|.|2
+ucsb march|.|rfc105.txt|.|8
+bit socket|.|rfc167.txt|.|2
+receive socket|.|rfc36.txt|.|9
+telnet sockets|.|rfc617.txt|.|2
+send socket|.|rfc36.txt|.|6
+nancy|.|rfc433.txt|.|2
+selection preferences|.|rfc5014.txt|.|10
+standard functions|.|rfc349.txt|.|2|.|rfc503.txt|.|2
+experimental functions|.|rfc503.txt|.|2
+closed state|.|rfc119.txt|.|14|.|rfc120.txt|.|13|.|rfc121.txt|.|16
+fortran subprograms|.|rfc119.txt|.|19
+closed|.|rfc119.txt|.|27|.|rfc120.txt|.|26|.|rfc121.txt|.|31|.|rfc467.txt|.|7
+network fortran|.|rfc119.txt|.|19
+new socket|.|rfc470.txt|.|2
+network operations|.|rfc120.txt|.|10
+subprograms|.|rfc119.txt|.|23|.|rfc120.txt|.|20
+socket|.|rfc129.txt|.|38|.|rfc388.txt|.|4|.|rfc167.txt|.|44|.|rfc5014.txt|.|83|.|rfc36.txt|.|76|.|rfc74.txt|.|15|.|rfc451.txt|.|6|.|rfc3338.txt|.|48|.|rfc204.txt|.|4|.|rfc120.txt|.|143|.|rfc354.txt|.|39|.|rfc349.txt|.|7|.|rfc425.txt|.|2|.|rfc4584.txt|.|41|.|rfc617.txt|.|23|.|rfc44.txt|.|20|.|rfc2133.txt|.|111|.|rfc121.txt|.|131|.|rfc2553.txt|.|114|.|rfc398.txt|.|1|.|rfc147.txt|.|28|.|rfc105.txt|.|18|.|rfc165.txt|.|34|.|rfc470.txt|.|7|.|rfc360.txt|.|14|.|rfc492.txt|.|11|.|rfc542.txt|.|44|.|rfc503.txt|.|14|.|rfc3678.txt|.|20|.|rfc322.txt|.|4|.|rfc76.txt|.|18|.|rfc3493.txt|.|126|.|rfc175.txt|.|5|.|rfc119.txt|.|144|.|rfc3094.txt|.|163|.|rfc407.txt|.|13|.|rfc433.txt|.|11|.|rfc3542.txt|.|128|.|rfc38.txt|.|2|.|rfc55.txt|.|39
+connection is established|.|rfc36.txt|.|4

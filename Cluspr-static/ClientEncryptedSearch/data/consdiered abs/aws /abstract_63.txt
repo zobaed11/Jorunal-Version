@@ -1,0 +1,8 @@
+63
+stardock
+font software
+desktop
+kde desktop
+passport
+xfce desktop
+icons

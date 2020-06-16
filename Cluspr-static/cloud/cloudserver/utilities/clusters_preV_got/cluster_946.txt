@@ -1,0 +1,12 @@
+946
+blueprint|.|WET2311.txt|.|22
+senior|.|WET4156.txt|.|49|.|WET3306.txt|.|81|.|WET4669.txt|.|21|.|WET1749.txt|.|149|.|WET5924.txt|.|21|.|WET4182.txt|.|205|.|WET438.txt|.|62|.|WET4639.txt|.|3|.|WET1092.txt|.|17|.|WET1769.txt|.|3|.|WET2369.txt|.|59|.|WET2311.txt|.|16|.|WET4698.txt|.|32
+ekf senior|.|WET3306.txt|.|27
+directions|.|WET5426.txt|.|20|.|WET1406.txt|.|4
+reservation service|.|WET80.txt|.|12
+channel events|.|WET1749.txt|.|5
+post trstek|.|WET2369.txt|.|10
+trstek senior|.|WET2369.txt|.|11
+posts senior|.|WET5924.txt|.|20
+kttz|.|WET4310.txt|.|28
+world championships|.|WET3306.txt|.|18

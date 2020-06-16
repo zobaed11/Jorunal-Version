@@ -1,0 +1,12 @@
+1170
+standard ground|.|WET3013.txt|.|62|.|WET2922.txt|.|18
+filtered|.|WET5148.txt|.|71
+calling cards|.|WET1407.txt|.|16
+yo|.|WET2291.txt|.|18
+team join|.|WET2266.txt|.|16
+yp|.|WET3343.txt|.|56
+za|.|WET1131.txt|.|80|.|WET2822.txt|.|39|.|WET5202.txt|.|117|.|WET3843.txt|.|46
+online exclusive|.|WET1178.txt|.|74|.|WET2220.txt|.|22
+dragon|.|WET4103.txt|.|15|.|WET1739.txt|.|14
+quant|.|WET3079.txt|.|46|.|WET3080.txt|.|52
+elections|.|WET3304.txt|.|64|.|WET6253.txt|.|40|.|WET5435.txt|.|28

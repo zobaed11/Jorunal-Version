@@ -1,0 +1,33 @@
+57
+lexicography february|.|rfc4397.txt|.|18
+te information|.|rfc5316.txt|.|13
+routing extensions|.|rfc4202.txt|.|31
+ason architecture|.|rfc4397.txt|.|6
+component links|.|rfc4220.txt|.|34
+link|.|rfc4397.txt|.|97|.|rfc2125.txt|.|99|.|rfc4389.txt|.|22|.|rfc4362.txt|.|34|.|rfc17a.txt|.|13|.|rfc4974.txt|.|42|.|rfc4591.txt|.|9|.|rfc4885.txt|.|33|.|rfc2710.txt|.|70|.|rfc3786.txt|.|3|.|rfc2328.txt|.|596|.|rfc4204.txt|.|393|.|rfc2461.txt|.|105|.|rfc4840.txt|.|68|.|rfc4291.txt|.|20|.|rfc6107.txt|.|164|.|rfc5311.txt|.|7|.|rfc3849.txt|.|1|.|rfc5679.txt|.|5|.|rfc4755.txt|.|8|.|rfc4577.txt|.|94|.|rfc5305.txt|.|30|.|rfc5458.txt|.|24|.|rfc6085.txt|.|4|.|rfc4946.txt|.|26|.|rfc4903.txt|.|72|.|rfc1954.txt|.|5|.|rfc2563.txt|.|1|.|rfc1970.txt|.|88|.|rfc2178.txt|.|608|.|rfc4944.txt|.|31|.|rfc4202.txt|.|149|.|rfc4135.txt|.|63|.|rfc3021.txt|.|23|.|rfc2529.txt|.|6|.|rfc25.txt|.|4|.|rfc4847.txt|.|42|.|rfc4631.txt|.|200|.|rfc4220.txt|.|274|.|rfc3077.txt|.|78|.|rfc5829.txt|.|57|.|rfc2642.txt|.|655|.|rfc4201.txt|.|127|.|rfc2740.txt|.|343|.|rfc5820.txt|.|60|.|rfc3243.txt|.|11|.|rfc5154.txt|.|28|.|rfc2472.txt|.|27|.|rfc4552.txt|.|24|.|rfc5316.txt|.|56|.|rfc5340.txt|.|394|.|rfc4942.txt|.|13|.|rfc117.txt|.|8|.|rfc5942.txt|.|13|.|rfc4705.txt|.|49|.|rfc4349.txt|.|22|.|rfc4404.txt|.|51|.|rfc4968.txt|.|113|.|rfc5739.txt|.|103|.|rfc3315.txt|.|57|.|rfc2023.txt|.|26|.|rfc3527.txt|.|22|.|rfc3819.txt|.|55|.|rfc4720.txt|.|4|.|rfc3437.txt|.|16|.|rfc4861.txt|.|107|.|rfc533.txt|.|5|.|rfc4887.txt|.|67|.|rfc6130.txt|.|235|.|rfc1989.txt|.|91|.|rfc3883.txt|.|17|.|rfc4394.txt|.|103|.|rfc3821.txt|.|85|.|rfc5325.txt|.|21|.|rfc179.txt|.|4|.|rfc5613.txt|.|5|.|rfc4940.txt|.|27|.|rfc5250.txt|.|13|.|rfc3988.txt|.|13|.|rfc4750.txt|.|171|.|rfc4426.txt|.|157|.|rfc4973.txt|.|147|.|rfc2701.txt|.|13|.|rfc4205.txt|.|42|.|rfc36.txt|.|38|.|rfc5193.txt|.|3|.|rfc3807.txt|.|119|.|rfc2353.txt|.|203|.|rfc5505.txt|.|29|.|rfc104.txt|.|6|.|rfc1981.txt|.|25|.|rfc4213.txt|.|17|.|rfc2823.txt|.|31|.|rfc2469.txt|.|1|.|rfc4795.txt|.|20|.|rfc2973.txt|.|6|.|rfc18.txt|.|3|.|rfc3477.txt|.|42|.|rfc3408.txt|.|5|.|rfc6165.txt|.|5|.|rfc4203.txt|.|57|.|rfc2467.txt|.|2|.|rfc3572.txt|.|4|.|rfc127.txt|.|6|.|rfc5556.txt|.|48|.|rfc4327.txt|.|201|.|rfc317.txt|.|4|.|rfc3020.txt|.|55|.|rfc2470.txt|.|3|.|rfc4165.txt|.|193|.|rfc2.txt|.|60|.|rfc4391.txt|.|38|.|rfc3132.txt|.|28|.|rfc5029.txt|.|13|.|rfc4007.txt|.|72|.|rfc3480.txt|.|39|.|rfc4957.txt|.|75|.|rfc38.txt|.|6|.|rfc508.txt|.|4|.|rfc4436.txt|.|34|.|rfc145.txt|.|6|.|rfc417.txt|.|2|.|rfc5392.txt|.|82|.|rfc23.txt|.|2|.|rfc4058.txt|.|11|.|rfc4943.txt|.|10|.|rfc3626.txt|.|343|.|rfc2686.txt|.|8|.|rfc4837.txt|.|113|.|rfc2855.txt|.|3|.|rfc4260.txt|.|6|.|rfc4209.txt|.|81|.|rfc5121.txt|.|66|.|rfc6217.txt|.|12|.|rfc3684.txt|.|116|.|rfc3366.txt|.|252|.|rfc604.txt|.|10|.|rfc4862.txt|.|36|.|rfc5270.txt|.|44|.|rfc1986.txt|.|21|.|rfc2462.txt|.|29|.|rfc4907.txt|.|480|.|rfc4890.txt|.|57|.|rfc3122.txt|.|11|.|rfc4241.txt|.|6|.|rfc5136.txt|.|63|.|rfc5309.txt|.|24|.|rfc5072.txt|.|35|.|rfc4489.txt|.|1|.|rfc3449.txt|.|129|.|rfc5817.txt|.|58|.|rfc2370.txt|.|5|.|rfc3331.txt|.|112|.|rfc4598.txt|.|22|.|rfc2488.txt|.|26|.|rfc2127.txt|.|19|.|rfc4813.txt|.|5|.|rfc5988.txt|.|105|.|rfc5339.txt|.|58|.|rfc3927.txt|.|64|.|rfc2590.txt|.|22
+capability descriptor|.|rfc4202.txt|.|38
+lexicography|.|rfc4397.txt|.|29
+negotiable|.|rfc4204.txt|.|22|.|rfc5413.txt|.|1
+link interface|.|rfc4397.txt|.|9
+ason lexicography|.|rfc4397.txt|.|18
+te december|.|rfc5316.txt|.|18
+virtual te|.|rfc5339.txt|.|28
+lmp february|.|rfc4394.txt|.|17
+sub tlv|.|rfc5392.txt|.|2|.|rfc5305.txt|.|3|.|rfc4205.txt|.|1|.|rfc4124.txt|.|4|.|rfc3784.txt|.|1|.|rfc5316.txt|.|3|.|rfc5329.txt|.|1
+farrel standards|.|rfc5718.txt|.|8|.|rfc6107.txt|.|30
+routing adjacency|.|rfc6107.txt|.|19
+switching capability descriptor|.|rfc4202.txt|.|38
+ali|.|rfc5817.txt|.|13
+gmpls protocols|.|rfc5339.txt|.|19
+data bearing link|.|rfc4631.txt|.|3
+transport network view|.|rfc4394.txt|.|18
+bearing|.|rfc4327.txt|.|4|.|rfc4631.txt|.|4
+bearing link|.|rfc4327.txt|.|3|.|rfc4631.txt|.|3
+module|.|rfc4108.txt|.|170|.|rfc6087.txt|.|89|.|rfc4070.txt|.|19|.|rfc4087.txt|.|25|.|rfc4273.txt|.|15|.|rfc5833.txt|.|65|.|rfc5249.txt|.|14|.|rfc3727.txt|.|13|.|rfc5591.txt|.|38|.|rfc4671.txt|.|23|.|rfc5912.txt|.|59|.|rfc5240.txt|.|17|.|rfc5602.txt|.|44|.|rfc3549.txt|.|25|.|rfc6240.txt|.|40|.|rfc296.txt|.|29|.|rfc5603.txt|.|50|.|rfc5592.txt|.|29|.|rfc5017.txt|.|7|.|rfc5428.txt|.|21|.|rfc3747.txt|.|64|.|rfc4069.txt|.|19|.|rfc4327.txt|.|113|.|rfc2578.txt|.|66|.|rfc2013.txt|.|6|.|rfc5911.txt|.|37|.|rfc2580.txt|.|56|.|rfc3635.txt|.|27|.|rfc3781.txt|.|47|.|rfc5132.txt|.|37|.|rfc4626.txt|.|22|.|rfc3512.txt|.|88|.|rfc2674.txt|.|21|.|rfc5813.txt|.|23|.|rfc5525.txt|.|60|.|rfc5131.txt|.|10|.|rfc2012.txt|.|6|.|rfc4674.txt|.|15|.|rfc5605.txt|.|21|.|rfc4631.txt|.|115|.|rfc4220.txt|.|80|.|rfc5488.txt|.|40|.|rfc3413.txt|.|38|.|rfc2570.txt|.|19|.|rfc4803.txt|.|59|.|rfc5324.txt|.|107|.|rfc4545.txt|.|70|.|rfc4625.txt|.|16|.|rfc3201.txt|.|21|.|rfc4669.txt|.|24|.|rfc4368.txt|.|42|.|rfc6022.txt|.|49|.|rfc4455.txt|.|82|.|rfc4323.txt|.|28|.|rfc6244.txt|.|28|.|rfc5676.txt|.|23|.|rfc5066.txt|.|57|.|rfc4802.txt|.|40|.|rfc4181.txt|.|86|.|rfc4318.txt|.|11|.|rfc4268.txt|.|8|.|rfc3878.txt|.|22|.|rfc4747.txt|.|18|.|rfc4682.txt|.|47|.|rfc4801.txt|.|11|.|rfc4158.txt|.|32|.|rfc3896.txt|.|15|.|rfc3419.txt|.|22|.|rfc5834.txt|.|70|.|rfc4188.txt|.|25
+te link|.|rfc4397.txt|.|35|.|rfc5392.txt|.|28|.|rfc4203.txt|.|7|.|rfc4327.txt|.|85|.|rfc5316.txt|.|28|.|rfc4394.txt|.|32|.|rfc4204.txt|.|98|.|rfc5817.txt|.|29|.|rfc4202.txt|.|36|.|rfc6107.txt|.|44|.|rfc5339.txt|.|41|.|rfc4631.txt|.|85|.|rfc4220.txt|.|159
+communicate its link|.|rfc4203.txt|.|2
+lmp mib|.|rfc4327.txt|.|7|.|rfc4631.txt|.|7
+link bundle|.|rfc6107.txt|.|21
+gmpls control|.|rfc5828.txt|.|9|.|rfc4394.txt|.|4
+interface switching capability descriptor|.|rfc4202.txt|.|38
+network connection|.|rfc2238.txt|.|12|.|rfc88.txt|.|3|.|rfc216.txt|.|5|.|rfc2126.txt|.|12|.|rfc4394.txt|.|7

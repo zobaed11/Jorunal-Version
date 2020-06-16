@@ -1,0 +1,12 @@
+250
+wit|.|WET803.txt|.|1|.|WET4690.txt|.|1|.|WET3081.txt|.|4|.|WET4625.txt|.|6|.|WET3941.txt|.|5|.|WET531.txt|.|2|.|WET810.txt|.|2|.|WET5880.txt|.|1|.|WET4433.txt|.|1|.|WET4128.txt|.|2|.|WET5101.txt|.|2
+fiction|.|WET72.txt|.|27|.|WET5318.txt|.|32|.|WET4625.txt|.|241|.|WET4562.txt|.|24|.|WET1786.txt|.|60|.|WET1351.txt|.|74
+count|.|WET1309.txt|.|78|.|WET2897.txt|.|37
+atome|.|WET2222.txt|.|2|.|WET5960.txt|.|3
+optical society|.|WET3678.txt|.|98
+easter|.|WET5534.txt|.|72|.|WET3093.txt|.|11|.|WET2432.txt|.|66|.|WET3686.txt|.|260
+playboy|.|WET2669.txt|.|69
+sansa|.|WET1183.txt|.|170|.|WET4936.txt|.|127
+pendidikan agama islam|.|WET3749.txt|.|62
+coming|.|WET72.txt|.|6
+compare side|.|WET5606.txt|.|24|.|WET5605.txt|.|42

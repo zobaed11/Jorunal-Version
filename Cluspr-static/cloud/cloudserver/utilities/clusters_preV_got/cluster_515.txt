@@ -1,0 +1,12 @@
+515
+diocese of fort|.|WET6249.txt|.|22
+archbishop|.|WET6249.txt|.|19
+plastic|.|WET2078.txt|.|38|.|WET3694.txt|.|29
+north texas catholic|.|WET2516.txt|.|41
+diocese|.|WET6249.txt|.|61
+joey|.|WET5278.txt|.|10
+enable javascript|.|WET6250.txt|.|45|.|WET1067.txt|.|92|.|WET2516.txt|.|165|.|WET3694.txt|.|11|.|WET6249.txt|.|166|.|WET5882.txt|.|14|.|WET4817.txt|.|42
+texas catholic|.|WET2516.txt|.|41
+woodruff library|.|WET227.txt|.|135
+fort worth|.|WET2516.txt|.|35|.|WET6249.txt|.|36
+worth|.|WET3363.txt|.|42|.|WET2516.txt|.|36|.|WET6249.txt|.|36

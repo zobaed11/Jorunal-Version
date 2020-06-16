@@ -1,0 +1,12 @@
+181
+wellington|.|WET2979.txt|.|19
+kubota|.|WET204.txt|.|6
+problemsauto|.|WET1685.txt|.|11
+vakitlo|.|WET773.txt|.|6
+idea|.|WET1628.txt|.|20|.|WET2057.txt|.|225|.|WET5801.txt|.|217|.|WET5870.txt|.|27
+greeting|.|WET5235.txt|.|20|.|WET2593.txt|.|148|.|WET876.txt|.|35|.|WET2594.txt|.|40|.|WET3205.txt|.|12|.|WET4616.txt|.|35
+waffles|.|WET5707.txt|.|13
+product family|.|WET5663.txt|.|79|.|WET1923.txt|.|129
+live chat|.|WET4860.txt|.|15|.|WET3606.txt|.|31
+geldof|.|WET5660.txt|.|45
+terminator|.|WET5475.txt|.|8

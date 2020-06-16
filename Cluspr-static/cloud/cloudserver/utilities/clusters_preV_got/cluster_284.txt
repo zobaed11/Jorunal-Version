@@ -1,0 +1,12 @@
+284
+tropical|.|WET3145.txt|.|18|.|WET1193.txt|.|20
+find members|.|WET4132.txt|.|20
+elite member|.|WET393.txt|.|26
+lowongan kerja|.|WET2148.txt|.|26
+recent posts|.|WET429.txt|.|22
+view replies|.|WET1860.txt|.|100|.|WET429.txt|.|110
+gear compression|.|WET187.txt|.|14
+report post|.|WET4132.txt|.|20|.|WET393.txt|.|28
+free online|.|WET429.txt|.|10
+private reply|.|WET1860.txt|.|100|.|WET429.txt|.|110
+salud|.|WET4602.txt|.|15

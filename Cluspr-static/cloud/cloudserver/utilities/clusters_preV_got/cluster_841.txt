@@ -1,0 +1,12 @@
+841
+frontier|.|WET185.txt|.|11
+nhl|.|WET477.txt|.|49|.|WET2704.txt|.|31|.|WET878.txt|.|161|.|WET3123.txt|.|13
+weatherby|.|WET2886.txt|.|48
+nha|.|WET3532.txt|.|21
+frontier army museum|.|WET185.txt|.|11
+center for army|.|WET185.txt|.|11
+nhc|.|WET380.txt|.|16|.|WET6234.txt|.|36
+telegraphic|.|WET2155.txt|.|12
+magasin|.|WET5812.txt|.|2
+magazine pa|.|WET5218.txt|.|58
+faculty|.|WET814.txt|.|19|.|WET4015.txt|.|230|.|WET2229.txt|.|58|.|WET3973.txt|.|61

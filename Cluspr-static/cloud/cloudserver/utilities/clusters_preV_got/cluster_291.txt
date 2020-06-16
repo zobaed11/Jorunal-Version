@@ -1,0 +1,12 @@
+291
+news market|.|WET4115.txt|.|11
+body glove|.|WET1325.txt|.|7
+american tech network|.|WET1325.txt|.|7
+toulouse|.|WET5515.txt|.|78
+cpp files|.|WET174.txt|.|6
+chictopia|.|WET5220.txt|.|39
+checked|.|WET2111.txt|.|21
+checker|.|WET1532.txt|.|11|.|WET1997.txt|.|20|.|WET5830.txt|.|33
+permalink december|.|WET2306.txt|.|30
+pistols|.|WET1139.txt|.|48|.|WET4885.txt|.|186|.|WET1138.txt|.|177
+marine|.|WET2308.txt|.|31|.|WET2306.txt|.|390|.|WET2307.txt|.|35|.|WET2573.txt|.|40|.|WET1032.txt|.|69|.|WET1325.txt|.|98

@@ -1,0 +1,12 @@
+393
+gurus|.|WET1970.txt|.|81|.|WET5710.txt|.|87
+current assets|.|WET1970.txt|.|20
+gurus premium|.|WET1970.txt|.|18
+baltimore ravens|.|WET4610.txt|.|158
+email alerts|.|WET1970.txt|.|45
+navigation|.|WET3174.txt|.|44|.|WET894.txt|.|16|.|WET4494.txt|.|330|.|WET412.txt|.|9|.|WET447.txt|.|10|.|WET3374.txt|.|6|.|WET3175.txt|.|24|.|WET873.txt|.|12|.|WET4743.txt|.|10|.|WET5346.txt|.|10|.|WET4077.txt|.|11
+assets|.|WET1970.txt|.|116
+rank revenue|.|WET5711.txt|.|5
+cash flow|.|WET1970.txt|.|84
+bollywood|.|WET1347.txt|.|80|.|WET5097.txt|.|68|.|WET1346.txt|.|71|.|WET1348.txt|.|42
+stock email|.|WET1970.txt|.|27

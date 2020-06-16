@@ -1,0 +1,12 @@
+76
+gang members|.|WET4652.txt|.|26
+neighborhoods|.|WET4234.txt|.|1|.|WET2845.txt|.|2|.|WET719.txt|.|1|.|WET558.txt|.|2|.|WET2799.txt|.|2|.|WET1331.txt|.|2|.|WET859.txt|.|3|.|WET524.txt|.|2|.|WET4543.txt|.|1|.|WET4197.txt|.|2|.|WET6146.txt|.|2|.|WET5456.txt|.|3|.|WET4278.txt|.|2|.|WET2783.txt|.|2|.|WET4782.txt|.|1|.|WET3075.txt|.|2|.|WET5473.txt|.|2|.|WET5739.txt|.|1|.|WET1491.txt|.|1|.|WET1076.txt|.|1|.|WET798.txt|.|1|.|WET4215.txt|.|2|.|WET5083.txt|.|1|.|WET2818.txt|.|5|.|WET5394.txt|.|1|.|WET5236.txt|.|33|.|WET4550.txt|.|1|.|WET1569.txt|.|1|.|WET1489.txt|.|2|.|WET326.txt|.|1|.|WET3237.txt|.|1|.|WET5590.txt|.|1|.|WET2549.txt|.|1|.|WET1654.txt|.|2|.|WET723.txt|.|2|.|WET3125.txt|.|3|.|WET845.txt|.|1|.|WET969.txt|.|1|.|WET5371.txt|.|4|.|WET3194.txt|.|2|.|WET513.txt|.|1|.|WET3877.txt|.|2|.|WET2199.txt|.|1|.|WET3626.txt|.|2|.|WET1067.txt|.|2|.|WET3007.txt|.|6|.|WET26.txt|.|1|.|WET4890.txt|.|1|.|WET635.txt|.|15|.|WET4237.txt|.|13|.|WET5609.txt|.|1|.|WET3962.txt|.|2
+powerful|.|WET1484.txt|.|10
+houston|.|WET2037.txt|.|66|.|WET4652.txt|.|95|.|WET5236.txt|.|442|.|WET1484.txt|.|341|.|WET5779.txt|.|108
+gang threat|.|WET4652.txt|.|14
+expected|.|WET1484.txt|.|10
+threat|.|WET4652.txt|.|29
+houston chronicle image|.|WET1484.txt|.|159
+alison|.|WET1484.txt|.|84
+powerful thunderstorms|.|WET1484.txt|.|10
+insider|.|WET5236.txt|.|13|.|WET5249.txt|.|18

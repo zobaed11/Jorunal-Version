@@ -1,0 +1,12 @@
+1322
+mobile device|.|WET1574.txt|.|3|.|WET2091.txt|.|2|.|WET3599.txt|.|1|.|WET1896.txt|.|2
+conflicting usernames|.|WET3504.txt|.|22
+nations account|.|WET3504.txt|.|11
+mobile computing|.|WET943.txt|.|40
+mobile user|.|WET4300.txt|.|2|.|WET845.txt|.|2|.|WET873.txt|.|10|.|WET842.txt|.|2|.|WET565.txt|.|2|.|WET4580.txt|.|3|.|WET4021.txt|.|2
+appended|.|WET3504.txt|.|22
+crunch report|.|WET4680.txt|.|14
+reviews mac|.|WET4920.txt|.|4
+marin county|.|WET4580.txt|.|3
+startups|.|WET4680.txt|.|35
+reviews desktop|.|WET4920.txt|.|4

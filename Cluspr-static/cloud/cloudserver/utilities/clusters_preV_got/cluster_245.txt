@@ -1,0 +1,12 @@
+245
+brewing|.|WET1274.txt|.|62|.|WET5026.txt|.|40
+oma|.|WET4079.txt|.|25
+user reviews|.|WET5026.txt|.|6
+quick links|.|WET5026.txt|.|39|.|WET19.txt|.|8|.|WET2968.txt|.|5
+general conspiracy|.|WET1504.txt|.|17|.|WET5256.txt|.|4
+yoga|.|WET5614.txt|.|165|.|WET1875.txt|.|135|.|WET5615.txt|.|93|.|WET1365.txt|.|10
+receitas|.|WET4538.txt|.|22
+smell|.|WET1274.txt|.|70|.|WET4696.txt|.|16
+sweet|.|WET1274.txt|.|20|.|WET5703.txt|.|26|.|WET5078.txt|.|31|.|WET3140.txt|.|16
+clarks|.|WET1402.txt|.|23
+nice|.|WET5026.txt|.|57

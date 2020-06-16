@@ -1,0 +1,12 @@
+92
+personal training|.|WET2057.txt|.|47
+anonymous said|.|WET803.txt|.|160|.|WET3867.txt|.|187|.|WET3381.txt|.|201|.|WET123.txt|.|142
+cda|.|WET2700.txt|.|1|.|WET1105.txt|.|4|.|WET4381.txt|.|2
+cdt|.|WET3382.txt|.|236|.|WET6247.txt|.|34
+cds|.|WET1988.txt|.|80|.|WET5729.txt|.|89
+unavailable|.|WET4291.txt|.|10
+station info|.|WET2266.txt|.|32
+sunoco stamp|.|WET1836.txt|.|52
+carriers|.|WET919.txt|.|113|.|WET3445.txt|.|52|.|WET4656.txt|.|90|.|WET3446.txt|.|50
+protective|.|WET3251.txt|.|32|.|WET1343.txt|.|5|.|WET2950.txt|.|80
+vbulletin message take|.|WET2094.txt|.|11

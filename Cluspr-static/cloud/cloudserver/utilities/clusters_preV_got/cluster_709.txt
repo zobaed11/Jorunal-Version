@@ -1,0 +1,12 @@
+709
+delhi july|.|WET510.txt|.|90
+minnesota|.|WET878.txt|.|36
+personal content|.|WET4485.txt|.|7
+using email|.|WET4792.txt|.|22
+sale add|.|WET6278.txt|.|205|.|WET2543.txt|.|177
+par personne|.|WET5851.txt|.|15
+menlo park|.|WET4899.txt|.|66
+salary report|.|WET2605.txt|.|40
+vista|.|WET3798.txt|.|17|.|WET3729.txt|.|56|.|WET6187.txt|.|89|.|WET2420.txt|.|23|.|WET5038.txt|.|54
+guitars|.|WET1612.txt|.|21
+cancel post|.|WET1217.txt|.|13|.|WET112.txt|.|6

@@ -1,0 +1,12 @@
+1230
+vancouver|.|WET4619.txt|.|46
+grenades|.|WET1139.txt|.|8
+invalid zip code|.|WET1952.txt|.|22
+port wifi|.|WET5457.txt|.|12
+laal|.|WET5661.txt|.|32
+spanish swedish|.|WET3997.txt|.|5
+sale clearance|.|WET5523.txt|.|45|.|WET1788.txt|.|45
+english filipino|.|WET3997.txt|.|5
+college street|.|WET2086.txt|.|12
+reply quote|.|WET890.txt|.|209
+giveaway|.|WET785.txt|.|18|.|WET3010.txt|.|42

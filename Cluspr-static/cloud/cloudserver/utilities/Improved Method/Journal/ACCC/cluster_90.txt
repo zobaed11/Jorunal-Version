@@ -1,0 +1,43 @@
+90
+sprint triathlon|.|WET1118.txt|.|20
+half|.|WET3642.txt|.|11|.|WET3965.txt|.|44|.|WET5151.txt|.|24|.|WET1118.txt|.|35|.|WET1535.txt|.|1|.|WET218.txt|.|41
+distance|.|WET3965.txt|.|11|.|WET1876.txt|.|5|.|WET4914.txt|.|2|.|WET2170.txt|.|25
+road running shoes|.|WET1415.txt|.|20
+couch|.|WET218.txt|.|40
+run|.|WET3965.txt|.|12|.|WET1118.txt|.|10|.|WET218.txt|.|12
+training|.|WET3361.txt|.|10|.|WET1118.txt|.|159|.|WET2716.txt|.|16|.|WET2057.txt|.|120|.|WET2915.txt|.|52|.|WET3783.txt|.|17|.|WET217.txt|.|38|.|WET1476.txt|.|10|.|WET1647.txt|.|176|.|WET3457.txt|.|11|.|WET1473.txt|.|21|.|WET34.txt|.|30|.|WET3965.txt|.|189|.|WET1666.txt|.|40|.|WET3735.txt|.|90|.|WET218.txt|.|174
+approach|.|WET1415.txt|.|50
+training cycling century|.|WET3965.txt|.|11|.|WET218.txt|.|10
+tips|.|WET5955.txt|.|34|.|WET2442.txt|.|36|.|WET1118.txt|.|124|.|WET2097.txt|.|22|.|WET5901.txt|.|14|.|WET2902.txt|.|5|.|WET5718.txt|.|6|.|WET1645.txt|.|19|.|WET5900.txt|.|11|.|WET4978.txt|.|32|.|WET3965.txt|.|137|.|WET5467.txt|.|37|.|WET1724.txt|.|45|.|WET3949.txt|.|47|.|WET218.txt|.|122
+trail running|.|WET218.txt|.|20
+running|.|WET3965.txt|.|112|.|WET1118.txt|.|106|.|WET2797.txt|.|9|.|WET1415.txt|.|161|.|WET5576.txt|.|20|.|WET218.txt|.|107|.|WET5551.txt|.|53
+trail|.|WET4720.txt|.|28|.|WET3965.txt|.|33|.|WET2411.txt|.|11|.|WET198.txt|.|17|.|WET1325.txt|.|14|.|WET218.txt|.|30
+triathlon|.|WET1118.txt|.|66
+training mud run|.|WET3965.txt|.|11|.|WET1118.txt|.|10|.|WET218.txt|.|10
+half marathon training|.|WET1118.txt|.|15
+walking tips running|.|WET3965.txt|.|11|.|WET218.txt|.|10
+road|.|WET2780.txt|.|45|.|WET5468.txt|.|7|.|WET3016.txt|.|8|.|WET635.txt|.|15|.|WET1415.txt|.|40|.|WET2138.txt|.|94|.|WET4103.txt|.|16|.|WET5208.txt|.|37
+walking|.|WET3965.txt|.|22|.|WET5576.txt|.|24|.|WET218.txt|.|21
+olympic distance training|.|WET3965.txt|.|11
+mud runs|.|WET218.txt|.|20
+approach shoes|.|WET1415.txt|.|50
+pain|.|WET1997.txt|.|74|.|WET2337.txt|.|24|.|WET5576.txt|.|96|.|WET1840.txt|.|34|.|WET3883.txt|.|95
+marathon training marathon|.|WET218.txt|.|20
+marathon|.|WET3965.txt|.|88|.|WET1118.txt|.|67|.|WET218.txt|.|82
+running tips|.|WET1118.txt|.|11
+tips bike racing|.|WET3965.txt|.|11
+heel pain|.|WET5576.txt|.|22
+run training trail|.|WET3965.txt|.|11|.|WET218.txt|.|10
+biking|.|WET1118.txt|.|25
+half marathon|.|WET218.txt|.|41
+air max|.|WET5551.txt|.|36
+baths|.|WET5576.txt|.|17
+century|.|WET3965.txt|.|22|.|WET760.txt|.|35|.|WET218.txt|.|20
+running shoes|.|WET5576.txt|.|18
+training marathon training|.|WET3965.txt|.|22|.|WET218.txt|.|20
+backpacking|.|WET1415.txt|.|50
+nike air max|.|WET5551.txt|.|36
+walking shoes|.|WET5576.txt|.|15
+half marathon marathon|.|WET3965.txt|.|22
+shoes running|.|WET5551.txt|.|44
+mud|.|WET3965.txt|.|33|.|WET1118.txt|.|27|.|WET218.txt|.|30

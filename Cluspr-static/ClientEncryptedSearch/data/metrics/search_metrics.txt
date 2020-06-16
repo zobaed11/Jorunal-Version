@@ -1,0 +1,179 @@
+
+...........
+..........
+jason bbc
+.........
+
+5-500-Abstracts Time-latest news update-254
+5-500-Query Time-latest news update-4053
+5-500-Cloud Time-latest news update-3
+5-500-Abstracts Time-news update-110
+5-500-Query Time-news update-2030
+5-500-Cloud Time-news update-5
+5-500-Abstracts Time-top movies-96
+5-500-Query Time-top movies-2485
+5-500-Cloud Time-top movies-23
+5-500-Abstracts Time-attack info-119
+5-500-Query Time-attack info-2059
+5-500-Cloud Time-attack info-6
+5-500-Abstracts Time-endangered species-92
+5-500-Query Time-endangered species-1433
+5-500-Cloud Time-endangered species-9
+5-500-Abstracts Time-champions league-116
+5-500-Query Time-champions league-2084
+5-500-Cloud Time-champions league-7
+5-500-Abstracts Time-world health issue-155
+5-500-Query Time-world health issue-3314
+5-500-Cloud Time-world health issue-16
+5-500-Abstracts Time-people and business-145
+5-500-Query Time-people and business-4310
+5-500-Cloud Time-people and business-6
+5-500-Abstracts Time-recent terrorist attack-98
+5-500-Query Time-recent terrorist attack-3103
+5-500-Cloud Time-recent terrorist attack-4
+5-500-Abstracts Time-european stock exhange-97
+5-500-Query Time-european stock exhange-3545
+5-500-Cloud Time-european stock exhange-11
+5-500-Abstracts Time-score updates-103
+5-500-Query Time-score updates-2706
+5-500-Cloud Time-score updates-7
+5-500-Abstracts Time-endangered animals-82
+5-500-Query Time-endangered animals-1997
+5-500-Cloud Time-endangered animals-6
+5-500-Abstracts Time--19
+....
+my bbc
+...
+
+5-500-Abstracts Time-internet-1265
+5-500-Query Time-internet-1300
+5-500-Cloud Time-internet-5
+5-500-Abstracts Time-session-278
+5-500-Query Time-session-598
+5-500-Cloud Time-session-8
+5-500-Abstracts Time-wireless-210
+5-500-Query Time-wireless-549
+5-500-Cloud Time-wireless-4
+5-500-Abstracts Time-profile-368
+5-500-Query Time-profile-918
+5-500-Cloud Time-profile-5
+5-500-Abstracts Time-network-194
+5-500-Query Time-network-1317
+5-500-Cloud Time-network-8
+5-500-Abstracts Time-network-158
+5-500-Query Time-network-1062
+5-500-Cloud Time-network-7
+5-500-Abstracts Time-network-192
+5-500-Query Time-network-826
+5-500-Cloud Time-network-5
+5-500-Abstracts Time-rsa-255
+5-500-Query Time-rsa-551
+5-500-Cloud Time-rsa-8
+5-500-Abstracts Time-phb june-173
+5-500-Query Time-phb june-2139
+5-500-Cloud Time-phb june-6
+
+....
+accc jason 10
+...
+
+5-500-Abstracts Time-orlando magic-105
+5-500-Query Time-orlando magic-3541
+5-500-Cloud Time-orlando magic-16
+5-500-Abstracts Time-samsung galaxy-92
+5-500-Query Time-samsung galaxy-1939
+5-500-Cloud Time-samsung galaxy-6
+5-500-Abstracts Time-basketball schedule-109
+5-500-Query Time-basketball schedule-1755
+5-500-Cloud Time-basketball schedule-13
+5-500-Abstracts Time-recommendation-100
+5-500-Query Time-recommendation-823
+5-500-Cloud Time-recommendation-9
+5-500-Abstracts Time-north america-107
+5-500-Query Time-north america-1385
+5-500-Cloud Time-north america-6
+5-500-Abstracts Time-tennis tournament-92
+5-500-Query Time-tennis tournament-1782
+5-500-Cloud Time-tennis tournament-12
+5-500-Abstracts Time-holy martyr-110
+5-500-Query Time-holy martyr-1686
+5-500-Cloud Time-holy martyr-15
+
+5-500-Abstracts Time-orthodox church-95
+5-500-Query Time-orthodox church-1633
+5-500-Cloud Time-orthodox church-15
+5-500-Abstracts Time-recent world invention-144
+5-500-Query Time-recent world invention-3392
+5-500-Cloud Time-recent world invention-14
+5-500-Abstracts Time-library-105
+5-500-Query Time-library-605
+5-500-Cloud Time-library-7
+
+....
+acc my 133....
+...
+
+5-500-Abstracts Time-orlando magic-242
+5-500-Query Time-orlando magic-2600
+5-500-Cloud Time-orlando magic-7
+5-500-Abstracts Time-samsung galaxy-201
+5-500-Query Time-samsung galaxy-1629
+5-500-Cloud Time-samsung galaxy-9
+5-500-Abstracts Time-basketball schedules-192
+5-500-Query Time-basketball schedules-1487
+5-500-Cloud Time-basketball schedules-15
+5-500-Abstracts Time-north america-193
+5-500-Query Time-north america-3642
+5-500-Cloud Time-north america-11
+5-500-Abstracts Time-holy martyr-219
+5-500-Query Time-holy martyr-3457
+5-500-Cloud Time-holy martyr-9
+5-500-Abstracts Time-orthodox church-188
+5-500-Query Time-orthodox church-1426
+5-500-Cloud Time-orthodox church-16
+5-500-Abstracts Time-recent world invention-292
+5-500-Query Time-recent world invention-4888
+5-500-Cloud Time-recent world invention-4
+5-500-Abstracts Time-tennis tournament-244
+5-500-Query Time-tennis tournament-1496
+5-500-Cloud Time-tennis tournament-7
+5-500-Abstracts Time-stardock-150
+5-500-Query Time-stardock-545
+5-500-Cloud Time-stardock-11
+5-500-Abstracts Time-library-169
+5-500-Query Time-library-1139
+5-500-Cloud Time-library-7
+5-500-Abstracts Time--0
+5-500-Abstracts Time--10
+5-500-Abstracts Time--5
+5-500-Abstracts Time--13
+5-500-Abstracts Time--17
+5-500-Abstracts Time--7
+5-500-Abstracts Time-bal chal-1434
+5-500-Query Time-bal chal-2323
+5-500-Abstracts Time-mama kapapa-1409
+5-500-Query Time-mama kapapa-2602
+5-500-Abstracts Time-mama kapapa-1510
+5-500-Query Time-mama kapapa-1752
+5-500-Abstracts Time-mama kapa-1798
+5-500-Query Time-mama kapa-3156
+5-500-Cloud Time-mama kapa-5
+5-500-Abstracts Time-news agency-1495
+5-500-Query Time-news agency-1774
+5-500-Cloud Time-news agency-4
+5-500-Abstracts Time-mama kapa-1858
+5-500-Query Time-mama kapa-1560
+5-500-Abstracts Time-mama kapa-1947
+5-500-Query Time-mama kapa-1576
+5-500-Abstracts Time-mama kapa-1356
+5-500-Query Time-mama kapa-1968
+5-500-Abstracts Time-mama kapa-1909
+5-500-Query Time-mama kapa-2239
+5-500-Abstracts Time-mama kapa-1607
+5-500-Query Time-mama kapa-1552
+5-500-Abstracts Time-mama kapa-1829
+5-500-Query Time-mama kapa-2400
+5-500-Abstracts Time-mama kapa-1277
+5-500-Query Time-mama kapa-1814
+5-500-Abstracts Time-mama kapa-1479
+5-500-Query Time-mama kapa-2962

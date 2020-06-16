@@ -1,0 +1,12 @@
+916
+movies|.|WET3222.txt|.|45|.|WET1347.txt|.|11|.|WET1359.txt|.|31|.|WET1565.txt|.|41|.|WET1775.txt|.|38|.|WET5761.txt|.|59|.|WET6162.txt|.|10|.|WET5111.txt|.|25|.|WET1920.txt|.|22|.|WET5312.txt|.|25
+search search|.|WET5961.txt|.|22
+lotions|.|WET2320.txt|.|35|.|WET6061.txt|.|24
+entertainment|.|WET1748.txt|.|6|.|WET3188.txt|.|55|.|WET764.txt|.|29|.|WET3189.txt|.|48|.|WET1338.txt|.|24|.|WET6206.txt|.|17|.|WET5089.txt|.|28|.|WET6035.txt|.|26|.|WET4677.txt|.|19|.|WET2783.txt|.|58|.|WET3190.txt|.|44|.|WET5761.txt|.|54|.|WET1337.txt|.|32|.|WET2469.txt|.|15|.|WET2648.txt|.|15|.|WET692.txt|.|21|.|WET5486.txt|.|27
+price transmission|.|WET2532.txt|.|16
+theater|.|WET3576.txt|.|119|.|WET3575.txt|.|76|.|WET2702.txt|.|33|.|WET5266.txt|.|25|.|WET1284.txt|.|66|.|WET5761.txt|.|219|.|WET3098.txt|.|47|.|WET1285.txt|.|66|.|WET4986.txt|.|29|.|WET1286.txt|.|60|.|WET2021.txt|.|38|.|WET4710.txt|.|15
+home theater|.|WET3576.txt|.|119|.|WET2702.txt|.|33|.|WET1284.txt|.|66|.|WET5761.txt|.|219|.|WET1285.txt|.|66|.|WET1286.txt|.|60|.|WET2021.txt|.|38
+kurv|.|WET5055.txt|.|36
+sports concerts|.|WET3098.txt|.|18
+kurt|.|WET5944.txt|.|64|.|WET2208.txt|.|31
+gifs|.|WET4530.txt|.|70|.|WET789.txt|.|77|.|WET788.txt|.|77

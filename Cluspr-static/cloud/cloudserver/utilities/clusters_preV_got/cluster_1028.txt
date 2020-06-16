@@ -1,0 +1,12 @@
+1028
+voice|.|WET1218.txt|.|23
+read full document|.|WET5134.txt|.|100
+senate|.|WET4247.txt|.|16
+document|.|WET4846.txt|.|12|.|WET4768.txt|.|22|.|WET5134.txt|.|100|.|WET3925.txt|.|30
+touring|.|WET5171.txt|.|15
+full document|.|WET5134.txt|.|100
+paz wrap|.|WET2768.txt|.|15
+video top|.|WET5260.txt|.|3
+wrap|.|WET2768.txt|.|17
+episodes|.|WET5260.txt|.|18|.|WET1508.txt|.|24
+full|.|WET3713.txt|.|38|.|WET1218.txt|.|144|.|WET4629.txt|.|87|.|WET1508.txt|.|26|.|WET5134.txt|.|102|.|WET4247.txt|.|22|.|WET1511.txt|.|75|.|WET5260.txt|.|22|.|WET5171.txt|.|26|.|WET2768.txt|.|46|.|WET541.txt|.|48|.|WET1187.txt|.|38|.|WET5570.txt|.|246|.|WET452.txt|.|15|.|WET4285.txt|.|69

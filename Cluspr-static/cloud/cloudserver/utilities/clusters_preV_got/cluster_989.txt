@@ -1,0 +1,12 @@
+989
+primal blueprint|.|WET2311.txt|.|22
+john kerry|.|WET510.txt|.|107
+toplam|.|WET5497.txt|.|30
+contains|.|WET3532.txt|.|7
+redigera|.|WET3542.txt|.|34
+funeral home|.|WET1252.txt|.|119
+boat type|.|WET3340.txt|.|30|.|WET3339.txt|.|141
+attestation continuous|.|WET3415.txt|.|183
+returns|.|WET2358.txt|.|11|.|WET5614.txt|.|22|.|WET3165.txt|.|19|.|WET3357.txt|.|18|.|WET3708.txt|.|44|.|WET5326.txt|.|23
+drug resistance|.|WET3048.txt|.|9
+interstate|.|WET5393.txt|.|122

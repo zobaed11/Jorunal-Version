@@ -1,0 +1,7 @@
+68
+skin rash|.|WET3316.txt|.|6
+rash|.|WET3316.txt|.|11
+ad wish list|.|WET3316.txt|.|6
+animating|.|WET2804.txt|.|2
+store|.|WET2269.txt|.|37|.|WET5043.txt|.|25|.|WET4239.txt|.|11|.|WET5403.txt|.|12|.|WET5383.txt|.|20|.|WET2721.txt|.|111|.|WET5801.txt|.|33|.|WET710.txt|.|3|.|WET5128.txt|.|50|.|WET6102.txt|.|22|.|WET5133.txt|.|32|.|WET2058.txt|.|20|.|WET3316.txt|.|187|.|WET2040.txt|.|11|.|WET244.txt|.|11|.|WET2041.txt|.|80|.|WET5783.txt|.|11|.|WET319.txt|.|32|.|WET349.txt|.|11|.|WET3649.txt|.|30|.|WET1007.txt|.|253|.|WET4169.txt|.|11|.|WET923.txt|.|38|.|WET4268.txt|.|11|.|WET2804.txt|.|56|.|WET4750.txt|.|186
+price category|.|WET2804.txt|.|2

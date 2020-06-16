@@ -1,0 +1,12 @@
+1346
+talk nyc|.|WET3007.txt|.|5
+mashable|.|WET4367.txt|.|48
+argumentation|.|WET706.txt|.|2|.|WET1179.txt|.|2|.|WET3478.txt|.|2|.|WET4293.txt|.|2|.|WET1721.txt|.|2|.|WET4500.txt|.|2|.|WET4804.txt|.|2
+blog wine|.|WET621.txt|.|3
+social|.|WET443.txt|.|8|.|WET2468.txt|.|12|.|WET528.txt|.|2|.|WET5756.txt|.|15|.|WET621.txt|.|17|.|WET686.txt|.|37|.|WET4500.txt|.|31|.|WET760.txt|.|34|.|WET3712.txt|.|15|.|WET6141.txt|.|2|.|WET199.txt|.|3|.|WET2397.txt|.|2|.|WET4913.txt|.|7|.|WET676.txt|.|10|.|WET5451.txt|.|13|.|WET3867.txt|.|12|.|WET4501.txt|.|11|.|WET6222.txt|.|28|.|WET3685.txt|.|5|.|WET4367.txt|.|55|.|WET4499.txt|.|11|.|WET2016.txt|.|2|.|WET941.txt|.|52|.|WET916.txt|.|35|.|WET4707.txt|.|3|.|WET3503.txt|.|5|.|WET1910.txt|.|16|.|WET4931.txt|.|6|.|WET806.txt|.|6|.|WET5347.txt|.|2|.|WET1967.txt|.|21|.|WET3007.txt|.|12|.|WET896.txt|.|1283|.|WET2524.txt|.|7|.|WET5488.txt|.|3|.|WET1179.txt|.|5|.|WET5691.txt|.|9|.|WET2109.txt|.|13|.|WET4055.txt|.|11|.|WET3255.txt|.|4|.|WET123.txt|.|3
+shot and killed|.|WET2468.txt|.|17
+import cellar|.|WET621.txt|.|3
+philosophy of language|.|WET760.txt|.|13
+book cellar|.|WET621.txt|.|3
+philosophy of mind|.|WET760.txt|.|14
+tools tasting|.|WET621.txt|.|3

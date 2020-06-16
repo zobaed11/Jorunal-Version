@@ -1,0 +1,12 @@
+1184
+american traveler|.|WET3571.txt|.|16
+english translation|.|WET281.txt|.|8
+exercised|.|WET4799.txt|.|9
+traveler|.|WET3571.txt|.|16
+latin american|.|WET6140.txt|.|61
+translation|.|WET281.txt|.|17
+hills|.|WET3851.txt|.|18|.|WET4587.txt|.|5|.|WET927.txt|.|11|.|WET1538.txt|.|4
+simultaneously|.|WET4799.txt|.|9
+water supply|.|WET1160.txt|.|6
+mexican|.|WET1367.txt|.|17
+supply|.|WET5693.txt|.|7|.|WET1160.txt|.|27

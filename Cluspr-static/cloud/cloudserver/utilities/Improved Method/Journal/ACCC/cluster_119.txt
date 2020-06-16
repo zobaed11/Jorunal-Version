@@ -1,0 +1,82 @@
+119
+estimated price|.|WET5845.txt|.|52
+jones indices|.|WET3838.txt|.|20
+data plan|.|WET1688.txt|.|12
+data|.|WET4048.txt|.|5|.|WET4883.txt|.|34|.|WET889.txt|.|56|.|WET5844.txt|.|32|.|WET1048.txt|.|5|.|WET4115.txt|.|55|.|WET1688.txt|.|112|.|WET1849.txt|.|7|.|WET2203.txt|.|35|.|WET3838.txt|.|62|.|WET6077.txt|.|33|.|WET5845.txt|.|114|.|WET4486.txt|.|234
+functions|.|WET4486.txt|.|227
+ksl|.|WET2203.txt|.|32
+chart advanced|.|WET3838.txt|.|10
+view stats|.|WET1849.txt|.|102|.|WET5585.txt|.|51
+aviation|.|WET4883.txt|.|183|.|WET4984.txt|.|19|.|WET1137.txt|.|201|.|WET3621.txt|.|36|.|WET4884.txt|.|71
+delayed|.|WET3838.txt|.|31
+second|.|WET3425.txt|.|8|.|WET4486.txt|.|60|.|WET5805.txt|.|8
+photographers|.|WET4883.txt|.|34
+lens drive|.|WET4486.txt|.|75
+portfolio|.|WET4115.txt|.|11
+create account|.|WET2413.txt|.|7|.|WET6001.txt|.|7|.|WET5845.txt|.|110|.|WET4077.txt|.|9
+yahoo|.|WET3419.txt|.|53|.|WET374.txt|.|89|.|WET902.txt|.|71|.|WET4115.txt|.|107
+safeguards data sheet|.|WET4048.txt|.|4
+create|.|WET5043.txt|.|24|.|WET3616.txt|.|18|.|WET5582.txt|.|70|.|WET5730.txt|.|21|.|WET3993.txt|.|18|.|WET1632.txt|.|3|.|WET1586.txt|.|78|.|WET2413.txt|.|11|.|WET2504.txt|.|7|.|WET6001.txt|.|24|.|WET1986.txt|.|21|.|WET5845.txt|.|111|.|WET4077.txt|.|15
+data protection|.|WET889.txt|.|23
+second set|.|WET4486.txt|.|29
+biddatajson|.|WET5844.txt|.|16
+catch|.|WET5844.txt|.|16
+quotes news|.|WET4115.txt|.|11
+generate|.|WET4486.txt|.|18
+auctions|.|WET5708.txt|.|7|.|WET4781.txt|.|4|.|WET1335.txt|.|2|.|WET5844.txt|.|64|.|WET1483.txt|.|6|.|WET3948.txt|.|10|.|WET2101.txt|.|68
+news market|.|WET4115.txt|.|11
+aviation photo|.|WET4883.txt|.|22
+data delayed|.|WET3838.txt|.|20
+safeguards data|.|WET4048.txt|.|4
+facebook uk|.|WET1849.txt|.|10
+news market data|.|WET4115.txt|.|11
+imaging|.|WET4486.txt|.|58|.|WET5818.txt|.|37
+functions to generate|.|WET4486.txt|.|4
+personal finance|.|WET1835.txt|.|7|.|WET3838.txt|.|20
+search keyword|.|WET1349.txt|.|2|.|WET2261.txt|.|2|.|WET4115.txt|.|10
+adjustable|.|WET4486.txt|.|47
+drive|.|WET27.txt|.|40|.|WET3848.txt|.|40|.|WET4486.txt|.|84
+correction|.|WET4486.txt|.|109
+starting bid|.|WET5844.txt|.|40
+rr|.|WET5844.txt|.|16
+img|.|WET1849.txt|.|21|.|WET4577.txt|.|10
+exchange time|.|WET3838.txt|.|20
+control data|.|WET4486.txt|.|87
+industry|.|WET4883.txt|.|33|.|WET2706.txt|.|24|.|WET1137.txt|.|33|.|WET3190.txt|.|33|.|WET5710.txt|.|27
+hero|.|WET1821.txt|.|38|.|WET5844.txt|.|40
+membership functions|.|WET4486.txt|.|223
+membership|.|WET2057.txt|.|66|.|WET5930.txt|.|10|.|WET4486.txt|.|439
+correction control|.|WET4486.txt|.|103
+lens|.|WET2702.txt|.|56|.|WET5162.txt|.|31|.|WET1674.txt|.|100|.|WET4486.txt|.|165
+quotes news market|.|WET4115.txt|.|11
+fourfourtwo|.|WET1849.txt|.|22
+atoms|.|WET5980.txt|.|2|.|WET798.txt|.|2|.|WET2452.txt|.|15|.|WET6077.txt|.|2|.|WET1859.txt|.|2|.|WET850.txt|.|2
+lot|.|WET2748.txt|.|83|.|WET5638.txt|.|55|.|WET5844.txt|.|65|.|WET3747.txt|.|20|.|WET5845.txt|.|83|.|WET2101.txt|.|120
+intraday|.|WET3838.txt|.|40
+online auctions|.|WET5844.txt|.|24|.|WET1483.txt|.|2|.|WET2101.txt|.|26
+data in rr|.|WET5844.txt|.|16
+imaging member|.|WET4486.txt|.|41
+aircraft data|.|WET4883.txt|.|33
+mediated|.|WET3467.txt|.|2|.|WET752.txt|.|1|.|WET1858.txt|.|1|.|WET3913.txt|.|2|.|WET1183.txt|.|1|.|WET1048.txt|.|3
+safeguards|.|WET4048.txt|.|4
+adjustable imaging|.|WET4486.txt|.|37
+set|.|WET3737.txt|.|45|.|WET2551.txt|.|12|.|WET5349.txt|.|5|.|WET5144.txt|.|47|.|WET2707.txt|.|115|.|WET6113.txt|.|80|.|WET3695.txt|.|75|.|WET4486.txt|.|165|.|WET2975.txt|.|5|.|WET5684.txt|.|129
+local exchange|.|WET3838.txt|.|20
+unlimited|.|WET1688.txt|.|67|.|WET3524.txt|.|50|.|WET5105.txt|.|100|.|WET3764.txt|.|16
+estimated|.|WET5845.txt|.|52
+match|.|WET5584.txt|.|1084|.|WET1849.txt|.|537|.|WET5891.txt|.|24|.|WET1549.txt|.|9|.|WET5585.txt|.|268|.|WET1283.txt|.|132|.|WET3025.txt|.|28|.|WET2872.txt|.|21|.|WET5500.txt|.|94|.|WET2231.txt|.|6|.|WET5499.txt|.|77
+data sheet|.|WET4048.txt|.|4
+control|.|WET928.txt|.|6|.|WET1792.txt|.|46|.|WET3464.txt|.|105|.|WET5332.txt|.|36|.|WET2745.txt|.|24|.|WET5377.txt|.|10|.|WET4805.txt|.|46|.|WET1630.txt|.|52|.|WET4486.txt|.|250
+price data|.|WET5845.txt|.|102
+match centre|.|WET1849.txt|.|536|.|WET5585.txt|.|268
+posted apr|.|WET2202.txt|.|100|.|WET2203.txt|.|60
+catch for hero|.|WET5844.txt|.|16
+indices|.|WET1359.txt|.|22|.|WET3838.txt|.|21
+patient information|.|WET1048.txt|.|13
+chart interactive|.|WET3838.txt|.|10
+intraday data|.|WET3838.txt|.|40
+derbies|.|WET1849.txt|.|24
+bid|.|WET1712.txt|.|139|.|WET5844.txt|.|64|.|WET3656.txt|.|27|.|WET5940.txt|.|90|.|WET1710.txt|.|228|.|WET2101.txt|.|69
+chart|.|WET3838.txt|.|37|.|WET3076.txt|.|15
+var target|.|WET2202.txt|.|22|.|WET2203.txt|.|14
+portfolio my quotes|.|WET4115.txt|.|11

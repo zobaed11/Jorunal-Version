@@ -1,0 +1,12 @@
+864
+recovery manager|.|WET3237.txt|.|6
+site recovery|.|WET3237.txt|.|6
+outfits linen|.|WET5886.txt|.|11
+donna|.|WET5958.txt|.|28
+manager|.|WET3706.txt|.|36|.|WET1201.txt|.|48|.|WET539.txt|.|54|.|WET1946.txt|.|121|.|WET1783.txt|.|12|.|WET4955.txt|.|17|.|WET2403.txt|.|2|.|WET3237.txt|.|22|.|WET2951.txt|.|49|.|WET1512.txt|.|10|.|WET2763.txt|.|10
+bandwidth|.|WET1946.txt|.|274
+chosen to ignore|.|WET5104.txt|.|57
+requests|.|WET4510.txt|.|1|.|WET2245.txt|.|24|.|WET1946.txt|.|26
+rocky athletic|.|WET2787.txt|.|28
+retirement|.|WET4851.txt|.|11|.|WET5691.txt|.|16
+vcloud suite|.|WET3237.txt|.|4

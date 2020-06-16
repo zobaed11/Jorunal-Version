@@ -1,0 +1,12 @@
+865
+whirlpool faucet|.|WET4615.txt|.|24
+category available price|.|WET2009.txt|.|3
+midnight|.|WET2009.txt|.|28
+sink faucets|.|WET4615.txt|.|9
+outdoor lighting shop|.|WET4862.txt|.|33|.|WET1114.txt|.|33
+products hinkley|.|WET2009.txt|.|28
+shopping carts|.|WET1115.txt|.|12
+outdoor dining chairs|.|WET4840.txt|.|8
+outdoor trash|.|WET4862.txt|.|33|.|WET1114.txt|.|33
+midnight est customer|.|WET2009.txt|.|14
+backtracks|.|WET1113.txt|.|4|.|WET5286.txt|.|2

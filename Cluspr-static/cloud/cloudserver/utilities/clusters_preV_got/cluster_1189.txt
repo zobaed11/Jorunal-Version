@@ -1,0 +1,12 @@
+1189
+firm|.|WET1825.txt|.|95|.|WET5331.txt|.|5|.|WET2007.txt|.|122
+law firm|.|WET1825.txt|.|68|.|WET5331.txt|.|5|.|WET2007.txt|.|95
+hemsworth|.|WET5900.txt|.|14|.|WET2159.txt|.|13|.|WET5901.txt|.|9
+law|.|WET5331.txt|.|11|.|WET3748.txt|.|35|.|WET2237.txt|.|63|.|WET4317.txt|.|59|.|WET5968.txt|.|134|.|WET5559.txt|.|236|.|WET2578.txt|.|18|.|WET2007.txt|.|289|.|WET4500.txt|.|8|.|WET760.txt|.|11|.|WET4403.txt|.|37|.|WET2232.txt|.|94|.|WET5967.txt|.|81|.|WET1825.txt|.|219|.|WET6290.txt|.|48|.|WET5969.txt|.|53|.|WET2109.txt|.|9|.|WET2229.txt|.|291|.|WET3477.txt|.|116|.|WET4501.txt|.|2|.|WET2231.txt|.|186|.|WET3657.txt|.|145|.|WET575.txt|.|77
+lawyers|.|WET1825.txt|.|169|.|WET2511.txt|.|61
+dictionaries law|.|WET6290.txt|.|8
+student life|.|WET3477.txt|.|9
+keywords match|.|WET2231.txt|.|3
+law review|.|WET5969.txt|.|14
+contracts|.|WET6290.txt|.|9
+archives and web|.|WET2237.txt|.|2

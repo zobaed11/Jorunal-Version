@@ -1,0 +1,12 @@
+91
+fragrance|.|WET3227.txt|.|24|.|WET5103.txt|.|30|.|WET5012.txt|.|39|.|WET6200.txt|.|38|.|WET5010.txt|.|180
+tech report|.|WET4682.txt|.|40
+crutchfield|.|WET5326.txt|.|136
+occurred|.|WET4907.txt|.|30
+type fragrance|.|WET6200.txt|.|7
+body wash|.|WET5010.txt|.|33
+wash|.|WET6183.txt|.|17|.|WET3861.txt|.|1|.|WET5010.txt|.|47
+sua conta|.|WET3406.txt|.|4
+shower gel|.|WET5010.txt|.|25
+essential oils|.|WET5010.txt|.|77
+dropdown|.|WET5010.txt|.|36

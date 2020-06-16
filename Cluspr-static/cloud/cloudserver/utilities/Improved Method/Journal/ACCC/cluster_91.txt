@@ -1,0 +1,70 @@
+91
+habitat|.|WET4294.txt|.|6|.|WET4977.txt|.|27
+hall|.|WET1939.txt|.|27|.|WET1429.txt|.|52|.|WET821.txt|.|258|.|WET5638.txt|.|227|.|WET4015.txt|.|215|.|WET1471.txt|.|27
+stack overflow|.|WET647.txt|.|35|.|WET45.txt|.|32|.|WET646.txt|.|73|.|WET4601.txt|.|42|.|WET340.txt|.|22|.|WET1041.txt|.|28|.|WET4387.txt|.|74|.|WET3410.txt|.|92|.|WET4388.txt|.|51|.|WET4369.txt|.|33|.|WET4083.txt|.|24|.|WET629.txt|.|35
+simple|.|WET2749.txt|.|28|.|WET4977.txt|.|16
+machine learning techniques|.|WET1040.txt|.|2
+faculty|.|WET814.txt|.|19|.|WET4015.txt|.|230|.|WET2229.txt|.|58|.|WET3973.txt|.|61
+skills|.|WET1733.txt|.|254
+cloud|.|WET180.txt|.|21|.|WET4583.txt|.|138|.|WET1574.txt|.|23|.|WET1040.txt|.|129|.|WET5832.txt|.|31|.|WET4741.txt|.|120|.|WET4593.txt|.|60
+active learning|.|WET4015.txt|.|2
+assistant professor faculty|.|WET4015.txt|.|40
+exercises|.|WET3665.txt|.|60
+fellows|.|WET4015.txt|.|46
+devops|.|WET1040.txt|.|86
+context|.|WET4593.txt|.|1
+fellows hall|.|WET4015.txt|.|44
+communication|.|WET1187.txt|.|9|.|WET1733.txt|.|84
+using|.|WET3503.txt|.|17|.|WET4792.txt|.|88|.|WET3547.txt|.|24|.|WET4346.txt|.|11|.|WET4758.txt|.|42|.|WET1600.txt|.|20|.|WET1733.txt|.|104|.|WET3470.txt|.|8|.|WET5858.txt|.|6|.|WET3683.txt|.|22
+learning activity|.|WET4977.txt|.|3
+educational|.|WET3047.txt|.|11|.|WET3966.txt|.|2|.|WET2970.txt|.|9|.|WET4242.txt|.|198|.|WET3367.txt|.|14|.|WET4990.txt|.|11|.|WET3048.txt|.|3|.|WET219.txt|.|6
+central campus|.|WET4015.txt|.|231
+skills helps|.|WET1733.txt|.|95
+flash storage|.|WET4258.txt|.|2
+campus|.|WET2899.txt|.|41|.|WET2779.txt|.|7|.|WET3732.txt|.|42|.|WET1143.txt|.|72|.|WET4891.txt|.|40|.|WET5982.txt|.|63|.|WET6308.txt|.|78|.|WET4015.txt|.|349|.|WET1063.txt|.|69|.|WET1972.txt|.|61|.|WET3166.txt|.|57
+loans|.|WET1236.txt|.|47|.|WET3367.txt|.|20|.|WET3655.txt|.|47
+started evaluate|.|WET4593.txt|.|10
+edt reads|.|WET4786.txt|.|36|.|WET1040.txt|.|36
+community learning|.|WET2849.txt|.|2|.|WET3367.txt|.|2
+imagination|.|WET1733.txt|.|105
+bookmark|.|WET3665.txt|.|158
+learning exercises|.|WET3665.txt|.|60
+system|.|WET4522.txt|.|12|.|WET3781.txt|.|5|.|WET146.txt|.|5|.|WET4370.txt|.|9|.|WET442.txt|.|3|.|WET3575.txt|.|48|.|WET4421.txt|.|29|.|WET1946.txt|.|238|.|WET6256.txt|.|30|.|WET1583.txt|.|15|.|WET2291.txt|.|17|.|WET752.txt|.|31|.|WET4832.txt|.|265|.|WET930.txt|.|10|.|WET3660.txt|.|9|.|WET3576.txt|.|67|.|WET1792.txt|.|62|.|WET4541.txt|.|20|.|WET3915.txt|.|33|.|WET3710.txt|.|110|.|WET1686.txt|.|23|.|WET2931.txt|.|36|.|WET5669.txt|.|7|.|WET1161.txt|.|12|.|WET83.txt|.|11|.|WET3085.txt|.|5|.|WET3411.txt|.|32|.|WET5581.txt|.|14|.|WET3410.txt|.|37|.|WET4754.txt|.|19|.|WET6030.txt|.|33|.|WET3618.txt|.|14|.|WET4962.txt|.|19|.|WET5391.txt|.|3
+techniques|.|WET1040.txt|.|3
+helps|.|WET5613.txt|.|22|.|WET1733.txt|.|260
+bookmark collection|.|WET3665.txt|.|85
+evaluate|.|WET4593.txt|.|18
+tense|.|WET4977.txt|.|12
+child|.|WET2360.txt|.|44|.|WET2361.txt|.|16|.|WET5309.txt|.|50|.|WET1733.txt|.|537|.|WET6105.txt|.|13|.|WET577.txt|.|482
+motor|.|WET1733.txt|.|86
+service learning|.|WET2318.txt|.|1
+cloud expo|.|WET1040.txt|.|44
+enjoy|.|WET1733.txt|.|240
+learning|.|WET4258.txt|.|5|.|WET3665.txt|.|148|.|WET4490.txt|.|11|.|WET2318.txt|.|8|.|WET4593.txt|.|7|.|WET2849.txt|.|8|.|WET3411.txt|.|72|.|WET1040.txt|.|14|.|WET4015.txt|.|30|.|WET3410.txt|.|81|.|WET1733.txt|.|188|.|WET3367.txt|.|7|.|WET4977.txt|.|15|.|WET5419.txt|.|7
+helps your child|.|WET1733.txt|.|260
+interested in learning|.|WET3411.txt|.|40|.|WET3410.txt|.|45
+bibliography|.|WET4490.txt|.|11
+resource allocation|.|WET1946.txt|.|4|.|WET3409.txt|.|2|.|WET3410.txt|.|3
+central|.|WET3504.txt|.|34|.|WET796.txt|.|15|.|WET4015.txt|.|233|.|WET3104.txt|.|83|.|WET4831.txt|.|14|.|WET643.txt|.|15|.|WET3237.txt|.|6|.|WET3105.txt|.|79|.|WET4693.txt|.|43|.|WET3883.txt|.|12|.|WET4922.txt|.|98
+professor faculty|.|WET4015.txt|.|88
+operating|.|WET4522.txt|.|4|.|WET3781.txt|.|6|.|WET146.txt|.|4|.|WET2548.txt|.|3|.|WET3998.txt|.|2|.|WET6310.txt|.|2|.|WET2420.txt|.|4|.|WET338.txt|.|6|.|WET442.txt|.|2|.|WET4421.txt|.|8|.|WET6256.txt|.|28|.|WET1583.txt|.|4|.|WET2291.txt|.|14|.|WET752.txt|.|4|.|WET5603.txt|.|2|.|WET4832.txt|.|62|.|WET3151.txt|.|2|.|WET930.txt|.|3|.|WET3660.txt|.|2|.|WET1122.txt|.|3|.|WET5669.txt|.|6|.|WET1161.txt|.|16|.|WET334.txt|.|3|.|WET3085.txt|.|2|.|WET2091.txt|.|6|.|WET3411.txt|.|16|.|WET1865.txt|.|3|.|WET5581.txt|.|11|.|WET3410.txt|.|18|.|WET1488.txt|.|2|.|WET4754.txt|.|6|.|WET6030.txt|.|27|.|WET5391.txt|.|2
+expo|.|WET1040.txt|.|46
+educational agencies|.|WET3367.txt|.|6
+communication skills|.|WET1733.txt|.|84
+present tense|.|WET4977.txt|.|11
+allocation|.|WET1946.txt|.|192|.|WET3409.txt|.|2|.|WET3410.txt|.|3
+operating system|.|WET3660.txt|.|2|.|WET3781.txt|.|4|.|WET146.txt|.|4|.|WET5669.txt|.|6|.|WET442.txt|.|2|.|WET1161.txt|.|12|.|WET3085.txt|.|2|.|WET4421.txt|.|4|.|WET6256.txt|.|25|.|WET1583.txt|.|3|.|WET3411.txt|.|8|.|WET2291.txt|.|14|.|WET5581.txt|.|7|.|WET3410.txt|.|9|.|WET4754.txt|.|2|.|WET6030.txt|.|27|.|WET4832.txt|.|53|.|WET5391.txt|.|2|.|WET930.txt|.|3
+assistant|.|WET4015.txt|.|139
+reads|.|WET4786.txt|.|37|.|WET5003.txt|.|5|.|WET1040.txt|.|37
+peel|.|WET4490.txt|.|3
+staff|.|WET3696.txt|.|29|.|WET185.txt|.|38|.|WET2797.txt|.|9|.|WET4015.txt|.|278|.|WET961.txt|.|19|.|WET4762.txt|.|637
+machine learning|.|WET4258.txt|.|5|.|WET4593.txt|.|2
+motor skills|.|WET1733.txt|.|86
+facilities services|.|WET4015.txt|.|105
+simple present|.|WET4977.txt|.|12
+guidance|.|WET3367.txt|.|53
+machine|.|WET564.txt|.|7|.|WET4258.txt|.|6|.|WET420.txt|.|3|.|WET1040.txt|.|13|.|WET4593.txt|.|2|.|WET1713.txt|.|1|.|WET5938.txt|.|3
+enjoy using|.|WET1733.txt|.|100
+interested|.|WET3411.txt|.|152|.|WET5467.txt|.|27|.|WET3410.txt|.|171
+learning services|.|WET4490.txt|.|11
+facilities|.|WET1454.txt|.|50|.|WET4015.txt|.|112

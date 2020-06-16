@@ -1,0 +1,12 @@
+686
+mcq alexander mcqueen|.|WET2851.txt|.|44
+quick look|.|WET1568.txt|.|345|.|WET2851.txt|.|60|.|WET2373.txt|.|20|.|WET5316.txt|.|240
+look add|.|WET2851.txt|.|60
+mcq alexander|.|WET2851.txt|.|44
+ships|.|WET1568.txt|.|256|.|WET2646.txt|.|28|.|WET1202.txt|.|31|.|WET3835.txt|.|63|.|WET1386.txt|.|9|.|WET1157.txt|.|13|.|WET4957.txt|.|28|.|WET1493.txt|.|53|.|WET1203.txt|.|59|.|WET5404.txt|.|50|.|WET1656.txt|.|50
+alexander|.|WET2851.txt|.|46
+stools|.|WET5316.txt|.|61
+look|.|WET1568.txt|.|347|.|WET2851.txt|.|60|.|WET2373.txt|.|22|.|WET5651.txt|.|51|.|WET489.txt|.|6|.|WET5315.txt|.|111|.|WET5940.txt|.|10|.|WET5316.txt|.|244|.|WET5141.txt|.|23
+compare view|.|WET1568.txt|.|345|.|WET5316.txt|.|240
+compared|.|WET1568.txt|.|345|.|WET5316.txt|.|240
+compared quick|.|WET1568.txt|.|345|.|WET5316.txt|.|240

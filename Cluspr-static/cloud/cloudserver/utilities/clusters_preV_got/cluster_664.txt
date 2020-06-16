@@ -1,0 +1,12 @@
+664
+add to shelves|.|WET5684.txt|.|60
+locationconditionformat|.|WET5684.txt|.|60
+trib|.|WET983.txt|.|30
+swivel|.|WET1287.txt|.|19
+public administration|.|WET1465.txt|.|7
+latest headlines|.|WET1383.txt|.|48|.|WET2406.txt|.|86
+trim|.|WET3589.txt|.|129
+apartman|.|WET3362.txt|.|57
+fiat|.|WET4113.txt|.|34
+registered user regular|.|WET3452.txt|.|46
+finest call|.|WET5549.txt|.|137

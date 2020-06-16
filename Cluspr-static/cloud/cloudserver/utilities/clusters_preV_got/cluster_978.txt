@@ -1,0 +1,12 @@
+978
+linking policy|.|WET5741.txt|.|1
+facebook twitter|.|WET3786.txt|.|7|.|WET3923.txt|.|33|.|WET2239.txt|.|11|.|WET4374.txt|.|72|.|WET2718.txt|.|3|.|WET4435.txt|.|26|.|WET4442.txt|.|5|.|WET5790.txt|.|4|.|WET457.txt|.|4|.|WET4259.txt|.|13|.|WET4649.txt|.|8|.|WET5741.txt|.|43|.|WET1776.txt|.|24|.|WET4352.txt|.|6
+linking|.|WET5741.txt|.|1
+help user|.|WET3923.txt|.|2
+coach facebook|.|WET4374.txt|.|69
+scope|.|WET3923.txt|.|2
+caption|.|WET2720.txt|.|36
+keyword will search|.|WET4442.txt|.|1
+wing bowl|.|WET4811.txt|.|33
+privacy contact|.|WET4649.txt|.|8
+ric|.|WET3071.txt|.|10

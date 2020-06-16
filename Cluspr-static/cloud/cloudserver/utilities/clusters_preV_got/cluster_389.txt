@@ -1,0 +1,12 @@
+389
+haven|.|WET5638.txt|.|83
+gameschalkendurancecflmore|.|WET4095.txt|.|10|.|WET351.txt|.|11
+skip directly|.|WET1448.txt|.|32
+inherited|.|WET871.txt|.|73|.|WET302.txt|.|12
+john hall|.|WET5638.txt|.|152
+gmc truck|.|WET5425.txt|.|25
+hall|.|WET1939.txt|.|27|.|WET1429.txt|.|52|.|WET821.txt|.|258|.|WET5638.txt|.|227|.|WET4015.txt|.|215|.|WET1471.txt|.|27
+shoulder|.|WET2679.txt|.|38|.|WET1378.txt|.|18
+dance|.|WET3654.txt|.|6|.|WET5695.txt|.|32
+carnegie|.|WET1429.txt|.|31|.|WET2604.txt|.|11
+cheese|.|WET1964.txt|.|43|.|WET187.txt|.|150|.|WET2063.txt|.|594|.|WET5806.txt|.|183

@@ -1,0 +1,12 @@
+1025
+golf bags|.|WET5680.txt|.|78|.|WET1941.txt|.|64
+steak|.|WET1461.txt|.|12
+marshall|.|WET916.txt|.|43
+tee|.|WET1940.txt|.|47|.|WET1941.txt|.|55|.|WET2211.txt|.|11
+balls|.|WET5680.txt|.|154|.|WET2915.txt|.|48|.|WET1941.txt|.|132|.|WET2015.txt|.|28
+golf balls|.|WET5680.txt|.|99|.|WET1941.txt|.|87
+free rcu|.|WET2746.txt|.|27
+varietal|.|WET3296.txt|.|18|.|WET3298.txt|.|9|.|WET3297.txt|.|20
+wine clubs|.|WET3298.txt|.|22|.|WET3297.txt|.|40
+personalized|.|WET5679.txt|.|108|.|WET1161.txt|.|33|.|WET3077.txt|.|69|.|WET2634.txt|.|194|.|WET5969.txt|.|116|.|WET5546.txt|.|74|.|WET5069.txt|.|14|.|WET3711.txt|.|19
+palmer steak|.|WET1461.txt|.|11

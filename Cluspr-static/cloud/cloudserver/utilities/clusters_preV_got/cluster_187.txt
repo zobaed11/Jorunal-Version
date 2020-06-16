@@ -1,0 +1,12 @@
+187
+repair man|.|WET46.txt|.|66
+samurai appliance repair|.|WET46.txt|.|66
+appliance repair|.|WET3793.txt|.|62|.|WET46.txt|.|138
+tiny|.|WET1960.txt|.|7
+cards gift|.|WET5037.txt|.|18
+yalan|.|WET3136.txt|.|51
+appliance parts|.|WET46.txt|.|13
+dryer filters|.|WET3681.txt|.|7
+supreme|.|WET170.txt|.|51|.|WET3273.txt|.|13
+gentle foaming|.|WET1260.txt|.|97
+triangle|.|WET631.txt|.|66

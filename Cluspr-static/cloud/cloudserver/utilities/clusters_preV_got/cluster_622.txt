@@ -1,0 +1,12 @@
+622
+gear buying|.|WET6172.txt|.|60
+violent|.|WET112.txt|.|6
+wheels|.|WET4623.txt|.|14|.|WET2138.txt|.|29|.|WET2073.txt|.|80|.|WET5815.txt|.|44
+info join|.|WET744.txt|.|10
+related|.|WET1321.txt|.|58|.|WET5051.txt|.|16|.|WET3794.txt|.|80|.|WET6172.txt|.|60|.|WET3598.txt|.|20|.|WET4466.txt|.|13|.|WET1055.txt|.|15|.|WET3422.txt|.|24|.|WET5884.txt|.|18|.|WET3871.txt|.|10|.|WET3703.txt|.|18|.|WET5348.txt|.|10|.|WET127.txt|.|11|.|WET1408.txt|.|36|.|WET2592.txt|.|30|.|WET5049.txt|.|35
+shop accessories|.|WET6172.txt|.|65
+applied|.|WET2334.txt|.|12|.|WET4501.txt|.|7
+profootballtalk|.|WET2794.txt|.|27
+love inspired|.|WET4065.txt|.|22
+england lawn|.|WET5700.txt|.|80
+lucasforums|.|WET6019.txt|.|33|.|WET2281.txt|.|21|.|WET603.txt|.|29

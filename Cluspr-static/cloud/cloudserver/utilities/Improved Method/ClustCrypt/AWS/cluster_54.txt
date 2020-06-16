@@ -1,0 +1,24 @@
+body care|.|WET1260.txt|.|17
+scraped|.|WET5804.txt|.|46
+foaming|.|WET1260.txt|.|106
+signature collection|.|WET5011.txt|.|14
+mailboxes|.|WET1115.txt|.|32
+foaming hand|.|WET1260.txt|.|90
+cream|.|WET1322.txt|.|18|.|WET3633.txt|.|13|.|WET5011.txt|.|38
+hand scraped|.|WET5804.txt|.|46
+bathroom faucets|.|WET1798.txt|.|16
+foaming soap|.|WET1260.txt|.|14
+mailbox|.|WET1115.txt|.|8
+tools hand|.|WET1115.txt|.|8
+refills|.|WET5012.txt|.|20|.|WET5011.txt|.|61
+carts|.|WET5748.txt|.|10|.|WET1115.txt|.|36
+compare click|.|WET5804.txt|.|21
+hand soap|.|WET1260.txt|.|84
+shopping carts|.|WET1115.txt|.|12
+mailboxes shop|.|WET1115.txt|.|8
+scentportable refills|.|WET5011.txt|.|14
+scentportable|.|WET5011.txt|.|20
+gentle foaming|.|WET1260.txt|.|97
+soap|.|WET4006.txt|.|68|.|WET1260.txt|.|124
+mount mailboxes|.|WET1115.txt|.|16
+hand|.|WET5804.txt|.|46|.|WET1798.txt|.|46|.|WET1260.txt|.|121|.|WET5011.txt|.|105|.|WET1115.txt|.|44

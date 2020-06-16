@@ -1,0 +1,26 @@
+106
+sprint triathlon|.|WET1118.txt|.|20
+half|.|WET3642.txt|.|11|.|WET3965.txt|.|44|.|WET5151.txt|.|24|.|WET1118.txt|.|35|.|WET1535.txt|.|1|.|WET218.txt|.|41
+couch|.|WET218.txt|.|40
+run|.|WET3965.txt|.|12|.|WET1118.txt|.|10|.|WET218.txt|.|12
+approach|.|WET1415.txt|.|50
+trail running|.|WET218.txt|.|20
+running|.|WET3965.txt|.|112|.|WET1118.txt|.|106|.|WET2797.txt|.|9|.|WET1415.txt|.|161|.|WET5576.txt|.|20|.|WET218.txt|.|107|.|WET5551.txt|.|53
+triathlon|.|WET1118.txt|.|66
+training mud run|.|WET3965.txt|.|11|.|WET1118.txt|.|10|.|WET218.txt|.|10
+half marathon training|.|WET1118.txt|.|15
+walking tips running|.|WET3965.txt|.|11|.|WET218.txt|.|10
+olympic distance training|.|WET3965.txt|.|11
+mud runs|.|WET218.txt|.|20
+approach shoes|.|WET1415.txt|.|50
+marathon training marathon|.|WET218.txt|.|20
+marathon|.|WET3965.txt|.|88|.|WET1118.txt|.|67|.|WET218.txt|.|82
+running tips|.|WET1118.txt|.|11
+tips bike racing|.|WET3965.txt|.|11
+run training trail|.|WET3965.txt|.|11|.|WET218.txt|.|10
+biking|.|WET1118.txt|.|25
+half marathon|.|WET218.txt|.|41
+century|.|WET3965.txt|.|22|.|WET760.txt|.|35|.|WET218.txt|.|20
+backpacking|.|WET1415.txt|.|50
+half marathon marathon|.|WET3965.txt|.|22
+mud|.|WET3965.txt|.|33|.|WET1118.txt|.|27|.|WET218.txt|.|30

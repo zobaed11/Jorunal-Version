@@ -1,0 +1,12 @@
+usa|.|WET3971.txt|.|16|.|WET3016.txt|.|199|.|WET5159.txt|.|96|.|WET1407.txt|.|57|.|WET2550.txt|.|333
+giant slalom|.|WET3016.txt|.|10
+forced|.|WET5159.txt|.|36
+usa wrestling|.|WET3016.txt|.|13
+giant|.|WET3016.txt|.|10
+rio|.|WET3016.txt|.|15
+road to rio|.|WET3016.txt|.|8
+wrestling|.|WET3016.txt|.|24
+ski resorts|.|WET2550.txt|.|57
+polo usa water|.|WET3016.txt|.|4
+slalom|.|WET3016.txt|.|30
+snow reports|.|WET2550.txt|.|52

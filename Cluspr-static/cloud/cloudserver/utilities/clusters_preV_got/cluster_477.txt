@@ -1,0 +1,12 @@
+477
+patio|.|WET1322.txt|.|61|.|WET4862.txt|.|88|.|WET1114.txt|.|88
+sanding|.|WET4414.txt|.|2|.|WET2992.txt|.|1|.|WET5106.txt|.|3|.|WET5815.txt|.|3|.|WET22.txt|.|2
+sang|.|WET857.txt|.|8
+garden chiang|.|WET857.txt|.|8
+booked|.|WET5106.txt|.|22
+botanical|.|WET5106.txt|.|49
+bungalow|.|WET857.txt|.|8
+botanical garden|.|WET5106.txt|.|11
+chiang|.|WET857.txt|.|16
+fully|.|WET2574.txt|.|52|.|WET5106.txt|.|22
+toy|.|WET1215.txt|.|25

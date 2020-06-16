@@ -1,0 +1,12 @@
+1100
+membre marriott rewards|.|WET6057.txt|.|8
+arne|.|WET2313.txt|.|8
+points discover|.|WET2313.txt|.|8
+marriott|.|WET6056.txt|.|252|.|WET6057.txt|.|101|.|WET2314.txt|.|75|.|WET2313.txt|.|255|.|WET2312.txt|.|334
+earn|.|WET2313.txt|.|8
+pet friendly|.|WET2312.txt|.|29
+inappropriate review|.|WET5440.txt|.|21
+holiday|.|WET3616.txt|.|30|.|WET5534.txt|.|99|.|WET838.txt|.|24|.|WET1558.txt|.|22|.|WET5810.txt|.|276|.|WET2069.txt|.|56|.|WET108.txt|.|17|.|WET3643.txt|.|110|.|WET4869.txt|.|12
+destination openreservations|.|WET2313.txt|.|8
+rewards|.|WET6056.txt|.|179|.|WET5441.txt|.|13|.|WET5810.txt|.|208|.|WET1693.txt|.|66|.|WET2535.txt|.|16|.|WET1338.txt|.|6|.|WET3643.txt|.|258|.|WET2314.txt|.|54|.|WET5249.txt|.|12|.|WET2312.txt|.|253|.|WET2180.txt|.|16|.|WET5440.txt|.|66|.|WET2198.txt|.|24|.|WET6057.txt|.|74|.|WET2069.txt|.|72|.|WET1278.txt|.|15|.|WET2313.txt|.|183|.|WET5936.txt|.|40
+openreservations|.|WET2313.txt|.|8

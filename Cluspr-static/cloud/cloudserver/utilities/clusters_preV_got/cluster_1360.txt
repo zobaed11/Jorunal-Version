@@ -1,0 +1,12 @@
+1360
+likes received|.|WET235.txt|.|54
+mathematica stack|.|WET630.txt|.|14
+engineering stack|.|WET331.txt|.|5
+fulton|.|WET2782.txt|.|130
+attendance zone|.|WET1956.txt|.|4
+castello|.|WET4255.txt|.|17
+objectives|.|WET301.txt|.|15
+follow overview|.|WET1956.txt|.|5
+rationalize|.|WET630.txt|.|2|.|WET3547.txt|.|3
+upvote|.|WET527.txt|.|62|.|WET444.txt|.|34|.|WET4445.txt|.|66
+burp|.|WET3071.txt|.|17

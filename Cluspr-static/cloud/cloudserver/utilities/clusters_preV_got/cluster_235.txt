@@ -1,0 +1,12 @@
+235
+scholarshare|.|WET264.txt|.|166|.|WET4007.txt|.|176
+bay packers talk|.|WET2582.txt|.|107
+murder|.|WET4402.txt|.|11
+lace|.|WET3589.txt|.|93|.|WET1162.txt|.|111|.|WET5321.txt|.|19
+truck brand|.|WET3859.txt|.|5
+soundtracks|.|WET5728.txt|.|12
+carsmodel|.|WET1520.txt|.|22|.|WET5271.txt|.|22
+professional services|.|WET2662.txt|.|18
+cellarmy|.|WET6196.txt|.|11
+campbell|.|WET1085.txt|.|6|.|WET2273.txt|.|54
+merchant account|.|WET501.txt|.|10

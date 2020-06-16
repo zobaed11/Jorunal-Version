@@ -1,0 +1,12 @@
+511
+zuckerman|.|WET2319.txt|.|33
+sept|.|WET2928.txt|.|45
+buck|.|WET2319.txt|.|33
+dolce|.|WET2273.txt|.|52
+nationals|.|WET30.txt|.|21|.|WET2319.txt|.|167
+stadium|.|WET3176.txt|.|136|.|WET609.txt|.|54
+brim said|.|WET2928.txt|.|98
+sax|.|WET2928.txt|.|73
+steve rambo|.|WET434.txt|.|46
+sax said|.|WET2928.txt|.|61
+rambo|.|WET434.txt|.|71

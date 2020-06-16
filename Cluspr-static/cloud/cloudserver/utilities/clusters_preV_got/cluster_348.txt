@@ -1,0 +1,12 @@
+348
+jedi|.|WET603.txt|.|22
+professor|.|WET4015.txt|.|167|.|WET171.txt|.|312|.|WET575.txt|.|23
+mathematics professor|.|WET171.txt|.|16
+catawba|.|WET171.txt|.|1067
+fan forum|.|WET401.txt|.|6
+catawba collegecatawba college|.|WET171.txt|.|77
+johansson|.|WET337.txt|.|15
+witnessing|.|WET4449.txt|.|2|.|WET171.txt|.|2|.|WET1657.txt|.|2|.|WET3776.txt|.|1
+art institute|.|WET1205.txt|.|12
+bibliotecas|.|WET6036.txt|.|16
+music gigs|.|WET4900.txt|.|4

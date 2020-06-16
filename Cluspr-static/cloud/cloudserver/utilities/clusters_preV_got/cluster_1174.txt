@@ -1,0 +1,12 @@
+1174
+hawks|.|WET6202.txt|.|18
+blackberry priv|.|WET1171.txt|.|7
+thousand installs|.|WET4940.txt|.|9
+philadelphiapennsylvanianew|.|WET6.txt|.|12
+scrapbooking|.|WET3162.txt|.|33|.|WET3163.txt|.|30
+flooding|.|WET2845.txt|.|3|.|WET2549.txt|.|2|.|WET5877.txt|.|1|.|WET2081.txt|.|1|.|WET3758.txt|.|2|.|WET135.txt|.|2|.|WET3866.txt|.|3|.|WET2522.txt|.|2|.|WET4448.txt|.|2|.|WET288.txt|.|2|.|WET1017.txt|.|2|.|WET4771.txt|.|2|.|WET1188.txt|.|2|.|WET4633.txt|.|2|.|WET5819.txt|.|1|.|WET5118.txt|.|2|.|WET4514.txt|.|1|.|WET4205.txt|.|1|.|WET6315.txt|.|4|.|WET4681.txt|.|1|.|WET2577.txt|.|2
+priv|.|WET1171.txt|.|8
+view network|.|WET4940.txt|.|9
+export citation|.|WET4501.txt|.|55
+crossfit|.|WET5878.txt|.|25
+klein|.|WET1076.txt|.|21|.|WET5501.txt|.|45|.|WET5035.txt|.|112

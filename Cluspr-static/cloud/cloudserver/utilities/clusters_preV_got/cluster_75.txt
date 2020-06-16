@@ -1,0 +1,12 @@
+75
+urbana champaign|.|WET4251.txt|.|1
+honorable mention|.|WET2494.txt|.|25
+st|.|WET3400.txt|.|51|.|WET4251.txt|.|45|.|WET913.txt|.|33|.|WET5244.txt|.|36|.|WET3788.txt|.|58
+identifier|.|WET2807.txt|.|17
+like show|.|WET3450.txt|.|68|.|WET3417.txt|.|19
+researcher|.|WET4251.txt|.|5
+urbana|.|WET4251.txt|.|2
+champaign|.|WET4251.txt|.|2
+detail|.|WET1321.txt|.|98|.|WET4251.txt|.|10
+event detail information|.|WET4251.txt|.|10
+savvy researcher|.|WET4251.txt|.|5

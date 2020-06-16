@@ -1,0 +1,12 @@
+102
+rest|.|WET2867.txt|.|152
+real feel|.|WET1120.txt|.|19
+apply|.|WET2080.txt|.|33|.|WET1120.txt|.|373|.|WET3014.txt|.|82|.|WET3165.txt|.|34|.|WET2631.txt|.|3
+hassle returns|.|WET3165.txt|.|18
+hassle|.|WET3165.txt|.|18
+restrictions apply|.|WET3165.txt|.|18
+magic lantern|.|WET4660.txt|.|81
+sheer|.|WET1330.txt|.|14
+jobssalary|.|WET2080.txt|.|60
+helpful|.|WET3659.txt|.|11|.|WET5169.txt|.|316|.|WET2780.txt|.|49|.|WET3515.txt|.|37|.|WET1120.txt|.|42|.|WET5717.txt|.|40|.|WET1696.txt|.|9
+gasior|.|WET943.txt|.|48

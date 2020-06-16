@@ -1,0 +1,12 @@
+270
+descuentos y ofertas|.|WET4602.txt|.|61
+owner|.|WET4827.txt|.|27|.|WET451.txt|.|22|.|WET3386.txt|.|50|.|WET1085.txt|.|31|.|WET1078.txt|.|33|.|WET1856.txt|.|18
+desserts|.|WET2341.txt|.|33|.|WET2342.txt|.|33|.|WET6084.txt|.|33|.|WET6085.txt|.|33|.|WET2340.txt|.|33
+frozen desserts|.|WET2341.txt|.|22|.|WET2342.txt|.|22|.|WET6084.txt|.|22|.|WET6085.txt|.|22|.|WET2340.txt|.|22
+tennessee|.|WET3378.txt|.|44|.|WET4098.txt|.|24
+meijer|.|WET2341.txt|.|253|.|WET6086.txt|.|23|.|WET2342.txt|.|253|.|WET6084.txt|.|249|.|WET6085.txt|.|253|.|WET2340.txt|.|247
+parsing markdown|.|WET3774.txt|.|4
+tror|.|WET3771.txt|.|46
+wearables|.|WET1166.txt|.|22
+bookings|.|WET3630.txt|.|31
+related merchandise dealer|.|WET1408.txt|.|27

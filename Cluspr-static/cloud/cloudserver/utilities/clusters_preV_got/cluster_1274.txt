@@ -1,0 +1,12 @@
+1274
+education|.|WET1442.txt|.|33|.|WET2361.txt|.|36|.|WET3281.txt|.|57|.|WET2331.txt|.|32|.|WET5197.txt|.|22|.|WET228.txt|.|25|.|WET2645.txt|.|206|.|WET5072.txt|.|7|.|WET2316.txt|.|112|.|WET6195.txt|.|97|.|WET1523.txt|.|30|.|WET3367.txt|.|49|.|WET2778.txt|.|51|.|WET5393.txt|.|342|.|WET2317.txt|.|71|.|WET1143.txt|.|40|.|WET3665.txt|.|41|.|WET2902.txt|.|5|.|WET887.txt|.|14|.|WET4783.txt|.|19|.|WET572.txt|.|45|.|WET5377.txt|.|30|.|WET6059.txt|.|29|.|WET3736.txt|.|20|.|WET61.txt|.|34|.|WET4636.txt|.|7|.|WET2360.txt|.|99|.|WET3617.txt|.|32|.|WET1188.txt|.|34|.|WET6105.txt|.|31|.|WET4233.txt|.|279
+diocesan|.|WET1442.txt|.|6
+sec filings|.|WET6195.txt|.|5
+annual report|.|WET5393.txt|.|128
+celebrations|.|WET4783.txt|.|14
+cake|.|WET954.txt|.|29|.|WET5231.txt|.|20|.|WET77.txt|.|24
+chicago bulls|.|WET4612.txt|.|66
+diocesan review|.|WET1442.txt|.|6
+schools and communities|.|WET2317.txt|.|10
+educational agencies|.|WET3367.txt|.|6
+west baltimore|.|WET2316.txt|.|14

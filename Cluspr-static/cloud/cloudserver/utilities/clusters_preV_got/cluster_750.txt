@@ -1,0 +1,12 @@
+750
+carolina|.|WET1430.txt|.|58|.|WET5182.txt|.|81|.|WET4835.txt|.|129|.|WET303.txt|.|18|.|WET3319.txt|.|52|.|WET982.txt|.|15|.|WET4032.txt|.|383|.|WET1432.txt|.|31|.|WET2470.txt|.|61|.|WET4233.txt|.|36
+north carolina|.|WET4032.txt|.|271|.|WET4233.txt|.|29
+jerusalem|.|WET5678.txt|.|28
+parallel|.|WET421.txt|.|3|.|WET5338.txt|.|22|.|WET5206.txt|.|14
+carolina tar heels|.|WET1432.txt|.|18
+carolina guest house|.|WET5182.txt|.|30
+unc|.|WET303.txt|.|10
+chapel hill|.|WET303.txt|.|12
+panthers|.|WET1430.txt|.|85
+usda|.|WET2103.txt|.|30
+events in the near future|.|WET2470.txt|.|2

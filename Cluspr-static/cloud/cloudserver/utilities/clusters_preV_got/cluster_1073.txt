@@ -1,0 +1,12 @@
+1073
+boys soccer|.|WET4641.txt|.|166
+girls soccer|.|WET4641.txt|.|163
+playing boys|.|WET4641.txt|.|182
+playing boys basketball|.|WET4641.txt|.|182
+fracture repair|.|WET3673.txt|.|3
+rachel|.|WET2570.txt|.|10|.|WET667.txt|.|22
+role playing games|.|WET6243.txt|.|12|.|WET3673.txt|.|6|.|WET4943.txt|.|1|.|WET13.txt|.|4|.|WET1190.txt|.|4
+playing|.|WET628.txt|.|2|.|WET647.txt|.|1|.|WET4181.txt|.|1|.|WET3673.txt|.|7|.|WET1067.txt|.|1|.|WET13.txt|.|5|.|WET3939.txt|.|1|.|WET4641.txt|.|200|.|WET3842.txt|.|1|.|WET449.txt|.|2|.|WET864.txt|.|4|.|WET6243.txt|.|16|.|WET4042.txt|.|2|.|WET4943.txt|.|8|.|WET153.txt|.|2|.|WET4687.txt|.|1|.|WET1190.txt|.|12
+board games|.|WET6243.txt|.|6
+newell|.|WET1535.txt|.|6
+matching|.|WET4805.txt|.|34

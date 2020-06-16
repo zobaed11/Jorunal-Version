@@ -1,0 +1,12 @@
+657
+orchid resort|.|WET5907.txt|.|20
+kata beach|.|WET2168.txt|.|30
+phuket|.|WET2168.txt|.|60
+orioles|.|WET6060.txt|.|113|.|WET2319.txt|.|173
+krabi|.|WET5907.txt|.|30
+moreview|.|WET2894.txt|.|22
+kata beach resort|.|WET2168.txt|.|25
+juego favoritos store|.|WET349.txt|.|11
+orchid|.|WET5907.txt|.|25|.|WET1783.txt|.|85|.|WET2168.txt|.|25
+planet hollywood|.|WET3099.txt|.|54
+ultimate variety show|.|WET3099.txt|.|60

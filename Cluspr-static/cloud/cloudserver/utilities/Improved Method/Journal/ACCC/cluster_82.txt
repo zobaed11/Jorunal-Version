@@ -1,0 +1,26 @@
+82
+gluten|.|WET5547.txt|.|30|.|WET3900.txt|.|14|.|WET1452.txt|.|22|.|WET5200.txt|.|49
+submitting|.|WET5179.txt|.|93|.|WET4907.txt|.|30
+customer service|.|WET1976.txt|.|23|.|WET2180.txt|.|28|.|WET4510.txt|.|22|.|WET5891.txt|.|4|.|WET1655.txt|.|30|.|WET3298.txt|.|16|.|WET5179.txt|.|95|.|WET3364.txt|.|18|.|WET2804.txt|.|25|.|WET2009.txt|.|21|.|WET2114.txt|.|15|.|WET5154.txt|.|16
+fighting|.|WET872.txt|.|12|.|WET5625.txt|.|21|.|WET5363.txt|.|65
+quotes|.|WET3156.txt|.|46|.|WET4112.txt|.|138|.|WET4115.txt|.|77
+problem submitting|.|WET5179.txt|.|93
+problem|.|WET5179.txt|.|93
+atomics|.|WET4749.txt|.|5|.|WET3424.txt|.|2|.|WET1005.txt|.|3
+celiac disease|.|WET1452.txt|.|17|.|WET5200.txt|.|106
+company|.|WET1778.txt|.|11|.|WET2310.txt|.|65|.|WET4043.txt|.|13|.|WET4030.txt|.|87|.|WET1477.txt|.|27|.|WET5645.txt|.|188|.|WET1274.txt|.|20|.|WET4282.txt|.|20|.|WET1320.txt|.|37|.|WET4532.txt|.|26|.|WET1006.txt|.|168|.|WET6053.txt|.|19|.|WET160.txt|.|11|.|WET629.txt|.|22|.|WET1232.txt|.|39|.|WET2309.txt|.|38|.|WET5847.txt|.|109|.|WET3906.txt|.|44|.|WET1797.txt|.|30|.|WET6054.txt|.|64|.|WET5571.txt|.|36|.|WET5150.txt|.|14|.|WET2511.txt|.|23|.|WET538.txt|.|37|.|WET45.txt|.|21|.|WET2454.txt|.|102|.|WET4749.txt|.|141|.|WET4369.txt|.|22|.|WET3415.txt|.|65|.|WET1317.txt|.|31|.|WET5687.txt|.|74
+facial|.|WET2180.txt|.|24
+trauma|.|WET3070.txt|.|2
+disease|.|WET6079.txt|.|41|.|WET1452.txt|.|19|.|WET2530.txt|.|19|.|WET5200.txt|.|117
+gamble|.|WET3361.txt|.|2|.|WET1005.txt|.|3|.|WET13.txt|.|1|.|WET5474.txt|.|2|.|WET4749.txt|.|5|.|WET2134.txt|.|2|.|WET4545.txt|.|2|.|WET1006.txt|.|6|.|WET4484.txt|.|2|.|WET861.txt|.|2|.|WET4536.txt|.|1|.|WET4696.txt|.|2|.|WET5685.txt|.|2|.|WET6194.txt|.|1
+caliber|.|WET3635.txt|.|2|.|WET2180.txt|.|2|.|WET4749.txt|.|5|.|WET5200.txt|.|2|.|WET1006.txt|.|6|.|WET85.txt|.|1|.|WET5179.txt|.|1|.|WET3070.txt|.|2|.|WET1005.txt|.|3|.|WET937.txt|.|2|.|WET5363.txt|.|3|.|WET4112.txt|.|2
+corporation|.|WET4809.txt|.|29|.|WET3294.txt|.|87|.|WET4749.txt|.|270|.|WET3293.txt|.|319|.|WET5558.txt|.|25|.|WET1006.txt|.|324
+katy|.|WET4112.txt|.|132
+send report|.|WET5179.txt|.|93
+hikers|.|WET85.txt|.|2
+celiac|.|WET1452.txt|.|31|.|WET5200.txt|.|139
+defeats|.|WET966.txt|.|28|.|WET3070.txt|.|28
+please try|.|WET3348.txt|.|145|.|WET5179.txt|.|93
+try|.|WET3348.txt|.|145|.|WET5179.txt|.|98|.|WET4907.txt|.|77
+free food|.|WET5200.txt|.|3
+customer|.|WET2358.txt|.|22|.|WET5891.txt|.|20|.|WET2468.txt|.|16|.|WET2795.txt|.|18|.|WET3416.txt|.|12|.|WET2009.txt|.|22|.|WET5154.txt|.|29|.|WET2053.txt|.|6|.|WET4510.txt|.|39|.|WET1655.txt|.|32|.|WET5990.txt|.|103|.|WET6112.txt|.|26|.|WET1262.txt|.|164|.|WET822.txt|.|19|.|WET1401.txt|.|58|.|WET5015.txt|.|54|.|WET1253.txt|.|100|.|WET3364.txt|.|37|.|WET1206.txt|.|10|.|WET1976.txt|.|30|.|WET1454.txt|.|25|.|WET2180.txt|.|42|.|WET1263.txt|.|53|.|WET5402.txt|.|20|.|WET5229.txt|.|24|.|WET5003.txt|.|54|.|WET3298.txt|.|19|.|WET5179.txt|.|98|.|WET4614.txt|.|13|.|WET2804.txt|.|32|.|WET2114.txt|.|16|.|WET1406.txt|.|20|.|WET5140.txt|.|126

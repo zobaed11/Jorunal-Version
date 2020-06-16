@@ -1,0 +1,12 @@
+114
+kitchen faucets|.|WET4615.txt|.|21
+celiac|.|WET1452.txt|.|31|.|WET5200.txt|.|139
+conspiracy|.|WET4858.txt|.|40|.|WET5255.txt|.|81|.|WET1504.txt|.|77|.|WET5256.txt|.|12
+teen girl|.|WET3224.txt|.|48
+perfect|.|WET5125.txt|.|34
+bench|.|WET4336.txt|.|16
+nismo|.|WET4444.txt|.|11
+airsoft pistols|.|WET4885.txt|.|96
+abstract|.|WET3993.txt|.|14|.|WET3593.txt|.|6|.|WET1681.txt|.|37
+poll|.|WET5850.txt|.|566
+publicado|.|WET702.txt|.|29|.|WET3979.txt|.|7

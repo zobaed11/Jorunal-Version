@@ -1,0 +1,12 @@
+261
+exam|.|WET821.txt|.|961|.|WET4102.txt|.|62
+small amount|.|WET340.txt|.|11
+mountain|.|WET4097.txt|.|37|.|WET2894.txt|.|44|.|WET2972.txt|.|18|.|WET5051.txt|.|33|.|WET5450.txt|.|22|.|WET5052.txt|.|24|.|WET4247.txt|.|27|.|WET2550.txt|.|139|.|WET1723.txt|.|77|.|WET2481.txt|.|22|.|WET2411.txt|.|15|.|WET1462.txt|.|52|.|WET6155.txt|.|16|.|WET6220.txt|.|20|.|WET4499.txt|.|19
+therapro|.|WET6061.txt|.|37
+answer|.|WET628.txt|.|91|.|WET821.txt|.|266|.|WET4102.txt|.|92|.|WET5561.txt|.|54|.|WET340.txt|.|70|.|WET4532.txt|.|53
+answered|.|WET628.txt|.|31|.|WET340.txt|.|29|.|WET4532.txt|.|19
+seguir|.|WET910.txt|.|6
+draft saved|.|WET628.txt|.|9
+william saroyan|.|WET3553.txt|.|9
+key|.|WET821.txt|.|258|.|WET4102.txt|.|70|.|WET3116.txt|.|15|.|WET5940.txt|.|1
+ctet|.|WET4102.txt|.|89

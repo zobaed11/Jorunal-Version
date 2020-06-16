@@ -1,0 +1,12 @@
+1243
+editorial|.|WET6036.txt|.|10
+service quality|.|WET4093.txt|.|2|.|WET2504.txt|.|5
+los indicespalabras|.|WET2830.txt|.|6
+secondo|.|WET5555.txt|.|10
+tigre|.|WET1615.txt|.|2|.|WET1004.txt|.|2|.|WET4807.txt|.|2|.|WET708.txt|.|40|.|WET6021.txt|.|2
+del|.|WET2574.txt|.|139|.|WET6170.txt|.|40|.|WET4807.txt|.|80|.|WET5498.txt|.|22|.|WET328.txt|.|209|.|WET4257.txt|.|33|.|WET4093.txt|.|47|.|WET3439.txt|.|181|.|WET5544.txt|.|272|.|WET4430.txt|.|48|.|WET523.txt|.|42|.|WET6036.txt|.|15|.|WET5355.txt|.|15|.|WET2428.txt|.|22|.|WET4621.txt|.|16|.|WET708.txt|.|137|.|WET6169.txt|.|51|.|WET4091.txt|.|55|.|WET347.txt|.|66|.|WET4267.txt|.|52|.|WET2830.txt|.|10|.|WET1852.txt|.|30|.|WET5555.txt|.|50|.|WET348.txt|.|48|.|WET2975.txt|.|18|.|WET1737.txt|.|55|.|WET4724.txt|.|37
+nueva|.|WET4091.txt|.|15|.|WET347.txt|.|23|.|WET3439.txt|.|88
+edad|.|WET5544.txt|.|143
+fully equipped|.|WET2574.txt|.|37
+indicespalabras del|.|WET2830.txt|.|6
+poder del|.|WET2428.txt|.|20

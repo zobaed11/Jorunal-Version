@@ -1,0 +1,12 @@
+1405
+gluten|.|WET5547.txt|.|30|.|WET3900.txt|.|14|.|WET1452.txt|.|22|.|WET5200.txt|.|49
+washington regional|.|WET2527.txt|.|36
+stem cell|.|WET4016.txt|.|12|.|WET5254.txt|.|65
+listed|.|WET5801.txt|.|21|.|WET3415.txt|.|187
+sociales|.|WET5488.txt|.|153
+columnists|.|WET3329.txt|.|24
+folding scooters|.|WET1644.txt|.|5
+football stats|.|WET2905.txt|.|48
+qpcr|.|WET5254.txt|.|77
+mrr|.|WET3776.txt|.|2
+stem|.|WET4810.txt|.|2|.|WET3090.txt|.|2|.|WET3005.txt|.|2|.|WET5535.txt|.|2|.|WET583.txt|.|2|.|WET5411.txt|.|1|.|WET3861.txt|.|3|.|WET1900.txt|.|2|.|WET3634.txt|.|2|.|WET3943.txt|.|3|.|WET3464.txt|.|3|.|WET2545.txt|.|3|.|WET4200.txt|.|2|.|WET3854.txt|.|2|.|WET5685.txt|.|2|.|WET5554.txt|.|2|.|WET4355.txt|.|2|.|WET2399.txt|.|2|.|WET5046.txt|.|4|.|WET2037.txt|.|3|.|WET1649.txt|.|2|.|WET2699.txt|.|2|.|WET3180.txt|.|2|.|WET615.txt|.|2|.|WET4550.txt|.|2|.|WET1064.txt|.|2|.|WET5254.txt|.|77|.|WET171.txt|.|3|.|WET5237.txt|.|2|.|WET2441.txt|.|2|.|WET6263.txt|.|2|.|WET3395.txt|.|2|.|WET361.txt|.|3|.|WET3776.txt|.|8|.|WET3204.txt|.|2|.|WET3281.txt|.|2|.|WET3913.txt|.|2|.|WET4946.txt|.|3|.|WET1647.txt|.|2|.|WET3816.txt|.|2|.|WET295.txt|.|2|.|WET5857.txt|.|2|.|WET1965.txt|.|3|.|WET3185.txt|.|2|.|WET5213.txt|.|3|.|WET130.txt|.|3|.|WET4506.txt|.|2|.|WET5053.txt|.|2|.|WET1912.txt|.|1|.|WET138.txt|.|3|.|WET3194.txt|.|2|.|WET4016.txt|.|14|.|WET5465.txt|.|3|.|WET5639.txt|.|2|.|WET4114.txt|.|2|.|WET3012.txt|.|2|.|WET2530.txt|.|2|.|WET4598.txt|.|2|.|WET428.txt|.|2|.|WET4192.txt|.|2|.|WET1644.txt|.|2

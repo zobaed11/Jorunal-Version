@@ -1,0 +1,12 @@
+1280
+fe trustnet|.|WET5847.txt|.|18
+barspersonalised|.|WET1477.txt|.|11
+enduro|.|WET1984.txt|.|7
+chips|.|WET1477.txt|.|24
+younger|.|WET4111.txt|.|29
+traded|.|WET2310.txt|.|8
+michigan wolverines|.|WET4611.txt|.|67
+company|.|WET1778.txt|.|11|.|WET2310.txt|.|65|.|WET4043.txt|.|13|.|WET4030.txt|.|87|.|WET1477.txt|.|27|.|WET5645.txt|.|188|.|WET1274.txt|.|20|.|WET4282.txt|.|20|.|WET1320.txt|.|37|.|WET4532.txt|.|26|.|WET1006.txt|.|168|.|WET6053.txt|.|19|.|WET160.txt|.|11|.|WET629.txt|.|22|.|WET1232.txt|.|39|.|WET2309.txt|.|38|.|WET5847.txt|.|109|.|WET3906.txt|.|44|.|WET1797.txt|.|30|.|WET6054.txt|.|64|.|WET5571.txt|.|36|.|WET5150.txt|.|14|.|WET2511.txt|.|23|.|WET538.txt|.|37|.|WET45.txt|.|21|.|WET2454.txt|.|102|.|WET4749.txt|.|141|.|WET4369.txt|.|22|.|WET3415.txt|.|65|.|WET1317.txt|.|31|.|WET5687.txt|.|74
+accidents|.|WET2511.txt|.|19
+email print|.|WET5571.txt|.|21
+company profile|.|WET1317.txt|.|10

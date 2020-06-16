@@ -1,0 +1,8 @@
+34
+oldest to newest|.|WET5521.txt|.|14
+church|.|WET4457.txt|.|36|.|WET1441.txt|.|35|.|WET3991.txt|.|20|.|WET2566.txt|.|41|.|WET6304.txt|.|137|.|WET5191.txt|.|25|.|WET2516.txt|.|60|.|WET6303.txt|.|133|.|WET5521.txt|.|100|.|WET4285.txt|.|102|.|WET1431.txt|.|36
+claims|.|WET6304.txt|.|27
+orthodox church|.|WET2566.txt|.|11
+holy martyr|.|WET6303.txt|.|26
+bibles books|.|WET5521.txt|.|32
+speculating|.|WET6304.txt|.|2|.|WET3442.txt|.|2|.|WET1739.txt|.|2

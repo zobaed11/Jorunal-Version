@@ -1,0 +1,11 @@
+86
+buy the mug|.|WET932.txt|.|13
+dictionary|.|WET492.txt|.|18|.|WET2575.txt|.|150|.|WET4689.txt|.|20|.|WET4269.txt|.|20|.|WET4268.txt|.|22|.|WET280.txt|.|77|.|WET3350.txt|.|45|.|WET2576.txt|.|156|.|WET4512.txt|.|24|.|WET6314.txt|.|146|.|WET932.txt|.|14|.|WET6313.txt|.|102
+dawg|.|WET932.txt|.|34
+urban|.|WET492.txt|.|18|.|WET4689.txt|.|30|.|WET4269.txt|.|20|.|WET4268.txt|.|22|.|WET3192.txt|.|38|.|WET4512.txt|.|24|.|WET932.txt|.|22
+preferite|.|WET4268.txt|.|11
+preferite store cart|.|WET4268.txt|.|11
+urban dictionary|.|WET492.txt|.|18|.|WET4689.txt|.|20|.|WET4269.txt|.|20|.|WET4268.txt|.|22|.|WET4512.txt|.|24|.|WET932.txt|.|14
+decay|.|WET3192.txt|.|26
+urban decay|.|WET3192.txt|.|26
+mug|.|WET932.txt|.|13

@@ -1,0 +1,12 @@
+1427
+map cool|.|WET2591.txt|.|12
+community links|.|WET2041.txt|.|2|.|WET2695.txt|.|2|.|WET5183.txt|.|7|.|WET2494.txt|.|2|.|WET3184.txt|.|8|.|WET3071.txt|.|6|.|WET1431.txt|.|6|.|WET4407.txt|.|2
+smaller|.|WET5445.txt|.|11|.|WET1552.txt|.|11
+community central|.|WET796.txt|.|8|.|WET643.txt|.|8
+bowling green|.|WET1431.txt|.|30
+columns community|.|WET1771.txt|.|44|.|WET5507.txt|.|44
+world map|.|WET2591.txt|.|12
+hikaru|.|WET643.txt|.|14
+community|.|WET418.txt|.|39|.|WET311.txt|.|20|.|WET796.txt|.|19|.|WET4993.txt|.|33|.|WET5056.txt|.|24|.|WET1544.txt|.|2|.|WET1307.txt|.|3|.|WET1985.txt|.|3|.|WET1552.txt|.|67|.|WET4552.txt|.|15|.|WET3147.txt|.|102|.|WET1227.txt|.|8|.|WET1092.txt|.|15|.|WET3367.txt|.|10|.|WET3071.txt|.|18|.|WET417.txt|.|60|.|WET2041.txt|.|8|.|WET4864.txt|.|12|.|WET3732.txt|.|22|.|WET5507.txt|.|82|.|WET5046.txt|.|13|.|WET963.txt|.|60|.|WET2580.txt|.|11|.|WET1431.txt|.|44|.|WET221.txt|.|28|.|WET2039.txt|.|8|.|WET4119.txt|.|13|.|WET3703.txt|.|9|.|WET4105.txt|.|15|.|WET203.txt|.|22|.|WET4233.txt|.|65|.|WET960.txt|.|44|.|WET5726.txt|.|6|.|WET5183.txt|.|50|.|WET5255.txt|.|13|.|WET1506.txt|.|4|.|WET4980.txt|.|5|.|WET2591.txt|.|15|.|WET643.txt|.|16|.|WET2494.txt|.|9|.|WET3184.txt|.|24|.|WET4946.txt|.|11|.|WET219.txt|.|92|.|WET4407.txt|.|3|.|WET2575.txt|.|37|.|WET1753.txt|.|16|.|WET2849.txt|.|11|.|WET4400.txt|.|7|.|WET4028.txt|.|92|.|WET342.txt|.|24|.|WET1194.txt|.|16|.|WET2769.txt|.|6|.|WET3806.txt|.|159|.|WET5257.txt|.|15|.|WET5027.txt|.|8|.|WET5222.txt|.|9|.|WET1754.txt|.|22|.|WET2695.txt|.|4|.|WET1275.txt|.|11|.|WET1771.txt|.|80|.|WET3067.txt|.|3|.|WET3292.txt|.|11|.|WET1991.txt|.|18|.|WET5245.txt|.|9|.|WET1818.txt|.|6|.|WET1470.txt|.|9|.|WET4842.txt|.|13|.|WET1772.txt|.|35|.|WET6297.txt|.|25|.|WET6318.txt|.|9|.|WET1091.txt|.|11|.|WET1957.txt|.|11|.|WET1992.txt|.|21|.|WET3025.txt|.|14|.|WET525.txt|.|23|.|WET5419.txt|.|5|.|WET378.txt|.|4|.|WET2021.txt|.|9|.|WET5060.txt|.|15|.|WET5962.txt|.|8
+prairie avenue|.|WET1772.txt|.|40|.|WET1771.txt|.|88|.|WET5507.txt|.|88
+journals|.|WET796.txt|.|40

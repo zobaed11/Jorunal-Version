@@ -1,0 +1,12 @@
+590
+wake|.|WET3304.txt|.|7
+level|.|WET4492.txt|.|4|.|WET306.txt|.|7|.|WET2955.txt|.|21|.|WET6310.txt|.|2|.|WET5805.txt|.|7
+aggregation of this information|.|WET306.txt|.|3
+routing protocols|.|WET306.txt|.|8
+aggregation|.|WET306.txt|.|6
+traffic class|.|WET306.txt|.|77
+protocols|.|WET306.txt|.|8
+experience|.|WET1967.txt|.|14|.|WET3735.txt|.|35|.|WET324.txt|.|11
+grilling cookware|.|WET2996.txt|.|3
+inherited from class|.|WET302.txt|.|11
+flowing|.|WET306.txt|.|9

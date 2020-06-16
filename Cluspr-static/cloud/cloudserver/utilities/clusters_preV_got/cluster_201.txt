@@ -1,0 +1,12 @@
+201
+game thread|.|WET2191.txt|.|19
+ny knicks nba|.|WET2190.txt|.|22|.|WET5928.txt|.|22|.|WET2191.txt|.|23
+von|.|WET2002.txt|.|41|.|WET4008.txt|.|33|.|WET3423.txt|.|100|.|WET1645.txt|.|53|.|WET3271.txt|.|35
+engine|.|WET3582.txt|.|13|.|WET5799.txt|.|2|.|WET2829.txt|.|3|.|WET3225.txt|.|2|.|WET5485.txt|.|2|.|WET934.txt|.|2|.|WET1968.txt|.|2|.|WET4400.txt|.|2|.|WET159.txt|.|66|.|WET2596.txt|.|11|.|WET4850.txt|.|3|.|WET4832.txt|.|3|.|WET1138.txt|.|2|.|WET5231.txt|.|2|.|WET4884.txt|.|4|.|WET976.txt|.|2|.|WET101.txt|.|4|.|WET992.txt|.|3|.|WET2885.txt|.|2|.|WET5669.txt|.|3|.|WET3922.txt|.|8|.|WET4720.txt|.|1|.|WET3653.txt|.|3|.|WET2609.txt|.|2|.|WET1335.txt|.|5|.|WET4547.txt|.|2|.|WET3599.txt|.|3|.|WET2674.txt|.|2|.|WET2086.txt|.|2|.|WET2830.txt|.|3|.|WET1025.txt|.|4|.|WET2843.txt|.|5|.|WET5687.txt|.|3|.|WET216.txt|.|4|.|WET4590.txt|.|4
+vom|.|WET3508.txt|.|50
+ny|.|WET5258.txt|.|54|.|WET5929.txt|.|53|.|WET5003.txt|.|15|.|WET2190.txt|.|62|.|WET5928.txt|.|73|.|WET2191.txt|.|101
+field goals|.|WET1670.txt|.|7
+lines|.|WET1578.txt|.|11
+useful|.|WET660.txt|.|27
+nba other sports|.|WET2190.txt|.|11|.|WET5928.txt|.|11
+new york knicks|.|WET5928.txt|.|39

@@ -1,0 +1,12 @@
+315
+celtics|.|WET2024.txt|.|6
+pg|.|WET2024.txt|.|12
+organic cotton fabric|.|WET919.txt|.|37|.|WET4656.txt|.|35
+performance bundle|.|WET919.txt|.|37|.|WET4656.txt|.|35
+position|.|WET2706.txt|.|8|.|WET919.txt|.|128|.|WET5766.txt|.|33|.|WET2024.txt|.|60|.|WET4656.txt|.|88|.|WET5684.txt|.|83
+pub|.|WET5684.txt|.|128
+stats top|.|WET2024.txt|.|18
+position top|.|WET5766.txt|.|24
+golden state|.|WET5766.txt|.|20
+shelves|.|WET5684.txt|.|62
+wizards|.|WET2024.txt|.|6

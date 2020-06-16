@@ -1,0 +1,12 @@
+1078
+tuition class|.|WET3735.txt|.|23
+recruiting lists|.|WET3029.txt|.|13
+football basketball golf|.|WET3013.txt|.|30
+purchases or open|.|WET3014.txt|.|37
+experience classes|.|WET3735.txt|.|20
+statsenhancedclassic|.|WET1669.txt|.|16
+ground|.|WET1394.txt|.|26|.|WET3013.txt|.|62|.|WET3014.txt|.|78|.|WET2093.txt|.|23|.|WET2922.txt|.|18
+team|.|WET3013.txt|.|130|.|WET3016.txt|.|41|.|WET952.txt|.|33|.|WET3029.txt|.|32|.|WET2266.txt|.|35|.|WET5572.txt|.|41|.|WET1669.txt|.|35|.|WET5517.txt|.|87|.|WET1064.txt|.|57|.|WET2636.txt|.|22|.|WET3570.txt|.|72|.|WET3015.txt|.|110|.|WET3014.txt|.|192|.|WET4982.txt|.|35|.|WET4123.txt|.|48|.|WET5538.txt|.|50|.|WET3735.txt|.|184|.|WET4631.txt|.|20
+sports vols|.|WET2266.txt|.|16
+team home|.|WET3029.txt|.|20
+polo usa water|.|WET3016.txt|.|4

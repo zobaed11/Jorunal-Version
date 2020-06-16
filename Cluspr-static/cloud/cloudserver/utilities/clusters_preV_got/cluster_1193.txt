@@ -1,0 +1,12 @@
+1193
+joe|.|WET4440.txt|.|13|.|WET5898.txt|.|5|.|WET1790.txt|.|91
+nonprofit|.|WET5178.txt|.|11
+baskets|.|WET2063.txt|.|45|.|WET3298.txt|.|27|.|WET3297.txt|.|36|.|WET5376.txt|.|49
+gear live|.|WET5633.txt|.|46|.|WET1895.txt|.|50
+praia grande|.|WET509.txt|.|47
+league of legends|.|WET415.txt|.|22
+centers|.|WET2710.txt|.|6
+support us|.|WET3655.txt|.|5
+bandages|.|WET2441.txt|.|32
+petits|.|WET6055.txt|.|6
+dilemma|.|WET2508.txt|.|2|.|WET4107.txt|.|2|.|WET719.txt|.|2|.|WET4226.txt|.|2|.|WET4705.txt|.|2|.|WET5427.txt|.|2|.|WET2476.txt|.|3|.|WET3046.txt|.|2|.|WET4779.txt|.|2|.|WET178.txt|.|2|.|WET4284.txt|.|2|.|WET4025.txt|.|2|.|WET5691.txt|.|2|.|WET5724.txt|.|2

@@ -1,0 +1,12 @@
+981
+vacuums|.|WET4862.txt|.|176
+tools hand|.|WET1115.txt|.|8
+garden tools|.|WET4862.txt|.|33|.|WET1114.txt|.|33
+humidifiers|.|WET1114.txt|.|78
+patio furniture|.|WET4862.txt|.|22|.|WET1114.txt|.|22
+collections patio|.|WET4862.txt|.|22|.|WET1114.txt|.|22
+garden|.|WET4954.txt|.|6|.|WET857.txt|.|16|.|WET1215.txt|.|25|.|WET4651.txt|.|23|.|WET4862.txt|.|79|.|WET5106.txt|.|92|.|WET1114.txt|.|80
+mailboxes|.|WET1115.txt|.|32
+mailboxes shop|.|WET1115.txt|.|8
+fireplaces|.|WET1115.txt|.|32|.|WET1114.txt|.|102
+tools|.|WET5955.txt|.|25|.|WET621.txt|.|3|.|WET2902.txt|.|6|.|WET4862.txt|.|575|.|WET5405.txt|.|83|.|WET169.txt|.|40|.|WET2329.txt|.|16|.|WET1115.txt|.|208|.|WET5738.txt|.|16|.|WET3120.txt|.|95|.|WET3916.txt|.|68|.|WET1566.txt|.|102|.|WET1114.txt|.|576|.|WET6021.txt|.|10

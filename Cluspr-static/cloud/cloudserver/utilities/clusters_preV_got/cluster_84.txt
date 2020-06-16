@@ -1,0 +1,12 @@
+84
+danish|.|WET3997.txt|.|11|.|WET4446.txt|.|11
+rendered|.|WET3054.txt|.|3|.|WET2792.txt|.|3|.|WET3702.txt|.|1|.|WET992.txt|.|1|.|WET3942.txt|.|3|.|WET158.txt|.|2|.|WET5009.txt|.|1|.|WET2920.txt|.|2|.|WET5842.txt|.|2|.|WET4004.txt|.|2|.|WET2586.txt|.|2|.|WET4293.txt|.|1|.|WET4080.txt|.|2|.|WET752.txt|.|1|.|WET281.txt|.|2|.|WET3062.txt|.|2|.|WET3590.txt|.|2
+general assembly|.|WET1540.txt|.|12
+corp|.|WET3328.txt|.|23|.|WET3327.txt|.|22
+cook|.|WET1753.txt|.|27|.|WET5410.txt|.|66|.|WET5567.txt|.|70|.|WET1484.txt|.|28
+lounger|.|WET1060.txt|.|12
+accessories bow|.|WET5954.txt|.|27
+led zeppelin|.|WET324.txt|.|6
+mersin|.|WET5497.txt|.|128
+culture entertainment|.|WET1748.txt|.|6|.|WET5486.txt|.|27
+nook|.|WET1253.txt|.|476

@@ -1,0 +1,8 @@
+77
+keywords to search|.|WET1063.txt|.|7
+equal|.|WET4477.txt|.|3
+searching for information|.|WET3732.txt|.|4
+policies student|.|WET5196.txt|.|12
+academic|.|WET3732.txt|.|66|.|WET3622.txt|.|26|.|WET264.txt|.|172|.|WET6308.txt|.|42|.|WET6264.txt|.|15|.|WET4477.txt|.|26|.|WET4867.txt|.|32|.|WET1063.txt|.|58|.|WET1446.txt|.|133|.|WET4007.txt|.|182|.|WET5196.txt|.|114|.|WET3591.txt|.|180
+events future|.|WET4477.txt|.|4
+opportunity|.|WET4477.txt|.|3

@@ -1,0 +1,12 @@
+479
+finger|.|WET1468.txt|.|11
+chemistry|.|WET3897.txt|.|123
+bookmarklet|.|WET3093.txt|.|11
+maximum price|.|WET1711.txt|.|20
+automated|.|WET4770.txt|.|8
+clearance sale|.|WET3696.txt|.|12
+finger cross|.|WET1468.txt|.|11
+vintage wedding|.|WET4770.txt|.|32
+postage not specified|.|WET1711.txt|.|104
+sheraton|.|WET2964.txt|.|66
+smartphones|.|WET1166.txt|.|99|.|WET4919.txt|.|121|.|WET1167.txt|.|66

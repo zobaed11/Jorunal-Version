@@ -1,0 +1,12 @@
+541
+mobility|.|WET6110.txt|.|3|.|WET1090.txt|.|3|.|WET451.txt|.|2|.|WET1082.txt|.|4|.|WET3756.txt|.|2|.|WET3675.txt|.|2|.|WET5730.txt|.|2|.|WET4950.txt|.|2|.|WET99.txt|.|2|.|WET2900.txt|.|2|.|WET21.txt|.|3|.|WET3003.txt|.|2|.|WET2037.txt|.|3|.|WET3554.txt|.|4|.|WET1649.txt|.|3|.|WET2496.txt|.|4|.|WET3868.txt|.|2|.|WET309.txt|.|2|.|WET1322.txt|.|9|.|WET2914.txt|.|2|.|WET2091.txt|.|2|.|WET1017.txt|.|2|.|WET4785.txt|.|2|.|WET2293.txt|.|2|.|WET3237.txt|.|3|.|WET5780.txt|.|4|.|WET3132.txt|.|2|.|WET4726.txt|.|2|.|WET1574.txt|.|12|.|WET2638.txt|.|2|.|WET2680.txt|.|2|.|WET4583.txt|.|2|.|WET5727.txt|.|2|.|WET3478.txt|.|2|.|WET42.txt|.|2|.|WET1769.txt|.|2|.|WET2787.txt|.|28|.|WET164.txt|.|2|.|WET2910.txt|.|2|.|WET2508.txt|.|3|.|WET1309.txt|.|3|.|WET4304.txt|.|1|.|WET2240.txt|.|2|.|WET1342.txt|.|2|.|WET4004.txt|.|2|.|WET2109.txt|.|3|.|WET488.txt|.|3|.|WET5423.txt|.|3|.|WET5073.txt|.|6|.|WET813.txt|.|3|.|WET5060.txt|.|2
+sap|.|WET4583.txt|.|76
+techniques|.|WET1040.txt|.|3
+context|.|WET4593.txt|.|1
+edt reads|.|WET4786.txt|.|36|.|WET1040.txt|.|36
+babies|.|WET2160.txt|.|9
+machine learning techniques|.|WET1040.txt|.|2
+machine learning|.|WET4258.txt|.|5|.|WET4593.txt|.|2
+evaluate|.|WET4593.txt|.|18
+expo|.|WET1040.txt|.|46
+see deal|.|WET5360.txt|.|70

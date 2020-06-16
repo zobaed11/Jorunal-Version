@@ -1,0 +1,15 @@
+41
+information on historical|.|WET294.txt|.|2
+concession|.|WET294.txt|.|2|.|WET2263.txt|.|3|.|WET1056.txt|.|2|.|WET811.txt|.|2|.|WET4363.txt|.|2|.|WET5474.txt|.|2
+transport|.|WET1056.txt|.|8
+years|.|WET6231.txt|.|29|.|WET5554.txt|.|64|.|WET3767.txt|.|160|.|WET4002.txt|.|120|.|WET4868.txt|.|39|.|WET5474.txt|.|82|.|WET5725.txt|.|11|.|WET890.txt|.|227|.|WET1195.txt|.|23|.|WET5777.txt|.|50|.|WET2106.txt|.|29|.|WET3091.txt|.|65|.|WET4685.txt|.|71|.|WET5752.txt|.|49|.|WET6079.txt|.|34|.|WET5558.txt|.|57|.|WET4585.txt|.|96|.|WET4664.txt|.|52|.|WET79.txt|.|68|.|WET530.txt|.|74|.|WET3988.txt|.|56|.|WET4367.txt|.|35
+processed|.|WET2263.txt|.|12|.|WET3690.txt|.|12
+tsipras|.|WET5474.txt|.|20
+szenci|.|WET811.txt|.|22
+cores|.|WET106.txt|.|4|.|WET1717.txt|.|2|.|WET3904.txt|.|3|.|WET2263.txt|.|3|.|WET4320.txt|.|3|.|WET97.txt|.|2|.|WET6275.txt|.|2|.|WET4868.txt|.|2|.|WET232.txt|.|3|.|WET1061.txt|.|2
+greece|.|WET3392.txt|.|30|.|WET5474.txt|.|13
+processed after that time|.|WET2263.txt|.|6
+fume|.|WET4363.txt|.|51
+public transport|.|WET1056.txt|.|7
+hedges|.|WET294.txt|.|2|.|WET3755.txt|.|2|.|WET1392.txt|.|2|.|WET4633.txt|.|1|.|WET5142.txt|.|2
+cwsrf|.|WET294.txt|.|24

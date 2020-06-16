@@ -1,0 +1,12 @@
+933
+pets|.|WET2628.txt|.|63|.|WET6134.txt|.|21|.|WET2640.txt|.|39|.|WET4050.txt|.|20
+ice cream|.|WET1322.txt|.|18
+tub faucet|.|WET2994.txt|.|90
+sinks|.|WET875.txt|.|42|.|WET1799.txt|.|78
+vintage|.|WET3696.txt|.|14|.|WET3096.txt|.|267|.|WET1711.txt|.|40|.|WET3093.txt|.|19|.|WET4770.txt|.|71|.|WET1468.txt|.|66|.|WET2687.txt|.|18
+drawer organizers|.|WET5923.txt|.|30
+audiko|.|WET3814.txt|.|22
+kitchen|.|WET2875.txt|.|28|.|WET2994.txt|.|137|.|WET4957.txt|.|16|.|WET1799.txt|.|125|.|WET4615.txt|.|105|.|WET875.txt|.|114|.|WET3096.txt|.|259|.|WET2844.txt|.|77|.|WET5924.txt|.|24|.|WET1322.txt|.|45|.|WET1798.txt|.|91|.|WET2880.txt|.|31|.|WET5923.txt|.|85
+infant|.|WET1995.txt|.|19|.|WET2993.txt|.|6|.|WET919.txt|.|83|.|WET4656.txt|.|77
+extreme|.|WET1322.txt|.|18
+transportation issues|.|WET2773.txt|.|373

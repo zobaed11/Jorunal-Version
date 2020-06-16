@@ -1,0 +1,12 @@
+496
+footwear|.|WET2786.txt|.|24|.|WET1623.txt|.|108|.|WET3251.txt|.|42|.|WET2915.txt|.|114|.|WET2916.txt|.|45|.|WET2166.txt|.|108|.|WET5434.txt|.|28
+white house|.|WET4519.txt|.|31|.|WET933.txt|.|8
+sale footwear|.|WET2915.txt|.|11
+converse|.|WET2166.txt|.|41
+goalkeeping replica|.|WET2915.txt|.|22
+training wear|.|WET2915.txt|.|22
+goalkeeping|.|WET2915.txt|.|36
+footwear boots|.|WET1623.txt|.|32
+water shoes|.|WET1623.txt|.|24
+footwear lifestyle|.|WET3251.txt|.|16
+reggae|.|WET890.txt|.|218

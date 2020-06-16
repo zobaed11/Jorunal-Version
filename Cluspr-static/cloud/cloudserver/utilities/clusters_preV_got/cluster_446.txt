@@ -1,0 +1,12 @@
+446
+soybean|.|WET897.txt|.|14
+miniatures|.|WET2750.txt|.|61
+som|.|WET4651.txt|.|27|.|WET3771.txt|.|343
+probowl|.|WET3844.txt|.|17
+son|.|WET5638.txt|.|30|.|WET5345.txt|.|57|.|WET3200.txt|.|14|.|WET5899.txt|.|20|.|WET5892.txt|.|59
+laden posted|.|WET5104.txt|.|14
+change|.|WET5666.txt|.|5|.|WET5015.txt|.|34|.|WET3267.txt|.|37|.|WET4302.txt|.|24|.|WET3049.txt|.|18
+grainger|.|WET5693.txt|.|140
+ryansmithat|.|WET1166.txt|.|55
+northern|.|WET2514.txt|.|26|.|WET5147.txt|.|13|.|WET2108.txt|.|25|.|WET1277.txt|.|21|.|WET6247.txt|.|20|.|WET1803.txt|.|81
+tablets|.|WET1166.txt|.|44|.|WET2616.txt|.|122|.|WET3717.txt|.|56|.|WET4918.txt|.|28|.|WET1648.txt|.|15|.|WET2617.txt|.|14|.|WET6128.txt|.|6

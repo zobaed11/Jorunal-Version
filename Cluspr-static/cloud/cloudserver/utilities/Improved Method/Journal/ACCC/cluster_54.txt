@@ -1,0 +1,17 @@
+54
+cortez|.|WET5301.txt|.|86|.|WET1553.txt|.|27|.|WET1552.txt|.|39
+downlink mac|.|WET1792.txt|.|32
+control information|.|WET1792.txt|.|6
+downlink|.|WET1792.txt|.|56
+nfl draft|.|WET3812.txt|.|82|.|WET3319.txt|.|34|.|WET902.txt|.|31
+system for dynamic|.|WET1792.txt|.|2
+betting|.|WET5769.txt|.|56|.|WET1587.txt|.|2|.|WET5336.txt|.|2|.|WET2345.txt|.|33|.|WET2027.txt|.|64|.|WET5107.txt|.|2|.|WET3081.txt|.|2|.|WET2476.txt|.|2|.|WET6271.txt|.|32|.|WET2379.txt|.|6|.|WET3896.txt|.|4|.|WET2028.txt|.|43|.|WET2536.txt|.|131|.|WET1138.txt|.|2|.|WET1668.txt|.|16|.|WET6274.txt|.|3|.|WET3739.txt|.|2|.|WET844.txt|.|2|.|WET5766.txt|.|3|.|WET572.txt|.|2|.|WET5415.txt|.|20|.|WET2957.txt|.|2|.|WET3874.txt|.|2|.|WET1308.txt|.|2|.|WET4196.txt|.|1|.|WET4813.txt|.|2|.|WET4099.txt|.|2|.|WET707.txt|.|2|.|WET5073.txt|.|3|.|WET2060.txt|.|4
+bets|.|WET3811.txt|.|2|.|WET2764.txt|.|2|.|WET3812.txt|.|8|.|WET12.txt|.|2|.|WET5502.txt|.|2|.|WET3325.txt|.|2|.|WET3076.txt|.|8
+dolores|.|WET5301.txt|.|26|.|WET1552.txt|.|32
+hybrid system|.|WET1792.txt|.|2
+autocorrelation|.|WET1792.txt|.|3
+wager|.|WET5301.txt|.|2|.|WET1792.txt|.|2|.|WET2027.txt|.|24|.|WET3812.txt|.|2|.|WET3110.txt|.|2
+wig|.|WET5301.txt|.|10|.|WET4079.txt|.|3|.|WET3281.txt|.|1|.|WET4309.txt|.|3|.|WET4773.txt|.|1|.|WET5303.txt|.|25|.|WET4709.txt|.|2|.|WET5302.txt|.|9|.|WET1829.txt|.|1|.|WET1299.txt|.|2|.|WET5685.txt|.|2|.|WET3776.txt|.|1
+nfl|.|WET2582.txt|.|56|.|WET2557.txt|.|11|.|WET903.txt|.|43|.|WET3256.txt|.|32|.|WET5917.txt|.|32|.|WET3812.txt|.|197|.|WET3680.txt|.|15|.|WET904.txt|.|5|.|WET1801.txt|.|7|.|WET2558.txt|.|11|.|WET385.txt|.|59|.|WET1836.txt|.|39|.|WET3319.txt|.|54|.|WET902.txt|.|50
+draft|.|WET628.txt|.|18|.|WET4107.txt|.|24|.|WET3812.txt|.|106|.|WET2968.txt|.|12|.|WET3319.txt|.|49|.|WET902.txt|.|49|.|WET5423.txt|.|143|.|WET1356.txt|.|11|.|WET4224.txt|.|30|.|WET190.txt|.|16
+ranking|.|WET5863.txt|.|10|.|WET3812.txt|.|18|.|WET2122.txt|.|7

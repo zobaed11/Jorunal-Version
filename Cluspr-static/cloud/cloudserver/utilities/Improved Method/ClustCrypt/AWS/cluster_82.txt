@@ -1,0 +1,12 @@
+press centre|.|WET4881.txt|.|22
+airbus helicopters|.|WET4881.txt|.|23
+defence and space|.|WET4881.txt|.|19
+helicopters|.|WET4881.txt|.|23
+defence|.|WET4881.txt|.|19
+group community|.|WET203.txt|.|11
+sporting group|.|WET6232.txt|.|2
+cbe|.|WET3963.txt|.|20
+sporting|.|WET6232.txt|.|2
+aircraft families|.|WET4881.txt|.|21
+airbus defence|.|WET4881.txt|.|19
+group|.|WET1760.txt|.|8|.|WET3869.txt|.|53|.|WET874.txt|.|22|.|WET4398.txt|.|28|.|WET3690.txt|.|7|.|WET6253.txt|.|5|.|WET3963.txt|.|49|.|WET6232.txt|.|13|.|WET4881.txt|.|129|.|WET6100.txt|.|21|.|WET3984.txt|.|36|.|WET1136.txt|.|90|.|WET2039.txt|.|8|.|WET5907.txt|.|20|.|WET1957.txt|.|4|.|WET5703.txt|.|20|.|WET4610.txt|.|22|.|WET1590.txt|.|31|.|WET5737.txt|.|32|.|WET203.txt|.|33

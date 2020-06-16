@@ -1,0 +1,12 @@
+788
+pagelines|.|WET2584.txt|.|21
+blackboard|.|WET3732.txt|.|36
+cine|.|WET2702.txt|.|55
+iup|.|WET2121.txt|.|28
+production|.|WET6075.txt|.|10
+labspatheos pressshop|.|WET2602.txt|.|5
+adjustment|.|WET759.txt|.|48
+dynamo|.|WET1462.txt|.|4|.|WET1928.txt|.|2|.|WET4956.txt|.|3|.|WET4298.txt|.|36|.|WET4789.txt|.|2|.|WET4099.txt|.|2|.|WET1527.txt|.|7|.|WET5779.txt|.|67|.|WET5525.txt|.|2|.|WET1485.txt|.|2
+beatles|.|WET1269.txt|.|49
+vitamin|.|WET5985.txt|.|16|.|WET4298.txt|.|17|.|WET3234.txt|.|16
+respect|.|WET5366.txt|.|91

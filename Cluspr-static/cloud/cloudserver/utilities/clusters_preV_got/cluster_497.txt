@@ -1,0 +1,12 @@
+497
+natural gas|.|WET869.txt|.|31|.|WET3143.txt|.|23|.|WET3601.txt|.|64
+mexico|.|WET6242.txt|.|25|.|WET3636.txt|.|17|.|WET6106.txt|.|126|.|WET323.txt|.|440
+freedom|.|WET369.txt|.|19
+buy new|.|WET4857.txt|.|34
+basket shipping|.|WET4857.txt|.|34
+exeter|.|WET5776.txt|.|12
+net income|.|WET5711.txt|.|39
+forum posts private|.|WET1276.txt|.|48
+vehicle|.|WET2926.txt|.|62|.|WET3525.txt|.|32|.|WET5605.txt|.|66|.|WET5763.txt|.|27|.|WET5432.txt|.|21
+detailsviewed|.|WET6048.txt|.|32
+ip logged|.|WET5362.txt|.|29

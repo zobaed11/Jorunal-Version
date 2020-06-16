@@ -1,0 +1,4 @@
+91
+map collection cuban|.|WET4385.txt|.|23
+save|.|WET4385.txt|.|409|.|WET3245.txt|.|75|.|WET876.txt|.|266|.|WET293.txt|.|107|.|WET1996.txt|.|88|.|WET3906.txt|.|54|.|WET1788.txt|.|124|.|WET5282.txt|.|42|.|WET228.txt|.|37|.|WET5502.txt|.|48|.|WET4615.txt|.|152|.|WET3686.txt|.|126|.|WET875.txt|.|76|.|WET6259.txt|.|119|.|WET1747.txt|.|82|.|WET2080.txt|.|60|.|WET5307.txt|.|14|.|WET6192.txt|.|58|.|WET4616.txt|.|267|.|WET5737.txt|.|100|.|WET3685.txt|.|108
+postcards cuban|.|WET4385.txt|.|23

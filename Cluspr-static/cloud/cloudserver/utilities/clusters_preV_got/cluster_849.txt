@@ -1,0 +1,12 @@
+849
+management crisis|.|WET5500.txt|.|6
+crisis|.|WET5500.txt|.|6
+warrior|.|WET1873.txt|.|22|.|WET5698.txt|.|30
+african|.|WET4874.txt|.|45|.|WET3975.txt|.|19
+arctic sunrise|.|WET5698.txt|.|16
+south africa|.|WET3288.txt|.|19|.|WET5500.txt|.|51|.|WET1762.txt|.|74
+sabc|.|WET5072.txt|.|9
+zealand|.|WET240.txt|.|44|.|WET412.txt|.|9|.|WET6052.txt|.|7|.|WET2795.txt|.|7|.|WET5646.txt|.|32|.|WET5499.txt|.|25
+match drawn|.|WET5500.txt|.|19
+wild|.|WET3288.txt|.|38
+bathroom|.|WET1798.txt|.|102|.|WET3273.txt|.|27

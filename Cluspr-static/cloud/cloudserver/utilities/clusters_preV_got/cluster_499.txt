@@ -1,0 +1,12 @@
+499
+rr|.|WET5844.txt|.|16
+lgk|.|WET579.txt|.|35
+publication date|.|WET4296.txt|.|91|.|WET553.txt|.|57|.|WET1156.txt|.|9
+dodge|.|WET1664.txt|.|543|.|WET5411.txt|.|314|.|WET2788.txt|.|44|.|WET5432.txt|.|18
+perele|.|WET6192.txt|.|64
+clan|.|WET3327.txt|.|22
+gaston|.|WET1889.txt|.|36|.|WET1108.txt|.|9
+biddatajson|.|WET5844.txt|.|16
+melden|.|WET1088.txt|.|9
+source|.|WET2807.txt|.|16|.|WET4475.txt|.|14|.|WET1055.txt|.|7|.|WET6305.txt|.|11|.|WET772.txt|.|10|.|WET734.txt|.|8
+fashion|.|WET5655.txt|.|17|.|WET2593.txt|.|35|.|WET1347.txt|.|13|.|WET4831.txt|.|229

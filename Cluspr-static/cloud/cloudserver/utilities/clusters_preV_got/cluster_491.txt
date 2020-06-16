@@ -1,0 +1,12 @@
+491
+connected|.|WET220.txt|.|5|.|WET93.txt|.|2|.|WET1285.txt|.|44|.|WET1975.txt|.|8
+tvs|.|WET1284.txt|.|66|.|WET5326.txt|.|44
+tipping|.|WET6255.txt|.|32|.|WET2523.txt|.|20
+children|.|WET2304.txt|.|27|.|WET5235.txt|.|20|.|WET4255.txt|.|15
+sim|.|WET3717.txt|.|70
+own|.|WET659.txt|.|11|.|WET3717.txt|.|96|.|WET3094.txt|.|42|.|WET2720.txt|.|28|.|WET1724.txt|.|25
+service plans|.|WET3717.txt|.|95
+phones|.|WET5235.txt|.|40|.|WET3717.txt|.|149|.|WET5395.txt|.|26|.|WET1284.txt|.|66|.|WET5396.txt|.|18|.|WET1285.txt|.|66|.|WET1483.txt|.|30
+connection|.|WET3717.txt|.|56|.|WET1540.txt|.|53|.|WET5685.txt|.|35
+mapid|.|WET2910.txt|.|11
+bring your own|.|WET3717.txt|.|96

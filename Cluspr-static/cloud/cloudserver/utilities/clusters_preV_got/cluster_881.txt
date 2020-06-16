@@ -1,0 +1,12 @@
+881
+equal|.|WET4477.txt|.|3
+transfer students|.|WET6308.txt|.|11
+othersgooglegoogle|.|WET264.txt|.|171|.|WET4007.txt|.|182
+policies student|.|WET5196.txt|.|12
+academic|.|WET3732.txt|.|66|.|WET3622.txt|.|26|.|WET264.txt|.|172|.|WET6308.txt|.|42|.|WET6264.txt|.|15|.|WET4477.txt|.|26|.|WET4867.txt|.|32|.|WET1063.txt|.|58|.|WET1446.txt|.|133|.|WET4007.txt|.|182|.|WET5196.txt|.|114|.|WET3591.txt|.|180
+pleasure makes|.|WET6308.txt|.|14
+doiexport|.|WET264.txt|.|112|.|WET4007.txt|.|79
+opportunity|.|WET4477.txt|.|3
+locations|.|WET2779.txt|.|20|.|WET3732.txt|.|22|.|WET4047.txt|.|43
+searchciteseerxsemantic scholarshare|.|WET264.txt|.|166|.|WET4007.txt|.|176
+affairs|.|WET1063.txt|.|18

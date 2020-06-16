@@ -1,0 +1,12 @@
+1387
+applied mathematics science|.|WET2334.txt|.|12
+directory sites|.|WET128.txt|.|8
+semantic web standards|.|WET3240.txt|.|12
+public|.|WET3641.txt|.|10|.|WET4137.txt|.|47|.|WET397.txt|.|55|.|WET515.txt|.|23|.|WET4879.txt|.|76|.|WET5225.txt|.|90|.|WET1472.txt|.|58|.|WET1473.txt|.|176|.|WET3871.txt|.|33|.|WET4774.txt|.|34|.|WET1465.txt|.|21|.|WET5160.txt|.|58|.|WET6071.txt|.|49|.|WET2421.txt|.|14|.|WET709.txt|.|10|.|WET3304.txt|.|50|.|WET149.txt|.|10|.|WET5839.txt|.|70|.|WET6214.txt|.|102|.|WET5996.txt|.|26|.|WET2195.txt|.|28|.|WET4104.txt|.|25|.|WET4300.txt|.|6|.|WET2609.txt|.|61|.|WET2330.txt|.|16|.|WET2798.txt|.|42|.|WET5838.txt|.|14|.|WET2386.txt|.|119|.|WET2904.txt|.|31|.|WET1892.txt|.|39|.|WET1956.txt|.|48|.|WET2611.txt|.|43|.|WET5388.txt|.|40|.|WET4256.txt|.|181|.|WET4299.txt|.|11|.|WET4141.txt|.|16|.|WET2096.txt|.|62|.|WET2282.txt|.|73|.|WET4028.txt|.|52|.|WET722.txt|.|6|.|WET4345.txt|.|64|.|WET5045.txt|.|3|.|WET5486.txt|.|36|.|WET4698.txt|.|41|.|WET3660.txt|.|8|.|WET2334.txt|.|98|.|WET1410.txt|.|91|.|WET3626.txt|.|20|.|WET128.txt|.|25|.|WET5342.txt|.|9|.|WET284.txt|.|59|.|WET1250.txt|.|25|.|WET6297.txt|.|23|.|WET1056.txt|.|29|.|WET2610.txt|.|141
+concession|.|WET294.txt|.|2|.|WET2263.txt|.|3|.|WET1056.txt|.|2|.|WET811.txt|.|2|.|WET4363.txt|.|2|.|WET5474.txt|.|2
+wtiu public|.|WET4256.txt|.|48
+denver broncos|.|WET6297.txt|.|17
+employees|.|WET2334.txt|.|52
+arm|.|WET4879.txt|.|27
+cash|.|WET1473.txt|.|174|.|WET1970.txt|.|208|.|WET3013.txt|.|71|.|WET5225.txt|.|87|.|WET1472.txt|.|53|.|WET5711.txt|.|116
+shareware|.|WET5342.txt|.|10

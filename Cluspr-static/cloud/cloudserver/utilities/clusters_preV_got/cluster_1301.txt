@@ -1,0 +1,12 @@
+1301
+crystal|.|WET1579.txt|.|62|.|WET5327.txt|.|137
+en vivo|.|WET708.txt|.|271
+operating systems|.|WET334.txt|.|2|.|WET1122.txt|.|2|.|WET2091.txt|.|6|.|WET1865.txt|.|2|.|WET5603.txt|.|2|.|WET2548.txt|.|3|.|WET1488.txt|.|2|.|WET3998.txt|.|2|.|WET6310.txt|.|2|.|WET2420.txt|.|4|.|WET3151.txt|.|2|.|WET338.txt|.|3
+tomorrow|.|WET3085.txt|.|22
+electrical engineering|.|WET331.txt|.|14
+web development|.|WET5669.txt|.|12
+return address labels|.|WET1161.txt|.|9
+morinda citrifolia|.|WET3030.txt|.|62
+operating|.|WET4522.txt|.|4|.|WET3781.txt|.|6|.|WET146.txt|.|4|.|WET2548.txt|.|3|.|WET3998.txt|.|2|.|WET6310.txt|.|2|.|WET2420.txt|.|4|.|WET338.txt|.|6|.|WET442.txt|.|2|.|WET4421.txt|.|8|.|WET6256.txt|.|28|.|WET1583.txt|.|4|.|WET2291.txt|.|14|.|WET752.txt|.|4|.|WET5603.txt|.|2|.|WET4832.txt|.|62|.|WET3151.txt|.|2|.|WET930.txt|.|3|.|WET3660.txt|.|2|.|WET1122.txt|.|3|.|WET5669.txt|.|6|.|WET1161.txt|.|16|.|WET334.txt|.|3|.|WET3085.txt|.|2|.|WET2091.txt|.|6|.|WET3411.txt|.|16|.|WET1865.txt|.|3|.|WET5581.txt|.|11|.|WET3410.txt|.|18|.|WET1488.txt|.|2|.|WET4754.txt|.|6|.|WET6030.txt|.|27|.|WET5391.txt|.|2
+questions general assembly|.|WET1540.txt|.|12
+eugene|.|WET5146.txt|.|8

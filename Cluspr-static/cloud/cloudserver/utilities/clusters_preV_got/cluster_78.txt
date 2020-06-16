@@ -1,0 +1,12 @@
+78
+ramadan timetable|.|WET5854.txt|.|7
+muslim|.|WET5854.txt|.|21|.|WET5853.txt|.|31|.|WET5855.txt|.|31
+us download|.|WET2112.txt|.|8
+timings|.|WET5854.txt|.|14
+falkland islands|.|WET5855.txt|.|11
+hear automatic|.|WET2113.txt|.|17
+islands malvinas faroe|.|WET5854.txt|.|10
+family love|.|WET5029.txt|.|9
+pray|.|WET2112.txt|.|28
+fast ramazan|.|WET5854.txt|.|7
+timetable|.|WET5854.txt|.|14

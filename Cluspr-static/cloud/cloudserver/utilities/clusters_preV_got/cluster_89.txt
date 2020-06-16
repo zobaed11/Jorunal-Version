@@ -1,0 +1,12 @@
+89
+kitchenware|.|WET2642.txt|.|40
+chimney cap|.|WET5477.txt|.|22
+knitting pattern|.|WET2260.txt|.|14
+soccer jersey history|.|WET892.txt|.|6
+root|.|WET3239.txt|.|11|.|WET912.txt|.|14
+diet bar|.|WET6259.txt|.|19
+login signup|.|WET2902.txt|.|5
+girl boy|.|WET4211.txt|.|40
+lg town|.|WET3020.txt|.|24
+connect home|.|WET1391.txt|.|11
+brand hot|.|WET5493.txt|.|135|.|WET1756.txt|.|165

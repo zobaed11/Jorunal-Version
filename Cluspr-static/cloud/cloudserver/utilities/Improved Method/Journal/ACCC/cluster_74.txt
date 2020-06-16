@@ -1,0 +1,29 @@
+74
+newspaper|.|WET4438.txt|.|56|.|WET3930.txt|.|14|.|WET4030.txt|.|35|.|WET5892.txt|.|31|.|WET3976.txt|.|28
+photos of louisville|.|WET4030.txt|.|31
+digital image collection|.|WET4030.txt|.|33
+revelation|.|WET5892.txt|.|90
+honor|.|WET4030.txt|.|32|.|WET1485.txt|.|143
+photo company collection|.|WET4030.txt|.|31
+son|.|WET5638.txt|.|30|.|WET5345.txt|.|57|.|WET3200.txt|.|14|.|WET5899.txt|.|20|.|WET5892.txt|.|59
+metropolitan sewer district|.|WET4030.txt|.|31
+valley university|.|WET3976.txt|.|292
+sewer|.|WET4030.txt|.|31|.|WET287.txt|.|33
+royal photo company|.|WET4030.txt|.|31
+california digital newspaper|.|WET3930.txt|.|12
+newspaper editor|.|WET5892.txt|.|29
+utah valley|.|WET3976.txt|.|324
+international honor quilt|.|WET4030.txt|.|32
+metropolitan|.|WET4457.txt|.|31|.|WET4030.txt|.|31
+revelation book|.|WET5892.txt|.|48
+newspaper for utah|.|WET3976.txt|.|22
+newspapers|.|WET249.txt|.|50|.|WET286.txt|.|102|.|WET3976.txt|.|55|.|WET3973.txt|.|62
+art museum|.|WET3976.txt|.|88
+honor quilt collection|.|WET4030.txt|.|32
+utah|.|WET582.txt|.|184|.|WET2906.txt|.|170|.|WET3976.txt|.|590
+university historical student|.|WET3976.txt|.|46
+collection of historical|.|WET3976.txt|.|44
+historical student newspapers|.|WET3976.txt|.|46
+district|.|WET2587.txt|.|37|.|WET4030.txt|.|35|.|WET287.txt|.|35|.|WET1956.txt|.|50|.|WET4757.txt|.|42|.|WET3747.txt|.|14
+california digital|.|WET3930.txt|.|12
+louisville|.|WET4030.txt|.|628|.|WET287.txt|.|431|.|WET286.txt|.|792

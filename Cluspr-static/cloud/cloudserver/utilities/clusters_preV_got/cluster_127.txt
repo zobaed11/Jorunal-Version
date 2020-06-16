@@ -1,0 +1,12 @@
+127
+qt|.|WET4295.txt|.|18|.|WET568.txt|.|14|.|WET997.txt|.|10
+qt applications|.|WET4295.txt|.|18|.|WET568.txt|.|14|.|WET997.txt|.|10
+xfce|.|WET4295.txt|.|9
+orange aid|.|WET2375.txt|.|42
+selling|.|WET3635.txt|.|14|.|WET2538.txt|.|90|.|WET5467.txt|.|23|.|WET4892.txt|.|14|.|WET1724.txt|.|25|.|WET5779.txt|.|14
+artwork|.|WET4199.txt|.|70|.|WET4295.txt|.|155|.|WET568.txt|.|127|.|WET997.txt|.|92|.|WET4738.txt|.|73
+job offers|.|WET4295.txt|.|18
+xfce desktop|.|WET4295.txt|.|9
+parker|.|WET4871.txt|.|12
+unfollow|.|WET4793.txt|.|40|.|WET1044.txt|.|90
+gnome|.|WET4295.txt|.|23|.|WET3266.txt|.|12

@@ -1,0 +1,12 @@
+608
+city council|.|WET1339.txt|.|27
+council shop open|.|WET1918.txt|.|14
+move|.|WET616.txt|.|3
+pos|.|WET3656.txt|.|12|.|WET2209.txt|.|24
+lieutenant|.|WET2698.txt|.|18
+council|.|WET616.txt|.|17|.|WET1339.txt|.|63|.|WET4457.txt|.|30|.|WET5269.txt|.|12|.|WET2698.txt|.|31|.|WET1918.txt|.|31|.|WET4675.txt|.|8|.|WET2209.txt|.|88
+officer|.|WET2238.txt|.|14|.|WET616.txt|.|6|.|WET5645.txt|.|19
+arts council|.|WET2698.txt|.|16
+lieutenant governor|.|WET2698.txt|.|16
+council of europe|.|WET5269.txt|.|10
+agenda|.|WET1339.txt|.|45|.|WET6284.txt|.|23

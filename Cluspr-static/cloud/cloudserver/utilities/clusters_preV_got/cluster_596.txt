@@ -1,0 +1,12 @@
+596
+fan shop|.|WET2950.txt|.|120
+smtp|.|WET4164.txt|.|72
+spotify|.|WET2224.txt|.|70|.|WET5962.txt|.|20
+boat cover|.|WET3282.txt|.|18
+apparel|.|WET5679.txt|.|148|.|WET2950.txt|.|394|.|WET5124.txt|.|144|.|WET5574.txt|.|25|.|WET1786.txt|.|96|.|WET5552.txt|.|42|.|WET6182.txt|.|26|.|WET1817.txt|.|71
+protective gear apparel|.|WET2950.txt|.|40
+pandora|.|WET2590.txt|.|454
+trampolines|.|WET2950.txt|.|70
+oahu|.|WET5878.txt|.|9
+deals with free|.|WET1817.txt|.|15
+basketball shoes|.|WET2950.txt|.|60

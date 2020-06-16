@@ -1,0 +1,12 @@
+834
+favourite contemporary teachers|.|WET4021.txt|.|20
+inrequest accountlog|.|WET4077.txt|.|9
+users help|.|WET3175.txt|.|12
+wings|.|WET4619.txt|.|52
+prev|.|WET755.txt|.|20|.|WET4494.txt|.|40|.|WET4495.txt|.|28
+remember me on this computer|.|WET5346.txt|.|14
+crag|.|WET3174.txt|.|32|.|WET3175.txt|.|22
+sumatera utara|.|WET5251.txt|.|18
+navigation home|.|WET3374.txt|.|6
+navigation navigation toggle|.|WET3174.txt|.|11
+find crag|.|WET3175.txt|.|12

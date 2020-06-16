@@ -1,0 +1,12 @@
+355
+compare crown alloy|.|WET3270.txt|.|15
+postagem enviar|.|WET830.txt|.|15
+marionette theatre|.|WET3688.txt|.|9
+fast food|.|WET2737.txt|.|9
+unanswered|.|WET5541.txt|.|10
+conspiracy discussion|.|WET1504.txt|.|17
+secret|.|WET3832.txt|.|132|.|WET2411.txt|.|10|.|WET592.txt|.|52
+foundation|.|WET4666.txt|.|4|.|WET3559.txt|.|14
+theory|.|WET724.txt|.|9|.|WET327.txt|.|3|.|WET130.txt|.|5|.|WET3854.txt|.|2|.|WET2104.txt|.|9|.|WET4072.txt|.|4
+moline oliver|.|WET3345.txt|.|30
+trailer movie|.|WET6162.txt|.|36

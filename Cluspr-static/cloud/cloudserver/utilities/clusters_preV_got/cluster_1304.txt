@@ -1,0 +1,12 @@
+1304
+sports card|.|WET2951.txt|.|61
+trade manager|.|WET2951.txt|.|13
+lilley|.|WET1900.txt|.|14
+intimates|.|WET2220.txt|.|30
+sref|.|WET2939.txt|.|56
+member list|.|WET2951.txt|.|13
+responses|.|WET1996.txt|.|70|.|WET5737.txt|.|77
+last name for next card|.|WET5024.txt|.|974
+trading card|.|WET3132.txt|.|16|.|WET3131.txt|.|37|.|WET3130.txt|.|18
+item availability|.|WET2592.txt|.|30
+card|.|WET3132.txt|.|24|.|WET876.txt|.|197|.|WET5624.txt|.|49|.|WET3243.txt|.|88|.|WET5238.txt|.|156|.|WET2658.txt|.|69|.|WET875.txt|.|56|.|WET881.txt|.|24|.|WET2952.txt|.|73|.|WET3316.txt|.|19|.|WET4588.txt|.|36|.|WET1570.txt|.|62|.|WET5744.txt|.|10|.|WET5625.txt|.|50|.|WET2951.txt|.|556|.|WET4616.txt|.|196|.|WET2592.txt|.|245|.|WET5024.txt|.|1068|.|WET5508.txt|.|104|.|WET1571.txt|.|45|.|WET5877.txt|.|30|.|WET3597.txt|.|31|.|WET3885.txt|.|31|.|WET3130.txt|.|40|.|WET3649.txt|.|42|.|WET821.txt|.|614|.|WET2844.txt|.|44|.|WET3131.txt|.|54|.|WET3572.txt|.|52|.|WET3573.txt|.|36|.|WET997.txt|.|75|.|WET5038.txt|.|35|.|WET4737.txt|.|90|.|WET2313.txt|.|8

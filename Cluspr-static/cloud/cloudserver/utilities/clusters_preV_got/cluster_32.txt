@@ -1,0 +1,12 @@
+32
+tyres|.|WET1781.txt|.|32
+hertz|.|WET6149.txt|.|4
+motogp buzz|.|WET6149.txt|.|12
+grand prix|.|WET5517.txt|.|271|.|WET1781.txt|.|363|.|WET1782.txt|.|45|.|WET6149.txt|.|27|.|WET2405.txt|.|63
+drivers and teams|.|WET5517.txt|.|12
+hertz british|.|WET6149.txt|.|4
+en course|.|WET2405.txt|.|8
+ten|.|WET5517.txt|.|78|.|WET895.txt|.|11
+fanatic|.|WET1781.txt|.|108|.|WET1782.txt|.|14
+gp tyres|.|WET1781.txt|.|16
+prix team|.|WET5517.txt|.|66

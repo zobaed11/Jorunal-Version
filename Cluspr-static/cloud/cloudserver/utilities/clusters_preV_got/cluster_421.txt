@@ -1,0 +1,12 @@
+421
+leader|.|WET6223.txt|.|37|.|WET286.txt|.|234
+cast|.|WET5719.txt|.|23|.|WET5268.txt|.|9|.|WET5728.txt|.|11
+casa|.|WET3917.txt|.|71
+report this ad|.|WET1776.txt|.|30
+rna seq|.|WET5254.txt|.|5
+usage|.|WET2575.txt|.|113|.|WET4083.txt|.|67
+validation wb|.|WET2705.txt|.|4
+antibodies|.|WET5254.txt|.|96
+doubling technology|.|WET1117.txt|.|5
+cell|.|WET2616.txt|.|63|.|WET4016.txt|.|13|.|WET2705.txt|.|65|.|WET5254.txt|.|249|.|WET2649.txt|.|1116|.|WET2650.txt|.|553|.|WET5396.txt|.|7
+var target|.|WET2202.txt|.|22|.|WET2203.txt|.|14

@@ -1,0 +1,3 @@
+entire site|.|WET2543.txt|.|18
+details|.|WET2894.txt|.|3|.|WET4775.txt|.|21|.|WET4979.txt|.|68|.|WET5336.txt|.|16|.|WET1218.txt|.|144|.|WET6277.txt|.|195|.|WET2453.txt|.|27|.|WET2412.txt|.|92|.|WET3165.txt|.|19|.|WET3613.txt|.|87|.|WET2312.txt|.|40|.|WET1244.txt|.|57|.|WET5846.txt|.|15|.|WET6278.txt|.|378|.|WET2543.txt|.|249|.|WET3625.txt|.|10|.|WET4750.txt|.|136
+entire|.|WET2543.txt|.|18

@@ -1,0 +1,12 @@
+1194
+major league|.|WET4394.txt|.|41|.|WET3951.txt|.|13
+contemporary|.|WET4959.txt|.|43|.|WET2865.txt|.|53|.|WET4021.txt|.|22
+ama|.|WET4906.txt|.|90|.|WET4657.txt|.|19
+bb so hr|.|WET1256.txt|.|22
+league|.|WET1256.txt|.|232|.|WET3124.txt|.|38|.|WET3306.txt|.|54|.|WET2917.txt|.|131|.|WET2918.txt|.|239|.|WET1572.txt|.|31|.|WET4394.txt|.|74|.|WET3044.txt|.|23|.|WET2580.txt|.|85|.|WET4693.txt|.|81|.|WET2948.txt|.|26|.|WET3898.txt|.|23|.|WET5805.txt|.|8|.|WET1257.txt|.|180|.|WET6318.txt|.|41|.|WET1929.txt|.|118|.|WET700.txt|.|41|.|WET415.txt|.|22|.|WET2919.txt|.|110|.|WET3045.txt|.|42|.|WET3951.txt|.|17|.|WET4441.txt|.|27|.|WET2499.txt|.|57|.|WET5670.txt|.|95
+equipment soccer|.|WET2917.txt|.|6
+tor al central|.|WET4693.txt|.|20
+amd|.|WET1166.txt|.|55|.|WET5349.txt|.|50|.|WET1167.txt|.|51
+bayern|.|WET2918.txt|.|91|.|WET902.txt|.|39
+age|.|WET4617.txt|.|24|.|WET751.txt|.|36|.|WET4970.txt|.|24|.|WET2919.txt|.|131|.|WET1733.txt|.|97|.|WET5728.txt|.|12|.|WET2510.txt|.|23|.|WET1447.txt|.|48|.|WET3446.txt|.|243
+college ballparks|.|WET4693.txt|.|20

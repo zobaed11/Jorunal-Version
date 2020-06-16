@@ -1,0 +1,12 @@
+175
+average|.|WET2118.txt|.|106|.|WET5860.txt|.|37|.|WET2119.txt|.|19|.|WET2447.txt|.|5|.|WET1047.txt|.|38
+average retail|.|WET2447.txt|.|5
+superior|.|WET4400.txt|.|41|.|WET3703.txt|.|27
+wide|.|WET5804.txt|.|69|.|WET6218.txt|.|5|.|WET5452.txt|.|51|.|WET2061.txt|.|43|.|WET1840.txt|.|25
+business record|.|WET5145.txt|.|14
+honey|.|WET3254.txt|.|32|.|WET5027.txt|.|56
+excluding|.|WET2118.txt|.|26
+fiesta|.|WET910.txt|.|10
+drod|.|WET659.txt|.|4
+pure|.|WET5886.txt|.|22
+locksmiths|.|WET2443.txt|.|15

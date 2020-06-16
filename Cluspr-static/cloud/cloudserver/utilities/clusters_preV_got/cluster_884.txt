@@ -1,0 +1,12 @@
+884
+input|.|WET2463.txt|.|9
+benches|.|WET5765.txt|.|22
+kings san|.|WET2024.txt|.|6
+toronto raptors forums|.|WET2737.txt|.|13
+insidehoops message board|.|WET2094.txt|.|11
+boston celtics|.|WET2024.txt|.|6
+nba standings|.|WET5765.txt|.|22
+orlando magic|.|WET2024.txt|.|6
+message user name|.|WET2094.txt|.|11
+nba|.|WET2463.txt|.|38|.|WET5839.txt|.|86|.|WET2094.txt|.|99|.|WET2794.txt|.|99|.|WET6202.txt|.|94|.|WET2190.txt|.|34|.|WET6185.txt|.|137|.|WET5928.txt|.|46|.|WET2024.txt|.|102|.|WET2191.txt|.|30|.|WET5765.txt|.|187|.|WET2737.txt|.|38
+lineups|.|WET5765.txt|.|22

@@ -1,0 +1,12 @@
+1144
+flyff|.|WET5582.txt|.|8
+additional privacy|.|WET1752.txt|.|32
+drug information|.|WET3794.txt|.|188
+lake powell|.|WET3744.txt|.|9
+tv scoop|.|WET1752.txt|.|16
+red carpet|.|WET2629.txt|.|13|.|WET1752.txt|.|18
+international|.|WET4030.txt|.|32|.|WET5239.txt|.|20|.|WET3794.txt|.|170|.|WET5582.txt|.|31|.|WET3188.txt|.|37|.|WET2837.txt|.|113|.|WET1680.txt|.|34|.|WET3189.txt|.|38|.|WET5520.txt|.|37|.|WET405.txt|.|3|.|WET2106.txt|.|13|.|WET582.txt|.|48|.|WET6318.txt|.|10|.|WET1959.txt|.|21|.|WET3744.txt|.|10|.|WET2187.txt|.|61|.|WET3190.txt|.|40|.|WET292.txt|.|32|.|WET1752.txt|.|88|.|WET3339.txt|.|26|.|WET577.txt|.|376
+media centre|.|WET2187.txt|.|13
+international audience|.|WET1752.txt|.|80
+create a forum|.|WET5582.txt|.|30
+airports|.|WET2187.txt|.|68|.|WET3675.txt|.|36

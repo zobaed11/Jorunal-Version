@@ -1,0 +1,12 @@
+904
+market|.|WET3815.txt|.|82|.|WET4702.txt|.|65|.|WET3316.txt|.|96|.|WET5132.txt|.|54|.|WET69.txt|.|61|.|WET3583.txt|.|20|.|WET2211.txt|.|5|.|WET963.txt|.|52|.|WET5760.txt|.|27|.|WET4071.txt|.|61|.|WET1647.txt|.|17|.|WET4115.txt|.|13
+skin rash|.|WET3316.txt|.|6
+money market|.|WET4071.txt|.|27
+rash|.|WET3316.txt|.|11
+costs|.|WET3316.txt|.|46|.|WET3216.txt|.|13|.|WET3291.txt|.|20
+companies|.|WET5132.txt|.|16|.|WET1098.txt|.|10|.|WET5113.txt|.|14
+market store|.|WET3316.txt|.|28
+selected store|.|WET3316.txt|.|36
+pickup|.|WET5043.txt|.|16|.|WET3316.txt|.|113|.|WET5432.txt|.|14
+shipping costs|.|WET3316.txt|.|46|.|WET3216.txt|.|13|.|WET3291.txt|.|20
+ratio|.|WET5132.txt|.|17

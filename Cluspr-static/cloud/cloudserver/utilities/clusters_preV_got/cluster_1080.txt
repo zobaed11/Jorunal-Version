@@ -1,0 +1,12 @@
+1080
+webmaster|.|WET5749.txt|.|10
+baby girl|.|WET4211.txt|.|16
+load|.|WET1697.txt|.|13
+tm tractor parts|.|WET1795.txt|.|20
+harrow|.|WET5530.txt|.|9
+tug|.|WET1795.txt|.|11
+photos tractor show|.|WET1795.txt|.|10
+unusual harrow|.|WET5530.txt|.|8
+index|.|WET3923.txt|.|4|.|WET712.txt|.|8|.|WET1137.txt|.|28|.|WET1795.txt|.|50|.|WET5530.txt|.|23|.|WET4029.txt|.|28|.|WET4147.txt|.|10|.|WET4003.txt|.|24|.|WET4046.txt|.|2|.|WET2098.txt|.|92|.|WET5749.txt|.|20|.|WET5063.txt|.|16|.|WET1697.txt|.|17|.|WET406.txt|.|11|.|WET5841.txt|.|92|.|WET4330.txt|.|1|.|WET4211.txt|.|72|.|WET5060.txt|.|24
+unusual|.|WET5530.txt|.|8
+small business|.|WET1697.txt|.|34

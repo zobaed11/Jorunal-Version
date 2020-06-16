@@ -1,0 +1,12 @@
+1
+organ|.|WET2866.txt|.|148
+fico scores|.|WET371.txt|.|6
+customer favorites|.|WET5003.txt|.|35
+period|.|WET2866.txt|.|77
+superbike|.|WET4965.txt|.|15
+classical|.|WET70.txt|.|66|.|WET729.txt|.|6|.|WET4370.txt|.|3|.|WET2866.txt|.|130
+studies|.|WET5520.txt|.|22|.|WET1786.txt|.|44|.|WET4867.txt|.|20
+bible reference|.|WET5520.txt|.|18|.|WET1786.txt|.|24
+functionality|.|WET4379.txt|.|3|.|WET2972.txt|.|6|.|WET639.txt|.|2|.|WET2917.txt|.|3|.|WET4866.txt|.|2|.|WET1005.txt|.|8|.|WET1786.txt|.|8|.|WET5357.txt|.|2|.|WET2061.txt|.|2|.|WET6022.txt|.|2|.|WET5697.txt|.|3|.|WET5375.txt|.|7|.|WET1731.txt|.|3|.|WET1214.txt|.|2|.|WET2015.txt|.|4|.|WET5473.txt|.|4|.|WET2536.txt|.|3|.|WET5735.txt|.|3|.|WET3620.txt|.|3|.|WET5804.txt|.|4|.|WET3270.txt|.|5|.|WET2401.txt|.|3|.|WET3589.txt|.|4|.|WET4851.txt|.|2|.|WET5944.txt|.|2|.|WET3759.txt|.|6|.|WET2788.txt|.|8|.|WET5520.txt|.|6|.|WET5478.txt|.|7|.|WET4716.txt|.|3|.|WET1119.txt|.|2|.|WET1007.txt|.|11|.|WET2179.txt|.|2|.|WET4534.txt|.|2|.|WET1161.txt|.|3|.|WET1609.txt|.|3|.|WET5954.txt|.|7|.|WET5759.txt|.|6|.|WET1980.txt|.|5|.|WET5599.txt|.|3|.|WET1343.txt|.|2|.|WET5754.txt|.|2|.|WET1415.txt|.|5|.|WET5953.txt|.|7|.|WET2932.txt|.|5|.|WET3246.txt|.|3|.|WET2804.txt|.|7
+machines|.|WET1520.txt|.|13|.|WET3705.txt|.|34|.|WET5271.txt|.|11
+classical period|.|WET2866.txt|.|40

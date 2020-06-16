@@ -1,0 +1,12 @@
+1265
+barn quilt|.|WET6123.txt|.|10
+lansing|.|WET2376.txt|.|79|.|WET3856.txt|.|26
+lansing muskegon saginaw|.|WET2376.txt|.|43|.|WET3856.txt|.|19
+menu item|.|WET1781.txt|.|40
+garage|.|WET2136.txt|.|121|.|WET2137.txt|.|112|.|WET2135.txt|.|109|.|WET397.txt|.|9|.|WET5876.txt|.|83|.|WET4136.txt|.|2|.|WET2730.txt|.|22
+dead|.|WET5611.txt|.|13|.|WET2752.txt|.|119|.|WET1894.txt|.|6
+metrics|.|WET6220.txt|.|20
+bay|.|WET2377.txt|.|82|.|WET2582.txt|.|138|.|WET1951.txt|.|9|.|WET6123.txt|.|28|.|WET4613.txt|.|32|.|WET3901.txt|.|23|.|WET1481.txt|.|16|.|WET1708.txt|.|15|.|WET4591.txt|.|19|.|WET6122.txt|.|83|.|WET3378.txt|.|40|.|WET873.txt|.|40|.|WET3856.txt|.|40
+grand|.|WET2226.txt|.|17|.|WET2137.txt|.|201|.|WET5239.txt|.|16|.|WET29.txt|.|16|.|WET6123.txt|.|50|.|WET1781.txt|.|363|.|WET5875.txt|.|130|.|WET1782.txt|.|45|.|WET5611.txt|.|16|.|WET1972.txt|.|29|.|WET1920.txt|.|75|.|WET2481.txt|.|22|.|WET2376.txt|.|143|.|WET5876.txt|.|154|.|WET5185.txt|.|25|.|WET5705.txt|.|34|.|WET4205.txt|.|42|.|WET5659.txt|.|105|.|WET2377.txt|.|102|.|WET2135.txt|.|188|.|WET4206.txt|.|10|.|WET3470.txt|.|19|.|WET2405.txt|.|82|.|WET479.txt|.|42|.|WET6122.txt|.|104|.|WET2136.txt|.|220|.|WET5517.txt|.|271|.|WET6149.txt|.|29|.|WET3856.txt|.|46|.|WET6220.txt|.|20
+rapids jackson kalamazoo|.|WET6122.txt|.|34|.|WET2376.txt|.|38
+vesiculobullous|.|WET4205.txt|.|11

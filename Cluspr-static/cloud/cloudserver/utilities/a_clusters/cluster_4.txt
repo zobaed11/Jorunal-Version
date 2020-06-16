@@ -1,0 +1,20 @@
+4
+init|.|rfc2960.txt|.|266|.|rfc4960.txt|.|331|.|rfc4460.txt|.|219
+sctp user|.|rfc2960.txt|.|41
+pep motivation|.|rfc3135.txt|.|6
+upper|.|rfc2960.txt|.|37|.|rfc6250.txt|.|3|.|rfc6078.txt|.|1
+ack packets|.|rfc5690.txt|.|115
+sctp packet|.|rfc2960.txt|.|64
+ack|.|rfc2960.txt|.|286|.|rfc4960.txt|.|319|.|rfc2188.txt|.|4|.|rfc5061.txt|.|9|.|rfc4340.txt|.|184|.|rfc3522.txt|.|47|.|rfc1953.txt|.|43|.|rfc5690.txt|.|503|.|rfc3135.txt|.|33|.|rfc4460.txt|.|150|.|rfc3423.txt|.|34|.|rfc4341.txt|.|89|.|rfc1962.txt|.|2
+ack message|.|rfc1953.txt|.|21
+init ack chunk|.|rfc4460.txt|.|13
+cookie echo|.|rfc4960.txt|.|74|.|rfc4460.txt|.|26
+acceptable ack|.|rfc3522.txt|.|22
+init ack|.|rfc4960.txt|.|130
+congestion control mechanism|.|rfc5690.txt|.|12|.|rfc3448.txt|.|8
+label range|.|rfc1953.txt|.|12
+ack congestion|.|rfc5690.txt|.|123
+upper layer|.|rfc2960.txt|.|34|.|rfc6250.txt|.|2|.|rfc6078.txt|.|1
+shutdown|.|rfc2960.txt|.|128|.|rfc5817.txt|.|63|.|rfc4960.txt|.|141|.|rfc6198.txt|.|50
+specific options|.|rfc4340.txt|.|1
+shutdown ack|.|rfc2960.txt|.|28

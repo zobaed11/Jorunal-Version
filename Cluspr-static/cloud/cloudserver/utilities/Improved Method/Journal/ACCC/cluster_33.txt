@@ -1,0 +1,45 @@
+33
+privileges|.|WET2277.txt|.|9
+stress weight loss|.|WET2067.txt|.|88|.|WET5808.txt|.|88
+mood|.|WET2067.txt|.|88|.|WET5808.txt|.|90
+foods|.|WET5809.txt|.|149|.|WET3905.txt|.|18|.|WET711.txt|.|24|.|WET3906.txt|.|22|.|WET2989.txt|.|100
+joints|.|WET2067.txt|.|88|.|WET5808.txt|.|89
+mood stress|.|WET5808.txt|.|88
+immunity|.|WET2067.txt|.|88
+stress weight|.|WET5808.txt|.|88
+low carb|.|WET6014.txt|.|90|.|WET6015.txt|.|90|.|WET2278.txt|.|27|.|WET2277.txt|.|99
+loss|.|WET941.txt|.|4|.|WET34.txt|.|27|.|WET5809.txt|.|81|.|WET4983.txt|.|12|.|WET2067.txt|.|99|.|WET2937.txt|.|20|.|WET2277.txt|.|22|.|WET5808.txt|.|103
+message reply|.|WET2937.txt|.|196
+fitness|.|WET6079.txt|.|30|.|WET3201.txt|.|42|.|WET2940.txt|.|31|.|WET847.txt|.|47|.|WET2452.txt|.|19|.|WET2937.txt|.|154|.|WET4103.txt|.|15|.|WET5802.txt|.|129
+cholesterol|.|WET2067.txt|.|89
+weight loss forum training forum|.|WET34.txt|.|16
+pressure blood sugar|.|WET2067.txt|.|88
+news research|.|WET34.txt|.|8
+carb|.|WET6014.txt|.|90|.|WET6015.txt|.|90|.|WET2278.txt|.|27|.|WET2277.txt|.|99|.|WET5567.txt|.|73
+join for free|.|WET2937.txt|.|16
+stress|.|WET2067.txt|.|88|.|WET2865.txt|.|11|.|WET5808.txt|.|92
+supplement forum|.|WET34.txt|.|20|.|WET3783.txt|.|11
+blood pressure|.|WET5809.txt|.|72
+blood sugar cholesterol|.|WET2067.txt|.|88
+mood stress weight loss|.|WET5808.txt|.|88
+mood stress weight|.|WET2067.txt|.|88|.|WET5808.txt|.|88
+weight loss|.|WET5809.txt|.|81|.|WET2937.txt|.|20|.|WET2277.txt|.|22
+cholesterol immunity joints|.|WET2067.txt|.|88
+plan my fitness|.|WET2937.txt|.|8
+weight|.|WET34.txt|.|31|.|WET5809.txt|.|97|.|WET2067.txt|.|116|.|WET2937.txt|.|126|.|WET2277.txt|.|22|.|WET5808.txt|.|126
+originally|.|WET4858.txt|.|35|.|WET34.txt|.|61|.|WET2385.txt|.|7|.|WET5057.txt|.|42|.|WET6214.txt|.|52|.|WET2380.txt|.|81
+pressure|.|WET5809.txt|.|72|.|WET2067.txt|.|88|.|WET1998.txt|.|28
+privileges to access|.|WET2277.txt|.|9
+web search|.|WET1868.txt|.|2|.|WET900.txt|.|2|.|WET159.txt|.|3|.|WET1862.txt|.|4|.|WET4639.txt|.|2|.|WET2937.txt|.|9|.|WET3536.txt|.|2|.|WET6186.txt|.|3|.|WET2494.txt|.|2
+blood|.|WET5809.txt|.|145|.|WET2067.txt|.|176|.|WET918.txt|.|16|.|WET5436.txt|.|53|.|WET6089.txt|.|13
+blood pressure blood|.|WET2067.txt|.|88
+sugar cholesterol immunity|.|WET2067.txt|.|88
+nutrition|.|WET5438.txt|.|22|.|WET5809.txt|.|91|.|WET2640.txt|.|6|.|WET2057.txt|.|57|.|WET2068.txt|.|66|.|WET5926.txt|.|25|.|WET5567.txt|.|149|.|WET5802.txt|.|34
+sparkpage|.|WET2937.txt|.|164
+supplement|.|WET34.txt|.|58|.|WET3783.txt|.|30
+sparkpage send|.|WET2937.txt|.|147
+sparkpoints|.|WET2937.txt|.|123
+member gallery|.|WET34.txt|.|8
+weight loss forum|.|WET34.txt|.|16
+sugar|.|WET3443.txt|.|21|.|WET1831.txt|.|73|.|WET2067.txt|.|106|.|WET4659.txt|.|17
+training forum|.|WET34.txt|.|16|.|WET3783.txt|.|11

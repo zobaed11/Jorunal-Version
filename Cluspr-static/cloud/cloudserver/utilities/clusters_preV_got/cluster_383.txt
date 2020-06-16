@@ -1,0 +1,12 @@
+383
+sliding|.|WET3208.txt|.|7
+woodruff|.|WET227.txt|.|135
+door|.|WET4277.txt|.|98|.|WET2596.txt|.|88|.|WET5417.txt|.|51|.|WET1670.txt|.|29|.|WET3208.txt|.|22|.|WET1100.txt|.|24
+scientist|.|WET3041.txt|.|61
+catches|.|WET1670.txt|.|12
+schedules services|.|WET1670.txt|.|2
+door knobs|.|WET5417.txt|.|11
+read more april|.|WET458.txt|.|17
+dodge city daily|.|WET5411.txt|.|15
+brother|.|WET4188.txt|.|5|.|WET1337.txt|.|16|.|WET5417.txt|.|7
+furniture and hardware|.|WET3208.txt|.|16

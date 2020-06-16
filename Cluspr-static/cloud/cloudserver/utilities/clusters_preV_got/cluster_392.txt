@@ -1,0 +1,12 @@
+392
+perl programming|.|WET4497.txt|.|22
+digital photo|.|WET214.txt|.|108|.|WET3961.txt|.|170
+catalyst|.|WET1440.txt|.|17
+head gear|.|WET1993.txt|.|36
+shade|.|WET3025.txt|.|63
+sound system|.|WET2931.txt|.|21
+vnc|.|WET3733.txt|.|23
+programming visual|.|WET4150.txt|.|43
+cakes|.|WET3909.txt|.|70
+uri|.|WET4756.txt|.|1|.|WET4056.txt|.|1|.|WET3500.txt|.|2|.|WET4472.txt|.|3|.|WET3790.txt|.|1|.|WET3535.txt|.|1|.|WET4087.txt|.|3|.|WET3413.txt|.|2|.|WET756.txt|.|8|.|WET394.txt|.|3|.|WET461.txt|.|8|.|WET4040.txt|.|2|.|WET43.txt|.|2|.|WET4088.txt|.|4|.|WET4027.txt|.|2|.|WET4058.txt|.|2|.|WET2296.txt|.|1|.|WET549.txt|.|2|.|WET3421.txt|.|1|.|WET908.txt|.|1|.|WET5897.txt|.|1|.|WET2354.txt|.|1|.|WET283.txt|.|2|.|WET819.txt|.|3|.|WET4059.txt|.|1|.|WET4740.txt|.|2|.|WET1864.txt|.|1|.|WET1254.txt|.|1|.|WET305.txt|.|3|.|WET3372.txt|.|4|.|WET4559.txt|.|1|.|WET301.txt|.|5|.|WET4716.txt|.|1|.|WET4805.txt|.|8|.|WET665.txt|.|2|.|WET4061.txt|.|1|.|WET1874.txt|.|2|.|WET3467.txt|.|1|.|WET197.txt|.|1|.|WET3492.txt|.|1|.|WET356.txt|.|24|.|WET313.txt|.|1|.|WET2300.txt|.|2|.|WET3910.txt|.|1|.|WET733.txt|.|1|.|WET3551.txt|.|2|.|WET640.txt|.|1
+programming logic|.|WET1716.txt|.|1

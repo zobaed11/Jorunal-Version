@@ -1,0 +1,12 @@
+87
+round barn festival|.|WET2782.txt|.|28
+date purchasedownedpurchase locationconditionformat|.|WET5684.txt|.|60
+encyclopedia|.|WET342.txt|.|22|.|WET5831.txt|.|33|.|WET5830.txt|.|42
+collection unm|.|WET323.txt|.|1112
+custodial|.|WET962.txt|.|6
+local exchange|.|WET3838.txt|.|20
+performing|.|WET1701.txt|.|7|.|WET2427.txt|.|24
+chef sara|.|WET2491.txt|.|9
+everyday values|.|WET2025.txt|.|10
+lane|.|WET5957.txt|.|106|.|WET5.txt|.|10|.|WET2220.txt|.|105
+site ordering|.|WET2241.txt|.|4

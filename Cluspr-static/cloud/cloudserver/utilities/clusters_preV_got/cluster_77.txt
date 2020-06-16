@@ -1,0 +1,12 @@
+77
+recibo|.|WET1570.txt|.|22
+softball|.|WET3826.txt|.|60|.|WET3013.txt|.|39|.|WET2044.txt|.|59
+picks new|.|WET5340.txt|.|24
+adam|.|WET6305.txt|.|11
+red cross|.|WET2753.txt|.|19
+aday|.|WET2930.txt|.|40
+bottled|.|WET2139.txt|.|32
+redundancies|.|WET163.txt|.|2
+daughter|.|WET5604.txt|.|8
+hotter|.|WET974.txt|.|29
+suggest deletion|.|WET4882.txt|.|116

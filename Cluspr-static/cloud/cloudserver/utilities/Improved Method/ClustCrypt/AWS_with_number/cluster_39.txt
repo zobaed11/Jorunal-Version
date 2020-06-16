@@ -1,0 +1,4 @@
+39
+covering basic|.|WET4824.txt|.|2
+covering|.|WET4824.txt|.|2
+live|.|WET400.txt|.|121|.|WET4781.txt|.|24|.|WET567.txt|.|22|.|WET1269.txt|.|36|.|WET701.txt|.|115|.|WET4306.txt|.|34|.|WET2217.txt|.|16|.|WET561.txt|.|17|.|WET1002.txt|.|10|.|WET4824.txt|.|30|.|WET2001.txt|.|14|.|WET740.txt|.|68|.|WET4765.txt|.|31|.|WET5633.txt|.|51|.|WET1588.txt|.|32|.|WET3893.txt|.|24|.|WET4311.txt|.|22|.|WET1447.txt|.|8|.|WET3579.txt|.|184|.|WET1049.txt|.|42|.|WET3113.txt|.|62|.|WET3996.txt|.|48|.|WET3894.txt|.|18|.|WET2600.txt|.|21|.|WET565.txt|.|32|.|WET550.txt|.|21|.|WET3606.txt|.|32|.|WET3117.txt|.|9|.|WET5918.txt|.|25|.|WET958.txt|.|23|.|WET251.txt|.|48|.|WET154.txt|.|14|.|WET6184.txt|.|102|.|WET5453.txt|.|19|.|WET4860.txt|.|21|.|WET1110.txt|.|21|.|WET560.txt|.|19|.|WET1895.txt|.|53

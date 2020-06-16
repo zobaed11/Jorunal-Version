@@ -1,0 +1,12 @@
+959
+software command|.|WET5528.txt|.|55
+log file|.|WET5528.txt|.|312
+kernel log|.|WET5714.txt|.|8
+craftsvictorian|.|WET1520.txt|.|11|.|WET5271.txt|.|11
+initiated|.|WET5528.txt|.|2
+log|.|WET3054.txt|.|166|.|WET1041.txt|.|22|.|WET4387.txt|.|29|.|WET4033.txt|.|41|.|WET5749.txt|.|12|.|WET5271.txt|.|20|.|WET1293.txt|.|24|.|WET3808.txt|.|30|.|WET5528.txt|.|318|.|WET646.txt|.|27|.|WET5714.txt|.|8|.|WET4941.txt|.|12|.|WET2620.txt|.|21
+lists|.|WET593.txt|.|14|.|WET3029.txt|.|57|.|WET1173.txt|.|30|.|WET2620.txt|.|13|.|WET3350.txt|.|20
+advertisingsignsbooksrecordspaperpostcardstoysgamesdollsmusicmoviesguitarsinstruments|.|WET5271.txt|.|11
+supports|.|WET5613.txt|.|32
+advertisingsignsbooksrecordspaperpostcardstoysgamesdollsmusicmoviesguitarsinstruments more machines|.|WET5271.txt|.|11
+efter|.|WET5055.txt|.|12

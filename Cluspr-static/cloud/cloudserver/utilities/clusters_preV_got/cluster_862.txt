@@ -1,0 +1,12 @@
+862
+signaler|.|WET2228.txt|.|218
+taxes et frais|.|WET2252.txt|.|15
+toutes les dates|.|WET2252.txt|.|15
+au hasard|.|WET4168.txt|.|20
+beers|.|WET5026.txt|.|48|.|WET6220.txt|.|20
+montrer toutes les|.|WET2252.txt|.|15
+choisi|.|WET4168.txt|.|20
+les plus|.|WET4168.txt|.|30
+photos les|.|WET4168.txt|.|20
+les|.|WET425.txt|.|47|.|WET5189.txt|.|33|.|WET6040.txt|.|358|.|WET2252.txt|.|46|.|WET4798.txt|.|490|.|WET2228.txt|.|315|.|WET877.txt|.|38|.|WET3892.txt|.|85|.|WET3408.txt|.|29|.|WET20.txt|.|52|.|WET4168.txt|.|67
+denier|.|WET2252.txt|.|15

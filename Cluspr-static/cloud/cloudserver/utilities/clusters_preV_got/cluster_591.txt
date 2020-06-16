@@ -1,0 +1,12 @@
+591
+boxer|.|WET2346.txt|.|27
+granda|.|WET330.txt|.|28
+good devil|.|WET2346.txt|.|28
+ysl|.|WET3351.txt|.|143
+warenkorb|.|WET1181.txt|.|17
+boxer briefs|.|WET2346.txt|.|10
+sandi|.|WET806.txt|.|95
+good bird|.|WET4203.txt|.|14
+things|.|WET4378.txt|.|30|.|WET4970.txt|.|34|.|WET3033.txt|.|22|.|WET895.txt|.|11
+good|.|WET1742.txt|.|3|.|WET5782.txt|.|22|.|WET4203.txt|.|51|.|WET2039.txt|.|23|.|WET2346.txt|.|31|.|WET3351.txt|.|301|.|WET5683.txt|.|34|.|WET3033.txt|.|11
+add note|.|WET706.txt|.|230

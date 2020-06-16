@@ -1,0 +1,12 @@
+644
+nas|.|WET1897.txt|.|25
+songs banned|.|WET2126.txt|.|8
+nau|.|WET4424.txt|.|22
+web site|.|WET5335.txt|.|15|.|WET5676.txt|.|268|.|WET5047.txt|.|91
+jama|.|WET3800.txt|.|26
+nam|.|WET3225.txt|.|31|.|WET4773.txt|.|14
+thousands|.|WET5373.txt|.|15
+send password|.|WET2126.txt|.|8
+nbc|.|WET2467.txt|.|17|.|WET791.txt|.|8|.|WET2465.txt|.|26
+moral|.|WET2781.txt|.|36|.|WET5803.txt|.|146
+nptl perf|.|WET4336.txt|.|16

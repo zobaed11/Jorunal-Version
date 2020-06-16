@@ -1,0 +1,12 @@
+563
+template|.|WET1055.txt|.|33|.|WET3736.txt|.|45
+leaderboard|.|WET4535.txt|.|22
+caleffi|.|WET5778.txt|.|26
+dictionary grammar|.|WET2576.txt|.|51
+grainger industrial|.|WET5693.txt|.|7
+prophet|.|WET803.txt|.|4|.|WET4692.txt|.|2|.|WET3505.txt|.|3|.|WET1031.txt|.|2|.|WET2260.txt|.|2|.|WET4422.txt|.|2|.|WET5894.txt|.|1|.|WET4100.txt|.|1|.|WET3691.txt|.|2|.|WET4666.txt|.|9|.|WET3389.txt|.|2|.|WET1984.txt|.|13|.|WET4112.txt|.|2|.|WET1140.txt|.|26
+phim|.|WET3225.txt|.|128
+frozen|.|WET2341.txt|.|495|.|WET6086.txt|.|45|.|WET2342.txt|.|495|.|WET6084.txt|.|495|.|WET2343.txt|.|45|.|WET6083.txt|.|225|.|WET6085.txt|.|495|.|WET2340.txt|.|495
+exclusively|.|WET2642.txt|.|123
+frozen frozen|.|WET6083.txt|.|45
+begin|.|WET772.txt|.|3

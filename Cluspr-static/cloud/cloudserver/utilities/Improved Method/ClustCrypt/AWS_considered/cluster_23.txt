@@ -1,0 +1,14 @@
+23
+mo|.|WET2477.txt|.|33|.|WET2578.txt|.|177|.|WET1475.txt|.|45|.|WET1474.txt|.|14|.|WET6315.txt|.|120
+silent|.|WET2578.txt|.|13
+jefferson city|.|WET2578.txt|.|60
+mad money|.|WET2477.txt|.|6
+epidemic|.|WET2578.txt|.|12
+hammons field|.|WET2578.txt|.|12
+oyunlar|.|WET6315.txt|.|75
+finding a doctor|.|WET1474.txt|.|4
+ozarks|.|WET2578.txt|.|102|.|WET6315.txt|.|68
+finding|.|WET1474.txt|.|8
+jefferson|.|WET4030.txt|.|3|.|WET2578.txt|.|78
+hammons|.|WET2578.txt|.|12
+silent epidemic|.|WET2578.txt|.|12

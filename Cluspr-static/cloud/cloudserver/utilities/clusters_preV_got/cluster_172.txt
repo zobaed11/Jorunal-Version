@@ -1,0 +1,12 @@
+172
+trainings fitfeed career|.|WET2057.txt|.|22
+ideafit tv certifications|.|WET2057.txt|.|22
+professions personal|.|WET2057.txt|.|39
+hub|.|WET2057.txt|.|22
+workout|.|WET2058.txt|.|18|.|WET5801.txt|.|33
+ideafit|.|WET2057.txt|.|22
+jobs fitnessconnect|.|WET2058.txt|.|18|.|WET5801.txt|.|33
+trainings|.|WET2057.txt|.|33
+membership|.|WET2057.txt|.|66|.|WET5930.txt|.|10|.|WET4486.txt|.|439
+personal trainer|.|WET2058.txt|.|46|.|WET2057.txt|.|121|.|WET5801.txt|.|61|.|WET5802.txt|.|41
+certifications|.|WET2057.txt|.|33

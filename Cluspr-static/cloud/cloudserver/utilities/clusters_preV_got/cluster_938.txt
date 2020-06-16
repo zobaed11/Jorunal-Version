@@ -1,0 +1,12 @@
+938
+cameras|.|WET2616.txt|.|117|.|WET5037.txt|.|91|.|WET1284.txt|.|111|.|WET5394.txt|.|24|.|WET6206.txt|.|8|.|WET1325.txt|.|14|.|WET1286.txt|.|101|.|WET5683.txt|.|12|.|WET5395.txt|.|22|.|WET1285.txt|.|111|.|WET5391.txt|.|181|.|WET5326.txt|.|64|.|WET5036.txt|.|119
+components|.|WET5037.txt|.|20
+middle|.|WET1822.txt|.|15|.|WET5165.txt|.|85|.|WET5391.txt|.|40|.|WET2366.txt|.|5
+accessories tablet|.|WET2616.txt|.|8
+middle ages|.|WET5391.txt|.|40
+dt digital trends|.|WET5395.txt|.|22|.|WET1648.txt|.|14|.|WET5396.txt|.|10|.|WET5394.txt|.|22
+gear guide|.|WET5683.txt|.|13
+visual arts|.|WET2143.txt|.|18|.|WET5721.txt|.|7|.|WET1700.txt|.|11|.|WET2200.txt|.|2|.|WET4256.txt|.|20|.|WET511.txt|.|8|.|WET1195.txt|.|2|.|WET1699.txt|.|11|.|WET5446.txt|.|11|.|WET1220.txt|.|2|.|WET5445.txt|.|11|.|WET288.txt|.|15|.|WET3077.txt|.|4|.|WET4714.txt|.|1|.|WET4031.txt|.|13|.|WET3927.txt|.|2|.|WET1701.txt|.|7|.|WET3254.txt|.|3|.|WET23.txt|.|2|.|WET5391.txt|.|5|.|WET5447.txt|.|2
+lcd monitors|.|WET2616.txt|.|56
+filters|.|WET5037.txt|.|9|.|WET3681.txt|.|14|.|WET5803.txt|.|2
+hotspots|.|WET5037.txt|.|18

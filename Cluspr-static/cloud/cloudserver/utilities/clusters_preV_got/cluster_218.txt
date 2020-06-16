@@ -1,0 +1,12 @@
+218
+searched|.|WET2598.txt|.|3|.|WET5603.txt|.|4
+searched keywords|.|WET5603.txt|.|4
+globe|.|WET3057.txt|.|214|.|WET5105.txt|.|97
+kirk|.|WET4382.txt|.|14
+aaron|.|WET2437.txt|.|13
+sde|.|WET4608.txt|.|20
+phosphoglycerate|.|WET5911.txt|.|1017
+floor|.|WET6298.txt|.|157|.|WET3249.txt|.|204|.|WET3658.txt|.|16|.|WET1658.txt|.|29
+cable|.|WET2125.txt|.|9|.|WET4599.txt|.|46|.|WET5603.txt|.|12|.|WET5150.txt|.|36|.|WET3249.txt|.|157|.|WET1233.txt|.|18
+sq|.|WET3249.txt|.|125
+slab heating|.|WET3249.txt|.|10

@@ -1,0 +1,12 @@
+1039
+washington county|.|WET6268.txt|.|25
+classifiedspring|.|WET5090.txt|.|11
+submit an event|.|WET2533.txt|.|30
+valley university|.|WET3976.txt|.|292
+subgraphs|.|WET263.txt|.|1
+championshipscontinental cupsresultsworld championshipsworld cupscontinental|.|WET3315.txt|.|14
+valley|.|WET2533.txt|.|120|.|WET2046.txt|.|156|.|WET5788.txt|.|235|.|WET249.txt|.|92|.|WET5147.txt|.|30|.|WET3994.txt|.|65|.|WET6268.txt|.|48|.|WET578.txt|.|14|.|WET4784.txt|.|68|.|WET4723.txt|.|28|.|WET3976.txt|.|326|.|WET5152.txt|.|547|.|WET1462.txt|.|44|.|WET2045.txt|.|282|.|WET5090.txt|.|44|.|WET5789.txt|.|244
+spas|.|WET5789.txt|.|57
+complete|.|WET578.txt|.|4
+complement|.|WET5152.txt|.|137
+submit an announcement|.|WET2533.txt|.|20

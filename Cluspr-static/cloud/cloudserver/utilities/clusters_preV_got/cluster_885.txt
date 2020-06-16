@@ -1,0 +1,12 @@
+885
+bugs|.|WET646.txt|.|23|.|WET4872.txt|.|49
+meta stack|.|WET4387.txt|.|81|.|WET4388.txt|.|20
+meta stack overflow|.|WET4388.txt|.|15
+stack exchange communities company blog|.|WET45.txt|.|10|.|WET4532.txt|.|11|.|WET4369.txt|.|11|.|WET629.txt|.|11
+abcdefghijklmnopqrstuvwxyz|.|WET1104.txt|.|22|.|WET1347.txt|.|20
+uhr puppenfamilie|.|WET3508.txt|.|8
+meta stack exchange|.|WET4387.txt|.|76
+mathematics stack exchange|.|WET4369.txt|.|28|.|WET629.txt|.|19
+dead archive|.|WET1894.txt|.|4
+cd baby|.|WET3594.txt|.|32
+sign up log|.|WET646.txt|.|11|.|WET4941.txt|.|11|.|WET4387.txt|.|11

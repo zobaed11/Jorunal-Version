@@ -1,0 +1,12 @@
+436
+crunch|.|WET4680.txt|.|49|.|WET77.txt|.|23
+new trial|.|WET23.txt|.|3|.|WET5021.txt|.|7
+spacecraft|.|WET643.txt|.|14|.|WET4382.txt|.|15
+member resigns|.|WET5021.txt|.|7
+board member|.|WET5021.txt|.|7
+port arthur|.|WET1270.txt|.|21
+port|.|WET5457.txt|.|12|.|WET1270.txt|.|26|.|WET5021.txt|.|29
+mobile gadgets enterprise|.|WET4680.txt|.|21
+arthur girl|.|WET5021.txt|.|7
+scott|.|WET643.txt|.|15|.|WET4382.txt|.|14
+beaumont enterprise|.|WET1270.txt|.|87|.|WET5021.txt|.|109

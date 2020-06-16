@@ -1,0 +1,12 @@
+38
+fanatics retail group|.|WET874.txt|.|22|.|WET4610.txt|.|22
+snowboard bindings|.|WET3147.txt|.|432
+brands gift cards|.|WET3147.txt|.|99
+top of page|.|WET4610.txt|.|22
+bindings|.|WET3147.txt|.|849
+ski bindings|.|WET3147.txt|.|243
+womens|.|WET4715.txt|.|93|.|WET3147.txt|.|370
+maria|.|WET3668.txt|.|24
+cards community|.|WET3147.txt|.|90
+mens|.|WET6201.txt|.|51|.|WET3147.txt|.|399|.|WET4610.txt|.|84|.|WET80.txt|.|12|.|WET3668.txt|.|18
+errors|.|WET306.txt|.|14|.|WET4610.txt|.|20

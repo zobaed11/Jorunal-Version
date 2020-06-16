@@ -1,0 +1,12 @@
+1224
+heritage sites|.|WET1051.txt|.|220
+ad wish list|.|WET3316.txt|.|6
+world|.|WET2654.txt|.|149|.|WET3306.txt|.|37|.|WET1956.txt|.|5|.|WET3188.txt|.|60|.|WET2591.txt|.|20|.|WET3189.txt|.|62|.|WET974.txt|.|81|.|WET4433.txt|.|31|.|WET4247.txt|.|42|.|WET4327.txt|.|124|.|WET3023.txt|.|36|.|WET1473.txt|.|40|.|WET3316.txt|.|126|.|WET3190.txt|.|63|.|WET2655.txt|.|134|.|WET4748.txt|.|28|.|WET3598.txt|.|34|.|WET5915.txt|.|6|.|WET582.txt|.|75|.|WET4890.txt|.|5|.|WET4617.txt|.|23|.|WET3106.txt|.|50|.|WET1051.txt|.|2207|.|WET4798.txt|.|303|.|WET4711.txt|.|23|.|WET5564.txt|.|11
+site title|.|WET5278.txt|.|10
+world heritage sites|.|WET1051.txt|.|204
+phys|.|WET3678.txt|.|462
+unesco|.|WET1051.txt|.|1055
+massachusetts|.|WET1974.txt|.|12
+soins nettoyants|.|WET2398.txt|.|42
+jurassic|.|WET4617.txt|.|7
+dsw rewards|.|WET5440.txt|.|66|.|WET5441.txt|.|13|.|WET1693.txt|.|66

@@ -1,0 +1,12 @@
+1256
+shop all baby|.|WET3244.txt|.|99
+shop features new|.|WET2461.txt|.|33
+no hassle|.|WET3165.txt|.|18
+slim|.|WET2461.txt|.|80
+polo shirt|.|WET2461.txt|.|84
+shipping see|.|WET5360.txt|.|66
+picture lights|.|WET2249.txt|.|5
+shop features|.|WET2461.txt|.|33
+sneaker release dates|.|WET1817.txt|.|15
+free shipping|.|WET2192.txt|.|12|.|WET2972.txt|.|9|.|WET2189.txt|.|26|.|WET5390.txt|.|144|.|WET4892.txt|.|69|.|WET5552.txt|.|33|.|WET2009.txt|.|55|.|WET2658.txt|.|148|.|WET5375.txt|.|14|.|WET1704.txt|.|202|.|WET3244.txt|.|183|.|WET1815.txt|.|15|.|WET3245.txt|.|39|.|WET1321.txt|.|161|.|WET2461.txt|.|208|.|WET6201.txt|.|105|.|WET3165.txt|.|45|.|WET4885.txt|.|18|.|WET5316.txt|.|54|.|WET3708.txt|.|9|.|WET2249.txt|.|57|.|WET1395.txt|.|78|.|WET1569.txt|.|42|.|WET5144.txt|.|92|.|WET5360.txt|.|63|.|WET2873.txt|.|107|.|WET2895.txt|.|21|.|WET5449.txt|.|135|.|WET1817.txt|.|53
+table lamps|.|WET2249.txt|.|6

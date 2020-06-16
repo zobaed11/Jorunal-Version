@@ -1,0 +1,12 @@
+1137
+northern ireland|.|WET2108.txt|.|22|.|WET1277.txt|.|21
+log in or register|.|WET3054.txt|.|165
+keepsake|.|WET876.txt|.|84|.|WET4616.txt|.|84
+san ramon|.|WET2080.txt|.|12
+associate producer|.|WET3366.txt|.|39
+bar|.|WET1478.txt|.|62|.|WET1825.txt|.|300|.|WET2729.txt|.|66|.|WET6259.txt|.|65|.|WET2348.txt|.|24|.|WET3624.txt|.|53|.|WET5559.txt|.|346|.|WET1067.txt|.|40|.|WET5315.txt|.|43|.|WET2728.txt|.|48|.|WET1273.txt|.|43|.|WET5208.txt|.|28
+submitted|.|WET822.txt|.|102|.|WET3051.txt|.|62
+jersey city|.|WET2080.txt|.|12
+star trek|.|WET1656.txt|.|328
+save|.|WET4385.txt|.|409|.|WET3245.txt|.|75|.|WET876.txt|.|266|.|WET293.txt|.|107|.|WET1996.txt|.|88|.|WET3906.txt|.|54|.|WET1788.txt|.|124|.|WET5282.txt|.|42|.|WET228.txt|.|37|.|WET5502.txt|.|48|.|WET4615.txt|.|152|.|WET3686.txt|.|126|.|WET875.txt|.|76|.|WET6259.txt|.|119|.|WET1747.txt|.|82|.|WET2080.txt|.|60|.|WET5307.txt|.|14|.|WET6192.txt|.|58|.|WET4616.txt|.|267|.|WET5737.txt|.|100|.|WET3685.txt|.|108
+carbrite diet|.|WET6259.txt|.|22

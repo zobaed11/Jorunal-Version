@@ -1,0 +1,12 @@
+685
+channels and free|.|WET5773.txt|.|88
+penn|.|WET4098.txt|.|24|.|WET2625.txt|.|54|.|WET3682.txt|.|14
+breakfasts|.|WET5771.txt|.|13
+check availability|.|WET1952.txt|.|61|.|WET5773.txt|.|192
+double|.|WET1071.txt|.|9|.|WET5508.txt|.|40|.|WET3638.txt|.|8|.|WET5773.txt|.|136|.|WET2765.txt|.|6|.|WET4471.txt|.|13
+ensuite|.|WET5773.txt|.|224
+shillington|.|WET2870.txt|.|36
+availability|.|WET1952.txt|.|74|.|WET2480.txt|.|22|.|WET2225.txt|.|64|.|WET5771.txt|.|18|.|WET6120.txt|.|34|.|WET5773.txt|.|749|.|WET5963.txt|.|57|.|WET2592.txt|.|30|.|WET5233.txt|.|58
+stock|.|WET71.txt|.|4|.|WET5132.txt|.|43|.|WET1506.txt|.|6|.|WET1680.txt|.|120|.|WET1108.txt|.|8|.|WET1853.txt|.|44|.|WET5429.txt|.|64|.|WET3829.txt|.|36|.|WET3079.txt|.|124|.|WET1214.txt|.|17|.|WET1482.txt|.|113|.|WET1019.txt|.|39|.|WET2592.txt|.|69|.|WET1681.txt|.|119|.|WET1970.txt|.|122|.|WET2399.txt|.|16|.|WET1835.txt|.|46|.|WET2598.txt|.|144|.|WET5639.txt|.|26|.|WET5729.txt|.|29|.|WET1682.txt|.|54|.|WET2454.txt|.|139|.|WET6259.txt|.|118|.|WET5428.txt|.|113|.|WET3835.txt|.|63|.|WET5233.txt|.|163
+trillion|.|WET2053.txt|.|8
+sea|.|WET5854.txt|.|20|.|WET3569.txt|.|22|.|WET5083.txt|.|9|.|WET5773.txt|.|167|.|WET4591.txt|.|18

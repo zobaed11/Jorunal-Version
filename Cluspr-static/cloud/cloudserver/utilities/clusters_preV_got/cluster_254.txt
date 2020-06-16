@@ -1,0 +1,12 @@
+254
+glycemic index|.|WET1697.txt|.|17|.|WET5060.txt|.|21
+cllr|.|WET1369.txt|.|18
+produto|.|WET3931.txt|.|100|.|WET4334.txt|.|161
+huiles|.|WET2398.txt|.|85
+collections teaching|.|WET2251.txt|.|20
+notification widget|.|WET1784.txt|.|18
+thousands threaten|.|WET5373.txt|.|15
+crystal castle|.|WET1579.txt|.|9|.|WET5327.txt|.|50
+prof|.|WET575.txt|.|29
+drink|.|WET5549.txt|.|32|.|WET4416.txt|.|12|.|WET2456.txt|.|27|.|WET1697.txt|.|24
+paulo|.|WET389.txt|.|152|.|WET3931.txt|.|89|.|WET4334.txt|.|109

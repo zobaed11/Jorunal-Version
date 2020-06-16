@@ -1,0 +1,11 @@
+1314
+saint string|.|WET3594.txt|.|13
+toddler topics|.|WET1238.txt|.|7
+legendary|.|WET1240.txt|.|4
+pregnancy calendar|.|WET1238.txt|.|5
+baby|.|WET5438.txt|.|27|.|WET6086.txt|.|45|.|WET5654.txt|.|47|.|WET1450.txt|.|73|.|WET1239.txt|.|262|.|WET6085.txt|.|495|.|WET2340.txt|.|495|.|WET2341.txt|.|495|.|WET5655.txt|.|40|.|WET1819.txt|.|26|.|WET2621.txt|.|61|.|WET2876.txt|.|66|.|WET6084.txt|.|495|.|WET3244.txt|.|209|.|WET4990.txt|.|250|.|WET2973.txt|.|183|.|WET77.txt|.|39|.|WET2593.txt|.|134|.|WET2342.txt|.|495|.|WET1237.txt|.|161|.|WET4991.txt|.|159|.|WET2160.txt|.|58|.|WET1240.txt|.|140|.|WET5186.txt|.|197|.|WET4465.txt|.|36|.|WET4656.txt|.|124|.|WET2288.txt|.|12|.|WET2844.txt|.|253|.|WET1238.txt|.|191|.|WET3594.txt|.|32|.|WET4211.txt|.|32|.|WET2188.txt|.|196|.|WET919.txt|.|213|.|WET2343.txt|.|45|.|WET1949.txt|.|32|.|WET3127.txt|.|57
+sears credit card|.|WET2844.txt|.|22
+ovulation calculator|.|WET1238.txt|.|5
+baptism invitations|.|WET2973.txt|.|88
+boy|.|WET3072.txt|.|9|.|WET2593.txt|.|23|.|WET5186.txt|.|80|.|WET4211.txt|.|84|.|WET5622.txt|.|17|.|WET2973.txt|.|93
+legendary baby|.|WET1240.txt|.|4

@@ -1,0 +1,12 @@
+548
+appbrain|.|WET4941.txt|.|95|.|WET1188.txt|.|93|.|WET1187.txt|.|78|.|WET4940.txt|.|78
+bron|.|WET3394.txt|.|17
+downloads mar|.|WET1187.txt|.|4
+semantic web|.|WET3240.txt|.|27|.|WET2901.txt|.|2
+new price|.|WET1188.txt|.|5
+version|.|WET2047.txt|.|8|.|WET1188.txt|.|71|.|WET1187.txt|.|66|.|WET2968.txt|.|23|.|WET4940.txt|.|65|.|WET3487.txt|.|74|.|WET5936.txt|.|27
+version latest version|.|WET3487.txt|.|22
+printable version|.|WET2968.txt|.|5
+printable|.|WET2968.txt|.|5
+installs|.|WET4940.txt|.|11
+properties|.|WET845.txt|.|94|.|WET2760.txt|.|37

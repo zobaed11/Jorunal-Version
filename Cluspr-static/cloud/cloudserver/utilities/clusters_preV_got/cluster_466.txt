@@ -1,0 +1,12 @@
+466
+lanka|.|WET240.txt|.|37|.|WET1762.txt|.|48
+search posts|.|WET3067.txt|.|36
+ball|.|WET3503.txt|.|10|.|WET384.txt|.|11|.|WET240.txt|.|151|.|WET3746.txt|.|10|.|WET4123.txt|.|13|.|WET4124.txt|.|10|.|WET4631.txt|.|52
+sri lanka west|.|WET240.txt|.|31
+news bollywood|.|WET1347.txt|.|23|.|WET5097.txt|.|21|.|WET1346.txt|.|22
+faq soccer|.|WET4631.txt|.|20
+soccer ball|.|WET4631.txt|.|30
+tailgating|.|WET4631.txt|.|10
+tailgating team shelters|.|WET4631.txt|.|10
+monthly muscle mustangs|.|WET6177.txt|.|12
+wicket|.|WET240.txt|.|14

@@ -1,0 +1,14 @@
+72
+tanks caleffi|.|WET5778.txt|.|8
+caleffi|.|WET5778.txt|.|26
+panels|.|WET5778.txt|.|4
+solar|.|WET2983.txt|.|2|.|WET2849.txt|.|45|.|WET205.txt|.|57|.|WET2923.txt|.|34|.|WET5778.txt|.|39
+hedge|.|WET2334.txt|.|3|.|WET1999.txt|.|29|.|WET4002.txt|.|3|.|WET2598.txt|.|2|.|WET1331.txt|.|2|.|WET2552.txt|.|98|.|WET6288.txt|.|249|.|WET4896.txt|.|4|.|WET1395.txt|.|2|.|WET2134.txt|.|2|.|WET205.txt|.|2|.|WET6077.txt|.|2|.|WET4527.txt|.|26|.|WET5739.txt|.|24
+subway|.|WET2983.txt|.|25
+repair parts|.|WET5778.txt|.|21
+dockside|.|WET2923.txt|.|36
+solar panels|.|WET5778.txt|.|3
+solar panel|.|WET2983.txt|.|2
+panel|.|WET2983.txt|.|2
+hot water|.|WET5778.txt|.|8
+dockside green|.|WET2923.txt|.|27

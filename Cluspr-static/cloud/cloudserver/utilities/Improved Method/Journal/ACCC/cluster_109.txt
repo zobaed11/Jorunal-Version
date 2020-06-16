@@ -1,0 +1,35 @@
+109
+politics|.|WET3072.txt|.|15|.|WET6253.txt|.|56|.|WET2439.txt|.|32|.|WET2906.txt|.|64|.|WET2485.txt|.|74
+floods|.|WET814.txt|.|2|.|WET514.txt|.|1|.|WET705.txt|.|2|.|WET2520.txt|.|2|.|WET1489.txt|.|2|.|WET1160.txt|.|3|.|WET4765.txt|.|2|.|WET1768.txt|.|1|.|WET85.txt|.|1|.|WET3752.txt|.|1|.|WET12.txt|.|2
+pop culture|.|WET1535.txt|.|15
+culture sports|.|WET5284.txt|.|11
+gabe newell|.|WET1535.txt|.|5
+half life|.|WET1535.txt|.|1
+outdoors ski conditions|.|WET2484.txt|.|33
+elle|.|WET5479.txt|.|25
+parliamentary|.|WET6253.txt|.|27
+share|.|WET1983.txt|.|41|.|WET4931.txt|.|22|.|WET1746.txt|.|98|.|WET5861.txt|.|36|.|WET2493.txt|.|30|.|WET5479.txt|.|172|.|WET462.txt|.|11|.|WET3548.txt|.|45|.|WET1740.txt|.|88|.|WET2608.txt|.|10|.|WET4896.txt|.|444|.|WET1430.txt|.|92|.|WET4012.txt|.|12|.|WET4846.txt|.|29|.|WET5284.txt|.|22|.|WET1747.txt|.|41|.|WET2612.txt|.|27|.|WET2120.txt|.|34|.|WET4610.txt|.|20|.|WET2337.txt|.|48
+public access|.|WET5486.txt|.|36
+communications group|.|WET6253.txt|.|2
+culture entertainment|.|WET1748.txt|.|6|.|WET5486.txt|.|27
+share tweet|.|WET5284.txt|.|22|.|WET5479.txt|.|72|.|WET2120.txt|.|34|.|WET1740.txt|.|36
+share share|.|WET1983.txt|.|10|.|WET5479.txt|.|60
+orient|.|WET1748.txt|.|6
+created|.|WET5479.txt|.|50
+tweet pin|.|WET5479.txt|.|64|.|WET1740.txt|.|34
+tweet|.|WET5284.txt|.|22|.|WET4931.txt|.|13|.|WET5861.txt|.|36|.|WET5479.txt|.|73|.|WET2120.txt|.|34|.|WET1001.txt|.|21|.|WET4610.txt|.|10|.|WET4711.txt|.|18|.|WET1740.txt|.|37|.|WET2733.txt|.|6
+gaming culture entertainment|.|WET1748.txt|.|4
+elections|.|WET3304.txt|.|64|.|WET6253.txt|.|40|.|WET5435.txt|.|28
+gabe|.|WET1535.txt|.|5
+parliamentary elections|.|WET6253.txt|.|27
+outdoors|.|WET6112.txt|.|7|.|WET2484.txt|.|61|.|WET1723.txt|.|67
+channels|.|WET5284.txt|.|11|.|WET3867.txt|.|5|.|WET5773.txt|.|88|.|WET123.txt|.|2|.|WET4247.txt|.|16
+channels music|.|WET5284.txt|.|11
+culture|.|WET5284.txt|.|12|.|WET1748.txt|.|6|.|WET2520.txt|.|35|.|WET5479.txt|.|22|.|WET1584.txt|.|15|.|WET6253.txt|.|51|.|WET1535.txt|.|15|.|WET2484.txt|.|14|.|WET5486.txt|.|27
+culture nh|.|WET2484.txt|.|14
+state parks|.|WET2484.txt|.|12
+nh|.|WET2484.txt|.|142
+logo created|.|WET5479.txt|.|15
+conditions travel|.|WET2484.txt|.|14
+conditions|.|WET5098.txt|.|23|.|WET590.txt|.|4|.|WET2484.txt|.|47
+newell|.|WET1535.txt|.|6

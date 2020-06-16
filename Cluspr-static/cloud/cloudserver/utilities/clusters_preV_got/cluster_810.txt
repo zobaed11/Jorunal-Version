@@ -1,0 +1,12 @@
+810
+marine corps|.|WET2306.txt|.|156
+school of nursing|.|WET582.txt|.|36
+islam|.|WET3749.txt|.|141
+weekendcbn|.|WET1445.txt|.|8
+credits|.|WET1570.txt|.|11|.|WET4789.txt|.|70
+low loss|.|WET941.txt|.|4
+arctic cat|.|WET6107.txt|.|57
+watch video|.|WET2532.txt|.|15
+cepr|.|WET3466.txt|.|190
+estats|.|WET3408.txt|.|8
+bilbao|.|WET2051.txt|.|42

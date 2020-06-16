@@ -1,0 +1,12 @@
+13
+este|.|WET3729.txt|.|105|.|WET5583.txt|.|15|.|WET1486.txt|.|62
+iseries|.|WET3798.txt|.|17
+iseries access|.|WET3798.txt|.|17
+este establecimiento|.|WET3729.txt|.|99
+luzern|.|WET6187.txt|.|114
+vista and iseries|.|WET3798.txt|.|17
+mostrar en|.|WET6187.txt|.|90
+ms vista|.|WET3798.txt|.|17
+lite|.|WET5038.txt|.|19
+precios|.|WET3730.txt|.|123|.|WET3729.txt|.|71
+vista revista|.|WET6187.txt|.|88

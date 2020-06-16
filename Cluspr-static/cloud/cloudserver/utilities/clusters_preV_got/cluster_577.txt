@@ -1,0 +1,12 @@
+577
+brush|.|WET2138.txt|.|41
+frames|.|WET3348.txt|.|80|.|WET1307.txt|.|25|.|WET5208.txt|.|99
+rob|.|WET827.txt|.|55
+rnp|.|WET1232.txt|.|14
+list price|.|WET2185.txt|.|47|.|WET1716.txt|.|18
+faroe|.|WET5854.txt|.|10|.|WET5208.txt|.|9
+bus terminal|.|WET4806.txt|.|12
+runner|.|WET2780.txt|.|25
+google signing|.|WET4259.txt|.|4
+thousands threaten to boycott target|.|WET5373.txt|.|15
+tires|.|WET5244.txt|.|25|.|WET2138.txt|.|33

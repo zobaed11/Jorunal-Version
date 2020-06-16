@@ -1,0 +1,12 @@
+979
+paper towels|.|WET2721.txt|.|44
+party supplies shop|.|WET6301.txt|.|22|.|WET2562.txt|.|22
+manicure pedicure supplies|.|WET6224.txt|.|10
+massage fx master|.|WET6224.txt|.|11
+teacher|.|WET6301.txt|.|46|.|WET2562.txt|.|44
+shop teacher supplies|.|WET6301.txt|.|11|.|WET2562.txt|.|11
+supplies|.|WET2563.txt|.|209|.|WET3270.txt|.|15|.|WET6301.txt|.|335|.|WET1143.txt|.|8|.|WET4970.txt|.|23|.|WET2721.txt|.|388|.|WET2599.txt|.|101|.|WET6302.txt|.|146|.|WET3163.txt|.|10|.|WET1628.txt|.|64|.|WET6224.txt|.|142|.|WET2320.txt|.|56|.|WET1259.txt|.|164|.|WET2562.txt|.|323
+ordering|.|WET6224.txt|.|10|.|WET2241.txt|.|4
+massage table accessoriesspa|.|WET6224.txt|.|10
+accessoriesspa|.|WET6224.txt|.|10
+pedi|.|WET6224.txt|.|10

@@ -1,0 +1,12 @@
+190
+gcpd|.|WET1889.txt|.|199
+forum topic|.|WET1736.txt|.|48
+foodie|.|WET2561.txt|.|18
+values|.|WET1322.txt|.|27|.|WET2025.txt|.|10
+dresses wedding|.|WET2547.txt|.|11
+shutters|.|WET3647.txt|.|31
+vegan|.|WET4760.txt|.|55|.|WET2561.txt|.|64|.|WET4143.txt|.|110
+solve puzzle|.|WET5881.txt|.|5
+aston villa|.|WET3255.txt|.|14
+buzz|.|WET1372.txt|.|24|.|WET1371.txt|.|27|.|WET6149.txt|.|12|.|WET2561.txt|.|18
+textbooks|.|WET5216.txt|.|53|.|WET1465.txt|.|51|.|WET5927.txt|.|55|.|WET4245.txt|.|18

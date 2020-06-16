@@ -1,0 +1,12 @@
+1379
+tray|.|WET1684.txt|.|22
+storypax|.|WET1873.txt|.|11
+festivals|.|WET5827.txt|.|4
+reviews|.|WET2137.txt|.|20|.|WET1684.txt|.|32|.|WET5827.txt|.|14|.|WET2456.txt|.|73|.|WET822.txt|.|90|.|WET1873.txt|.|42|.|WET2135.txt|.|19|.|WET3906.txt|.|49|.|WET5015.txt|.|65|.|WET5320.txt|.|18|.|WET1173.txt|.|25|.|WET4148.txt|.|12|.|WET301.txt|.|11|.|WET1788.txt|.|183|.|WET823.txt|.|66|.|WET2390.txt|.|13|.|WET2136.txt|.|22|.|WET1225.txt|.|54|.|WET6098.txt|.|33|.|WET2521.txt|.|31|.|WET1530.txt|.|39|.|WET2419.txt|.|10|.|WET1683.txt|.|29|.|WET1956.txt|.|36|.|WET5026.txt|.|30|.|WET6132.txt|.|42|.|WET5280.txt|.|32|.|WET5468.txt|.|17|.|WET1290.txt|.|106|.|WET4591.txt|.|11|.|WET4920.txt|.|12|.|WET2053.txt|.|4|.|WET2389.txt|.|39|.|WET1274.txt|.|41|.|WET1010.txt|.|11|.|WET6133.txt|.|15|.|WET2062.txt|.|134|.|WET1434.txt|.|38|.|WET1921.txt|.|25|.|WET5325.txt|.|34|.|WET1262.txt|.|157|.|WET5465.txt|.|353|.|WET2347.txt|.|40|.|WET5041.txt|.|82|.|WET1725.txt|.|58|.|WET5818.txt|.|34|.|WET1263.txt|.|51|.|WET5467.txt|.|57|.|WET6131.txt|.|34|.|WET6162.txt|.|70|.|WET3025.txt|.|66|.|WET3220.txt|.|12|.|WET5449.txt|.|77
+awards spotlight|.|WET5827.txt|.|4
+ninja|.|WET4617.txt|.|9|.|WET1873.txt|.|22
+maxima|.|WET5468.txt|.|16
+bogdanovich|.|WET5827.txt|.|4
+forums rules|.|WET1274.txt|.|6
+reviews new|.|WET2390.txt|.|6|.|WET2389.txt|.|22|.|WET6132.txt|.|22|.|WET6133.txt|.|6|.|WET6131.txt|.|20
+awards oscar|.|WET5827.txt|.|4

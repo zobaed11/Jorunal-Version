@@ -1,0 +1,12 @@
+700
+name server|.|WET1042.txt|.|7
+harga|.|WET445.txt|.|48
+server blog|.|WET905.txt|.|33
+sql server blog|.|WET905.txt|.|33
+user level|.|WET2955.txt|.|2
+fault|.|WET864.txt|.|20|.|WET863.txt|.|69|.|WET4601.txt|.|66
+infused|.|WET2218.txt|.|24
+free ebook|.|WET4178.txt|.|27
+sql server|.|WET5290.txt|.|41|.|WET2955.txt|.|35|.|WET905.txt|.|47|.|WET906.txt|.|58
+server fault|.|WET864.txt|.|20|.|WET863.txt|.|69|.|WET4601.txt|.|66
+sql|.|WET5290.txt|.|49|.|WET2955.txt|.|45|.|WET905.txt|.|65|.|WET906.txt|.|59

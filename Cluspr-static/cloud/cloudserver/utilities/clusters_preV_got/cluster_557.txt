@@ -1,0 +1,12 @@
+557
+vous|.|WET425.txt|.|16|.|WET6057.txt|.|31|.|WET4168.txt|.|19
+sobre|.|WET1419.txt|.|13
+local news|.|WET2905.txt|.|25|.|WET6250.txt|.|21|.|WET676.txt|.|12|.|WET634.txt|.|6|.|WET2439.txt|.|40|.|WET722.txt|.|4|.|WET2906.txt|.|42
+troubleshooting guide|.|WET4049.txt|.|29
+authorized|.|WET3706.txt|.|18
+sports local|.|WET6152.txt|.|11|.|WET2439.txt|.|16|.|WET3259.txt|.|6
+store jobs fitnessconnect|.|WET5801.txt|.|33
+cancer|.|WET3826.txt|.|10|.|WET84.txt|.|11|.|WET2530.txt|.|22|.|WET2439.txt|.|48|.|WET6282.txt|.|74|.|WET3828.txt|.|19|.|WET4047.txt|.|62|.|WET1419.txt|.|204
+coloring|.|WET5317.txt|.|73
+cornell johnson|.|WET3846.txt|.|53
+multi|.|WET2139.txt|.|76

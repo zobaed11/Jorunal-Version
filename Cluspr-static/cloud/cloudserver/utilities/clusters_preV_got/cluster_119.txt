@@ -1,0 +1,12 @@
+119
+denver|.|WET6297.txt|.|19|.|WET4028.txt|.|166|.|WET130.txt|.|131|.|WET284.txt|.|155
+neighborhood b barnum|.|WET284.txt|.|11
+western history|.|WET179.txt|.|37
+permits|.|WET284.txt|.|11
+indexes|.|WET179.txt|.|96|.|WET4028.txt|.|132|.|WET5087.txt|.|9|.|WET284.txt|.|135|.|WET283.txt|.|48
+z select|.|WET179.txt|.|11
+municipal|.|WET284.txt|.|25
+brain|.|WET3877.txt|.|18
+building|.|WET284.txt|.|12|.|WET204.txt|.|5
+denver building permits|.|WET284.txt|.|11
+meeting room|.|WET4962.txt|.|18|.|WET1208.txt|.|22

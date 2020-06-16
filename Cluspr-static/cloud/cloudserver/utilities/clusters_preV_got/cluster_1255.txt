@@ -1,0 +1,12 @@
+1255
+female massage|.|WET870.txt|.|2
+bravely second|.|WET5805.txt|.|7
+creel|.|WET5190.txt|.|668
+daily box office|.|WET1358.txt|.|23|.|WET5109.txt|.|38
+daily deals|.|WET5805.txt|.|7
+speaker|.|WET5805.txt|.|7
+daily|.|WET1358.txt|.|55|.|WET2251.txt|.|18|.|WET5595.txt|.|37|.|WET5411.txt|.|26|.|WET3879.txt|.|63|.|WET5840.txt|.|22|.|WET788.txt|.|66|.|WET5273.txt|.|7|.|WET137.txt|.|67|.|WET3329.txt|.|14|.|WET1359.txt|.|29|.|WET713.txt|.|46|.|WET2133.txt|.|22|.|WET3999.txt|.|43|.|WET5190.txt|.|681|.|WET5527.txt|.|46|.|WET5029.txt|.|128|.|WET5109.txt|.|94|.|WET254.txt|.|39|.|WET3881.txt|.|71|.|WET5805.txt|.|47|.|WET870.txt|.|16|.|WET1357.txt|.|99|.|WET1594.txt|.|13|.|WET1441.txt|.|36|.|WET6216.txt|.|31|.|WET1599.txt|.|53|.|WET4453.txt|.|36|.|WET789.txt|.|66
+fish|.|WET1927.txt|.|38|.|WET3145.txt|.|53|.|WET5190.txt|.|1118|.|WET1193.txt|.|85
+trouble|.|WET5805.txt|.|7
+wrestlemania|.|WET5190.txt|.|39
+typeof|.|WET4493.txt|.|33|.|WET4495.txt|.|21

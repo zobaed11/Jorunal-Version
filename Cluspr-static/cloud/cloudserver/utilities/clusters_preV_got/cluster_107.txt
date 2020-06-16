@@ -1,0 +1,12 @@
+107
+nokia|.|WET2649.txt|.|601
+calm our fears|.|WET5422.txt|.|16
+trys to calm|.|WET5422.txt|.|16
+verizon|.|WET1688.txt|.|49|.|WET2649.txt|.|325
+spring airsoft rifles|.|WET1138.txt|.|17
+olympus|.|WET5422.txt|.|45
+sprint|.|WET1118.txt|.|20|.|WET2649.txt|.|144
+lumix|.|WET5422.txt|.|27|.|WET1674.txt|.|31
+shelf bookcase|.|WET1395.txt|.|33
+fears|.|WET5422.txt|.|16
+canon|.|WET3629.txt|.|18|.|WET5422.txt|.|60|.|WET1674.txt|.|142

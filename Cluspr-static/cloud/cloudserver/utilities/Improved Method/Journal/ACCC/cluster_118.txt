@@ -1,0 +1,53 @@
+118
+manchester united|.|WET1929.txt|.|17
+south africa|.|WET3288.txt|.|19|.|WET5500.txt|.|51|.|WET1762.txt|.|74
+liverpool manchester|.|WET1929.txt|.|8
+greenpeace|.|WET1959.txt|.|132|.|WET5698.txt|.|171
+liverpool|.|WET1929.txt|.|32
+zimbabwe all countries|.|WET240.txt|.|30
+zealand|.|WET240.txt|.|44|.|WET412.txt|.|9|.|WET6052.txt|.|7|.|WET2795.txt|.|7|.|WET5646.txt|.|32|.|WET5499.txt|.|25
+proxies|.|WET5853.txt|.|3
+mark nicholas|.|WET1762.txt|.|9
+drawn|.|WET5500.txt|.|19
+adventures|.|WET3288.txt|.|19
+mallett|.|WET1762.txt|.|9
+england|.|WET240.txt|.|45|.|WET3341.txt|.|31|.|WET5649.txt|.|46|.|WET3986.txt|.|35|.|WET5700.txt|.|145|.|WET5500.txt|.|50|.|WET1762.txt|.|104
+mali|.|WET5853.txt|.|75
+sri lanka west|.|WET240.txt|.|31
+africa|.|WET3288.txt|.|38|.|WET240.txt|.|31|.|WET5853.txt|.|22|.|WET1929.txt|.|26|.|WET3068.txt|.|10|.|WET4874.txt|.|53|.|WET3986.txt|.|20|.|WET5500.txt|.|51|.|WET5072.txt|.|22|.|WET1762.txt|.|76|.|WET5698.txt|.|44
+nicholas|.|WET1762.txt|.|9
+crisis|.|WET5500.txt|.|6
+al qaeda|.|WET5853.txt|.|28
+match drawn|.|WET5500.txt|.|19
+lanka|.|WET240.txt|.|37|.|WET1762.txt|.|48
+rainbow|.|WET5549.txt|.|9|.|WET5698.txt|.|31
+india new zealand|.|WET240.txt|.|30
+arctic sunrise|.|WET5698.txt|.|16
+sabc|.|WET5072.txt|.|9
+africa sri lanka|.|WET240.txt|.|31
+sunrise|.|WET3303.txt|.|24|.|WET5698.txt|.|16
+sabc education|.|WET5072.txt|.|5
+warrior|.|WET1873.txt|.|22|.|WET5698.txt|.|30
+south|.|WET3288.txt|.|39|.|WET2813.txt|.|28|.|WET2506.txt|.|47|.|WET4319.txt|.|54|.|WET3173.txt|.|21|.|WET4831.txt|.|14|.|WET4937.txt|.|67|.|WET5500.txt|.|66|.|WET1407.txt|.|22|.|WET1762.txt|.|97|.|WET3247.txt|.|58|.|WET3647.txt|.|24|.|WET3042.txt|.|39|.|WET202.txt|.|42|.|WET113.txt|.|21|.|WET3389.txt|.|34|.|WET3581.txt|.|49|.|WET4835.txt|.|112|.|WET239.txt|.|40|.|WET3261.txt|.|53|.|WET2932.txt|.|110|.|WET1361.txt|.|11|.|WET3949.txt|.|40|.|WET5393.txt|.|137
+scores|.|WET371.txt|.|10|.|WET5500.txt|.|14|.|WET2499.txt|.|14
+literary|.|WET72.txt|.|6|.|WET3068.txt|.|9
+ball|.|WET3503.txt|.|10|.|WET384.txt|.|11|.|WET240.txt|.|151|.|WET3746.txt|.|10|.|WET4123.txt|.|13|.|WET4124.txt|.|10|.|WET4631.txt|.|52
+sri lanka|.|WET1762.txt|.|48
+talks|.|WET6060.txt|.|51|.|WET5500.txt|.|30
+africa canada|.|WET3068.txt|.|5
+ashley|.|WET1762.txt|.|9
+zimbabwe|.|WET240.txt|.|31|.|WET3986.txt|.|20
+fantasy football|.|WET370.txt|.|34|.|WET1929.txt|.|25|.|WET5538.txt|.|17
+premier|.|WET5734.txt|.|72|.|WET3306.txt|.|45|.|WET2917.txt|.|55|.|WET1929.txt|.|36|.|WET700.txt|.|32|.|WET2919.txt|.|42
+rainbow warrior|.|WET5698.txt|.|28
+sri|.|WET240.txt|.|37|.|WET3986.txt|.|24|.|WET1762.txt|.|54
+literary zone|.|WET3068.txt|.|9
+ashley mallett|.|WET1762.txt|.|9
+premier league|.|WET3306.txt|.|45|.|WET2917.txt|.|39|.|WET1929.txt|.|34|.|WET700.txt|.|32|.|WET2919.txt|.|36
+wicket|.|WET240.txt|.|14
+management crisis|.|WET5500.txt|.|6
+cricket|.|WET3419.txt|.|35|.|WET240.txt|.|233|.|WET3985.txt|.|366|.|WET1573.txt|.|103|.|WET5320.txt|.|191|.|WET1572.txt|.|183|.|WET3986.txt|.|150|.|WET2906.txt|.|33|.|WET1672.txt|.|25|.|WET5500.txt|.|74|.|WET5499.txt|.|67|.|WET1762.txt|.|95
+african|.|WET4874.txt|.|45|.|WET3975.txt|.|19
+qaeda|.|WET5853.txt|.|28
+wild|.|WET3288.txt|.|38
+england india new|.|WET240.txt|.|30

@@ -1,0 +1,12 @@
+1182
+page interaction|.|WET4475.txt|.|9
+blank page|.|WET3924.txt|.|58
+select|.|WET179.txt|.|22|.|WET3980.txt|.|11|.|WET5508.txt|.|56|.|WET6293.txt|.|313|.|WET284.txt|.|22|.|WET1454.txt|.|17|.|WET2780.txt|.|11|.|WET2827.txt|.|78|.|WET1265.txt|.|72|.|WET255.txt|.|99|.|WET3925.txt|.|22|.|WET1724.txt|.|40|.|WET177.txt|.|22
+next view|.|WET3924.txt|.|5
+read view|.|WET4475.txt|.|7
+permanent|.|WET5930.txt|.|7|.|WET4473.txt|.|8
+object description|.|WET3924.txt|.|5
+description|.|WET3924.txt|.|26
+state library|.|WET3924.txt|.|24
+page|.|WET3888.txt|.|55|.|WET3455.txt|.|34|.|WET5541.txt|.|52|.|WET4826.txt|.|11|.|WET185.txt|.|30|.|WET2200.txt|.|28|.|WET157.txt|.|85|.|WET1515.txt|.|29|.|WET1351.txt|.|19|.|WET1072.txt|.|65|.|WET3924.txt|.|1047|.|WET4658.txt|.|41|.|WET5235.txt|.|21|.|WET4475.txt|.|56|.|WET4827.txt|.|9|.|WET3952.txt|.|17|.|WET1838.txt|.|42|.|WET4610.txt|.|35|.|WET2319.txt|.|33|.|WET2536.txt|.|12|.|WET3105.txt|.|75|.|WET4473.txt|.|61|.|WET177.txt|.|1176
+image blank|.|WET3924.txt|.|57

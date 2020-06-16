@@ -1,0 +1,12 @@
+1014
+local businesses|.|WET2560.txt|.|11
+gunslinger|.|WET4726.txt|.|31
+ftc|.|WET3627.txt|.|26
+blue black|.|WET4949.txt|.|8
+protection mediation|.|WET2338.txt|.|14
+ftd|.|WET4674.txt|.|192
+kb|.|WET5638.txt|.|41
+ielbuy|.|WET551.txt|.|50|.|WET568.txt|.|70|.|WET997.txt|.|50
+redbook clubreligion|.|WET2602.txt|.|5
+ke|.|WET1979.txt|.|96
+kg|.|WET4661.txt|.|40|.|WET1224.txt|.|14|.|WET4197.txt|.|24|.|WET5555.txt|.|17

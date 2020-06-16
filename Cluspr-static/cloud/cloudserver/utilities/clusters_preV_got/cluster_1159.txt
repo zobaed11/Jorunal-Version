@@ -1,0 +1,12 @@
+1159
+seneschal report|.|WET6248.txt|.|12
+orchestra|.|WET1824.txt|.|26
+tickets last|.|WET336.txt|.|379
+buy|.|WET5037.txt|.|226|.|WET3251.txt|.|17|.|WET1824.txt|.|390|.|WET1969.txt|.|27|.|WET336.txt|.|1187|.|WET5699.txt|.|362|.|WET4245.txt|.|16|.|WET4857.txt|.|35|.|WET2712.txt|.|118|.|WET3079.txt|.|48|.|WET4674.txt|.|175|.|WET102.txt|.|47|.|WET1957.txt|.|106|.|WET3080.txt|.|55|.|WET5010.txt|.|383|.|WET1259.txt|.|583|.|WET3298.txt|.|42|.|WET2224.txt|.|83|.|WET2356.txt|.|75|.|WET2726.txt|.|96|.|WET5036.txt|.|372|.|WET932.txt|.|13
+sing|.|WET1824.txt|.|16
+mobile hotspots|.|WET5037.txt|.|9
+cult of luna|.|WET2356.txt|.|14
+fl oz|.|WET1259.txt|.|128
+close dropdown|.|WET5010.txt|.|36
+christmas buy|.|WET1824.txt|.|76
+naruto shippuden|.|WET3236.txt|.|48

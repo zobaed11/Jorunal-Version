@@ -1,0 +1,12 @@
+5
+jag|.|WET1022.txt|.|23|.|WET3771.txt|.|290
+car stereo|.|WET2926.txt|.|18
+error message|.|WET5201.txt|.|18
+threaded|.|WET1808.txt|.|1|.|WET2387.txt|.|12|.|WET4042.txt|.|2|.|WET5820.txt|.|2
+acts|.|WET4364.txt|.|3
+openfoam|.|WET5206.txt|.|103
+universal|.|WET3186.txt|.|11|.|WET1235.txt|.|15|.|WET2298.txt|.|5
+kowaliski|.|WET4682.txt|.|59
+minute|.|WET1744.txt|.|136|.|WET336.txt|.|480
+el sabanero eco lodge|.|WET333.txt|.|53
+olivia|.|WET4464.txt|.|11

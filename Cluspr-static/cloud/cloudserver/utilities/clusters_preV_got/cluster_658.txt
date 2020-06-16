@@ -1,0 +1,12 @@
+658
+pa hire|.|WET2931.txt|.|7
+carsee safety recallsfind|.|WET1685.txt|.|11
+estimated price|.|WET5845.txt|.|52
+def|.|WET1618.txt|.|82|.|WET5366.txt|.|107
+fields search|.|WET6005.txt|.|20
+dee|.|WET2782.txt|.|28
+presidents|.|WET3442.txt|.|111
+dei|.|WET5658.txt|.|98
+create request|.|WET3616.txt|.|12
+apartment guide|.|WET1184.txt|.|22
+dem|.|WET848.txt|.|477

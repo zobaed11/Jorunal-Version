@@ -1,0 +1,12 @@
+323
+support order|.|WET577.txt|.|205
+skills|.|WET1733.txt|.|254
+motor|.|WET1733.txt|.|86
+helps your child|.|WET1733.txt|.|260
+skills helps|.|WET1733.txt|.|95
+states deposits|.|WET577.txt|.|368
+ratification|.|WET577.txt|.|289
+decision making|.|WET5309.txt|.|2|.|WET4566.txt|.|2
+child support|.|WET5309.txt|.|36|.|WET577.txt|.|384
+imagination|.|WET1733.txt|.|105
+motor skills|.|WET1733.txt|.|86

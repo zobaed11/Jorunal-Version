@@ -1,0 +1,12 @@
+338
+lage|.|WET3271.txt|.|24
+fiber|.|WET4599.txt|.|82|.|WET5567.txt|.|46
+data delayed|.|WET3838.txt|.|20
+xl|.|WET5145.txt|.|31|.|WET3632.txt|.|10
+thesis|.|WET3897.txt|.|35
+williams|.|WET3290.txt|.|158|.|WET364.txt|.|29|.|WET4285.txt|.|66
+k|.|WET755.txt|.|6|.|WET915.txt|.|19|.|WET3632.txt|.|20|.|WET361.txt|.|20|.|WET5926.txt|.|22|.|WET5038.txt|.|4
+pmid|.|WET361.txt|.|21
+gina k|.|WET915.txt|.|14
+wage|.|WET5087.txt|.|38
+gtk|.|WET4592.txt|.|22

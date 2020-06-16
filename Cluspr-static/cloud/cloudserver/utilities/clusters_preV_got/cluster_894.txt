@@ -1,0 +1,12 @@
+894
+drafting tables|.|WET2538.txt|.|23
+tables|.|WET2538.txt|.|243|.|WET4840.txt|.|94|.|WET5891.txt|.|8|.|WET2320.txt|.|28
+drafting|.|WET2538.txt|.|95
+furniture mayline|.|WET2538.txt|.|54
+file cabinets|.|WET2538.txt|.|76
+office furniture|.|WET2538.txt|.|149
+furniture|.|WET1568.txt|.|258|.|WET2538.txt|.|415|.|WET5074.txt|.|132|.|WET4840.txt|.|79|.|WET3346.txt|.|20|.|WET4862.txt|.|91|.|WET5316.txt|.|232|.|WET2025.txt|.|18|.|WET5125.txt|.|50|.|WET3289.txt|.|69|.|WET3208.txt|.|30|.|WET1114.txt|.|93
+limited|.|WET2025.txt|.|11
+ships free|.|WET1568.txt|.|256|.|WET1386.txt|.|8
+game room|.|WET5074.txt|.|44
+everyday|.|WET2025.txt|.|10

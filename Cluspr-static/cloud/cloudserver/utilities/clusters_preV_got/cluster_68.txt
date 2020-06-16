@@ -1,0 +1,12 @@
+68
+vote smart|.|WET4775.txt|.|119|.|WET4774.txt|.|106|.|WET1029.txt|.|94|.|WET1030.txt|.|123|.|WET4776.txt|.|50
+defense|.|WET4775.txt|.|20|.|WET4774.txt|.|14|.|WET1030.txt|.|18|.|WET4776.txt|.|30
+positions positions|.|WET4776.txt|.|5
+speeches speeches|.|WET4776.txt|.|5
+vetoes|.|WET4774.txt|.|20
+often|.|WET4775.txt|.|33
+moyers|.|WET4776.txt|.|5
+login forgot|.|WET4776.txt|.|5
+affirmative action|.|WET1029.txt|.|16
+ways to help|.|WET4775.txt|.|11|.|WET4774.txt|.|10|.|WET1029.txt|.|11|.|WET1030.txt|.|11
+bill moyers|.|WET4776.txt|.|5

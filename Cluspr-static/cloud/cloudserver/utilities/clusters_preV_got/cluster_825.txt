@@ -1,0 +1,12 @@
+825
+services planning|.|WET5982.txt|.|8
+anxious|.|WET6308.txt|.|14
+active learning|.|WET4015.txt|.|2
+assistant professor faculty|.|WET4015.txt|.|40
+close menu|.|WET1972.txt|.|10
+facilities services|.|WET4015.txt|.|105
+campus|.|WET2899.txt|.|41|.|WET2779.txt|.|7|.|WET3732.txt|.|42|.|WET1143.txt|.|72|.|WET4891.txt|.|40|.|WET5982.txt|.|63|.|WET6308.txt|.|78|.|WET4015.txt|.|349|.|WET1063.txt|.|69|.|WET1972.txt|.|61|.|WET3166.txt|.|57
+fellows hall|.|WET4015.txt|.|44
+makes|.|WET6308.txt|.|14
+mattress size|.|WET2899.txt|.|6
+comfort|.|WET2899.txt|.|34

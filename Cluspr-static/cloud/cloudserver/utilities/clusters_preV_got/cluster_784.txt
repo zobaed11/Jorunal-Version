@@ -1,0 +1,12 @@
+784
+friends first fox|.|WET1851.txt|.|11
+celtic radio|.|WET5201.txt|.|23
+fox nation fox|.|WET1851.txt|.|22
+time radio|.|WET5443.txt|.|56
+celtic|.|WET5201.txt|.|114
+radio operators|.|WET5183.txt|.|28
+amateur radio|.|WET1201.txt|.|40|.|WET5183.txt|.|56|.|WET1431.txt|.|48
+bowling|.|WET5183.txt|.|35|.|WET1431.txt|.|30
+radio|.|WET1201.txt|.|69|.|WET1851.txt|.|44|.|WET5183.txt|.|84|.|WET4440.txt|.|70|.|WET791.txt|.|9|.|WET5201.txt|.|44|.|WET727.txt|.|27|.|WET2745.txt|.|22|.|WET5443.txt|.|77|.|WET1431.txt|.|73
+pants police|.|WET1201.txt|.|5
+services manager|.|WET1201.txt|.|6|.|WET1783.txt|.|1|.|WET4955.txt|.|2

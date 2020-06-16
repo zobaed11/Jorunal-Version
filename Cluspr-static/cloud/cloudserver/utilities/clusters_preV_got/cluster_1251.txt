@@ -1,0 +1,12 @@
+1251
+golf soccer swimming|.|WET5690.txt|.|18
+relievers|.|WET2865.txt|.|8
+high country|.|WET1990.txt|.|12
+state cross country championships|.|WET1213.txt|.|36
+columnspublic|.|WET5090.txt|.|11
+bluff|.|WET5090.txt|.|66
+fillmore county|.|WET1339.txt|.|54|.|WET5090.txt|.|66
+specialsbluff|.|WET5090.txt|.|11
+fillmore|.|WET1339.txt|.|54|.|WET5090.txt|.|66
+happy ads submit|.|WET5090.txt|.|11
+news chatfield|.|WET5090.txt|.|11

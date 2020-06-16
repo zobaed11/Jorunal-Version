@@ -1,0 +1,12 @@
+594
+employment adscan|.|WET2165.txt|.|14
+support iframes|.|WET6134.txt|.|14|.|WET2165.txt|.|14
+found|.|WET6134.txt|.|73|.|WET923.txt|.|11|.|WET4660.txt|.|11|.|WET3703.txt|.|28|.|WET2944.txt|.|12|.|WET1362.txt|.|21|.|WET1696.txt|.|8|.|WET2165.txt|.|56
+found this review helpful|.|WET1696.txt|.|4
+manatee sales|.|WET1362.txt|.|16
+spokeo contact|.|WET2944.txt|.|9
+customers|.|WET1696.txt|.|9
+reverse|.|WET2944.txt|.|11
+adscan|.|WET6134.txt|.|57|.|WET1361.txt|.|55|.|WET1362.txt|.|20|.|WET2165.txt|.|49
+store on ebay|.|WET923.txt|.|10
+relative|.|WET2944.txt|.|18

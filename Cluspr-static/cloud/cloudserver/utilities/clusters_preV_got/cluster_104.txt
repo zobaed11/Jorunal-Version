@@ -1,0 +1,12 @@
+104
+summary|.|WET5098.txt|.|20|.|WET5841.txt|.|160|.|WET2098.txt|.|205|.|WET5842.txt|.|105
+application|.|WET3706.txt|.|41|.|WET5451.txt|.|2|.|WET4789.txt|.|47
+winds|.|WET5842.txt|.|40
+years ago posts|.|WET890.txt|.|205
+ship|.|WET1958.txt|.|11|.|WET5324.txt|.|21|.|WET1836.txt|.|6|.|WET5719.txt|.|34|.|WET3180.txt|.|25
+hurricane|.|WET5841.txt|.|144|.|WET798.txt|.|32|.|WET2098.txt|.|180|.|WET4272.txt|.|60|.|WET5842.txt|.|90
+decisions|.|WET221.txt|.|2|.|WET5841.txt|.|2|.|WET2504.txt|.|2
+hour surface forecast|.|WET5841.txt|.|32
+aikido|.|WET1134.txt|.|179|.|WET4879.txt|.|168|.|WET4880.txt|.|61
+animation|.|WET3837.txt|.|23|.|WET511.txt|.|2|.|WET4814.txt|.|2|.|WET1299.txt|.|1|.|WET310.txt|.|2|.|WET3035.txt|.|1|.|WET4701.txt|.|2|.|WET630.txt|.|2|.|WET1172.txt|.|49|.|WET3757.txt|.|1|.|WET4213.txt|.|6|.|WET1235.txt|.|9|.|WET956.txt|.|36|.|WET4986.txt|.|30|.|WET2841.txt|.|2|.|WET2778.txt|.|48|.|WET6075.txt|.|2|.|WET4732.txt|.|17|.|WET6164.txt|.|18|.|WET4622.txt|.|2|.|WET3496.txt|.|2|.|WET4987.txt|.|2|.|WET652.txt|.|2|.|WET5842.txt|.|2|.|WET2100.txt|.|2|.|WET946.txt|.|2|.|WET10.txt|.|1|.|WET4378.txt|.|2|.|WET1026.txt|.|2|.|WET1042.txt|.|1|.|WET3254.txt|.|2|.|WET2504.txt|.|3|.|WET635.txt|.|18|.|WET6095.txt|.|12|.|WET1211.txt|.|2|.|WET3878.txt|.|2
+colleton|.|WET576.txt|.|15

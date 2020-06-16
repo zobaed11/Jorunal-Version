@@ -1,0 +1,12 @@
+1349
+bbb accredited|.|WET1263.txt|.|26|.|WET1262.txt|.|154|.|WET5015.txt|.|88
+special olympics|.|WET2853.txt|.|7
+new hampshire|.|WET1813.txt|.|4
+hampshire|.|WET1813.txt|.|4
+employers|.|WET4487.txt|.|27
+facebookfollow|.|WET3343.txt|.|10
+yp logo|.|WET3343.txt|.|10
+business|.|WET5145.txt|.|27|.|WET3107.txt|.|16|.|WET3904.txt|.|51|.|WET6280.txt|.|13|.|WET1412.txt|.|6|.|WET2853.txt|.|39|.|WET2375.txt|.|43|.|WET3184.txt|.|14|.|WET4950.txt|.|29|.|WET2617.txt|.|49|.|WET1697.txt|.|62|.|WET4583.txt|.|53|.|WET2443.txt|.|13|.|WET3257.txt|.|29|.|WET5014.txt|.|188|.|WET6120.txt|.|61|.|WET566.txt|.|9|.|WET4752.txt|.|60|.|WET2088.txt|.|47|.|WET814.txt|.|46|.|WET4487.txt|.|96|.|WET1851.txt|.|24|.|WET5788.txt|.|72|.|WET1262.txt|.|438|.|WET1813.txt|.|52|.|WET300.txt|.|16|.|WET1135.txt|.|21|.|WET5015.txt|.|267|.|WET6121.txt|.|77|.|WET3881.txt|.|102|.|WET5236.txt|.|51|.|WET1989.txt|.|81|.|WET972.txt|.|45|.|WET3100.txt|.|66|.|WET1263.txt|.|155|.|WET2039.txt|.|64|.|WET3343.txt|.|259|.|WET5203.txt|.|30|.|WET3835.txt|.|73|.|WET2648.txt|.|27|.|WET3259.txt|.|13|.|WET2577.txt|.|29|.|WET6272.txt|.|50
+sensory|.|WET2853.txt|.|5
+olympics|.|WET2853.txt|.|10
+change location|.|WET5015.txt|.|13

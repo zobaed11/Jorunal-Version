@@ -1,0 +1,12 @@
+1281
+padding|.|WET747.txt|.|7
+process|.|WET4336.txt|.|40|.|WET4608.txt|.|3|.|WET1487.txt|.|3|.|WET1925.txt|.|28|.|WET3049.txt|.|15
+control information|.|WET1792.txt|.|6
+downlink|.|WET1792.txt|.|56
+date to date|.|WET3107.txt|.|19
+glycemic load|.|WET1697.txt|.|13
+innovating|.|WET4355.txt|.|2|.|WET1967.txt|.|2|.|WET615.txt|.|2
+health sciences center|.|WET3928.txt|.|53
+mac|.|WET4522.txt|.|6|.|WET3294.txt|.|3|.|WET413.txt|.|216|.|WET3781.txt|.|8|.|WET4608.txt|.|8|.|WET1913.txt|.|5|.|WET2548.txt|.|6|.|WET414.txt|.|128|.|WET4920.txt|.|10|.|WET1697.txt|.|23|.|WET6031.txt|.|13|.|WET3451.txt|.|18|.|WET1858.txt|.|28|.|WET3867.txt|.|7|.|WET6274.txt|.|8|.|WET4155.txt|.|254|.|WET3215.txt|.|4|.|WET6032.txt|.|80|.|WET3024.txt|.|87|.|WET1792.txt|.|62|.|WET2292.txt|.|32|.|WET3351.txt|.|6|.|WET1055.txt|.|34|.|WET5444.txt|.|14|.|WET3312.txt|.|3|.|WET178.txt|.|4|.|WET615.txt|.|49|.|WET1166.txt|.|55|.|WET3293.txt|.|15|.|WET2091.txt|.|2|.|WET988.txt|.|2
+university of illinois contentdm collection|.|WET506.txt|.|7
+conversion tool|.|WET5830.txt|.|33

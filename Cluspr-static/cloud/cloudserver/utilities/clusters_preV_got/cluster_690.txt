@@ -1,0 +1,12 @@
+690
+insulated|.|WET2787.txt|.|51
+journeys online|.|WET2153.txt|.|92
+famous for family|.|WET5523.txt|.|18
+kaley cuoco|.|WET5523.txt|.|24
+lighthouse|.|WET501.txt|.|12
+estudos|.|WET5893.txt|.|22
+athletic shoes|.|WET5523.txt|.|39
+bows|.|WET2217.txt|.|113
+skate|.|WET5536.txt|.|5|.|WET2153.txt|.|44
+missouri|.|WET1462.txt|.|60
+pill identifier|.|WET2807.txt|.|17

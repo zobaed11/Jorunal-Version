@@ -1,0 +1,12 @@
+1261
+composites|.|WET554.txt|.|1|.|WET3638.txt|.|1|.|WET615.txt|.|2
+mediated|.|WET3467.txt|.|2|.|WET752.txt|.|1|.|WET1858.txt|.|1|.|WET3913.txt|.|2|.|WET1183.txt|.|1|.|WET1048.txt|.|3
+diabetic|.|WET5444.txt|.|4
+mulheres|.|WET3964.txt|.|34
+os|.|WET4522.txt|.|3|.|WET3294.txt|.|15|.|WET413.txt|.|120|.|WET3781.txt|.|12|.|WET4608.txt|.|5|.|WET1913.txt|.|4|.|WET2548.txt|.|2|.|WET2420.txt|.|27|.|WET414.txt|.|72|.|WET1697.txt|.|19|.|WET6031.txt|.|17|.|WET3451.txt|.|16|.|WET1858.txt|.|39|.|WET3867.txt|.|5|.|WET6274.txt|.|8|.|WET3964.txt|.|25|.|WET4155.txt|.|144|.|WET3215.txt|.|6|.|WET2292.txt|.|16|.|WET3351.txt|.|4|.|WET1055.txt|.|24|.|WET5444.txt|.|9|.|WET3312.txt|.|3|.|WET178.txt|.|2|.|WET615.txt|.|33|.|WET3293.txt|.|14|.|WET940.txt|.|17|.|WET2091.txt|.|2|.|WET6030.txt|.|96|.|WET988.txt|.|2
+posts member|.|WET6031.txt|.|5
+glycemic|.|WET1697.txt|.|30|.|WET5060.txt|.|28
+distributed processing|.|WET1913.txt|.|2
+software develo|.|WET1858.txt|.|5
+sitemap top hosting|.|WET6030.txt|.|11
+sitemap|.|WET6030.txt|.|11

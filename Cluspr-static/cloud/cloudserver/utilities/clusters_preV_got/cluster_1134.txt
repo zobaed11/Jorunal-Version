@@ -1,0 +1,12 @@
+1134
+servicing manager|.|WET539.txt|.|1
+job search|.|WET539.txt|.|9|.|WET4283.txt|.|10
+save job|.|WET2080.txt|.|60
+statistics for knowledge|.|WET5859.txt|.|2
+navigationjump to main|.|WET3057.txt|.|9
+jobs|.|WET539.txt|.|520|.|WET4283.txt|.|92|.|WET5051.txt|.|8|.|WET2756.txt|.|26|.|WET5861.txt|.|11|.|WET3571.txt|.|25|.|WET5639.txt|.|27|.|WET3057.txt|.|18|.|WET5801.txt|.|46|.|WET3184.txt|.|17|.|WET3950.txt|.|125|.|WET5617.txt|.|10|.|WET5859.txt|.|121|.|WET3004.txt|.|32|.|WET2058.txt|.|27|.|WET2119.txt|.|38|.|WET2080.txt|.|164|.|WET5822.txt|.|109|.|WET2505.txt|.|46|.|WET160.txt|.|84
+manager jobs|.|WET539.txt|.|20
+post job|.|WET160.txt|.|9
+search for jobs what job|.|WET4283.txt|.|8
+contract jobs|.|WET5859.txt|.|20
+field sales|.|WET5822.txt|.|10

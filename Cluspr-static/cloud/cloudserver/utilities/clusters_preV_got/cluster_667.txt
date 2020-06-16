@@ -1,0 +1,12 @@
+667
+gloves|.|WET384.txt|.|21|.|WET3826.txt|.|20|.|WET1257.txt|.|138|.|WET2409.txt|.|32
+corner|.|WET2655.txt|.|36
+aux|.|WET64.txt|.|40
+dario|.|WET4255.txt|.|18
+android|.|WET4000.txt|.|54|.|WET4181.txt|.|28|.|WET1171.txt|.|145|.|WET5783.txt|.|22|.|WET6130.txt|.|37|.|WET338.txt|.|42|.|WET4922.txt|.|125|.|WET1293.txt|.|16|.|WET1191.txt|.|49|.|WET3504.txt|.|24|.|WET4941.txt|.|72|.|WET3785.txt|.|49|.|WET1188.txt|.|70|.|WET2040.txt|.|22|.|WET1187.txt|.|78|.|WET4940.txt|.|74|.|WET255.txt|.|99|.|WET5250.txt|.|10|.|WET1190.txt|.|88|.|WET404.txt|.|96|.|WET36.txt|.|91|.|WET4923.txt|.|71
+yale|.|WET3379.txt|.|82
+edition|.|WET5216.txt|.|28|.|WET264.txt|.|180|.|WET1465.txt|.|34|.|WET4149.txt|.|552|.|WET4007.txt|.|195|.|WET3881.txt|.|44|.|WET2406.txt|.|112|.|WET5684.txt|.|61
+story recent|.|WET5570.txt|.|230
+curitiba|.|WET2537.txt|.|29
+caps|.|WET5571.txt|.|62
+avs|.|WET4986.txt|.|38|.|WET1234.txt|.|138

@@ -1,0 +1,12 @@
+365
+jenniferleighunc|.|WET1642.txt|.|25
+side|.|WET5606.txt|.|48|.|WET1868.txt|.|48|.|WET2448.txt|.|29|.|WET1691.txt|.|69|.|WET5605.txt|.|84
+bread|.|WET4960.txt|.|72
+trading cloth|.|WET279.txt|.|4
+cloth diapers|.|WET5387.txt|.|30|.|WET279.txt|.|15|.|WET1641.txt|.|27
+break|.|WET1595.txt|.|90|.|WET4071.txt|.|31
+prejudice|.|WET887.txt|.|10
+plate|.|WET4252.txt|.|17|.|WET746.txt|.|27
+diaper|.|WET1639.txt|.|60|.|WET279.txt|.|13|.|WET5388.txt|.|31|.|WET3050.txt|.|390|.|WET1642.txt|.|25|.|WET1641.txt|.|41
+cloth|.|WET5387.txt|.|31|.|WET4502.txt|.|13|.|WET279.txt|.|15|.|WET3050.txt|.|255|.|WET1641.txt|.|36
+us loading|.|WET3374.txt|.|6

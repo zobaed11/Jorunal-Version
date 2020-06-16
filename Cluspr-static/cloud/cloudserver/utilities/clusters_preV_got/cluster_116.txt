@@ -1,0 +1,12 @@
+116
+full story recent|.|WET5570.txt|.|230
+gmo labeling|.|WET5570.txt|.|60
+service schedulecommon car|.|WET1685.txt|.|11
+carsee|.|WET1685.txt|.|11
+mechanicyour service schedulecommon|.|WET1685.txt|.|11
+modernization act|.|WET5570.txt|.|25
+gmo|.|WET5570.txt|.|105
+offer opportunities|.|WET5570.txt|.|15
+full story|.|WET5171.txt|.|14|.|WET5570.txt|.|240
+opportunities|.|WET5570.txt|.|42
+pulp|.|WET5570.txt|.|25

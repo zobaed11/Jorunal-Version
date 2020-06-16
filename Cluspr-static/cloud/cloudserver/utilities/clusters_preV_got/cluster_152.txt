@@ -1,0 +1,12 @@
+152
+meeting event|.|WET6056.txt|.|22
+nature objects people|.|WET1681.txt|.|33
+year in review|.|WET3895.txt|.|13
+summer camps|.|WET3827.txt|.|14
+jesusatlanta falcons|.|WET67.txt|.|8
+savage taget|.|WET6011.txt|.|11
+commonly misspelled|.|WET1532.txt|.|53|.|WET1533.txt|.|14
+rationalizations|.|WET369.txt|.|2
+weber state|.|WET4327.txt|.|202
+genre by rating|.|WET5797.txt|.|15
+ministry|.|WET5521.txt|.|72

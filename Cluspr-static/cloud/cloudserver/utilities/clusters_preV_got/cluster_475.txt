@@ -1,0 +1,12 @@
+475
+square|.|WET2588.txt|.|49|.|WET4899.txt|.|65|.|WET258.txt|.|10|.|WET5896.txt|.|14
+news articles|.|WET378.txt|.|11
+meet|.|WET4853.txt|.|11|.|WET1422.txt|.|80
+geographic information|.|WET4193.txt|.|57
+thamar|.|WET1422.txt|.|16
+thamar houliston|.|WET1422.txt|.|16
+comment posted|.|WET2588.txt|.|38|.|WET5611.txt|.|15|.|WET4899.txt|.|50
+cape town|.|WET1422.txt|.|92
+alto|.|WET2588.txt|.|67|.|WET1744.txt|.|2
+objectionable|.|WET2588.txt|.|38|.|WET4899.txt|.|50
+tours in cape|.|WET1422.txt|.|8

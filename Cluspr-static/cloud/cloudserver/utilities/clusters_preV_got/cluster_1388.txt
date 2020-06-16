@@ -1,0 +1,12 @@
+1388
+removing fletching|.|WET5787.txt|.|14
+lpg|.|WET1984.txt|.|7
+spencer|.|WET4100.txt|.|8
+rinnai enduro|.|WET1984.txt|.|7
+heater|.|WET1984.txt|.|14
+surveillance|.|WET4810.txt|.|2|.|WET1090.txt|.|2|.|WET5535.txt|.|47|.|WET5828.txt|.|3|.|WET4455.txt|.|2|.|WET4111.txt|.|2|.|WET3057.txt|.|2|.|WET3111.txt|.|2|.|WET1323.txt|.|8|.|WET4633.txt|.|3|.|WET4562.txt|.|2|.|WET73.txt|.|2|.|WET12.txt|.|3|.|WET3112.txt|.|6|.|WET5685.txt|.|2|.|WET1076.txt|.|2|.|WET1792.txt|.|2|.|WET5842.txt|.|3|.|WET1919.txt|.|2|.|WET1984.txt|.|2|.|WET5984.txt|.|3|.|WET4785.txt|.|1|.|WET4423.txt|.|2|.|WET1101.txt|.|2|.|WET707.txt|.|2|.|WET570.txt|.|2|.|WET3875.txt|.|2|.|WET1213.txt|.|5|.|WET502.txt|.|2|.|WET67.txt|.|2|.|WET715.txt|.|3|.|WET2204.txt|.|2|.|WET2522.txt|.|2|.|WET5752.txt|.|3|.|WET3833.txt|.|2|.|WET181.txt|.|3|.|WET5345.txt|.|2|.|WET1769.txt|.|2|.|WET121.txt|.|3|.|WET164.txt|.|3|.|WET649.txt|.|2|.|WET158.txt|.|2|.|WET3987.txt|.|2|.|WET1708.txt|.|2|.|WET970.txt|.|1|.|WET2364.txt|.|2|.|WET4100.txt|.|2|.|WET5042.txt|.|8|.|WET1755.txt|.|2|.|WET5691.txt|.|2|.|WET2488.txt|.|2|.|WET4598.txt|.|2|.|WET428.txt|.|2|.|WET4873.txt|.|10|.|WET5073.txt|.|6
+terminal|.|WET4806.txt|.|20
+gearpopular|.|WET4212.txt|.|9
+redundant|.|WET1615.txt|.|2|.|WET4402.txt|.|2|.|WET3469.txt|.|2|.|WET19.txt|.|1|.|WET2900.txt|.|2|.|WET3452.txt|.|2|.|WET1156.txt|.|2|.|WET3112.txt|.|2|.|WET5525.txt|.|5|.|WET3088.txt|.|3|.|WET2882.txt|.|2
+downloader|.|WET4810.txt|.|23
+kunst|.|WET2910.txt|.|16

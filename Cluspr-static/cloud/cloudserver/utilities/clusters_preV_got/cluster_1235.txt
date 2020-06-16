@@ -1,0 +1,12 @@
+1235
+rutgers|.|WET872.txt|.|8
+gophers|.|WET872.txt|.|8
+boilermakers rutgers|.|WET872.txt|.|8
+hoosiers iowa|.|WET872.txt|.|8
+indiana hoosiers|.|WET872.txt|.|8
+hoosiers|.|WET872.txt|.|8
+state parks|.|WET2484.txt|.|12
+state|.|WET3455.txt|.|296|.|WET227.txt|.|174|.|WET290.txt|.|46|.|WET4611.txt|.|46|.|WET1213.txt|.|52|.|WET1972.txt|.|23|.|WET4327.txt|.|261|.|WET3172.txt|.|44|.|WET872.txt|.|92|.|WET2625.txt|.|76|.|WET722.txt|.|11|.|WET439.txt|.|214|.|WET6058.txt|.|97|.|WET510.txt|.|108|.|WET51.txt|.|9|.|WET5766.txt|.|144|.|WET3970.txt|.|15|.|WET3169.txt|.|41|.|WET3924.txt|.|74|.|WET4091.txt|.|24|.|WET4098.txt|.|48|.|WET4768.txt|.|86|.|WET4835.txt|.|444|.|WET2891.txt|.|19|.|WET2484.txt|.|118|.|WET2618.txt|.|46|.|WET4272.txt|.|60
+conditions travel|.|WET2484.txt|.|14
+document collection|.|WET4768.txt|.|12
+liberal|.|WET2618.txt|.|22

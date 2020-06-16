@@ -1,0 +1,12 @@
+554
+industry overview|.|WET5710.txt|.|18
+techxpert|.|WET2217.txt|.|32
+dvds clearance|.|WET5340.txt|.|10
+statsenhancedclassic defensive|.|WET1669.txt|.|12
+madison|.|WET4267.txt|.|28
+submit articles|.|WET5710.txt|.|18
+quantities|.|WET1590.txt|.|43|.|WET5340.txt|.|24
+picks|.|WET5770.txt|.|68|.|WET1669.txt|.|43|.|WET2029.txt|.|102|.|WET4267.txt|.|88|.|WET1590.txt|.|65|.|WET2217.txt|.|32|.|WET5340.txt|.|36|.|WET5710.txt|.|67
+reading group|.|WET1590.txt|.|17
+daedalus books|.|WET5340.txt|.|12
+group picks|.|WET1590.txt|.|22

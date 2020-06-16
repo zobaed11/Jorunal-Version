@@ -1,0 +1,12 @@
+495
+global warming|.|WET2773.txt|.|733|.|WET4600.txt|.|7
+search global|.|WET127.txt|.|11
+global public|.|WET149.txt|.|6
+issues and global|.|WET2773.txt|.|372
+global|.|WET450.txt|.|1|.|WET149.txt|.|7|.|WET2773.txt|.|744|.|WET4600.txt|.|9|.|WET3794.txt|.|7|.|WET127.txt|.|11|.|WET5850.txt|.|293
+norsk|.|WET149.txt|.|4
+issues|.|WET2773.txt|.|379
+economic pulse|.|WET5850.txt|.|127
+public health|.|WET149.txt|.|6
+moncler|.|WET2773.txt|.|470
+monday|.|WET2773.txt|.|1030|.|WET4530.txt|.|21

@@ -1,0 +1,12 @@
+647
+rb anthony thomas|.|WET98.txt|.|12
+tomatoes|.|WET4114.txt|.|8
+rhode island|.|WET4487.txt|.|50|.|WET1034.txt|.|40
+chain|.|WET2125.txt|.|9
+watchlist share|.|WET2612.txt|.|17
+speeddome|.|WET1159.txt|.|32
+semi|.|WET2215.txt|.|11
+dome|.|WET1159.txt|.|11
+mount|.|WET6152.txt|.|13|.|WET1159.txt|.|98|.|WET2994.txt|.|74|.|WET2612.txt|.|21|.|WET2215.txt|.|65|.|WET3228.txt|.|125|.|WET6151.txt|.|39|.|WET1115.txt|.|16
+torchiere|.|WET2215.txt|.|8
+lights|.|WET2215.txt|.|218|.|WET5953.txt|.|211|.|WET2249.txt|.|75|.|WET3658.txt|.|96

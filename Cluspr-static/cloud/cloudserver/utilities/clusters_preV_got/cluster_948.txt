@@ -1,0 +1,12 @@
+948
+harada|.|WET5623.txt|.|18
+endpoints|.|WET3797.txt|.|2|.|WET4971.txt|.|2|.|WET1749.txt|.|7
+photos latest|.|WET3190.txt|.|11
+united cerebral palsy|.|WET998.txt|.|40
+archery forum|.|WET1091.txt|.|55
+leone|.|WET698.txt|.|7
+celebs|.|WET2436.txt|.|40
+grants awarded|.|WET5510.txt|.|3
+new posts|.|WET4150.txt|.|9|.|WET1242.txt|.|9|.|WET5222.txt|.|18|.|WET4075.txt|.|12
+burdastyle|.|WET1392.txt|.|37
+playground join|.|WET5652.txt|.|14

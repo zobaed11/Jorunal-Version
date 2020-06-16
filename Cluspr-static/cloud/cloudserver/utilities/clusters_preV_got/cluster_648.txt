@@ -1,0 +1,12 @@
+648
+users can interactively|.|WET632.txt|.|2
+repair|.|WET3793.txt|.|73|.|WET3673.txt|.|6|.|WET46.txt|.|151|.|WET1953.txt|.|10|.|WET2597.txt|.|46|.|WET2596.txt|.|68|.|WET4556.txt|.|122|.|WET5778.txt|.|21
+repairpal|.|WET4556.txt|.|71
+secretion|.|WET21.txt|.|25
+frankfurt am main|.|WET1131.txt|.|50
+contact support|.|WET4770.txt|.|8
+car care|.|WET4556.txt|.|8
+kqed|.|WET2200.txt|.|39
+toyota|.|WET4556.txt|.|59|.|WET457.txt|.|34|.|WET1724.txt|.|143
+wallace|.|WET752.txt|.|682
+speech acts|.|WET4364.txt|.|3

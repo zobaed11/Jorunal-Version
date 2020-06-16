@@ -1,0 +1,12 @@
+98
+tech support|.|WET5326.txt|.|25|.|WET2324.txt|.|216
+sdmb|.|WET3890.txt|.|100
+games all action|.|WET5624.txt|.|28
+scenario|.|WET2324.txt|.|44
+stocks to buy|.|WET3079.txt|.|22|.|WET3080.txt|.|25
+rail|.|WET5824.txt|.|14|.|WET2733.txt|.|18
+stemming|.|WET1581.txt|.|1|.|WET4296.txt|.|11|.|WET1765.txt|.|2|.|WET5511.txt|.|2
+opponents wanted|.|WET2324.txt|.|206
+war room|.|WET2324.txt|.|200
+registration|.|WET2256.txt|.|16|.|WET4865.txt|.|35|.|WET5297.txt|.|41|.|WET3581.txt|.|67|.|WET3080.txt|.|33|.|WET5112.txt|.|60
+snacks|.|WET6086.txt|.|25

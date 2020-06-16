@@ -1,0 +1,12 @@
+1052
+walden|.|WET2570.txt|.|10
+collection of historical|.|WET3976.txt|.|44
+media gallery|.|WET5644.txt|.|18
+museum|.|WET6158.txt|.|64|.|WET5751.txt|.|11|.|WET5775.txt|.|26|.|WET5258.txt|.|53|.|WET185.txt|.|11|.|WET4033.txt|.|72|.|WET3816.txt|.|19|.|WET3976.txt|.|158|.|WET3989.txt|.|48|.|WET1371.txt|.|18|.|WET2570.txt|.|18|.|WET229.txt|.|132|.|WET1203.txt|.|22|.|WET1101.txt|.|175|.|WET5880.txt|.|31|.|WET5644.txt|.|96|.|WET6140.txt|.|51
+sustainable|.|WET5644.txt|.|18
+newspaper for utah|.|WET3976.txt|.|22
+klaus perls|.|WET1101.txt|.|10
+perls|.|WET1101.txt|.|58
+agriculture and natural|.|WET229.txt|.|42
+sustainable travel|.|WET5644.txt|.|18
+rachel walden|.|WET2570.txt|.|10

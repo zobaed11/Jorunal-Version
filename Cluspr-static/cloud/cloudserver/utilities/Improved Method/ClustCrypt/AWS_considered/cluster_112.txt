@@ -1,0 +1,5 @@
+112
+wie|.|WET848.txt|.|345
+auf|.|WET5811.txt|.|13|.|WET848.txt|.|410|.|WET2002.txt|.|30|.|WET3423.txt|.|46|.|WET4976.txt|.|63
+nicht|.|WET1065.txt|.|10|.|WET848.txt|.|393|.|WET5458.txt|.|141
+wie ein|.|WET848.txt|.|34

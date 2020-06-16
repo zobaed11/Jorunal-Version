@@ -1,0 +1,12 @@
+945
+report learn|.|WET4050.txt|.|55|.|WET3916.txt|.|68|.|WET169.txt|.|40
+iris|.|WET1159.txt|.|28
+chevrolet monte carlo|.|WET1428.txt|.|79
+fraud report|.|WET3916.txt|.|68|.|WET169.txt|.|40
+carlo|.|WET1428.txt|.|89
+business faculty association|.|WET814.txt|.|17
+used|.|WET4979.txt|.|54|.|WET3915.txt|.|243|.|WET1428.txt|.|185|.|WET5468.txt|.|16|.|WET1226.txt|.|25|.|WET169.txt|.|129|.|WET1725.txt|.|60|.|WET1225.txt|.|58|.|WET4978.txt|.|81|.|WET1651.txt|.|36|.|WET3916.txt|.|244|.|WET2596.txt|.|72|.|WET3525.txt|.|19
+marketplace user|.|WET3916.txt|.|60
+stop fraud|.|WET3916.txt|.|68|.|WET169.txt|.|40
+mini white|.|WET3915.txt|.|8
+used red|.|WET3915.txt|.|15

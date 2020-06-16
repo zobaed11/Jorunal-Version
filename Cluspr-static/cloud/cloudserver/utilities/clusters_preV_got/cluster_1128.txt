@@ -1,0 +1,12 @@
+1128
+ann|.|WET2377.txt|.|84|.|WET1178.txt|.|84|.|WET4930.txt|.|81|.|WET2791.txt|.|64|.|WET1177.txt|.|67|.|WET2376.txt|.|125|.|WET6123.txt|.|32|.|WET2099.txt|.|26|.|WET3856.txt|.|42
+knits|.|WET1178.txt|.|41|.|WET4930.txt|.|42
+ladder|.|WET2729.txt|.|113|.|WET2730.txt|.|54
+wraps skirts|.|WET2145.txt|.|28
+sportsticketsauto|.|WET1338.txt|.|6|.|WET5089.txt|.|7
+backpacking|.|WET1415.txt|.|50
+rating|.|WET2269.txt|.|58|.|WET4156.txt|.|73|.|WET5349.txt|.|54|.|WET822.txt|.|144|.|WET5797.txt|.|15|.|WET5150.txt|.|31|.|WET3154.txt|.|100|.|WET5140.txt|.|122|.|WET5684.txt|.|190
+jackets|.|WET1178.txt|.|52|.|WET6007.txt|.|53|.|WET2269.txt|.|63|.|WET5864.txt|.|12|.|WET2839.txt|.|221|.|WET5186.txt|.|72|.|WET2145.txt|.|28|.|WET1459.txt|.|23|.|WET6154.txt|.|39|.|WET4619.txt|.|52|.|WET4930.txt|.|52|.|WET5402.txt|.|14|.|WET1623.txt|.|156|.|WET2410.txt|.|48|.|WET2573.txt|.|64|.|WET1415.txt|.|262|.|WET2787.txt|.|44|.|WET2402.txt|.|145|.|WET1153.txt|.|402|.|WET5551.txt|.|66
+approach|.|WET1415.txt|.|50
+tees tanks|.|WET2145.txt|.|28
+approach shoes|.|WET1415.txt|.|50

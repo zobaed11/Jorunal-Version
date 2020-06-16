@@ -1,0 +1,32 @@
+93
+palo|.|WET2588.txt|.|69
+moderator|.|WET4158.txt|.|28|.|WET1907.txt|.|103|.|WET4899.txt|.|50
+thamar|.|WET1422.txt|.|16
+moderator like|.|WET4899.txt|.|47
+objectionable content|.|WET2588.txt|.|38|.|WET4899.txt|.|50
+lg town|.|WET3020.txt|.|24
+alto|.|WET2588.txt|.|67|.|WET1744.txt|.|2
+objectionable|.|WET2588.txt|.|38|.|WET4899.txt|.|50
+meet the authors|.|WET1422.txt|.|80
+news articles|.|WET378.txt|.|11
+connect to the networked|.|WET378.txt|.|1
+town square|.|WET2588.txt|.|49|.|WET4899.txt|.|64|.|WET258.txt|.|10
+menlo park|.|WET4899.txt|.|66
+content email|.|WET2588.txt|.|38|.|WET4899.txt|.|50
+comment posted|.|WET2588.txt|.|38|.|WET5611.txt|.|15|.|WET4899.txt|.|50
+town|.|WET2588.txt|.|55|.|WET1422.txt|.|92|.|WET3344.txt|.|25|.|WET4899.txt|.|65|.|WET378.txt|.|24|.|WET3020.txt|.|24|.|WET258.txt|.|15
+square moderator|.|WET4899.txt|.|50
+thamar houliston|.|WET1422.txt|.|16
+cape town|.|WET1422.txt|.|92
+palo alto|.|WET2588.txt|.|62
+square|.|WET2588.txt|.|49|.|WET4899.txt|.|65|.|WET258.txt|.|10|.|WET5896.txt|.|14
+elementary school|.|WET3926.txt|.|15|.|WET258.txt|.|9
+meet|.|WET4853.txt|.|11|.|WET1422.txt|.|80
+menlo|.|WET4899.txt|.|72
+elementary|.|WET3926.txt|.|16|.|WET258.txt|.|10
+houliston|.|WET1422.txt|.|16
+lg|.|WET1170.txt|.|57|.|WET3681.txt|.|39|.|WET3020.txt|.|28
+cape|.|WET1422.txt|.|104
+tours in cape|.|WET1422.txt|.|8
+networked|.|WET861.txt|.|3|.|WET378.txt|.|1
+authors|.|WET40.txt|.|6|.|WET3815.txt|.|62|.|WET4702.txt|.|46|.|WET4059.txt|.|14|.|WET1422.txt|.|84|.|WET4467.txt|.|5|.|WET69.txt|.|46|.|WET728.txt|.|8|.|WET542.txt|.|11|.|WET963.txt|.|39|.|WET297.txt|.|14

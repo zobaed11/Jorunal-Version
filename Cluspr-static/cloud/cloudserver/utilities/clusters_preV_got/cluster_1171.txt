@@ -1,0 +1,12 @@
+1171
+annica|.|WET1085.txt|.|6
+zip code|.|WET479.txt|.|8|.|WET1952.txt|.|44
+cleaning products|.|WET6298.txt|.|79
+rc helicopter|.|WET2014.txt|.|27
+cleaners|.|WET6299.txt|.|22|.|WET6298.txt|.|107
+air cleaning|.|WET5599.txt|.|10
+floor cleaner|.|WET6298.txt|.|21
+selected text|.|WET4882.txt|.|116
+mike debole|.|WET3996.txt|.|8
+purifiers|.|WET5599.txt|.|72|.|WET6298.txt|.|52
+pat campbell|.|WET1085.txt|.|6

@@ -1,0 +1,40 @@
+69
+capital|.|WET3466.txt|.|167
+cepr discussion papers|.|WET3466.txt|.|190
+federal judges|.|WET6290.txt|.|12
+cepr|.|WET3466.txt|.|190
+discussion|.|WET5051.txt|.|8|.|WET3466.txt|.|344|.|WET4242.txt|.|284|.|WET1504.txt|.|17|.|WET2632.txt|.|15|.|WET4243.txt|.|133|.|WET3076.txt|.|24|.|WET4152.txt|.|27|.|WET5206.txt|.|26|.|WET494.txt|.|260|.|WET5368.txt|.|34|.|WET1411.txt|.|35|.|WET4155.txt|.|154|.|WET495.txt|.|206
+contracts|.|WET6290.txt|.|9
+papers|.|WET3466.txt|.|1002|.|WET2794.txt|.|38|.|WET645.txt|.|361|.|WET4285.txt|.|36
+research|.|WET814.txt|.|35|.|WET696.txt|.|22|.|WET34.txt|.|9|.|WET3466.txt|.|601|.|WET5873.txt|.|40|.|WET4849.txt|.|29|.|WET6023.txt|.|25|.|WET3933.txt|.|31|.|WET3416.txt|.|7|.|WET3934.txt|.|6
+generosity|.|WET221.txt|.|2|.|WET2492.txt|.|2|.|WET3090.txt|.|2|.|WET4002.txt|.|1|.|WET151.txt|.|2|.|WET4021.txt|.|2
+database|.|WET1174.txt|.|6|.|WET1610.txt|.|27|.|WET1173.txt|.|11|.|WET5049.txt|.|68|.|WET4021.txt|.|2
+journal|.|WET2377.txt|.|35|.|WET5595.txt|.|36|.|WET3466.txt|.|442|.|WET3678.txt|.|195|.|WET2152.txt|.|17|.|WET3881.txt|.|240|.|WET2154.txt|.|88|.|WET6122.txt|.|32|.|WET137.txt|.|223|.|WET113.txt|.|28|.|WET2540.txt|.|84|.|WET2505.txt|.|66|.|WET3806.txt|.|156
+teachers|.|WET6195.txt|.|31|.|WET778.txt|.|26|.|WET4021.txt|.|32
+granada hills|.|WET4587.txt|.|4
+federal|.|WET3466.txt|.|81|.|WET6290.txt|.|53|.|WET4587.txt|.|6|.|WET3518.txt|.|9|.|WET4021.txt|.|5
+reserve|.|WET5133.txt|.|24|.|WET3466.txt|.|84|.|WET3518.txt|.|9
+working|.|WET3466.txt|.|873|.|WET1989.txt|.|9
+working papers|.|WET3466.txt|.|612
+library of munich|.|WET3466.txt|.|98
+met federal|.|WET4587.txt|.|4
+policy|.|WET842.txt|.|8|.|WET1463.txt|.|19|.|WET710.txt|.|5|.|WET2935.txt|.|14|.|WET2658.txt|.|17|.|WET1074.txt|.|7|.|WET2244.txt|.|7|.|WET964.txt|.|10|.|WET4943.txt|.|9|.|WET1570.txt|.|28|.|WET3120.txt|.|18|.|WET3694.txt|.|16|.|WET976.txt|.|7|.|WET4821.txt|.|18|.|WET1351.txt|.|5|.|WET5351.txt|.|47|.|WET1206.txt|.|8|.|WET6025.txt|.|9|.|WET3254.txt|.|11|.|WET5750.txt|.|29|.|WET5869.txt|.|3|.|WET5285.txt|.|17|.|WET2875.txt|.|10|.|WET4891.txt|.|181|.|WET791.txt|.|21|.|WET502.txt|.|11|.|WET3638.txt|.|11|.|WET5671.txt|.|43|.|WET5874.txt|.|101|.|WET643.txt|.|39|.|WET163.txt|.|6|.|WET1257.txt|.|11|.|WET2965.txt|.|24|.|WET2929.txt|.|10|.|WET306.txt|.|117|.|WET3019.txt|.|18|.|WET2999.txt|.|5|.|WET3288.txt|.|11|.|WET1690.txt|.|33|.|WET1355.txt|.|67|.|WET5282.txt|.|8|.|WET827.txt|.|5|.|WET1152.txt|.|14|.|WET3723.txt|.|13|.|WET5259.txt|.|17|.|WET2348.txt|.|5|.|WET5741.txt|.|3|.|WET6162.txt|.|13|.|WET3529.txt|.|19|.|WET2869.txt|.|10|.|WET1014.txt|.|5|.|WET1217.txt|.|8|.|WET2243.txt|.|6|.|WET4403.txt|.|7|.|WET1790.txt|.|11|.|WET5738.txt|.|17|.|WET9.txt|.|58|.|WET1820.txt|.|9|.|WET2278.txt|.|10|.|WET2103.txt|.|40|.|WET698.txt|.|15|.|WET4802.txt|.|12|.|WET3802.txt|.|3|.|WET5499.txt|.|14|.|WET5695.txt|.|9|.|WET5922.txt|.|15|.|WET2012.txt|.|16|.|WET1997.txt|.|29|.|WET6073.txt|.|12|.|WET2975.txt|.|5|.|WET5670.txt|.|40|.|WET341.txt|.|7|.|WET2629.txt|.|17|.|WET5823.txt|.|22|.|WET3671.txt|.|12|.|WET3948.txt|.|8|.|WET3485.txt|.|32|.|WET3628.txt|.|8|.|WET4655.txt|.|28|.|WET2133.txt|.|105|.|WET4346.txt|.|10|.|WET3231.txt|.|9|.|WET1930.txt|.|66|.|WET121.txt|.|11|.|WET4990.txt|.|25|.|WET3660.txt|.|28|.|WET1915.txt|.|7|.|WET3466.txt|.|202|.|WET5533.txt|.|16|.|WET254.txt|.|13|.|WET6046.txt|.|7|.|WET734.txt|.|11|.|WET237.txt|.|10|.|WET3865.txt|.|7|.|WET2127.txt|.|5|.|WET843.txt|.|6|.|WET4555.txt|.|6
+settings|.|WET412.txt|.|11|.|WET3518.txt|.|18
+elsevier|.|WET3466.txt|.|437
+dictionaries law|.|WET6290.txt|.|8
+federal database|.|WET4021.txt|.|2
+favourite|.|WET4021.txt|.|25
+munich|.|WET3466.txt|.|125|.|WET902.txt|.|16
+favourite contemporary teachers|.|WET4021.txt|.|20
+granada|.|WET4587.txt|.|4
+contemporary|.|WET4959.txt|.|43|.|WET2865.txt|.|53|.|WET4021.txt|.|22
+policy research working|.|WET3466.txt|.|107
+hills|.|WET3851.txt|.|18|.|WET4587.txt|.|5|.|WET927.txt|.|11|.|WET1538.txt|.|4
+saved settings|.|WET3518.txt|.|5
+growth|.|WET3466.txt|.|479
+contemporary teachers|.|WET4021.txt|.|20
+federal reserve|.|WET3466.txt|.|80|.|WET3518.txt|.|9
+judges|.|WET6290.txt|.|12
+finance|.|WET3466.txt|.|463|.|WET886.txt|.|14|.|WET1835.txt|.|9|.|WET3838.txt|.|21|.|WET374.txt|.|78|.|WET4115.txt|.|85
+pricing|.|WET3635.txt|.|2|.|WET4673.txt|.|290|.|WET935.txt|.|319|.|WET3541.txt|.|4|.|WET4674.txt|.|174|.|WET4703.txt|.|2|.|WET2225.txt|.|105|.|WET4587.txt|.|3|.|WET5963.txt|.|111
+dictionaries|.|WET2575.txt|.|36|.|WET6290.txt|.|8

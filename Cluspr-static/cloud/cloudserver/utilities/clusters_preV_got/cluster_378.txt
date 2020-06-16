@@ -1,0 +1,12 @@
+378
+precipitation|.|WET2098.txt|.|157|.|WET3260.txt|.|266|.|WET5842.txt|.|56
+competitors|.|WET2454.txt|.|27
+renderings|.|WET4466.txt|.|2|.|WET727.txt|.|2|.|WET1553.txt|.|2
+barrowman|.|WET5890.txt|.|26
+rader|.|WET4466.txt|.|9
+cricket web|.|WET1572.txt|.|105
+intraday data|.|WET3838.txt|.|40
+interactive|.|WET5841.txt|.|62|.|WET2454.txt|.|39|.|WET3838.txt|.|21|.|WET4466.txt|.|10|.|WET2098.txt|.|74|.|WET4103.txt|.|15
+delayed|.|WET3838.txt|.|31
+interactive charts|.|WET2454.txt|.|28
+uv index|.|WET5841.txt|.|68

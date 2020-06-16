@@ -1,0 +1,30 @@
+49
+boundary|.|rfc5559.txt|.|4|.|rfc2776.txt|.|68|.|rfc3754.txt|.|30|.|rfc6197.txt|.|39|.|rfc4726.txt|.|25|.|rfc5964.txt|.|40
+guttman standards|.|rfc3111.txt|.|13
+rp set|.|rfc5059.txt|.|1
+server multicast address|.|rfc2730.txt|.|21
+local scope|.|rfc2776.txt|.|44
+addresses in urls|.|rfc3111.txt|.|4
+server must include|.|rfc2730.txt|.|4
+scope list|.|rfc2730.txt|.|35|.|rfc2907.txt|.|15
+convexity|.|rfc2776.txt|.|11
+malloc architecture|.|rfc2908.txt|.|12
+nesting state option|.|rfc2907.txt|.|29
+link local addresses|.|rfc2740.txt|.|1|.|rfc5340.txt|.|1
+scope|.|rfc2908.txt|.|47|.|rfc4007.txt|.|97|.|rfc5059.txt|.|94|.|rfc2730.txt|.|127|.|rfc2740.txt|.|66|.|rfc2776.txt|.|193|.|rfc3111.txt|.|31|.|rfc2907.txt|.|98|.|rfc4489.txt|.|9
+scope nesting state|.|rfc2907.txt|.|30
+ospf protocol|.|rfc4136.txt|.|3|.|rfc2740.txt|.|24|.|rfc5088.txt|.|21
+rp mappings|.|rfc5059.txt|.|5|.|rfc6226.txt|.|2
+zone convexity messages|.|rfc2776.txt|.|5
+scope zone|.|rfc4007.txt|.|8|.|rfc5059.txt|.|44|.|rfc2776.txt|.|55
+malloc|.|rfc2908.txt|.|15
+scope boundary|.|rfc2776.txt|.|11
+lease identifier option|.|rfc2730.txt|.|17
+multicast scope|.|rfc2907.txt|.|45
+zcm|.|rfc2776.txt|.|14
+number of addresses|.|rfc2730.txt|.|17
+zone indices|.|rfc4007.txt|.|19
+scope nesting|.|rfc2907.txt|.|33
+scoped|.|rfc2365.txt|.|39|.|rfc4007.txt|.|30|.|rfc4903.txt|.|3|.|rfc2907.txt|.|6|.|rfc4489.txt|.|1
+link scoped|.|rfc4489.txt|.|1
+scoped address architecture|.|rfc4007.txt|.|25

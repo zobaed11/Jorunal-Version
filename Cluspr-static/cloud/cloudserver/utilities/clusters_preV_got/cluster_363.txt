@@ -1,0 +1,12 @@
+363
+knee|.|WET3613.txt|.|20|.|WET2921.txt|.|43
+plantar|.|WET1839.txt|.|60
+heel|.|WET3358.txt|.|4|.|WET1839.txt|.|140|.|WET5576.txt|.|50
+plantar fasciitis pronation|.|WET1839.txt|.|38
+howto|.|WET3827.txt|.|24
+socks|.|WET4660.txt|.|22|.|WET3827.txt|.|71|.|WET1839.txt|.|160|.|WET3613.txt|.|22|.|WET5575.txt|.|125|.|WET3275.txt|.|22
+lower|.|WET1839.txt|.|23
+socks shop|.|WET1839.txt|.|44
+call premium|.|WET5549.txt|.|81
+toe|.|WET5575.txt|.|32|.|WET5911.txt|.|75
+high to low|.|WET1374.txt|.|18|.|WET5575.txt|.|15

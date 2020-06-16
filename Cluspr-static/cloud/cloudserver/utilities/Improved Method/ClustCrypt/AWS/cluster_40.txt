@@ -1,0 +1,32 @@
+shades roller|.|WET5081.txt|.|26
+vertical|.|WET1330.txt|.|28
+puzzle collectionother|.|WET3690.txt|.|12
+master wire|.|WET3690.txt|.|12
+blinds vertical|.|WET1330.txt|.|21
+sheer|.|WET1330.txt|.|14
+window blinds|.|WET5081.txt|.|14
+custom drapery|.|WET1330.txt|.|18
+wood|.|WET6158.txt|.|44|.|WET1330.txt|.|59|.|WET3690.txt|.|61|.|WET5081.txt|.|86|.|WET5969.txt|.|67|.|WET5570.txt|.|20
+filtering|.|WET5081.txt|.|30
+pleated shades|.|WET5081.txt|.|30
+modernization|.|WET5570.txt|.|25
+faux wood|.|WET1330.txt|.|22
+puzzlesfamily|.|WET3690.txt|.|12
+bus shelter|.|WET6158.txt|.|40
+master shopping|.|WET3690.txt|.|6
+cellular shades|.|WET1330.txt|.|39|.|WET5081.txt|.|20
+window and room|.|WET5081.txt|.|10
+review write|.|WET5969.txt|.|14
+faux|.|WET1330.txt|.|22
+processed|.|WET2263.txt|.|12|.|WET3690.txt|.|12
+shelter style|.|WET6158.txt|.|40
+group specials|.|WET3690.txt|.|6
+wood frame|.|WET6158.txt|.|38
+processed in a timely|.|WET3690.txt|.|6
+timely|.|WET3690.txt|.|6
+yong|.|WET3690.txt|.|12
+gong yong|.|WET3690.txt|.|12
+law review|.|WET5969.txt|.|14
+roller|.|WET463.txt|.|1|.|WET5081.txt|.|35
+wood pulp|.|WET5570.txt|.|20
+wood blinds|.|WET1330.txt|.|31

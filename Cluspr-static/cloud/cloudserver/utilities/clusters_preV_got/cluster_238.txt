@@ -1,0 +1,12 @@
+238
+sauces|.|WET3528.txt|.|90
+spices indian|.|WET3528.txt|.|70
+pickering|.|WET4718.txt|.|10
+scandal|.|WET4718.txt|.|18
+cooking sauces|.|WET3528.txt|.|70
+meat|.|WET3528.txt|.|80|.|WET1632.txt|.|26
+indian spy videos|.|WET4718.txt|.|8
+meat spices|.|WET3528.txt|.|30
+vegetable|.|WET2679.txt|.|6|.|WET3528.txt|.|50
+spices|.|WET920.txt|.|120|.|WET3528.txt|.|760
+spy|.|WET4718.txt|.|8

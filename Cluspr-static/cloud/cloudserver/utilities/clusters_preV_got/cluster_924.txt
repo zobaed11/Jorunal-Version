@@ -1,0 +1,12 @@
+924
+bass|.|WET6172.txt|.|116|.|WET2694.txt|.|25|.|WET5190.txt|.|491|.|WET2430.txt|.|155
+trend|.|WET4182.txt|.|259|.|WET438.txt|.|94|.|WET437.txt|.|83
+goater|.|WET4336.txt|.|78
+caliber|.|WET3635.txt|.|2|.|WET2180.txt|.|2|.|WET4749.txt|.|5|.|WET5200.txt|.|2|.|WET1006.txt|.|6|.|WET85.txt|.|1|.|WET5179.txt|.|1|.|WET3070.txt|.|2|.|WET1005.txt|.|3|.|WET937.txt|.|2|.|WET5363.txt|.|3|.|WET4112.txt|.|2
+marc|.|WET1098.txt|.|11
+relational|.|WET6300.txt|.|1
+bars|.|WET1478.txt|.|55|.|WET5230.txt|.|30
+pour ce|.|WET4134.txt|.|133
+tribute|.|WET3863.txt|.|171
+base|.|WET1558.txt|.|14|.|WET297.txt|.|9|.|WET2604.txt|.|7
+foreshadowing|.|WET2356.txt|.|14

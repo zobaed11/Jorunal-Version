@@ -1,0 +1,12 @@
+221
+us english|.|WET4490.txt|.|11|.|WET2576.txt|.|39
+jay|.|WET1031.txt|.|117|.|WET1327.txt|.|27
+previous|.|WET2047.txt|.|9|.|WET1189.txt|.|37|.|WET3862.txt|.|20|.|WET4942.txt|.|30|.|WET122.txt|.|25|.|WET4247.txt|.|15
+recurve|.|WET5954.txt|.|141|.|WET2217.txt|.|236
+jam|.|WET1618.txt|.|87|.|WET5366.txt|.|110
+zapatos online|.|WET1077.txt|.|32
+heaters|.|WET5113.txt|.|96
+jar|.|WET1684.txt|.|27
+gentle|.|WET1260.txt|.|97
+obesidad|.|WET97.txt|.|12
+telescope|.|WET850.txt|.|10

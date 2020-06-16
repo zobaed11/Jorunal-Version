@@ -1,0 +1,12 @@
+113
+started tips|.|WET2902.txt|.|5
+codes|.|WET4853.txt|.|29|.|WET5870.txt|.|100
+wearable|.|WET1285.txt|.|33
+radar|.|WET5842.txt|.|127
+connected home|.|WET1285.txt|.|44
+snowman soup|.|WET1566.txt|.|11
+nigeria|.|WET6237.txt|.|20
+backyard chickens|.|WET1243.txt|.|12
+member info|.|WET744.txt|.|10
+workplace|.|WET4452.txt|.|13
+blanket routine|.|WET3623.txt|.|19

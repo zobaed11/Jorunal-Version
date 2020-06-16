@@ -1,0 +1,12 @@
+728
+accountmy|.|WET6196.txt|.|11
+george mason|.|WET4968.txt|.|9
+state spartans|.|WET4611.txt|.|19|.|WET872.txt|.|8
+shape|.|WET5144.txt|.|8|.|WET2373.txt|.|21|.|WET5533.txt|.|35
+financial|.|WET2706.txt|.|8|.|WET137.txt|.|75|.|WET4824.txt|.|15|.|WET3663.txt|.|26|.|WET5207.txt|.|23|.|WET4831.txt|.|84|.|WET6053.txt|.|30|.|WET3325.txt|.|38
+bush|.|WET1395.txt|.|91|.|WET5144.txt|.|125
+add to wishlist|.|WET1482.txt|.|31
+south and central america|.|WET4831.txt|.|14
+consignment stores|.|WET5790.txt|.|4
+atlanta university|.|WET227.txt|.|214
+retail|.|WET5133.txt|.|24|.|WET1395.txt|.|78|.|WET5144.txt|.|92|.|WET874.txt|.|22|.|WET4610.txt|.|22|.|WET1482.txt|.|80|.|WET4052.txt|.|18|.|WET4831.txt|.|105|.|WET2447.txt|.|10

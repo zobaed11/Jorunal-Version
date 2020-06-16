@@ -1,0 +1,12 @@
+817
+social enterprise|.|WET621.txt|.|9|.|WET686.txt|.|10
+treatment|.|WET3047.txt|.|32|.|WET4159.txt|.|57|.|WET4286.txt|.|75
+stress weight loss|.|WET2067.txt|.|88|.|WET5808.txt|.|88
+david bell|.|WET5366.txt|.|7
+compara|.|WET1486.txt|.|60
+app appbrain|.|WET4940.txt|.|11
+bodies|.|WET6138.txt|.|68
+myriad|.|WET4692.txt|.|2|.|WET4919.txt|.|2|.|WET130.txt|.|2|.|WET4876.txt|.|3|.|WET3075.txt|.|2|.|WET3854.txt|.|2|.|WET2099.txt|.|2|.|WET3711.txt|.|2|.|WET5685.txt|.|2|.|WET5393.txt|.|2
+chatfield|.|WET5090.txt|.|22
+top news|.|WET3190.txt|.|43|.|WET3189.txt|.|34
+enter site|.|WET2168.txt|.|25

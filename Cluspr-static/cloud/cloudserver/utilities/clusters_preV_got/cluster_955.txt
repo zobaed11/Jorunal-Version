@@ -1,0 +1,12 @@
+955
+recipient first name|.|WET5693.txt|.|45
+stat|.|WET98.txt|.|12
+expression|.|WET772.txt|.|13
+pete rose|.|WET4967.txt|.|23
+murals|.|WET1202.txt|.|14
+kurt geiger|.|WET5944.txt|.|63|.|WET2208.txt|.|30
+relationship|.|WET2323.txt|.|7|.|WET2720.txt|.|4|.|WET6064.txt|.|5
+chargers|.|WET2820.txt|.|43|.|WET874.txt|.|91
+vatican officials|.|WET2565.txt|.|49
+gordon|.|WET4031.txt|.|9
+campsites|.|WET3455.txt|.|18

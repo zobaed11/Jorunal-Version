@@ -1,0 +1,11 @@
+129
+calm our fears|.|WET5422.txt|.|16
+calm|.|WET5422.txt|.|16
+samsung|.|WET1112.txt|.|31|.|WET4145.txt|.|39|.|WET639.txt|.|23|.|WET4516.txt|.|8|.|WET3931.txt|.|43|.|WET3505.txt|.|624|.|WET2649.txt|.|1348|.|WET1170.txt|.|60|.|WET1648.txt|.|34|.|WET404.txt|.|45|.|WET4922.txt|.|58
+sony|.|WET5422.txt|.|70|.|WET3505.txt|.|152|.|WET2649.txt|.|330|.|WET1674.txt|.|26|.|WET5111.txt|.|13
+olympus trys|.|WET5422.txt|.|16
+panasonic|.|WET5422.txt|.|2|.|WET1674.txt|.|4
+sprint|.|WET1118.txt|.|20|.|WET2649.txt|.|144
+samsung galaxy|.|WET1112.txt|.|21|.|WET639.txt|.|19|.|WET4516.txt|.|8|.|WET3931.txt|.|41|.|WET3505.txt|.|340|.|WET2649.txt|.|261|.|WET1170.txt|.|49|.|WET1648.txt|.|18|.|WET404.txt|.|42
+trys|.|WET5422.txt|.|16
+fears|.|WET5422.txt|.|16

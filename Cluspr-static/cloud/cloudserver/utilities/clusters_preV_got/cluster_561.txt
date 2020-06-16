@@ -1,0 +1,12 @@
+561
+patient satisfaction|.|WET1996.txt|.|49|.|WET5737.txt|.|34
+affiliated hospitals|.|WET5737.txt|.|13
+medicine dr|.|WET4047.txt|.|89
+webmd|.|WET2807.txt|.|25|.|WET4047.txt|.|120
+responses save|.|WET1996.txt|.|31|.|WET5737.txt|.|49
+functional medicine|.|WET4055.txt|.|30
+affiliated|.|WET5737.txt|.|21
+saved dr|.|WET5737.txt|.|65
+food allergies|.|WET4055.txt|.|25
+office locations|.|WET4047.txt|.|22
+dr|.|WET1996.txt|.|235|.|WET4055.txt|.|130|.|WET1889.txt|.|101|.|WET2398.txt|.|37|.|WET631.txt|.|56|.|WET5737.txt|.|217|.|WET4047.txt|.|310|.|WET2248.txt|.|25

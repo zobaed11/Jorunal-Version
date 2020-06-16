@@ -1,0 +1,12 @@
+256
+suse|.|WET5594.txt|.|78
+tropes random media|.|WET4731.txt|.|18
+integrable|.|WET4370.txt|.|5
+old time radio|.|WET5443.txt|.|56
+digg|.|WET1101.txt|.|12|.|WET3844.txt|.|33
+msn messenger|.|WET19.txt|.|159
+historic site|.|WET3455.txt|.|96
+carmen|.|WET2574.txt|.|126
+unabridged|.|WET1218.txt|.|182
+world war ii|.|WET582.txt|.|36
+fond|.|WET4167.txt|.|23

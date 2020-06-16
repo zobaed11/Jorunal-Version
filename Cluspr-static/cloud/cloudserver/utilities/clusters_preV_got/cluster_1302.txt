@@ -1,0 +1,12 @@
+1302
+ford mustang|.|WET4895.txt|.|32|.|WET168.txt|.|59
+blocked|.|WET3545.txt|.|54
+rent specials|.|WET2764.txt|.|71
+management services|.|WET4510.txt|.|1|.|WET3582.txt|.|2
+dimitri|.|WET2843.txt|.|155
+wsu stewart|.|WET4327.txt|.|65
+padres|.|WET5005.txt|.|44
+kossack|.|WET2199.txt|.|32
+atomizers|.|WET3582.txt|.|2
+naciones|.|WET4228.txt|.|5
+optional name|.|WET2608.txt|.|16

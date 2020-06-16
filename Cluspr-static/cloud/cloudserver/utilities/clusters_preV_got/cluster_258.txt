@@ -1,0 +1,12 @@
+258
+ceiling|.|WET4647.txt|.|43|.|WET2215.txt|.|109|.|WET4783.txt|.|11|.|WET5953.txt|.|92|.|WET1113.txt|.|88|.|WET3658.txt|.|20
+phosphoglyceromutase|.|WET5911.txt|.|696
+chosen four|.|WET4647.txt|.|14
+lamps|.|WET2215.txt|.|180|.|WET5953.txt|.|184|.|WET2249.txt|.|39|.|WET3658.txt|.|36
+earthbound|.|WET4647.txt|.|24
+species|.|WET2308.txt|.|35|.|WET4953.txt|.|23|.|WET5490.txt|.|23|.|WET4417.txt|.|16
+light semi flush|.|WET2215.txt|.|1
+ceiling lights|.|WET2215.txt|.|72|.|WET5953.txt|.|55|.|WET3658.txt|.|10
+kirloskar|.|WET2399.txt|.|64
+floor lamps|.|WET3658.txt|.|16
+false ceiling|.|WET4647.txt|.|38

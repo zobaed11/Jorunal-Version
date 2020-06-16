@@ -1,0 +1,12 @@
+23
+tongues system|.|WET4541.txt|.|13
+readership|.|WET605.txt|.|110|.|WET4347.txt|.|110|.|WET606.txt|.|70
+lists home faq|.|WET593.txt|.|7
+recruiting|.|WET3029.txt|.|49|.|WET3102.txt|.|33
+lt|.|WET616.txt|.|2|.|WET593.txt|.|12
+red galleria|.|WET924.txt|.|13
+pointe|.|WET1876.txt|.|7
+county high|.|WET2620.txt|.|75
+admission|.|WET4789.txt|.|94|.|WET5106.txt|.|31
+retail free|.|WET1395.txt|.|78|.|WET5144.txt|.|92
+dusty|.|WET2927.txt|.|98

@@ -1,0 +1,12 @@
+168
+etfs|.|WET2104.txt|.|32
+defensive|.|WET1669.txt|.|12|.|WET5365.txt|.|70
+economy car|.|WET5465.txt|.|87
+jeff|.|WET3450.txt|.|35
+hernandez|.|WET4471.txt|.|7
+economy|.|WET1868.txt|.|20|.|WET5465.txt|.|88|.|WET135.txt|.|65|.|WET2104.txt|.|24|.|WET5605.txt|.|46
+zero risk|.|WET2104.txt|.|3
+hypothetical protein|.|WET5911.txt|.|120
+degrees|.|WET3437.txt|.|18
+todos los|.|WET2830.txt|.|6|.|WET350.txt|.|36
+christian business faculty association|.|WET814.txt|.|17

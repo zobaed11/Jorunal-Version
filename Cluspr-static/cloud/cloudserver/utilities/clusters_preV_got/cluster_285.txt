@@ -1,0 +1,12 @@
+285
+della|.|WET2642.txt|.|37|.|WET3471.txt|.|49
+sew|.|WET3572.txt|.|18|.|WET2722.txt|.|12
+serving platters|.|WET2642.txt|.|28
+eligible|.|WET5390.txt|.|102|.|WET2642.txt|.|245
+pattern|.|WET1149.txt|.|31|.|WET2373.txt|.|20|.|WET2260.txt|.|17|.|WET6113.txt|.|10|.|WET5141.txt|.|82
+runway|.|WET3870.txt|.|55|.|WET5017.txt|.|91|.|WET5141.txt|.|33
+home accents clearance|.|WET2642.txt|.|29
+archiving|.|WET1614.txt|.|17|.|WET3398.txt|.|10|.|WET1392.txt|.|1|.|WET465.txt|.|3
+applique|.|WET2722.txt|.|50
+connect|.|WET3329.txt|.|7|.|WET378.txt|.|4|.|WET1391.txt|.|11|.|WET867.txt|.|10
+serving|.|WET6113.txt|.|70|.|WET2642.txt|.|93

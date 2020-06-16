@@ -1,0 +1,12 @@
+969
+poorly|.|WET4106.txt|.|35
+bookmark|.|WET3665.txt|.|158
+characters|.|WET6013.txt|.|32|.|WET5278.txt|.|53|.|WET4731.txt|.|58
+learning exercises|.|WET3665.txt|.|60
+service learning|.|WET2318.txt|.|1
+loans|.|WET1236.txt|.|47|.|WET3367.txt|.|20|.|WET3655.txt|.|47
+reads|.|WET4786.txt|.|37|.|WET5003.txt|.|5|.|WET1040.txt|.|37
+learning|.|WET4258.txt|.|5|.|WET3665.txt|.|148|.|WET4490.txt|.|11|.|WET2318.txt|.|8|.|WET4593.txt|.|7|.|WET2849.txt|.|8|.|WET3411.txt|.|72|.|WET1040.txt|.|14|.|WET4015.txt|.|30|.|WET3410.txt|.|81|.|WET1733.txt|.|188|.|WET3367.txt|.|7|.|WET4977.txt|.|15|.|WET5419.txt|.|7
+enjoy using|.|WET1733.txt|.|100
+dolce vita|.|WET2273.txt|.|52
+tokujin yoshioka|.|WET1635.txt|.|5

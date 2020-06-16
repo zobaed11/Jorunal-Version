@@ -1,0 +1,12 @@
+1097
+flightaware|.|WET4537.txt|.|61|.|WET999.txt|.|22
+soccer|.|WET2917.txt|.|183|.|WET3170.txt|.|39|.|WET4374.txt|.|18|.|WET5690.txt|.|21|.|WET3381.txt|.|121|.|WET5688.txt|.|36|.|WET4641.txt|.|329|.|WET4632.txt|.|113|.|WET892.txt|.|175|.|WET6122.txt|.|20|.|WET5677.txt|.|18|.|WET2916.txt|.|324|.|WET891.txt|.|386|.|WET1973.txt|.|6|.|WET5004.txt|.|74|.|WET4631.txt|.|311|.|WET4750.txt|.|362|.|WET3579.txt|.|218
+game sportswear|.|WET891.txt|.|35
+kick a soccer|.|WET4631.txt|.|10
+weprint|.|WET4984.txt|.|17
+surface|.|WET5841.txt|.|86
+activity recent corral|.|WET1666.txt|.|11
+model|.|WET6136.txt|.|341|.|WET6135.txt|.|133|.|WET1306.txt|.|27|.|WET2393.txt|.|129|.|WET4104.txt|.|3|.|WET2392.txt|.|159|.|WET139.txt|.|19
+soccer shoes turf|.|WET2916.txt|.|7
+isthmus picks|.|WET4267.txt|.|88
+tasks|.|WET3695.txt|.|312

@@ -1,0 +1,48 @@
+62
+routers is forwarding|.|rfc2281.txt|.|1
+router redundancy|.|rfc3768.txt|.|6|.|rfc5798.txt|.|11
+scheme as a new|.|rfc1955.txt|.|1
+routers participating|.|rfc2281.txt|.|3
+hermelin|.|rfc3786.txt|.|16
+router key|.|rfc2154.txt|.|14
+associated with the virtual router|.|rfc5798.txt|.|21
+medium|.|rfc1955.txt|.|5
+chesterfield|.|rfc5519.txt|.|44
+border routers|.|rfc1955.txt|.|13|.|rfc2154.txt|.|16
+deterministically|.|rfc6226.txt|.|4
+configured tunnel|.|rfc4213.txt|.|6
+reservation capable routers|.|rfc4883.txt|.|11
+zinin informational|.|rfc5309.txt|.|10
+medium term|.|rfc1955.txt|.|5
+access routers|.|rfc4988.txt|.|17
+new router|.|rfc4988.txt|.|7
+standby router|.|rfc2281.txt|.|20
+attachment circuit|.|rfc6074.txt|.|41|.|rfc4667.txt|.|6|.|rfc5641.txt|.|11|.|rfc4364.txt|.|54
+ipvx|.|rfc5798.txt|.|86
+link local address|.|rfc4213.txt|.|1|.|rfc4862.txt|.|2|.|rfc3927.txt|.|1
+relay anycast|.|rfc3068.txt|.|11
+participating|.|rfc2281.txt|.|5
+encaps|.|rfc1955.txt|.|5
+routers|.|rfc4392.txt|.|22|.|rfc2893.txt|.|25|.|rfc5519.txt|.|34|.|rfc2154.txt|.|90|.|rfc5790.txt|.|27|.|rfc3786.txt|.|21|.|rfc4883.txt|.|59|.|rfc6115.txt|.|71|.|rfc4213.txt|.|19|.|rfc1955.txt|.|18|.|rfc6226.txt|.|9|.|rfc4925.txt|.|18|.|rfc3717.txt|.|37|.|rfc5798.txt|.|81|.|rfc4610.txt|.|10|.|rfc5309.txt|.|25|.|rfc6041.txt|.|6|.|rfc4364.txt|.|120|.|rfc4950.txt|.|3|.|rfc5110.txt|.|21|.|rfc3178.txt|.|19|.|rfc2281.txt|.|32|.|rfc5613.txt|.|9|.|rfc3068.txt|.|44|.|rfc5250.txt|.|32|.|rfc4988.txt|.|29|.|rfc5644.txt|.|50
+deficit|.|rfc4883.txt|.|9
+term solution|.|rfc2856.txt|.|5|.|rfc1955.txt|.|12
+ospf routers|.|rfc5613.txt|.|4|.|rfc5250.txt|.|9
+edge networks|.|rfc6115.txt|.|18
+support at site|.|rfc3178.txt|.|12
+relay routers|.|rfc3068.txt|.|26
+ipvx address|.|rfc5798.txt|.|27
+ce routers|.|rfc4364.txt|.|33
+site exit|.|rfc3178.txt|.|14
+algorithm to deterministically|.|rfc6226.txt|.|2
+packet loss vector|.|rfc5644.txt|.|2
+softwire problem statement|.|rfc4925.txt|.|23
+reflector|.|rfc5358.txt|.|8|.|rfc4364.txt|.|33|.|rfc6038.txt|.|5
+signed lsa|.|rfc2154.txt|.|17
+identify one te|.|rfc2154.txt|.|3
+link state advertisements|.|rfc5250.txt|.|9
+message deficit|.|rfc4883.txt|.|9
+resource reservation capable|.|rfc4883.txt|.|18
+new routing protocols|.|rfc1955.txt|.|2
+backup routers|.|rfc5798.txt|.|12
+spokes|.|rfc4925.txt|.|14
+name based|.|rfc6115.txt|.|2

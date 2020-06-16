@@ -1,0 +1,12 @@
+1063
+prints|.|WET1202.txt|.|65|.|WET4576.txt|.|82|.|WET838.txt|.|82|.|WET1122.txt|.|186|.|WET836.txt|.|77|.|WET4868.txt|.|62|.|WET4578.txt|.|80|.|WET840.txt|.|83|.|WET4577.txt|.|84|.|WET839.txt|.|81|.|WET762.txt|.|15|.|WET837.txt|.|80|.|WET4031.txt|.|13|.|WET1626.txt|.|19|.|WET4869.txt|.|124
+ad|.|WET4576.txt|.|32|.|WET838.txt|.|33|.|WET836.txt|.|33|.|WET2165.txt|.|14|.|WET3526.txt|.|21|.|WET202.txt|.|96|.|WET839.txt|.|33|.|WET3316.txt|.|18|.|WET2203.txt|.|25|.|WET3634.txt|.|233|.|WET858.txt|.|58|.|WET4878.txt|.|28|.|WET2505.txt|.|80|.|WET5940.txt|.|39|.|WET1592.txt|.|4|.|WET2804.txt|.|28|.|WET1776.txt|.|31
+ad placed|.|WET858.txt|.|20
+epson|.|WET838.txt|.|8
+times of trenton|.|WET202.txt|.|40
+ad feedback|.|WET3526.txt|.|10
+slotindex|.|WET5940.txt|.|20
+professionally printed|.|WET5238.txt|.|78
+order prints|.|WET4576.txt|.|12
+google|.|WET4259.txt|.|13|.|WET1628.txt|.|30|.|WET4792.txt|.|27|.|WET1746.txt|.|22|.|WET5873.txt|.|87|.|WET4346.txt|.|8|.|WET5354.txt|.|11|.|WET1776.txt|.|22|.|WET5511.txt|.|27
+place|.|WET202.txt|.|53|.|WET2011.txt|.|51|.|WET5042.txt|.|32|.|WET4878.txt|.|30|.|WET2505.txt|.|60|.|WET201.txt|.|47|.|WET2165.txt|.|23|.|WET5830.txt|.|33|.|WET6153.txt|.|18

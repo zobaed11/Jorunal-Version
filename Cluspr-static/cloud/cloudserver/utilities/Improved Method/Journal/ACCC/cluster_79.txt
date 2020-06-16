@@ -1,0 +1,12 @@
+79
+bigscreen cinema|.|WET3839.txt|.|15
+vip service|.|WET3839.txt|.|15
+fan experience|.|WET1967.txt|.|14
+public file|.|WET4300.txt|.|5
+cinema guide|.|WET3839.txt|.|15
+vip fan|.|WET1967.txt|.|12
+professionals|.|WET1967.txt|.|9
+bigscreen|.|WET3839.txt|.|17
+innovating|.|WET4355.txt|.|2|.|WET1967.txt|.|2|.|WET615.txt|.|2
+cinema|.|WET3839.txt|.|36|.|WET2481.txt|.|22|.|WET198.txt|.|25|.|WET3945.txt|.|31|.|WET6220.txt|.|20
+vip|.|WET4300.txt|.|16|.|WET4312.txt|.|18|.|WET3839.txt|.|18|.|WET3781.txt|.|15|.|WET1967.txt|.|14

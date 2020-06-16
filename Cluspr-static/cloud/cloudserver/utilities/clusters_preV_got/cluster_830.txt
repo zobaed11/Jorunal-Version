@@ -1,0 +1,12 @@
+830
+jewelry|.|WET1898.txt|.|209|.|WET5636.txt|.|180|.|WET2793.txt|.|294|.|WET2876.txt|.|86|.|WET3597.txt|.|32|.|WET2188.txt|.|189|.|WET5867.txt|.|17|.|WET1800.txt|.|63|.|WET1815.txt|.|73|.|WET3275.txt|.|36|.|WET4607.txt|.|68
+merchandise|.|WET5017.txt|.|53|.|WET1570.txt|.|33|.|WET3597.txt|.|35|.|WET1408.txt|.|36
+added to the wish list|.|WET4607.txt|.|5
+drains|.|WET1133.txt|.|8
+ring|.|WET103.txt|.|12|.|WET1468.txt|.|13|.|WET4607.txt|.|68
+us dollar|.|WET1293.txt|.|16|.|WET2793.txt|.|273|.|WET5042.txt|.|10
+jewelry shop|.|WET2793.txt|.|48
+granola|.|WET3010.txt|.|40
+wedding|.|WET418.txt|.|57|.|WET2593.txt|.|147|.|WET2005.txt|.|236|.|WET4770.txt|.|54|.|WET3267.txt|.|268|.|WET5228.txt|.|34|.|WET2998.txt|.|47|.|WET2548.txt|.|27|.|WET957.txt|.|76|.|WET879.txt|.|7|.|WET1898.txt|.|157|.|WET3268.txt|.|156|.|WET4389.txt|.|20|.|WET3687.txt|.|14|.|WET3651.txt|.|59|.|WET2547.txt|.|135|.|WET2867.txt|.|20|.|WET2973.txt|.|233|.|WET1800.txt|.|46|.|WET1765.txt|.|10|.|WET1815.txt|.|11|.|WET3739.txt|.|62
+search cracked|.|WET5312.txt|.|6
+glen|.|WET2323.txt|.|28

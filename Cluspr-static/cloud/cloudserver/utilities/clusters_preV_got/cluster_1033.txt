@@ -1,0 +1,12 @@
+1033
+century|.|WET3965.txt|.|22|.|WET760.txt|.|35|.|WET218.txt|.|20
+training shop|.|WET3457.txt|.|11
+marathon training marathon|.|WET218.txt|.|20
+oklahoma city|.|WET1647.txt|.|106
+exhibiting|.|WET2057.txt|.|33
+market information|.|WET2211.txt|.|2|.|WET5760.txt|.|2|.|WET1647.txt|.|2
+training|.|WET3361.txt|.|10|.|WET1118.txt|.|159|.|WET2716.txt|.|16|.|WET2057.txt|.|120|.|WET2915.txt|.|52|.|WET3783.txt|.|17|.|WET217.txt|.|38|.|WET1476.txt|.|10|.|WET1647.txt|.|176|.|WET3457.txt|.|11|.|WET1473.txt|.|21|.|WET34.txt|.|30|.|WET3965.txt|.|189|.|WET1666.txt|.|40|.|WET3735.txt|.|90|.|WET218.txt|.|174
+biking|.|WET1118.txt|.|25
+half marathon|.|WET218.txt|.|41
+managers|.|WET2764.txt|.|5|.|WET4693.txt|.|20|.|WET1647.txt|.|24
+training forum|.|WET34.txt|.|16|.|WET3783.txt|.|11

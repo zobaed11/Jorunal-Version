@@ -1,0 +1,12 @@
+519
+annica thomas|.|WET1085.txt|.|6
+chevy|.|WET5667.txt|.|346|.|WET5158.txt|.|37|.|WET5159.txt|.|24|.|WET1409.txt|.|20
+agoda|.|WET1130.txt|.|143|.|WET4876.txt|.|103
+pat|.|WET1085.txt|.|6
+vacatures|.|WET4445.txt|.|66
+chevrolet truck|.|WET5425.txt|.|31
+truck|.|WET1664.txt|.|98|.|WET5667.txt|.|283|.|WET4396.txt|.|35|.|WET5425.txt|.|69|.|WET1085.txt|.|79|.|WET3859.txt|.|5|.|WET2392.txt|.|66
+joubert|.|WET3668.txt|.|40
+county memorial|.|WET576.txt|.|15
+schweiz|.|WET2444.txt|.|53|.|WET1329.txt|.|19
+truck envoy|.|WET5425.txt|.|25

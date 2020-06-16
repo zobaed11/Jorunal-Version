@@ -1,0 +1,12 @@
+482
+norik|.|WET1400.txt|.|14
+kiddush cups|.|WET879.txt|.|8
+designer boutique|.|WET3708.txt|.|37
+saya|.|WET3409.txt|.|434
+tarjetas|.|WET239.txt|.|19|.|WET2735.txt|.|19
+tue|.|WET3051.txt|.|20|.|WET1620.txt|.|89|.|WET4143.txt|.|62
+festival|.|WET1635.txt|.|15|.|WET2782.txt|.|42
+design festival|.|WET1635.txt|.|10
+microwavegeneral electric|.|WET390.txt|.|111
+zenit|.|WET3440.txt|.|19
+stati|.|WET5658.txt|.|30

@@ -1,0 +1,12 @@
+28
+connecticut state university|.|WET3970.txt|.|11
+turner|.|WET2463.txt|.|24
+disabilities|.|WET998.txt|.|121
+timeposted|.|WET402.txt|.|25
+george lopez|.|WET2437.txt|.|13
+wed oct|.|WET402.txt|.|73
+moderator|.|WET4158.txt|.|28|.|WET1907.txt|.|103|.|WET4899.txt|.|50
+pacquiao|.|WET740.txt|.|280
+transaction|.|WET5163.txt|.|18
+tdavenport|.|WET1629.txt|.|92
+gforce engineering|.|WET5151.txt|.|19

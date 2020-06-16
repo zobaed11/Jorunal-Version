@@ -1,0 +1,12 @@
+1066
+rpgwatch running|.|WET2797.txt|.|9
+jebel ali|.|WET2268.txt|.|3
+animal diversity|.|WET3786.txt|.|20
+comment to make|.|WET3764.txt|.|16
+ecommerce|.|WET2101.txt|.|36
+famfamfam|.|WET6306.txt|.|11
+dating|.|WET6063.txt|.|142|.|WET4647.txt|.|67|.|WET1124.txt|.|25|.|WET17.txt|.|60|.|WET2740.txt|.|28|.|WET3765.txt|.|60|.|WET3813.txt|.|26|.|WET6064.txt|.|60|.|WET4870.txt|.|31|.|WET3764.txt|.|80
+locus|.|WET2797.txt|.|9
+camera|.|WET4000.txt|.|48|.|WET3629.txt|.|22|.|WET4708.txt|.|12|.|WET5422.txt|.|64|.|WET5162.txt|.|48|.|WET235.txt|.|15|.|WET2816.txt|.|370|.|WET5818.txt|.|56
+rhode|.|WET4487.txt|.|68|.|WET1034.txt|.|44
+studying subject|.|WET729.txt|.|186

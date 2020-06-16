@@ -1,0 +1,12 @@
+675
+last two minutes|.|WET1901.txt|.|32
+ser|.|WET750.txt|.|50
+incentives|.|WET5467.txt|.|40|.|WET1725.txt|.|29
+acura legend|.|WET5467.txt|.|14
+subcultures|.|WET362.txt|.|20
+ratings and reviews|.|WET1725.txt|.|8
+ratings|.|WET1454.txt|.|14|.|WET3354.txt|.|22|.|WET959.txt|.|15|.|WET3079.txt|.|63|.|WET3268.txt|.|45|.|WET4080.txt|.|50|.|WET1725.txt|.|8
+legend|.|WET5467.txt|.|17
+nissan maxima|.|WET5468.txt|.|13
+car finder|.|WET1725.txt|.|16
+kitt|.|WET5654.txt|.|13

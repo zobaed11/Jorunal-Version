@@ -1,0 +1,12 @@
+1365
+ass|.|WET2291.txt|.|13|.|WET3224.txt|.|58|.|WET2858.txt|.|12
+jordan pruitt|.|WET5919.txt|.|9
+cleanup|.|WET1020.txt|.|7
+fashion week|.|WET1347.txt|.|10
+india forums|.|WET2083.txt|.|6
+videos|.|WET4226.txt|.|30|.|WET4993.txt|.|72|.|WET5903.txt|.|43|.|WET4718.txt|.|36|.|WET1859.txt|.|37|.|WET1866.txt|.|42|.|WET1299.txt|.|28|.|WET2684.txt|.|11|.|WET3764.txt|.|33|.|WET442.txt|.|57|.|WET5782.txt|.|44|.|WET3779.txt|.|49|.|WET2083.txt|.|84|.|WET5668.txt|.|55|.|WET3333.txt|.|6|.|WET3332.txt|.|11|.|WET1346.txt|.|22|.|WET1371.txt|.|22|.|WET2103.txt|.|5|.|WET2858.txt|.|20|.|WET1499.txt|.|9|.|WET101.txt|.|54|.|WET6139.txt|.|31|.|WET1347.txt|.|22|.|WET5919.txt|.|53|.|WET5097.txt|.|20|.|WET6121.txt|.|48|.|WET3347.txt|.|34|.|WET4148.txt|.|11|.|WET4766.txt|.|29|.|WET3223.txt|.|55|.|WET6130.txt|.|25|.|WET2682.txt|.|110|.|WET1297.txt|.|8|.|WET2405.txt|.|29|.|WET4232.txt|.|121|.|WET1020.txt|.|50|.|WET2736.txt|.|15|.|WET3203.txt|.|25|.|WET485.txt|.|351|.|WET6224.txt|.|20|.|WET1666.txt|.|11|.|WET1755.txt|.|32|.|WET3348.txt|.|89|.|WET6060.txt|.|56|.|WET2356.txt|.|12|.|WET2406.txt|.|111|.|WET3763.txt|.|124
+release date|.|WET3223.txt|.|3
+blog mactech reviews|.|WET4148.txt|.|11
+show press|.|WET485.txt|.|81
+scandal videos|.|WET4718.txt|.|16
+coastal|.|WET1020.txt|.|5

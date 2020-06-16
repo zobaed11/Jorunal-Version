@@ -1,0 +1,16 @@
+feb|.|WET1801.txt|.|30|.|WET3377.txt|.|64|.|WET2799.txt|.|101|.|WET3583.txt|.|59|.|WET3253.txt|.|1|.|WET3760.txt|.|48|.|WET4932.txt|.|83|.|WET3169.txt|.|54|.|WET1209.txt|.|4
+probability|.|WET3583.txt|.|11
+bear market|.|WET3583.txt|.|4
+unknown user|.|WET1209.txt|.|2
+washington oregon|.|WET3169.txt|.|8
+accessoires|.|WET3760.txt|.|16
+washington state|.|WET3169.txt|.|10
+axel|.|WET2799.txt|.|42
+probability of failure|.|WET3583.txt|.|2
+shauf|.|WET4932.txt|.|18
+nfl schedules|.|WET1801.txt|.|4
+football schedule|.|WET1801.txt|.|5
+andy shauf|.|WET4932.txt|.|18
+avec|.|WET3760.txt|.|12
+anti anti|.|WET4932.txt|.|9
+accessoires auto|.|WET3760.txt|.|11

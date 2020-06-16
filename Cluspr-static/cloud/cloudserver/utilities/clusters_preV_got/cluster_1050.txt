@@ -1,0 +1,12 @@
+1050
+visit your local|.|WET5317.txt|.|60
+easter bunny|.|WET3686.txt|.|35
+designers|.|WET2000.txt|.|14
+like like|.|WET2738.txt|.|40
+like|.|WET3450.txt|.|111|.|WET5317.txt|.|87|.|WET2000.txt|.|94|.|WET4530.txt|.|43|.|WET2784.txt|.|36|.|WET489.txt|.|15|.|WET3686.txt|.|174|.|WET442.txt|.|35|.|WET2738.txt|.|161|.|WET5174.txt|.|59|.|WET5940.txt|.|14|.|WET2720.txt|.|39|.|WET2843.txt|.|170|.|WET3417.txt|.|35|.|WET4899.txt|.|62|.|WET4047.txt|.|40|.|WET3685.txt|.|142
+mb dimitri|.|WET2843.txt|.|89
+upload date|.|WET2843.txt|.|100
+flower pot|.|WET3685.txt|.|9
+instant client|.|WET3417.txt|.|4
+quote thu|.|WET2738.txt|.|19
+designers round|.|WET2000.txt|.|9

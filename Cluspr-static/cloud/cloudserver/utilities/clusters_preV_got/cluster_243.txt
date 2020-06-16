@@ -1,0 +1,12 @@
+243
+favoritessharemy|.|WET2066.txt|.|14|.|WET5807.txt|.|18
+asbestos|.|WET5686.txt|.|40
+clark|.|WET5686.txt|.|4|.|WET115.txt|.|9|.|WET4763.txt|.|57
+broadway|.|WET5123.txt|.|76
+tree structure|.|WET3545.txt|.|2
+unsigned|.|WET1896.txt|.|17
+hague|.|WET577.txt|.|370
+american horror|.|WET3851.txt|.|13
+dispensing|.|WET5686.txt|.|127
+clark worldwide|.|WET5686.txt|.|1
+device|.|WET5686.txt|.|168|.|WET1574.txt|.|5|.|WET2091.txt|.|2|.|WET3599.txt|.|1|.|WET2154.txt|.|24|.|WET1896.txt|.|11

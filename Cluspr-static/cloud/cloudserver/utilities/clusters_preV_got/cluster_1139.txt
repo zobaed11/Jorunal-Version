@@ -1,0 +1,12 @@
+1139
+office depot|.|WET1802.txt|.|297|.|WET6273.txt|.|48
+scaling|.|WET2297.txt|.|3
+horror|.|WET3851.txt|.|14|.|WET5041.txt|.|27|.|WET1290.txt|.|36|.|WET5767.txt|.|55
+beverage|.|WET1189.txt|.|40
+information security|.|WET4597.txt|.|45|.|WET859.txt|.|18
+gran|.|WET5239.txt|.|9
+xbox|.|WET5624.txt|.|205|.|WET5622.txt|.|50|.|WET2062.txt|.|26|.|WET1885.txt|.|187
+magician|.|WET3631.txt|.|27
+trophy|.|WET4535.txt|.|74
+resort krabi|.|WET5907.txt|.|15
+coast to coast|.|WET5266.txt|.|31

@@ -1,0 +1,12 @@
+22
+colourproduct type|.|WET2443.txt|.|8
+historic|.|WET3455.txt|.|120|.|WET1772.txt|.|40|.|WET1771.txt|.|88|.|WET5507.txt|.|88
+butler county times|.|WET1397.txt|.|10
+holidays|.|WET6301.txt|.|45|.|WET1753.txt|.|16|.|WET5454.txt|.|13|.|WET2561.txt|.|28|.|WET2562.txt|.|44
+toggle navigation|.|WET3174.txt|.|22|.|WET3175.txt|.|12|.|WET5346.txt|.|10
+events community video|.|WET1753.txt|.|16
+false|.|WET755.txt|.|2|.|WET2192.txt|.|14|.|WET1405.txt|.|12|.|WET4647.txt|.|40
+birthday party supplies|.|WET2599.txt|.|23|.|WET6301.txt|.|23|.|WET2562.txt|.|22
+trajectory|.|WET3443.txt|.|2|.|WET2832.txt|.|2|.|WET2127.txt|.|2|.|WET3853.txt|.|2|.|WET5249.txt|.|1|.|WET6194.txt|.|2|.|WET4499.txt|.|2
+dimitri vegas|.|WET2843.txt|.|155
+open house|.|WET2468.txt|.|15

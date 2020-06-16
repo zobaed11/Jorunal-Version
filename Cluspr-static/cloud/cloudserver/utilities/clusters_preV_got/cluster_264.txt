@@ -1,0 +1,12 @@
+264
+basket|.|WET1478.txt|.|27|.|WET1988.txt|.|20|.|WET5890.txt|.|25|.|WET5229.txt|.|13|.|WET2063.txt|.|53|.|WET4857.txt|.|38
+libro|.|WET2867.txt|.|20|.|WET6036.txt|.|10
+caroline|.|WET5183.txt|.|119|.|WET1431.txt|.|102
+preps|.|WET1892.txt|.|22|.|WET1338.txt|.|6|.|WET5089.txt|.|7
+mcq|.|WET2851.txt|.|44
+news cny|.|WET3004.txt|.|18
+ideas|.|WET5534.txt|.|230|.|WET2005.txt|.|17|.|WET2629.txt|.|14|.|WET5546.txt|.|65|.|WET548.txt|.|53
+basket empty|.|WET5890.txt|.|12
+convert|.|WET5776.txt|.|16|.|WET4857.txt|.|34
+polyak|.|WET361.txt|.|12
+olympic weightlifting|.|WET1440.txt|.|26

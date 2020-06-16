@@ -1,0 +1,3 @@
+1286
+vaccines|.|WET5877.txt|.|39
+care|.|WET6183.txt|.|64|.|WET5438.txt|.|116|.|WET2361.txt|.|22|.|WET1260.txt|.|37|.|WET4556.txt|.|37|.|WET6085.txt|.|792|.|WET1323.txt|.|173|.|WET2340.txt|.|792|.|WET2341.txt|.|792|.|WET5074.txt|.|203|.|WET557.txt|.|74|.|WET3214.txt|.|26|.|WET3664.txt|.|75|.|WET5010.txt|.|119|.|WET6084.txt|.|792|.|WET3205.txt|.|73|.|WET770.txt|.|9|.|WET1947.txt|.|27|.|WET2342.txt|.|792|.|WET5283.txt|.|31|.|WET5877.txt|.|131|.|WET6083.txt|.|360|.|WET5496.txt|.|54|.|WET2360.txt|.|55|.|WET5905.txt|.|78|.|WET2343.txt|.|72|.|WET2441.txt|.|120|.|WET6105.txt|.|21|.|WET2895.txt|.|253|.|WET2339.txt|.|152|.|WET1406.txt|.|14|.|WET2153.txt|.|42

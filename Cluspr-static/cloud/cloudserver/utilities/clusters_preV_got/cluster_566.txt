@@ -1,0 +1,12 @@
+566
+image processing|.|WET421.txt|.|3
+gt spyder|.|WET691.txt|.|17
+standards|.|WET3240.txt|.|12|.|WET1925.txt|.|19|.|WET3484.txt|.|6
+trusts|.|WET3269.txt|.|2|.|WET3083.txt|.|3|.|WET5968.txt|.|2|.|WET5822.txt|.|3|.|WET1663.txt|.|4|.|WET3998.txt|.|2|.|WET253.txt|.|2|.|WET786.txt|.|2|.|WET258.txt|.|2|.|WET2511.txt|.|4|.|WET5976.txt|.|1
+docstring|.|WET3484.txt|.|6
+spyder convertible|.|WET691.txt|.|4
+accessories car|.|WET691.txt|.|2
+swish|.|WET934.txt|.|1
+aerial vehicles|.|WET3484.txt|.|8
+gt|.|WET934.txt|.|72|.|WET2688.txt|.|47|.|WET4337.txt|.|32|.|WET421.txt|.|74|.|WET691.txt|.|17|.|WET4497.txt|.|10|.|WET3484.txt|.|33|.|WET4605.txt|.|23
+parallel computing|.|WET421.txt|.|3|.|WET5206.txt|.|14

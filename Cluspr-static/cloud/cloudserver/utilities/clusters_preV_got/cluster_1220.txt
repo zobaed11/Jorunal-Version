@@ -1,0 +1,12 @@
+1220
+rica|.|WET5450.txt|.|6
+whalencurrent address|.|WET2629.txt|.|52
+feed|.|WET400.txt|.|81|.|WET2092.txt|.|67|.|WET1686.txt|.|20|.|WET1720.txt|.|15|.|WET1047.txt|.|22
+budleigh|.|WET5100.txt|.|31
+address|.|WET1587.txt|.|50|.|WET2629.txt|.|131|.|WET1124.txt|.|14|.|WET2132.txt|.|13|.|WET829.txt|.|3|.|WET2608.txt|.|17|.|WET4870.txt|.|16|.|WET5409.txt|.|38|.|WET1185.txt|.|12|.|WET3265.txt|.|20|.|WET3863.txt|.|16|.|WET1075.txt|.|14|.|WET3523.txt|.|14|.|WET3839.txt|.|13|.|WET2767.txt|.|5|.|WET2092.txt|.|22|.|WET5508.txt|.|124|.|WET3266.txt|.|14|.|WET382.txt|.|21|.|WET542.txt|.|37|.|WET122.txt|.|13|.|WET2180.txt|.|20|.|WET1161.txt|.|13|.|WET5335.txt|.|95|.|WET5653.txt|.|44|.|WET2034.txt|.|13
+great ideas|.|WET2629.txt|.|14
+email address|.|WET1587.txt|.|40|.|WET2767.txt|.|5|.|WET1124.txt|.|14|.|WET2092.txt|.|21|.|WET2132.txt|.|13|.|WET5508.txt|.|96|.|WET3266.txt|.|12|.|WET382.txt|.|21|.|WET542.txt|.|28|.|WET829.txt|.|3|.|WET122.txt|.|12|.|WET2608.txt|.|16|.|WET4870.txt|.|16|.|WET2180.txt|.|19|.|WET1185.txt|.|12|.|WET3265.txt|.|19|.|WET5335.txt|.|78|.|WET3863.txt|.|16|.|WET5653.txt|.|33|.|WET1075.txt|.|13|.|WET3523.txt|.|7|.|WET2034.txt|.|13
+leverag|.|WET520.txt|.|29
+tampa bay|.|WET3378.txt|.|30|.|WET4613.txt|.|24|.|WET873.txt|.|30|.|WET3901.txt|.|21
+rick|.|WET5173.txt|.|34|.|WET4100.txt|.|8
+knuckle|.|WET2065.txt|.|7

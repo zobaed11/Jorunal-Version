@@ -1,0 +1,4 @@
+88
+north|.|WET798.txt|.|27|.|WET6250.txt|.|17|.|WET3770.txt|.|12|.|WET1241.txt|.|38|.|WET6078.txt|.|12|.|WET3198.txt|.|48|.|WET4992.txt|.|35|.|WET3634.txt|.|38|.|WET213.txt|.|129|.|WET2986.txt|.|125|.|WET2516.txt|.|47|.|WET982.txt|.|29|.|WET4032.txt|.|292|.|WET1432.txt|.|18|.|WET4272.txt|.|48|.|WET5393.txt|.|138|.|WET4233.txt|.|29
+trucker hat|.|WET4992.txt|.|3
+uttered|.|WET489.txt|.|1|.|WET4032.txt|.|4

@@ -1,0 +1,12 @@
+1214
+photo company collection|.|WET4030.txt|.|31
+metropolitan sewer district|.|WET4030.txt|.|31
+photos of louisville|.|WET4030.txt|.|31
+metropolitan|.|WET4457.txt|.|31|.|WET4030.txt|.|31
+sewer|.|WET4030.txt|.|31|.|WET287.txt|.|33
+digital image collection|.|WET4030.txt|.|33
+photograph collection|.|WET4385.txt|.|207|.|WET645.txt|.|164|.|WET323.txt|.|441
+robb|.|WET4364.txt|.|24|.|WET323.txt|.|63
+collection|.|WET227.txt|.|381|.|WET4030.txt|.|905|.|WET287.txt|.|803|.|WET71.txt|.|38|.|WET553.txt|.|112|.|WET230.txt|.|47|.|WET286.txt|.|782|.|WET3976.txt|.|294|.|WET1909.txt|.|8|.|WET4031.txt|.|160|.|WET181.txt|.|290|.|WET292.txt|.|351|.|WET506.txt|.|13|.|WET3951.txt|.|157|.|WET3973.txt|.|247|.|WET4385.txt|.|1124|.|WET3665.txt|.|107|.|WET645.txt|.|855|.|WET5011.txt|.|18|.|WET3974.txt|.|230|.|WET323.txt|.|1312|.|WET5601.txt|.|78|.|WET4768.txt|.|24|.|WET4386.txt|.|164|.|WET322.txt|.|381
+international honor quilt|.|WET4030.txt|.|32
+sciences library history|.|WET287.txt|.|29

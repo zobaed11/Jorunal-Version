@@ -1,0 +1,12 @@
+775
+reports|.|WET5260.txt|.|13|.|WET6291.txt|.|4|.|WET2454.txt|.|9|.|WET1508.txt|.|22|.|WET3524.txt|.|210|.|WET2776.txt|.|41|.|WET1977.txt|.|16|.|WET2324.txt|.|220|.|WET2550.txt|.|56|.|WET3525.txt|.|84
+used car|.|WET3525.txt|.|12
+warranties|.|WET3524.txt|.|40
+resale or redistribution|.|WET3524.txt|.|20
+resale|.|WET3524.txt|.|20
+understand|.|WET3524.txt|.|20
+understand that carfax|.|WET3524.txt|.|20
+pay a single|.|WET3524.txt|.|20
+carfax reports|.|WET3524.txt|.|160|.|WET3525.txt|.|64
+strictly|.|WET3524.txt|.|30
+reports is strictly|.|WET3524.txt|.|20

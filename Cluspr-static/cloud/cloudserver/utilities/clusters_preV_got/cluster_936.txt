@@ -1,0 +1,12 @@
+936
+dress|.|WET5742.txt|.|32|.|WET5124.txt|.|133|.|WET1788.txt|.|48|.|WET3708.txt|.|23|.|WET4753.txt|.|10|.|WET5141.txt|.|41|.|WET6182.txt|.|16|.|WET3723.txt|.|97|.|WET5523.txt|.|44|.|WET1780.txt|.|53|.|WET6281.txt|.|19|.|WET1374.txt|.|82|.|WET2157.txt|.|33
+basic maxi|.|WET2157.txt|.|8
+dress shoes|.|WET5523.txt|.|43|.|WET1788.txt|.|47
+adams|.|WET1788.txt|.|104
+stacy adams|.|WET1788.txt|.|104
+bhikkhu|.|WET4100.txt|.|9
+us contact|.|WET5742.txt|.|6
+toronto|.|WET3077.txt|.|33|.|WET3123.txt|.|55|.|WET2737.txt|.|53
+accessories designer|.|WET3708.txt|.|24
+forum duck|.|WET1695.txt|.|28
+dingir|.|WET4536.txt|.|29

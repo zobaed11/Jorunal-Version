@@ -1,0 +1,12 @@
+417
+stays|.|WET2033.txt|.|41
+led lcd|.|WET3245.txt|.|1
+hotel special|.|WET2033.txt|.|9
+customer ratings|.|WET1454.txt|.|14
+death knight|.|WET3095.txt|.|4
+select your dates|.|WET1454.txt|.|11
+walmart|.|WET3245.txt|.|54
+unfinished|.|WET2838.txt|.|11
+stars|.|WET1454.txt|.|55|.|WET2838.txt|.|56|.|WET3245.txt|.|83|.|WET432.txt|.|22|.|WET1482.txt|.|64|.|WET4937.txt|.|118|.|WET2033.txt|.|49
+block all stars season|.|WET432.txt|.|22
+kong|.|WET2198.txt|.|35|.|WET1628.txt|.|20|.|WET5936.txt|.|38

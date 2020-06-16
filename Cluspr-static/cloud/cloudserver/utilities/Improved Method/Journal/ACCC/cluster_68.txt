@@ -1,0 +1,27 @@
+68
+wikipedia bahasa|.|WET3465.txt|.|14
+deze|.|WET3497.txt|.|29
+bahasa|.|WET3465.txt|.|41
+navigasi|.|WET3465.txt|.|16
+foundation|.|WET4666.txt|.|4|.|WET3559.txt|.|14
+redigera wikitext|.|WET3542.txt|.|24
+bank|.|WET4890.txt|.|5|.|WET5505.txt|.|26|.|WET3465.txt|.|198|.|WET1006.txt|.|130|.|WET974.txt|.|37|.|WET4801.txt|.|14|.|WET4071.txt|.|30|.|WET3646.txt|.|26
+ensiklopedia|.|WET3465.txt|.|14
+ensiklopedia bebas|.|WET3465.txt|.|14
+het|.|WET2520.txt|.|24|.|WET5677.txt|.|16|.|WET703.txt|.|60|.|WET3497.txt|.|111
+naar|.|WET3497.txt|.|32
+naar deze|.|WET3497.txt|.|13
+van het|.|WET2520.txt|.|10|.|WET3497.txt|.|23
+wikipedia|.|WET3465.txt|.|29|.|WET3559.txt|.|32|.|WET3542.txt|.|29|.|WET3497.txt|.|44|.|WET3471.txt|.|29
+op|.|WET3743.txt|.|47|.|WET3497.txt|.|48|.|WET4445.txt|.|72
+uit|.|WET3497.txt|.|37
+van|.|WET2520.txt|.|44|.|WET3702.txt|.|6|.|WET703.txt|.|112|.|WET4237.txt|.|37|.|WET5371.txt|.|187|.|WET3497.txt|.|211|.|WET4445.txt|.|57|.|WET3208.txt|.|8|.|WET1499.txt|.|62
+ini|.|WET3465.txt|.|34|.|WET259.txt|.|37
+bebas|.|WET3465.txt|.|15
+verktyg|.|WET3542.txt|.|9
+van de wikimedia|.|WET3497.txt|.|11
+della|.|WET2642.txt|.|37|.|WET3471.txt|.|49
+redigera|.|WET3542.txt|.|34
+wikimedia foundation|.|WET3559.txt|.|13
+wikitext|.|WET3542.txt|.|43
+wikimedia|.|WET3559.txt|.|20|.|WET3416.txt|.|18|.|WET3497.txt|.|13

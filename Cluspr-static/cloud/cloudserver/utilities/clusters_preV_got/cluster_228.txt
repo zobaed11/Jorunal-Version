@@ -1,0 +1,12 @@
+228
+choke|.|WET744.txt|.|18
+forks|.|WET5208.txt|.|54
+rb|.|WET1702.txt|.|14|.|WET98.txt|.|12
+hedging|.|WET819.txt|.|10|.|WET5847.txt|.|2
+rd|.|WET2945.txt|.|26
+forsyth county|.|WET5581.txt|.|35|.|WET4129.txt|.|23
+speed automatic|.|WET2022.txt|.|196|.|WET5763.txt|.|184
+redwood|.|WET2756.txt|.|18
+toshiba|.|WET4752.txt|.|60
+bridge|.|WET103.txt|.|14
+members reviews|.|WET1434.txt|.|22

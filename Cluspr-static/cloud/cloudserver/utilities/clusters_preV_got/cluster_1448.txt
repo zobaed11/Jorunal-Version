@@ -1,0 +1,12 @@
+1448
+skins|.|WET660.txt|.|22|.|WET5705.txt|.|24
+kumpulainen|.|WET1738.txt|.|10
+jefferson|.|WET4030.txt|.|3|.|WET2578.txt|.|78
+isthmus|.|WET4267.txt|.|121
+wig|.|WET5301.txt|.|10|.|WET4079.txt|.|3|.|WET3281.txt|.|1|.|WET4309.txt|.|3|.|WET4773.txt|.|1|.|WET5303.txt|.|25|.|WET4709.txt|.|2|.|WET5302.txt|.|9|.|WET1829.txt|.|1|.|WET1299.txt|.|2|.|WET5685.txt|.|2|.|WET3776.txt|.|1
+systems|.|WET2548.txt|.|3|.|WET3998.txt|.|2|.|WET6310.txt|.|12|.|WET2420.txt|.|5|.|WET1061.txt|.|6|.|WET338.txt|.|3|.|WET5625.txt|.|46|.|WET5603.txt|.|12|.|WET465.txt|.|12|.|WET3151.txt|.|2|.|WET2784.txt|.|63|.|WET1122.txt|.|8|.|WET3571.txt|.|5|.|WET3710.txt|.|125|.|WET217.txt|.|12|.|WET4812.txt|.|7|.|WET2070.txt|.|11|.|WET3738.txt|.|9|.|WET334.txt|.|2|.|WET2091.txt|.|15|.|WET5610.txt|.|4|.|WET1865.txt|.|11|.|WET861.txt|.|7|.|WET1488.txt|.|2|.|WET3733.txt|.|23
+arms research|.|WET3934.txt|.|6
+rescue mission|.|WET4877.txt|.|8
+energy harvesting|.|WET327.txt|.|2|.|WET4072.txt|.|2
+containers|.|WET4336.txt|.|64
+athletic mobility|.|WET2787.txt|.|28

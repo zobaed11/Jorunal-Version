@@ -1,0 +1,30 @@
+21
+girls soccer|.|WET4641.txt|.|163
+playing boys|.|WET4641.txt|.|182
+country fencing|.|WET3171.txt|.|27
+volleyball water|.|WET3171.txt|.|22
+basketball jersey|.|WET3828.txt|.|15
+boys|.|WET2041.txt|.|22|.|WET2321.txt|.|133|.|WET1546.txt|.|10|.|WET6240.txt|.|101|.|WET2950.txt|.|78|.|WET1816.txt|.|81|.|WET4225.txt|.|85|.|WET4766.txt|.|46|.|WET5070.txt|.|20|.|WET4641.txt|.|371|.|WET479.txt|.|119|.|WET6122.txt|.|154|.|WET563.txt|.|8|.|WET113.txt|.|73|.|WET3004.txt|.|93|.|WET2828.txt|.|120|.|WET6239.txt|.|154|.|WET3847.txt|.|72|.|WET5551.txt|.|110
+girls|.|WET2506.txt|.|102|.|WET3969.txt|.|32|.|WET6072.txt|.|23|.|WET4225.txt|.|74|.|WET3950.txt|.|105|.|WET4641.txt|.|550|.|WET4022.txt|.|28|.|WET113.txt|.|73|.|WET1010.txt|.|31|.|WET2929.txt|.|382|.|WET5588.txt|.|111|.|WET2876.txt|.|32|.|WET2625.txt|.|75|.|WET6239.txt|.|154|.|WET201.txt|.|129|.|WET2075.txt|.|29|.|WET2377.txt|.|165|.|WET2321.txt|.|133|.|WET6240.txt|.|102|.|WET3944.txt|.|30|.|WET4766.txt|.|46|.|WET4753.txt|.|50|.|WET5550.txt|.|55|.|WET6122.txt|.|151|.|WET3004.txt|.|92|.|WET3865.txt|.|45|.|WET3847.txt|.|80|.|WET6300.txt|.|22|.|WET1365.txt|.|21|.|WET5551.txt|.|121
+giving|.|WET3171.txt|.|23
+boys basketball|.|WET4641.txt|.|204
+basketball|.|WET2264.txt|.|40|.|WET3170.txt|.|36|.|WET84.txt|.|161|.|WET3013.txt|.|52|.|WET6123.txt|.|14|.|WET2095.txt|.|65|.|WET2950.txt|.|136|.|WET4225.txt|.|39|.|WET3829.txt|.|92|.|WET1950.txt|.|38|.|WET4641.txt|.|407|.|WET3015.txt|.|36|.|WET5837.txt|.|58|.|WET1973.txt|.|10|.|WET3828.txt|.|257|.|WET893.txt|.|11|.|WET5839.txt|.|93|.|WET5690.txt|.|43|.|WET2093.txt|.|71|.|WET1606.txt|.|24|.|WET3178.txt|.|42|.|WET2024.txt|.|6|.|WET5918.txt|.|24|.|WET83.txt|.|285|.|WET5838.txt|.|44|.|WET2094.txt|.|110|.|WET1949.txt|.|28
+girls basketball|.|WET4641.txt|.|196
+swimming volleyball fan|.|WET4124.txt|.|10|.|WET3828.txt|.|11
+breast cancer awareness|.|WET3828.txt|.|15
+cross country|.|WET1268.txt|.|12|.|WET3923.txt|.|16|.|WET4905.txt|.|66|.|WET3170.txt|.|26|.|WET3171.txt|.|30|.|WET1588.txt|.|18
+roster coaches|.|WET3171.txt|.|26
+teams|.|WET5517.txt|.|28|.|WET2463.txt|.|25|.|WET791.txt|.|22|.|WET3029.txt|.|20|.|WET710.txt|.|24|.|WET5524.txt|.|73|.|WET4641.txt|.|208|.|WET1789.txt|.|72
+playing boys basketball|.|WET4641.txt|.|182
+order must be shipped|.|WET3015.txt|.|23
+girls volleyball|.|WET4641.txt|.|190
+athletic giving|.|WET3171.txt|.|23
+coaches|.|WET3171.txt|.|26|.|WET4693.txt|.|10
+boys soccer|.|WET4641.txt|.|166
+stanford|.|WET5689.txt|.|55|.|WET3169.txt|.|32
+playing|.|WET628.txt|.|2|.|WET647.txt|.|1|.|WET4181.txt|.|1|.|WET3673.txt|.|7|.|WET1067.txt|.|1|.|WET13.txt|.|5|.|WET3939.txt|.|1|.|WET4641.txt|.|200|.|WET3842.txt|.|1|.|WET449.txt|.|2|.|WET864.txt|.|4|.|WET6243.txt|.|16|.|WET4042.txt|.|2|.|WET4943.txt|.|8|.|WET153.txt|.|2|.|WET4687.txt|.|1|.|WET1190.txt|.|12
+volleyball|.|WET3170.txt|.|28|.|WET3015.txt|.|19|.|WET3082.txt|.|32|.|WET3171.txt|.|37|.|WET5689.txt|.|33|.|WET4124.txt|.|10|.|WET4641.txt|.|190|.|WET3828.txt|.|11
+beach volleyball|.|WET3082.txt|.|28
+athletics|.|WET3170.txt|.|19|.|WET3171.txt|.|32|.|WET5676.txt|.|31|.|WET1440.txt|.|17|.|WET1950.txt|.|23|.|WET1937.txt|.|20
+teams in playing|.|WET4641.txt|.|199
+fencing|.|WET3171.txt|.|30

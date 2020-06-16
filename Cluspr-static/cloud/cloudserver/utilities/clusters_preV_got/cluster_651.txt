@@ -1,0 +1,12 @@
+651
+damage|.|WET4725.txt|.|22
+new delhi|.|WET510.txt|.|104
+boss|.|WET5785.txt|.|109
+fastpitch|.|WET893.txt|.|12
+mops|.|WET6298.txt|.|51
+slide|.|WET4252.txt|.|17
+net neutrality|.|WET6092.txt|.|15
+hj ehrlich|.|WET4022.txt|.|6
+basic vb|.|WET409.txt|.|5
+trunk|.|WET324.txt|.|24
+newegg|.|WET2483.txt|.|105

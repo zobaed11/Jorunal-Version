@@ -1,0 +1,12 @@
+612
+alcatel onetouch|.|WET2650.txt|.|22
+material|.|WET3425.txt|.|7|.|WET5692.txt|.|25|.|WET4492.txt|.|26|.|WET751.txt|.|73|.|WET3610.txt|.|21|.|WET3339.txt|.|143|.|WET297.txt|.|9|.|WET2604.txt|.|7|.|WET4485.txt|.|56
+answers|.|WET1666.txt|.|23|.|WET3351.txt|.|377|.|WET642.txt|.|11
+digestive|.|WET5877.txt|.|12|.|WET5436.txt|.|12
+onetouch|.|WET2650.txt|.|22
+optical fiber cable|.|WET4599.txt|.|14
+alcatel|.|WET2650.txt|.|45
+royalty|.|WET2909.txt|.|33|.|WET262.txt|.|22|.|WET5428.txt|.|19|.|WET2908.txt|.|118|.|WET1681.txt|.|5
+allis chalmers|.|WET3345.txt|.|30
+plan|.|WET1688.txt|.|88|.|WET5137.txt|.|45|.|WET4679.txt|.|38|.|WET2937.txt|.|18|.|WET2650.txt|.|705|.|WET3963.txt|.|65|.|WET295.txt|.|335|.|WET5444.txt|.|10
+kyocera|.|WET2650.txt|.|117

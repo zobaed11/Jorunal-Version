@@ -1,0 +1,12 @@
+967
+geforce|.|WET4053.txt|.|15|.|WET5723.txt|.|21
+tiene|.|WET1486.txt|.|63
+algonkian author|.|WET4823.txt|.|13
+stock image|.|WET1108.txt|.|7
+author|.|WET5433.txt|.|9|.|WET3899.txt|.|5|.|WET1687.txt|.|2|.|WET6000.txt|.|14|.|WET5162.txt|.|5|.|WET4823.txt|.|36|.|WET1108.txt|.|10|.|WET152.txt|.|9|.|WET13.txt|.|72|.|WET3534.txt|.|12|.|WET72.txt|.|27|.|WET4053.txt|.|695|.|WET153.txt|.|2|.|WET3432.txt|.|9
+nvidia geforce|.|WET4053.txt|.|7
+writers conference|.|WET4823.txt|.|45
+gaston author|.|WET1108.txt|.|7
+words of allah|.|WET3534.txt|.|11
+nvidia|.|WET4053.txt|.|8
+digital projection|.|WET2702.txt|.|112

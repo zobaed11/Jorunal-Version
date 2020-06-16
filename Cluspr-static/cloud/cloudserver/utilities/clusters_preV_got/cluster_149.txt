@@ -1,0 +1,12 @@
+149
+br|.|WET1452.txt|.|72|.|WET5784.txt|.|7
+bs|.|WET1387.txt|.|32
+bu|.|WET2163.txt|.|45
+notebooks pc|.|WET2617.txt|.|6
+law prof|.|WET575.txt|.|26
+news on facebook|.|WET2321.txt|.|23|.|WET6062.txt|.|16
+fool|.|WET1835.txt|.|136|.|WET5571.txt|.|213
+fucks|.|WET434.txt|.|22
+bn|.|WET1383.txt|.|40
+bo|.|WET194.txt|.|59
+googleplus|.|WET1338.txt|.|6|.|WET5089.txt|.|7

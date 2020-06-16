@@ -1,0 +1,12 @@
+1164
+necklaces|.|WET2823.txt|.|46
+content home|.|WET178.txt|.|8
+medline|.|WET5065.txt|.|39
+feature|.|WET4682.txt|.|54|.|WET1724.txt|.|10
+delle|.|WET1603.txt|.|50
+advanced|.|WET2724.txt|.|14|.|WET1759.txt|.|6|.|WET5709.txt|.|7|.|WET4029.txt|.|11|.|WET5385.txt|.|21|.|WET5065.txt|.|11|.|WET3340.txt|.|22|.|WET2288.txt|.|11|.|WET178.txt|.|18|.|WET143.txt|.|14|.|WET226.txt|.|7|.|WET5846.txt|.|9|.|WET2515.txt|.|12|.|WET6027.txt|.|9|.|WET3838.txt|.|10|.|WET2951.txt|.|24|.|WET3339.txt|.|38|.|WET1023.txt|.|8|.|WET5038.txt|.|3|.|WET177.txt|.|15|.|WET2311.txt|.|7|.|WET1034.txt|.|16
+cswr|.|WET323.txt|.|1540
+prescription|.|WET1586.txt|.|273|.|WET1587.txt|.|117|.|WET5335.txt|.|234
+standards library|.|WET1925.txt|.|18
+saar|.|WET1759.txt|.|3
+pm post subject|.|WET3451.txt|.|36

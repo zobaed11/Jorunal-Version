@@ -1,0 +1,12 @@
+926
+desiring|.|WET5378.txt|.|13
+journal|.|WET2377.txt|.|35|.|WET5595.txt|.|36|.|WET3466.txt|.|442|.|WET3678.txt|.|195|.|WET2152.txt|.|17|.|WET3881.txt|.|240|.|WET2154.txt|.|88|.|WET6122.txt|.|32|.|WET137.txt|.|223|.|WET113.txt|.|28|.|WET2540.txt|.|84|.|WET2505.txt|.|66|.|WET3806.txt|.|156
+aab|.|WET1931.txt|.|116
+cepr discussion papers|.|WET3466.txt|.|190
+journal sentinel|.|WET2154.txt|.|45
+nate ulrich|.|WET2540.txt|.|115|.|WET6274.txt|.|216
+working|.|WET3466.txt|.|873|.|WET1989.txt|.|9
+osa publishing china|.|WET3678.txt|.|25
+cupscontinental|.|WET3315.txt|.|42
+no active dates|.|WET5127.txt|.|7
+hobby|.|WET3131.txt|.|48

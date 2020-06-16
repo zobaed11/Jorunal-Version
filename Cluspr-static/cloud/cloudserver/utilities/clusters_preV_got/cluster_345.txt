@@ -1,0 +1,12 @@
+345
+averagefaith|.|WET2323.txt|.|19
+applecentral|.|WET406.txt|.|95
+interest more pics|.|WET2323.txt|.|14
+cove|.|WET2323.txt|.|28
+mailshow|.|WET6063.txt|.|90|.|WET2323.txt|.|40|.|WET6064.txt|.|30
+stride rite|.|WET2977.txt|.|17
+ghostbusters|.|WET626.txt|.|23
+topic|.|WET406.txt|.|46|.|WET143.txt|.|7|.|WET2383.txt|.|6|.|WET3384.txt|.|16|.|WET6013.txt|.|5|.|WET2064.txt|.|13|.|WET2701.txt|.|21|.|WET5162.txt|.|16|.|WET4147.txt|.|42|.|WET1736.txt|.|49|.|WET5367.txt|.|2
+state john|.|WET510.txt|.|104
+term|.|WET3869.txt|.|3|.|WET2323.txt|.|7|.|WET3207.txt|.|2|.|WET6064.txt|.|4
+genuine|.|WET1010.txt|.|11

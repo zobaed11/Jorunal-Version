@@ -1,0 +1,83 @@
+29
+tampa|.|WET3378.txt|.|30|.|WET424.txt|.|16|.|WET4613.txt|.|24|.|WET873.txt|.|30|.|WET3901.txt|.|22|.|WET3008.txt|.|89
+rooms|.|WET1542.txt|.|20|.|WET4957.txt|.|42|.|WET4591.txt|.|48
+specials golf|.|WET4591.txt|.|6
+user profileview|.|WET2582.txt|.|19
+bay city times|.|WET2377.txt|.|33|.|WET6122.txt|.|30
+nearby|.|WET4591.txt|.|8
+green bay packers talk|.|WET2582.txt|.|107
+soccer boys|.|WET6122.txt|.|16
+chronicle the saginaw|.|WET2377.txt|.|33|.|WET6122.txt|.|30
+bulldogs|.|WET3378.txt|.|50|.|WET873.txt|.|50
+grand rapids jackson|.|WET6122.txt|.|34|.|WET2376.txt|.|39
+dale|.|WET3378.txt|.|20|.|WET4613.txt|.|32|.|WET873.txt|.|40|.|WET5524.txt|.|24
+bay city detroit|.|WET3856.txt|.|19
+talk|.|WET2582.txt|.|107|.|WET4223.txt|.|77|.|WET1055.txt|.|42|.|WET578.txt|.|28|.|WET67.txt|.|22|.|WET3007.txt|.|7|.|WET4805.txt|.|43|.|WET1664.txt|.|307|.|WET2954.txt|.|27|.|WET5984.txt|.|54|.|WET3903.txt|.|107|.|WET394.txt|.|33|.|WET2666.txt|.|47|.|WET1081.txt|.|17|.|WET477.txt|.|70|.|WET1702.txt|.|82|.|WET2968.txt|.|44|.|WET3428.txt|.|42|.|WET4224.txt|.|51|.|WET4473.txt|.|43|.|WET4672.txt|.|11|.|WET1073.txt|.|27|.|WET4049.txt|.|50
+michael waltrip|.|WET3378.txt|.|20|.|WET4613.txt|.|16
+kalamazoo|.|WET6122.txt|.|88|.|WET2376.txt|.|122|.|WET3856.txt|.|42
+bay|.|WET2377.txt|.|82|.|WET2582.txt|.|138|.|WET1951.txt|.|9|.|WET6123.txt|.|28|.|WET4613.txt|.|32|.|WET3901.txt|.|23|.|WET1481.txt|.|16|.|WET1708.txt|.|15|.|WET4591.txt|.|19|.|WET6122.txt|.|83|.|WET3378.txt|.|40|.|WET873.txt|.|40|.|WET3856.txt|.|40
+los angeles|.|WET4613.txt|.|60|.|WET3758.txt|.|25|.|WET3082.txt|.|50|.|WET4763.txt|.|44
+rapids jackson kalamazoo|.|WET6122.txt|.|34|.|WET2376.txt|.|38
+richard|.|WET4613.txt|.|24|.|WET873.txt|.|30
+bay packers talk|.|WET2582.txt|.|107
+nearby upcoming|.|WET4591.txt|.|6
+barn quilt|.|WET6123.txt|.|10
+angeles|.|WET4613.txt|.|60|.|WET3863.txt|.|93|.|WET3758.txt|.|25|.|WET3082.txt|.|50|.|WET921.txt|.|119|.|WET4763.txt|.|51|.|WET4619.txt|.|51
+golf packages|.|WET4591.txt|.|6
+green bay packers|.|WET2582.txt|.|128
+dale earnhardt|.|WET3378.txt|.|20|.|WET4613.txt|.|16|.|WET873.txt|.|20|.|WET5524.txt|.|24
+ann arbor|.|WET2377.txt|.|81|.|WET6123.txt|.|30
+wildcats|.|WET3378.txt|.|50|.|WET873.txt|.|50|.|WET5524.txt|.|40
+marina|.|WET1951.txt|.|9
+city detroit flint|.|WET2376.txt|.|43|.|WET3856.txt|.|19
+waltrip|.|WET3378.txt|.|20|.|WET4613.txt|.|24
+ocean|.|WET4591.txt|.|46
+east bay|.|WET1708.txt|.|13
+flint|.|WET2376.txt|.|124|.|WET3856.txt|.|46
+applause|.|WET2582.txt|.|54
+marina bay|.|WET1951.txt|.|9
+saginaw|.|WET2377.txt|.|94|.|WET6122.txt|.|92|.|WET2376.txt|.|118|.|WET3856.txt|.|42
+petty|.|WET4613.txt|.|24|.|WET873.txt|.|30
+journal the grand|.|WET2377.txt|.|33|.|WET6122.txt|.|30
+amenities|.|WET4591.txt|.|6
+flint grand rapids|.|WET3856.txt|.|19
+busch kyle|.|WET3378.txt|.|20|.|WET4613.txt|.|16|.|WET873.txt|.|20
+lansing|.|WET2376.txt|.|79|.|WET3856.txt|.|26
+detroit flint grand|.|WET2376.txt|.|43|.|WET3856.txt|.|19
+ocean city|.|WET4591.txt|.|42
+packers|.|WET2582.txt|.|197|.|WET3680.txt|.|28
+packers talk|.|WET2582.txt|.|107
+east|.|WET4098.txt|.|24|.|WET1873.txt|.|23|.|WET5706.txt|.|34|.|WET5623.txt|.|45|.|WET5878.txt|.|8|.|WET4562.txt|.|25|.|WET1708.txt|.|77|.|WET4693.txt|.|40|.|WET5165.txt|.|67|.|WET2366.txt|.|5
+jackson|.|WET6122.txt|.|80|.|WET2376.txt|.|113|.|WET6123.txt|.|46|.|WET510.txt|.|82
+tennessee|.|WET3378.txt|.|44|.|WET4098.txt|.|24
+kyle|.|WET3378.txt|.|20|.|WET4613.txt|.|16|.|WET873.txt|.|20
+grand rapids|.|WET479.txt|.|39|.|WET6122.txt|.|99|.|WET6123.txt|.|33
+userview applause|.|WET2582.txt|.|19
+detroit|.|WET2376.txt|.|94|.|WET6092.txt|.|11|.|WET3856.txt|.|29|.|WET4619.txt|.|51
+amenities rates|.|WET4591.txt|.|6
+userview|.|WET2582.txt|.|19
+ann|.|WET2377.txt|.|84|.|WET1178.txt|.|84|.|WET4930.txt|.|81|.|WET2791.txt|.|64|.|WET1177.txt|.|67|.|WET2376.txt|.|125|.|WET6123.txt|.|32|.|WET2099.txt|.|26|.|WET3856.txt|.|42
+green|.|WET2582.txt|.|146|.|WET514.txt|.|52|.|WET4258.txt|.|23|.|WET3058.txt|.|54|.|WET515.txt|.|28|.|WET5112.txt|.|79|.|WET1290.txt|.|7|.|WET1139.txt|.|14|.|WET2923.txt|.|53|.|WET1431.txt|.|30
+rapids|.|WET479.txt|.|39|.|WET6122.txt|.|105|.|WET2376.txt|.|137|.|WET6123.txt|.|34|.|WET6121.txt|.|39|.|WET3856.txt|.|47
+bay packers|.|WET2582.txt|.|128
+sea bay|.|WET4591.txt|.|18
+earnhardt|.|WET3378.txt|.|30|.|WET4613.txt|.|24|.|WET873.txt|.|30|.|WET5524.txt|.|24
+green bay|.|WET2582.txt|.|138
+profileview|.|WET2582.txt|.|19
+muskegon|.|WET2376.txt|.|118|.|WET3856.txt|.|58
+bay city|.|WET2377.txt|.|81|.|WET6123.txt|.|28
+kalamazoo lansing muskegon|.|WET2376.txt|.|43|.|WET3856.txt|.|19
+tampa bay|.|WET3378.txt|.|30|.|WET4613.txt|.|24|.|WET873.txt|.|30|.|WET3901.txt|.|21
+mlive|.|WET2377.txt|.|101
+ann arbor bay|.|WET3856.txt|.|19
+richard petty|.|WET4613.txt|.|16|.|WET873.txt|.|20
+michael|.|WET3378.txt|.|21|.|WET28.txt|.|40|.|WET6018.txt|.|146|.|WET4613.txt|.|32|.|WET3159.txt|.|36|.|WET5128.txt|.|36
+golf girls|.|WET2377.txt|.|16
+lansing muskegon saginaw|.|WET2376.txt|.|43|.|WET3856.txt|.|19
+arbor bay city|.|WET3856.txt|.|19
+arbor|.|WET2377.txt|.|89|.|WET2376.txt|.|120|.|WET6123.txt|.|31|.|WET3856.txt|.|43
+groups reviews|.|WET4591.txt|.|6
+rooms amenities|.|WET4591.txt|.|6
+user|.|WET2328.txt|.|27|.|WET2582.txt|.|23|.|WET4137.txt|.|50|.|WET4667.txt|.|139|.|WET397.txt|.|62|.|WET5026.txt|.|6|.|WET279.txt|.|8|.|WET2955.txt|.|26|.|WET842.txt|.|2|.|WET3087.txt|.|22|.|WET613.txt|.|2|.|WET845.txt|.|13|.|WET5528.txt|.|135|.|WET5752.txt|.|285|.|WET3903.txt|.|30|.|WET3916.txt|.|60|.|WET1828.txt|.|21|.|WET4668.txt|.|48|.|WET1209.txt|.|4|.|WET3923.txt|.|2|.|WET4223.txt|.|25|.|WET3427.txt|.|50|.|WET3452.txt|.|86|.|WET4147.txt|.|40|.|WET565.txt|.|2|.|WET4580.txt|.|6|.|WET3643.txt|.|24|.|WET416.txt|.|82|.|WET4300.txt|.|2|.|WET5085.txt|.|18|.|WET4157.txt|.|130|.|WET4793.txt|.|12|.|WET5768.txt|.|38|.|WET873.txt|.|20|.|WET2094.txt|.|33|.|WET396.txt|.|16|.|WET3382.txt|.|22|.|WET4021.txt|.|2
+tigers|.|WET3378.txt|.|50|.|WET4392.txt|.|24
+busch|.|WET3378.txt|.|20|.|WET4613.txt|.|16|.|WET609.txt|.|57|.|WET873.txt|.|20

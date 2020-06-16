@@ -1,0 +1,27 @@
+92
+cst|.|WET3382.txt|.|292
+user amount|.|WET3382.txt|.|12
+uncle|.|WET367.txt|.|14
+husband|.|WET2770.txt|.|26|.|WET367.txt|.|72
+matches ignore|.|WET357.txt|.|7
+air|.|WET4414.txt|.|36|.|WET65.txt|.|340|.|WET475.txt|.|20|.|WET2014.txt|.|24|.|WET5758.txt|.|62|.|WET1085.txt|.|55|.|WET5753.txt|.|27|.|WET1779.txt|.|29|.|WET5180.txt|.|37|.|WET3203.txt|.|15|.|WET928.txt|.|3|.|WET1952.txt|.|152|.|WET3653.txt|.|248|.|WET3120.txt|.|27|.|WET5599.txt|.|153|.|WET2596.txt|.|19|.|WET367.txt|.|69|.|WET6298.txt|.|131|.|WET4155.txt|.|40|.|WET4882.txt|.|102|.|WET3817.txt|.|36|.|WET5551.txt|.|45
+november issue|.|WET1988.txt|.|7
+issue october|.|WET1988.txt|.|7
+pm cst|.|WET3382.txt|.|204
+theanglican|.|WET357.txt|.|28
+music cds|.|WET1988.txt|.|30|.|WET5729.txt|.|33
+cds beethoven|.|WET1988.txt|.|10
+watches|.|WET3227.txt|.|24|.|WET5492.txt|.|18|.|WET3382.txt|.|45|.|WET1483.txt|.|17|.|WET2166.txt|.|24|.|WET1815.txt|.|25
+issue|.|WET1988.txt|.|49|.|WET4059.txt|.|15
+issue december|.|WET1988.txt|.|7
+ignore exact|.|WET357.txt|.|7
+air force|.|WET367.txt|.|62
+matches|.|WET357.txt|.|7
+tapenade|.|WET4760.txt|.|9
+army|.|WET185.txt|.|80|.|WET367.txt|.|120|.|WET1931.txt|.|78|.|WET1485.txt|.|98|.|WET6075.txt|.|90
+cdt|.|WET3382.txt|.|236|.|WET6247.txt|.|34
+cds|.|WET1988.txt|.|80|.|WET5729.txt|.|89
+beethoven|.|WET1988.txt|.|10
+october|.|WET1988.txt|.|7|.|WET357.txt|.|86|.|WET4760.txt|.|43|.|WET247.txt|.|31|.|WET367.txt|.|224|.|WET3382.txt|.|184|.|WET3167.txt|.|84
+pm cdt|.|WET3382.txt|.|154
+stuff|.|WET4295.txt|.|18|.|WET2558.txt|.|11|.|WET4530.txt|.|31|.|WET3251.txt|.|16|.|WET5291.txt|.|12|.|WET4760.txt|.|25|.|WET2847.txt|.|12

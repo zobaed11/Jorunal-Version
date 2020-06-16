@@ -1,0 +1,12 @@
+1045
+cohen|.|WET2850.txt|.|7
+apartment therapy|.|WET1185.txt|.|45|.|WET4938.txt|.|42
+therapy|.|WET1185.txt|.|45|.|WET3617.txt|.|16|.|WET4938.txt|.|42|.|WET3816.txt|.|18
+selfmagazine|.|WET2850.txt|.|18
+pinterest follow us|.|WET2625.txt|.|8|.|WET4938.txt|.|18
+follow us|.|WET1807.txt|.|9|.|WET639.txt|.|11|.|WET4912.txt|.|22|.|WET6240.txt|.|21|.|WET3859.txt|.|6|.|WET5249.txt|.|12|.|WET479.txt|.|25|.|WET1185.txt|.|112|.|WET3865.txt|.|16|.|WET2850.txt|.|18|.|WET2625.txt|.|56|.|WET4938.txt|.|96|.|WET6090.txt|.|18|.|WET201.txt|.|27|.|WET4205.txt|.|14|.|WET3499.txt|.|8
+lottery|.|WET201.txt|.|9
+pinterest|.|WET3917.txt|.|10|.|WET462.txt|.|83|.|WET1775.txt|.|21|.|WET1338.txt|.|6|.|WET2803.txt|.|31|.|WET5089.txt|.|7|.|WET4012.txt|.|44|.|WET1820.txt|.|8|.|WET724.txt|.|33|.|WET2625.txt|.|16|.|WET4598.txt|.|27|.|WET4938.txt|.|18|.|WET2536.txt|.|9
+cure|.|WET1185.txt|.|15|.|WET1069.txt|.|20
+shooter personal|.|WET3499.txt|.|2
+us on instagram follow|.|WET4938.txt|.|18

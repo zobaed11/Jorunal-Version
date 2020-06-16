@@ -1,0 +1,12 @@
+31
+fc sequence|.|rfc2625.txt|.|29
+association management protocol|.|rfc4595.txt|.|12
+association management|.|rfc4595.txt|.|12
+fc port|.|rfc4939.txt|.|28
+protocols to negotiate|.|rfc5324.txt|.|2
+fc encapsulation|.|rfc3643.txt|.|34
+fibre channel frame|.|rfc4172.txt|.|23
+fc sp|.|rfc5324.txt|.|1
+fc entity|.|rfc3821.txt|.|98
+fc|.|rfc5324.txt|.|19|.|rfc4439.txt|.|7|.|rfc4044.txt|.|17|.|rfc4625.txt|.|25|.|rfc2625.txt|.|242|.|rfc4171.txt|.|136|.|rfc3643.txt|.|111|.|rfc4939.txt|.|78|.|rfc4595.txt|.|29|.|rfc3821.txt|.|458|.|rfc4936.txt|.|87|.|rfc2837.txt|.|50|.|rfc4626.txt|.|4|.|rfc4983.txt|.|4|.|rfc4172.txt|.|115
+fcip link|.|rfc3821.txt|.|67|.|rfc4404.txt|.|48

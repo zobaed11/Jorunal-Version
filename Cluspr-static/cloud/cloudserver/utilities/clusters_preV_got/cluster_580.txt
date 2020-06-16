@@ -1,0 +1,12 @@
+580
+buffaloes|.|WET1789.txt|.|8
+florida gators|.|WET5524.txt|.|8|.|WET1789.txt|.|8
+orleans chicago new|.|WET2463.txt|.|10
+blotter|.|WET791.txt|.|8
+teams|.|WET5517.txt|.|28|.|WET2463.txt|.|25|.|WET791.txt|.|22|.|WET3029.txt|.|20|.|WET710.txt|.|24|.|WET5524.txt|.|73|.|WET4641.txt|.|208|.|WET1789.txt|.|72
+cal bears|.|WET1789.txt|.|8
+gators|.|WET5524.txt|.|8|.|WET1789.txt|.|8
+sooners oklahoma|.|WET1789.txt|.|8
+sooners|.|WET1789.txt|.|8
+teams teams|.|WET2463.txt|.|10
+afc teams|.|WET791.txt|.|4

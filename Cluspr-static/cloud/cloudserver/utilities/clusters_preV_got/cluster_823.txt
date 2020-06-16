@@ -1,0 +1,12 @@
+823
+database|.|WET1174.txt|.|6|.|WET1610.txt|.|27|.|WET1173.txt|.|11|.|WET5049.txt|.|68|.|WET4021.txt|.|2
+marine geology|.|WET1032.txt|.|61
+fonts|.|WET1804.txt|.|17
+album|.|WET2695.txt|.|4|.|WET6098.txt|.|88|.|WET6099.txt|.|71|.|WET5197.txt|.|18|.|WET5052.txt|.|8|.|WET2356.txt|.|85|.|WET3220.txt|.|8|.|WET5961.txt|.|39
+match|.|WET5584.txt|.|1084|.|WET1849.txt|.|537|.|WET5891.txt|.|24|.|WET1549.txt|.|9|.|WET5585.txt|.|268|.|WET1283.txt|.|132|.|WET3025.txt|.|28|.|WET2872.txt|.|21|.|WET5500.txt|.|94|.|WET2231.txt|.|6|.|WET5499.txt|.|77
+view stats|.|WET1849.txt|.|102|.|WET5585.txt|.|51
+coretennis|.|WET1549.txt|.|40
+gauges|.|WET2073.txt|.|63
+book online|.|WET1926.txt|.|69|.|WET2631.txt|.|3
+inspiration|.|WET5702.txt|.|22|.|WET2411.txt|.|10|.|WET3246.txt|.|12|.|WET1391.txt|.|22
+new zealand|.|WET412.txt|.|9|.|WET6052.txt|.|7|.|WET2795.txt|.|4|.|WET5646.txt|.|32|.|WET5499.txt|.|25

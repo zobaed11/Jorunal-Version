@@ -1,0 +1,12 @@
+1115
+tripadvisor|.|WET3730.txt|.|112|.|WET3729.txt|.|126
+en ciao|.|WET1486.txt|.|61
+kissimmee|.|WET3730.txt|.|100
+desde|.|WET1486.txt|.|63
+en ubud|.|WET3728.txt|.|33
+big brother|.|WET5417.txt|.|6
+ubud|.|WET3728.txt|.|60
+paiste|.|WET1486.txt|.|36
+mostrar|.|WET3730.txt|.|130|.|WET6187.txt|.|99
+opiniones|.|WET3762.txt|.|1|.|WET413.txt|.|1|.|WET3730.txt|.|291|.|WET513.txt|.|2|.|WET4875.txt|.|5|.|WET583.txt|.|3|.|WET5972.txt|.|2|.|WET4022.txt|.|2|.|WET1128.txt|.|1|.|WET2808.txt|.|2|.|WET5714.txt|.|2|.|WET1187.txt|.|2|.|WET3956.txt|.|3|.|WET5304.txt|.|1|.|WET3728.txt|.|343|.|WET5417.txt|.|1|.|WET348.txt|.|1|.|WET1486.txt|.|64|.|WET2735.txt|.|2
+restaurantes|.|WET3730.txt|.|217|.|WET3728.txt|.|152

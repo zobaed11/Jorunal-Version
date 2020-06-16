@@ -1,0 +1,12 @@
+44
+paxton|.|WET2604.txt|.|17
+batayan|.|WET3551.txt|.|38
+framed|.|WET1202.txt|.|61|.|WET4958.txt|.|71|.|WET4957.txt|.|122|.|WET3574.txt|.|42
+marriage|.|WET801.txt|.|21
+decorative art|.|WET4958.txt|.|20
+geology|.|WET1032.txt|.|69
+village|.|WET3033.txt|.|55|.|WET3032.txt|.|55
+connected our network|.|WET1975.txt|.|8
+home free|.|WET2847.txt|.|12
+paddling|.|WET5171.txt|.|39
+oder preisvorschlag|.|WET1714.txt|.|82

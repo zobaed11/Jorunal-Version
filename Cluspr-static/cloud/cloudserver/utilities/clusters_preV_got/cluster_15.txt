@@ -1,0 +1,12 @@
+15
+nbcuniversal|.|WET6207.txt|.|11
+meds|.|WET417.txt|.|113
+dental|.|WET2243.txt|.|23|.|WET2840.txt|.|27
+yearbook collection|.|WET553.txt|.|28
+gilson|.|WET2450.txt|.|25
+abbr|.|WET1103.txt|.|22
+beds|.|WET5696.txt|.|24
+network advertise|.|WET575.txt|.|8
+hne|.|WET2659.txt|.|25
+detaljer|.|WET5055.txt|.|3
+encaustic|.|WET1307.txt|.|21

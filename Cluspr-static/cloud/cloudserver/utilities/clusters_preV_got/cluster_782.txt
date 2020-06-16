@@ -1,0 +1,12 @@
+782
+motorcycle|.|WET94.txt|.|18|.|WET3608.txt|.|61|.|WET6150.txt|.|60
+referral|.|WET5559.txt|.|37
+florida|.|WET4636.txt|.|41|.|WET1825.txt|.|394|.|WET3729.txt|.|51|.|WET4835.txt|.|165|.|WET3624.txt|.|117|.|WET5559.txt|.|476|.|WET3008.txt|.|88|.|WET5524.txt|.|32|.|WET1789.txt|.|24|.|WET3390.txt|.|59
+florida bar|.|WET1825.txt|.|155|.|WET3624.txt|.|28|.|WET5559.txt|.|178
+board certified|.|WET5559.txt|.|60
+gourmet|.|WET2063.txt|.|78
+tees superhero|.|WET2035.txt|.|4
+advertisement advertisement advertisement|.|WET4636.txt|.|19
+bulbapedia|.|WET3903.txt|.|50
+rental homes|.|WET5592.txt|.|37|.|WET1856.txt|.|18
+mailshow interest|.|WET2323.txt|.|40|.|WET6064.txt|.|30

@@ -1,0 +1,12 @@
+121
+surfer|.|WET2212.txt|.|20
+trong|.|WET4767.txt|.|42
+coastal cleanup|.|WET1020.txt|.|5
+coins|.|WET1186.txt|.|32|.|WET4939.txt|.|34|.|WET6312.txt|.|6
+catalogs|.|WET5233.txt|.|18
+like learn|.|WET3686.txt|.|114|.|WET3685.txt|.|88
+snake|.|WET37.txt|.|39
+previews|.|WET2709.txt|.|37
+election law|.|WET4403.txt|.|12
+antonio spurs|.|WET5765.txt|.|131
+country championships|.|WET1213.txt|.|36

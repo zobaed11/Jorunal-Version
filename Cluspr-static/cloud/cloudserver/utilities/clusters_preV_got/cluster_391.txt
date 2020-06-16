@@ -1,0 +1,12 @@
+391
+sports high school|.|WET2533.txt|.|20|.|WET1552.txt|.|11
+search images|.|WET767.txt|.|3
+disease|.|WET6079.txt|.|41|.|WET1452.txt|.|19|.|WET2530.txt|.|19|.|WET5200.txt|.|117
+racor|.|WET2729.txt|.|128
+canvas prints|.|WET4869.txt|.|24
+refugees|.|WET2757.txt|.|19
+oldest|.|WET5521.txt|.|28
+kayak touring|.|WET5171.txt|.|14
+fuente|.|WET2059.txt|.|38
+visitation|.|WET5925.txt|.|21
+menus|.|WET1753.txt|.|24|.|WET4783.txt|.|18|.|WET1709.txt|.|11

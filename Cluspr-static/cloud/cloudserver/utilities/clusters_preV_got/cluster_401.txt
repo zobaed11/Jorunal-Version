@@ -1,0 +1,12 @@
+401
+yum|.|WET6090.txt|.|161
+pain|.|WET1997.txt|.|74|.|WET2337.txt|.|24|.|WET5576.txt|.|96|.|WET1840.txt|.|34|.|WET3883.txt|.|95
+pizza|.|WET2957.txt|.|10|.|WET2347.txt|.|79
+beacon|.|WET4438.txt|.|2|.|WET1090.txt|.|2|.|WET3832.txt|.|4|.|WET4560.txt|.|2|.|WET1294.txt|.|2|.|WET2306.txt|.|1|.|WET2014.txt|.|2|.|WET2650.txt|.|2|.|WET5106.txt|.|2|.|WET4407.txt|.|2|.|WET3774.txt|.|2|.|WET2540.txt|.|96|.|WET5200.txt|.|2|.|WET722.txt|.|22|.|WET3854.txt|.|4|.|WET2045.txt|.|10|.|WET5778.txt|.|2|.|WET467.txt|.|4|.|WET4487.txt|.|1|.|WET2046.txt|.|3|.|WET5529.txt|.|4|.|WET4173.txt|.|4|.|WET26.txt|.|2|.|WET985.txt|.|2|.|WET4325.txt|.|2|.|WET684.txt|.|9|.|WET1437.txt|.|2|.|WET1360.txt|.|2|.|WET4780.txt|.|28|.|WET5419.txt|.|1|.|WET1034.txt|.|33|.|WET4590.txt|.|2|.|WET4551.txt|.|1
+reviews write|.|WET2347.txt|.|6
+add a restaurant|.|WET2347.txt|.|22
+restaurant guide|.|WET6090.txt|.|23
+view gallery uploads|.|WET1193.txt|.|7
+restaurant|.|WET5788.txt|.|190|.|WET2348.txt|.|22|.|WET2347.txt|.|79|.|WET5478.txt|.|29|.|WET710.txt|.|16|.|WET2045.txt|.|239|.|WET6090.txt|.|64
+robotic|.|WET3959.txt|.|2|.|WET587.txt|.|2|.|WET5788.txt|.|2|.|WET2045.txt|.|5|.|WET3618.txt|.|1|.|WET1113.txt|.|8|.|WET4314.txt|.|2|.|WET6194.txt|.|2
+adicionado em|.|WET5629.txt|.|10

@@ -1,0 +1,12 @@
+846
+cart danish|.|WET3997.txt|.|5
+polish portuguese|.|WET3997.txt|.|5
+bamboo tshirts|.|WET6247.txt|.|7
+greek hebrew|.|WET3997.txt|.|5
+thai|.|WET3997.txt|.|5
+affiliate|.|WET5614.txt|.|22|.|WET1686.txt|.|10
+beloit|.|WET3579.txt|.|407
+spanish language|.|WET899.txt|.|32
+translate|.|WET3997.txt|.|5
+serbian|.|WET4268.txt|.|11|.|WET704.txt|.|11|.|WET140.txt|.|11|.|WET4169.txt|.|11|.|WET907.txt|.|22|.|WET4644.txt|.|22
+lacrosse|.|WET479.txt|.|28|.|WET4374.txt|.|26|.|WET3250.txt|.|67|.|WET3379.txt|.|23|.|WET3579.txt|.|176

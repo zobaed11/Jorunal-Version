@@ -1,0 +1,12 @@
+1123
+stary egzamin|.|WET4138.txt|.|89
+american student|.|WET2618.txt|.|13
+bags|.|WET1940.txt|.|144|.|WET1154.txt|.|124|.|WET4904.txt|.|87|.|WET3759.txt|.|21|.|WET2663.txt|.|19|.|WET3212.txt|.|30|.|WET3626.txt|.|122|.|WET1414.txt|.|227|.|WET3708.txt|.|80|.|WET4124.txt|.|11|.|WET6182.txt|.|40|.|WET6022.txt|.|92|.|WET3227.txt|.|24|.|WET5680.txt|.|221|.|WET2594.txt|.|77|.|WET5017.txt|.|54|.|WET1941.txt|.|181|.|WET1265.txt|.|57|.|WET1378.txt|.|18|.|WET1644.txt|.|42
+boutique|.|WET3708.txt|.|73
+naar|.|WET3497.txt|.|32
+aga|.|WET1140.txt|.|42
+designer|.|WET3708.txt|.|65
+aquarium|.|WET4945.txt|.|151|.|WET4946.txt|.|118|.|WET6049.txt|.|550
+years|.|WET6231.txt|.|29|.|WET5554.txt|.|64|.|WET3767.txt|.|160|.|WET4002.txt|.|120|.|WET4868.txt|.|39|.|WET5474.txt|.|82|.|WET5725.txt|.|11|.|WET890.txt|.|227|.|WET1195.txt|.|23|.|WET5777.txt|.|50|.|WET2106.txt|.|29|.|WET3091.txt|.|65|.|WET4685.txt|.|71|.|WET5752.txt|.|49|.|WET6079.txt|.|34|.|WET5558.txt|.|57|.|WET4585.txt|.|96|.|WET4664.txt|.|52|.|WET79.txt|.|68|.|WET530.txt|.|74|.|WET3988.txt|.|56|.|WET4367.txt|.|35
+fisher|.|WET806.txt|.|111|.|WET5156.txt|.|8
+username|.|WET3504.txt|.|108|.|WET2135.txt|.|10|.|WET5875.txt|.|7|.|WET6215.txt|.|28|.|WET5348.txt|.|10|.|WET32.txt|.|10|.|WET1600.txt|.|10

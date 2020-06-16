@@ -1,0 +1,12 @@
+710
+dogster|.|WET1666.txt|.|78
+hewlett packard|.|WET5286.txt|.|1
+judicial|.|WET4184.txt|.|22
+hewlett|.|WET5286.txt|.|1
+expert|.|WET1753.txt|.|16|.|WET6079.txt|.|19|.|WET2336.txt|.|22|.|WET3308.txt|.|6|.|WET1385.txt|.|52|.|WET2367.txt|.|2
+search by keyword|.|WET2689.txt|.|4|.|WET3118.txt|.|2|.|WET2054.txt|.|6|.|WET3070.txt|.|3|.|WET5286.txt|.|14|.|WET1429.txt|.|4|.|WET167.txt|.|2|.|WET1537.txt|.|2|.|WET3954.txt|.|2|.|WET6003.txt|.|3|.|WET2597.txt|.|2|.|WET966.txt|.|2|.|WET2283.txt|.|4
+skip to top|.|WET4610.txt|.|22
+control car|.|WET2745.txt|.|16
+selection active|.|WET71.txt|.|35
+louisville|.|WET4030.txt|.|628|.|WET287.txt|.|431|.|WET286.txt|.|792
+brand|.|WET2875.txt|.|45|.|WET2713.txt|.|21|.|WET5493.txt|.|157|.|WET1756.txt|.|186|.|WET1385.txt|.|96|.|WET2885.txt|.|45|.|WET1536.txt|.|41|.|WET3859.txt|.|5|.|WET5286.txt|.|46

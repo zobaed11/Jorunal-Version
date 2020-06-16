@@ -1,0 +1,12 @@
+136
+farmall|.|WET1795.txt|.|171
+purchasedownedpurchase|.|WET5684.txt|.|60
+edited|.|WET2986.txt|.|202|.|WET2985.txt|.|117
+laps|.|WET3445.txt|.|44|.|WET3446.txt|.|40
+fri feb|.|WET3583.txt|.|47
+raiding|.|WET4212.txt|.|9
+incidental|.|WET5136.txt|.|36
+higher quality|.|WET2590.txt|.|18
+root ca|.|WET3239.txt|.|11
+oktay|.|WET6276.txt|.|14
+bibles|.|WET1146.txt|.|278|.|WET5520.txt|.|243|.|WET5521.txt|.|288

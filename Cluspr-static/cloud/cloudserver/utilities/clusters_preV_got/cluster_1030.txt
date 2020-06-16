@@ -1,0 +1,12 @@
+1030
+channel catfish|.|WET5190.txt|.|293
+creel limit|.|WET5190.txt|.|651
+length limit|.|WET5190.txt|.|403
+const|.|WET871.txt|.|44
+line|.|WET871.txt|.|81|.|WET518.txt|.|1|.|WET4186.txt|.|1|.|WET440.txt|.|2|.|WET4280.txt|.|1|.|WET4279.txt|.|6|.|WET535.txt|.|2|.|WET450.txt|.|2|.|WET563.txt|.|1|.|WET4146.txt|.|29|.|WET4185.txt|.|1|.|WET4010.txt|.|2|.|WET5190.txt|.|335|.|WET404.txt|.|38|.|WET5858.txt|.|12
+smallmouth bass|.|WET5190.txt|.|430
+char|.|WET871.txt|.|22
+minimum length|.|WET5190.txt|.|383
+daily creel|.|WET5190.txt|.|658
+minimum|.|WET5190.txt|.|383
+catfish|.|WET5190.txt|.|305

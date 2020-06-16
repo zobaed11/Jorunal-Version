@@ -1,0 +1,12 @@
+69
+awards held|.|WET6184.txt|.|129
+cricket score sheet|.|WET1672.txt|.|8
+dekomori sanae|.|WET4415.txt|.|7
+practicum|.|WET2338.txt|.|11
+consulting|.|WET453.txt|.|5
+jual|.|WET445.txt|.|63
+manhattan|.|WET2448.txt|.|29
+san antonio|.|WET2442.txt|.|180|.|WET6184.txt|.|369|.|WET6185.txt|.|402|.|WET5765.txt|.|140|.|WET1563.txt|.|20
+panama city|.|WET3729.txt|.|100|.|WET1563.txt|.|19
+theft|.|WET5611.txt|.|17|.|WET5705.txt|.|35
+colombia|.|WET648.txt|.|12

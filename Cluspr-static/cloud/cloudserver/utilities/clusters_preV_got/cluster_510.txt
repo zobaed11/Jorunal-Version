@@ -1,0 +1,12 @@
+510
+astrologie|.|WET4803.txt|.|9
+ted|.|WET3546.txt|.|24|.|WET121.txt|.|40
+orthopedic|.|WET3637.txt|.|17
+switzerland|.|WET2444.txt|.|52
+search in keywords|.|WET238.txt|.|3
+unit price|.|WET2071.txt|.|82
+lumpkin county library|.|WET188.txt|.|74|.|WET3936.txt|.|74
+thrones|.|WET4106.txt|.|20
+wikia|.|WET4821.txt|.|18|.|WET643.txt|.|34|.|WET1073.txt|.|24
+whitewashing|.|WET994.txt|.|1|.|WET2586.txt|.|2|.|WET2085.txt|.|2
+collection of robert|.|WET227.txt|.|135

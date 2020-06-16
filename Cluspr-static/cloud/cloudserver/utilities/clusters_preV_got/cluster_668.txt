@@ -1,0 +1,12 @@
+668
+getty|.|WET1910.txt|.|64|.|WET5648.txt|.|65|.|WET5649.txt|.|50|.|WET1912.txt|.|64|.|WET1911.txt|.|50|.|WET5647.txt|.|62|.|WET1909.txt|.|52|.|WET3630.txt|.|23
+gallerymedia|.|WET1910.txt|.|11|.|WET1911.txt|.|11|.|WET5647.txt|.|11
+stella|.|WET1909.txt|.|81
+morejanuary|.|WET5649.txt|.|45
+collection documents|.|WET1909.txt|.|2
+cevi za|.|WET2822.txt|.|30
+mengakses|.|WET22.txt|.|6
+forster|.|WET5392.txt|.|33
+scientific division bureau|.|WET4965.txt|.|6
+chillicothe|.|WET1475.txt|.|117
+keine angaben|.|WET1714.txt|.|131

@@ -1,0 +1,17 @@
+103
+new in outdoor|.|WET2995.txt|.|22
+gourmet|.|WET2063.txt|.|78
+meats|.|WET2063.txt|.|40
+drinkware set|.|WET6113.txt|.|40
+gift registry|.|WET2995.txt|.|56
+food all new|.|WET2995.txt|.|22
+sauce|.|WET2957.txt|.|11|.|WET2063.txt|.|72
+lucerne white|.|WET6113.txt|.|20
+new in dining|.|WET2995.txt|.|22
+paper towels|.|WET2721.txt|.|44
+serving bowls|.|WET6113.txt|.|30
+cheese gifts|.|WET5806.txt|.|3
+office supplies|.|WET2721.txt|.|57
+coffee|.|WET2995.txt|.|121|.|WET2721.txt|.|116|.|WET6113.txt|.|70|.|WET2063.txt|.|140|.|WET5806.txt|.|44
+pattern italian|.|WET6113.txt|.|10
+sets flatware|.|WET6113.txt|.|20

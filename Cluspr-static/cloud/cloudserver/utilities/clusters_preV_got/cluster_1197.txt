@@ -1,0 +1,12 @@
+1197
+mallett|.|WET1762.txt|.|9
+africa|.|WET3288.txt|.|38|.|WET240.txt|.|31|.|WET5853.txt|.|22|.|WET1929.txt|.|26|.|WET3068.txt|.|10|.|WET4874.txt|.|53|.|WET3986.txt|.|20|.|WET5500.txt|.|51|.|WET5072.txt|.|22|.|WET1762.txt|.|76|.|WET5698.txt|.|44
+south|.|WET3288.txt|.|39|.|WET2813.txt|.|28|.|WET2506.txt|.|47|.|WET4319.txt|.|54|.|WET3173.txt|.|21|.|WET4831.txt|.|14|.|WET4937.txt|.|67|.|WET5500.txt|.|66|.|WET1407.txt|.|22|.|WET1762.txt|.|97|.|WET3247.txt|.|58|.|WET3647.txt|.|24|.|WET3042.txt|.|39|.|WET202.txt|.|42|.|WET113.txt|.|21|.|WET3389.txt|.|34|.|WET3581.txt|.|49|.|WET4835.txt|.|112|.|WET239.txt|.|40|.|WET3261.txt|.|53|.|WET2932.txt|.|110|.|WET1361.txt|.|11|.|WET3949.txt|.|40|.|WET5393.txt|.|137
+credit union|.|WET239.txt|.|14
+breakdown|.|WET3042.txt|.|20
+july|.|WET40.txt|.|20|.|WET510.txt|.|91
+promoter|.|WET3582.txt|.|12|.|WET809.txt|.|36|.|WET3581.txt|.|48|.|WET4690.txt|.|3|.|WET1213.txt|.|2|.|WET1618.txt|.|1|.|WET4370.txt|.|2|.|WET6238.txt|.|1|.|WET961.txt|.|1|.|WET1156.txt|.|1
+specialsreserve|.|WET1184.txt|.|72|.|WET4937.txt|.|82
+stadium steve|.|WET3176.txt|.|136
+surf spots|.|WET3247.txt|.|17
+rent specialsreserve|.|WET1184.txt|.|72|.|WET4937.txt|.|82

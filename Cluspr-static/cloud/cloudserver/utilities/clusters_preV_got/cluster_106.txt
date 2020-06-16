@@ -1,0 +1,12 @@
+106
+world factbook|.|WET3598.txt|.|16
+immune|.|WET5613.txt|.|54|.|WET5436.txt|.|12
+purdue|.|WET4062.txt|.|506
+tips travel|.|WET2097.txt|.|22
+immune health|.|WET5436.txt|.|12
+saroyan|.|WET3553.txt|.|19
+stephen|.|WET5436.txt|.|8
+rate monitor|.|WET1998.txt|.|12
+uwispace|.|WET1013.txt|.|24
+sinatra|.|WET5436.txt|.|53
+vlaanderen|.|WET1499.txt|.|44

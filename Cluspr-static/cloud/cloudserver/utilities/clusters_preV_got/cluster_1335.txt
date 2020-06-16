@@ -1,0 +1,12 @@
+1335
+syrian|.|WET4784.txt|.|10
+wedges|.|WET940.txt|.|32
+tsipras|.|WET5474.txt|.|20
+organization|.|WET4126.txt|.|9|.|WET387.txt|.|8|.|WET3159.txt|.|3|.|WET3010.txt|.|37|.|WET388.txt|.|8|.|WET4127.txt|.|8
+manual of style|.|WET157.txt|.|12
+time machine|.|WET564.txt|.|6|.|WET420.txt|.|2|.|WET5938.txt|.|2
+state park|.|WET3455.txt|.|264|.|WET439.txt|.|194
+project runway|.|WET3870.txt|.|52
+drivers ed|.|WET598.txt|.|4
+flood|.|WET761.txt|.|2|.|WET4861.txt|.|3|.|WET1048.txt|.|2|.|WET3125.txt|.|3|.|WET5986.txt|.|2|.|WET3811.txt|.|2|.|WET3757.txt|.|2|.|WET1133.txt|.|1|.|WET2752.txt|.|2|.|WET3824.txt|.|2|.|WET4676.txt|.|4|.|WET2363.txt|.|2|.|WET2036.txt|.|4|.|WET5938.txt|.|2|.|WET3088.txt|.|2|.|WET1105.txt|.|3|.|WET3474.txt|.|2|.|WET4097.txt|.|3|.|WET4732.txt|.|2|.|WET4767.txt|.|2|.|WET5665.txt|.|2|.|WET2372.txt|.|2|.|WET4784.txt|.|112|.|WET3812.txt|.|2|.|WET937.txt|.|2|.|WET26.txt|.|2|.|WET1524.txt|.|3|.|WET5699.txt|.|3|.|WET2020.txt|.|2|.|WET2039.txt|.|2|.|WET5848.txt|.|2|.|WET3610.txt|.|3|.|WET4902.txt|.|2|.|WET4196.txt|.|3|.|WET4127.txt|.|2|.|WET497.txt|.|2|.|WET3657.txt|.|2|.|WET5724.txt|.|2
+timestamp|.|WET3748.txt|.|2|.|WET300.txt|.|2|.|WET5848.txt|.|2|.|WET1531.txt|.|2|.|WET2409.txt|.|3|.|WET3417.txt|.|2|.|WET5682.txt|.|2

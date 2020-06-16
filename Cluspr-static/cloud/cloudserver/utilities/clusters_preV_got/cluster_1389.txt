@@ -1,0 +1,12 @@
+1389
+include|.|WET2657.txt|.|60
+path|.|WET4482.txt|.|32
+ver todo|.|WET1018.txt|.|6
+opens in new|.|WET3548.txt|.|49|.|WET733.txt|.|20
+purchases|.|WET4102.txt|.|1|.|WET1917.txt|.|2|.|WET3624.txt|.|2|.|WET6269.txt|.|2|.|WET2171.txt|.|1|.|WET6197.txt|.|2|.|WET1790.txt|.|1|.|WET2658.txt|.|139|.|WET5163.txt|.|1|.|WET5080.txt|.|2|.|WET3014.txt|.|59|.|WET2261.txt|.|2|.|WET815.txt|.|1|.|WET2449.txt|.|2|.|WET2338.txt|.|1|.|WET810.txt|.|2|.|WET2470.txt|.|2|.|WET5260.txt|.|3|.|WET3335.txt|.|1|.|WET2688.txt|.|30|.|WET3569.txt|.|2|.|WET5017.txt|.|51|.|WET1017.txt|.|2|.|WET3874.txt|.|3|.|WET4196.txt|.|1|.|WET4423.txt|.|1|.|WET4581.txt|.|1|.|WET2657.txt|.|165|.|WET5525.txt|.|2|.|WET2689.txt|.|40|.|WET2786.txt|.|2|.|WET570.txt|.|1|.|WET1264.txt|.|25|.|WET1018.txt|.|2|.|WET6299.txt|.|2|.|WET3913.txt|.|1|.|WET5602.txt|.|5|.|WET1645.txt|.|1|.|WET3575.txt|.|2|.|WET2621.txt|.|1|.|WET1265.txt|.|57|.|WET5603.txt|.|2|.|WET3964.txt|.|1|.|WET3761.txt|.|2|.|WET2983.txt|.|1|.|WET1945.txt|.|1|.|WET2240.txt|.|2|.|WET2511.txt|.|2|.|WET2838.txt|.|3|.|WET3418.txt|.|30|.|WET3454.txt|.|2|.|WET781.txt|.|1|.|WET5719.txt|.|3|.|WET4856.txt|.|3|.|WET3724.txt|.|2
+simone|.|WET6192.txt|.|64
+beads|.|WET2175.txt|.|62
+bracelet|.|WET5867.txt|.|12|.|WET2657.txt|.|36
+shop top sellers|.|WET5017.txt|.|22
+eco shop sale|.|WET2689.txt|.|24
+copper ions|.|WET4833.txt|.|4

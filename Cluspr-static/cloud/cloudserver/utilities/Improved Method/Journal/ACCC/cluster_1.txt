@@ -1,0 +1,601 @@
+1
+def|.|WET1618.txt|.|82|.|WET5366.txt|.|107
+web application|.|WET3706.txt|.|36|.|WET5451.txt|.|2|.|WET4789.txt|.|1
+year|.|WET876.txt|.|50|.|WET5891.txt|.|11|.|WET6204.txt|.|1|.|WET4081.txt|.|8|.|WET885.txt|.|27|.|WET4743.txt|.|37|.|WET3862.txt|.|27|.|WET6.txt|.|2|.|WET3712.txt|.|24|.|WET295.txt|.|192|.|WET2247.txt|.|7|.|WET1053.txt|.|2|.|WET4190.txt|.|47|.|WET698.txt|.|132|.|WET4616.txt|.|50|.|WET2088.txt|.|27|.|WET4834.txt|.|150|.|WET4202.txt|.|6|.|WET57.txt|.|14|.|WET1606.txt|.|43|.|WET6275.txt|.|20|.|WET801.txt|.|11|.|WET2161.txt|.|64|.|WET4216.txt|.|32|.|WET1064.txt|.|41|.|WET3051.txt|.|24|.|WET3886.txt|.|11|.|WET3895.txt|.|23|.|WET5021.txt|.|9
+voted|.|WET591.txt|.|1|.|WET133.txt|.|1|.|WET258.txt|.|2|.|WET5782.txt|.|2|.|WET6111.txt|.|1|.|WET5189.txt|.|1|.|WET3172.txt|.|2|.|WET6226.txt|.|2|.|WET194.txt|.|2|.|WET6151.txt|.|1|.|WET2245.txt|.|2|.|WET5554.txt|.|1|.|WET4533.txt|.|1|.|WET6092.txt|.|2|.|WET3109.txt|.|2|.|WET5219.txt|.|52|.|WET2805.txt|.|1|.|WET2007.txt|.|2|.|WET2483.txt|.|2|.|WET410.txt|.|2|.|WET204.txt|.|1|.|WET4785.txt|.|1|.|WET4090.txt|.|2|.|WET4179.txt|.|1|.|WET1670.txt|.|2|.|WET5476.txt|.|2|.|WET5239.txt|.|1|.|WET5823.txt|.|2|.|WET3212.txt|.|2|.|WET3344.txt|.|1|.|WET1468.txt|.|42|.|WET4442.txt|.|3|.|WET4230.txt|.|2|.|WET2035.txt|.|2|.|WET1257.txt|.|2|.|WET3833.txt|.|1|.|WET501.txt|.|1|.|WET4913.txt|.|1|.|WET2681.txt|.|2|.|WET3752.txt|.|4|.|WET1469.txt|.|28|.|WET2354.txt|.|2|.|WET1105.txt|.|1|.|WET57.txt|.|1|.|WET4678.txt|.|4|.|WET937.txt|.|2|.|WET2364.txt|.|2|.|WET1630.txt|.|1|.|WET1742.txt|.|1|.|WET2492.txt|.|2|.|WET4967.txt|.|1|.|WET4284.txt|.|1|.|WET809.txt|.|2|.|WET1360.txt|.|2|.|WET6237.txt|.|2|.|WET3711.txt|.|1|.|WET5895.txt|.|1
+videos|.|WET4226.txt|.|30|.|WET4993.txt|.|72|.|WET5903.txt|.|43|.|WET4718.txt|.|36|.|WET1859.txt|.|37|.|WET1866.txt|.|42|.|WET1299.txt|.|28|.|WET2684.txt|.|11|.|WET3764.txt|.|33|.|WET442.txt|.|57|.|WET5782.txt|.|44|.|WET3779.txt|.|49|.|WET2083.txt|.|84|.|WET5668.txt|.|55|.|WET3333.txt|.|6|.|WET3332.txt|.|11|.|WET1346.txt|.|22|.|WET1371.txt|.|22|.|WET2103.txt|.|5|.|WET2858.txt|.|20|.|WET1499.txt|.|9|.|WET101.txt|.|54|.|WET6139.txt|.|31|.|WET1347.txt|.|22|.|WET5919.txt|.|53|.|WET5097.txt|.|20|.|WET6121.txt|.|48|.|WET3347.txt|.|34|.|WET4148.txt|.|11|.|WET4766.txt|.|29|.|WET3223.txt|.|55|.|WET6130.txt|.|25|.|WET2682.txt|.|110|.|WET1297.txt|.|8|.|WET2405.txt|.|29|.|WET4232.txt|.|121|.|WET1020.txt|.|50|.|WET2736.txt|.|15|.|WET3203.txt|.|25|.|WET485.txt|.|351|.|WET6224.txt|.|20|.|WET1666.txt|.|11|.|WET1755.txt|.|32|.|WET3348.txt|.|89|.|WET6060.txt|.|56|.|WET2356.txt|.|12|.|WET2406.txt|.|111|.|WET3763.txt|.|124
+ios|.|WET1293.txt|.|8|.|WET5211.txt|.|9|.|WET6030.txt|.|28|.|WET4155.txt|.|186
+keyword search|.|WET3065.txt|.|1|.|WET117.txt|.|6|.|WET2331.txt|.|2|.|WET3862.txt|.|10|.|WET122.txt|.|10|.|WET3747.txt|.|12|.|WET2375.txt|.|1|.|WET3866.txt|.|10|.|WET762.txt|.|1|.|WET3852.txt|.|1|.|WET3863.txt|.|6|.|WET105.txt|.|4|.|WET1865.txt|.|3|.|WET103.txt|.|3
+collusion|.|WET3556.txt|.|2|.|WET3120.txt|.|2|.|WET790.txt|.|30
+amazing stat|.|WET98.txt|.|12
+ron kaye|.|WET829.txt|.|4
+record|.|WET5145.txt|.|16|.|WET1892.txt|.|38|.|WET6051.txt|.|6|.|WET3807.txt|.|23|.|WET1981.txt|.|1|.|WET4056.txt|.|3|.|WET6188.txt|.|1|.|WET1379.txt|.|3|.|WET4057.txt|.|2|.|WET1314.txt|.|1|.|WET3413.txt|.|2|.|WET3397.txt|.|9|.|WET5397.txt|.|26|.|WET3515.txt|.|10|.|WET5638.txt|.|53|.|WET6295.txt|.|1|.|WET888.txt|.|1|.|WET3028.txt|.|6|.|WET3982.txt|.|1|.|WET1339.txt|.|10|.|WET5067.txt|.|1|.|WET2660.txt|.|2|.|WET1899.txt|.|3|.|WET1517.txt|.|2|.|WET3414.txt|.|52|.|WET5796.txt|.|2|.|WET3228.txt|.|14|.|WET4695.txt|.|1|.|WET619.txt|.|1|.|WET5033.txt|.|1|.|WET4325.txt|.|20|.|WET2606.txt|.|1|.|WET4643.txt|.|2|.|WET2922.txt|.|10|.|WET1511.txt|.|75|.|WET3750.txt|.|1|.|WET3887.txt|.|4|.|WET1039.txt|.|26|.|WET3971.txt|.|1|.|WET915.txt|.|52|.|WET344.txt|.|4|.|WET1216.txt|.|1|.|WET2542.txt|.|1|.|WET2110.txt|.|5|.|WET5800.txt|.|1|.|WET4830.txt|.|3|.|WET2233.txt|.|3
+develo|.|WET1858.txt|.|5
+soul brother|.|WET4188.txt|.|5
+arc cycle|.|WET505.txt|.|1
+bankruptcy filing|.|WET4896.txt|.|43
+wins|.|WET5770.txt|.|28
+promoting|.|WET5535.txt|.|3|.|WET5828.txt|.|3|.|WET6225.txt|.|1|.|WET29.txt|.|1|.|WET2082.txt|.|1|.|WET3756.txt|.|2|.|WET2862.txt|.|2|.|WET931.txt|.|1|.|WET4128.txt|.|2|.|WET2502.txt|.|1|.|WET557.txt|.|2|.|WET3324.txt|.|2|.|WET6031.txt|.|2|.|WET3596.txt|.|1|.|WET4943.txt|.|1|.|WET4244.txt|.|1|.|WET3940.txt|.|1|.|WET6092.txt|.|1|.|WET6275.txt|.|1|.|WET1223.txt|.|2|.|WET2496.txt|.|1|.|WET2435.txt|.|1|.|WET767.txt|.|2|.|WET1004.txt|.|1|.|WET215.txt|.|2|.|WET2772.txt|.|1|.|WET2441.txt|.|1|.|WET1830.txt|.|1|.|WET706.txt|.|2|.|WET2345.txt|.|1|.|WET693.txt|.|1|.|WET325.txt|.|1|.|WET4052.txt|.|1|.|WET4442.txt|.|1|.|WET3310.txt|.|1|.|WET987.txt|.|1|.|WET4433.txt|.|1|.|WET3876.txt|.|1|.|WET4956.txt|.|1|.|WET2036.txt|.|1|.|WET3841.txt|.|2|.|WET2016.txt|.|1|.|WET6223.txt|.|2|.|WET2745.txt|.|1|.|WET3822.txt|.|1|.|WET2211.txt|.|1|.|WET272.txt|.|1|.|WET5927.txt|.|1|.|WET3962.txt|.|2
+unwrapped charity|.|WET6312.txt|.|6
+tee shirt|.|WET2211.txt|.|9
+playlists|.|WET2682.txt|.|24
+anobii|.|WET4931.txt|.|33
+royalty free music|.|WET2909.txt|.|30|.|WET2908.txt|.|112
+ao|.|WET1227.txt|.|60
+english language|.|WET340.txt|.|55|.|WET4083.txt|.|63
+anonymous said|.|WET803.txt|.|160|.|WET3867.txt|.|187|.|WET3381.txt|.|201|.|WET123.txt|.|142
+quddus|.|WET98.txt|.|2
+customer favorites|.|WET5003.txt|.|35
+au|.|WET234.txt|.|63|.|WET2852.txt|.|28|.|WET3980.txt|.|73|.|WET5784.txt|.|7|.|WET1713.txt|.|101|.|WET4168.txt|.|26
+replies|.|WET5139.txt|.|8|.|WET1542.txt|.|60|.|WET3052.txt|.|32|.|WET1860.txt|.|150|.|WET1505.txt|.|42|.|WET982.txt|.|50|.|WET2510.txt|.|35|.|WET429.txt|.|111
+baked|.|WET3055.txt|.|10|.|WET446.txt|.|26|.|WET4526.txt|.|14
+guest|.|WET743.txt|.|116|.|WET2538.txt|.|76|.|WET5182.txt|.|42|.|WET5775.txt|.|20|.|WET262.txt|.|18|.|WET392.txt|.|14|.|WET1381.txt|.|13
+events calendar|.|WET3329.txt|.|24
+drug resistance|.|WET3048.txt|.|9
+gmc|.|WET5425.txt|.|29|.|WET2788.txt|.|46
+treatment|.|WET3047.txt|.|32|.|WET4159.txt|.|57|.|WET4286.txt|.|75
+accessible|.|WET2370.txt|.|4
+david bell|.|WET5366.txt|.|7
+photoslocal|.|WET3267.txt|.|20
+ahead|.|WET505.txt|.|3
+hop|.|WET70.txt|.|4|.|WET25.txt|.|8
+geotextile|.|WET445.txt|.|105
+geek soul|.|WET4188.txt|.|7
+rare diseases|.|WET3514.txt|.|17
+br|.|WET1452.txt|.|72|.|WET5784.txt|.|7
+michael said|.|WET28.txt|.|29
+search|.|WET443.txt|.|16|.|WET117.txt|.|15|.|WET2463.txt|.|28|.|WET2331.txt|.|11|.|WET2412.txt|.|61|.|WET656.txt|.|6|.|WET3747.txt|.|59|.|WET3933.txt|.|56|.|WET6005.txt|.|58|.|WET4072.txt|.|12|.|WET3526.txt|.|22|.|WET1074.txt|.|12|.|WET1429.txt|.|44|.|WET1104.txt|.|53|.|WET1968.txt|.|20|.|WET2080.txt|.|93|.|WET2854.txt|.|34|.|WET2951.txt|.|36|.|WET1023.txt|.|34|.|WET2579.txt|.|14|.|WET1759.txt|.|22|.|WET293.txt|.|72|.|WET3585.txt|.|34|.|WET3070.txt|.|9|.|WET870.txt|.|4|.|WET2609.txt|.|13|.|WET105.txt|.|20|.|WET1317.txt|.|27|.|WET1778.txt|.|11|.|WET3582.txt|.|35|.|WET5485.txt|.|6|.|WET934.txt|.|26|.|WET4150.txt|.|23|.|WET2621.txt|.|73|.|WET2265.txt|.|85|.|WET4400.txt|.|7|.|WET4850.txt|.|3|.|WET4142.txt|.|21|.|WET404.txt|.|41|.|WET2311.txt|.|25|.|WET5566.txt|.|61|.|WET539.txt|.|24|.|WET101.txt|.|48|.|WET4029.txt|.|62|.|WET238.txt|.|18|.|WET4970.txt|.|44|.|WET5669.txt|.|12|.|WET1152.txt|.|20|.|WET5368.txt|.|25|.|WET5961.txt|.|64|.|WET3437.txt|.|37|.|WET3418.txt|.|15|.|WET966.txt|.|4|.|WET1980.txt|.|32|.|WET285.txt|.|68|.|WET2830.txt|.|7|.|WET2843.txt|.|22|.|WET2869.txt|.|26|.|WET282.txt|.|48|.|WET5799.txt|.|11|.|WET3065.txt|.|16|.|WET5861.txt|.|15|.|WET2632.txt|.|26|.|WET2375.txt|.|13|.|WET1349.txt|.|36|.|WET3340.txt|.|86|.|WET5286.txt|.|20|.|WET6154.txt|.|22|.|WET3502.txt|.|46|.|WET762.txt|.|11|.|WET5381.txt|.|33|.|WET3863.txt|.|15|.|WET159.txt|.|174|.|WET5934.txt|.|31|.|WET292.txt|.|56|.|WET1138.txt|.|20|.|WET300.txt|.|8|.|WET2152.txt|.|31|.|WET122.txt|.|36|.|WET2944.txt|.|20|.|WET3924.txt|.|54|.|WET5487.txt|.|7|.|WET767.txt|.|8|.|WET4012.txt|.|7|.|WET1868.txt|.|18|.|WET4547.txt|.|8|.|WET2901.txt|.|13|.|WET835.txt|.|18|.|WET66.txt|.|5|.|WET1034.txt|.|16|.|WET2972.txt|.|36|.|WET4875.txt|.|5|.|WET6255.txt|.|8|.|WET6106.txt|.|27|.|WET4442.txt|.|18|.|WET286.txt|.|81|.|WET2522.txt|.|14|.|WET226.txt|.|35|.|WET2515.txt|.|26|.|WET2558.txt|.|11|.|WET6027.txt|.|9|.|WET5930.txt|.|50|.|WET4832.txt|.|37|.|WET1620.txt|.|27|.|WET5354.txt|.|12|.|WET2321.txt|.|49|.|WET3398.txt|.|15|.|WET2003.txt|.|13|.|WET2537.txt|.|8|.|WET3974.txt|.|72|.|WET3852.txt|.|28|.|WET5687.txt|.|17|.|WET4077.txt|.|19|.|WET5369.txt|.|19|.|WET1313.txt|.|11|.|WET1129.txt|.|14|.|WET1862.txt|.|27|.|WET1412.txt|.|2|.|WET3862.txt|.|20|.|WET1102.txt|.|27|.|WET1013.txt|.|15|.|WET143.txt|.|29|.|WET5846.txt|.|9|.|WET964.txt|.|9|.|WET2597.txt|.|18|.|WET3536.txt|.|4|.|WET921.txt|.|26|.|WET2724.txt|.|24|.|WET3923.txt|.|22|.|WET976.txt|.|7|.|WET992.txt|.|4|.|WET2054.txt|.|9|.|WET2902.txt|.|11|.|WET4372.txt|.|11|.|WET3076.txt|.|41|.|WET178.txt|.|54|.|WET3653.txt|.|17|.|WET2437.txt|.|21|.|WET1335.txt|.|12|.|WET3599.txt|.|52|.|WET2674.txt|.|22|.|WET2086.txt|.|3|.|WET216.txt|.|18|.|WET5912.txt|.|10|.|WET2361.txt|.|45|.|WET3866.txt|.|23|.|WET2760.txt|.|42|.|WET4816.txt|.|14|.|WET1274.txt|.|20|.|WET1621.txt|.|30|.|WET6256.txt|.|25|.|WET2523.txt|.|11|.|WET103.txt|.|15|.|WET4417.txt|.|7|.|WET2019.txt|.|104|.|WET5231.txt|.|3|.|WET4283.txt|.|23|.|WET5385.txt|.|63|.|WET2937.txt|.|17|.|WET6186.txt|.|3|.|WET364.txt|.|2|.|WET682.txt|.|17|.|WET5312.txt|.|18|.|WET4720.txt|.|17|.|WET2905.txt|.|80|.|WET5822.txt|.|51|.|WET1865.txt|.|16|.|WET127.txt|.|27|.|WET1374.txt|.|26|.|WET4573.txt|.|28|.|WET3339.txt|.|140|.|WET4590.txt|.|9|.|WET4667.txt|.|17|.|WET1200.txt|.|16|.|WET5294.txt|.|26|.|WET3969.txt|.|16|.|WET3057.txt|.|22|.|WET2829.txt|.|21|.|WET3225.txt|.|5|.|WET5065.txt|.|22|.|WET1448.txt|.|17|.|WET5456.txt|.|48|.|WET2261.txt|.|8|.|WET177.txt|.|57|.|WET3977.txt|.|11|.|WET564.txt|.|11|.|WET3029.txt|.|20|.|WET1063.txt|.|25|.|WET2288.txt|.|11|.|WET853.txt|.|12|.|WET3922.txt|.|21|.|WET167.txt|.|26|.|WET1537.txt|.|7|.|WET3954.txt|.|21|.|WET4639.txt|.|12|.|WET3886.txt|.|40|.|WET3949.txt|.|161|.|WET2689.txt|.|5|.|WET3786.txt|.|21|.|WET900.txt|.|18|.|WET2494.txt|.|25|.|WET228.txt|.|57|.|WET4115.txt|.|31|.|WET5050.txt|.|25|.|WET4019.txt|.|14|.|WET3363.txt|.|92|.|WET5514.txt|.|15|.|WET2620.txt|.|11|.|WET579.txt|.|22|.|WET2283.txt|.|24|.|WET4884.txt|.|21|.|WET190.txt|.|17|.|WET3419.txt|.|15|.|WET3118.txt|.|3|.|WET3024.txt|.|3|.|WET3067.txt|.|77|.|WET3901.txt|.|2|.|WET2885.txt|.|20|.|WET5245.txt|.|38|.|WET5710.txt|.|19|.|WET207.txt|.|11|.|WET5768.txt|.|42|.|WET3927.txt|.|32|.|WET6003.txt|.|27|.|WET1042.txt|.|10|.|WET1300.txt|.|21|.|WET1025.txt|.|10|.|WET5038.txt|.|14
+vocabulary|.|WET106.txt|.|3|.|WET3659.txt|.|2|.|WET696.txt|.|1|.|WET3388.txt|.|2|.|WET632.txt|.|2|.|WET1721.txt|.|2|.|WET572.txt|.|2|.|WET5366.txt|.|2|.|WET1156.txt|.|2|.|WET4838.txt|.|2|.|WET1106.txt|.|35|.|WET2293.txt|.|2|.|WET4918.txt|.|3|.|WET1133.txt|.|2|.|WET5391.txt|.|3|.|WET281.txt|.|3|.|WET497.txt|.|2|.|WET813.txt|.|3
+networked sensors|.|WET861.txt|.|2
+van der|.|WET3702.txt|.|6
+free shortcake|.|WET3900.txt|.|6
+scoring|.|WET5205.txt|.|7|.|WET2085.txt|.|50
+vendidos|.|WET829.txt|.|18
+latest activity|.|WET4347.txt|.|12
+pet forum|.|WET2639.txt|.|19
+kemudian|.|WET3490.txt|.|65
+crochet|.|WET1149.txt|.|45
+k|.|WET755.txt|.|6|.|WET915.txt|.|19|.|WET3632.txt|.|20|.|WET361.txt|.|20|.|WET5926.txt|.|22|.|WET5038.txt|.|4
+sturgeon|.|WET4417.txt|.|14
+unlove|.|WET2224.txt|.|64|.|WET5962.txt|.|18
+labels weprint|.|WET4984.txt|.|4
+browse previous blog|.|WET3862.txt|.|19
+cu|.|WET299.txt|.|88|.|WET5291.txt|.|34
+ny times|.|WET5003.txt|.|10
+voted comment|.|WET5219.txt|.|52|.|WET1468.txt|.|42|.|WET1469.txt|.|25
+answer|.|WET628.txt|.|91|.|WET821.txt|.|266|.|WET4102.txt|.|92|.|WET5561.txt|.|54|.|WET340.txt|.|70|.|WET4532.txt|.|53
+isa|.|WET98.txt|.|14
+american horror|.|WET3851.txt|.|13
+colorado springs|.|WET2486.txt|.|11
+pandora one subscription|.|WET2590.txt|.|60
+quartet|.|WET4411.txt|.|9
+new window|.|WET1710.txt|.|74|.|WET2285.txt|.|54|.|WET733.txt|.|2
+carlos|.|WET5155.txt|.|77|.|WET4471.txt|.|11
+buy wine|.|WET3298.txt|.|22
+posts by month|.|WET3862.txt|.|20
+jun|.|WET1801.txt|.|19|.|WET4163.txt|.|41|.|WET881.txt|.|19|.|WET3081.txt|.|41|.|WET3236.txt|.|18|.|WET191.txt|.|11|.|WET1180.txt|.|62
+facebook fan|.|WET3050.txt|.|76
+peter bogdanovich|.|WET5827.txt|.|4
+evidence|.|WET4849.txt|.|34
+fml|.|WET5564.txt|.|78
+finger cross|.|WET1468.txt|.|11
+di|.|WET4931.txt|.|67|.|WET1743.txt|.|47|.|WET1348.txt|.|78|.|WET512.txt|.|42|.|WET2116.txt|.|56|.|WET3448.txt|.|934|.|WET5656.txt|.|36|.|WET523.txt|.|127|.|WET3471.txt|.|193|.|WET3565.txt|.|80
+stocking|.|WET5235.txt|.|20
+dm|.|WET2748.txt|.|146
+transportation issues and global warming|.|WET2773.txt|.|364
+bsb cal|.|WET3172.txt|.|10
+language|.|WET899.txt|.|41|.|WET340.txt|.|59|.|WET4083.txt|.|69|.|WET760.txt|.|15
+ask metafilter|.|WET3808.txt|.|12
+graphics|.|WET1680.txt|.|12|.|WET4682.txt|.|52
+john henson|.|WET498.txt|.|6
+ghana|.|WET4190.txt|.|24
+chinese|.|WET5517.txt|.|66|.|WET1628.txt|.|20|.|WET4268.txt|.|11|.|WET4623.txt|.|52|.|WET349.txt|.|11|.|WET1600.txt|.|12|.|WET2576.txt|.|16|.|WET191.txt|.|56|.|WET1365.txt|.|10|.|WET4644.txt|.|11
+alcatel|.|WET2650.txt|.|45
+saved items|.|WET1581.txt|.|42|.|WET1580.txt|.|42|.|WET5329.txt|.|49
+vendors|.|WET2005.txt|.|30|.|WET3267.txt|.|65|.|WET2547.txt|.|33
+universal pictures|.|WET1235.txt|.|5
+gina k|.|WET915.txt|.|14
+rome|.|WET939.txt|.|23
+singers|.|WET773.txt|.|43
+anique|.|WET3778.txt|.|57
+che|.|WET4130.txt|.|164
+seasons|.|WET3863.txt|.|115|.|WET5585.txt|.|49|.|WET3045.txt|.|7
+pas|.|WET3852.txt|.|13|.|WET939.txt|.|9
+confining potentials|.|WET4471.txt|.|13
+mathematics stack|.|WET4369.txt|.|28
+post older|.|WET533.txt|.|5|.|WET5713.txt|.|2|.|WET3776.txt|.|10
+hrn|.|WET5770.txt|.|56
+mcdm|.|WET6021.txt|.|2
+respect|.|WET5366.txt|.|91
+amigurumi|.|WET1149.txt|.|54
+rf spectrum|.|WET1946.txt|.|3
+citylocal talklocal weddingslocal|.|WET3267.txt|.|20
+month|.|WET5561.txt|.|34|.|WET1137.txt|.|12|.|WET5348.txt|.|12|.|WET3862.txt|.|32|.|WET3668.txt|.|21|.|WET4247.txt|.|42
+reply comment|.|WET4533.txt|.|49
+shonen|.|WET3236.txt|.|38
+photography memorabilia|.|WET6312.txt|.|6
+fb|.|WET2023.txt|.|60|.|WET3050.txt|.|176
+stacy exercised|.|WET4799.txt|.|7
+carlos hernandez|.|WET4471.txt|.|7
+reality look book|.|WET5141.txt|.|22
+rakyat|.|WET4368.txt|.|21
+streaming service|.|WET132.txt|.|8|.|WET3875.txt|.|6
+production|.|WET6075.txt|.|10
+fl|.|WET234.txt|.|153|.|WET3980.txt|.|170|.|WET3981.txt|.|68|.|WET2769.txt|.|75|.|WET1259.txt|.|128|.|WET4245.txt|.|111|.|WET3390.txt|.|56
+fm|.|WET3756.txt|.|124|.|WET4552.txt|.|47
+products prints|.|WET836.txt|.|11
+instrument|.|WET2909.txt|.|24|.|WET577.txt|.|370
+pcb|.|WET2127.txt|.|8
+states|.|WET583.txt|.|33|.|WET1561.txt|.|21|.|WET1829.txt|.|24|.|WET4870.txt|.|9|.|WET412.txt|.|9|.|WET5189.txt|.|40|.|WET3612.txt|.|19|.|WET2986.txt|.|119|.|WET324.txt|.|33|.|WET4328.txt|.|20|.|WET3841.txt|.|410|.|WET2231.txt|.|31|.|WET1447.txt|.|143|.|WET916.txt|.|56|.|WET5775.txt|.|6|.|WET3143.txt|.|6|.|WET2011.txt|.|49|.|WET3906.txt|.|15|.|WET3414.txt|.|34|.|WET1703.txt|.|37|.|WET3173.txt|.|15|.|WET4716.txt|.|20|.|WET5262.txt|.|64|.|WET3649.txt|.|31|.|WET2554.txt|.|48|.|WET5749.txt|.|36|.|WET2550.txt|.|29|.|WET3653.txt|.|30|.|WET4467.txt|.|16|.|WET6290.txt|.|35|.|WET4653.txt|.|56|.|WET170.txt|.|24|.|WET2068.txt|.|128|.|WET861.txt|.|173|.|WET3945.txt|.|65|.|WET5564.txt|.|42|.|WET577.txt|.|399
+family page|.|WET5235.txt|.|16
+animal shelter|.|WET2534.txt|.|4
+rick spencer|.|WET4100.txt|.|8
+decor|.|WET4577.txt|.|22|.|WET839.txt|.|22|.|WET4576.txt|.|22|.|WET1628.txt|.|10|.|WET5719.txt|.|91|.|WET5316.txt|.|57|.|WET840.txt|.|22
+thomas|.|WET98.txt|.|20|.|WET1085.txt|.|6
+surveillance|.|WET4810.txt|.|2|.|WET1090.txt|.|2|.|WET5535.txt|.|47|.|WET5828.txt|.|3|.|WET4455.txt|.|2|.|WET4111.txt|.|2|.|WET3057.txt|.|2|.|WET3111.txt|.|2|.|WET1323.txt|.|8|.|WET4633.txt|.|3|.|WET4562.txt|.|2|.|WET73.txt|.|2|.|WET12.txt|.|3|.|WET3112.txt|.|6|.|WET5685.txt|.|2|.|WET1076.txt|.|2|.|WET1792.txt|.|2|.|WET5842.txt|.|3|.|WET1919.txt|.|2|.|WET1984.txt|.|2|.|WET5984.txt|.|3|.|WET4785.txt|.|1|.|WET4423.txt|.|2|.|WET1101.txt|.|2|.|WET707.txt|.|2|.|WET570.txt|.|2|.|WET3875.txt|.|2|.|WET1213.txt|.|5|.|WET502.txt|.|2|.|WET67.txt|.|2|.|WET715.txt|.|3|.|WET2204.txt|.|2|.|WET2522.txt|.|2|.|WET5752.txt|.|3|.|WET3833.txt|.|2|.|WET181.txt|.|3|.|WET5345.txt|.|2|.|WET1769.txt|.|2|.|WET121.txt|.|3|.|WET164.txt|.|3|.|WET649.txt|.|2|.|WET158.txt|.|2|.|WET3987.txt|.|2|.|WET1708.txt|.|2|.|WET970.txt|.|1|.|WET2364.txt|.|2|.|WET4100.txt|.|2|.|WET5042.txt|.|8|.|WET1755.txt|.|2|.|WET5691.txt|.|2|.|WET2488.txt|.|2|.|WET4598.txt|.|2|.|WET428.txt|.|2|.|WET4873.txt|.|10|.|WET5073.txt|.|6
+check rates|.|WET148.txt|.|56
+potentials|.|WET4471.txt|.|17
+gi|.|WET3926.txt|.|2|.|WET5048.txt|.|16|.|WET4407.txt|.|2|.|WET845.txt|.|2|.|WET2125.txt|.|2|.|WET4464.txt|.|1|.|WET3811.txt|.|2|.|WET2783.txt|.|1|.|WET3824.txt|.|2|.|WET5544.txt|.|2|.|WET4244.txt|.|2|.|WET3112.txt|.|4|.|WET4659.txt|.|2|.|WET3869.txt|.|1|.|WET2105.txt|.|2|.|WET1690.txt|.|2|.|WET4491.txt|.|3|.|WET5915.txt|.|2|.|WET4766.txt|.|26|.|WET5631.txt|.|2|.|WET3335.txt|.|12|.|WET1537.txt|.|1|.|WET309.txt|.|11|.|WET391.txt|.|3|.|WET1626.txt|.|2|.|WET3941.txt|.|1|.|WET2962.txt|.|1|.|WET1852.txt|.|3|.|WET5975.txt|.|1|.|WET5047.txt|.|2|.|WET1021.txt|.|144|.|WET1843.txt|.|1|.|WET2060.txt|.|2
+coins art|.|WET6312.txt|.|6
+infectado|.|WET4159.txt|.|15
+ben bridge|.|WET103.txt|.|12
+wits|.|WET941.txt|.|3|.|WET1889.txt|.|2|.|WET745.txt|.|2
+food network|.|WET1833.txt|.|87|.|WET5569.txt|.|101
+area rug|.|WET3570.txt|.|36
+false|.|WET755.txt|.|2|.|WET2192.txt|.|14|.|WET1405.txt|.|12|.|WET4647.txt|.|40
+tuition|.|WET3735.txt|.|76
+trajectory|.|WET3443.txt|.|2|.|WET2832.txt|.|2|.|WET2127.txt|.|2|.|WET3853.txt|.|2|.|WET5249.txt|.|1|.|WET6194.txt|.|2|.|WET4499.txt|.|2
+room|.|WET1455.txt|.|27|.|WET5081.txt|.|75|.|WET2790.txt|.|20|.|WET5182.txt|.|62|.|WET5074.txt|.|132|.|WET1185.txt|.|28|.|WET2481.txt|.|33|.|WET1769.txt|.|37|.|WET2032.txt|.|14|.|WET1588.txt|.|32|.|WET2324.txt|.|202|.|WET4235.txt|.|189|.|WET2894.txt|.|28|.|WET5775.txt|.|44|.|WET2215.txt|.|61|.|WET3652.txt|.|19|.|WET4957.txt|.|93|.|WET2033.txt|.|41|.|WET1208.txt|.|22|.|WET2521.txt|.|11|.|WET5203.txt|.|33|.|WET5771.txt|.|25|.|WET488.txt|.|53|.|WET6004.txt|.|41|.|WET3105.txt|.|52|.|WET4962.txt|.|18|.|WET3711.txt|.|79|.|WET6220.txt|.|30
+acrylic print|.|WET4869.txt|.|8
+previous blog posts|.|WET3862.txt|.|20
+clark|.|WET5686.txt|.|4|.|WET115.txt|.|9|.|WET4763.txt|.|57
+ha|.|WET3448.txt|.|122
+change citylocal|.|WET3267.txt|.|20
+unicycles|.|WET4308.txt|.|15
+interviews festivals|.|WET5827.txt|.|4
+dreamweaver|.|WET988.txt|.|117
+romney|.|WET3046.txt|.|17|.|WET972.txt|.|15
+party idea blog|.|WET1628.txt|.|20
+os x|.|WET6030.txt|.|91|.|WET414.txt|.|72|.|WET4155.txt|.|144
+spotlight spotlight|.|WET3733.txt|.|7
+hr|.|WET1256.txt|.|44|.|WET3049.txt|.|46
+videos and books|.|WET4148.txt|.|11
+server fault|.|WET864.txt|.|20|.|WET863.txt|.|69|.|WET4601.txt|.|66
+luiza|.|WET299.txt|.|56
+name and logo|.|WET6235.txt|.|27
+distributed systems|.|WET861.txt|.|2
+life podcast|.|WET118.txt|.|4
+stuffers|.|WET5235.txt|.|20
+reformation trust|.|WET5989.txt|.|14
+jane|.|WET446.txt|.|187|.|WET3606.txt|.|15|.|WET5101.txt|.|15
+podcasts npr|.|WET2521.txt|.|9
+homeautogadgetshardwareinternetitsciencesoftwareblogspolls submit|.|WET5348.txt|.|10
+news weather|.|WET566.txt|.|7
+telephone number|.|WET927.txt|.|20
+rug size|.|WET3570.txt|.|11
+wagering|.|WET2028.txt|.|44|.|WET5770.txt|.|24|.|WET5769.txt|.|32|.|WET5966.txt|.|7|.|WET3917.txt|.|16|.|WET5140.txt|.|2
+land title|.|WET4902.txt|.|19
+bell|.|WET5366.txt|.|7
+alerts|.|WET1970.txt|.|45|.|WET3080.txt|.|121|.|WET566.txt|.|57|.|WET301.txt|.|13|.|WET5609.txt|.|11|.|WET642.txt|.|11|.|WET6206.txt|.|16
+iz|.|WET5202.txt|.|24
+chinese yuan renminbidkk|.|WET1628.txt|.|20
+cpus graphics|.|WET4682.txt|.|18
+spots|.|WET3247.txt|.|19
+doc|.|WET4984.txt|.|9
+opens|.|WET1254.txt|.|3|.|WET3548.txt|.|49|.|WET3009.txt|.|13|.|WET2285.txt|.|54|.|WET733.txt|.|20
+instant client|.|WET3417.txt|.|4
+women|.|WET2323.txt|.|28|.|WET1853.txt|.|37|.|WET5574.txt|.|60|.|WET5243.txt|.|13|.|WET5128.txt|.|70|.|WET3198.txt|.|32|.|WET4913.txt|.|22|.|WET3863.txt|.|207|.|WET2040.txt|.|16|.|WET2570.txt|.|16|.|WET3854.txt|.|151|.|WET5142.txt|.|66|.|WET5460.txt|.|13|.|WET1377.txt|.|86|.|WET6199.txt|.|5|.|WET2839.txt|.|92|.|WET2940.txt|.|12|.|WET1546.txt|.|22|.|WET5783.txt|.|19|.|WET5537.txt|.|27|.|WET1381.txt|.|52|.|WET3606.txt|.|20|.|WET2462.txt|.|9|.|WET5601.txt|.|15|.|WET5785.txt|.|55|.|WET1852.txt|.|16
+pink|.|WET1135.txt|.|20|.|WET1595.txt|.|162|.|WET5926.txt|.|22
+mathematics professor|.|WET171.txt|.|16
+naturel beach|.|WET234.txt|.|36
+mediate|.|WET3939.txt|.|2
+tech forum|.|WET1227.txt|.|12
+obama|.|WET28.txt|.|238|.|WET3052.txt|.|22|.|WET2676.txt|.|81
+cycle|.|WET391.txt|.|3|.|WET505.txt|.|48
+mac|.|WET4522.txt|.|6|.|WET3294.txt|.|3|.|WET413.txt|.|216|.|WET3781.txt|.|8|.|WET4608.txt|.|8|.|WET1913.txt|.|5|.|WET2548.txt|.|6|.|WET414.txt|.|128|.|WET4920.txt|.|10|.|WET1697.txt|.|23|.|WET6031.txt|.|13|.|WET3451.txt|.|18|.|WET1858.txt|.|28|.|WET3867.txt|.|7|.|WET6274.txt|.|8|.|WET4155.txt|.|254|.|WET3215.txt|.|4|.|WET6032.txt|.|80|.|WET3024.txt|.|87|.|WET1792.txt|.|62|.|WET2292.txt|.|32|.|WET3351.txt|.|6|.|WET1055.txt|.|34|.|WET5444.txt|.|14|.|WET3312.txt|.|3|.|WET178.txt|.|4|.|WET615.txt|.|49|.|WET1166.txt|.|55|.|WET3293.txt|.|15|.|WET2091.txt|.|2|.|WET988.txt|.|2
+pm video|.|WET4209.txt|.|42
+bhl collections|.|WET3841.txt|.|256
+woodworking|.|WET4348.txt|.|25|.|WET606.txt|.|56
+careers at npr|.|WET6254.txt|.|22|.|WET2521.txt|.|20
+whytheluckystiff certified|.|WET1126.txt|.|59
+posting comments|.|WET5348.txt|.|10
+kentucky|.|WET5770.txt|.|134|.|WET5769.txt|.|153|.|WET553.txt|.|65|.|WET5147.txt|.|13|.|WET2029.txt|.|206|.|WET5524.txt|.|16
+weddings signature|.|WET234.txt|.|18
+baked dubbs|.|WET446.txt|.|19
+violence|.|WET2758.txt|.|19|.|WET2524.txt|.|26
+monday|.|WET2773.txt|.|1030|.|WET4530.txt|.|21
+gothic|.|WET4122.txt|.|54
+overstock coupon|.|WET128.txt|.|8
+alibris|.|WET4892.txt|.|157
+forum for dogs|.|WET2639.txt|.|19
+topics|.|WET2328.txt|.|9|.|WET4858.txt|.|43|.|WET5541.txt|.|41|.|WET5709.txt|.|12|.|WET5162.txt|.|16|.|WET1860.txt|.|14|.|WET4347.txt|.|27|.|WET4148.txt|.|11|.|WET606.txt|.|32|.|WET5368.txt|.|10|.|WET5738.txt|.|28|.|WET1238.txt|.|62|.|WET1471.txt|.|9
+economy car|.|WET5465.txt|.|87
+answer answered|.|WET628.txt|.|21|.|WET340.txt|.|20|.|WET4532.txt|.|15
+por blueye|.|WET3979.txt|.|7
+weddingslocal photoslocal vendors|.|WET3267.txt|.|20
+bulan yang|.|WET4368.txt|.|12
+acne|.|WET1116.txt|.|51
+stand your ground|.|WET2093.txt|.|22
+phresh baked|.|WET446.txt|.|19
+lf|.|WET5005.txt|.|49
+admissions consulting|.|WET453.txt|.|5
+negra|.|WET509.txt|.|50
+four seasons|.|WET3863.txt|.|113
+quantity discountsparty decor|.|WET1628.txt|.|10
+mail|.|WET3329.txt|.|13|.|WET5348.txt|.|2|.|WET3057.txt|.|47|.|WET524.txt|.|6|.|WET3529.txt|.|1|.|WET6197.txt|.|6|.|WET2076.txt|.|3|.|WET5409.txt|.|29
+lq|.|WET3660.txt|.|41|.|WET5996.txt|.|102
+npr extra blog|.|WET6254.txt|.|22|.|WET2521.txt|.|20
+dogs cats and humans|.|WET2639.txt|.|19
+networking|.|WET2016.txt|.|2|.|WET941.txt|.|8|.|WET3334.txt|.|3|.|WET5503.txt|.|3|.|WET5756.txt|.|5|.|WET6218.txt|.|10|.|WET4913.txt|.|4|.|WET676.txt|.|9|.|WET5451.txt|.|2|.|WET3867.txt|.|9|.|WET123.txt|.|3|.|WET4367.txt|.|3|.|WET4499.txt|.|3
+british|.|WET5122.txt|.|26|.|WET1370.txt|.|30|.|WET1371.txt|.|26|.|WET6149.txt|.|4|.|WET280.txt|.|23
+jimmy beans|.|WET3650.txt|.|43
+lalu|.|WET4368.txt|.|97
+pie|.|WET27.txt|.|64
+ask different|.|WET45.txt|.|68|.|WET3792.txt|.|37|.|WET3791.txt|.|33
+clarion|.|WET1494.txt|.|18
+alibris for libraries|.|WET4892.txt|.|14
+atau mengakses|.|WET22.txt|.|3
+geographic|.|WET4193.txt|.|57
+marie claire|.|WET366.txt|.|8
+entwickler|.|WET988.txt|.|11
+horoskop|.|WET5202.txt|.|23
+macbook|.|WET4155.txt|.|79
+publication|.|WET4296.txt|.|108|.|WET553.txt|.|70|.|WET3841.txt|.|393|.|WET1156.txt|.|23
+sempre|.|WET3448.txt|.|64
+function|.|WET3464.txt|.|26|.|WET5268.txt|.|51|.|WET5603.txt|.|10
+cue cube|.|WET3992.txt|.|6
+polyak|.|WET361.txt|.|12
+different|.|WET45.txt|.|69|.|WET3792.txt|.|37|.|WET3791.txt|.|35
+las|.|WET2226.txt|.|157|.|WET4673.txt|.|25|.|WET5264.txt|.|22|.|WET1741.txt|.|88|.|WET1107.txt|.|61|.|WET3405.txt|.|41|.|WET5963.txt|.|436|.|WET4937.txt|.|165|.|WET4316.txt|.|65|.|WET1563.txt|.|27|.|WET5488.txt|.|60|.|WET4257.txt|.|28|.|WET5481.txt|.|80|.|WET2348.txt|.|16|.|WET4093.txt|.|58|.|WET2225.txt|.|492|.|WET3211.txt|.|42|.|WET3229.txt|.|474|.|WET5964.txt|.|105|.|WET2051.txt|.|24|.|WET324.txt|.|6|.|WET3979.txt|.|82|.|WET2274.txt|.|85
+quick overview|.|WET647.txt|.|4|.|WET4667.txt|.|11|.|WET863.txt|.|11|.|WET545.txt|.|5|.|WET4387.txt|.|11|.|WET859.txt|.|3|.|WET4543.txt|.|2|.|WET4388.txt|.|5|.|WET63.txt|.|5|.|WET243.txt|.|5|.|WET792.txt|.|11|.|WET3486.txt|.|5|.|WET4642.txt|.|2|.|WET646.txt|.|11|.|WET630.txt|.|6|.|WET4787.txt|.|6|.|WET4532.txt|.|11|.|WET4668.txt|.|4|.|WET3791.txt|.|5|.|WET4722.txt|.|4|.|WET629.txt|.|11|.|WET628.txt|.|11|.|WET3792.txt|.|6|.|WET1041.txt|.|9|.|WET3885.txt|.|5|.|WET4083.txt|.|8|.|WET191.txt|.|2|.|WET4193.txt|.|9|.|WET3842.txt|.|2|.|WET3462.txt|.|3|.|WET899.txt|.|6|.|WET45.txt|.|10|.|WET864.txt|.|3|.|WET4601.txt|.|10|.|WET3454.txt|.|3|.|WET331.txt|.|2|.|WET340.txt|.|7|.|WET4410.txt|.|5|.|WET4507.txt|.|3|.|WET4369.txt|.|11|.|WET4687.txt|.|8|.|WET4529.txt|.|3|.|WET4817.txt|.|5
+level|.|WET4492.txt|.|4|.|WET306.txt|.|7|.|WET2955.txt|.|21|.|WET6310.txt|.|2|.|WET5805.txt|.|7
+coins|.|WET1186.txt|.|32|.|WET4939.txt|.|34|.|WET6312.txt|.|6
+swan|.|WET4896.txt|.|21
+acoustic|.|WET2909.txt|.|47
+praia|.|WET509.txt|.|50
+geiger|.|WET5944.txt|.|66|.|WET2208.txt|.|32
+experience classes|.|WET3735.txt|.|20
+couples|.|WET233.txt|.|148|.|WET234.txt|.|233|.|WET1162.txt|.|33|.|WET3980.txt|.|268|.|WET3981.txt|.|94|.|WET1560.txt|.|32
+admission|.|WET4789.txt|.|94|.|WET5106.txt|.|31
+christmas|.|WET5235.txt|.|283|.|WET5534.txt|.|118|.|WET1824.txt|.|193|.|WET3993.txt|.|14|.|WET1629.txt|.|17|.|WET2432.txt|.|90|.|WET2592.txt|.|83|.|WET1483.txt|.|254
+read the book|.|WET810.txt|.|3
+twittercompartir|.|WET4471.txt|.|5
+npr press room|.|WET2521.txt|.|11
+tutor|.|WET453.txt|.|10
+entry|.|WET3862.txt|.|20
+professor|.|WET4015.txt|.|167|.|WET171.txt|.|312|.|WET575.txt|.|23
+entries|.|WET3660.txt|.|22|.|WET2556.txt|.|11|.|WET4853.txt|.|22|.|WET605.txt|.|62|.|WET3742.txt|.|51|.|WET5902.txt|.|182|.|WET3136.txt|.|62|.|WET606.txt|.|21
+na|.|WET3418.txt|.|11|.|WET1027.txt|.|52|.|WET5824.txt|.|32|.|WET5202.txt|.|54|.|WET1847.txt|.|58|.|WET241.txt|.|28|.|WET588.txt|.|27|.|WET4391.txt|.|28
+fwc|.|WET4417.txt|.|25
+readership|.|WET605.txt|.|110|.|WET4347.txt|.|110|.|WET606.txt|.|70
+photos videos photos videos|.|WET4232.txt|.|13
+races|.|WET2028.txt|.|43|.|WET3072.txt|.|6
+tribute held|.|WET3863.txt|.|89
+stocking stuffers|.|WET5235.txt|.|20
+franklin|.|WET4122.txt|.|12|.|WET2421.txt|.|10
+present|.|WET1946.txt|.|76|.|WET746.txt|.|57|.|WET4977.txt|.|19
+twittershare to facebookshare|.|WET4012.txt|.|41|.|WET462.txt|.|83
+gift subscription|.|WET4453.txt|.|22|.|WET2590.txt|.|58
+full article|.|WET2768.txt|.|40
+tongues system|.|WET4541.txt|.|13
+code|.|WET6007.txt|.|90|.|WET2269.txt|.|73|.|WET5508.txt|.|100|.|WET2122.txt|.|6|.|WET782.txt|.|9|.|WET6305.txt|.|12|.|WET3649.txt|.|63|.|WET5976.txt|.|27|.|WET2238.txt|.|56|.|WET479.txt|.|9|.|WET1952.txt|.|44|.|WET1812.txt|.|716|.|WET5307.txt|.|26|.|WET1411.txt|.|17|.|WET6008.txt|.|119
+nu|.|WET299.txt|.|127
+mapper|.|WET3268.txt|.|30|.|WET3267.txt|.|72
+mec|.|WET3329.txt|.|12
+bali|.|WET3822.txt|.|109|.|WET78.txt|.|47
+accessible mode|.|WET2370.txt|.|4
+credits|.|WET1570.txt|.|11|.|WET4789.txt|.|70
+catawba collegecatawba college|.|WET171.txt|.|77
+men|.|WET365.txt|.|1|.|WET3092.txt|.|16|.|WET515.txt|.|31|.|WET4520.txt|.|18|.|WET5574.txt|.|60|.|WET1381.txt|.|48|.|WET1297.txt|.|7|.|WET3198.txt|.|36|.|WET2180.txt|.|13|.|WET2161.txt|.|143|.|WET6063.txt|.|20|.|WET2462.txt|.|10|.|WET3179.txt|.|12|.|WET5902.txt|.|120|.|WET3093.txt|.|12|.|WET2346.txt|.|16|.|WET6200.txt|.|32|.|WET878.txt|.|13|.|WET1852.txt|.|15|.|WET5274.txt|.|18|.|WET125.txt|.|27
+password remember|.|WET5348.txt|.|10
+friday|.|WET4530.txt|.|20|.|WET670.txt|.|66
+consumers|.|WET4902.txt|.|10
+render|.|WET3450.txt|.|2|.|WET5980.txt|.|2|.|WET2046.txt|.|3|.|WET3861.txt|.|1|.|WET4608.txt|.|2|.|WET5621.txt|.|2|.|WET6171.txt|.|7|.|WET2429.txt|.|11|.|WET5082.txt|.|2|.|WET2545.txt|.|2|.|WET5148.txt|.|3|.|WET573.txt|.|4|.|WET49.txt|.|1|.|WET5142.txt|.|2|.|WET194.txt|.|2|.|WET2036.txt|.|1|.|WET4032.txt|.|2|.|WET2564.txt|.|2|.|WET3060.txt|.|2
+universal|.|WET3186.txt|.|11|.|WET1235.txt|.|15|.|WET2298.txt|.|5
+children clothing|.|WET5235.txt|.|20
+cards holiday|.|WET4869.txt|.|8
+equipment buying guide|.|WET385.txt|.|4
+dollarjpy|.|WET1628.txt|.|20
+comments|.|WET1676.txt|.|13|.|WET1781.txt|.|24|.|WET1531.txt|.|56|.|WET1794.txt|.|185|.|WET790.txt|.|42|.|WET2489.txt|.|26|.|WET3926.txt|.|8|.|WET3591.txt|.|197|.|WET2935.txt|.|24|.|WET2392.txt|.|24|.|WET129.txt|.|28|.|WET3946.txt|.|22|.|WET4389.txt|.|68|.|WET107.txt|.|42|.|WET3849.txt|.|88|.|WET3333.txt|.|21|.|WET3332.txt|.|33|.|WET3040.txt|.|54|.|WET2943.txt|.|97|.|WET824.txt|.|19|.|WET1629.txt|.|186|.|WET5713.txt|.|6|.|WET112.txt|.|10|.|WET4819.txt|.|6|.|WET3054.txt|.|174|.|WET3753.txt|.|32|.|WET4907.txt|.|65|.|WET2682.txt|.|35|.|WET87.txt|.|28|.|WET4373.txt|.|49|.|WET15.txt|.|55|.|WET2719.txt|.|45|.|WET2241.txt|.|9|.|WET5082.txt|.|27|.|WET5348.txt|.|32|.|WET3957.txt|.|41|.|WET4610.txt|.|10|.|WET3051.txt|.|74|.|WET4395.txt|.|9|.|WET5192.txt|.|22
+os|.|WET4522.txt|.|3|.|WET3294.txt|.|15|.|WET413.txt|.|120|.|WET3781.txt|.|12|.|WET4608.txt|.|5|.|WET1913.txt|.|4|.|WET2548.txt|.|2|.|WET2420.txt|.|27|.|WET414.txt|.|72|.|WET1697.txt|.|19|.|WET6031.txt|.|17|.|WET3451.txt|.|16|.|WET1858.txt|.|39|.|WET3867.txt|.|5|.|WET6274.txt|.|8|.|WET3964.txt|.|25|.|WET4155.txt|.|144|.|WET3215.txt|.|6|.|WET2292.txt|.|16|.|WET3351.txt|.|4|.|WET1055.txt|.|24|.|WET5444.txt|.|9|.|WET3312.txt|.|3|.|WET178.txt|.|2|.|WET615.txt|.|33|.|WET3293.txt|.|14|.|WET940.txt|.|17|.|WET2091.txt|.|2|.|WET6030.txt|.|96|.|WET988.txt|.|2
+apr may jun|.|WET3236.txt|.|18
+kowaliski|.|WET4682.txt|.|59
+doctor|.|WET1996.txt|.|101|.|WET2336.txt|.|33|.|WET1877.txt|.|76|.|WET5736.txt|.|80|.|WET3693.txt|.|38|.|WET1474.txt|.|24|.|WET4180.txt|.|36|.|WET5617.txt|.|37|.|WET788.txt|.|33|.|WET6079.txt|.|34|.|WET4055.txt|.|47|.|WET4159.txt|.|37|.|WET4047.txt|.|71|.|WET789.txt|.|33|.|WET2248.txt|.|86
+fico scores|.|WET371.txt|.|6
+hall of fame|.|WET1939.txt|.|18
+osgi|.|WET1858.txt|.|14
+reservations|.|WET2068.txt|.|113
+pe|.|WET299.txt|.|103
+oxfam gb|.|WET6312.txt|.|6
+pm|.|WET4234.txt|.|37|.|WET2676.txt|.|213|.|WET29.txt|.|30|.|WET540.txt|.|95|.|WET808.txt|.|193|.|WET1889.txt|.|393|.|WET206.txt|.|73|.|WET3234.txt|.|16|.|WET4498.txt|.|25|.|WET186.txt|.|13|.|WET1879.txt|.|100|.|WET380.txt|.|356|.|WET4287.txt|.|1194|.|WET3953.txt|.|116|.|WET2178.txt|.|59|.|WET196.txt|.|100|.|WET1860.txt|.|77|.|WET674.txt|.|65|.|WET6214.txt|.|117|.|WET4147.txt|.|73|.|WET399.txt|.|54|.|WET2600.txt|.|202|.|WET4422.txt|.|46|.|WET958.txt|.|49|.|WET2927.txt|.|308|.|WET3793.txt|.|92|.|WET3382.txt|.|358|.|WET4183.txt|.|25|.|WET1272.txt|.|139|.|WET5573.txt|.|50|.|WET5530.txt|.|51|.|WET146.txt|.|82|.|WET5009.txt|.|108|.|WET6124.txt|.|117|.|WET1602.txt|.|135|.|WET4725.txt|.|48|.|WET6115.txt|.|32|.|WET34.txt|.|103|.|WET3177.txt|.|61|.|WET2655.txt|.|91|.|WET4302.txt|.|39|.|WET2036.txt|.|157|.|WET112.txt|.|127|.|WET5385.txt|.|45|.|WET26.txt|.|36|.|WET682.txt|.|30|.|WET28.txt|.|463|.|WET4131.txt|.|67|.|WET5581.txt|.|42|.|WET4127.txt|.|64|.|WET4209.txt|.|138|.|WET5349.txt|.|150|.|WET3081.txt|.|355|.|WET2667.txt|.|77|.|WET401.txt|.|97|.|WET5578.txt|.|73|.|WET4128.txt|.|78|.|WET150.txt|.|139|.|WET3952.txt|.|242|.|WET5057.txt|.|96|.|WET205.txt|.|59|.|WET4075.txt|.|54|.|WET1049.txt|.|35|.|WET2928.txt|.|396|.|WET5350.txt|.|152|.|WET3381.txt|.|131|.|WET3050.txt|.|9|.|WET373.txt|.|53|.|WET4448.txt|.|35|.|WET5063.txt|.|88|.|WET3101.txt|.|104|.|WET391.txt|.|90|.|WET2914.txt|.|76|.|WET1081.txt|.|31|.|WET1689.txt|.|31|.|WET4158.txt|.|194|.|WET2831.txt|.|66|.|WET2840.txt|.|34|.|WET775.txt|.|10|.|WET561.txt|.|32|.|WET544.txt|.|679|.|WET3575.txt|.|1208|.|WET501.txt|.|82|.|WET969.txt|.|53|.|WET756.txt|.|71|.|WET3451.txt|.|40|.|WET367.txt|.|191|.|WET1614.txt|.|32|.|WET4139.txt|.|47|.|WET4173.txt|.|166|.|WET606.txt|.|295|.|WET5435.txt|.|97|.|WET459.txt|.|20|.|WET2898.txt|.|49|.|WET4348.txt|.|92|.|WET1601.txt|.|164|.|WET3105.txt|.|60|.|WET3577.txt|.|1637
+invention|.|WET5686.txt|.|208|.|WET1946.txt|.|154|.|WET746.txt|.|69
+forms|.|WET5968.txt|.|10|.|WET3417.txt|.|63|.|WET2231.txt|.|11
+books find rare|.|WET4892.txt|.|7
+online auction|.|WET555.txt|.|2|.|WET3303.txt|.|4|.|WET4299.txt|.|4
+cloth diaper|.|WET3050.txt|.|119
+east oahu|.|WET5878.txt|.|7
+mobile phones|.|WET5235.txt|.|20
+pornhub|.|WET2682.txt|.|110
+witnessing|.|WET4449.txt|.|2|.|WET171.txt|.|2|.|WET1657.txt|.|2|.|WET3776.txt|.|1
+geoff|.|WET943.txt|.|48
+freecode|.|WET1858.txt|.|28
+acts|.|WET4364.txt|.|3
+higher quality|.|WET2590.txt|.|18
+bibles|.|WET1146.txt|.|278|.|WET5520.txt|.|243|.|WET5521.txt|.|288
+beautiful|.|WET954.txt|.|18|.|WET6311.txt|.|29
+vendidos buenos|.|WET829.txt|.|6
+jan|.|WET3377.txt|.|69|.|WET4600.txt|.|36|.|WET2864.txt|.|46|.|WET3398.txt|.|143|.|WET540.txt|.|54|.|WET3760.txt|.|58|.|WET446.txt|.|87|.|WET1656.txt|.|55|.|WET2467.txt|.|36|.|WET2791.txt|.|46|.|WET340.txt|.|78|.|WET807.txt|.|116|.|WET4932.txt|.|92
+saroyan|.|WET3553.txt|.|19
+jam|.|WET1618.txt|.|87|.|WET5366.txt|.|110
+scent|.|WET4696.txt|.|13
+lapd|.|WET5959.txt|.|27
+no hay|.|WET3979.txt|.|7
+stack exchange|.|WET4667.txt|.|44|.|WET545.txt|.|20|.|WET4387.txt|.|166|.|WET3939.txt|.|25|.|WET243.txt|.|30|.|WET792.txt|.|66|.|WET3486.txt|.|27|.|WET646.txt|.|136|.|WET3456.txt|.|7|.|WET630.txt|.|44|.|WET4787.txt|.|37|.|WET4532.txt|.|72|.|WET629.txt|.|70|.|WET628.txt|.|76|.|WET3809.txt|.|12|.|WET3792.txt|.|24|.|WET1041.txt|.|58|.|WET1067.txt|.|43|.|WET3885.txt|.|30|.|WET4083.txt|.|55|.|WET946.txt|.|55|.|WET3462.txt|.|21|.|WET899.txt|.|37|.|WET45.txt|.|41|.|WET4601.txt|.|40|.|WET340.txt|.|48|.|WET4410.txt|.|32|.|WET4369.txt|.|72|.|WET4687.txt|.|50|.|WET36.txt|.|43|.|WET4817.txt|.|30
+cache|.|WET1904.txt|.|9|.|WET1223.txt|.|31
+winter lace|.|WET5321.txt|.|10
+jacuzzi|.|WET234.txt|.|19
+linking policy|.|WET5741.txt|.|1
+issues and global|.|WET2773.txt|.|372
+crochet pattern|.|WET1149.txt|.|8
+jimmy beans wool|.|WET3650.txt|.|36
+picks|.|WET5770.txt|.|68|.|WET1669.txt|.|43|.|WET2029.txt|.|102|.|WET4267.txt|.|88|.|WET1590.txt|.|65|.|WET2217.txt|.|32|.|WET5340.txt|.|36|.|WET5710.txt|.|67
+diseases|.|WET3514.txt|.|29|.|WET3987.txt|.|22|.|WET5738.txt|.|20
+collegecatawba|.|WET171.txt|.|108
+username password|.|WET5348.txt|.|10|.|WET1600.txt|.|9
+inspiration boards|.|WET3246.txt|.|12
+dress patterns|.|WET5141.txt|.|11
+rd|.|WET2945.txt|.|26
+rf|.|WET1946.txt|.|33
+rendered|.|WET3054.txt|.|3|.|WET2792.txt|.|3|.|WET3702.txt|.|1|.|WET992.txt|.|1|.|WET3942.txt|.|3|.|WET158.txt|.|2|.|WET5009.txt|.|1|.|WET2920.txt|.|2|.|WET5842.txt|.|2|.|WET4004.txt|.|2|.|WET2586.txt|.|2|.|WET4293.txt|.|1|.|WET4080.txt|.|2|.|WET752.txt|.|1|.|WET281.txt|.|2|.|WET3062.txt|.|2|.|WET3590.txt|.|2
+meta|.|WET449.txt|.|24|.|WET934.txt|.|3|.|WET4330.txt|.|18|.|WET646.txt|.|107|.|WET4601.txt|.|32|.|WET4387.txt|.|122|.|WET4388.txt|.|35
+animal|.|WET2641.txt|.|2|.|WET1501.txt|.|6|.|WET6145.txt|.|2|.|WET1171.txt|.|2|.|WET4968.txt|.|1|.|WET6119.txt|.|2|.|WET4526.txt|.|2|.|WET20.txt|.|3|.|WET362.txt|.|40|.|WET788.txt|.|66|.|WET37.txt|.|32|.|WET372.txt|.|2|.|WET5481.txt|.|2|.|WET1597.txt|.|5|.|WET3943.txt|.|2|.|WET4633.txt|.|2|.|WET2536.txt|.|1|.|WET1668.txt|.|7|.|WET1722.txt|.|2|.|WET3791.txt|.|6|.|WET1321.txt|.|2|.|WET196.txt|.|2|.|WET2338.txt|.|1|.|WET135.txt|.|4|.|WET933.txt|.|2|.|WET232.txt|.|2|.|WET4483.txt|.|1|.|WET520.txt|.|1|.|WET786.txt|.|2|.|WET4749.txt|.|5|.|WET4025.txt|.|2|.|WET2534.txt|.|15|.|WET4106.txt|.|40|.|WET4785.txt|.|2|.|WET5321.txt|.|4|.|WET1838.txt|.|3|.|WET847.txt|.|1|.|WET4149.txt|.|3|.|WET2025.txt|.|1|.|WET4090.txt|.|1|.|WET4530.txt|.|60|.|WET4319.txt|.|1|.|WET2476.txt|.|12|.|WET626.txt|.|1|.|WET1494.txt|.|2|.|WET2645.txt|.|2|.|WET3680.txt|.|1|.|WET3939.txt|.|1|.|WET3185.txt|.|8|.|WET1320.txt|.|2|.|WET3849.txt|.|17|.|WET1637.txt|.|4|.|WET1028.txt|.|1|.|WET5214.txt|.|7|.|WET4417.txt|.|1|.|WET4893.txt|.|33|.|WET3194.txt|.|3|.|WET5363.txt|.|1|.|WET814.txt|.|1|.|WET1711.txt|.|2|.|WET1496.txt|.|2|.|WET3452.txt|.|2|.|WET5901.txt|.|2|.|WET5178.txt|.|14|.|WET5833.txt|.|9|.|WET5699.txt|.|3|.|WET1195.txt|.|2|.|WET1630.txt|.|2|.|WET667.txt|.|3|.|WET5312.txt|.|2|.|WET4114.txt|.|1|.|WET3742.txt|.|1|.|WET3992.txt|.|2|.|WET3785.txt|.|77|.|WET4298.txt|.|1|.|WET789.txt|.|66|.|WET3081.txt|.|2|.|WET4306.txt|.|2|.|WET3756.txt|.|1|.|WET3942.txt|.|3|.|WET3790.txt|.|18|.|WET5243.txt|.|1|.|WET1790.txt|.|1|.|WET2766.txt|.|1|.|WET4863.txt|.|4|.|WET2545.txt|.|5|.|WET56.txt|.|2|.|WET4545.txt|.|1|.|WET1006.txt|.|4|.|WET4977.txt|.|40|.|WET3499.txt|.|1|.|WET787.txt|.|18|.|WET564.txt|.|1|.|WET2991.txt|.|1|.|WET3665.txt|.|2|.|WET5253.txt|.|1|.|WET195.txt|.|1|.|WET4784.txt|.|2|.|WET1649.txt|.|3|.|WET3271.txt|.|2|.|WET5020.txt|.|1|.|WET2630.txt|.|3|.|WET251.txt|.|2|.|WET215.txt|.|2|.|WET391.txt|.|2|.|WET2914.txt|.|2|.|WET2091.txt|.|1|.|WET3746.txt|.|1|.|WET1997.txt|.|2|.|WET5940.txt|.|3|.|WET4454.txt|.|1|.|WET6263.txt|.|2|.|WET4529.txt|.|36|.|WET521.txt|.|1|.|WET706.txt|.|4|.|WET3786.txt|.|26|.|WET4043.txt|.|2|.|WET1213.txt|.|2|.|WET1108.txt|.|3|.|WET1565.txt|.|1|.|WET2859.txt|.|3|.|WET1727.txt|.|2|.|WET790.txt|.|13|.|WET1273.txt|.|2|.|WET802.txt|.|2|.|WET5469.txt|.|2|.|WET3833.txt|.|10|.|WET5345.txt|.|3|.|WET5744.txt|.|12|.|WET1283.txt|.|2|.|WET4709.txt|.|2|.|WET5672.txt|.|3|.|WET1328.txt|.|43|.|WET828.txt|.|16|.|WET623.txt|.|1|.|WET1309.txt|.|2|.|WET6266.txt|.|1|.|WET2635.txt|.|20|.|WET5529.txt|.|3|.|WET5177.txt|.|8|.|WET3385.txt|.|1|.|WET1877.txt|.|2|.|WET3626.txt|.|1|.|WET6180.txt|.|2|.|WET2541.txt|.|13|.|WET3007.txt|.|2|.|WET2885.txt|.|2|.|WET4070.txt|.|1|.|WET4431.txt|.|2|.|WET1723.txt|.|2|.|WET1106.txt|.|2|.|WET3547.txt|.|2|.|WET2586.txt|.|1|.|WET4860.txt|.|2|.|WET4237.txt|.|2|.|WET5958.txt|.|1|.|WET2298.txt|.|2|.|WET1313.txt|.|2|.|WET813.txt|.|1
+reality|.|WET1746.txt|.|20|.|WET5141.txt|.|22|.|WET401.txt|.|14
+bridge|.|WET103.txt|.|14
+device|.|WET5686.txt|.|168|.|WET1574.txt|.|5|.|WET2091.txt|.|2|.|WET3599.txt|.|1|.|WET2154.txt|.|24|.|WET1896.txt|.|11
+hasbro|.|WET2888.txt|.|63
+functional|.|WET4055.txt|.|42
+renderer|.|WET4402.txt|.|1|.|WET18.txt|.|2
+layl in the words|.|WET3534.txt|.|11
+united states|.|WET583.txt|.|30|.|WET1561.txt|.|18|.|WET1829.txt|.|24|.|WET4870.txt|.|9|.|WET412.txt|.|9|.|WET5189.txt|.|34|.|WET3612.txt|.|6|.|WET2986.txt|.|119|.|WET324.txt|.|30|.|WET4328.txt|.|17|.|WET3841.txt|.|399|.|WET2231.txt|.|25|.|WET1447.txt|.|66|.|WET916.txt|.|42|.|WET5775.txt|.|5|.|WET3143.txt|.|4|.|WET2011.txt|.|49|.|WET3906.txt|.|15|.|WET3414.txt|.|31|.|WET3173.txt|.|15|.|WET4716.txt|.|18|.|WET5262.txt|.|49|.|WET3649.txt|.|31|.|WET2554.txt|.|48|.|WET5749.txt|.|36|.|WET2550.txt|.|25|.|WET3653.txt|.|29|.|WET4467.txt|.|15|.|WET6290.txt|.|35|.|WET4653.txt|.|42|.|WET170.txt|.|24|.|WET2068.txt|.|128|.|WET861.txt|.|37|.|WET3945.txt|.|65|.|WET5564.txt|.|41|.|WET577.txt|.|389
+moncler|.|WET2773.txt|.|470
+pop|.|WET6254.txt|.|44|.|WET2521.txt|.|38|.|WET1858.txt|.|66|.|WET1515.txt|.|13|.|WET1535.txt|.|17|.|WET5728.txt|.|12|.|WET2035.txt|.|10
+envoy|.|WET5425.txt|.|29
+activity report|.|WET1663.txt|.|24
+geoff gasior|.|WET943.txt|.|48
+latest|.|WET4000.txt|.|15|.|WET1383.txt|.|56|.|WET1883.txt|.|50|.|WET260.txt|.|10|.|WET4230.txt|.|18|.|WET5602.txt|.|16|.|WET4764.txt|.|25|.|WET1602.txt|.|24|.|WET4346.txt|.|17|.|WET4981.txt|.|59|.|WET3190.txt|.|17|.|WET6053.txt|.|22|.|WET1019.txt|.|21|.|WET4867.txt|.|20|.|WET5579.txt|.|58|.|WET1508.txt|.|19|.|WET1229.txt|.|23|.|WET4347.txt|.|47|.|WET4466.txt|.|19|.|WET3487.txt|.|22|.|WET5368.txt|.|23|.|WET5937.txt|.|8|.|WET2179.txt|.|28|.|WET5171.txt|.|22|.|WET605.txt|.|47|.|WET3609.txt|.|12|.|WET5622.txt|.|44|.|WET255.txt|.|22|.|WET1601.txt|.|23|.|WET5118.txt|.|28|.|WET2406.txt|.|263|.|WET5936.txt|.|15
+karma|.|WET4131.txt|.|36|.|WET2290.txt|.|36|.|WET6028.txt|.|36|.|WET4130.txt|.|112
+stat|.|WET98.txt|.|12
+expression|.|WET772.txt|.|13
+criticwire sundance|.|WET5827.txt|.|4
+information security|.|WET4597.txt|.|45|.|WET859.txt|.|18
+kurt geiger|.|WET5944.txt|.|63|.|WET2208.txt|.|30
+corsair hydro|.|WET2524.txt|.|6
+photo life|.|WET118.txt|.|12
+camper van|.|WET4237.txt|.|11
+stay|.|WET1454.txt|.|43|.|WET148.txt|.|58|.|WET1595.txt|.|87
+transportation|.|WET3779.txt|.|52|.|WET2773.txt|.|376|.|WET3581.txt|.|39|.|WET2165.txt|.|42
+td|.|WET3646.txt|.|20
+stocks trading|.|WET3079.txt|.|11|.|WET3081.txt|.|2|.|WET3080.txt|.|11
+untuk|.|WET65.txt|.|230|.|WET3490.txt|.|72
+gadgets|.|WET4680.txt|.|44|.|WET3018.txt|.|21|.|WET1600.txt|.|4
+dilemma|.|WET2508.txt|.|2|.|WET4107.txt|.|2|.|WET719.txt|.|2|.|WET4226.txt|.|2|.|WET4705.txt|.|2|.|WET5427.txt|.|2|.|WET2476.txt|.|3|.|WET3046.txt|.|2|.|WET4779.txt|.|2|.|WET178.txt|.|2|.|WET4284.txt|.|2|.|WET4025.txt|.|2|.|WET5691.txt|.|2|.|WET5724.txt|.|2
+foucault|.|WET4364.txt|.|110
+rocchio|.|WET1028.txt|.|2
+sandals vince|.|WET5944.txt|.|16
+spencer|.|WET4100.txt|.|8
+harlequin books|.|WET4065.txt|.|12
+voting|.|WET719.txt|.|1|.|WET1331.txt|.|1|.|WET2552.txt|.|2|.|WET3366.txt|.|2|.|WET1615.txt|.|1|.|WET3959.txt|.|1|.|WET1819.txt|.|1|.|WET3384.txt|.|1|.|WET778.txt|.|4|.|WET5536.txt|.|2|.|WET5292.txt|.|1|.|WET5375.txt|.|2|.|WET3651.txt|.|1|.|WET1421.txt|.|2|.|WET4977.txt|.|2|.|WET1049.txt|.|2|.|WET3635.txt|.|1|.|WET4707.txt|.|1|.|WET65.txt|.|1|.|WET4767.txt|.|1|.|WET1224.txt|.|2|.|WET5150.txt|.|1|.|WET1020.txt|.|1|.|WET4300.txt|.|1|.|WET2772.txt|.|1|.|WET1489.txt|.|2|.|WET4741.txt|.|1|.|WET1648.txt|.|3|.|WET5192.txt|.|2|.|WET5352.txt|.|1|.|WET4391.txt|.|2|.|WET1603.txt|.|4|.|WET5980.txt|.|1|.|WET5344.txt|.|2|.|WET3875.txt|.|2|.|WET3920.txt|.|3|.|WET3831.txt|.|1|.|WET5459.txt|.|2|.|WET2814.txt|.|1|.|WET121.txt|.|2|.|WET6248.txt|.|3|.|WET5770.txt|.|2|.|WET4953.txt|.|1|.|WET4996.txt|.|1|.|WET4321.txt|.|2|.|WET697.txt|.|2|.|WET1072.txt|.|1|.|WET5894.txt|.|1|.|WET3534.txt|.|1|.|WET5975.txt|.|2|.|WET3724.txt|.|2|.|WET2021.txt|.|3
+briefs|.|WET2346.txt|.|31|.|WET2157.txt|.|28
+blog sports|.|WET3329.txt|.|12
+features|.|WET5547.txt|.|7|.|WET485.txt|.|288|.|WET3257.txt|.|2|.|WET3609.txt|.|30|.|WET2461.txt|.|36|.|WET1372.txt|.|12|.|WET5621.txt|.|11|.|WET3025.txt|.|21|.|WET4753.txt|.|45|.|WET4232.txt|.|107|.|WET4618.txt|.|9|.|WET1391.txt|.|22
+search images|.|WET767.txt|.|3
+file photo|.|WET23.txt|.|5
+continue reading local|.|WET4316.txt|.|9
+lis|.|WET4380.txt|.|47
+present invention|.|WET1946.txt|.|59|.|WET746.txt|.|56
+homes|.|WET2748.txt|.|285|.|WET3342.txt|.|52|.|WET1455.txt|.|35|.|WET172.txt|.|15|.|WET502.txt|.|26|.|WET5760.txt|.|122|.|WET2760.txt|.|38|.|WET2020.txt|.|78|.|WET2749.txt|.|81|.|WET2244.txt|.|13|.|WET4395.txt|.|47|.|WET2019.txt|.|158|.|WET5696.txt|.|21|.|WET5592.txt|.|71|.|WET1856.txt|.|30
+military|.|WET186.txt|.|17|.|WET185.txt|.|110|.|WET6075.txt|.|184
+dynamic|.|WET1792.txt|.|8|.|WET1946.txt|.|14
+trashes props|.|WET4701.txt|.|8
+tdavenport|.|WET1629.txt|.|92
+hay|.|WET3979.txt|.|7
+mastcam|.|WET4366.txt|.|79
+canvas prints|.|WET4869.txt|.|24
+opinionated|.|WET1237.txt|.|1|.|WET5082.txt|.|1
+digital access|.|WET5105.txt|.|54|.|WET2154.txt|.|24
+solutions|.|WET1953.txt|.|25|.|WET3876.txt|.|85
+resolution mastcam|.|WET4366.txt|.|76
+public marks|.|WET3871.txt|.|30|.|WET128.txt|.|24
+seconds add to clock|.|WET1595.txt|.|81
+idf|.|WET325.txt|.|2|.|WET3111.txt|.|2|.|WET3194.txt|.|2|.|WET3646.txt|.|4|.|WET5895.txt|.|2|.|WET5802.txt|.|5
+telephone|.|WET927.txt|.|20
+va|.|WET2948.txt|.|34
+kyocera|.|WET2650.txt|.|117
+shonen jump|.|WET3236.txt|.|37
+system with dynamic|.|WET1946.txt|.|1
+korea|.|WET61.txt|.|19
+discountsparty|.|WET1628.txt|.|10
+questions tags|.|WET45.txt|.|14
+columnists mec sports|.|WET3329.txt|.|12
+shops|.|WET3227.txt|.|32|.|WET5785.txt|.|7|.|WET2932.txt|.|55|.|WET5790.txt|.|16
+playback of the first video|.|WET1946.txt|.|2
+teaching series|.|WET2251.txt|.|40
+christian science|.|WET1581.txt|.|21|.|WET1580.txt|.|23|.|WET5329.txt|.|24
+pathfinder comics|.|WET741.txt|.|7
+year of entry|.|WET3862.txt|.|20
+admin|.|WET6097.txt|.|24|.|WET4896.txt|.|405
+noi|.|WET3448.txt|.|60
+earth elements|.|WET666.txt|.|11
+lipstick|.|WET591.txt|.|84
+wc|.|WET2969.txt|.|16
+real men wear|.|WET515.txt|.|26
+disaster|.|WET191.txt|.|6
+kaye|.|WET829.txt|.|5
+apple|.|WET2294.txt|.|32|.|WET407.txt|.|71|.|WET1171.txt|.|89|.|WET4919.txt|.|145|.|WET4147.txt|.|101|.|WET1600.txt|.|42|.|WET414.txt|.|135|.|WET1602.txt|.|46|.|WET45.txt|.|73|.|WET1400.txt|.|14|.|WET2295.txt|.|69|.|WET2614.txt|.|36|.|WET4155.txt|.|259|.|WET1895.txt|.|52
+false false|.|WET1405.txt|.|6
+catawba|.|WET171.txt|.|1067
+forum topics|.|WET4347.txt|.|27|.|WET606.txt|.|16
+kit|.|WET485.txt|.|150|.|WET6224.txt|.|11|.|WET1503.txt|.|168|.|WET4453.txt|.|22|.|WET3094.txt|.|22|.|WET2073.txt|.|20|.|WET4232.txt|.|51|.|WET3763.txt|.|52
+hiv positive|.|WET4159.txt|.|18
+play on spotify|.|WET2224.txt|.|64
+cell phone plan|.|WET2650.txt|.|520
+month old|.|WET5348.txt|.|10
+display modes|.|WET6021.txt|.|10
+lifestyle|.|WET3389.txt|.|29|.|WET3251.txt|.|32
+mba rankings|.|WET4198.txt|.|60|.|WET453.txt|.|30
+weddingslocal|.|WET3267.txt|.|20
+npr|.|WET6254.txt|.|331|.|WET2521.txt|.|299|.|WET4310.txt|.|16|.|WET2522.txt|.|35|.|WET561.txt|.|7
+fund|.|WET2144.txt|.|39|.|WET1999.txt|.|31|.|WET1508.txt|.|21|.|WET260.txt|.|9
+disney|.|WET5625.txt|.|34|.|WET1654.txt|.|267
+jason|.|WET5350.txt|.|36|.|WET5349.txt|.|39|.|WET5475.txt|.|9|.|WET1601.txt|.|41|.|WET6274.txt|.|106|.|WET1602.txt|.|38
+buenos|.|WET829.txt|.|21
+utcfull|.|WET4366.txt|.|78
+tribute|.|WET3863.txt|.|171
+applications|.|WET628.txt|.|11|.|WET3809.txt|.|3|.|WET4667.txt|.|12|.|WET1041.txt|.|63|.|WET4387.txt|.|11|.|WET4496.txt|.|11|.|WET859.txt|.|3|.|WET4543.txt|.|2|.|WET3022.txt|.|4|.|WET3939.txt|.|4|.|WET3842.txt|.|2|.|WET4295.txt|.|135|.|WET864.txt|.|4|.|WET646.txt|.|11|.|WET4787.txt|.|39|.|WET3454.txt|.|3|.|WET756.txt|.|10|.|WET331.txt|.|2|.|WET568.txt|.|105|.|WET153.txt|.|3|.|WET997.txt|.|76|.|WET4529.txt|.|3
+managed service|.|WET3867.txt|.|1
+play|.|WET1215.txt|.|78|.|WET4465.txt|.|52|.|WET2120.txt|.|28|.|WET4970.txt|.|80|.|WET4765.txt|.|20|.|WET2224.txt|.|97
+hydro|.|WET2524.txt|.|8
+espn|.|WET352.txt|.|25
+web services|.|WET3240.txt|.|9|.|WET1801.txt|.|2|.|WET4258.txt|.|1|.|WET1955.txt|.|2|.|WET4908.txt|.|4|.|WET1235.txt|.|3|.|WET5454.txt|.|3|.|WET4987.txt|.|3|.|WET3733.txt|.|23
+pwsid|.|WET3765.txt|.|4
+plan year|.|WET295.txt|.|89
+homes for sale|.|WET5760.txt|.|55|.|WET2760.txt|.|27|.|WET2020.txt|.|41
+collectionhospitalityresidentialmatsfeatured|.|WET2370.txt|.|4
+tip given in pink|.|WET1595.txt|.|162
+april|.|WET5925.txt|.|40|.|WET2082.txt|.|33|.|WET97.txt|.|46|.|WET4306.txt|.|55|.|WET3188.txt|.|91|.|WET133.txt|.|57|.|WET5755.txt|.|61|.|WET5933.txt|.|37|.|WET1277.txt|.|38|.|WET5773.txt|.|414|.|WET124.txt|.|39|.|WET3198.txt|.|60|.|WET99.txt|.|46|.|WET3040.txt|.|68|.|WET566.txt|.|131|.|WET938.txt|.|21|.|WET956.txt|.|66|.|WET2960.txt|.|87|.|WET3579.txt|.|333|.|WET3049.txt|.|29|.|WET5209.txt|.|25|.|WET959.txt|.|58|.|WET149.txt|.|22|.|WET6164.txt|.|20|.|WET4589.txt|.|67|.|WET6097.txt|.|59|.|WET4309.txt|.|109|.|WET4054.txt|.|28|.|WET357.txt|.|52|.|WET674.txt|.|33|.|WET548.txt|.|38|.|WET3788.txt|.|55|.|WET3303.txt|.|24|.|WET4563.txt|.|45|.|WET118.txt|.|52|.|WET40.txt|.|28|.|WET1808.txt|.|10|.|WET5321.txt|.|240|.|WET105.txt|.|33|.|WET3873.txt|.|57|.|WET2564.txt|.|172|.|WET1442.txt|.|46|.|WET1310.txt|.|85|.|WET6000.txt|.|36|.|WET5903.txt|.|26|.|WET368.txt|.|34|.|WET829.txt|.|51|.|WET4459.txt|.|30|.|WET4874.txt|.|47|.|WET189.txt|.|64|.|WET2948.txt|.|83|.|WET2751.txt|.|43|.|WET3167.txt|.|91|.|WET4708.txt|.|23|.|WET3876.txt|.|43|.|WET5540.txt|.|7|.|WET1339.txt|.|108|.|WET3041.txt|.|43|.|WET967.txt|.|33|.|WET3848.txt|.|38|.|WET509.txt|.|99|.|WET416.txt|.|85|.|WET972.txt|.|23|.|WET2808.txt|.|221|.|WET4402.txt|.|50|.|WET4144.txt|.|33|.|WET781.txt|.|52|.|WET1289.txt|.|37|.|WET458.txt|.|22|.|WET4395.txt|.|42|.|WET843.txt|.|41|.|WET560.txt|.|33
+talklocal|.|WET3267.txt|.|20
+put|.|WET3072.txt|.|8
+ksnt news|.|WET4309.txt|.|26|.|WET566.txt|.|33
+fan|.|WET4704.txt|.|10|.|WET2950.txt|.|120|.|WET5695.txt|.|16|.|WET1967.txt|.|26|.|WET1342.txt|.|43|.|WET3050.txt|.|227|.|WET4124.txt|.|11|.|WET4779.txt|.|11|.|WET401.txt|.|10|.|WET5550.txt|.|31|.|WET1035.txt|.|14|.|WET3035.txt|.|74|.|WET2842.txt|.|44|.|WET3198.txt|.|28|.|WET2927.txt|.|57|.|WET5475.txt|.|8|.|WET6297.txt|.|18|.|WET277.txt|.|20|.|WET2190.txt|.|17|.|WET3828.txt|.|11
+samurai appliance repair|.|WET46.txt|.|66
+webmasters|.|WET4788.txt|.|62
+roller coaster|.|WET463.txt|.|1
+optimization|.|WET6180.txt|.|5
+plan|.|WET1688.txt|.|88|.|WET5137.txt|.|45|.|WET4679.txt|.|38|.|WET2937.txt|.|18|.|WET2650.txt|.|705|.|WET3963.txt|.|65|.|WET295.txt|.|335|.|WET5444.txt|.|10
+dashboard|.|WET652.txt|.|37
+spotlight new|.|WET3733.txt|.|7
+inclusive|.|WET148.txt|.|2
+like show|.|WET3450.txt|.|68|.|WET3417.txt|.|19
+laws|.|WET1198.txt|.|9|.|WET2093.txt|.|16
+races put|.|WET3072.txt|.|6
+linking|.|WET5741.txt|.|1
+za|.|WET1131.txt|.|80|.|WET2822.txt|.|39|.|WET5202.txt|.|117|.|WET3843.txt|.|46
+estoy infectado|.|WET4159.txt|.|14
+quant|.|WET3079.txt|.|46|.|WET3080.txt|.|52
+kansas|.|WET4294.txt|.|19|.|WET3980.txt|.|13|.|WET566.txt|.|88|.|WET5525.txt|.|14|.|WET1470.txt|.|29
+news scanner rumors|.|WET4148.txt|.|11
+rome pas|.|WET939.txt|.|5
+playoff|.|WET5981.txt|.|4
+men wear green|.|WET515.txt|.|20
+sign in to get readership|.|WET605.txt|.|110
+coast|.|WET1513.txt|.|93|.|WET5265.txt|.|93|.|WET648.txt|.|22|.|WET2997.txt|.|9|.|WET5266.txt|.|69|.|WET4723.txt|.|26|.|WET2932.txt|.|100
+filing|.|WET4896.txt|.|147
+books|.|WET5433.txt|.|45|.|WET2052.txt|.|12|.|WET5280.txt|.|53|.|WET1107.txt|.|91|.|WET1528.txt|.|96|.|WET5340.txt|.|30|.|WET4065.txt|.|47|.|WET4892.txt|.|142|.|WET6128.txt|.|73|.|WET2247.txt|.|46|.|WET4857.txt|.|72|.|WET4565.txt|.|22|.|WET270.txt|.|16|.|WET3096.txt|.|250|.|WET72.txt|.|31|.|WET4198.txt|.|89|.|WET1731.txt|.|111|.|WET4545.txt|.|59|.|WET5473.txt|.|157|.|WET452.txt|.|101|.|WET3893.txt|.|91|.|WET1566.txt|.|8|.|WET2520.txt|.|39|.|WET4503.txt|.|7|.|WET4906.txt|.|23|.|WET1122.txt|.|72|.|WET5279.txt|.|95|.|WET1253.txt|.|193|.|WET5797.txt|.|11|.|WET6253.txt|.|54|.|WET4148.txt|.|12|.|WET4567.txt|.|42|.|WET1351.txt|.|62|.|WET879.txt|.|42|.|WET1360.txt|.|55|.|WET3572.txt|.|43|.|WET2543.txt|.|32|.|WET1530.txt|.|65|.|WET1529.txt|.|88|.|WET5521.txt|.|130|.|WET4869.txt|.|49|.|WET5233.txt|.|42|.|WET5101.txt|.|56
+spectrum|.|WET1946.txt|.|5
+mercedes|.|WET3663.txt|.|2
+electronics flowers|.|WET5235.txt|.|20
+mick|.|WET5350.txt|.|36|.|WET5349.txt|.|39|.|WET1601.txt|.|46|.|WET1602.txt|.|38
+stack exchange communities|.|WET4387.txt|.|20
+jimmy|.|WET3650.txt|.|50
+ecuador|.|WET4209.txt|.|21
+sexual|.|WET2524.txt|.|28
+fml photos|.|WET5564.txt|.|8
+wear|.|WET365.txt|.|29|.|WET515.txt|.|27|.|WET2915.txt|.|24|.|WET1703.txt|.|23|.|WET4831.txt|.|9
+overseas agents|.|WET5760.txt|.|6
+teaching|.|WET2251.txt|.|48|.|WET5989.txt|.|31
+overseas|.|WET5760.txt|.|12
+tour help|.|WET3462.txt|.|6|.|WET45.txt|.|20|.|WET4601.txt|.|20|.|WET340.txt|.|14|.|WET4532.txt|.|22|.|WET4369.txt|.|22|.|WET4083.txt|.|16|.|WET629.txt|.|22|.|WET4193.txt|.|18
+wear green|.|WET515.txt|.|20
+collections teaching|.|WET2251.txt|.|20
+props thanks|.|WET4701.txt|.|8
+appliance repair|.|WET3793.txt|.|62|.|WET46.txt|.|138
+facebook|.|WET4374.txt|.|72|.|WET185.txt|.|11|.|WET1277.txt|.|25|.|WET3844.txt|.|37|.|WET5790.txt|.|6|.|WET442.txt|.|27|.|WET1820.txt|.|10|.|WET2900.txt|.|21|.|WET2536.txt|.|11|.|WET4791.txt|.|56|.|WET1075.txt|.|22|.|WET6062.txt|.|42|.|WET3923.txt|.|33|.|WET4258.txt|.|22|.|WET6215.txt|.|26|.|WET4435.txt|.|36|.|WET280.txt|.|22|.|WET1509.txt|.|20|.|WET3050.txt|.|223|.|WET5431.txt|.|15|.|WET5511.txt|.|28|.|WET4504.txt|.|21|.|WET4259.txt|.|18|.|WET4467.txt|.|23|.|WET4742.txt|.|11|.|WET5826.txt|.|16|.|WET361.txt|.|27|.|WET1830.txt|.|15|.|WET1047.txt|.|18|.|WET1021.txt|.|45|.|WET1776.txt|.|27|.|WET3683.txt|.|44|.|WET3786.txt|.|8|.|WET5433.txt|.|17|.|WET3904.txt|.|24|.|WET2239.txt|.|19|.|WET3654.txt|.|13|.|WET4912.txt|.|15|.|WET2477.txt|.|16|.|WET5212.txt|.|11|.|WET1345.txt|.|12|.|WET2718.txt|.|4|.|WET1044.txt|.|56|.|WET4442.txt|.|17|.|WET457.txt|.|12|.|WET2273.txt|.|30|.|WET561.txt|.|14|.|WET455.txt|.|42|.|WET1849.txt|.|10|.|WET1045.txt|.|22|.|WET4680.txt|.|45|.|WET1096.txt|.|60|.|WET4938.txt|.|21|.|WET1097.txt|.|42|.|WET4700.txt|.|13|.|WET4775.txt|.|11|.|WET5673.txt|.|112|.|WET3589.txt|.|12|.|WET4792.txt|.|56|.|WET2321.txt|.|67|.|WET2924.txt|.|22|.|WET1390.txt|.|58|.|WET4305.txt|.|10|.|WET4649.txt|.|9|.|WET5741.txt|.|48|.|WET5691.txt|.|30|.|WET3068.txt|.|20|.|WET635.txt|.|28|.|WET3326.txt|.|21|.|WET1356.txt|.|17|.|WET1030.txt|.|10|.|WET5105.txt|.|53|.|WET1391.txt|.|66|.|WET4352.txt|.|6
+cloth diaper whisperer|.|WET3050.txt|.|95
+kossack|.|WET2199.txt|.|32
+trailblazer|.|WET5425.txt|.|48
+memes|.|WET4530.txt|.|80|.|WET362.txt|.|60
+mrr|.|WET3776.txt|.|2
+gmat questions|.|WET453.txt|.|10
+slip on trainers|.|WET5944.txt|.|8
+songs|.|WET6254.txt|.|85|.|WET2784.txt|.|27|.|WET2126.txt|.|17
+income taxes|.|WET4679.txt|.|6|.|WET566.txt|.|12
+layl|.|WET3534.txt|.|18
+pornhub premium|.|WET2682.txt|.|11
+pas cher|.|WET939.txt|.|5
+show moreapril|.|WET5650.txt|.|14|.|WET1911.txt|.|28
+small|.|WET2635.txt|.|18|.|WET101.txt|.|11|.|WET340.txt|.|26|.|WET1703.txt|.|11|.|WET2596.txt|.|14|.|WET2608.txt|.|7|.|WET1697.txt|.|38
+break case|.|WET1595.txt|.|83
+dallas|.|WET278.txt|.|49|.|WET277.txt|.|27
+msf|.|WET1663.txt|.|49
+derby wins|.|WET5770.txt|.|24
+features photos|.|WET485.txt|.|141|.|WET1372.txt|.|6|.|WET4232.txt|.|47
+solutions pathway|.|WET3876.txt|.|72
+padres|.|WET5005.txt|.|44
+apps meta stack|.|WET646.txt|.|11|.|WET4387.txt|.|11
+experience|.|WET1967.txt|.|14|.|WET3735.txt|.|35|.|WET324.txt|.|11
+blog|.|WET567.txt|.|2|.|WET842.txt|.|2|.|WET591.txt|.|9|.|WET3791.txt|.|19|.|WET4834.txt|.|3|.|WET3283.txt|.|26|.|WET4931.txt|.|18|.|WET4084.txt|.|51|.|WET2877.txt|.|14|.|WET1860.txt|.|8|.|WET3759.txt|.|44|.|WET3267.txt|.|11|.|WET5143.txt|.|2|.|WET3872.txt|.|18|.|WET2699.txt|.|24|.|WET3623.txt|.|8|.|WET148.txt|.|31|.|WET3720.txt|.|4|.|WET737.txt|.|22|.|WET834.txt|.|15|.|WET915.txt|.|20|.|WET5321.txt|.|61|.|WET4149.txt|.|6|.|WET2564.txt|.|4|.|WET1272.txt|.|2|.|WET601.txt|.|15|.|WET110.txt|.|28|.|WET5980.txt|.|3|.|WET3132.txt|.|14|.|WET3204.txt|.|3|.|WET889.txt|.|13|.|WET4513.txt|.|8|.|WET2459.txt|.|18|.|WET4575.txt|.|22|.|WET1190.txt|.|2|.|WET5778.txt|.|1|.|WET3589.txt|.|25|.|WET2199.txt|.|9|.|WET985.txt|.|20|.|WET4180.txt|.|22|.|WET334.txt|.|3|.|WET4415.txt|.|10|.|WET2636.txt|.|7|.|WET1086.txt|.|16|.|WET5449.txt|.|3|.|WET906.txt|.|16|.|WET2869.txt|.|22|.|WET4923.txt|.|6|.|WET1837.txt|.|15|.|WET3535.txt|.|20|.|WET11.txt|.|16|.|WET576.txt|.|20|.|WET4896.txt|.|4|.|WET762.txt|.|21|.|WET5561.txt|.|24|.|WET5375.txt|.|17|.|WET3863.txt|.|37|.|WET1040.txt|.|7|.|WET5650.txt|.|15|.|WET566.txt|.|21|.|WET841.txt|.|13|.|WET930.txt|.|28|.|WET5126.txt|.|3|.|WET5029.txt|.|45|.|WET505.txt|.|17|.|WET6202.txt|.|14|.|WET4987.txt|.|25|.|WET3050.txt|.|78|.|WET3606.txt|.|27|.|WET602.txt|.|18|.|WET4012.txt|.|19|.|WET851.txt|.|21|.|WET4229.txt|.|5|.|WET3873.txt|.|50|.|WET835.txt|.|9|.|WET3428.txt|.|5|.|WET66.txt|.|28|.|WET3640.txt|.|33|.|WET6105.txt|.|13|.|WET1603.txt|.|11|.|WET2654.txt|.|7|.|WET2823.txt|.|9|.|WET260.txt|.|14|.|WET4299.txt|.|9|.|WET111.txt|.|21|.|WET3857.txt|.|21|.|WET4664.txt|.|18|.|WET5142.txt|.|2|.|WET4190.txt|.|16|.|WET2912.txt|.|13|.|WET4700.txt|.|10|.|WET2806.txt|.|23|.|WET4681.txt|.|16|.|WET4408.txt|.|9|.|WET984.txt|.|9|.|WET1399.txt|.|14|.|WET2966.txt|.|16|.|WET5465.txt|.|2|.|WET3784.txt|.|15|.|WET649.txt|.|30|.|WET4083.txt|.|24|.|WET271.txt|.|9|.|WET3534.txt|.|15|.|WET1149.txt|.|13|.|WET5902.txt|.|183|.|WET2458.txt|.|7|.|WET4568.txt|.|18|.|WET1183.txt|.|2|.|WET5153.txt|.|6|.|WET3641.txt|.|69|.|WET4968.txt|.|2|.|WET1102.txt|.|10|.|WET5323.txt|.|6|.|WET1498.txt|.|10|.|WET5366.txt|.|2|.|WET743.txt|.|31|.|WET514.txt|.|22|.|WET2879.txt|.|23|.|WET3900.txt|.|18|.|WET3536.txt|.|11|.|WET4430.txt|.|19|.|WET3765.txt|.|13|.|WET638.txt|.|10|.|WET4244.txt|.|25|.|WET2627.txt|.|20|.|WET4600.txt|.|47|.|WET3702.txt|.|12|.|WET836.txt|.|22|.|WET4593.txt|.|26|.|WET2600.txt|.|9|.|WET4422.txt|.|23|.|WET522.txt|.|24|.|WET4719.txt|.|2|.|WET1513.txt|.|22|.|WET3793.txt|.|18|.|WET4171.txt|.|27|.|WET4988.txt|.|30|.|WET5064.txt|.|8|.|WET5769.txt|.|51|.|WET5912.txt|.|101|.|WET4530.txt|.|41|.|WET6167.txt|.|7|.|WET308.txt|.|11|.|WET3866.txt|.|49|.|WET3939.txt|.|18|.|WET987.txt|.|7|.|WET4565.txt|.|22|.|WET3443.txt|.|27|.|WET4701.txt|.|17|.|WET1282.txt|.|8|.|WET4159.txt|.|19|.|WET6239.txt|.|29|.|WET4417.txt|.|19|.|WET112.txt|.|118|.|WET2841.txt|.|2|.|WET3036.txt|.|17|.|WET3858.txt|.|13|.|WET2813.txt|.|7|.|WET1067.txt|.|19|.|WET2457.txt|.|24|.|WET191.txt|.|13|.|WET340.txt|.|31|.|WET3008.txt|.|102|.|WET507.txt|.|48|.|WET4170.txt|.|10|.|WET4667.txt|.|34|.|WET46.txt|.|24|.|WET558.txt|.|22|.|WET515.txt|.|36|.|WET5294.txt|.|11|.|WET3837.txt|.|21|.|WET3693.txt|.|8|.|WET4065.txt|.|16|.|WET256.txt|.|7|.|WET4022.txt|.|44|.|WET2154.txt|.|38|.|WET5553.txt|.|23|.|WET3871.txt|.|18|.|WET4014.txt|.|4|.|WET620.txt|.|12|.|WET3650.txt|.|21|.|WET4845.txt|.|13|.|WET629.txt|.|33|.|WET5367.txt|.|2|.|WET3792.txt|.|19|.|WET5002.txt|.|27|.|WET1253.txt|.|80|.|WET578.txt|.|16|.|WET1649.txt|.|15|.|WET4601.txt|.|32|.|WET1861.txt|.|11|.|WET4772.txt|.|16|.|WET5480.txt|.|25|.|WET4751.txt|.|1|.|WET1999.txt|.|9|.|WET6018.txt|.|4|.|WET4387.txt|.|24|.|WET3370.txt|.|4|.|WET414.txt|.|20|.|WET3035.txt|.|18|.|WET3329.txt|.|25|.|WET837.txt|.|22|.|WET3515.txt|.|15|.|WET5981.txt|.|2|.|WET4566.txt|.|10|.|WET4702.txt|.|43|.|WET3135.txt|.|24|.|WET3901.txt|.|25|.|WET1068.txt|.|9|.|WET3007.txt|.|44|.|WET4316.txt|.|23|.|WET3686.txt|.|17|.|WET4100.txt|.|3|.|WET299.txt|.|51|.|WET2161.txt|.|281|.|WET3865.txt|.|33|.|WET1755.txt|.|2|.|WET420.txt|.|56|.|WET2127.txt|.|13|.|WET4237.txt|.|11|.|WET670.txt|.|12|.|WET2298.txt|.|7|.|WET4192.txt|.|13|.|WET2590.txt|.|16|.|WET257.txt|.|14|.|WET4234.txt|.|17|.|WET4773.txt|.|34|.|WET362.txt|.|84|.|WET788.txt|.|44|.|WET37.txt|.|30|.|WET3481.txt|.|86|.|WET1422.txt|.|32|.|WET2900.txt|.|14|.|WET3570.txt|.|2|.|WET3651.txt|.|13|.|WET4676.txt|.|2|.|WET4579.txt|.|23|.|WET3899.txt|.|15|.|WET1678.txt|.|18|.|WET1267.txt|.|13|.|WET4435.txt|.|2|.|WET3554.txt|.|30|.|WET3457.txt|.|22|.|WET6262.txt|.|47|.|WET22.txt|.|45|.|WET5511.txt|.|2|.|WET234.txt|.|72|.|WET4106.txt|.|84|.|WET331.txt|.|15|.|WET5082.txt|.|61|.|WET105.txt|.|38|.|WET1348.txt|.|17|.|WET3813.txt|.|10|.|WET3450.txt|.|2|.|WET3514.txt|.|7|.|WET5654.txt|.|7|.|WET4637.txt|.|33|.|WET5310.txt|.|26|.|WET1468.txt|.|10|.|WET4548.txt|.|15|.|WET1654.txt|.|38|.|WET2777.txt|.|2|.|WET1922.txt|.|17|.|WET2028.txt|.|32|.|WET129.txt|.|20|.|WET4362.txt|.|14|.|WET385.txt|.|16|.|WET4532.txt|.|33|.|WET3981.txt|.|22|.|WET77.txt|.|37|.|WET5686.txt|.|6|.|WET831.txt|.|2|.|WET5944.txt|.|17|.|WET2173.txt|.|161|.|WET4347.txt|.|120|.|WET6109.txt|.|2|.|WET4249.txt|.|32|.|WET1581.txt|.|19|.|WET1639.txt|.|20|.|WET605.txt|.|92|.|WET4703.txt|.|13|.|WET3136.txt|.|64|.|WET1308.txt|.|14|.|WET4789.txt|.|8|.|WET861.txt|.|59|.|WET3313.txt|.|14|.|WET6021.txt|.|2|.|WET371.txt|.|17|.|WET460.txt|.|9|.|WET3667.txt|.|4|.|WET2888.txt|.|46|.|WET4861.txt|.|8|.|WET3756.txt|.|36|.|WET5268.txt|.|5|.|WET3111.txt|.|29|.|WET4675.txt|.|6|.|WET3853.txt|.|53|.|WET4578.txt|.|22|.|WET258.txt|.|19|.|WET1896.txt|.|11|.|WET3456.txt|.|16|.|WET630.txt|.|18|.|WET807.txt|.|20|.|WET159.txt|.|2|.|WET1235.txt|.|43|.|WET4235.txt|.|11|.|WET787.txt|.|22|.|WET6075.txt|.|3|.|WET4308.txt|.|10|.|WET548.txt|.|29|.|WET2085.txt|.|17|.|WET3868.txt|.|45|.|WET4563.txt|.|16|.|WET3539.txt|.|16|.|WET533.txt|.|22|.|WET5598.txt|.|14|.|WET5640.txt|.|19|.|WET23.txt|.|13|.|WET772.txt|.|9|.|WET361.txt|.|52|.|WET988.txt|.|1|.|WET1525.txt|.|18|.|WET3980.txt|.|120|.|WET5582.txt|.|11|.|WET104.txt|.|46|.|WET1663.txt|.|10|.|WET790.txt|.|8|.|WET4892.txt|.|14|.|WET3513.txt|.|11|.|WET773.txt|.|4|.|WET5469.txt|.|23|.|WET2833.txt|.|21|.|WET5913.txt|.|20|.|WET3265.txt|.|20|.|WET1452.txt|.|11|.|WET1194.txt|.|2|.|WET3867.txt|.|124|.|WET4709.txt|.|21|.|WET376.txt|.|9|.|WET2486.txt|.|7|.|WET3398.txt|.|17|.|WET4002.txt|.|6|.|WET2029.txt|.|32|.|WET5783.txt|.|36|.|WET572.txt|.|47|.|WET606.txt|.|78|.|WET115.txt|.|21|.|WET4130.txt|.|15|.|WET61.txt|.|17|.|WET4290.txt|.|8|.|WET5601.txt|.|19|.|WET3852.txt|.|43|.|WET1106.txt|.|6|.|WET702.txt|.|31|.|WET5386.txt|.|2|.|WET5687.txt|.|8|.|WET2285.txt|.|14|.|WET2917.txt|.|3|.|WET4836.txt|.|11|.|WET3781.txt|.|28|.|WET1463.txt|.|11|.|WET1595.txt|.|2|.|WET905.txt|.|36|.|WET4260.txt|.|8|.|WET2473.txt|.|7|.|WET186.txt|.|16|.|WET275.txt|.|13|.|WET100.txt|.|28|.|WET646.txt|.|23|.|WET3811.txt|.|51|.|WET3080.txt|.|31|.|WET3854.txt|.|41|.|WET1722.txt|.|2|.|WET3869.txt|.|40|.|WET4864.txt|.|19|.|WET976.txt|.|21|.|WET2945.txt|.|20|.|WET518.txt|.|50|.|WET674.txt|.|19|.|WET3394.txt|.|19|.|WET5028.txt|.|4|.|WET247.txt|.|23|.|WET232.txt|.|22|.|WET4232.txt|.|37|.|WET4577.txt|.|22|.|WET1238.txt|.|32|.|WET2719.txt|.|15|.|WET5370.txt|.|2|.|WET171.txt|.|138|.|WET1966.txt|.|20|.|WET4406.txt|.|17|.|WET1021.txt|.|2|.|WET2531.txt|.|6|.|WET1494.txt|.|2|.|WET1150.txt|.|14|.|WET5141.txt|.|11|.|WET2948.txt|.|5|.|WET2604.txt|.|22|.|WET4708.txt|.|21|.|WET1637.txt|.|1|.|WET103.txt|.|27|.|WET131.txt|.|53|.|WET1122.txt|.|25|.|WET2775.txt|.|21|.|WET4720.txt|.|4|.|WET4462.txt|.|9|.|WET5741.txt|.|31|.|WET3467.txt|.|15|.|WET573.txt|.|16|.|WET445.txt|.|19|.|WET3025.txt|.|21|.|WET1521.txt|.|16|.|WET789.txt|.|44|.|WET1564.txt|.|5|.|WET647.txt|.|10|.|WET904.txt|.|17|.|WET5959.txt|.|9|.|WET3553.txt|.|13|.|WET21.txt|.|20|.|WET1350.txt|.|3|.|WET6235.txt|.|5|.|WET4576.txt|.|22|.|WET1237.txt|.|24|.|WET3983.txt|.|10|.|WET4533.txt|.|30|.|WET5758.txt|.|14|.|WET4148.txt|.|11|.|WET217.txt|.|16|.|WET5083.txt|.|8|.|WET3381.txt|.|29|.|WET373.txt|.|5|.|WET4448.txt|.|22|.|WET5329.txt|.|19|.|WET3180.txt|.|11|.|WET3855.txt|.|14|.|WET118.txt|.|34|.|WET4276.txt|.|13|.|WET2330.txt|.|2|.|WET79.txt|.|16|.|WET4105.txt|.|31|.|WET3395.txt|.|25|.|WET1939.txt|.|12|.|WET3396.txt|.|24|.|WET2345.txt|.|29|.|WET3052.txt|.|13|.|WET3769.txt|.|12|.|WET1638.txt|.|10|.|WET3280.txt|.|17|.|WET732.txt|.|8|.|WET775.txt|.|9|.|WET6108.txt|.|9|.|WET4506.txt|.|16|.|WET1079.txt|.|7|.|WET3380.txt|.|11|.|WET4990.txt|.|33|.|WET1036.txt|.|8|.|WET2016.txt|.|2|.|WET5770.txt|.|26|.|WET6291.txt|.|4|.|WET3024.txt|.|6|.|WET3195.txt|.|2|.|WET446.txt|.|21|.|WET91.txt|.|16|.|WET4461.txt|.|28|.|WET4348.txt|.|39|.|WET4305.txt|.|13|.|WET4649.txt|.|14|.|WET102.txt|.|23|.|WET4004.txt|.|20|.|WET2874.txt|.|2|.|WET3711.txt|.|24|.|WET3882.txt|.|20|.|WET2870.txt|.|13|.|WET2773.txt|.|42|.|WET4277.txt|.|32|.|WET2781.txt|.|14|.|WET117.txt|.|45|.|WET4544.txt|.|23|.|WET4188.txt|.|15|.|WET230.txt|.|35|.|WET5844.txt|.|16|.|WET133.txt|.|70|.|WET5933.txt|.|6|.|WET109.txt|.|15|.|WET5569.txt|.|44|.|WET4552.txt|.|22|.|WET4366.txt|.|32|.|WET1562.txt|.|29|.|WET5112.txt|.|61|.|WET4633.txt|.|17|.|WET938.txt|.|15|.|WET2951.txt|.|77|.|WET4722.txt|.|14|.|WET6129.txt|.|9|.|WET3414.txt|.|2|.|WET768.txt|.|13|.|WET5996.txt|.|41|.|WET3236.txt|.|40|.|WET3511.txt|.|28|.|WET946.txt|.|26|.|WET2106.txt|.|11|.|WET3808.txt|.|19|.|WET962.txt|.|21|.|WET4471.txt|.|30|.|WET2192.txt|.|17|.|WET5425.txt|.|15|.|WET3388.txt|.|17|.|WET4874.txt|.|22|.|WET1697.txt|.|16|.|WET616.txt|.|15|.|WET358.txt|.|11|.|WET2346.txt|.|2|.|WET3663.txt|.|2|.|WET4938.txt|.|2|.|WET4849.txt|.|7|.|WET5.txt|.|8|.|WET3646.txt|.|2|.|WET6199.txt|.|6|.|WET4304.txt|.|30|.|WET543.txt|.|117|.|WET381.txt|.|16|.|WET955.txt|.|27|.|WET3422.txt|.|5|.|WET3405.txt|.|18|.|WET2169.txt|.|2|.|WET366.txt|.|16|.|WET3992.txt|.|22|.|WET2017.txt|.|48|.|WET1626.txt|.|8|.|WET1957.txt|.|1|.|WET2211.txt|.|2|.|WET2800.txt|.|26|.|WET2525.txt|.|23|.|WET2748.txt|.|60|.|WET5756.txt|.|2|.|WET3081.txt|.|168|.|WET150.txt|.|4|.|WET3413.txt|.|52|.|WET1820.txt|.|10|.|WET4553.txt|.|13|.|WET4642.txt|.|32|.|WET5827.txt|.|11|.|WET939.txt|.|19|.|WET3172.txt|.|1|.|WET116.txt|.|32|.|WET108.txt|.|37|.|WET1642.txt|.|19|.|WET929.txt|.|28|.|WET2944.txt|.|13|.|WET963.txt|.|27|.|WET1911.txt|.|14|.|WET767.txt|.|9|.|WET4865.txt|.|8|.|WET2772.txt|.|2|.|WET3967.txt|.|10|.|WET2675.txt|.|32|.|WET3298.txt|.|12|.|WET2008.txt|.|6|.|WET4529.txt|.|34|.|WET5247.txt|.|4|.|WET2370.txt|.|19|.|WET2998.txt|.|14|.|WET2018.txt|.|9|.|WET3831.txt|.|25|.|WET2257.txt|.|29|.|WET3494.txt|.|16|.|WET2532.txt|.|11|.|WET1796.txt|.|7|.|WET5426.txt|.|13|.|WET3824.txt|.|26|.|WET1858.txt|.|9|.|WET3735.txt|.|13|.|WET2460.txt|.|10|.|WET3841.txt|.|2|.|WET5181.txt|.|13|.|WET1958.txt|.|11|.|WET623.txt|.|17|.|WET365.txt|.|11|.|WET27.txt|.|17|.|WET4715.txt|.|27|.|WET3483.txt|.|14|.|WET1288.txt|.|13|.|WET87.txt|.|27|.|WET4284.txt|.|33|.|WET5360.txt|.|2|.|WET794.txt|.|8|.|WET1804.txt|.|2|.|WET4051.txt|.|26|.|WET1038.txt|.|11|.|WET4696.txt|.|30|.|WET2909.txt|.|14|.|WET4704.txt|.|32|.|WET1145.txt|.|38|.|WET1331.txt|.|66|.|WET859.txt|.|24|.|WET2801.txt|.|14|.|WET1048.txt|.|3|.|WET3048.txt|.|20|.|WET107.txt|.|25|.|WET4694.txt|.|21|.|WET2607.txt|.|10|.|WET2690.txt|.|18|.|WET220.txt|.|5|.|WET3966.txt|.|19|.|WET4589.txt|.|46|.|WET3491.txt|.|23|.|WET4372.txt|.|18|.|WET5346.txt|.|15|.|WET5173.txt|.|18|.|WET4643.txt|.|25|.|WET4550.txt|.|14|.|WET3842.txt|.|28|.|WET4216.txt|.|11|.|WET1382.txt|.|2|.|WET3556.txt|.|15|.|WET2534.txt|.|27|.|WET1599.txt|.|9|.|WET4902.txt|.|7|.|WET2183.txt|.|23|.|WET707.txt|.|28|.|WET5192.txt|.|11|.|WET5998.txt|.|9|.|WET3815.txt|.|22|.|WET2442.txt|.|12|.|WET2361.txt|.|9|.|WET279.txt|.|28|.|WET198.txt|.|8|.|WET901.txt|.|8|.|WET944.txt|.|19|.|WET464.txt|.|76|.|WET4859.txt|.|7|.|WET3459.txt|.|10|.|WET5989.txt|.|11|.|WET3486.txt|.|23|.|WET5265.txt|.|22|.|WET1045.txt|.|23|.|WET1628.txt|.|21|.|WET4050.txt|.|16|.|WET3478.txt|.|42|.|WET5451.txt|.|5|.|WET1769.txt|.|18|.|WET5389.txt|.|14|.|WET1784.txt|.|8|.|WET3851.txt|.|43|.|WET4872.txt|.|10|.|WET2284.txt|.|2|.|WET4364.txt|.|29|.|WET4321.txt|.|21|.|WET509.txt|.|14|.|WET3407.txt|.|19|.|WET2640.txt|.|18|.|WET4402.txt|.|19|.|WET4759.txt|.|29|.|WET1289.txt|.|12|.|WET965.txt|.|19|.|WET1705.txt|.|3|.|WET4209.txt|.|19|.|WET5030.txt|.|2|.|WET4472.txt|.|40|.|WET2829.txt|.|2|.|WET5489.txt|.|26|.|WET4588.txt|.|21|.|WET541.txt|.|10|.|WET4545.txt|.|17|.|WET4292.txt|.|39|.|WET5819.txt|.|8|.|WET2006.txt|.|10|.|WET2908.txt|.|30|.|WET4393.txt|.|21|.|WET3235.txt|.|18|.|WET3049.txt|.|7|.|WET106.txt|.|43|.|WET785.txt|.|16|.|WET4215.txt|.|34|.|WET357.txt|.|34|.|WET1598.txt|.|16|.|WET18.txt|.|23|.|WET1126.txt|.|10|.|WET5647.txt|.|14|.|WET821.txt|.|9|.|WET864.txt|.|25|.|WET1812.txt|.|4|.|WET5318.txt|.|14|.|WET4042.txt|.|18|.|WET5568.txt|.|36|.|WET5780.txt|.|13|.|WET4687.txt|.|27|.|WET3843.txt|.|21|.|WET5101.txt|.|8|.|WET685.txt|.|9|.|WET1132.txt|.|18|.|WET2027.txt|.|56|.|WET900.txt|.|18|.|WET4980.txt|.|62|.|WET278.txt|.|20|.|WET5574.txt|.|28|.|WET4946.txt|.|10|.|WET3671.txt|.|2|.|WET792.txt|.|33|.|WET5345.txt|.|28|.|WET3850.txt|.|54|.|WET5531.txt|.|29|.|WET25.txt|.|13|.|WET943.txt|.|48|.|WET1125.txt|.|9|.|WET536.txt|.|8|.|WET2970.txt|.|18|.|WET5172.txt|.|22|.|WET3385.txt|.|16|.|WET6180.txt|.|7|.|WET3987.txt|.|26|.|WET5202.txt|.|2|.|WET128.txt|.|10|.|WET4070.txt|.|2|.|WET4788.txt|.|37|.|WET2249.txt|.|2|.|WET2857.txt|.|8|.|WET1405.txt|.|9|.|WET207.txt|.|12|.|WET3521.txt|.|12|.|WET463.txt|.|24|.|WET1706.txt|.|6|.|WET3229.txt|.|14|.|WET3822.txt|.|58|.|WET4873.txt|.|2|.|WET800.txt|.|13|.|WET2936.txt|.|21|.|WET2641.txt|.|6|.|WET4056.txt|.|12|.|WET1082.txt|.|10|.|WET1171.txt|.|3|.|WET265.txt|.|12|.|WET2463.txt|.|16|.|WET4226.txt|.|2|.|WET540.txt|.|75|.|WET621.txt|.|37|.|WET4412.txt|.|11|.|WET2439.txt|.|17|.|WET524.txt|.|28|.|WET427.txt|.|11|.|WET338.txt|.|9|.|WET4498.txt|.|25|.|WET5163.txt|.|2|.|WET4757.txt|.|22|.|WET2536.txt|.|3|.|WET4668.txt|.|15|.|WET2722.txt|.|29|.|WET628.txt|.|33|.|WET3143.txt|.|7|.|WET2440.txt|.|10|.|WET1414.txt|.|5|.|WET3046.txt|.|21|.|WET3619.txt|.|10|.|WET498.txt|.|18|.|WET2424.txt|.|2|.|WET2521.txt|.|20|.|WET3402.txt|.|17|.|WET741.txt|.|41|.|WET4122.txt|.|12|.|WET5348.txt|.|30|.|WET5003.txt|.|40|.|WET2068.txt|.|2|.|WET3488.txt|.|44|.|WET281.txt|.|20|.|WET692.txt|.|3|.|WET838.txt|.|22|.|WET4998.txt|.|6|.|WET3875.txt|.|14|.|WET927.txt|.|24|.|WET1018.txt|.|2|.|WET829.txt|.|25|.|WET5760.txt|.|37|.|WET3892.txt|.|16|.|WET3433.txt|.|15|.|WET6141.txt|.|25|.|WET3247.txt|.|15|.|WET1833.txt|.|37|.|WET2681.txt|.|31|.|WET2769.txt|.|1|.|WET6311.txt|.|10|.|WET757.txt|.|13|.|WET2036.txt|.|3|.|WET4443.txt|.|14|.|WET1116.txt|.|28|.|WET3603.txt|.|16|.|WET2311.txt|.|12|.|WET5566.txt|.|9|.|WET3821.txt|.|24|.|WET2237.txt|.|33|.|WET4541.txt|.|3|.|WET3902.txt|.|6|.|WET4394.txt|.|21|.|WET6083.txt|.|4|.|WET1600.txt|.|23|.|WET652.txt|.|13|.|WET3448.txt|.|31|.|WET4193.txt|.|29|.|WET6254.txt|.|24|.|WET45.txt|.|31|.|WET3772.txt|.|14|.|WET3988.txt|.|23|.|WET5276.txt|.|16|.|WET3200.txt|.|2|.|WET2650.txt|.|4|.|WET5790.txt|.|12|.|WET4871.txt|.|15|.|WET4685.txt|.|69|.|WET5509.txt|.|2|.|WET2827.txt|.|2|.|WET6111.txt|.|2|.|WET3490.txt|.|5|.|WET1227.txt|.|50|.|WET2464.txt|.|77|.|WET884.txt|.|22|.|WET1774.txt|.|16|.|WET4499.txt|.|21|.|WET3401.txt|.|21|.|WET2851.txt|.|26|.|WET3762.txt|.|57|.|WET5350.txt|.|33|.|WET2292.txt|.|2|.|WET4797.txt|.|23|.|WET122.txt|.|69|.|WET6312.txt|.|20|.|WET5020.txt|.|7|.|WET2179.txt|.|9|.|WET724.txt|.|37|.|WET154.txt|.|6|.|WET1573.txt|.|27|.|WET3507.txt|.|15|.|WET2626.txt|.|14|.|WET4055.txt|.|17|.|WET4484.txt|.|39|.|WET5004.txt|.|33|.|WET4581.txt|.|31|.|WET3979.txt|.|64|.|WET6140.txt|.|48|.|WET1027.txt|.|18|.|WET2310.txt|.|18|.|WET3361.txt|.|9|.|WET1832.txt|.|38|.|WET2396.txt|.|34|.|WET5204.txt|.|2|.|WET1904.txt|.|18|.|WET2611.txt|.|3|.|WET2955.txt|.|7|.|WET1213.txt|.|2|.|WET2409.txt|.|19|.|WET5019.txt|.|12|.|WET121.txt|.|42|.|WET1629.txt|.|9|.|WET3417.txt|.|29|.|WET3778.txt|.|20|.|WET482.txt|.|1|.|WET828.txt|.|27|.|WET941.txt|.|37|.|WET3673.txt|.|9|.|WET5164.txt|.|8|.|WET44.txt|.|16|.|WET1503.txt|.|3|.|WET211.txt|.|13|.|WET2682.txt|.|32|.|WET5894.txt|.|26|.|WET2020.txt|.|2|.|WET899.txt|.|12|.|WET839.txt|.|22|.|WET555.txt|.|23|.|WET5309.txt|.|62|.|WET666.txt|.|20|.|WET4869.txt|.|16|.|WET1129.txt|.|15|.|WET5005.txt|.|13|.|WET3862.txt|.|58|.|WET727.txt|.|13|.|WET98.txt|.|12|.|WET1846.txt|.|10|.|WET4712.txt|.|7|.|WET3978.txt|.|16|.|WET3846.txt|.|17|.|WET2651.txt|.|9|.|WET3404.txt|.|16|.|WET2968.txt|.|8|.|WET824.txt|.|33|.|WET956.txt|.|20|.|WET4155.txt|.|38|.|WET3447.txt|.|11|.|WET4380.txt|.|27|.|WET3648.txt|.|8|.|WET2767.txt|.|11|.|WET2453.txt|.|6|.|WET4054.txt|.|32|.|WET453.txt|.|23|.|WET4368.txt|.|51|.|WET840.txt|.|22|.|WET40.txt|.|19|.|WET883.txt|.|7|.|WET4410.txt|.|12|.|WET3874.txt|.|50|.|WET4627.txt|.|11|.|WET895.txt|.|5|.|WET166.txt|.|11|.|WET123.txt|.|86|.|WET852.txt|.|23|.|WET6313.txt|.|22|.|WET5408.txt|.|9|.|WET3947.txt|.|18|.|WET2124.txt|.|3|.|WET6043.txt|.|10|.|WET1370.txt|.|2|.|WET2638.txt|.|11|.|WET368.txt|.|26|.|WET3548.txt|.|18|.|WET325.txt|.|2|.|WET626.txt|.|13|.|WET4727.txt|.|9|.|WET1602.txt|.|31|.|WET481.txt|.|5|.|WET6115.txt|.|20|.|WET1946.txt|.|2|.|WET3849.txt|.|33|.|WET1028.txt|.|20|.|WET43.txt|.|6|.|WET2151.txt|.|2|.|WET3202.txt|.|4|.|WET1041.txt|.|27|.|WET4597.txt|.|21|.|WET569.txt|.|2|.|WET4682.txt|.|63|.|WET968.txt|.|12|.|WET4898.txt|.|11|.|WET4554.txt|.|14|.|WET3072.txt|.|18|.|WET15.txt|.|49|.|WET28.txt|.|43|.|WET4569.txt|.|2|.|WET5878.txt|.|20|.|WET2224.txt|.|2|.|WET5521.txt|.|46|.|WET5564.txt|.|12|.|WET2251.txt|.|18|.|WET4799.txt|.|22|.|WET5950.txt|.|66|.|WET5349.txt|.|34|.|WET4713.txt|.|8|.|WET2969.txt|.|2|.|WET1014.txt|.|18|.|WET4081.txt|.|10|.|WET2624.txt|.|5|.|WET3861.txt|.|34|.|WET4411.txt|.|19|.|WET4197.txt|.|12|.|WET868.txt|.|16|.|WET124.txt|.|21|.|WET6314.txt|.|28|.|WET5235.txt|.|16|.|WET2952.txt|.|22|.|WET99.txt|.|71|.|WET912.txt|.|13|.|WET681.txt|.|13|.|WET1659.txt|.|19|.|WET3977.txt|.|30|.|WET5979.txt|.|21|.|WET2037.txt|.|27|.|WET280.txt|.|22|.|WET5377.txt|.|3|.|WET810.txt|.|24|.|WET2725.txt|.|11|.|WET2768.txt|.|20|.|WET2123.txt|.|20|.|WET2639.txt|.|24|.|WET4369.txt|.|33|.|WET3733.txt|.|13|.|WET3776.txt|.|69|.|WET3018.txt|.|25|.|WET85.txt|.|13|.|WET295.txt|.|11|.|WET881.txt|.|29|.|WET3389.txt|.|2|.|WET3833.txt|.|22|.|WET3346.txt|.|31|.|WET969.txt|.|15|.|WET926.txt|.|8|.|WET3876.txt|.|34|.|WET4956.txt|.|6|.|WET367.txt|.|23|.|WET1787.txt|.|18|.|WET625.txt|.|17|.|WET3088.txt|.|3|.|WET3660.txt|.|17|.|WET3419.txt|.|16|.|WET1687.txt|.|2|.|WET1945.txt|.|5|.|WET352.txt|.|12|.|WET5490.txt|.|10|.|WET954.txt|.|14|.|WET2093.txt|.|90|.|WET3848.txt|.|20|.|WET5520.txt|.|14|.|WET1085.txt|.|7|.|WET2524.txt|.|11|.|WET2780.txt|.|2|.|WET869.txt|.|21|.|WET4984.txt|.|2|.|WET3547.txt|.|39|.|WET5691.txt|.|1|.|WET568.txt|.|18|.|WET4598.txt|.|13|.|WET1601.txt|.|30|.|WET6114.txt|.|6|.|WET3289.txt|.|36|.|WET3073.txt|.|22|.|WET3246.txt|.|24
+bbc news|.|WET692.txt|.|44|.|WET4432.txt|.|37
+hip|.|WET6254.txt|.|1|.|WET70.txt|.|4|.|WET25.txt|.|8
+listen|.|WET6254.txt|.|74|.|WET2521.txt|.|62
+netflix gems|.|WET104.txt|.|15
+brandon|.|WET1602.txt|.|16
+overflow|.|WET647.txt|.|35|.|WET1041.txt|.|28|.|WET4387.txt|.|74|.|WET4678.txt|.|33|.|WET4388.txt|.|51|.|WET4083.txt|.|24|.|WET449.txt|.|9|.|WET45.txt|.|32|.|WET646.txt|.|73|.|WET4601.txt|.|42|.|WET340.txt|.|22|.|WET3411.txt|.|98|.|WET3410.txt|.|92|.|WET4369.txt|.|33|.|WET629.txt|.|35
+hiv|.|WET3047.txt|.|182|.|WET4159.txt|.|330|.|WET3048.txt|.|56|.|WET417.txt|.|290
+robots|.|WET2910.txt|.|12|.|WET2417.txt|.|2|.|WET4204.txt|.|2|.|WET5283.txt|.|2|.|WET3018.txt|.|4|.|WET1878.txt|.|2|.|WET4998.txt|.|2|.|WET4968.txt|.|47|.|WET3046.txt|.|2|.|WET373.txt|.|2|.|WET3721.txt|.|17|.|WET2710.txt|.|2|.|WET1033.txt|.|2|.|WET6146.txt|.|2|.|WET2849.txt|.|2|.|WET726.txt|.|2|.|WET4657.txt|.|2|.|WET2800.txt|.|2|.|WET5376.txt|.|24|.|WET6237.txt|.|1|.|WET5363.txt|.|2|.|WET1127.txt|.|1|.|WET4683.txt|.|2|.|WET2579.txt|.|2
+day|.|WET6145.txt|.|12|.|WET2781.txt|.|37|.|WET567.txt|.|21|.|WET2676.txt|.|27|.|WET478.txt|.|43|.|WET2862.txt|.|17|.|WET1260.txt|.|20|.|WET133.txt|.|10|.|WET5755.txt|.|332|.|WET2943.txt|.|30|.|WET3376.txt|.|21|.|WET5376.txt|.|437|.|WET2722.txt|.|11|.|WET5678.txt|.|14|.|WET1937.txt|.|22|.|WET2927.txt|.|17|.|WET915.txt|.|15|.|WET5321.txt|.|94|.|WET5666.txt|.|39|.|WET3082.txt|.|130|.|WET5654.txt|.|10|.|WET3388.txt|.|31|.|WET4637.txt|.|188|.|WET3875.txt|.|11|.|WET1786.txt|.|59|.|WET5841.txt|.|82|.|WET3093.txt|.|60|.|WET4214.txt|.|93|.|WET3620.txt|.|41|.|WET5566.txt|.|16|.|WET6032.txt|.|94|.|WET432.txt|.|61|.|WET5626.txt|.|31|.|WET6303.txt|.|34|.|WET3755.txt|.|46|.|WET5534.txt|.|145|.|WET6211.txt|.|11|.|WET4838.txt|.|50|.|WET3772.txt|.|15|.|WET4458.txt|.|28|.|WET3140.txt|.|12|.|WET1926.txt|.|112|.|WET3081.txt|.|35|.|WET2200.txt|.|81|.|WET2561.txt|.|93|.|WET3578.txt|.|18|.|WET4871.txt|.|27|.|WET762.txt|.|32|.|WET939.txt|.|142|.|WET4782.txt|.|30|.|WET1596.txt|.|33|.|WET108.txt|.|68|.|WET5616.txt|.|11|.|WET1207.txt|.|15|.|WET4770.txt|.|13|.|WET1703.txt|.|67|.|WET6282.txt|.|9|.|WET2179.txt|.|11|.|WET4822.txt|.|11|.|WET4012.txt|.|197|.|WET4504.txt|.|11|.|WET4229.txt|.|91|.|WET4055.txt|.|61|.|WET2962.txt|.|17|.|WET817.txt|.|34|.|WET4391.txt|.|11|.|WET104.txt|.|16|.|WET3344.txt|.|32|.|WET5191.txt|.|18|.|WET6238.txt|.|25|.|WET4230.txt|.|54|.|WET2565.txt|.|41|.|WET2247.txt|.|45|.|WET6302.txt|.|62|.|WET2850.txt|.|21|.|WET1629.txt|.|155|.|WET4190.txt|.|32|.|WET5990.txt|.|26|.|WET376.txt|.|22|.|WET2592.txt|.|30|.|WET1815.txt|.|25|.|WET1915.txt|.|25|.|WET365.txt|.|65|.|WET967.txt|.|38|.|WET5783.txt|.|39|.|WET3165.txt|.|20|.|WET433.txt|.|29|.|WET115.txt|.|14|.|WET87.txt|.|63|.|WET3630.txt|.|33|.|WET4284.txt|.|14|.|WET5343.txt|.|10|.|WET5706.txt|.|82|.|WET4886.txt|.|19|.|WET5326.txt|.|26|.|WET2285.txt|.|27|.|WET5962.txt|.|27|.|WET1951.txt|.|38|.|WET1269.txt|.|26|.|WET3994.txt|.|31|.|WET1544.txt|.|22|.|WET5366.txt|.|26|.|WET743.txt|.|17|.|WET964.txt|.|20|.|WET3811.txt|.|19|.|WET5307.txt|.|36|.|WET3080.txt|.|27|.|WET2015.txt|.|270|.|WET194.txt|.|52|.|WET3668.txt|.|3|.|WET2593.txt|.|175|.|WET5966.txt|.|15|.|WET2821.txt|.|10|.|WET4178.txt|.|41|.|WET5572.txt|.|50|.|WET2755.txt|.|24|.|WET980.txt|.|56|.|WET5653.txt|.|44|.|WET4183.txt|.|10|.|WET2239.txt|.|45|.|WET4204.txt|.|13|.|WET5946.txt|.|36|.|WET4247.txt|.|10|.|WET917.txt|.|65|.|WET51.txt|.|5|.|WET5024.txt|.|975|.|WET2284.txt|.|57|.|WET5282.txt|.|10|.|WET4554.txt|.|6|.|WET3117.txt|.|29|.|WET1630.txt|.|349|.|WET3091.txt|.|38|.|WET5289.txt|.|23|.|WET983.txt|.|13|.|WET6241.txt|.|12|.|WET5754.txt|.|186|.|WET6004.txt|.|19|.|WET5521.txt|.|67|.|WET5721.txt|.|38|.|WET3616.txt|.|38|.|WET1057.txt|.|83|.|WET876.txt|.|401|.|WET46.txt|.|11|.|WET1243.txt|.|28|.|WET6225.txt|.|19|.|WET4306.txt|.|21|.|WET5022.txt|.|12|.|WET1918.txt|.|14|.|WET663.txt|.|14|.|WET3608.txt|.|78|.|WET2985.txt|.|84|.|WET124.txt|.|22|.|WET2634.txt|.|98|.|WET5413.txt|.|18|.|WET726.txt|.|58|.|WET2040.txt|.|39|.|WET4160.txt|.|15|.|WET5819.txt|.|33|.|WET3146.txt|.|6|.|WET770.txt|.|8|.|WET4616.txt|.|401|.|WET231.txt|.|44|.|WET3685.txt|.|177|.|WET5499.txt|.|36|.|WET2563.txt|.|84|.|WET3347.txt|.|20|.|WET2098.txt|.|101|.|WET5377.txt|.|290|.|WET3284.txt|.|5|.|WET2657.txt|.|89|.|WET1683.txt|.|15|.|WET3396.txt|.|37|.|WET3052.txt|.|30|.|WET1264.txt|.|11|.|WET1476.txt|.|40|.|WET2494.txt|.|18|.|WET6264.txt|.|16|.|WET5725.txt|.|23|.|WET1717.txt|.|33|.|WET5345.txt|.|56|.|WET1053.txt|.|12|.|WET5646.txt|.|29|.|WET5514.txt|.|16|.|WET625.txt|.|27|.|WET2921.txt|.|35|.|WET3062.txt|.|23|.|WET4672.txt|.|11|.|WET1698.txt|.|9|.|WET954.txt|.|19|.|WET2996.txt|.|15|.|WET3041.txt|.|23|.|WET764.txt|.|10|.|WET5520.txt|.|35|.|WET2402.txt|.|26|.|WET843.txt|.|30|.|WET4555.txt|.|40|.|WET378.txt|.|41
+ad free|.|WET839.txt|.|33|.|WET4576.txt|.|32|.|WET836.txt|.|33
+movie theaters|.|WET198.txt|.|25|.|WET3945.txt|.|18
+jual geotextile|.|WET445.txt|.|34
+electronic commerce|.|WET3646.txt|.|2
+discountscupcake boxes quantity|.|WET1628.txt|.|10
+resource|.|WET796.txt|.|8|.|WET2453.txt|.|51|.|WET3398.txt|.|12|.|WET2862.txt|.|5|.|WET2403.txt|.|3|.|WET3409.txt|.|8|.|WET4037.txt|.|10|.|WET3738.txt|.|4|.|WET5818.txt|.|37|.|WET1946.txt|.|10|.|WET2481.txt|.|11|.|WET2411.txt|.|10|.|WET2452.txt|.|96|.|WET3410.txt|.|12|.|WET4832.txt|.|45|.|WET3166.txt|.|6|.|WET2975.txt|.|3|.|WET6220.txt|.|10
+minutes|.|WET1901.txt|.|32|.|WET6311.txt|.|67|.|WET2034.txt|.|14
+york times|.|WET4544.txt|.|11
+harlequin|.|WET4065.txt|.|166
+ils|.|WET3892.txt|.|24
+rb anthony thomas a saint|.|WET98.txt|.|11
+low loss|.|WET941.txt|.|4
+statussee|.|WET2945.txt|.|55|.|WET2944.txt|.|131
+ao rules|.|WET1227.txt|.|20
+innove|.|WET3892.txt|.|2
+forecasts|.|WET1603.txt|.|2|.|WET2939.txt|.|21|.|WET1969.txt|.|2|.|WET2846.txt|.|23|.|WET2677.txt|.|2|.|WET3389.txt|.|2|.|WET3324.txt|.|1|.|WET99.txt|.|2|.|WET4417.txt|.|2|.|WET3499.txt|.|4|.|WET4966.txt|.|1|.|WET1571.txt|.|21|.|WET3266.txt|.|2|.|WET5898.txt|.|2|.|WET3496.txt|.|2|.|WET3621.txt|.|4|.|WET3738.txt|.|2|.|WET304.txt|.|3|.|WET1039.txt|.|10|.|WET5318.txt|.|31|.|WET5754.txt|.|1|.|WET3255.txt|.|1|.|WET5899.txt|.|2|.|WET3932.txt|.|1|.|WET4923.txt|.|1|.|WET110.txt|.|2
+kansas business|.|WET566.txt|.|6
+week|.|WET4834.txt|.|156|.|WET365.txt|.|42|.|WET3210.txt|.|37|.|WET1347.txt|.|13|.|WET1137.txt|.|17|.|WET967.txt|.|35|.|WET727.txt|.|56|.|WET693.txt|.|15|.|WET1355.txt|.|71|.|WET4143.txt|.|34|.|WET4167.txt|.|21|.|WET1061.txt|.|7|.|WET4708.txt|.|27|.|WET2490.txt|.|29|.|WET1043.txt|.|14|.|WET3051.txt|.|21|.|WET6203.txt|.|48|.|WET5105.txt|.|82|.|WET4179.txt|.|27
+mathematics|.|WET2334.txt|.|20|.|WET224.txt|.|26|.|WET171.txt|.|47|.|WET4369.txt|.|72|.|WET760.txt|.|24|.|WET629.txt|.|59
+timestamps|.|WET1489.txt|.|2|.|WET6111.txt|.|1|.|WET652.txt|.|3
+snake|.|WET37.txt|.|39
+link|.|WET4858.txt|.|3|.|WET311.txt|.|18|.|WET341.txt|.|4|.|WET5529.txt|.|46|.|WET1544.txt|.|4|.|WET1206.txt|.|6|.|WET2392.txt|.|17|.|WET4976.txt|.|34|.|WET2965.txt|.|3|.|WET3481.txt|.|83|.|WET306.txt|.|44|.|WET6241.txt|.|25|.|WET1452.txt|.|13|.|WET3703.txt|.|28|.|WET1109.txt|.|9|.|WET6135.txt|.|25|.|WET2127.txt|.|26|.|WET3925.txt|.|37|.|WET4473.txt|.|13|.|WET5869.txt|.|28
+ligonier|.|WET2251.txt|.|76|.|WET5989.txt|.|40
+hoist|.|WET772.txt|.|9
+social network|.|WET4707.txt|.|1|.|WET1179.txt|.|3|.|WET4931.txt|.|6|.|WET199.txt|.|1|.|WET2397.txt|.|2|.|WET528.txt|.|2|.|WET5691.txt|.|3|.|WET5347.txt|.|2|.|WET3255.txt|.|2|.|WET6222.txt|.|5|.|WET6141.txt|.|2
+network that would connect|.|WET3329.txt|.|1
+simultaneously sold|.|WET4799.txt|.|9
+mathematica|.|WET630.txt|.|94
+dialogue|.|WET4972.txt|.|2|.|WET3005.txt|.|2|.|WET147.txt|.|2|.|WET1883.txt|.|2|.|WET4500.txt|.|2|.|WET4764.txt|.|2|.|WET20.txt|.|2|.|WET1829.txt|.|2|.|WET4959.txt|.|3|.|WET1783.txt|.|2|.|WET56.txt|.|3|.|WET2001.txt|.|2|.|WET854.txt|.|2|.|WET4363.txt|.|2|.|WET4501.txt|.|2|.|WET2694.txt|.|2|.|WET2690.txt|.|3|.|WET149.txt|.|2|.|WET5966.txt|.|2|.|WET6040.txt|.|2|.|WET3202.txt|.|2|.|WET437.txt|.|3|.|WET3385.txt|.|2|.|WET4372.txt|.|1|.|WET3788.txt|.|3|.|WET1342.txt|.|2|.|WET5329.txt|.|3|.|WET1033.txt|.|3|.|WET2047.txt|.|2|.|WET1179.txt|.|4|.|WET2719.txt|.|3|.|WET1543.txt|.|2|.|WET4196.txt|.|2|.|WET6304.txt|.|3|.|WET993.txt|.|15|.|WET573.txt|.|3|.|WET3008.txt|.|3|.|WET3878.txt|.|2|.|WET1183.txt|.|3|.|WET5449.txt|.|3|.|WET2564.txt|.|4
+energy and environmental|.|WET123.txt|.|2
+henson|.|WET498.txt|.|14
+david|.|WET5366.txt|.|7|.|WET5.txt|.|4|.|WET4856.txt|.|50
+information architecture|.|WET3966.txt|.|4
+couples sans souci|.|WET3980.txt|.|30
+praia grande|.|WET509.txt|.|47
+cpus|.|WET4682.txt|.|35|.|WET1167.txt|.|52
+weird news|.|WET2439.txt|.|16|.|WET3259.txt|.|6
+call ahead|.|WET505.txt|.|3
+confining|.|WET4471.txt|.|13
+su facebookcondividi|.|WET4759.txt|.|6
+pet forum for dogs|.|WET2639.txt|.|19
+pmid|.|WET361.txt|.|21
+big a deal|.|WET3857.txt|.|3
+recommended|.|WET280.txt|.|11|.|WET3733.txt|.|10|.|WET6168.txt|.|5|.|WET5579.txt|.|9
+small amount|.|WET340.txt|.|11
+view lq|.|WET5996.txt|.|23
+vendors after wedding|.|WET3267.txt|.|11
+color lipstick|.|WET591.txt|.|33
+claire twitter|.|WET366.txt|.|4
+columnists|.|WET3329.txt|.|24
+boxer briefs|.|WET2346.txt|.|10
+challenge|.|WET1769.txt|.|4|.|WET3554.txt|.|29|.|WET4143.txt|.|31
+cher|.|WET939.txt|.|5
+archives and web|.|WET2237.txt|.|2
+quello|.|WET4130.txt|.|24
+marlin|.|WET5126.txt|.|76

@@ -1,0 +1,2002 @@
+type0.24639999999999998
+content1101	603
+content0.11145068119891008
+blog0.19425415019762846
+privacy0.13129186602870813
+date0.11575971731448764
+status0.0860952380952381
+thread0.09838679706601465
+archive0.06686428571428571
+home0.09439549295774648
+purchase0.0590319018404908
+target0.0
+hit0.0
+opinion0.0
+core0.05675486381322958
+archives0.0741406374501992
+contact0.05863706896551724
+us0.0
+search0.0
+blogs0.0772785046728972
+block0.0
+trust0.0
+day0.0
+view0.0
+forum0.0
+atom0.0
+vote0.0
+multimedia0.0
+posts0.0
+new0.08096590909090909
+contact us0.0
+shop0.097125
+animal0.0
+price0.07769999999999999
+hits0.0
+opinions0.0
+length0.0
+post0.0
+sellers0.0
+news0.0
+animals0.0
+hybrid0.0
+promotions0.0
+forecast0.0
+sports0.0
+promote0.0
+forums0.0
+en0.09152
+innovation0.0
+accessories0.0
+email0.0
+threads0.0
+web0.0
+pm0.0
+policy0.0
+bet0.0
+please0.0
+free0.06413333333333333
+profile0.0
+purchased0.0
+boost0.0
+photo0.0
+shipping0.0
+neighborhood0.0
+photos0.0
+ebay0.0
+join0.0
+reputation0.0
+quick0.0
+community0.0
+city0.0
+music0.0
+health0.0
+service0.0
+privacy policy0.0
+top0.061394666666666674
+facebook0.0
+information0.0
+april0.0
+deadline0.0
+video0.06666617647058824
+cart0.06250588235294119
+digest0.0
+sand0.0
+games0.0
+add0.0
+anime0.0
+join date0.0
+robot0.0
+innovative0.0
+votes0.0
+trusted0.0
+stem0.0
+el0.0
+sale0.0
+gift0.0
+message0.0
+products0.0
+xml0.0
+purchasing0.0
+game0.08267368421052632
+services0.0
+voted0.0
+library0.0
+sign0.0
+digital0.0
+seller0.0
+surveillance0.0
+product0.0
+purchases0.0
+public0.0
+genres0.0
+member0.0
+menu0.05748518518518518
+events0.0
+twitter0.0
+media0.0
+reviews0.0
+school0.0
+genre0.0
+neighborhoods0.0
+voting0.0
+composition0.0
+uma0.0
+promotional0.0
+mobility0.0
+love0.0
+county0.0
+promoting0.0
+videos0.0
+united0.054506250000000006
+expertise0.0
+book0.0
+overview0.0
+utilize the functionality0.0
+uri0.0
+utilize0.0
+help0.06571914893617022
+record0.0
+functionality0.0
+profile view0.0
+main0.0
+gifts0.0
+shoes0.0
+composite0.0
+business0.07325581395348837
+find0.0
+quick overview0.0
+books0.0
+posted0.0
+login0.0
+online0.0
+los0.0
+cards0.0
+dialogue0.0
+private0.0
+social0.0
+comments0.0
+high0.0
+x0.0
+food0.0
+guide0.0673076923076923
+stack0.0
+witness0.0
+flood0.0
+live0.07585789473684208
+user0.050494736842105266
+real0.0
+site0.0
+history0.0
+arts0.0
+mobile0.0
+reply0.0
+time0.0
+exchange0.0
+states0.0
+united states0.0
+list0.0
+baby0.0
+password0.089125
+club0.0
+speculation0.0
+keyword0.0
+animation0.0
+engine0.0
+quote0.0
+review0.08399999999999999
+width0.03600000000000001
+print0.0
+system0.0
+schedule0.0
+groups0.0
+chaos0.0
+card0.0
+gi0.0
+estate0.0
+beacon0.0
+comment0.0
+customer0.0
+search engine0.0
+office0.07129999999999999
+no0.0
+visual0.0
+promotion0.0
+bias0.0
+operating0.0
+personal0.0
+name0.0
+links0.0
+item0.0
+tv0.0
+local0.0
+main menu0.0
+care0.0
+latest0.0
+atomic0.0
+car0.0
+company0.0
+network0.0
+scout0.0
+education0.0
+golf0.09410322580645161
+shopping0.0
+mac0.0
+stack exchange0.0
+statue0.0
+deadlines0.0
+kids0.0759
+art0.0
+house0.0
+grand0.0
+order0.0
+girls0.0
+betting0.0
+apr0.0
+os0.0
+advertise0.0
+advertising0.0
+report0.08689655172413792
+daily0.0
+free shipping0.0
+register0.0
+year0.0
+private message0.0
+cheats0.0
+robotics0.0
+archived0.0
+text0.0
+room0.0
+country0.0
+rights0.0
+weather0.07369999999999999
+basketball0.0
+advertisement0.0
+public profile0.0
+animated0.0
+del0.0
+real estate0.0
+english0.0
+community groups0.0
+state0.08388518518518516
+water0.0
+tour0.0
+margin0.0
+address0.0
+calendar0.0
+last0.0
+view public0.0
+store0.0
+follow0.0
+women0.0
+march0.0
+collections0.0
+forecasts0.0
+stock0.0
+black0.0
+cheating0.0
+world0.0
+mac os x0.0
+items0.0
+students0.09323999999999999
+innovations0.0
+gear0.0
+board0.0
+rights reserved0.0
+family0.0
+re0.0
+plus0.0924
+subscribe0.0
+reserved0.0
+featured0.0
+view forum0.0
+systems0.0
+para0.0
+collection0.0
+university0.0
+star0.0
+arrivals0.0
+south0.0
+san0.06079999999999999
+league0.0
+management0.0
+size0.0
+robots0.0
+season0.0
+connector0.0
+travel0.0
+hotel0.0
+por0.0
+brands0.0
+law0.0
+read0.0
+las0.0
+auto0.0
+page0.0
+records0.0
+info0.0
+talk0.0
+audio0.0
+app0.0
+american0.0
+compare0.04907826086956522
+january0.0
+options0.0
+registered0.0
+track0.0
+applications0.0
+advanced0.0
+proxy0.0
+image0.0
+york0.0
+buy0.0
+dresses0.0
+email address0.0
+android0.0
+years0.0
+cheat0.0
+shirts0.0
+gallery0.0
+wedding0.10227272727272728
+air0.0
+visual arts0.01583333333333333
+save0.0
+living0.0
+football0.0
+men0.0
+images0.0
+international0.0
+flooding0.0
+student0.0
+center0.0
+white0.08685714285714284
+connectors0.0
+stems0.0
+college0.0
+un0.0
+witnessed0.0
+february0.0
+tech0.0
+se0.0
+press0.0
+trading0.0
+die0.09744000000000001
+group0.06562499999999999
+jobs0.0
+link0.058065
+promotes0.0
+submit0.0
+says0.0
+forum posts0.0
+map0.0
+special0.0
+fan0.0
+share0.0
+cross0.0
+red0.0
+show0.0
+bags0.0
+watch0.0
+jackets0.0
+said0.0
+support0.0
+beach0.0
+click0.0
+boys0.0
+opiniones0.0
+new arrivals0.0
+digital library0.0
+operating system0.0
+browse0.0
+render0.0
+general0.0
+account0.0
+color0.0
+week0.0
+phone0.0
+max0.0
+rewards0.0
+der0.0
+faq0.0
+index0.0
+team0.0
+pro0.0
+cars0.0
+galaxy0.0
+baseball0.0
+mark0.0
+movie0.0
+favorites0.0
+outdoor0.0
+learn0.0
+series0.0
+islands0.0
+scouts0.0
+story0.0
+classifieds0.0
+life0.0
+great0.0
+resource0.0
+web applications0.0
+vocabulary0.0
+soccer0.0
+und0.0
+make0.0
+north0.05431764705882353
+see0.0
+forecasting0.0
+museum0.08227058823529412
+playing0.0
+utter0.0
+entertainment0.0
+details0.0
+subject0.07807058823529411
+like0.0
+tickets0.0
+credit0.0
+members0.0
+john0.0
+stats0.0
+pants0.0
+ad0.0
+old0.0
+dim0.0
+times0.0
+medical0.0
+rendered0.01198235294117647
+sex0.0
+hotels0.0
+articles0.0
+send0.0
+jersey0.0
+sands0.0
+des0.0
+newsletter0.0
+resources0.0
+follow us0.0
+girl0.09331875
+hair0.0
+related0.0
+article0.0
+healthy0.0
+gambling0.0
+training0.10260000000000001
+var0.0
+bottom0.0
+valley0.0
+title0.0
+christian0.0
+recipes0.0
+browser0.0
+event0.0
+party0.0
+doctor0.0
+copyright0.0
+mediation0.0
+rendering0.0
+deals0.0
+prints0.0
+overflow0.0
+homes0.0
+return0.0
+line0.0
+mountain0.0
+full0.0875
+man0.0
+clubs0.0
+people0.0
+skip0.0
+clearance0.0
+west0.07479999999999999
+popular0.0
+code0.0
+bike0.0
+december0.0
+tips0.0
+web browser0.0
+boots0.0
+tools0.0
+today0.0
+hedge0.0
+hot0.0
+wars0.0
+results0.0
+hitting0.0
+racing0.0
+nfl0.0
+advanced search0.0
+gamble0.0
+clothing0.0
+right0.0
+add to cart0.0
+dilemma0.0
+discussion0.04195714285714285
+supplies0.0
+park0.0
+gift cards0.0
+sheet0.0
+learning0.0
+parts0.08496428571428571
+film0.0
+job0.0
+author0.0
+ads0.0
+low0.0
+apple0.08014285714285714
+roster0.05496428571428572
+post subject0.0
+prophet0.0
+facebook twitter0.0
+file0.0
+keyword search0.0
+rock0.0
+access0.0
+view profile0.0
+request0.0
+questions0.0
+search engines0.0
+promoted0.0
+networking0.0
+fantasy0.0
+friends0.0
+bay0.0
+cameras0.0
+topics0.0
+create0.0
+high school0.0
+used0.0
+dan0.0
+scouting0.0
+pinterest0.0
+blue0.07580769230769231
+statues0.0
+communities0.0
+score0.0
+jan0.0
+french0.10218461538461539
+senior0.0
+releases0.0
+single0.0
+employment0.0
+javascript0.0
+engines0.0
+data0.0875
+upload0.0
+magazine0.0
+journal0.0
+select0.0
+search by keyword0.0
+dress0.0
+big0.0
+log0.0
+archiv0.0
+kitchen0.0
+nba0.0
+customer service0.0
+rss0.0
+emulator0.0
+porn0.0
+flex0.0
+con0.0
+una0.0
+pet0.0
+box0.0
+boosts0.0
+bar0.0657
+bag0.0
+professional0.0
+caliber0.0
+furniture0.0
+forgot0.0
+skin0.0
+role0.0
+academic0.0
+market0.0
+southern0.0
+feedback0.0
+cricket0.0
+dog0.0
+quick view0.0
+apps0.0
+field0.0
+player0.0
+stories0.0615
+es0.0
+quality0.06079999999999999
+da0.0793
+stack overflow0.0
+archival0.0
+wig0.0
+operating systems0.0
+dictionary0.0625
+theater0.0
+enter0.044000000000000004
+features0.0
+active0.08855
+sales0.0
+actions0.0
+current0.0
+member join0.0
+trade0.0
+witnesses0.0
+vegas0.0
+ask0.0
+manager0.0
+les0.0
+flooded0.01069090909090909
+navigation0.0
+authors0.0
+tags0.0
+beauty0.0
+trusts0.0
+jewelry0.0
+las vegas0.0
+campus0.0
+guitar0.0
+reference0.0
+ms0.0
+italian0.0
+horse0.0
+africa0.0
+devices0.0
+oral0.0
+premium0.0
+gold0.0
+saved0.0
+social network0.0
+dependencies0.0
+church0.0
+match0.0
+remove0.0
+lighting0.0
+anonymous0.0
+vacation0.0
+edit0.0
+dark0.0
+hockey0.0
+hybrids0.0
+statistics0.03272727272727273
+mar0.0
+central0.0
+topic0.0
+library digital0.0
+photographs0.0
+recent0.0
+wit0.0
+bureau0.0
+vbulletin0.0
+gaming0.06440000000000001
+samsung0.058181818181818196
+national0.0
+redundant0.0
+street0.0
+project0.10813636363636364
+website0.0
+spanish0.0
+open0.0
+ships0.0
+floods0.0
+texas0.0
+hebrew0.0
+check0.0
+canada0.0
+patient0.0
+congestion0.0
+sell0.05904
+thu0.0
+view public profile0.0
+release0.0
+large0.0
+search web0.0
+reading0.0
+high school sports0.0
+set0.0
+dec0.0
+social networking0.0
+posts private0.0
+draft0.0
+movies0.0
+body0.0
+east0.0
+tweet0.0
+speculative0.0
+domain0.16127999999999998
+long0.0
+energy0.0
+urn0.0
+chinese0.0
+screen0.0
+documents0.0
+wine0.0
+downloads0.0
+polo0.0
+myriad0.0
+gas0.0
+ford0.0
+rated0.0
+iphone0.0
+green0.0
+cores0.0
+dynamo0.0
+sport0.0
+department0.0
+design0.0
+japanese0.0
+dating0.08399999999999999
+pages0.10294999999999999
+spring0.0
+hardware0.0
+di0.0
+carolina0.0
+interoperability0.0
+dates0.0
+hungarian0.0
+indonesian0.0
+sheet music0.0
+radio0.0
+finder0.08399999999999999
+using0.0
+america0.0
+nov0.0
+research0.0
+editor0.0
+promoter0.09424000000000002
+reports0.0
+property0.0
+reputable0.0
+orleans0.0
+florida0.0
+police0.0
+desktop0.08200000000000002
+gun0.0
+cookies0.0
+sun0.0
+hepatitis0.0
+kits0.0
+extra0.0
+download0.0
+birthday0.0
+rating0.0
+artist0.0
+metal0.0
+boosting0.0
+pricing0.0
+networks0.0
+age0.05973333333333333
+co0.0
+podcast0.0
+background0.0
+web search0.0
+rentals0.0
+super0.0
+google0.0
+holiday0.07373333333333333
+activity0.0
+tax0.0
+web services0.0
+category0.0
+ann0.1314
+beacons0.0
+cup0.0572
+retail0.0
+material0.0
+hebrew hungarian indonesian0.03
+renders0.0
+continue0.0
+samsung galaxy0.0
+god0.0
+auction0.0
+rental0.0
+toys0.0
+van0.0
+consumer0.0
+oct0.0
+look0.0
+animations0.0
+bill0.0
+server0.0
+vbulletin message0.0
+star wars0.0
+culture0.0
+availability0.0
+sweaters0.0
+control0.0
+shorts0.0
+boards0.0
+shows0.08333333333333333
+athletic0.0
+equipment0.0
+rent0.0
+directory0.0
+feb0.059033333333333333
+brand0.0
+classic0.0
+storage0.0
+court0.0
+next0.0
+visit0.0
+dependency0.0
+comic0.0
+tour help0.0
+actions mark forums0.0
+youth0.0572
+career0.0
+players0.0
+points0.0
+terms0.0
+chocolate0.08213333333333332
+prices0.0
+place0.0
+speakers0.0
+du0.0
+disc0.0
+mail0.05771250000000001
+part0.0
+mount0.0
+teams0.0
+call0.09191250000000001
+tool0.0
+song0.0
+lake0.0
+jerseys0.0
+security0.0
+class0.0
+good0.0
+dialogues0.0
+dealer0.0
+fishing0.0
+edition0.1248
+value0.0
+paper0.0
+funny0.0
+community links0.0
+gt0.0
+casual0.0
+used cars0.0
+rankings0.0
+picks0.0
+offers0.0
+fun0.0
+joined0.0
+galleries0.0
+piano0.0
+album0.0
+buying0.0
+watched0.0
+rules0.0
+resort0.0
+found0.0
+plan0.0
+na0.0
+medicine0.0
+endpoint0.0
+box office0.0
+views0.0
+nintendo0.0
+style0.0
+river0.0937125
+replies0.0
+volleyball0.0
+comics0.0
+letter0.0
+european0.10294999999999999
+member posts0.0
+fitness0.07215
+personalized0.0
+kit0.05535000000000001
+internet0.0
+social networks0.0
+legal0.0
+colorado0.0
+educational0.0
+christmas0.0
+centre0.0
+financial0.0
+wiki0.0
+oral history0.0
+sets0.0
+jeep0.0
+boat0.0
+days0.0
+science0.0
+bible0.0
+california0.0
+dr0.0739125
+council0.0
+new orleans0.0
+oil0.0
+championship0.0
+frozen0.0
+band0.0
+please enter0.0
+bank0.0
+sandals0.0
+robotic0.0
+resource management0.0
+russian0.05535000000000001
+profile send0.0
+plans0.0
+height0.0
+resorts0.0
+nutrition0.0
+miles0.0
+entries0.0
+repair0.0
+apparel0.0
+faqs0.0
+continue reading0.0
+started0.0
+en el0.0
+hospital0.0
+korean0.0
+getty0.084
+loss0.0
+cancer0.0892125
+camera0.0
+pagerank0.0
+files0.0
+bmw0.0
+francisco0.0
+forums home forums0.0
+performance0.0738
+z0.0
+shower0.0
+smart0.0
+road0.0
+home theater0.0
+studio0.0
+fly0.0
+enterprise0.0
+cbs0.0
+model0.0
+herald0.0
+mobile devices0.0
+bets0.0
+german0.0
+urban0.0
+garden0.09617142857142856
+footwear0.0
+ball0.0
+prophets0.0
+linux0.0
+stuff0.0
+health care0.0
+fruit0.0
+dvd0.0
+wall0.04205714285714286
+getty images0.0
+schedule roster0.0
+october0.0
+person0.0
+pictures0.0
+sites0.0
+added0.0
+window0.0
+development0.0
+cherokee0.0
+original0.0
+jeans0.0
+concessions0.0
+regional0.04525714285714285
+filter0.0
+tops0.0
+vintage0.0
+thanks0.0
+natural0.0
+lr0.0
+hours0.0
+stars0.0
+favorite0.0
+jun0.0
+den0.0
+gay0.0
+yang0.0
+managed0.0
+november0.0
+fl0.0
+sep0.0
+paint0.0
+cancel0.0
+ski0.0
+little0.0
+missing0.0
+enable javascript0.0
+hats0.0
+trajectory0.0
+decor0.0
+truck0.0
+username0.0
+saint0.0
+table0.0
+diego0.0
+timestamp0.0
+jul0.0
+search by date0.0
+auctions0.0
+nation0.0
+argumentation0.0
+giants0.0
+monitors0.0
+adventure0.0
+garage0.0
+machine0.0
+cell0.0
+san diego0.0
+bureau of labor statistics0.0
+logo0.0
+alerts0.0
+global0.0
+orange0.0
+phones0.0
+user name0.0
+england0.0
+disc golf0.0
+local news0.0
+london0.0
+historical0.0
+guides0.0
+small0.0
+restaurant0.0
+tablets0.0
+cloud0.0
+labor0.0
+plausible0.0
+close0.0
+society0.0
+mobile user0.0
+custom0.0
+software0.0
+epic0.0
+catalog0.0
+channel0.0
+oklahoma0.0
+html0.0
+marketplace0.0
+ratings0.0
+angeles0.0
+reply with quote0.0
+refers0.0
+town0.0
+running0.0
+rides0.0
+view single0.0
+bikes0.09874285714285713
+senior member0.0
+categories0.0
+models0.0
+content type0.0
+remember0.0
+forgot password0.0
+currency0.0
+course0.0
+lyrics0.0
+fans0.0
+study0.0
+tennis0.12434285714285713
+java0.0
+insurance0.0
+coast0.0
+adult0.0
+sie0.0
+shopping cart0.0
+oregon0.0
+decision0.0
+usd0.0
+keywords0.0
+guest0.0
+find more posts0.0
+enable0.0
+steve0.0
+helpful0.0
+four0.0
+canvas0.0
+version0.08245714285714285
+india0.0
+pop0.0
+swimming0.0
+offline0.0
+western0.0
+meta0.0
+fight0.0
+rates0.0
+ca0.0
+corporation0.0
+flight0.0572
+express0.0
+careers0.0
+month0.0
+technical0.0
+summer0.0
+meijer0.0
+jason0.0
+norwegian0.0
+au0.0
+previous0.0
+catholic0.0
+district0.0
+obituaries0.0
+pin0.0
+cortex0.0
+cut0.0
+fat0.055299999999999995
+michael0.0
+ceiling0.0492
+theatre0.0
+profilesend0.0
+last post0.0
+organization0.0273
+athletics0.0
+section0.0
+wagering0.0
+patterns0.0
+met0.0
+programming0.0
+outlet0.0
+expert0.0
+who0.0
+fit0.0
+al0.08120000000000001
+plus size0.0
+idf0.0
+computing0.0
+regular0.0
+making0.0
+object0.0
+playstation0.0
+rapids0.0
+night0.045000000000000005
+test0.0
+inn0.0
+messages0.0
+surgery0.0
+bath0.0
+italian japanese korean0.0
+single post0.0
+light0.0
+clear0.08120000000000001
+ii0.08329999999999999
+generosity0.0
+interactive0.0
+evening0.0
+socks0.035199999999999995
+prix0.0
+europe0.0
+illinois0.06413333333333333
+watches0.0
+china0.0768
+meeting0.12420000000000002
+friendly0.0
+finance0.0
+mediators0.0
+iron0.0
+badges0.0
+wigs0.0
+urban dictionary0.0
+orders0.0
+postby0.0
+grammar0.0
+concession0.0513
+diaper0.0
+icon0.0
+episode0.0
+boy0.0
+northern0.08303333333333333
+browns0.0
+uk0.0
+wheel0.15200000000000002
+congested0.0
+blogging0.0
+cash0.0
+text search0.0
+video game0.0
+grand cherokee0.0
+program0.0
+asian0.0
+archive web0.0
+profile find0.0
+processing0.0
+camping0.0
+recommendation0.035199999999999995
+premier0.0
+hall0.0
+child0.0
+ny0.0
+space0.0
+tom0.0
+washington0.0
+protein0.08
+owner0.0
+ways0.0
+prints home0.0
+pour0.0
+youtube0.0
+mathematics0.0
+feel0.0513
+position0.0
+source0.0
+knicks0.0
+tampa0.0
+bid0.0
+chronicle0.0
+flash0.0
+listings0.0
+view details0.0
+master0.08120000000000001
+sponsor0.0
+k0.0
+photography0.0
+nexus0.0
+designed0.0
+fabric0.0
+zealand0.0
+appliance0.0
+charity0.0
+uuid0.0
+lot0.0
+war0.0
+older0.0
+casino0.0
+czech0.0
+music home0.0
+hudson0.0
+serbian0.0
+music downloads0.0
+libraries0.037700000000000004
+nike0.0572
+fiction0.0
+power0.0
+robert0.0
+couples0.0
+hunting0.0
+registration0.0
+linked0.0
+san francisco0.0
+originally0.0
+quote postby0.0
+glass0.12375000000000001
+area0.0
+cable0.0
+wii0.07583333333333332
+basket0.0
+tutorials0.0
+answer0.0
+enabled0.0
+rate0.0
+houses0.0
+error0.12095000000000002
+device0.06863333333333332
+martial0.0
+mediated0.0
+total0.0
+forums home0.0
+arizona0.0
+death0.0
+names0.042499999999999996
+kentucky0.0
+standard0.0
+young0.0
+returns0.0
+theory0.0
+cross country0.0
+vita0.0
+use0.0
+staff0.0
+martial arts0.0
+case0.0
+trail0.0
+half0.0
+basic0.0
+wood0.0
+door0.0
+chat0.0
+decorations0.0513
+play0.0
+durango0.0
+weight0.06413333333333333
+awards0.0
+clip0.0
+atoms0.0
+nuevo0.0
+beer0.0
+post reply0.0
+head0.0
+friend0.0
+min0.0
+marine0.0
+selling0.0
+forecasters0.03
+permalink0.0
+pm re0.0
+costume0.0
+greeting0.0
+chicago0.0
+double0.0
+ice0.0
+headlines0.0
+greek0.0
+indian0.07369999999999999
+cap0.0
+own0.0
+wikipedia0.09856000000000001
+philadelphia0.0
+photo gifts0.0
+stemmed0.0
+feed0.0
+ein0.0
+emulation0.02944
+sleeve0.0
+fox0.0
+average0.08235999999999999
+downloads browse0.0
+guys0.0
+son0.0
+tumblr0.0
+slow0.07084000000000001
+marriott0.0
+backtrack0.0
+august0.0
+sea0.056440000000000004
+manage0.0
+usb0.0
+wager0.03916000000000001
+write0.0
+kansas0.0
+army0.0
+grand prix0.0
+antonio0.0
+popular items0.04224
+podcasts0.0
+net0.12096
+question0.0
+aviation0.0
+memory0.099
+mom0.04224
+link policy0.0
+npr0.0
+printed0.0
+holidays0.0
+weeks0.0
+photo gallery0.0
+commenting0.0
+ship0.0
+highest0.0
+mens0.0
+durango herald0.0
+ideas0.0
+usersview0.0
+magic0.0
+eur0.09424
+listing0.0
+cheated0.0
+add or remove0.0
+designed for educational0.0
+vista0.08064
+customer reviews0.0
+organic0.0
+photographic0.0
+zone0.0
+work0.0
+granular0.0
+movie reviews0.0
+im0.05376
+usa0.09964
+lewis0.0
+villa0.0
+courses0.0
+snow0.0
+view profile view0.0
+diamond0.0
+mi0.07884000000000001
+mo0.0
+fuel0.0
+pornstars0.0
+submit news0.0
+horses0.0
+abc0.0
+search the web0.02256
+fragrance0.0
+new zealand0.0
+pattern0.0
+auf0.04816000000000001
+blood0.0
+database0.0
+newspaper0.06400000000000002
+abuse0.0
+bra0.0
+hurricane0.0
+engagement0.0
+technology0.0
+brown0.0
+hand0.08064
+cub0.0
+ground0.0
+tip0.09984
+salary0.0
+works0.0
+indiana0.0
+coffee0.0
+foods0.0
+duty0.11249999999999999
+round0.0
+vehicle0.04524
+process0.0
+tigre0.0
+golden0.0
+earth0.0
+tees0.0
+message view0.0
+loading0.0
+alaska0.0
+handbags0.0
+av0.0
+cooking0.0
+weekend0.0
+indexes0.06864
+pc0.0
+channels0.0
+hard0.0
+chiefs0.07884000000000001
+heart0.04524
+packages0.0
+sheet music downloads0.0
+sanding0.0
+solar0.0
+post comments0.0
+hedges0.0
+photograph0.0
+roster news0.0
+vip0.0
+lists0.0
+sox0.0
+san antonio0.0
+economy0.0
+number0.0
+level0.0
+fort0.0
+romanian russian serbian0.0
+wear0.0
+surf0.0
+certified0.0
+politics0.0
+vote smart0.0
+news organization0.0
+delivery0.0
+runs0.0
+greeting cards0.0
+prayer0.10296000000000001
+maps0.0
+new releases0.0
+review helpful0.0
+wide0.0
+degree0.0
+headphones0.0
+cover0.0
+opera0.0
+skirts0.0
+jones0.0
+cloth0.0
+originally posted0.0
+basketball forum0.02604
+schools0.0
+member join date0.0
+statement0.0
+stocks0.0
+role playing games0.0
+designs0.0
+action0.0
+federal0.0
+pm post0.0
+message boards0.0
+royalty0.0
+british0.0
+hat0.0
+sony0.0
+houston0.0
+htc0.0
+front0.0
+lacrosse0.0
+side0.0
+wed0.0
+woman0.0
+romanian0.0
+comic books0.0
+massage0.0
+jeep forum0.0
+australia0.09996000000000001
+filipino0.0
+pain0.0
+von0.0
+coach0.0
+baltimore0.0
+change0.0
+apply0.0
+announcements0.0
+dining0.0
+home news0.0
+st0.0
+artwork0.0
+new york0.0
+themes0.0
+recipe0.0
+strap0.0
+reviews new0.0
+subscriber0.0
+carb0.0
+industry0.0
+envato0.0
+jacket0.0
+users0.0
+archery0.0
+ner0.0
+portuguese0.0
+installation0.0
+safety0.0
+est0.0
+frozen desserts0.0
+rescue0.0
+desserts0.0
+wsj0.0
+premier league0.0
+rings0.0
+new browse0.0
+trainer0.05376
+invitations0.0
+cinema0.0
+query0.0
+mba0.0
+speed0.0
+scenes0.0
+opens0.0
+tab0.0
+em0.13986
+louis0.0
+wheels0.0
+thing0.0
+blackberry0.0
+celebrities0.0
+chevy0.10294999999999999
+home decor0.0
+ubuntu0.0
+discuss0.0
+wait0.0
+bird0.0
+newspapers0.0
+mobile device0.0
+asked0.0
+outerwear0.0
+aids0.09620000000000001
+milk0.0
+airport0.0
+notes0.0
+diabetes0.0
+middle0.0
+breast0.0
+apartment0.0
+registry0.0
+sponsored0.0
+arbor0.0
+winter0.0
+tropes0.0
+pay0.0
+income0.0
+tampa bay0.0
+colors0.0
+recording0.0
+stores0.0
+democratic0.0
+kde0.0
+paint wars member0.0
+shirt0.0
+greek hebrew hungarian0.0
+fund0.0
+place an ad0.0
+sympathy0.0
+hiker0.0
+vacations0.0
+chris0.0
+bedrooms0.0
+disease0.0
+sharing0.0
+redundancy0.0
+yahoo0.105
+zip0.0
+apartments0.0
+los angeles0.0
+earnhardt0.0
+gluten free0.0
+transportation0.0
+checkout0.0
+oak0.0
+fast0.0
+carriers0.0
+academic calendar0.0
+quick look0.0
+recommended0.0
+emulating0.0
+rugs0.0
+cookie0.0
+drug0.0
+bittorrent0.0
+monitoring0.0
+iggy0.0
+framed0.0
+classical0.0
+knobs0.0
+cd0.09375
+species0.0
+conspiracy0.0
+search advanced0.0
+faculty0.0
+language0.0
+er0.12375000000000001
+kings0.0
+ltd0.0
+biology0.0
+materials0.0
+message board0.0
+agent0.0
+quot0.0
+math0.0
+kunsthaus0.007425000000000006
+ip0.0
+underground0.0
+prayer times0.0
+camaro0.0
+ignore0.0
+location0.0
+quiz0.0
+therapy0.0
+real time economics0.0
+schedules0.0
+digital collections0.0
+alabama0.0
+sold0.0
+additional0.0
+eastern0.0
+clips0.0
+nintendo wii0.0
+history basketball0.0
+jackson0.0
+lens0.0
+false0.0
+bulgarian0.0
+indonesia0.0
+historic0.0
+zz0.0
+aug0.0
+connect0.0
+latest video0.0
+watched usersview0.0
+tu0.0
+sql0.0
+detroit0.0
+films0.0
+oracle0.0
+lego0.0
+sur0.0
+ear0.0
+pride0.0
+merchandise0.0
+ufc0.0
+blowout cards0.0
+ma0.0
+seattle0.0
+led0.0
+idea0.0
+boston0.0
+desk0.0
+mexico0.0
+stop0.0
+fine0.0
+speculations0.0
+diapers0.0
+duke0.0
+heels0.0
+edt0.0
+digital collection0.0
+new year0.0
+commenting using0.0
+dollar0.0
+main content0.0
+fish0.0
+viewing0.0
+zu0.0
+words0.125
+local links0.0
+cultural0.0
+published0.0
+indonesian italian japanese0.0
+hollywood0.0
+post thanks0.0
+posts view0.0
+future0.0
+blowout0.0
+denver0.0
+cabinet0.0
+businesses0.0
+wife0.0
+update0.0
+anonymous coward0.0
+june0.12495
+appbrain0.0
+abusive0.07695
+mature0.0
+september0.0
+kindle0.0
+developer0.0
+weather service0.0
+adscan0.0
+birmingham0.0
+stack exchange communities company blog0.0
+term0.0
+porno0.0
+gloves0.0
+olympic0.0
+moreapril0.0
+dodge0.125
+airlines0.0
+baby names0.0
+fashion0.0
+karma0.0
+drink0.0
+kg0.0
+dale0.0
+amount0.0
+fox news0.0
+tanks0.0
+government0.0
+publication0.0
+busch0.0
+awareness0.0
+dt digital trends0.0
+url0.0
+stickers0.0
+orange mane0.0
+silver0.0
+election0.0
+drill0.0
+iggy azalea0.0
+gluten0.0
+cheese0.0
+give0.0
+hd0.0
+reddit0.0
+major0.0
+animate0.0
+kansas city0.0
+range0.0
+searching0.0
+heritage0.1512
+bass0.0
+car audio0.0
+ver0.0
+year old0.0
+um0.0
+personal trainer0.0
+interest0.0
+game theory0.0
+threaded0.0
+dt0.0
+sweaters dresses0.0
+speculated0.0
+saginaw0.0
+wrangler0.0
+ps0.0
+optional0.0
+iii0.0
+shops0.0
+cost0.0
+registered user0.0
+sound0.0
+ingredients0.0
+lamps0.0
+trump0.0
+top brands0.0
+act0.12255
+union0.0
+mad0.0
+gift card0.0
+starting0.0
+stemming0.0
+sugar0.0
+electric0.0
+gang0.0
+captain0.0
+privacy statement0.0
+eye0.0
+gift sets0.0
+shot0.0
+exclusive0.0
+espanol0.0
+jason mick0.0
+dow0.0
+belt0.0
+top rated0.0
+random0.0
+university of southern0.0
+subscription0.1178
+xperia0.0
+miami0.0
+marvel0.0
+nyc0.0
+plates0.0
+graduate0.0
+instagram0.0
+linkedin0.0
+cooker0.0
+law social0.0
+posts private message0.0
+cny0.0
+specials0.0
+marks0.0
+money0.0
+countries0.0
+mon0.0
+easter0.0
+nhl0.0
+prairie0.0
+textbooks0.0
+filipino french german0.0
+buzz0.0
+defense0.0
+ps vita0.0
+ends0.0
+sweet0.0
+baskets0.0
+coward0.0
+bull0.0
+arms0.0
+search forums0.0
+vacation rentals0.0
+flights0.0
+feeds0.0
+anonymous said0.0
+mane0.0
+synonyms0.0
+stock images0.0
+reporter0.0
+snowboard0.0
+lights0.0
+het0.0
+unlimited0.0
+policies0.0528
+cocktail0.0
+coaching0.0
+bedroom0.0368
+tits0.0
+automatic0.0
+view full0.0
+taxes0.0
+saints0.0
+cnbc0.0
+nie0.0
+share tweet0.06375
+tracking0.0
+forum discussion0.0
+trailer0.0
+jazz0.0
+recommend0.0
+xbox0.0
+knit0.0
+quality and service0.0
+advice0.0
+asia0.0
+bicycle0.0
+horror0.0
+southern california0.0
+monthly0.0
+chairs0.0
+advertiser0.0
+geek0.0
+frame0.0
+android app0.0
+admissions0.0
+kingdom0.0
+azalea0.0
+witnessing0.0
+colleges0.0
+contribute0.0
+autos0.0
+variety0.0
+yoga0.0
+world news0.0
+diet0.0
+public library0.0
+hill0.0
+doctor who0.0
+country girls cross0.0
+creative0.0
+compositions0.0
+cook0.0
+climbing0.0
+division0.0
+document0.0
+zum0.0
+create account0.0
+explore0.0
+agriculture0.0
+economics0.0
+carpet0.0
+dc0.0
+key0.0
+ios0.0
+drivers0.12420000000000002
+bollywood0.0
+rendere0.0
+sql server0.0
+bears0.0
+commercial0.0
+interviews0.0
+trends0.0
+craft0.0
+newsletters0.0
+wk0.0
+word0.0
+archiving0.0
+ft0.0
+iowa0.0
+mick0.0
+bir0.0
+information for authors0.0
+balls0.0
+missing information0.0
+speculate0.0
+hills0.0
+writers0.0
+dogs0.0
+distance0.0
+new posts0.0
+inspiration0.12255
+windows0.0
+floor0.0
+buying guide0.0
+donate0.0
+contest0.0
+teen0.0
+boosted0.0
+tables0.0
+camp0.0
+heavy0.0
+manchester0.0
+royal0.0
+two0.0
+environmental0.0
+toggle0.0
+amt0.0
+donald0.0
+democratic underground0.0
+salt0.0
+things0.0
+ways to help0.0
+hiv0.0
+dress shirts0.0
+square0.0
+whitewashed0.0
+dale earnhardt0.0
+za0.0
+changes0.0
+pics0.0
+pets0.0
+public profile find0.0
+infant0.0
+summary0.0
+sat0.0
+epic sports0.0
+nursing0.0
+pregnancy0.0
+japanese korean norwegian0.0
+cart save0.0
+buffalo0.0
+low carb0.0
+specialty0.0
+wrote0.0
+blog posts0.0
+us on twitter0.0
+corporate0.0
+cycling0.0
+connected0.0
+flag0.0
+payment0.0
+cat0.0
+papers0.0
+

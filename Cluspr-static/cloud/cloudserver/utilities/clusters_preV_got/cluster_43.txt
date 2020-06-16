@@ -1,0 +1,12 @@
+43
+brochure hotel|.|WET333.txt|.|10
+good question|.|WET3351.txt|.|175
+magical memories|.|WET6038.txt|.|32|.|WET2298.txt|.|35
+question|.|WET2130.txt|.|10|.|WET3351.txt|.|191|.|WET1337.txt|.|16|.|WET4083.txt|.|47|.|WET2231.txt|.|17
+send to friends|.|WET3351.txt|.|175
+calendarmoviestvtickets|.|WET1337.txt|.|16
+local groups question|.|WET1337.txt|.|16
+maryland|.|WET2316.txt|.|66
+forgive|.|WET4713.txt|.|14
+dusty baker|.|WET2927.txt|.|79
+push|.|WET1337.txt|.|20

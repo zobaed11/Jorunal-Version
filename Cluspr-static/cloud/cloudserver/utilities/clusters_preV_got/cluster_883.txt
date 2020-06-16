@@ -1,0 +1,12 @@
+883
+tractor parts|.|WET3345.txt|.|33
+fal|.|WET1785.txt|.|73
+works episode|.|WET5682.txt|.|4
+instruments|.|WET2866.txt|.|121
+new cars|.|WET1225.txt|.|23|.|WET4978.txt|.|39
+taxes|.|WET346.txt|.|3|.|WET2252.txt|.|15|.|WET4679.txt|.|30|.|WET566.txt|.|12
+kaley|.|WET5523.txt|.|43
+fleece jackets|.|WET1623.txt|.|32
+dual credit|.|WET1063.txt|.|9
+emulators|.|WET2700.txt|.|2|.|WET2244.txt|.|2
+binarie|.|WET5849.txt|.|225

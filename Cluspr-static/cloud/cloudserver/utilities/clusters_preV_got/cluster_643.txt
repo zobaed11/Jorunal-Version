@@ -1,0 +1,12 @@
+643
+dealers surveyors boat|.|WET3339.txt|.|11
+clear lake|.|WET3954.txt|.|70
+life jackets|.|WET2573.txt|.|32
+international yachts sales|.|WET3339.txt|.|22
+page top|.|WET1072.txt|.|48
+surveyors|.|WET3339.txt|.|11
+papadakis international yachts|.|WET3339.txt|.|22
+boats for sale|.|WET3340.txt|.|18
+advanced search|.|WET2724.txt|.|14|.|WET1759.txt|.|4|.|WET3340.txt|.|22|.|WET2288.txt|.|11|.|WET143.txt|.|14|.|WET226.txt|.|7|.|WET5846.txt|.|9|.|WET6027.txt|.|9|.|WET2951.txt|.|13|.|WET3339.txt|.|38|.|WET5038.txt|.|3|.|WET177.txt|.|15|.|WET2311.txt|.|7|.|WET1034.txt|.|16
+posts posted|.|WET1400.txt|.|40
+boat|.|WET3282.txt|.|67|.|WET6311.txt|.|35|.|WET2573.txt|.|140|.|WET3340.txt|.|97|.|WET3339.txt|.|242|.|WET1325.txt|.|35|.|WET5076.txt|.|16|.|WET3060.txt|.|22

@@ -1,0 +1,12 @@
+79
+mine|.|WET1997.txt|.|21
+diabetes mine|.|WET1997.txt|.|21
+biomed|.|WET3883.txt|.|12
+symptom|.|WET1997.txt|.|46|.|WET5738.txt|.|36
+health news|.|WET5095.txt|.|12|.|WET1997.txt|.|21
+heel pain|.|WET5576.txt|.|22
+casual sandals|.|WET1840.txt|.|4
+foot pain|.|WET3883.txt|.|50
+walking shoes|.|WET5576.txt|.|15
+bioidentical hormones|.|WET1997.txt|.|17
+contacts|.|WET3414.txt|.|16|.|WET2337.txt|.|37

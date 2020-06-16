@@ -1,0 +1,12 @@
+1430
+prime|.|WET3696.txt|.|35
+route|.|WET3522.txt|.|2|.|WET172.txt|.|11
+los sims|.|WET5285.txt|.|17
+write a review|.|WET1435.txt|.|7|.|WET3133.txt|.|12
+viittaavat sivutlinkitettyjen sivujen|.|WET3444.txt|.|9
+brushes|.|WET5955.txt|.|32
+motif|.|WET4592.txt|.|19
+serra|.|WET5250.txt|.|26
+chapel|.|WET303.txt|.|12
+knowledge|.|WET5859.txt|.|2|.|WET2710.txt|.|6
+combi|.|WET3775.txt|.|16

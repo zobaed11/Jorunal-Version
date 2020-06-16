@@ -1,0 +1,12 @@
+1273
+agriculture|.|WET210.txt|.|13|.|WET229.txt|.|48|.|WET228.txt|.|96|.|WET3975.txt|.|152
+art|.|WET4704.txt|.|8|.|WET6221.txt|.|9|.|WET5671.txt|.|18|.|WET228.txt|.|385|.|WET3574.txt|.|44|.|WET3976.txt|.|185|.|WET3096.txt|.|119|.|WET1502.txt|.|32|.|WET2836.txt|.|241|.|WET5506.txt|.|42|.|WET1930.txt|.|25|.|WET1205.txt|.|43|.|WET1447.txt|.|293|.|WET4960.txt|.|48|.|WET1202.txt|.|326|.|WET1143.txt|.|48|.|WET4958.txt|.|383|.|WET5253.txt|.|26|.|WET4970.txt|.|24|.|WET4957.txt|.|527|.|WET2589.txt|.|11|.|WET985.txt|.|98|.|WET4431.txt|.|10|.|WET6312.txt|.|15|.|WET4161.txt|.|5|.|WET5492.txt|.|65|.|WET229.txt|.|320|.|WET3772.txt|.|39|.|WET1203.txt|.|196|.|WET1101.txt|.|282|.|WET3975.txt|.|654
+dining room|.|WET4957.txt|.|16
+natural|.|WET869.txt|.|33|.|WET3143.txt|.|26|.|WET3455.txt|.|18|.|WET6199.txt|.|49|.|WET229.txt|.|108|.|WET3601.txt|.|64|.|WET3975.txt|.|342
+life art|.|WET5492.txt|.|6
+lata temu|.|WET4547.txt|.|32
+cart frame|.|WET4957.txt|.|219
+nast|.|WET5692.txt|.|16|.|WET5492.txt|.|18
+real weddings|.|WET2005.txt|.|12
+verse|.|WET5921.txt|.|32
+education designed|.|WET228.txt|.|10

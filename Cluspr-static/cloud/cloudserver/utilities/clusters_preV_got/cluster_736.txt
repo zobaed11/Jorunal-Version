@@ -1,0 +1,12 @@
+736
+blog view|.|WET5996.txt|.|23
+soccer shoes indoor|.|WET2916.txt|.|7
+soccer shoes|.|WET2917.txt|.|23|.|WET2916.txt|.|45
+new england|.|WET3341.txt|.|31
+worcester|.|WET1087.txt|.|52
+restauracje|.|WET3509.txt|.|28
+local ace|.|WET4863.txt|.|9
+body kit|.|WET2073.txt|.|16
+shift knobs|.|WET2073.txt|.|2
+kits|.|WET3341.txt|.|30|.|WET4847.txt|.|30|.|WET4863.txt|.|38|.|WET2916.txt|.|77|.|WET1087.txt|.|28|.|WET2073.txt|.|47|.|WET5815.txt|.|37|.|WET2392.txt|.|35|.|WET6061.txt|.|17
+tea parties|.|WET1215.txt|.|28|.|WET4970.txt|.|22

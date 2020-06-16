@@ -1,0 +1,12 @@
+650
+spri|.|WET1875.txt|.|27
+donald|.|WET3257.txt|.|112|.|WET1531.txt|.|10|.|WET2898.txt|.|20|.|WET323.txt|.|63
+live help|.|WET1002.txt|.|8
+floorstanding speakers|.|WET3576.txt|.|88
+jigsaw puzzles|.|WET2715.txt|.|42|.|WET2714.txt|.|70
+speakers|.|WET1219.txt|.|52|.|WET3576.txt|.|396|.|WET2383.txt|.|285|.|WET3575.txt|.|252|.|WET5761.txt|.|44|.|WET2926.txt|.|134|.|WET5326.txt|.|85|.|WET3577.txt|.|494
+electronic|.|WET5728.txt|.|11|.|WET3646.txt|.|4|.|WET2699.txt|.|1
+microstructuring|.|WET297.txt|.|8
+score sheet|.|WET1672.txt|.|22
+nach|.|WET3271.txt|.|30
+cyril kowaliski|.|WET4682.txt|.|59

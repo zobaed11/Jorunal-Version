@@ -1,0 +1,12 @@
+635
+bma management|.|WET5060.txt|.|6
+website directory|.|WET2395.txt|.|2
+linksbiology newsmedicine|.|WET1310.txt|.|7
+dictionaryhome|.|WET1310.txt|.|7
+linksbiology|.|WET1310.txt|.|10
+messages|.|WET5325.txt|.|2|.|WET1496.txt|.|41|.|WET776.txt|.|6|.|WET409.txt|.|11|.|WET4358.txt|.|19|.|WET5061.txt|.|23
+medicine|.|WET6081.txt|.|52|.|WET1310.txt|.|44|.|WET2046.txt|.|105|.|WET4055.txt|.|38|.|WET4047.txt|.|150|.|WET6073.txt|.|57|.|WET5789.txt|.|210|.|WET5060.txt|.|54
+cinema treasures|.|WET198.txt|.|25|.|WET3945.txt|.|25
+newsmedicine|.|WET1310.txt|.|10
+dictionarymedicine dictionaryhome|.|WET1310.txt|.|7
+living community|.|WET5060.txt|.|10

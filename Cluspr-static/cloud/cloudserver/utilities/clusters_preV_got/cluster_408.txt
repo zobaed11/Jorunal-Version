@@ -1,0 +1,12 @@
+408
+rig|.|WET2392.txt|.|20
+new kits|.|WET2392.txt|.|10
+truck models|.|WET2392.txt|.|10
+generations|.|WET4104.txt|.|7|.|WET139.txt|.|7
+temporal heterogeneity|.|WET139.txt|.|4
+forums shout contests|.|WET2393.txt|.|7
+photographer|.|WET6136.txt|.|173
+big rig|.|WET2392.txt|.|10
+model view|.|WET6136.txt|.|34|.|WET2393.txt|.|65
+model car|.|WET2392.txt|.|30
+temporal|.|WET139.txt|.|15

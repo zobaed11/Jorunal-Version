@@ -1,0 +1,12 @@
+16
+nexo knights|.|WET4617.txt|.|7
+contest|.|WET5871.txt|.|50|.|WET3781.txt|.|4|.|WET2674.txt|.|23|.|WET4485.txt|.|1
+carolina tar|.|WET1432.txt|.|19
+cinema guide|.|WET3839.txt|.|15
+state department|.|WET6058.txt|.|33
+calculs|.|WET64.txt|.|48
+bigscreen|.|WET3839.txt|.|17
+wb|.|WET2705.txt|.|4
+wc|.|WET2969.txt|.|16
+wu|.|WET3328.txt|.|15|.|WET3327.txt|.|5
+wv|.|WET2238.txt|.|48|.|WET5976.txt|.|18

@@ -1,0 +1,12 @@
+36
+tranny|.|WET2305.txt|.|51
+jacamo|.|WET5864.txt|.|26
+pavel|.|WET4336.txt|.|88
+variety|.|WET1107.txt|.|61|.|WET1015.txt|.|165|.|WET4758.txt|.|180|.|WET3099.txt|.|60
+york giants|.|WET3889.txt|.|42
+george|.|WET2437.txt|.|13|.|WET4968.txt|.|17|.|WET3220.txt|.|15
+vector|.|WET3737.txt|.|212|.|WET6199.txt|.|20
+classification|.|WET3886.txt|.|9
+surnames|.|WET143.txt|.|24
+message boards|.|WET143.txt|.|40|.|WET3889.txt|.|30|.|WET142.txt|.|53|.|WET144.txt|.|28|.|WET3886.txt|.|51
+gmt|.|WET143.txt|.|20|.|WET1505.txt|.|11

@@ -1,0 +1,12 @@
+683
+lista|.|WET3985.txt|.|42
+career|.|WET3437.txt|.|29|.|WET2814.txt|.|19|.|WET240.txt|.|240|.|WET3179.txt|.|3|.|WET6211.txt|.|12|.|WET3985.txt|.|458|.|WET2057.txt|.|33|.|WET3986.txt|.|160|.|WET4127.txt|.|28
+society|.|WET214.txt|.|49|.|WET3985.txt|.|166|.|WET2042.txt|.|9|.|WET3678.txt|.|98|.|WET5027.txt|.|24|.|WET3986.txt|.|60|.|WET62.txt|.|16
+score career|.|WET3986.txt|.|40
+test career runs|.|WET3985.txt|.|22
+countries australia bangladesh|.|WET3985.txt|.|11
+india new zealand|.|WET240.txt|.|30
+cricket society|.|WET3985.txt|.|110|.|WET3986.txt|.|40
+west indies|.|WET3986.txt|.|20
+doris duke|.|WET3437.txt|.|6
+england india new|.|WET240.txt|.|30

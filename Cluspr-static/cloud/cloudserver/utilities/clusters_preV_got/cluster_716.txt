@@ -1,0 +1,12 @@
+716
+crap|.|WET3083.txt|.|23
+computing|.|WET6307.txt|.|8|.|WET421.txt|.|3|.|WET3873.txt|.|6|.|WET6077.txt|.|18|.|WET943.txt|.|43|.|WET5206.txt|.|15
+jd supra|.|WET2133.txt|.|136|.|WET2134.txt|.|82|.|WET5874.txt|.|141
+director|.|WET4463.txt|.|86|.|WET567.txt|.|18|.|WET1015.txt|.|84
+missed|.|WET3083.txt|.|30
+opinie|.|WET4463.txt|.|17
+london average|.|WET2118.txt|.|26
+tax|.|WET2677.txt|.|34|.|WET4463.txt|.|12|.|WET3083.txt|.|58|.|WET1345.txt|.|36|.|WET4679.txt|.|58|.|WET2134.txt|.|109|.|WET3639.txt|.|183|.|WET4052.txt|.|57|.|WET2104.txt|.|38
+interoperability|.|WET5553.txt|.|2|.|WET3084.txt|.|2|.|WET3083.txt|.|2|.|WET265.txt|.|2|.|WET5993.txt|.|2|.|WET4423.txt|.|2|.|WET3195.txt|.|2|.|WET465.txt|.|2|.|WET4593.txt|.|3|.|WET510.txt|.|2
+deductions|.|WET4679.txt|.|32
+school director|.|WET4463.txt|.|67

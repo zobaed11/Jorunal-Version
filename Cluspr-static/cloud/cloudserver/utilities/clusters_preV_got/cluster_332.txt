@@ -1,0 +1,12 @@
+332
+system with dynamic|.|WET1946.txt|.|1
+rf spectrum|.|WET1946.txt|.|3
+corporate advocacy|.|WET2776.txt|.|37
+rf|.|WET1946.txt|.|33
+spectrum|.|WET1946.txt|.|5
+present invention|.|WET1946.txt|.|59|.|WET746.txt|.|56
+dynamic|.|WET1792.txt|.|8|.|WET1946.txt|.|14
+playback|.|WET755.txt|.|5|.|WET1946.txt|.|17|.|WET5761.txt|.|33
+present|.|WET1946.txt|.|76|.|WET746.txt|.|57|.|WET4977.txt|.|19
+playback of the first video|.|WET1946.txt|.|2
+education program|.|WET2316.txt|.|5

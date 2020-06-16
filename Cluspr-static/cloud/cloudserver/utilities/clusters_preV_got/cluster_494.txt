@@ -1,0 +1,12 @@
+494
+getty images|.|WET1910.txt|.|55|.|WET5648.txt|.|56|.|WET5649.txt|.|41|.|WET1912.txt|.|53|.|WET1911.txt|.|43|.|WET5647.txt|.|57|.|WET1909.txt|.|23
+elizabeth|.|WET1912.txt|.|15
+antonioli|.|WET1911.txt|.|10
+queen|.|WET1912.txt|.|12
+embedded images|.|WET5647.txt|.|11
+elsa antonioli|.|WET1911.txt|.|10
+elsa|.|WET1911.txt|.|10
+embedded|.|WET5647.txt|.|11
+elizabeth ii|.|WET1912.txt|.|13
+grimsby|.|WET5649.txt|.|33
+images apigetty|.|WET5647.txt|.|11

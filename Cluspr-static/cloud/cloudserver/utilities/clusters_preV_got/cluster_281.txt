@@ -1,0 +1,12 @@
+281
+addresses|.|WET3712.txt|.|33
+breast augmentation|.|WET2078.txt|.|28|.|WET3694.txt|.|35
+depot|.|WET1802.txt|.|303|.|WET6272.txt|.|93|.|WET6273.txt|.|60
+onion|.|WET1832.txt|.|37
+sound|.|WET2429.txt|.|11|.|WET4056.txt|.|22|.|WET1993.txt|.|67|.|WET2931.txt|.|89
+fat|.|WET1831.txt|.|86|.|WET1832.txt|.|70|.|WET2078.txt|.|30|.|WET3515.txt|.|20|.|WET3694.txt|.|88|.|WET5567.txt|.|128
+breast implants|.|WET2078.txt|.|15
+utilizando|.|WET3406.txt|.|4
+calories|.|WET1820.txt|.|22|.|WET1831.txt|.|66|.|WET5567.txt|.|149
+augmentation|.|WET2078.txt|.|30|.|WET3694.txt|.|46
+sugar|.|WET3443.txt|.|21|.|WET1831.txt|.|73|.|WET2067.txt|.|106|.|WET4659.txt|.|17

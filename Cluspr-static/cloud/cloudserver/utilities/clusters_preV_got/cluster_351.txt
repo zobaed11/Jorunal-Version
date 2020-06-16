@@ -1,0 +1,12 @@
+351
+moon|.|WET2779.txt|.|14
+groom mc|.|WET2791.txt|.|14
+morris university|.|WET2779.txt|.|21
+lincoln|.|WET227.txt|.|59|.|WET6017.txt|.|27
+robert morris|.|WET2779.txt|.|22
+library digital|.|WET186.txt|.|3|.|WET226.txt|.|8|.|WET215.txt|.|3|.|WET227.txt|.|57|.|WET185.txt|.|37|.|WET3932.txt|.|22|.|WET3934.txt|.|6|.|WET3973.txt|.|33|.|WET3819.txt|.|4|.|WET3962.txt|.|4|.|WET178.txt|.|11
+prices|.|WET3647.txt|.|2|.|WET1868.txt|.|14|.|WET2768.txt|.|31|.|WET1082.txt|.|3|.|WET6280.txt|.|6|.|WET3613.txt|.|98|.|WET2880.txt|.|6|.|WET2645.txt|.|2|.|WET2726.txt|.|101
+atlanta|.|WET227.txt|.|214|.|WET6202.txt|.|16
+programs admissions|.|WET2779.txt|.|10
+morris|.|WET2779.txt|.|22
+syracuse|.|WET203.txt|.|121

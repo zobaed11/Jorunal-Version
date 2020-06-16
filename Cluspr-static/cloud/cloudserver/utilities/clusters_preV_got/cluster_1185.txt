@@ -1,0 +1,12 @@
+1185
+exhibited|.|WET4960.txt|.|16
+speculations|.|WET4289.txt|.|1|.|WET705.txt|.|1|.|WET4692.txt|.|1|.|WET3323.txt|.|2
+june|.|WET4707.txt|.|55|.|WET3762.txt|.|40|.|WET5173.txt|.|105|.|WET3761.txt|.|29
+january|.|WET257.txt|.|22|.|WET208.txt|.|60|.|WET3762.txt|.|41|.|WET4622.txt|.|42|.|WET634.txt|.|29|.|WET217.txt|.|30|.|WET3861.txt|.|63|.|WET325.txt|.|112|.|WET4987.txt|.|27|.|WET118.txt|.|42|.|WET4289.txt|.|100|.|WET2808.txt|.|65|.|WET4284.txt|.|38|.|WET4623.txt|.|26|.|WET555.txt|.|28|.|WET530.txt|.|55|.|WET3873.txt|.|61|.|WET4213.txt|.|63|.|WET2770.txt|.|37|.|WET956.txt|.|53|.|WET123.txt|.|279|.|WET1510.txt|.|132|.|WET4960.txt|.|34
+caramelized onions|.|WET208.txt|.|13
+supra|.|WET2133.txt|.|137|.|WET2134.txt|.|82|.|WET5874.txt|.|141
+high performance computing|.|WET3873.txt|.|6
+life podcast|.|WET118.txt|.|4
+content of all information|.|WET3873.txt|.|3
+uk excluding|.|WET2118.txt|.|26
+dockside green|.|WET2923.txt|.|27

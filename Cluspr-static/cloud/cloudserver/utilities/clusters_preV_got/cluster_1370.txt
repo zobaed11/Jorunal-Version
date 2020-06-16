@@ -1,0 +1,12 @@
+1370
+morning class|.|WET3304.txt|.|6
+storm pics|.|WET3304.txt|.|6
+local news obituaries|.|WET2782.txt|.|28
+photos by dee|.|WET2782.txt|.|28
+economic development|.|WET1339.txt|.|27
+map rochester city|.|WET2782.txt|.|14
+newsreader|.|WET5090.txt|.|11
+flyers|.|WET5001.txt|.|4
+sports acc|.|WET3304.txt|.|7
+county times gazette|.|WET1397.txt|.|10
+inspection|.|WET3304.txt|.|24

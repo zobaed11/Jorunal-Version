@@ -1,0 +1,12 @@
+1269
+master wire|.|WET3690.txt|.|12
+tv shopping puzzles|.|WET2906.txt|.|31
+optimization|.|WET6180.txt|.|5
+tv jazz notes|.|WET2906.txt|.|31
+games comics horoscopes|.|WET2906.txt|.|31
+music tv shopping|.|WET2906.txt|.|31
+tots|.|WET3092.txt|.|25
+optimization problems|.|WET6180.txt|.|4
+shopping|.|WET3713.txt|.|44|.|WET5170.txt|.|20|.|WET2646.txt|.|35|.|WET2450.txt|.|26|.|WET3217.txt|.|51|.|WET3357.txt|.|40|.|WET1115.txt|.|16|.|WET1922.txt|.|25|.|WET4658.txt|.|26|.|WET1201.txt|.|3|.|WET2929.txt|.|35|.|WET2006.txt|.|15|.|WET921.txt|.|19|.|WET1248.txt|.|38|.|WET2767.txt|.|13|.|WET5991.txt|.|21|.|WET3092.txt|.|45|.|WET3690.txt|.|12|.|WET6180.txt|.|26|.|WET3740.txt|.|22|.|WET3649.txt|.|20|.|WET5885.txt|.|33|.|WET3539.txt|.|50|.|WET3091.txt|.|28|.|WET2144.txt|.|37|.|WET3216.txt|.|34|.|WET4211.txt|.|88|.|WET3529.txt|.|28|.|WET2906.txt|.|31|.|WET5073.txt|.|18|.|WET5843.txt|.|9
+problems|.|WET6180.txt|.|6
+polos|.|WET4610.txt|.|25|.|WET4658.txt|.|18

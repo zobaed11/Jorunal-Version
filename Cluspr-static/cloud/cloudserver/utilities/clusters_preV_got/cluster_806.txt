@@ -1,0 +1,12 @@
+806
+seat belt|.|WET5815.txt|.|4
+foaming soap|.|WET1260.txt|.|14
+refills|.|WET5012.txt|.|20|.|WET5011.txt|.|61
+wick candle|.|WET5011.txt|.|104
+signature collection|.|WET5011.txt|.|14
+fasciitis|.|WET1839.txt|.|60
+body works|.|WET5011.txt|.|99
+care shop all body|.|WET5010.txt|.|9
+foaming hand|.|WET1260.txt|.|90
+body|.|WET3629.txt|.|109|.|WET2732.txt|.|55|.|WET1839.txt|.|47|.|WET5010.txt|.|294|.|WET1260.txt|.|69|.|WET2985.txt|.|75|.|WET5011.txt|.|284|.|WET2073.txt|.|53|.|WET5815.txt|.|47|.|WET1325.txt|.|14
+scentportable refills|.|WET5011.txt|.|14

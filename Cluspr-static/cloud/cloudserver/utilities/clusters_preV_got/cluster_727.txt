@@ -1,0 +1,12 @@
+727
+online auction|.|WET555.txt|.|2|.|WET3303.txt|.|4|.|WET4299.txt|.|4
+divname|.|WET2101.txt|.|153
+sunrise|.|WET3303.txt|.|24|.|WET5698.txt|.|16
+lending|.|WET3302.txt|.|53
+credit cards|.|WET1671.txt|.|11|.|WET3302.txt|.|48
+free alternative|.|WET3302.txt|.|6
+ill|.|WET5258.txt|.|20
+auction occurs one time|.|WET3303.txt|.|27
+corning museum|.|WET5258.txt|.|43
+detailed forecast|.|WET3303.txt|.|16
+auction|.|WET5258.txt|.|40|.|WET555.txt|.|4|.|WET3302.txt|.|31|.|WET530.txt|.|3|.|WET200.txt|.|75|.|WET3303.txt|.|34|.|WET1483.txt|.|9|.|WET4299.txt|.|8|.|WET2101.txt|.|37

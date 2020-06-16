@@ -1,0 +1,12 @@
+1044
+utah|.|WET582.txt|.|184|.|WET2906.txt|.|170|.|WET3976.txt|.|590
+edrr|.|WET2102.txt|.|11
+view taping|.|WET725.txt|.|29
+baby boy|.|WET5186.txt|.|23
+oshkosh|.|WET5186.txt|.|137
+examples|.|WET4610.txt|.|30|.|WET5870.txt|.|201
+hand soap|.|WET1260.txt|.|84
+girl|.|WET5186.txt|.|98|.|WET1917.txt|.|45|.|WET1918.txt|.|19|.|WET5117.txt|.|33|.|WET4520.txt|.|7|.|WET5656.txt|.|163|.|WET1366.txt|.|33|.|WET4176.txt|.|82|.|WET4211.txt|.|81|.|WET3224.txt|.|114|.|WET4914.txt|.|55|.|WET5118.txt|.|21|.|WET2973.txt|.|78|.|WET5657.txt|.|141|.|WET4287.txt|.|1|.|WET5021.txt|.|9
+dark chocolate|.|WET5230.txt|.|57|.|WET1477.txt|.|182|.|WET5228.txt|.|183
+giochi di|.|WET5656.txt|.|12
+cerebral|.|WET998.txt|.|55

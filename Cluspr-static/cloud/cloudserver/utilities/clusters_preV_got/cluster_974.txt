@@ -1,0 +1,12 @@
+974
+reference|.|WET180.txt|.|8|.|WET1945.txt|.|226|.|WET4242.txt|.|187|.|WET2949.txt|.|24|.|WET5520.txt|.|27|.|WET1925.txt|.|18|.|WET1786.txt|.|32|.|WET3260.txt|.|20|.|WET494.txt|.|170|.|WET6100.txt|.|14|.|WET495.txt|.|136
+announcements welcome|.|WET5368.txt|.|7
+meditations perlmonks|.|WET2632.txt|.|14
+greatest threads|.|WET5368.txt|.|7
+writer search|.|WET3076.txt|.|21
+discussion|.|WET5051.txt|.|8|.|WET3466.txt|.|344|.|WET4242.txt|.|284|.|WET1504.txt|.|17|.|WET2632.txt|.|15|.|WET4243.txt|.|133|.|WET3076.txt|.|24|.|WET4152.txt|.|27|.|WET5206.txt|.|26|.|WET494.txt|.|260|.|WET5368.txt|.|34|.|WET1411.txt|.|35|.|WET4155.txt|.|154|.|WET495.txt|.|206
+writer|.|WET6145.txt|.|6|.|WET4082.txt|.|11|.|WET3076.txt|.|53
+lois lane|.|WET5.txt|.|9
+wolverines|.|WET4611.txt|.|67
+block code|.|WET1411.txt|.|13
+perlmonks discussion|.|WET2632.txt|.|14

@@ -1,0 +1,12 @@
+950
+greek|.|WET329.txt|.|22|.|WET3990.txt|.|11|.|WET3997.txt|.|5|.|WET471.txt|.|11|.|WET5474.txt|.|22|.|WET3884.txt|.|11
+greek hebrew hungarian|.|WET329.txt|.|11|.|WET3990.txt|.|11|.|WET471.txt|.|11|.|WET3884.txt|.|11
+danish dutch english|.|WET4446.txt|.|11
+months in french|.|WET5152.txt|.|135
+oak|.|WET5152.txt|.|370|.|WET6266.txt|.|123|.|WET2531.txt|.|75|.|WET6181.txt|.|40
+nouveau|.|WET4169.txt|.|11
+french drains|.|WET1133.txt|.|4
+french german greek|.|WET329.txt|.|11|.|WET3884.txt|.|11
+sauvignon|.|WET5152.txt|.|445|.|WET3297.txt|.|50
+store cart french|.|WET4169.txt|.|11
+cabernet sauvignon|.|WET5152.txt|.|362|.|WET3297.txt|.|33

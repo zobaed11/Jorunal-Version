@@ -1,0 +1,28 @@
+3
+stems|.|WET706.txt|.|1|.|WET3018.txt|.|1|.|WET93.txt|.|1|.|WET4998.txt|.|2|.|WET4173.txt|.|1|.|WET1392.txt|.|1|.|WET4574.txt|.|1|.|WET6303.txt|.|2|.|WET2100.txt|.|2|.|WET150.txt|.|1|.|WET1803.txt|.|1|.|WET1083.txt|.|3|.|WET2677.txt|.|1|.|WET3780.txt|.|1|.|WET809.txt|.|1|.|WET1833.txt|.|2|.|WET4547.txt|.|3|.|WET1053.txt|.|2|.|WET752.txt|.|2|.|WET1834.txt|.|2|.|WET3376.txt|.|1
+club friendlies|.|WET2918.txt|.|16
+northern|.|WET2514.txt|.|26|.|WET5147.txt|.|13|.|WET2108.txt|.|25|.|WET1277.txt|.|21|.|WET6247.txt|.|20|.|WET1803.txt|.|81
+bayern|.|WET2918.txt|.|91|.|WET902.txt|.|39
+sexy asian|.|WET4781.txt|.|27
+championship|.|WET701.txt|.|30|.|WET1804.txt|.|32|.|WET4982.txt|.|23|.|WET2918.txt|.|92|.|WET5539.txt|.|32|.|WET1805.txt|.|123|.|WET2643.txt|.|67|.|WET2644.txt|.|41
+latin|.|WET1803.txt|.|37|.|WET6140.txt|.|67
+friendlies|.|WET2918.txt|.|49
+horror|.|WET3851.txt|.|14|.|WET5041.txt|.|27|.|WET1290.txt|.|36|.|WET5767.txt|.|55
+champions|.|WET2918.txt|.|178|.|WET1572.txt|.|20|.|WET2919.txt|.|84
+movie reviews|.|WET5041.txt|.|57|.|WET1290.txt|.|76|.|WET6162.txt|.|69|.|WET2419.txt|.|10|.|WET1921.txt|.|17
+scouting|.|WET1202.txt|.|2|.|WET5005.txt|.|2|.|WET468.txt|.|2|.|WET4552.txt|.|2|.|WET1803.txt|.|1|.|WET294.txt|.|2|.|WET4163.txt|.|2|.|WET1064.txt|.|3|.|WET3481.txt|.|2|.|WET4278.txt|.|2|.|WET3796.txt|.|2|.|WET4956.txt|.|3|.|WET813.txt|.|3
+champions league uefa|.|WET2918.txt|.|24
+reviews asian|.|WET5041.txt|.|15
+league|.|WET1256.txt|.|232|.|WET3124.txt|.|38|.|WET3306.txt|.|54|.|WET2917.txt|.|131|.|WET2918.txt|.|239|.|WET1572.txt|.|31|.|WET4394.txt|.|74|.|WET3044.txt|.|23|.|WET2580.txt|.|85|.|WET4693.txt|.|81|.|WET2948.txt|.|26|.|WET3898.txt|.|23|.|WET5805.txt|.|8|.|WET1257.txt|.|180|.|WET6318.txt|.|41|.|WET1929.txt|.|118|.|WET700.txt|.|41|.|WET415.txt|.|22|.|WET2919.txt|.|110|.|WET3045.txt|.|42|.|WET3951.txt|.|17|.|WET4441.txt|.|27|.|WET2499.txt|.|57|.|WET5670.txt|.|95
+asian|.|WET4781.txt|.|190|.|WET5041.txt|.|30|.|WET2918.txt|.|121|.|WET1290.txt|.|40|.|WET1327.txt|.|34|.|WET1803.txt|.|145
+reviews horror|.|WET1290.txt|.|20
+northern european|.|WET1803.txt|.|37
+movie reviews horror|.|WET5041.txt|.|15
+sands|.|WET3210.txt|.|2|.|WET4482.txt|.|2|.|WET5344.txt|.|2|.|WET265.txt|.|2|.|WET5046.txt|.|2|.|WET4814.txt|.|2|.|WET1329.txt|.|1|.|WET3723.txt|.|2|.|WET1803.txt|.|1|.|WET4100.txt|.|2|.|WET743.txt|.|2|.|WET148.txt|.|2|.|WET4176.txt|.|2|.|WET130.txt|.|4|.|WET4149.txt|.|5|.|WET4021.txt|.|2
+asian movie|.|WET1290.txt|.|32
+qualification|.|WET2918.txt|.|154
+innovations|.|WET3684.txt|.|2|.|WET2189.txt|.|2|.|WET3671.txt|.|2|.|WET4221.txt|.|2|.|WET1803.txt|.|3|.|WET994.txt|.|2|.|WET4664.txt|.|2|.|WET5358.txt|.|2|.|WET1062.txt|.|2|.|WET2770.txt|.|1|.|WET231.txt|.|2|.|WET5685.txt|.|3|.|WET5686.txt|.|1|.|WET2453.txt|.|2|.|WET5919.txt|.|2|.|WET4309.txt|.|3|.|WET2372.txt|.|2|.|WET263.txt|.|2|.|WET1649.txt|.|1|.|WET2249.txt|.|2|.|WET786.txt|.|2|.|WET1100.txt|.|2|.|WET2077.txt|.|2|.|WET2038.txt|.|4|.|WET3733.txt|.|2
+green hornet|.|WET1290.txt|.|7
+asian movie reviews|.|WET5041.txt|.|15
+hornet|.|WET1290.txt|.|7
+uefa|.|WET2918.txt|.|82

@@ -1,0 +1,12 @@
+1372
+dishwashers|.|WET42.txt|.|18
+statues|.|WET2695.txt|.|2|.|WET2442.txt|.|2|.|WET5030.txt|.|2|.|WET4998.txt|.|1|.|WET1829.txt|.|2|.|WET1089.txt|.|2|.|WET5048.txt|.|17|.|WET4502.txt|.|1|.|WET4806.txt|.|2|.|WET4201.txt|.|2|.|WET4484.txt|.|2|.|WET3255.txt|.|4|.|WET5047.txt|.|2
+extreme values|.|WET1322.txt|.|18
+oundle museum|.|WET2570.txt|.|8
+calvin|.|WET5501.txt|.|44|.|WET5035.txt|.|113
+challenge modes|.|WET3554.txt|.|17
+managed services|.|WET1574.txt|.|3|.|WET5322.txt|.|2|.|WET3415.txt|.|6
+coolest|.|WET1574.txt|.|10
+waterproof insulated|.|WET2787.txt|.|16
+islamische|.|WET2910.txt|.|12
+story latest|.|WET5171.txt|.|14

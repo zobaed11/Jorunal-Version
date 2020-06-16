@@ -1,0 +1,12 @@
+1353
+cnbc|.|WET5260.txt|.|95|.|WET1509.txt|.|16|.|WET1019.txt|.|80|.|WET4764.txt|.|98
+nel|.|WET5658.txt|.|34
+comentando utilizando|.|WET3406.txt|.|4
+zettai|.|WET2304.txt|.|25
+human rights|.|WET1223.txt|.|32
+us today|.|WET474.txt|.|46|.|WET2000.txt|.|73
+nfc|.|WET3844.txt|.|13
+franklin|.|WET4122.txt|.|12|.|WET2421.txt|.|10
+net|.|WET1970.txt|.|155|.|WET2701.txt|.|48|.|WET6092.txt|.|20|.|WET5711.txt|.|118|.|WET2842.txt|.|184
+ivy|.|WET4271.txt|.|36
+composite schedule|.|WET4271.txt|.|35

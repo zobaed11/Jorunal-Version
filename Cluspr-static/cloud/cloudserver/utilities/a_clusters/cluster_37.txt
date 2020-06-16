@@ -1,0 +1,29 @@
+37
+invalidate stag|.|rfc5040.txt|.|15
+type pdu|.|rfc5046.txt|.|4|.|rfc5047.txt|.|1
+rdma read|.|rfc5666.txt|.|36|.|rfc5046.txt|.|88|.|rfc5040.txt|.|199
+data source|.|rfc5040.txt|.|89
+local peer|.|rfc5040.txt|.|43
+talpey informational|.|rfc4296.txt|.|22
+data buffer|.|rfc5042.txt|.|27
+data sink|.|rfc5045.txt|.|17|.|rfc5040.txt|.|94
+ddp and rdma|.|rfc4296.txt|.|33
+sctp and tcp|.|rfc5045.txt|.|4
+callaghan standards track|.|rfc5666.txt|.|34
+transport for rpc january|.|rfc5666.txt|.|33
+rdma transport|.|rfc5666.txt|.|50
+read|.|rfc2558.txt|.|3|.|rfc4545.txt|.|3|.|rfc2096.txt|.|1|.|rfc5666.txt|.|82|.|rfc5046.txt|.|166|.|rfc2206.txt|.|1|.|rfc492.txt|.|11|.|rfc3606.txt|.|1|.|rfc4273.txt|.|1|.|rfc3872.txt|.|1|.|rfc3591.txt|.|1|.|rfc3815.txt|.|8|.|rfc4444.txt|.|4|.|rfc4560.txt|.|1|.|rfc3512.txt|.|8|.|rfc2559.txt|.|16|.|rfc4382.txt|.|3|.|rfc2183.txt|.|1|.|rfc5040.txt|.|230|.|rfc4527.txt|.|15|.|rfc3592.txt|.|3
+rdma over ip|.|rfc4297.txt|.|20
+high speed|.|rfc4297.txt|.|5
+rdmap layer|.|rfc5040.txt|.|87
+invalidate|.|rfc5040.txt|.|107
+callaghan|.|rfc2054.txt|.|19|.|rfc5666.txt|.|39|.|rfc2224.txt|.|16
+ip problem statement|.|rfc4297.txt|.|20
+memory bandwidth|.|rfc4297.txt|.|15
+rdma read operation|.|rfc5040.txt|.|16
+rdmap stream|.|rfc5040.txt|.|45
+rdma protocols|.|rfc4296.txt|.|12
+terminate message|.|rfc5040.txt|.|47
+rdma|.|rfc5042.txt|.|110|.|rfc5045.txt|.|47|.|rfc4297.txt|.|59|.|rfc4296.txt|.|118|.|rfc5666.txt|.|226|.|rfc5046.txt|.|189|.|rfc5040.txt|.|497
+problem statement december|.|rfc4297.txt|.|19
+terminate|.|rfc2139.txt|.|1|.|rfc5040.txt|.|101|.|rfc3343.txt|.|22|.|rfc4511.txt|.|12

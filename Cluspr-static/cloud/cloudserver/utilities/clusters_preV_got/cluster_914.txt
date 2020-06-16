@@ -1,0 +1,12 @@
+914
+feedback|.|WET2136.txt|.|22|.|WET2137.txt|.|20|.|WET4137.txt|.|47|.|WET2609.txt|.|158|.|WET2135.txt|.|21|.|WET397.txt|.|55|.|WET2610.txt|.|323|.|WET3681.txt|.|14|.|WET5389.txt|.|22|.|WET5231.txt|.|39|.|WET3526.txt|.|10|.|WET4551.txt|.|31
+appliance|.|WET5037.txt|.|48|.|WET3793.txt|.|111|.|WET46.txt|.|230|.|WET1189.txt|.|16|.|WET2596.txt|.|38|.|WET3681.txt|.|7
+peppers|.|WET5231.txt|.|20
+view feedback|.|WET2609.txt|.|58|.|WET2610.txt|.|141
+leave feedback|.|WET4137.txt|.|47|.|WET397.txt|.|55
+fajitas|.|WET5231.txt|.|22
+saves dirt cake|.|WET5231.txt|.|20
+salmon|.|WET5231.txt|.|20
+profile view feedback|.|WET2610.txt|.|141
+stuffed|.|WET5231.txt|.|21
+dryer|.|WET3681.txt|.|7

@@ -1,0 +1,12 @@
+371
+rookies|.|WET6149.txt|.|12
+zappos|.|WET3357.txt|.|147
+chinese grand|.|WET5517.txt|.|66
+dictionary|.|WET492.txt|.|18|.|WET2575.txt|.|150|.|WET4689.txt|.|20|.|WET4269.txt|.|20|.|WET4268.txt|.|22|.|WET280.txt|.|77|.|WET3350.txt|.|45|.|WET2576.txt|.|156|.|WET4512.txt|.|24|.|WET6314.txt|.|146|.|WET932.txt|.|14|.|WET6313.txt|.|102
+tory|.|WET778.txt|.|26
+prix|.|WET5517.txt|.|271|.|WET1781.txt|.|363|.|WET701.txt|.|40|.|WET1782.txt|.|45|.|WET6149.txt|.|27|.|WET2405.txt|.|63
+top ten|.|WET5517.txt|.|78
+statistics essentials|.|WET1781.txt|.|16
+gina|.|WET915.txt|.|16
+sponsor motogp|.|WET6149.txt|.|3
+dining|.|WET4840.txt|.|58|.|WET5891.txt|.|21|.|WET2995.txt|.|55|.|WET4957.txt|.|16|.|WET1654.txt|.|66

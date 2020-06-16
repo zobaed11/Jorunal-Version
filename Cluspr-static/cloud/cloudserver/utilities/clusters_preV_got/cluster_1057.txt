@@ -1,0 +1,12 @@
+1057
+direkt|.|WET4975.txt|.|20|.|WET4976.txt|.|22
+reisen und gesundheit|.|WET4975.txt|.|28
+deutschland|.|WET1222.txt|.|54|.|WET4975.txt|.|44
+opensuse|.|WET594.txt|.|13
+europapolitik|.|WET4976.txt|.|27
+mapid project|.|WET2910.txt|.|5
+und|.|WET594.txt|.|134|.|WET5643.txt|.|26|.|WET2910.txt|.|23|.|WET1625.txt|.|33|.|WET4942.txt|.|38|.|WET6251.txt|.|13|.|WET3422.txt|.|73|.|WET1329.txt|.|26|.|WET1645.txt|.|42|.|WET3271.txt|.|43|.|WET4976.txt|.|392|.|WET3424.txt|.|54|.|WET3796.txt|.|33|.|WET5610.txt|.|24|.|WET4008.txt|.|44|.|WET1181.txt|.|27|.|WET4975.txt|.|348
+link verweist auf|.|WET4976.txt|.|32
+nach lage regionen|.|WET3271.txt|.|12
+related accessories|.|WET3422.txt|.|16
+news games|.|WET5610.txt|.|7

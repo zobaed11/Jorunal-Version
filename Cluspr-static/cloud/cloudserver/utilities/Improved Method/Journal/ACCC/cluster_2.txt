@@ -1,0 +1,36 @@
+2
+sauces|.|WET3528.txt|.|90
+new delhi|.|WET510.txt|.|104
+state john|.|WET510.txt|.|104
+videos indian|.|WET4718.txt|.|17
+vegetable|.|WET2679.txt|.|6|.|WET3528.txt|.|50
+kerry|.|WET510.txt|.|107
+please contact|.|WET5824.txt|.|5
+vegetable spices|.|WET3528.txt|.|40
+spices indian|.|WET3528.txt|.|70
+scandal|.|WET4718.txt|.|18
+potato|.|WET5703.txt|.|29|.|WET3528.txt|.|40
+cooking|.|WET1832.txt|.|51|.|WET2996.txt|.|9|.|WET5232.txt|.|49|.|WET1481.txt|.|52|.|WET3528.txt|.|140
+loyola university|.|WET3927.txt|.|69
+organic|.|WET3527.txt|.|137|.|WET920.txt|.|82|.|WET919.txt|.|78|.|WET3528.txt|.|530|.|WET4656.txt|.|66
+scandal videos|.|WET4718.txt|.|16
+john kerry|.|WET510.txt|.|107
+sentinel|.|WET3927.txt|.|11|.|WET2154.txt|.|45
+indian institute|.|WET510.txt|.|14
+pickering|.|WET4718.txt|.|10
+spices organic|.|WET3528.txt|.|280
+spices potato|.|WET3528.txt|.|20
+indian spy videos|.|WET4718.txt|.|8
+july|.|WET40.txt|.|20|.|WET510.txt|.|91
+meat spices|.|WET3528.txt|.|30
+interoperability|.|WET5553.txt|.|2|.|WET3084.txt|.|2|.|WET3083.txt|.|2|.|WET265.txt|.|2|.|WET5993.txt|.|2|.|WET4423.txt|.|2|.|WET3195.txt|.|2|.|WET465.txt|.|2|.|WET4593.txt|.|3|.|WET510.txt|.|2
+indian sentinel|.|WET3927.txt|.|9
+graduate students|.|WET510.txt|.|6
+cooking sauces|.|WET3528.txt|.|70
+delhi july|.|WET510.txt|.|90
+meat|.|WET3528.txt|.|80|.|WET1632.txt|.|26
+institute|.|WET777.txt|.|15|.|WET510.txt|.|14|.|WET1205.txt|.|12
+delhi|.|WET510.txt|.|106
+spices|.|WET920.txt|.|120|.|WET3528.txt|.|760
+spy|.|WET4718.txt|.|8
+indian|.|WET5824.txt|.|17|.|WET3927.txt|.|17|.|WET4718.txt|.|36|.|WET511.txt|.|27|.|WET3528.txt|.|556|.|WET510.txt|.|51

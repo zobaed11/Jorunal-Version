@@ -1,0 +1,12 @@
+72
+gaia|.|WET5613.txt|.|53|.|WET1875.txt|.|28
+gardening|.|WET1416.txt|.|30|.|WET5142.txt|.|33
+wed|.|WET6281.txt|.|23|.|WET1629.txt|.|39|.|WET1845.txt|.|21|.|WET3355.txt|.|21|.|WET402.txt|.|94
+price match|.|WET5891.txt|.|24|.|WET2872.txt|.|21
+wesleyan|.|WET3960.txt|.|39
+lewis|.|WET3960.txt|.|70|.|WET5891.txt|.|77|.|WET213.txt|.|136|.|WET212.txt|.|66|.|WET5446.txt|.|27
+southern illinois university|.|WET213.txt|.|192
+guarantee|.|WET5891.txt|.|9|.|WET3357.txt|.|17
+vatican|.|WET2565.txt|.|132
+john lewis|.|WET5891.txt|.|74
+outdoors ski conditions|.|WET2484.txt|.|33

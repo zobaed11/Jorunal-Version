@@ -1,0 +1,12 @@
+188
+ct|.|WET3365.txt|.|144
+header bidding|.|WET3365.txt|.|44
+mostrar precios|.|WET3730.txt|.|115
+header bidding section|.|WET3365.txt|.|44
+bidding|.|WET4394.txt|.|1|.|WET3365.txt|.|44
+nc|.|WET3365.txt|.|164
+jose|.|WET6092.txt|.|13|.|WET3758.txt|.|15
+cleaner|.|WET3759.txt|.|36|.|WET6298.txt|.|81
+az|.|WET3365.txt|.|121
+header|.|WET3365.txt|.|44
+ca|.|WET3239.txt|.|20|.|WET9.txt|.|36|.|WET5784.txt|.|10|.|WET3758.txt|.|18|.|WET3365.txt|.|637|.|WET3630.txt|.|42

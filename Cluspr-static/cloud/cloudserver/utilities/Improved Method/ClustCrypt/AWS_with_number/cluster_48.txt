@@ -1,0 +1,10 @@
+48
+tapenade|.|WET4760.txt|.|9
+user amount|.|WET3382.txt|.|12
+uncle|.|WET367.txt|.|14
+ignore exact|.|WET357.txt|.|7
+air force|.|WET367.txt|.|62
+october|.|WET1988.txt|.|7|.|WET357.txt|.|86|.|WET4760.txt|.|43|.|WET247.txt|.|31|.|WET367.txt|.|224|.|WET3382.txt|.|184|.|WET3167.txt|.|84
+husband|.|WET2770.txt|.|26|.|WET367.txt|.|72
+matches ignore|.|WET357.txt|.|7
+matches|.|WET357.txt|.|7

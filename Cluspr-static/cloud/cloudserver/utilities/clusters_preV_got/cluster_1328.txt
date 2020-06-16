@@ -1,0 +1,12 @@
+1328
+arts array|.|WET3219.txt|.|7
+reputations|.|WET1819.txt|.|1|.|WET3797.txt|.|1|.|WET2698.txt|.|1
+eats|.|WET1833.txt|.|15|.|WET4064.txt|.|4|.|WET4256.txt|.|42
+templeton|.|WET288.txt|.|9
+martial arts|.|WET1705.txt|.|20|.|WET1388.txt|.|31|.|WET1389.txt|.|31|.|WET5138.txt|.|48|.|WET1118.txt|.|22|.|WET5139.txt|.|27
+programs auditions|.|WET2427.txt|.|60
+governor|.|WET2698.txt|.|20
+hawkins|.|WET4031.txt|.|8
+arts|.|WET1705.txt|.|20|.|WET5721.txt|.|11|.|WET1388.txt|.|32|.|WET1700.txt|.|33|.|WET2200.txt|.|15|.|WET4256.txt|.|68|.|WET511.txt|.|28|.|WET5446.txt|.|33|.|WET288.txt|.|18|.|WET1389.txt|.|33|.|WET5138.txt|.|48|.|WET4714.txt|.|4|.|WET4031.txt|.|13|.|WET1701.txt|.|21|.|WET2698.txt|.|40|.|WET5616.txt|.|9|.|WET5447.txt|.|9|.|WET2143.txt|.|21|.|WET2627.txt|.|40|.|WET1118.txt|.|35|.|WET5139.txt|.|33|.|WET6308.txt|.|22|.|WET2427.txt|.|36|.|WET3219.txt|.|9|.|WET3881.txt|.|113|.|WET1195.txt|.|5|.|WET1699.txt|.|33|.|WET4699.txt|.|15|.|WET1220.txt|.|23|.|WET5445.txt|.|34|.|WET3077.txt|.|4|.|WET3927.txt|.|17|.|WET3254.txt|.|15|.|WET171.txt|.|93|.|WET23.txt|.|11|.|WET5391.txt|.|9|.|WET2618.txt|.|32
+indiana newsdesk|.|WET4256.txt|.|39
+public television|.|WET4256.txt|.|48

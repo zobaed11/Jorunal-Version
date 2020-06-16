@@ -1,0 +1,12 @@
+390
+entry|.|WET3862.txt|.|20
+avraham mishnah|.|WET1206.txt|.|11
+great answer|.|WET5561.txt|.|45
+inhibitor|.|WET1313.txt|.|46
+barrel staves|.|WET2175.txt|.|20
+previous month next|.|WET4247.txt|.|14
+view full day|.|WET4247.txt|.|2
+month next month|.|WET4247.txt|.|20
+vistaluxe|.|WET5934.txt|.|24
+movie theaters|.|WET198.txt|.|25|.|WET3945.txt|.|18
+memes new events|.|WET362.txt|.|20

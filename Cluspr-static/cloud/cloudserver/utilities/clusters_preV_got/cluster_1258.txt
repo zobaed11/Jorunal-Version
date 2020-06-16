@@ -1,0 +1,12 @@
+1258
+sunny leone|.|WET698.txt|.|7
+year|.|WET876.txt|.|50|.|WET5891.txt|.|11|.|WET6204.txt|.|1|.|WET4081.txt|.|8|.|WET885.txt|.|27|.|WET4743.txt|.|37|.|WET3862.txt|.|27|.|WET6.txt|.|2|.|WET3712.txt|.|24|.|WET295.txt|.|192|.|WET2247.txt|.|7|.|WET1053.txt|.|2|.|WET4190.txt|.|47|.|WET698.txt|.|132|.|WET4616.txt|.|50|.|WET2088.txt|.|27|.|WET4834.txt|.|150|.|WET4202.txt|.|6|.|WET57.txt|.|14|.|WET1606.txt|.|43|.|WET6275.txt|.|20|.|WET801.txt|.|11|.|WET2161.txt|.|64|.|WET4216.txt|.|32|.|WET1064.txt|.|41|.|WET3051.txt|.|24|.|WET3886.txt|.|11|.|WET3895.txt|.|23|.|WET5021.txt|.|9
+joints|.|WET2067.txt|.|88|.|WET5808.txt|.|89
+year estimates|.|WET3712.txt|.|6
+confidence|.|WET3712.txt|.|15
+craftsvictorian more home|.|WET1520.txt|.|11|.|WET5271.txt|.|11
+days|.|WET2161.txt|.|123|.|WET4419.txt|.|29|.|WET4906.txt|.|27|.|WET4347.txt|.|70|.|WET3607.txt|.|12|.|WET2409.txt|.|20|.|WET3105.txt|.|24|.|WET37.txt|.|41
+confidence interval|.|WET3712.txt|.|9
+info date|.|WET3415.txt|.|183
+sunny|.|WET2990.txt|.|14|.|WET698.txt|.|8
+social explorer|.|WET3712.txt|.|10

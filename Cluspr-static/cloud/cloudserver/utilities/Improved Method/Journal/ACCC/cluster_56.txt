@@ -1,0 +1,32 @@
+56
+polish portuguese|.|WET3997.txt|.|5
+romanian russian serbian|.|WET4268.txt|.|11|.|WET704.txt|.|11|.|WET140.txt|.|11|.|WET4169.txt|.|11|.|WET907.txt|.|11
+translate|.|WET3997.txt|.|5
+norwegian|.|WET3997.txt|.|5|.|WET6228.txt|.|44|.|WET3387.txt|.|11|.|WET704.txt|.|11|.|WET3193.txt|.|11|.|WET907.txt|.|11
+japanese|.|WET329.txt|.|11|.|WET4268.txt|.|11|.|WET3387.txt|.|11|.|WET349.txt|.|12|.|WET704.txt|.|11|.|WET140.txt|.|11|.|WET3884.txt|.|11|.|WET4169.txt|.|11|.|WET3193.txt|.|11|.|WET907.txt|.|11
+help translate|.|WET3997.txt|.|5
+trekearth|.|WET3138.txt|.|47
+norwegian polish|.|WET3997.txt|.|5
+portuguese|.|WET3138.txt|.|9|.|WET3997.txt|.|5|.|WET704.txt|.|11|.|WET140.txt|.|11|.|WET907.txt|.|11
+romanian|.|WET4268.txt|.|11|.|WET704.txt|.|11|.|WET140.txt|.|11|.|WET4169.txt|.|11|.|WET907.txt|.|11
+korean norwegian polish|.|WET704.txt|.|11
+swedish|.|WET3997.txt|.|6
+norwegian polish portuguese|.|WET704.txt|.|11
+danish|.|WET3997.txt|.|11|.|WET4446.txt|.|11
+spanish swedish|.|WET3997.txt|.|5
+russian|.|WET3138.txt|.|9|.|WET4268.txt|.|11|.|WET4678.txt|.|49|.|WET6304.txt|.|48|.|WET704.txt|.|11|.|WET140.txt|.|11|.|WET4169.txt|.|11|.|WET907.txt|.|11
+thai turkish|.|WET3997.txt|.|5
+portuguese romanian russian|.|WET704.txt|.|11|.|WET140.txt|.|11|.|WET907.txt|.|11
+russian spanish sign|.|WET3138.txt|.|9
+thai|.|WET3997.txt|.|5
+english filipino|.|WET3997.txt|.|5
+korean|.|WET4268.txt|.|11|.|WET3387.txt|.|11|.|WET349.txt|.|11|.|WET704.txt|.|11|.|WET140.txt|.|11|.|WET4169.txt|.|11|.|WET3193.txt|.|11|.|WET907.txt|.|11
+cheating|.|WET3331.txt|.|1|.|WET3692.txt|.|15|.|WET3810.txt|.|3|.|WET1001.txt|.|2|.|WET714.txt|.|2|.|WET4412.txt|.|1|.|WET1998.txt|.|2|.|WET4176.txt|.|3|.|WET5345.txt|.|3|.|WET5969.txt|.|4|.|WET4514.txt|.|2|.|WET5049.txt|.|2|.|WET5350.txt|.|2|.|WET5262.txt|.|2|.|WET2775.txt|.|2|.|WET5290.txt|.|2|.|WET3755.txt|.|3|.|WET5835.txt|.|2|.|WET3322.txt|.|3|.|WET369.txt|.|2|.|WET3997.txt|.|17|.|WET3458.txt|.|2|.|WET4454.txt|.|2|.|WET4873.txt|.|3|.|WET3110.txt|.|2|.|WET484.txt|.|3
+serbian|.|WET4268.txt|.|11|.|WET704.txt|.|11|.|WET140.txt|.|11|.|WET4169.txt|.|11|.|WET907.txt|.|22|.|WET4644.txt|.|22
+portuguese russian spanish|.|WET3138.txt|.|9
+cart danish|.|WET3997.txt|.|5
+japanese korean norwegian|.|WET3387.txt|.|11|.|WET704.txt|.|11|.|WET3193.txt|.|11|.|WET907.txt|.|11
+russian serbian spanish|.|WET704.txt|.|11|.|WET907.txt|.|11
+greek hebrew|.|WET3997.txt|.|5
+critiques|.|WET3138.txt|.|25
+polish|.|WET3997.txt|.|5|.|WET704.txt|.|11

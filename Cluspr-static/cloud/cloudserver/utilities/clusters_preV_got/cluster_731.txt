@@ -1,0 +1,12 @@
+731
+tv shows|.|WET989.txt|.|8|.|WET1873.txt|.|11
+copyright compliance policy|.|WET5259.txt|.|8
+idahoptv shop kids|.|WET500.txt|.|11
+call of duty|.|WET1873.txt|.|15
+shows|.|WET989.txt|.|16|.|WET5259.txt|.|26|.|WET5900.txt|.|25|.|WET2159.txt|.|24|.|WET1873.txt|.|34|.|WET5901.txt|.|13|.|WET6.txt|.|6|.|WET500.txt|.|16|.|WET5443.txt|.|77
+radio shows|.|WET5443.txt|.|35
+idahoptv|.|WET500.txt|.|12
+azalea|.|WET5900.txt|.|15|.|WET2159.txt|.|13|.|WET5901.txt|.|7|.|WET5899.txt|.|10
+leaving|.|WET5900.txt|.|17|.|WET2159.txt|.|18
+xfinity|.|WET989.txt|.|24
+send tips|.|WET5901.txt|.|6

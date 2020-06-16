@@ -1,0 +1,12 @@
+582
+mode|.|WET2370.txt|.|5|.|WET1542.txt|.|30
+croatia|.|WET1871.txt|.|17
+pdt|.|WET1860.txt|.|102
+geographical society|.|WET214.txt|.|49
+active sitting|.|WET5614.txt|.|44|.|WET1875.txt|.|36|.|WET5615.txt|.|12
+pm pdt|.|WET1860.txt|.|52
+post reply|.|WET4132.txt|.|51|.|WET394.txt|.|21|.|WET1860.txt|.|100|.|WET4133.txt|.|47|.|WET393.txt|.|58|.|WET429.txt|.|110
+meet the authors|.|WET1422.txt|.|80
+replies|.|WET5139.txt|.|8|.|WET1542.txt|.|60|.|WET3052.txt|.|32|.|WET1860.txt|.|150|.|WET1505.txt|.|42|.|WET982.txt|.|50|.|WET2510.txt|.|35|.|WET429.txt|.|111
+makeshift|.|WET1542.txt|.|22
+last post|.|WET1229.txt|.|17|.|WET1505.txt|.|58|.|WET5083.txt|.|20|.|WET6030.txt|.|49|.|WET3126.txt|.|74|.|WET419.txt|.|20

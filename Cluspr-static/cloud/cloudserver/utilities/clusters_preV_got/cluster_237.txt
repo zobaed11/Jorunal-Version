@@ -1,0 +1,12 @@
+237
+pellentesque|.|WET5403.txt|.|6
+brad blog|.|WET5112.txt|.|61
+ocean city|.|WET4591.txt|.|42
+voter registration|.|WET5112.txt|.|33
+skin perfecting|.|WET5246.txt|.|7
+institute|.|WET777.txt|.|15|.|WET510.txt|.|14|.|WET1205.txt|.|12
+sitestart|.|WET5178.txt|.|11
+department of transportation|.|WET3581.txt|.|34
+leavenworth|.|WET185.txt|.|17|.|WET5972.txt|.|80
+tarleton agricultural|.|WET948.txt|.|12
+dollar|.|WET1454.txt|.|77|.|WET1293.txt|.|40|.|WET2793.txt|.|330|.|WET5042.txt|.|25

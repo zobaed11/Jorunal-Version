@@ -1,0 +1,12 @@
+732
+groups public statements|.|WET4774.txt|.|20
+nick gass|.|WET2676.txt|.|79
+corba|.|WET2676.txt|.|2
+committees leadership vetoes|.|WET4774.txt|.|20
+bill status|.|WET2238.txt|.|20
+murray|.|WET626.txt|.|23
+leadership|.|WET4774.txt|.|20
+bill|.|WET2238.txt|.|49|.|WET1700.txt|.|31|.|WET4774.txt|.|113|.|WET4594.txt|.|21|.|WET2676.txt|.|82|.|WET626.txt|.|45|.|WET121.txt|.|30|.|WET1030.txt|.|98|.|WET4776.txt|.|18
+committees|.|WET4774.txt|.|20
+public statements committees|.|WET4774.txt|.|20
+legislation|.|WET2238.txt|.|14

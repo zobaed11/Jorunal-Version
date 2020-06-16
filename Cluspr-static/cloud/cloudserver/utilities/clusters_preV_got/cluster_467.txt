@@ -1,0 +1,12 @@
+467
+dresses tops bottoms|.|WET3275.txt|.|20
+camisoles sweaters|.|WET2145.txt|.|28
+scrubs|.|WET2839.txt|.|323
+koi|.|WET2839.txt|.|105
+tunics|.|WET1546.txt|.|1|.|WET2145.txt|.|28
+scarves|.|WET3275.txt|.|24
+wraps|.|WET2145.txt|.|36
+rationality|.|WET3811.txt|.|1|.|WET1546.txt|.|3
+tops pants|.|WET2839.txt|.|81
+scarves socks|.|WET3275.txt|.|13
+love tops|.|WET1546.txt|.|1

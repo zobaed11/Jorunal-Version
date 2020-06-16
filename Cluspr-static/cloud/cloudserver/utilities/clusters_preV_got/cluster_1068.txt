@@ -1,0 +1,12 @@
+1068
+make zines|.|WET4795.txt|.|28
+cost to own|.|WET1724.txt|.|25
+relationships|.|WET3869.txt|.|9|.|WET3207.txt|.|20
+make a decision|.|WET3869.txt|.|3|.|WET3901.txt|.|1|.|WET4071.txt|.|2
+tell us what make|.|WET1725.txt|.|24
+tell|.|WET2493.txt|.|12|.|WET1725.txt|.|32|.|WET1724.txt|.|40
+zweig|.|WET3869.txt|.|126
+consumer reviews|.|WET5468.txt|.|4|.|WET1725.txt|.|21
+make|.|WET3869.txt|.|43|.|WET1700.txt|.|42|.|WET3901.txt|.|12|.|WET1786.txt|.|15|.|WET1552.txt|.|29|.|WET1725.txt|.|44|.|WET1699.txt|.|37|.|WET3764.txt|.|19|.|WET5446.txt|.|29|.|WET221.txt|.|11|.|WET5445.txt|.|30|.|WET5841.txt|.|2|.|WET4795.txt|.|29|.|WET2504.txt|.|9|.|WET5467.txt|.|47|.|WET4071.txt|.|43|.|WET1724.txt|.|66
+dolores|.|WET5301.txt|.|26|.|WET1552.txt|.|32
+finder|.|WET1117.txt|.|28|.|WET5467.txt|.|20|.|WET1948.txt|.|11|.|WET1725.txt|.|16|.|WET3260.txt|.|20|.|WET1724.txt|.|32|.|WET3764.txt|.|16|.|WET5830.txt|.|33|.|WET5313.txt|.|30|.|WET6220.txt|.|20

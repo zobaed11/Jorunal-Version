@@ -1,0 +1,12 @@
+1043
+intranet|.|WET3437.txt|.|6
+search intranet|.|WET3437.txt|.|3
+requirements|.|WET3437.txt|.|7
+resources see all videos|.|WET5668.txt|.|54
+shop by category|.|WET5668.txt|.|48|.|WET1928.txt|.|24|.|WET5898.txt|.|14
+graduates degrees|.|WET3437.txt|.|6
+doris|.|WET3437.txt|.|6
+resources|.|WET2724.txt|.|19|.|WET3455.txt|.|47|.|WET1928.txt|.|57|.|WET5280.txt|.|25|.|WET5279.txt|.|52|.|WET3427.txt|.|11|.|WET3437.txt|.|42|.|WET3418.txt|.|9|.|WET83.txt|.|12|.|WET5668.txt|.|114|.|WET1360.txt|.|23|.|WET342.txt|.|17|.|WET1530.txt|.|30|.|WET229.txt|.|119|.|WET1529.txt|.|44|.|WET3975.txt|.|368
+undergraduates|.|WET3437.txt|.|6
+resources see|.|WET5668.txt|.|60|.|WET1928.txt|.|30
+leaders resources|.|WET2724.txt|.|10

@@ -1,0 +1,53 @@
+46
+communities for data collection|.|rfc4384.txt|.|12
+ip virtual private|.|rfc4576.txt|.|3
+communities for data|.|rfc4384.txt|.|12
+upstream provider|.|rfc2519.txt|.|16
+no export|.|rfc2519.txt|.|1
+bgp communities for data|.|rfc4384.txt|.|12
+ospf instance|.|rfc4577.txt|.|49
+prefix distribution|.|rfc2966.txt|.|18|.|rfc5302.txt|.|23|.|rfc3222.txt|.|11
+routes|.|rfc3101.txt|.|59|.|rfc4384.txt|.|57|.|rfc4577.txt|.|95|.|rfc4191.txt|.|42|.|rfc4874.txt|.|34|.|rfc2519.txt|.|57|.|rfc4576.txt|.|21|.|rfc3442.txt|.|38|.|rfc3906.txt|.|23|.|rfc2453.txt|.|76|.|rfc2966.txt|.|106|.|rfc5302.txt|.|109|.|rfc4659.txt|.|41|.|rfc3765.txt|.|15
+sham link|.|rfc4577.txt|.|46
+routes are imported|.|rfc3101.txt|.|5
+exclude|.|rfc4874.txt|.|56
+transitive|.|rfc3765.txt|.|5
+lsas into type|.|rfc3101.txt|.|9
+area configuration|.|rfc3101.txt|.|11
+route tag|.|rfc4577.txt|.|24
+nopeer|.|rfc3765.txt|.|15
+distribution october|.|rfc2966.txt|.|13
+classless static routes option|.|rfc3442.txt|.|13
+specific routes|.|rfc4191.txt|.|6|.|rfc3765.txt|.|9
+community encoding|.|rfc4384.txt|.|5
+ero subobject|.|rfc4874.txt|.|14
+triggered updates|.|rfc2453.txt|.|27
+route aggregation|.|rfc2519.txt|.|28
+abstract nodes|.|rfc4874.txt|.|24
+ip prefixes|.|rfc2966.txt|.|23
+bilateral peer|.|rfc3765.txt|.|5
+bgp data|.|rfc4384.txt|.|10
+pe router|.|rfc4577.txt|.|30|.|rfc2547.txt|.|38|.|rfc4364.txt|.|52|.|rfc4365.txt|.|42
+routes advertised|.|rfc4191.txt|.|2
+used for routing|.|rfc2453.txt|.|3
+route prefix|.|rfc3765.txt|.|7
+domain identifier|.|rfc4577.txt|.|40
+exclusion|.|rfc4874.txt|.|33
+external routes|.|rfc4577.txt|.|9
+prevent|.|rfc4576.txt|.|10
+classless static routes|.|rfc3442.txt|.|15
+prevent looping|.|rfc4576.txt|.|7
+split horizon|.|rfc2080.txt|.|14|.|rfc2453.txt|.|24
+imported|.|rfc3101.txt|.|13
+default router preference|.|rfc4191.txt|.|10
+area routes|.|rfc5302.txt|.|2
+data collection|.|rfc4384.txt|.|22
+domain wide|.|rfc2966.txt|.|2
+option january|.|rfc3101.txt|.|32
+horizon|.|rfc2080.txt|.|14|.|rfc2453.txt|.|24
+malkin|.|rfc1983.txt|.|65|.|rfc2453.txt|.|42|.|rfc2081.txt|.|6
+traffic will flow|.|rfc3906.txt|.|1
+sham|.|rfc4577.txt|.|63
+router preferences|.|rfc4191.txt|.|22
+external route|.|rfc3101.txt|.|12
+routes for networks|.|rfc2453.txt|.|2

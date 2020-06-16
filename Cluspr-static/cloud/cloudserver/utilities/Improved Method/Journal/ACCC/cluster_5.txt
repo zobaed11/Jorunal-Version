@@ -1,0 +1,50 @@
+5
+gift|.|WET3358.txt|.|19|.|WET1756.txt|.|223|.|WET1757.txt|.|43|.|WET3357.txt|.|55|.|WET5234.txt|.|73|.|WET5103.txt|.|25|.|WET3316.txt|.|33|.|WET3147.txt|.|99|.|WET2995.txt|.|178|.|WET5625.txt|.|45|.|WET3014.txt|.|74|.|WET1278.txt|.|6|.|WET2138.txt|.|35|.|WET5376.txt|.|62|.|WET3244.txt|.|121|.|WET3685.txt|.|72|.|WET5554.txt|.|19|.|WET3351.txt|.|68|.|WET3597.txt|.|44|.|WET3297.txt|.|72|.|WET3649.txt|.|57|.|WET5679.txt|.|89|.|WET1569.txt|.|52|.|WET3572.txt|.|26|.|WET4453.txt|.|25|.|WET1941.txt|.|87|.|WET3298.txt|.|41|.|WET6008.txt|.|31|.|WET3127.txt|.|58|.|WET5493.txt|.|180|.|WET2450.txt|.|21|.|WET918.txt|.|27|.|WET4859.txt|.|24|.|WET1478.txt|.|68|.|WET713.txt|.|25|.|WET5744.txt|.|22|.|WET5417.txt|.|20|.|WET5125.txt|.|77|.|WET2921.txt|.|22|.|WET1815.txt|.|31|.|WET5806.txt|.|56|.|WET3245.txt|.|51|.|WET4414.txt|.|17|.|WET5037.txt|.|36|.|WET5546.txt|.|212|.|WET5405.txt|.|15|.|WET1686.txt|.|1|.|WET2063.txt|.|106|.|WET3355.txt|.|21|.|WET1293.txt|.|16|.|WET2844.txt|.|66|.|WET5534.txt|.|78|.|WET2144.txt|.|85|.|WET5229.txt|.|71|.|WET2188.txt|.|28|.|WET3614.txt|.|26|.|WET1110.txt|.|35|.|WET3356.txt|.|55|.|WET4750.txt|.|146|.|WET2590.txt|.|120
+basket|.|WET1478.txt|.|27|.|WET1988.txt|.|20|.|WET5890.txt|.|25|.|WET5229.txt|.|13|.|WET2063.txt|.|53|.|WET4857.txt|.|38
+gourmet|.|WET2063.txt|.|78
+drinkware set|.|WET6113.txt|.|40
+sauce|.|WET2957.txt|.|11|.|WET2063.txt|.|72
+new in dining|.|WET2995.txt|.|22
+new in baking|.|WET2995.txt|.|22
+cheese|.|WET1964.txt|.|43|.|WET187.txt|.|150|.|WET2063.txt|.|594|.|WET5806.txt|.|183
+baking|.|WET2995.txt|.|89|.|WET4416.txt|.|26
+ham|.|WET5806.txt|.|27
+towels|.|WET2721.txt|.|50|.|WET5615.txt|.|4
+olive|.|WET4464.txt|.|60|.|WET2063.txt|.|78
+olive oil|.|WET2063.txt|.|76
+dining|.|WET4840.txt|.|58|.|WET5891.txt|.|21|.|WET2995.txt|.|55|.|WET4957.txt|.|16|.|WET1654.txt|.|66
+meats|.|WET2063.txt|.|40
+cookware|.|WET2996.txt|.|10|.|WET2995.txt|.|117
+paper towels|.|WET2721.txt|.|44
+cheese gifts|.|WET5806.txt|.|3
+pattern italian|.|WET6113.txt|.|10
+baskets|.|WET2063.txt|.|45|.|WET3298.txt|.|27|.|WET3297.txt|.|36|.|WET5376.txt|.|49
+pattern|.|WET1149.txt|.|31|.|WET2373.txt|.|20|.|WET2260.txt|.|17|.|WET6113.txt|.|10|.|WET5141.txt|.|82
+bowls|.|WET6113.txt|.|180
+new our new|.|WET2995.txt|.|22
+gift basket|.|WET2063.txt|.|37
+gift registry|.|WET2995.txt|.|56
+pattern italian countryside|.|WET6113.txt|.|10
+serving|.|WET6113.txt|.|70|.|WET2642.txt|.|93
+oil|.|WET5667.txt|.|26|.|WET5809.txt|.|108|.|WET4176.txt|.|247|.|WET2063.txt|.|178|.|WET3772.txt|.|37|.|WET823.txt|.|22|.|WET3010.txt|.|52|.|WET5806.txt|.|56
+paper|.|WET3691.txt|.|13|.|WET2593.txt|.|167|.|WET3614.txt|.|7|.|WET5071.txt|.|50|.|WET2721.txt|.|272|.|WET2592.txt|.|193|.|WET1989.txt|.|12|.|WET2154.txt|.|20
+store see|.|WET2721.txt|.|18
+drinkware|.|WET6113.txt|.|90
+toner|.|WET2443.txt|.|60|.|WET5516.txt|.|47|.|WET2721.txt|.|77
+office supplies|.|WET2721.txt|.|57
+msrp|.|WET6113.txt|.|70
+new in outdoor|.|WET2995.txt|.|22
+cleaning|.|WET5599.txt|.|10|.|WET2721.txt|.|102|.|WET6298.txt|.|129
+registry|.|WET3245.txt|.|50|.|WET2996.txt|.|26|.|WET2995.txt|.|221|.|WET3272.txt|.|105
+custom print|.|WET2721.txt|.|36
+sets|.|WET5679.txt|.|63|.|WET5680.txt|.|77|.|WET5493.txt|.|118|.|WET1756.txt|.|144|.|WET1757.txt|.|27|.|WET3351.txt|.|51|.|WET6113.txt|.|120|.|WET5313.txt|.|80
+countryside|.|WET6113.txt|.|50
+custom|.|WET2244.txt|.|6|.|WET5542.txt|.|26|.|WET1330.txt|.|40|.|WET1173.txt|.|15|.|WET2721.txt|.|66|.|WET1809.txt|.|68|.|WET1406.txt|.|4
+italian|.|WET329.txt|.|11|.|WET1832.txt|.|55|.|WET4268.txt|.|22|.|WET3387.txt|.|11|.|WET349.txt|.|12|.|WET6113.txt|.|30|.|WET140.txt|.|11|.|WET3884.txt|.|11|.|WET4169.txt|.|11|.|WET5858.txt|.|40|.|WET3193.txt|.|11
+food all new|.|WET2995.txt|.|22
+lucerne white|.|WET6113.txt|.|20
+supplies cleaning|.|WET2721.txt|.|12
+serving bowls|.|WET6113.txt|.|30
+lucerne|.|WET6113.txt|.|20
+coffee|.|WET2995.txt|.|121|.|WET2721.txt|.|116|.|WET6113.txt|.|70|.|WET2063.txt|.|140|.|WET5806.txt|.|44
+sets flatware|.|WET6113.txt|.|20

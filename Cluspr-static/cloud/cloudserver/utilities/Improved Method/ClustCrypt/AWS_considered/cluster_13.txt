@@ -1,0 +1,9 @@
+13
+nie ma|.|WET1965.txt|.|27|.|WET3843.txt|.|7
+quarter horse|.|WET1758.txt|.|44
+misje|.|WET1965.txt|.|22
+selle|.|WET1758.txt|.|11
+sport horse|.|WET1758.txt|.|22
+adspecial|.|WET1758.txt|.|44
+mi|.|WET5547.txt|.|61|.|WET1965.txt|.|65|.|WET545.txt|.|40|.|WET1758.txt|.|132|.|WET5756.txt|.|54
+sire|.|WET1758.txt|.|44

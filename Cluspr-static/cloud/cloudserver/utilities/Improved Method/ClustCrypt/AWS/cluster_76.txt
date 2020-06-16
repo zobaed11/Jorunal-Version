@@ -1,0 +1,23 @@
+cost to own|.|WET1724.txt|.|25
+select a feature|.|WET1724.txt|.|10
+rebates|.|WET5467.txt|.|38|.|WET1725.txt|.|29
+tell us|.|WET1724.txt|.|40
+smaller|.|WET5445.txt|.|11|.|WET1552.txt|.|11
+acura legend|.|WET5467.txt|.|14
+ratings and reviews|.|WET1725.txt|.|8
+car finder compare|.|WET5467.txt|.|18|.|WET1724.txt|.|20
+bit|.|WET4071.txt|.|26
+decision to make|.|WET1786.txt|.|3
+compare cars|.|WET1725.txt|.|15
+make decisions|.|WET221.txt|.|2|.|WET5841.txt|.|2|.|WET2504.txt|.|2
+make a decision|.|WET3869.txt|.|3|.|WET3901.txt|.|1|.|WET4071.txt|.|2
+incentives and rebates|.|WET5467.txt|.|20|.|WET1725.txt|.|13
+support processes|.|WET2504.txt|.|2
+certified cars selling|.|WET5467.txt|.|18
+herald subscribe mobile the durango|.|WET1700.txt|.|11|.|WET1699.txt|.|11|.|WET5446.txt|.|11
+decisions|.|WET221.txt|.|2|.|WET5841.txt|.|2|.|WET2504.txt|.|2
+commercial break|.|WET4071.txt|.|21
+car forums|.|WET1725.txt|.|8
+make|.|WET3869.txt|.|43|.|WET1700.txt|.|42|.|WET3901.txt|.|12|.|WET1786.txt|.|15|.|WET1552.txt|.|29|.|WET1725.txt|.|44|.|WET1699.txt|.|37|.|WET3764.txt|.|19|.|WET5446.txt|.|29|.|WET221.txt|.|11|.|WET5445.txt|.|30|.|WET5841.txt|.|2|.|WET4795.txt|.|29|.|WET2504.txt|.|9|.|WET5467.txt|.|47|.|WET4071.txt|.|43|.|WET1724.txt|.|66
+make text|.|WET1700.txt|.|22|.|WET1699.txt|.|22|.|WET5446.txt|.|22
+healthy habits|.|WET5446.txt|.|14

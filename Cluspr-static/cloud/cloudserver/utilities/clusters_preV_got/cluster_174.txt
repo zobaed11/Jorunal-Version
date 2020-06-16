@@ -1,0 +1,12 @@
+174
+jgo|.|WET2129.txt|.|67
+norton|.|WET663.txt|.|111
+royal family|.|WET3073.txt|.|66
+college baseball|.|WET5273.txt|.|14
+journal of the optical|.|WET3678.txt|.|78
+bonito|.|WET3406.txt|.|18
+order brochure contact|.|WET2097.txt|.|13
+bevacizumab iv|.|WET2807.txt|.|13
+north texas|.|WET6078.txt|.|10
+wahrheit|.|WET2146.txt|.|15
+lcms|.|WET1254.txt|.|4

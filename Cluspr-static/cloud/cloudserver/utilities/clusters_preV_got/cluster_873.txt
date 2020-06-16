@@ -1,0 +1,12 @@
+873
+ask ubuntu|.|WET63.txt|.|34
+sports vols sports|.|WET2266.txt|.|16
+vols|.|WET2266.txt|.|16
+ask metafilter|.|WET3808.txt|.|12
+realm|.|WET1809.txt|.|28
+passion for books|.|WET1107.txt|.|21
+clinton will bait|.|WET1542.txt|.|20
+passion|.|WET1107.txt|.|28
+bookseller|.|WET1107.txt|.|130
+metafilter|.|WET3808.txt|.|39|.|WET6097.txt|.|67
+lloyd banks|.|WET4.txt|.|5

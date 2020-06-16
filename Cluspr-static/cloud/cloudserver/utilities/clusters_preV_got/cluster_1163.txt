@@ -1,0 +1,12 @@
+1163
+collection unm cswr|.|WET323.txt|.|1070
+healthy directions|.|WET5426.txt|.|20
+ivory coast|.|WET648.txt|.|21
+guidance|.|WET3367.txt|.|53
+gene|.|WET3185.txt|.|110
+blogger|.|WET743.txt|.|115|.|WET5241.txt|.|32|.|WET22.txt|.|23
+admissions|.|WET2779.txt|.|20|.|WET3732.txt|.|34|.|WET3846.txt|.|50|.|WET453.txt|.|30
+lexington|.|WET4296.txt|.|37
+penny|.|WET5548.txt|.|24
+applications|.|WET628.txt|.|11|.|WET3809.txt|.|3|.|WET4667.txt|.|12|.|WET1041.txt|.|63|.|WET4387.txt|.|11|.|WET4496.txt|.|11|.|WET859.txt|.|3|.|WET4543.txt|.|2|.|WET3022.txt|.|4|.|WET3939.txt|.|4|.|WET3842.txt|.|2|.|WET4295.txt|.|135|.|WET864.txt|.|4|.|WET646.txt|.|11|.|WET4787.txt|.|39|.|WET3454.txt|.|3|.|WET756.txt|.|10|.|WET331.txt|.|2|.|WET568.txt|.|105|.|WET153.txt|.|3|.|WET997.txt|.|76|.|WET4529.txt|.|3
+cracked|.|WET5312.txt|.|116

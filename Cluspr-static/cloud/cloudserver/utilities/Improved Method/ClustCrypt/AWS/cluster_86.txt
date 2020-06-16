@@ -1,0 +1,18 @@
+getty|.|WET1910.txt|.|64|.|WET5648.txt|.|65|.|WET5649.txt|.|50|.|WET1912.txt|.|64|.|WET1911.txt|.|50|.|WET5647.txt|.|62|.|WET1909.txt|.|52|.|WET3630.txt|.|23
+vocabularies|.|WET4245.txt|.|2|.|WET3630.txt|.|2
+antonioli|.|WET1911.txt|.|10
+images|.|WET1910.txt|.|199|.|WET5648.txt|.|92|.|WET214.txt|.|65|.|WET1680.txt|.|87|.|WET5429.txt|.|56|.|WET1911.txt|.|92|.|WET2537.txt|.|14|.|WET5647.txt|.|165|.|WET1909.txt|.|151|.|WET362.txt|.|20|.|WET767.txt|.|5|.|WET5050.txt|.|10|.|WET5649.txt|.|90|.|WET5428.txt|.|88|.|WET2103.txt|.|29|.|WET1300.txt|.|5|.|WET1912.txt|.|130|.|WET2592.txt|.|31|.|WET1681.txt|.|88|.|WET3975.txt|.|259|.|WET4352.txt|.|77
+show moremay|.|WET5648.txt|.|32
+elsa antonioli|.|WET1911.txt|.|10
+images apigetty|.|WET5647.txt|.|11
+getty images|.|WET1910.txt|.|55|.|WET5648.txt|.|56|.|WET5649.txt|.|41|.|WET1912.txt|.|53|.|WET1911.txt|.|43|.|WET5647.txt|.|57|.|WET1909.txt|.|23
+gallerymedia|.|WET1910.txt|.|11|.|WET1911.txt|.|11|.|WET5647.txt|.|11
+apigetty|.|WET5647.txt|.|11
+collection documents|.|WET1909.txt|.|2
+embedded images|.|WET5647.txt|.|11
+wife elsa|.|WET1911.txt|.|7
+moremay|.|WET5648.txt|.|32
+show moremarch|.|WET5649.txt|.|15
+handing|.|WET1912.txt|.|3
+queen elizabeth|.|WET1912.txt|.|9
+embedded|.|WET5647.txt|.|11

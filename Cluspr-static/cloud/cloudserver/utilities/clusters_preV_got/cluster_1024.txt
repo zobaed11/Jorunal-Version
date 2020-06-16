@@ -1,0 +1,12 @@
+1024
+doctor|.|WET1996.txt|.|101|.|WET2336.txt|.|33|.|WET1877.txt|.|76|.|WET5736.txt|.|80|.|WET3693.txt|.|38|.|WET1474.txt|.|24|.|WET4180.txt|.|36|.|WET5617.txt|.|37|.|WET788.txt|.|33|.|WET6079.txt|.|34|.|WET4055.txt|.|47|.|WET4159.txt|.|37|.|WET4047.txt|.|71|.|WET789.txt|.|33|.|WET2248.txt|.|86
+character|.|WET2336.txt|.|61|.|WET437.txt|.|13|.|WET5803.txt|.|142
+gallifreyan|.|WET4180.txt|.|5
+calls|.|WET2248.txt|.|21
+healthy|.|WET5613.txt|.|68|.|WET473.txt|.|39|.|WET5651.txt|.|4|.|WET2439.txt|.|32|.|WET5232.txt|.|36|.|WET5455.txt|.|109|.|WET3883.txt|.|30|.|WET5446.txt|.|14|.|WET107.txt|.|36|.|WET2040.txt|.|21|.|WET5426.txt|.|37|.|WET1116.txt|.|14|.|WET2248.txt|.|68|.|WET5739.txt|.|74|.|WET4220.txt|.|43|.|WET2936.txt|.|21
+doctor who|.|WET4180.txt|.|32|.|WET5617.txt|.|32|.|WET789.txt|.|33|.|WET788.txt|.|33
+communities expert forums|.|WET6079.txt|.|10|.|WET2336.txt|.|11
+finding|.|WET1474.txt|.|8
+podshock|.|WET4180.txt|.|28
+diabetes|.|WET3779.txt|.|27|.|WET6079.txt|.|35|.|WET1997.txt|.|36|.|WET918.txt|.|66
+quality|.|WET3691.txt|.|20|.|WET4093.txt|.|7|.|WET2504.txt|.|41|.|WET2519.txt|.|114|.|WET5426.txt|.|16|.|WET5736.txt|.|78|.|WET4363.txt|.|7|.|WET5436.txt|.|24|.|WET5238.txt|.|80|.|WET1500.txt|.|36|.|WET5617.txt|.|11|.|WET2590.txt|.|30

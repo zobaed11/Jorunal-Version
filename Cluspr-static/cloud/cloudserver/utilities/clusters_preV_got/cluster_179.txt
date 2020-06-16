@@ -1,0 +1,12 @@
+179
+convention|.|WET1051.txt|.|188|.|WET1544.txt|.|81|.|WET577.txt|.|423
+llc|.|WET3343.txt|.|20|.|WET1264.txt|.|16
+plums|.|WET3443.txt|.|12
+calcium|.|WET5438.txt|.|27
+ini|.|WET3465.txt|.|34|.|WET259.txt|.|37
+het|.|WET2520.txt|.|24|.|WET5677.txt|.|16|.|WET703.txt|.|60|.|WET3497.txt|.|111
+ad ends|.|WET858.txt|.|20
+wikipedia|.|WET3465.txt|.|29|.|WET3559.txt|.|32|.|WET3542.txt|.|29|.|WET3497.txt|.|44|.|WET3471.txt|.|29
+zoeken|.|WET4445.txt|.|22
+manage|.|WET5402.txt|.|12|.|WET2996.txt|.|8|.|WET2134.txt|.|28|.|WET1655.txt|.|18|.|WET5874.txt|.|46
+closings ask heather|.|WET2266.txt|.|24

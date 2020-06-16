@@ -1,0 +1,12 @@
+902
+helmets|.|WET3826.txt|.|11
+field gear|.|WET3826.txt|.|10
+field service|.|WET5822.txt|.|10
+field|.|WET186.txt|.|7|.|WET3826.txt|.|41|.|WET293.txt|.|11|.|WET1200.txt|.|22|.|WET2321.txt|.|35|.|WET5822.txt|.|46|.|WET1663.txt|.|14|.|WET2578.txt|.|12|.|WET2625.txt|.|35|.|WET782.txt|.|8|.|WET201.txt|.|27|.|WET1670.txt|.|12
+family history|.|WET3886.txt|.|9|.|WET1168.txt|.|65
+schedules|.|WET1801.txt|.|11|.|WET1062.txt|.|7|.|WET1670.txt|.|2|.|WET5273.txt|.|13
+batting gloves|.|WET3826.txt|.|10
+representative salaries|.|WET5822.txt|.|8
+businesses|.|WET5418.txt|.|4|.|WET2560.txt|.|12|.|WET5218.txt|.|31|.|WET201.txt|.|18
+field girls track|.|WET2321.txt|.|11|.|WET2625.txt|.|8|.|WET201.txt|.|9
+silent epidemic|.|WET2578.txt|.|12

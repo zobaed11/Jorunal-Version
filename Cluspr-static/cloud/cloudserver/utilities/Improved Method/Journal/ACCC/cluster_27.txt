@@ -1,0 +1,71 @@
+27
+acc|.|WET3304.txt|.|7|.|WET1937.txt|.|50
+cookies are enabled|.|WET3993.txt|.|6
+columbus dispatch|.|WET5402.txt|.|14
+tapes|.|WET2139.txt|.|24|.|WET2828.txt|.|94
+dispatch|.|WET5402.txt|.|51
+select|.|WET179.txt|.|22|.|WET3980.txt|.|11|.|WET5508.txt|.|56|.|WET6293.txt|.|313|.|WET284.txt|.|22|.|WET1454.txt|.|17|.|WET2780.txt|.|11|.|WET2827.txt|.|78|.|WET1265.txt|.|72|.|WET255.txt|.|99|.|WET3925.txt|.|22|.|WET1724.txt|.|40|.|WET177.txt|.|22
+duke|.|WET3437.txt|.|6|.|WET581.txt|.|25|.|WET5676.txt|.|138|.|WET1937.txt|.|152
+blue max|.|WET2827.txt|.|170|.|WET2828.txt|.|240
+class use|.|WET4046.txt|.|2
+polo shirts|.|WET5864.txt|.|3|.|WET2915.txt|.|22|.|WET2828.txt|.|160
+viewing|.|WET4006.txt|.|17|.|WET751.txt|.|35|.|WET776.txt|.|6|.|WET409.txt|.|5
+clip art|.|WET1502.txt|.|21|.|WET2836.txt|.|238|.|WET5253.txt|.|17
+devils|.|WET477.txt|.|10|.|WET1937.txt|.|51|.|WET4619.txt|.|40
+gant|.|WET4949.txt|.|12
+falcon sports skorts|.|WET2828.txt|.|20
+current daytime soap|.|WET4006.txt|.|17
+falcon sports|.|WET2827.txt|.|133|.|WET2828.txt|.|190
+filter by yarn|.|WET2193.txt|.|6
+blue dragon|.|WET1739.txt|.|14
+soft|.|WET3684.txt|.|14|.|WET306.txt|.|16|.|WET2193.txt|.|28
+boys trousers|.|WET2828.txt|.|80
+primetime|.|WET4006.txt|.|30
+ridge parkway|.|WET4046.txt|.|23
+blue ridge|.|WET4046.txt|.|23
+nous|.|WET4949.txt|.|10
+black gunmetal|.|WET4949.txt|.|9
+blue jackets|.|WET5402.txt|.|14
+skorts|.|WET2828.txt|.|20
+rss feeds|.|WET5402.txt|.|20|.|WET5383.txt|.|10
+current daytime|.|WET4006.txt|.|17
+max select|.|WET2827.txt|.|77
+gant black|.|WET4949.txt|.|9
+feeds podcasts|.|WET5402.txt|.|20
+primary|.|WET6223.txt|.|18|.|WET2827.txt|.|172|.|WET3205.txt|.|15
+drop|.|WET2193.txt|.|10
+viewing single post|.|WET4006.txt|.|15
+duke baseball|.|WET1937.txt|.|15
+blue drop|.|WET2193.txt|.|8
+trousers and shorts|.|WET2828.txt|.|80
+index help|.|WET4046.txt|.|2
+falcon|.|WET2827.txt|.|169|.|WET2828.txt|.|240
+fr|.|WET3065.txt|.|8|.|WET5784.txt|.|7|.|WET3993.txt|.|76
+primary school|.|WET2827.txt|.|140
+shirts banner|.|WET2828.txt|.|50
+uniform|.|WET83.txt|.|39|.|WET1201.txt|.|6|.|WET2828.txt|.|82
+keyword or filter|.|WET3993.txt|.|8
+blue black|.|WET4949.txt|.|8
+blue devils|.|WET1937.txt|.|51
+blue abstract|.|WET3993.txt|.|9
+blue abstract christmas|.|WET3993.txt|.|9
+shorts|.|WET1154.txt|.|162|.|WET384.txt|.|37|.|WET187.txt|.|34|.|WET891.txt|.|38|.|WET1265.txt|.|35|.|WET2828.txt|.|150|.|WET3828.txt|.|49|.|WET6182.txt|.|32|.|WET1365.txt|.|30
+create an account|.|WET1586.txt|.|56|.|WET3993.txt|.|12|.|WET1986.txt|.|20
+name tapes|.|WET2828.txt|.|94
+max|.|WET717.txt|.|1|.|WET268.txt|.|1|.|WET4186.txt|.|2|.|WET4262.txt|.|1|.|WET4280.txt|.|1|.|WET4273.txt|.|1|.|WET2047.txt|.|8|.|WET4330.txt|.|1|.|WET2827.txt|.|170|.|WET517.txt|.|1|.|WET3153.txt|.|283|.|WET2828.txt|.|240|.|WET4185.txt|.|1|.|WET5592.txt|.|40|.|WET1802.txt|.|8|.|WET1856.txt|.|24|.|WET1817.txt|.|15|.|WET5551.txt|.|37
+confirm password|.|WET1502.txt|.|11
+trousers|.|WET2828.txt|.|230
+banner|.|WET2827.txt|.|142|.|WET5452.txt|.|48|.|WET2828.txt|.|200
+clker|.|WET1502.txt|.|22|.|WET5252.txt|.|22|.|WET5253.txt|.|18
+school uniform|.|WET2828.txt|.|51
+confirm|.|WET1502.txt|.|22|.|WET5253.txt|.|18
+gunmetal|.|WET4949.txt|.|14
+order at any time|.|WET1739.txt|.|2
+blue|.|WET3993.txt|.|11|.|WET4046.txt|.|24|.|WET1937.txt|.|58|.|WET2193.txt|.|10|.|WET1502.txt|.|17|.|WET1196.txt|.|181|.|WET2827.txt|.|178|.|WET4006.txt|.|35|.|WET5402.txt|.|18|.|WET2828.txt|.|256|.|WET367.txt|.|51|.|WET4949.txt|.|38|.|WET1739.txt|.|20
+polo|.|WET2893.txt|.|4|.|WET1377.txt|.|15|.|WET2461.txt|.|105|.|WET5864.txt|.|8|.|WET3016.txt|.|5|.|WET2915.txt|.|22|.|WET1973.txt|.|6|.|WET2828.txt|.|160|.|WET5689.txt|.|24|.|WET3169.txt|.|36
+school sports|.|WET3304.txt|.|6|.|WET4503.txt|.|15|.|WET5402.txt|.|16
+help java|.|WET4046.txt|.|2
+knit|.|WET2144.txt|.|44|.|WET5932.txt|.|47|.|WET5930.txt|.|15|.|WET2193.txt|.|25
+yarn|.|WET5753.txt|.|58|.|WET2193.txt|.|49
+parkway|.|WET4584.txt|.|23|.|WET4046.txt|.|41
+clip|.|WET4175.txt|.|24|.|WET2729.txt|.|22|.|WET1502.txt|.|42|.|WET2836.txt|.|239|.|WET5253.txt|.|34|.|WET4712.txt|.|24

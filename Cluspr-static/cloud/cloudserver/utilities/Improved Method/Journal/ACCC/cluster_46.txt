@@ -1,0 +1,73 @@
+46
+museen|.|WET2910.txt|.|17
+dam scrapbook vol|.|WET582.txt|.|36
+project and famfamfam|.|WET6306.txt|.|11
+project|.|WET582.txt|.|123|.|WET2910.txt|.|13|.|WET3870.txt|.|56|.|WET6306.txt|.|17|.|WET6155.txt|.|17|.|WET4033.txt|.|204|.|WET3496.txt|.|15|.|WET1632.txt|.|52|.|WET1390.txt|.|46|.|WET3961.txt|.|181|.|WET4327.txt|.|173
+nursing|.|WET582.txt|.|88|.|WET919.txt|.|64|.|WET4070.txt|.|29|.|WET4656.txt|.|64
+texas|.|WET1083.txt|.|155|.|WET2442.txt|.|61|.|WET4835.txt|.|153|.|WET701.txt|.|30|.|WET278.txt|.|39|.|WET4033.txt|.|343|.|WET2516.txt|.|71|.|WET6078.txt|.|14|.|WET4688.txt|.|76|.|WET4950.txt|.|67|.|WET3035.txt|.|56
+digital collections|.|WET581.txt|.|48|.|WET4026.txt|.|13|.|WET4326.txt|.|21|.|WET3961.txt|.|39
+scrapbook|.|WET582.txt|.|36
+world war ii|.|WET582.txt|.|36
+runaway|.|WET4033.txt|.|202
+texas s school|.|WET4033.txt|.|17
+hoover|.|WET582.txt|.|36
+stewart|.|WET582.txt|.|83|.|WET4327.txt|.|105
+utah construction hoover|.|WET582.txt|.|36
+wsu|.|WET582.txt|.|82|.|WET4327.txt|.|121
+staatliche museen|.|WET2910.txt|.|15
+construction hoover dam|.|WET582.txt|.|36
+create the value|.|WET1632.txt|.|1
+management software|.|WET1632.txt|.|4
+wsu stewart library|.|WET582.txt|.|38|.|WET4327.txt|.|65
+buncombe|.|WET1390.txt|.|30
+project management|.|WET1632.txt|.|20
+oral history project|.|WET4327.txt|.|147
+gtzabari|.|WET3496.txt|.|8
+digital photo|.|WET214.txt|.|108|.|WET3961.txt|.|170
+heritage center|.|WET4033.txt|.|54
+staatliche|.|WET2910.txt|.|15
+agsl digital|.|WET3961.txt|.|166
+encoded archival|.|WET4327.txt|.|42
+texas runaway|.|WET4033.txt|.|202
+log q quilting|.|WET4033.txt|.|17
+weber|.|WET582.txt|.|375|.|WET4327.txt|.|526
+encoded|.|WET4327.txt|.|42
+kunst|.|WET2910.txt|.|16
+agsl digital photo|.|WET3961.txt|.|166
+log|.|WET3054.txt|.|166|.|WET1041.txt|.|22|.|WET4387.txt|.|29|.|WET4033.txt|.|41|.|WET5749.txt|.|12|.|WET5271.txt|.|20|.|WET1293.txt|.|24|.|WET3808.txt|.|30|.|WET5528.txt|.|318|.|WET646.txt|.|27|.|WET5714.txt|.|8|.|WET4941.txt|.|12|.|WET2620.txt|.|21
+quilting|.|WET4033.txt|.|33
+runaway slave|.|WET4033.txt|.|202
+mapid project|.|WET2910.txt|.|5
+mountain project|.|WET6155.txt|.|14
+islamische kunst|.|WET2910.txt|.|11
+weber state|.|WET4327.txt|.|202
+hoover dam scrapbook|.|WET582.txt|.|36
+slave|.|WET4033.txt|.|202
+school of nursing|.|WET582.txt|.|36
+agsl|.|WET214.txt|.|106|.|WET3961.txt|.|191
+vol|.|WET582.txt|.|76|.|WET939.txt|.|20
+free stickers|.|WET6155.txt|.|11
+slave project|.|WET4033.txt|.|202
+construction|.|WET582.txt|.|96
+mapid|.|WET2910.txt|.|11
+history project weber|.|WET582.txt|.|36
+islamische|.|WET2910.txt|.|12
+project gtzabari|.|WET3496.txt|.|7
+weber state university historical publications|.|WET4327.txt|.|18
+bulletins|.|WET4033.txt|.|24
+rss show|.|WET6155.txt|.|11
+center|.|WET3576.txt|.|121|.|WET3928.txt|.|127|.|WET2635.txt|.|63|.|WET2713.txt|.|18|.|WET185.txt|.|41|.|WET1544.txt|.|32|.|WET3585.txt|.|19|.|WET4033.txt|.|113|.|WET1972.txt|.|39|.|WET3816.txt|.|54|.|WET2762.txt|.|9|.|WET6234.txt|.|60|.|WET3330.txt|.|14|.|WET3609.txt|.|18|.|WET5873.txt|.|40|.|WET5203.txt|.|21|.|WET3205.txt|.|36|.|WET73.txt|.|69|.|WET5908.txt|.|112|.|WET5609.txt|.|10|.|WET1047.txt|.|103
+famfamfam|.|WET6306.txt|.|11
+photographs world war|.|WET4327.txt|.|36
+war|.|WET582.txt|.|73|.|WET6243.txt|.|11|.|WET3933.txt|.|35|.|WET5750.txt|.|20|.|WET2324.txt|.|302|.|WET4327.txt|.|119
+project runway|.|WET3870.txt|.|52
+history project|.|WET3961.txt|.|153
+improvement permit|.|WET1390.txt|.|5
+sfa|.|WET4033.txt|.|24
+wsu stewart|.|WET4327.txt|.|65
+permit|.|WET1390.txt|.|17
+sciences sfa bulletins|.|WET4033.txt|.|23
+digital photo archive|.|WET214.txt|.|108|.|WET3961.txt|.|170
+photo archive|.|WET214.txt|.|108|.|WET3961.txt|.|170
+publications|.|WET2103.txt|.|5|.|WET1156.txt|.|6|.|WET4327.txt|.|53
+rss show rock|.|WET6155.txt|.|11

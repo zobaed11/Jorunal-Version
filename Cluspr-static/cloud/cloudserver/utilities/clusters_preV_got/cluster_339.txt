@@ -1,0 +1,12 @@
+339
+moab|.|WET655.txt|.|62
+pdf editor|.|WET1566.txt|.|81
+marandet collection|.|WET230.txt|.|29
+window opens|.|WET2285.txt|.|42
+espresso machines|.|WET3705.txt|.|33
+espnfantasylistenwatch|.|WET4095.txt|.|10|.|WET351.txt|.|11
+swiss|.|WET2444.txt|.|70
+doubling|.|WET1117.txt|.|5
+universitas|.|WET3868.txt|.|27
+api training|.|WET3457.txt|.|11
+bath|.|WET6086.txt|.|24|.|WET5012.txt|.|37|.|WET1569.txt|.|46|.|WET2068.txt|.|76|.|WET2343.txt|.|24|.|WET3194.txt|.|52

@@ -1,0 +1,12 @@
+257
+wins|.|WET5770.txt|.|28
+belmont|.|WET5769.txt|.|69
+thoroughbred|.|WET5769.txt|.|45|.|WET1911.txt|.|19
+pharoah|.|WET2029.txt|.|48
+breeders|.|WET1969.txt|.|6|.|WET2029.txt|.|57
+stakes tracker|.|WET5770.txt|.|16
+american pharoah|.|WET2029.txt|.|48
+derby|.|WET5770.txt|.|174|.|WET5769.txt|.|277|.|WET2029.txt|.|268
+kentucky derby|.|WET5770.txt|.|116|.|WET5769.txt|.|124|.|WET2029.txt|.|176
+kentucky yearbook|.|WET553.txt|.|28
+kentucky|.|WET5770.txt|.|134|.|WET5769.txt|.|153|.|WET553.txt|.|65|.|WET5147.txt|.|13|.|WET2029.txt|.|206|.|WET5524.txt|.|16

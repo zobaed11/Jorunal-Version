@@ -1,0 +1,12 @@
+198
+comisiones|.|WET4602.txt|.|18
+disse|.|WET1401.txt|.|12
+morning star|.|WET2403.txt|.|38
+discuss the finer points|.|WET3411.txt|.|72
+year guarantee|.|WET5891.txt|.|9
+community events|.|WET960.txt|.|26
+questions online|.|WET729.txt|.|189
+merit|.|WET4384.txt|.|54
+house take|.|WET3226.txt|.|10
+nurses|.|WET372.txt|.|31
+sparda|.|WET4801.txt|.|8

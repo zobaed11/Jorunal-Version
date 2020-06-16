@@ -1,0 +1,12 @@
+1382
+eighth grades|.|WET5908.txt|.|14
+giant slalom|.|WET3016.txt|.|10
+bipasha|.|WET1347.txt|.|2
+buy tickets last|.|WET336.txt|.|379
+last minute|.|WET1744.txt|.|88|.|WET336.txt|.|402
+destination|.|WET2313.txt|.|9
+innovators|.|WET3231.txt|.|2
+television arts|.|WET4699.txt|.|15
+blog wvu sports|.|WET3329.txt|.|12
+events|.|WET6145.txt|.|12|.|WET249.txt|.|65|.|WET1749.txt|.|69|.|WET3390.txt|.|14|.|WET362.txt|.|20|.|WET3324.txt|.|17|.|WET5066.txt|.|20|.|WET3201.txt|.|72|.|WET2482.txt|.|14|.|WET5908.txt|.|24|.|WET698.txt|.|17|.|WET2404.txt|.|20|.|WET564.txt|.|19|.|WET1347.txt|.|32|.|WET4202.txt|.|30|.|WET3016.txt|.|11|.|WET2037.txt|.|42|.|WET5143.txt|.|28|.|WET2600.txt|.|9|.|WET2470.txt|.|15|.|WET4699.txt|.|27|.|WET3954.txt|.|10|.|WET5318.txt|.|11|.|WET3290.txt|.|22|.|WET123.txt|.|6|.|WET2313.txt|.|39|.|WET960.txt|.|41|.|WET5043.txt|.|8|.|WET1663.txt|.|16|.|WET3184.txt|.|22|.|WET5628.txt|.|11|.|WET4310.txt|.|16|.|WET3329.txt|.|48|.|WET4680.txt|.|42|.|WET3257.txt|.|37|.|WET1753.txt|.|16|.|WET1346.txt|.|38|.|WET3231.txt|.|22|.|WET1337.txt|.|16|.|WET3867.txt|.|20|.|WET4477.txt|.|14|.|WET60.txt|.|12|.|WET4311.txt|.|19|.|WET1754.txt|.|22|.|WET2508.txt|.|18|.|WET4487.txt|.|44|.|WET610.txt|.|10|.|WET5097.txt|.|28|.|WET6186.txt|.|15|.|WET336.txt|.|1133|.|WET2364.txt|.|17|.|WET2169.txt|.|25|.|WET4813.txt|.|26|.|WET5962.txt|.|22
+tickets more icelandic|.|WET336.txt|.|82

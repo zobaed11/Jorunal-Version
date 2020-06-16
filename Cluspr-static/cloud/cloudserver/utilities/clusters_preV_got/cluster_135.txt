@@ -1,0 +1,12 @@
+135
+abroad|.|WET3166.txt|.|6
+juneau empire|.|WET3166.txt|.|61
+juneau|.|WET5898.txt|.|12|.|WET3166.txt|.|107
+search advanced|.|WET2515.txt|.|11|.|WET5385.txt|.|10|.|WET1023.txt|.|8|.|WET178.txt|.|11
+alaska fairbanks|.|WET4768.txt|.|25
+alaska state|.|WET4768.txt|.|86
+study abroad|.|WET3166.txt|.|6
+alaska southeast|.|WET3166.txt|.|92
+empire|.|WET3269.txt|.|2|.|WET4382.txt|.|16|.|WET3166.txt|.|62
+fairbanks|.|WET4768.txt|.|28
+university of alaska|.|WET3166.txt|.|113

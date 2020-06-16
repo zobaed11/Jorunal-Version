@@ -1,0 +1,54 @@
+112
+youth hostel|.|WET3744.txt|.|9
+soccer association|.|WET5004.txt|.|66
+replica|.|WET2915.txt|.|48
+lake powell|.|WET3744.txt|.|9
+hats|.|WET4612.txt|.|27|.|WET917.txt|.|64|.|WET4654.txt|.|80|.|WET1546.txt|.|62|.|WET1985.txt|.|69|.|WET3275.txt|.|24|.|WET4658.txt|.|34
+youth|.|WET384.txt|.|85|.|WET917.txt|.|99|.|WET4654.txt|.|148|.|WET3744.txt|.|9|.|WET2915.txt|.|61|.|WET2427.txt|.|50|.|WET4652.txt|.|22|.|WET5004.txt|.|71|.|WET1534.txt|.|42
+day jersey|.|WET917.txt|.|38
+powell international|.|WET3744.txt|.|9
+sale footwear|.|WET2915.txt|.|11
+game day|.|WET917.txt|.|64
+tall|.|WET1534.txt|.|36
+chicago bears|.|WET917.txt|.|90|.|WET4654.txt|.|168
+chicago|.|WET4612.txt|.|102|.|WET917.txt|.|92|.|WET4654.txt|.|172|.|WET2463.txt|.|10|.|WET2704.txt|.|14|.|WET3937.txt|.|69
+footwear accessories|.|WET2915.txt|.|11
+barrow|.|WET5004.txt|.|70
+gang|.|WET2468.txt|.|27|.|WET915.txt|.|111|.|WET4652.txt|.|187|.|WET6206.txt|.|34
+ladies youth juniors|.|WET1534.txt|.|12
+matt|.|WET4654.txt|.|66|.|WET2325.txt|.|25
+jacket|.|WET1196.txt|.|92|.|WET4992.txt|.|24|.|WET917.txt|.|54|.|WET4654.txt|.|109|.|WET2885.txt|.|56
+jerseys|.|WET384.txt|.|126|.|WET4612.txt|.|29|.|WET3827.txt|.|21|.|WET2915.txt|.|49|.|WET4124.txt|.|41|.|WET921.txt|.|43|.|WET4632.txt|.|13|.|WET6182.txt|.|43
+epic|.|WET3576.txt|.|77|.|WET384.txt|.|60|.|WET447.txt|.|40|.|WET385.txt|.|15|.|WET84.txt|.|33|.|WET81.txt|.|31|.|WET4124.txt|.|52
+training wear|.|WET2915.txt|.|22
+bears|.|WET917.txt|.|159|.|WET4654.txt|.|272|.|WET5524.txt|.|24|.|WET1789.txt|.|24
+youth soccer|.|WET5004.txt|.|70
+youth football jerseys|.|WET384.txt|.|10
+barrow youth|.|WET5004.txt|.|70
+youth soccer association|.|WET5004.txt|.|66
+barrow youth soccer association|.|WET5004.txt|.|66
+ladies|.|WET3354.txt|.|100|.|WET1534.txt|.|46
+powell|.|WET3744.txt|.|9
+gang threat|.|WET4652.txt|.|14
+association|.|WET814.txt|.|48|.|WET4902.txt|.|21|.|WET5004.txt|.|101
+football jerseys|.|WET384.txt|.|82|.|WET4124.txt|.|34
+juniors|.|WET1534.txt|.|18
+ladies youth tall|.|WET1534.txt|.|12
+gloves|.|WET384.txt|.|21|.|WET3826.txt|.|20|.|WET1257.txt|.|138|.|WET2409.txt|.|32
+cap|.|WET1705.txt|.|524|.|WET4992.txt|.|2|.|WET101.txt|.|10|.|WET4654.txt|.|104|.|WET5477.txt|.|31|.|WET205.txt|.|24
+jersey matt|.|WET4654.txt|.|38
+jersey|.|WET4654.txt|.|233|.|WET2506.txt|.|135|.|WET187.txt|.|19|.|WET478.txt|.|6|.|WET4225.txt|.|48|.|WET892.txt|.|7|.|WET4619.txt|.|40|.|WET202.txt|.|158|.|WET113.txt|.|77|.|WET917.txt|.|120|.|WET2080.txt|.|20|.|WET477.txt|.|10|.|WET2505.txt|.|200|.|WET3828.txt|.|29|.|WET5540.txt|.|16|.|WET3949.txt|.|152
+crime|.|WET4652.txt|.|29
+barrow youth soccer|.|WET5004.txt|.|70
+gang members|.|WET4652.txt|.|26
+footwear|.|WET2786.txt|.|24|.|WET1623.txt|.|108|.|WET3251.txt|.|42|.|WET2915.txt|.|114|.|WET2916.txt|.|45|.|WET2166.txt|.|108|.|WET5434.txt|.|28
+nike|.|WET917.txt|.|156|.|WET4654.txt|.|268|.|WET475.txt|.|32|.|WET2916.txt|.|99|.|WET1817.txt|.|66|.|WET5551.txt|.|153
+uniforms|.|WET384.txt|.|42
+goalkeeping|.|WET2915.txt|.|36
+football|.|WET384.txt|.|386|.|WET3013.txt|.|58|.|WET3829.txt|.|4|.|WET4124.txt|.|269|.|WET3101.txt|.|51|.|WET1801.txt|.|11|.|WET5572.txt|.|55|.|WET3023.txt|.|30|.|WET4125.txt|.|59|.|WET2905.txt|.|48|.|WET385.txt|.|85|.|WET2675.txt|.|14|.|WET370.txt|.|65|.|WET3811.txt|.|189|.|WET1929.txt|.|32|.|WET1836.txt|.|100|.|WET2625.txt|.|51|.|WET4123.txt|.|231|.|WET5538.txt|.|21|.|WET6239.txt|.|37|.|WET4099.txt|.|77
+youth hats|.|WET917.txt|.|16
+football uniforms|.|WET384.txt|.|24
+nike game day jersey|.|WET917.txt|.|18
+international youth|.|WET3744.txt|.|9
+goalkeeping replica|.|WET2915.txt|.|22
+threat|.|WET4652.txt|.|29

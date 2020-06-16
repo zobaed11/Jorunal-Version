@@ -1,0 +1,10 @@
+93
+top|.|WET3189.txt|.|50|.|WET1853.txt|.|30|.|WET2260.txt|.|225|.|WET5712.txt|.|7|.|WET1684.txt|.|30|.|WET5128.txt|.|47|.|WET6022.txt|.|35|.|WET4658.txt|.|55|.|WET1413.txt|.|196|.|WET4359.txt|.|84|.|WET620.txt|.|58|.|WET2456.txt|.|23|.|WET5765.txt|.|371|.|WET1568.txt|.|89|.|WET179.txt|.|14|.|WET390.txt|.|131|.|WET1377.txt|.|46|.|WET4011.txt|.|17|.|WET1508.txt|.|8|.|WET2368.txt|.|38|.|WET963.txt|.|52|.|WET5316.txt|.|83|.|WET2024.txt|.|200|.|WET5524.txt|.|185|.|WET3076.txt|.|31|.|WET5063.txt|.|84|.|WET535.txt|.|20|.|WET3101.txt|.|34|.|WET5260.txt|.|30|.|WET5948.txt|.|30|.|WET5017.txt|.|54|.|WET4517.txt|.|23|.|WET1780.txt|.|46|.|WET517.txt|.|13|.|WET6030.txt|.|23|.|WET2356.txt|.|44|.|WET2614.txt|.|23|.|WET534.txt|.|14|.|WET1378.txt|.|21|.|WET1789.txt|.|193|.|WET5789.txt|.|106|.|WET1964.txt|.|12|.|WET4858.txt|.|34|.|WET3815.txt|.|83|.|WET6132.txt|.|33|.|WET4280.txt|.|22|.|WET260.txt|.|7|.|WET2866.txt|.|126|.|WET1249.txt|.|126|.|WET4329.txt|.|18|.|WET3079.txt|.|70|.|WET6027.txt|.|22|.|WET3190.txt|.|63|.|WET439.txt|.|16|.|WET4010.txt|.|18|.|WET1620.txt|.|97|.|WET1019.txt|.|17|.|WET4867.txt|.|19|.|WET112.txt|.|25|.|WET1915.txt|.|17|.|WET4702.txt|.|64|.|WET5164.txt|.|129|.|WET3121.txt|.|19|.|WET5546.txt|.|62|.|WET5783.txt|.|36|.|WET5766.txt|.|106|.|WET2872.txt|.|70|.|WET1072.txt|.|55|.|WET450.txt|.|7|.|WET5517.txt|.|89|.|WET2793.txt|.|23|.|WET1706.txt|.|85|.|WET4610.txt|.|46|.|WET6034.txt|.|169|.|WET4683.txt|.|58
+experts find|.|WET5164.txt|.|2
+kings san|.|WET2024.txt|.|6
+boston celtics|.|WET2024.txt|.|6
+orlando magic|.|WET2024.txt|.|6
+orlando|.|WET2024.txt|.|7
+standings division standings|.|WET5765.txt|.|11
+experts|.|WET5164.txt|.|2
+fantasy basketball|.|WET2024.txt|.|6

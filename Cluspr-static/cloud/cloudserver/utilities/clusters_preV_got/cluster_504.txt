@@ -1,0 +1,12 @@
+504
+jul|.|WET587.txt|.|10|.|WET1400.txt|.|51|.|WET3236.txt|.|18|.|WET399.txt|.|24|.|WET1037.txt|.|10|.|WET1180.txt|.|62|.|WET4856.txt|.|25
+posted jul|.|WET1400.txt|.|40
+david copperfield|.|WET4856.txt|.|50
+aug jul jun|.|WET1180.txt|.|54
+apr may jun|.|WET3236.txt|.|18
+copperfield|.|WET4856.txt|.|50
+mon|.|WET2533.txt|.|122|.|WET3832.txt|.|207|.|WET6268.txt|.|53|.|WET399.txt|.|48
+levacius|.|WET1400.txt|.|17
+shonen jump|.|WET3236.txt|.|37
+promotion|.|WET6242.txt|.|1|.|WET2310.txt|.|3|.|WET2964.txt|.|2|.|WET3281.txt|.|2|.|WET3955.txt|.|2|.|WET2375.txt|.|2|.|WET3044.txt|.|3|.|WET1498.txt|.|4|.|WET743.txt|.|2|.|WET1400.txt|.|2|.|WET5752.txt|.|3|.|WET4359.txt|.|2|.|WET3075.txt|.|2|.|WET2884.txt|.|2|.|WET5815.txt|.|4|.|WET3869.txt|.|2|.|WET1835.txt|.|1|.|WET4372.txt|.|1|.|WET3902.txt|.|1|.|WET632.txt|.|1|.|WET3567.txt|.|7|.|WET4652.txt|.|2|.|WET5502.txt|.|1|.|WET4736.txt|.|2|.|WET667.txt|.|3|.|WET3720.txt|.|2|.|WET5984.txt|.|1|.|WET4771.txt|.|1|.|WET1211.txt|.|2|.|WET5077.txt|.|2|.|WET3110.txt|.|2|.|WET259.txt|.|4|.|WET4683.txt|.|2
+thu apr|.|WET1332.txt|.|22|.|WET2842.txt|.|42

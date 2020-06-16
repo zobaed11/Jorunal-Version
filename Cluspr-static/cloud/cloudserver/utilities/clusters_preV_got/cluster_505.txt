@@ -1,0 +1,12 @@
+505
+plus hotel|.|WET3580.txt|.|29
+fast|.|WET5854.txt|.|14|.|WET1797.txt|.|34|.|WET6112.txt|.|3|.|WET2737.txt|.|12
+clippers|.|WET3953.txt|.|82|.|WET921.txt|.|56
+western plus hotel|.|WET3580.txt|.|29
+erv|.|WET3580.txt|.|12
+western|.|WET179.txt|.|52|.|WET4028.txt|.|78|.|WET4029.txt|.|24|.|WET3580.txt|.|261|.|WET760.txt|.|41|.|WET1288.txt|.|30|.|WET1641.txt|.|9
+western hotel|.|WET3580.txt|.|108
+opalesque|.|WET6288.txt|.|315
+philosophy|.|WET761.txt|.|35|.|WET4501.txt|.|115|.|WET760.txt|.|469
+hearing aids|.|WET4983.txt|.|9
+law social|.|WET2109.txt|.|8|.|WET4500.txt|.|8|.|WET4501.txt|.|2|.|WET760.txt|.|11

@@ -1,0 +1,12 @@
+589
+university of southern|.|WET282.txt|.|21|.|WET4036.txt|.|214|.|WET292.txt|.|246|.|WET4026.txt|.|34
+utterances|.|WET291.txt|.|2
+mediating|.|WET291.txt|.|2|.|WET1033.txt|.|2
+usc|.|WET4036.txt|.|33
+southern california collection|.|WET292.txt|.|33
+california|.|WET4036.txt|.|309|.|WET3930.txt|.|20|.|WET293.txt|.|81|.|WET5051.txt|.|32|.|WET291.txt|.|434|.|WET4454.txt|.|72|.|WET292.txt|.|338|.|WET1270.txt|.|100
+california digital|.|WET3930.txt|.|12
+southern california|.|WET4036.txt|.|251|.|WET293.txt|.|54|.|WET291.txt|.|346|.|WET292.txt|.|280
+film|.|WET489.txt|.|18|.|WET4996.txt|.|32|.|WET2837.txt|.|67|.|WET4758.txt|.|69|.|WET1775.txt|.|19|.|WET3944.txt|.|27|.|WET2680.txt|.|50|.|WET5660.txt|.|21|.|WET373.txt|.|19|.|WET3023.txt|.|40|.|WET2212.txt|.|18|.|WET1015.txt|.|54|.|WET17.txt|.|18|.|WET5895.txt|.|20
+hunter posts|.|WET1695.txt|.|53
+usc digital library|.|WET4036.txt|.|21

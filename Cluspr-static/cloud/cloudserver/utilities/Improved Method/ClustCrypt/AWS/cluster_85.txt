@@ -1,0 +1,13 @@
+harvest|.|WET5152.txt|.|219
+fact|.|WET5152.txt|.|119
+months|.|WET5152.txt|.|298|.|WET5554.txt|.|90|.|WET530.txt|.|50
+download the fact|.|WET5152.txt|.|119
+french oak|.|WET5152.txt|.|254
+cabernet sauvignon|.|WET5152.txt|.|362|.|WET3297.txt|.|33
+english french|.|WET2576.txt|.|8
+months in french|.|WET5152.txt|.|135
+forks frame|.|WET5208.txt|.|9
+complement this wine|.|WET5152.txt|.|132
+recipes that complement|.|WET5152.txt|.|132
+complement|.|WET5152.txt|.|137
+french|.|WET3181.txt|.|5|.|WET329.txt|.|11|.|WET2576.txt|.|17|.|WET4169.txt|.|22|.|WET4446.txt|.|11|.|WET5208.txt|.|18|.|WET5152.txt|.|298|.|WET3990.txt|.|11|.|WET423.txt|.|72|.|WET1133.txt|.|7|.|WET4201.txt|.|20|.|WET3884.txt|.|11|.|WET1365.txt|.|20

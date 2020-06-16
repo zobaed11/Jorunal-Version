@@ -1,0 +1,12 @@
+11
+guru|.|WET2454.txt|.|40|.|WET5710.txt|.|45
+profiling with pidns|.|WET4336.txt|.|16
+espanol|.|WET3188.txt|.|11|.|WET3190.txt|.|11|.|WET3189.txt|.|11|.|WET918.txt|.|5
+raised|.|WET1657.txt|.|28
+kan|.|WET1169.txt|.|11
+accountlog|.|WET4077.txt|.|9
+landwirtschaftliches|.|WET2659.txt|.|15
+doiexport recordbibtexrisrdfxmldblp|.|WET264.txt|.|112|.|WET4007.txt|.|79
+drill|.|WET4348.txt|.|5|.|WET5746.txt|.|4|.|WET3120.txt|.|26|.|WET1961.txt|.|8
+kbc|.|WET5909.txt|.|9
+compare search|.|WET5710.txt|.|9

@@ -1,0 +1,12 @@
+652
+hvac|.|WET4242.txt|.|216
+meyer|.|WET2491.txt|.|27|.|WET2450.txt|.|42|.|WET2451.txt|.|60
+commercial|.|WET4242.txt|.|136|.|WET3363.txt|.|49|.|WET4071.txt|.|23|.|WET2775.txt|.|62
+new us|.|WET1108.txt|.|7
+rcu|.|WET2746.txt|.|159
+residential hvac educational|.|WET4242.txt|.|44
+questions open|.|WET4242.txt|.|187|.|WET494.txt|.|170
+du lac|.|WET4167.txt|.|14
+misspelled|.|WET1532.txt|.|64|.|WET1533.txt|.|17
+departments|.|WET4062.txt|.|99
+resistance|.|WET1476.txt|.|7|.|WET3048.txt|.|13

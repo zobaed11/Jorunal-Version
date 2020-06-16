@@ -1,0 +1,12 @@
+293
+ballot|.|WET1540.txt|.|13
+noise|.|WET1993.txt|.|4
+funniest|.|WET5529.txt|.|23|.|WET1794.txt|.|34
+new games|.|WET2389.txt|.|22
+smartest and funniest|.|WET1794.txt|.|22
+skeet|.|WET744.txt|.|22
+sjr|.|WET5893.txt|.|50
+air circulator|.|WET1952.txt|.|123
+amber anique|.|WET3778.txt|.|57
+pico power|.|WET1994.txt|.|8
+earphones|.|WET1993.txt|.|73

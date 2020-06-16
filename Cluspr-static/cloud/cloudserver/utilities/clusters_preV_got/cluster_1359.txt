@@ -1,0 +1,12 @@
+1359
+help search news|.|WET5861.txt|.|11
+help|.|WET1778.txt|.|14|.|WET2713.txt|.|19|.|WET3654.txt|.|20|.|WET5912.txt|.|102|.|WET5709.txt|.|9|.|WET5861.txt|.|39|.|WET3175.txt|.|74|.|WET5383.txt|.|20|.|WET1963.txt|.|44|.|WET1459.txt|.|16|.|WET5884.txt|.|38|.|WET4774.txt|.|41|.|WET5913.txt|.|32|.|WET730.txt|.|11|.|WET1002.txt|.|20|.|WET756.txt|.|55|.|WET4532.txt|.|39|.|WET2596.txt|.|64|.|WET2620.txt|.|11|.|WET2337.txt|.|76|.|WET642.txt|.|22|.|WET629.txt|.|36|.|WET3923.txt|.|4|.|WET4775.txt|.|46|.|WET3732.txt|.|71|.|WET2130.txt|.|27|.|WET2173.txt|.|163|.|WET1029.txt|.|44|.|WET3585.txt|.|33|.|WET4083.txt|.|29|.|WET4046.txt|.|7|.|WET5368.txt|.|26|.|WET4193.txt|.|33|.|WET3462.txt|.|17|.|WET45.txt|.|32|.|WET207.txt|.|10|.|WET839.txt|.|44|.|WET3609.txt|.|12|.|WET4601.txt|.|31|.|WET340.txt|.|22|.|WET3997.txt|.|11|.|WET285.txt|.|11|.|WET4369.txt|.|35|.|WET1030.txt|.|45|.|WET4497.txt|.|43|.|WET4077.txt|.|25|.|WET1962.txt|.|44
+kidney|.|WET2337.txt|.|15
+equipment and features|.|WET3609.txt|.|6
+help company info|.|WET1778.txt|.|11
+school subjects|.|WET5884.txt|.|9
+toggle|.|WET3174.txt|.|22|.|WET1364.txt|.|12|.|WET3175.txt|.|12|.|WET5346.txt|.|20
+programming help|.|WET756.txt|.|28|.|WET4497.txt|.|34
+inrequest|.|WET4077.txt|.|9
+homework help|.|WET5884.txt|.|18
+itv plc|.|WET5861.txt|.|21

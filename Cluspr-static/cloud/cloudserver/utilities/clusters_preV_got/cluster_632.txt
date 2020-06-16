@@ -1,0 +1,12 @@
+632
+university of birmingham|.|WET1319.txt|.|33
+plaintiff|.|WET1813.txt|.|16
+save like|.|WET3686.txt|.|117|.|WET3685.txt|.|98
+nacional|.|WET328.txt|.|83
+river conditions|.|WET5098.txt|.|18
+ridazz|.|WET6111.txt|.|14
+priority|.|WET3759.txt|.|21|.|WET1802.txt|.|33
+indiana public media|.|WET4256.txt|.|71
+pongal|.|WET3140.txt|.|23
+restoration|.|WET4548.txt|.|25
+unknown|.|WET1031.txt|.|69|.|WET1209.txt|.|2

@@ -1,0 +1,12 @@
+1199
+text to edit|.|WET3278.txt|.|32
+notification|.|WET1784.txt|.|18
+solutions pathway|.|WET3876.txt|.|72
+connector|.|WET2700.txt|.|2|.|WET1945.txt|.|4|.|WET4164.txt|.|30|.|WET4919.txt|.|2|.|WET421.txt|.|18|.|WET422.txt|.|32|.|WET3848.txt|.|11|.|WET3602.txt|.|2|.|WET3496.txt|.|2|.|WET5621.txt|.|4|.|WET4165.txt|.|33|.|WET2258.txt|.|2|.|WET2365.txt|.|1|.|WET5469.txt|.|1|.|WET1712.txt|.|4|.|WET6031.txt|.|2|.|WET2293.txt|.|1|.|WET700.txt|.|2|.|WET5200.txt|.|3|.|WET4237.txt|.|2|.|WET6004.txt|.|2|.|WET3278.txt|.|30|.|WET1192.txt|.|2|.|WET4659.txt|.|2
+threaten|.|WET5373.txt|.|16
+installation|.|WET2072.txt|.|76|.|WET4164.txt|.|29|.|WET5136.txt|.|164|.|WET746.txt|.|53|.|WET1406.txt|.|4
+staatliche museen|.|WET2910.txt|.|15
+professor blogs|.|WET575.txt|.|16
+smtp server|.|WET4164.txt|.|25
+chypre|.|WET522.txt|.|21
+pas cher|.|WET939.txt|.|5

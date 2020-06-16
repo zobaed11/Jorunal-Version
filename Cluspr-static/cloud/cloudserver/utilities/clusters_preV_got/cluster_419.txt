@@ -1,0 +1,12 @@
+419
+alerts|.|WET1970.txt|.|45|.|WET3080.txt|.|121|.|WET566.txt|.|57|.|WET301.txt|.|13|.|WET5609.txt|.|11|.|WET642.txt|.|11|.|WET6206.txt|.|16
+cameras forecast|.|WET6206.txt|.|4
+spurs|.|WET5765.txt|.|131
+saved cars|.|WET5609.txt|.|4
+weather entertainment|.|WET6206.txt|.|4
+kill|.|WET437.txt|.|25
+freeman|.|WET5595.txt|.|36
+roster news schedule|.|WET2541.txt|.|37
+york local|.|WET6206.txt|.|4
+stocks|.|WET5260.txt|.|32|.|WET3079.txt|.|311|.|WET3081.txt|.|63|.|WET3583.txt|.|77|.|WET3080.txt|.|313
+vault|.|WET301.txt|.|29

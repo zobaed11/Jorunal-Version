@@ -1,0 +1,12 @@
+1146
+tech|.|WET2695.txt|.|34|.|WET136.txt|.|152|.|WET46.txt|.|49|.|WET5875.txt|.|47|.|WET4682.txt|.|77|.|WET3879.txt|.|140|.|WET1509.txt|.|22|.|WET3321.txt|.|55|.|WET3881.txt|.|157|.|WET3325.txt|.|63|.|WET1325.txt|.|15|.|WET1083.txt|.|82|.|WET5260.txt|.|28|.|WET137.txt|.|163|.|WET2136.txt|.|88|.|WET5876.txt|.|61|.|WET1227.txt|.|12|.|WET3880.txt|.|155|.|WET5326.txt|.|30|.|WET2324.txt|.|218|.|WET4367.txt|.|18
+witnessed|.|WET1309.txt|.|2|.|WET4692.txt|.|1|.|WET4482.txt|.|2|.|WET4277.txt|.|1|.|WET2082.txt|.|1|.|WET2996.txt|.|1|.|WET4002.txt|.|3|.|WET927.txt|.|2|.|WET3200.txt|.|1|.|WET195.txt|.|1|.|WET4784.txt|.|2|.|WET2113.txt|.|2|.|WET1083.txt|.|3|.|WET294.txt|.|4|.|WET5924.txt|.|2|.|WET1179.txt|.|1|.|WET4293.txt|.|1|.|WET4214.txt|.|1|.|WET2488.txt|.|1|.|WET3867.txt|.|1|.|WET6248.txt|.|2
+acronym finder|.|WET1117.txt|.|28
+video wsj|.|WET3325.txt|.|20
+aeg|.|WET1139.txt|.|54|.|WET4885.txt|.|224|.|WET1138.txt|.|203
+trader|.|WET137.txt|.|22|.|WET3879.txt|.|20|.|WET3881.txt|.|22
+orthodox church|.|WET2566.txt|.|11
+holiday inn express|.|WET5810.txt|.|116|.|WET3643.txt|.|38
+washington|.|WET4782.txt|.|41|.|WET6268.txt|.|75|.|WET5850.txt|.|426|.|WET3169.txt|.|20|.|WET4814.txt|.|159|.|WET2527.txt|.|40
+samurai|.|WET46.txt|.|94
+music systems|.|WET2784.txt|.|63

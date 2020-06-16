@@ -1,0 +1,12 @@
+267
+cloud|.|WET180.txt|.|21|.|WET4583.txt|.|138|.|WET1574.txt|.|23|.|WET1040.txt|.|129|.|WET5832.txt|.|31|.|WET4741.txt|.|120|.|WET4593.txt|.|60
+service was scheduled|.|WET4882.txt|.|1
+flight|.|WET4883.txt|.|36|.|WET3653.txt|.|266|.|WET2745.txt|.|32|.|WET4741.txt|.|43|.|WET3977.txt|.|14|.|WET4882.txt|.|155
+attendant|.|WET3977.txt|.|8
+deletion|.|WET4882.txt|.|116
+resp|.|WET4882.txt|.|116
+scheduled|.|WET4882.txt|.|24
+token scheme|.|WET3977.txt|.|2
+kayak|.|WET3653.txt|.|32|.|WET5171.txt|.|46
+token|.|WET3977.txt|.|2
+instant|.|WET2596.txt|.|33|.|WET3417.txt|.|4|.|WET4882.txt|.|116

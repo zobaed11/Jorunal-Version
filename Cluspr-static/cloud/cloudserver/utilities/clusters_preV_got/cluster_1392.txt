@@ -1,0 +1,12 @@
+1392
+biographical|.|WET2245.txt|.|12
+mediately|.|WET4739.txt|.|1
+internal|.|WET2245.txt|.|12
+library|.|WET185.txt|.|104|.|WET728.txt|.|162|.|WET1013.txt|.|16|.|WET3933.txt|.|95|.|WET1749.txt|.|2|.|WET576.txt|.|50|.|WET1429.txt|.|29|.|WET186.txt|.|9|.|WET4031.txt|.|30|.|WET345.txt|.|31|.|WET5112.txt|.|16|.|WET292.txt|.|59|.|WET1925.txt|.|36|.|WET4739.txt|.|7|.|WET3934.txt|.|19|.|WET3819.txt|.|28|.|WET709.txt|.|17|.|WET106.txt|.|29|.|WET2245.txt|.|44|.|WET293.txt|.|30|.|WET195.txt|.|51|.|WET5983.txt|.|43|.|WET4325.txt|.|77|.|WET3924.txt|.|95|.|WET178.txt|.|127|.|WET294.txt|.|62|.|WET582.txt|.|135|.|WET215.txt|.|31|.|WET4326.txt|.|74|.|WET3936.txt|.|200|.|WET2904.txt|.|74|.|WET227.txt|.|240|.|WET287.txt|.|77|.|WET502.txt|.|2|.|WET715.txt|.|28|.|WET4370.txt|.|7|.|WET228.txt|.|30|.|WET2604.txt|.|25|.|WET4327.txt|.|112|.|WET4036.txt|.|54|.|WET226.txt|.|43|.|WET288.txt|.|26|.|WET4028.txt|.|48|.|WET4328.txt|.|39|.|WET3973.txt|.|141|.|WET14.txt|.|18|.|WET3466.txt|.|116|.|WET238.txt|.|27|.|WET3626.txt|.|44|.|WET1686.txt|.|11|.|WET682.txt|.|53|.|WET6100.txt|.|63|.|WET188.txt|.|202|.|WET3932.txt|.|48|.|WET322.txt|.|33|.|WET3962.txt|.|31
+internal requests|.|WET2245.txt|.|12
+lumpkin county|.|WET188.txt|.|76|.|WET3936.txt|.|76
+groce|.|WET2245.txt|.|17
+hedges|.|WET294.txt|.|2|.|WET3755.txt|.|2|.|WET1392.txt|.|2|.|WET4633.txt|.|1|.|WET5142.txt|.|2
+ldd|.|WET728.txt|.|1
+green news|.|WET5112.txt|.|51
+dell|.|WET924.txt|.|46|.|WET4236.txt|.|31|.|WET322.txt|.|19

@@ -1,0 +1,12 @@
+1390
+cajun|.|WET5728.txt|.|11
+genres|.|WET1358.txt|.|22|.|WET1057.txt|.|1|.|WET4692.txt|.|1|.|WET6013.txt|.|22|.|WET5110.txt|.|22|.|WET2260.txt|.|2|.|WET5111.txt|.|12|.|WET4764.txt|.|2|.|WET20.txt|.|1|.|WET1790.txt|.|3|.|WET5578.txt|.|2|.|WET4588.txt|.|1|.|WET1359.txt|.|22|.|WET107.txt|.|2|.|WET2925.txt|.|39|.|WET2854.txt|.|1|.|WET2908.txt|.|16|.|WET1350.txt|.|1|.|WET5872.txt|.|1|.|WET5002.txt|.|3|.|WET742.txt|.|2|.|WET5109.txt|.|22|.|WET5729.txt|.|26|.|WET221.txt|.|2|.|WET3636.txt|.|2|.|WET1599.txt|.|2|.|WET5728.txt|.|25|.|WET6158.txt|.|20|.|WET1018.txt|.|2|.|WET5009.txt|.|2|.|WET5106.txt|.|1|.|WET5892.txt|.|2|.|WET288.txt|.|1|.|WET4053.txt|.|2|.|WET4363.txt|.|2|.|WET4620.txt|.|1|.|WET2867.txt|.|11|.|WET4514.txt|.|2|.|WET4884.txt|.|2|.|WET941.txt|.|2|.|WET1988.txt|.|24|.|WET2414.txt|.|21|.|WET3797.txt|.|1|.|WET4249.txt|.|2|.|WET1613.txt|.|1|.|WET1987.txt|.|22|.|WET2924.txt|.|35|.|WET6254.txt|.|12|.|WET1357.txt|.|20|.|WET4984.txt|.|1|.|WET1360.txt|.|2|.|WET940.txt|.|1|.|WET132.txt|.|2|.|WET622.txt|.|11|.|WET2590.txt|.|8
+instrumental|.|WET5728.txt|.|11
+instrumental new age|.|WET5728.txt|.|11
+folk gospel instrumental|.|WET5728.txt|.|11
+issue december|.|WET1988.txt|.|7
+ensemble|.|WET5729.txt|.|33
+stock add|.|WET1214.txt|.|16|.|WET5729.txt|.|29
+topic characters|.|WET6013.txt|.|5
+music cds|.|WET1988.txt|.|30|.|WET5729.txt|.|33
+cd release date|.|WET1987.txt|.|11

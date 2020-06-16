@@ -1,0 +1,12 @@
+498
+local marketplace|.|WET1410.txt|.|104|.|WET5159.txt|.|52
+induction|.|WET5159.txt|.|36
+marketplace|.|WET1717.txt|.|27|.|WET5301.txt|.|28|.|WET1410.txt|.|168|.|WET3916.txt|.|78|.|WET1553.txt|.|37|.|WET1408.txt|.|189|.|WET5159.txt|.|84
+autos for sale|.|WET1408.txt|.|27
+forward|.|WET616.txt|.|6|.|WET1408.txt|.|27
+classifieds|.|WET1695.txt|.|21|.|WET6266.txt|.|20|.|WET4979.txt|.|16|.|WET2477.txt|.|10|.|WET2652.txt|.|121|.|WET119.txt|.|37|.|WET3184.txt|.|40|.|WET115.txt|.|10|.|WET2165.txt|.|18|.|WET972.txt|.|13|.|WET1431.txt|.|18|.|WET4504.txt|.|16|.|WET5001.txt|.|13|.|WET1655.txt|.|20|.|WET1408.txt|.|81|.|WET3259.txt|.|15|.|WET6153.txt|.|16|.|WET2114.txt|.|7
+cosmetic|.|WET1408.txt|.|99
+intel|.|WET1167.txt|.|43
+pay it forward|.|WET1408.txt|.|27
+days of wonder|.|WET3607.txt|.|11
+free give aways|.|WET1408.txt|.|27

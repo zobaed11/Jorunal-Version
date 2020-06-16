@@ -1,0 +1,12 @@
+170
+smaller make text|.|WET5445.txt|.|11|.|WET1552.txt|.|11
+southwest|.|WET5445.txt|.|27|.|WET1701.txt|.|25|.|WET3321.txt|.|11
+note|.|WET706.txt|.|259|.|WET844.txt|.|105|.|WET96.txt|.|98
+showing item|.|WET3429.txt|.|10
+lima|.|WET5990.txt|.|31
+animas|.|WET1699.txt|.|34
+hearts|.|WET3761.txt|.|15
+playa del carmen|.|WET2574.txt|.|125
+recovery|.|WET3237.txt|.|6|.|WET577.txt|.|369
+coker|.|WET3959.txt|.|71
+radarweather|.|WET6204.txt|.|14

@@ -1,0 +1,12 @@
+93
+doctrine and covenants|.|WET4285.txt|.|66
+works|.|WET1507.txt|.|18|.|WET506.txt|.|22|.|WET5011.txt|.|102|.|WET4285.txt|.|114|.|WET5682.txt|.|7
+signature|.|WET234.txt|.|18|.|WET5011.txt|.|19
+view full|.|WET1218.txt|.|137|.|WET541.txt|.|8|.|WET4285.txt|.|22|.|WET1511.txt|.|75
+blend|.|WET3297.txt|.|79|.|WET5011.txt|.|206
+candle|.|WET1568.txt|.|85|.|WET5011.txt|.|199
+body works direct|.|WET5011.txt|.|44
+direct|.|WET5011.txt|.|44|.|WET5113.txt|.|70|.|WET2207.txt|.|49
+cited|.|WET541.txt|.|39|.|WET4285.txt|.|61
+smith papers|.|WET4285.txt|.|27
+citedhide|.|WET4285.txt|.|56

@@ -1,0 +1,12 @@
+413
+service request|.|WET2587.txt|.|2|.|WET1980.txt|.|4|.|WET5367.txt|.|5
+angeles|.|WET4613.txt|.|60|.|WET3863.txt|.|93|.|WET3758.txt|.|25|.|WET3082.txt|.|50|.|WET921.txt|.|119|.|WET4763.txt|.|51|.|WET4619.txt|.|51
+search submit|.|WET921.txt|.|9
+girls volleyball|.|WET4641.txt|.|190
+los angeles clippers|.|WET921.txt|.|56
+jerseys|.|WET384.txt|.|126|.|WET4612.txt|.|29|.|WET3827.txt|.|21|.|WET2915.txt|.|49|.|WET4124.txt|.|41|.|WET921.txt|.|43|.|WET4632.txt|.|13|.|WET6182.txt|.|43
+franklin gothic|.|WET4122.txt|.|12
+keyword|.|WET2689.txt|.|4|.|WET3065.txt|.|1|.|WET117.txt|.|6|.|WET2331.txt|.|2|.|WET3862.txt|.|10|.|WET3993.txt|.|16|.|WET3747.txt|.|12|.|WET2375.txt|.|1|.|WET1349.txt|.|2|.|WET3866.txt|.|10|.|WET4442.txt|.|2|.|WET5286.txt|.|14|.|WET4115.txt|.|10|.|WET6154.txt|.|3|.|WET1429.txt|.|8|.|WET762.txt|.|1|.|WET2597.txt|.|2|.|WET3863.txt|.|6|.|WET2854.txt|.|10|.|WET103.txt|.|3|.|WET2261.txt|.|2|.|WET2283.txt|.|4|.|WET3118.txt|.|2|.|WET2054.txt|.|6|.|WET4372.txt|.|1|.|WET122.txt|.|10|.|WET3070.txt|.|3|.|WET167.txt|.|4|.|WET1537.txt|.|2|.|WET3954.txt|.|5|.|WET3852.txt|.|2|.|WET6003.txt|.|3|.|WET105.txt|.|4|.|WET966.txt|.|2|.|WET1865.txt|.|3|.|WET1313.txt|.|3
+gta vice|.|WET4763.txt|.|118
+scotch|.|WET3296.txt|.|36
+tina|.|WET6228.txt|.|65

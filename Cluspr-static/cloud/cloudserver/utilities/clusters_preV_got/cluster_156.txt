@@ -1,0 +1,12 @@
+156
+slovenia|.|WET2903.txt|.|74
+hours|.|WET2389.txt|.|11|.|WET3634.txt|.|52|.|WET5966.txt|.|34|.|WET3835.txt|.|64|.|WET3205.txt|.|20|.|WET4536.txt|.|21|.|WET6102.txt|.|22
+start|.|WET3890.txt|.|50
+recipient|.|WET5693.txt|.|135|.|WET1953.txt|.|75
+drill press|.|WET4348.txt|.|5
+golden|.|WET3984.txt|.|81|.|WET872.txt|.|16|.|WET5766.txt|.|22|.|WET4370.txt|.|76|.|WET1975.txt|.|6
+stumbled|.|WET2493.txt|.|12
+stary|.|WET4138.txt|.|90
+unwrapped|.|WET6312.txt|.|6
+required|.|WET782.txt|.|9
+drexel university|.|WET4371.txt|.|22

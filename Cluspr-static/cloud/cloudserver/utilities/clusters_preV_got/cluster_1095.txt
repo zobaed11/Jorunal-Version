@@ -1,0 +1,12 @@
+1095
+stands|.|WET2384.txt|.|492
+drug interactions|.|WET2807.txt|.|66|.|WET5437.txt|.|4
+laennec|.|WET5873.txt|.|26
+developers|.|WET4146.txt|.|21
+desk|.|WET2384.txt|.|448|.|WET3732.txt|.|49|.|WET5144.txt|.|83|.|WET5953.txt|.|21
+world languages|.|WET1956.txt|.|5
+list track order|.|WET5043.txt|.|8
+galaxy|.|WET2383.txt|.|500|.|WET4379.txt|.|116|.|WET844.txt|.|635|.|WET4145.txt|.|94|.|WET639.txt|.|63|.|WET4516.txt|.|8|.|WET3931.txt|.|61|.|WET1171.txt|.|61|.|WET3505.txt|.|364|.|WET2649.txt|.|274|.|WET4922.txt|.|114|.|WET2384.txt|.|952|.|WET1112.txt|.|38|.|WET6127.txt|.|754|.|WET4146.txt|.|72|.|WET1170.txt|.|122|.|WET1648.txt|.|29|.|WET404.txt|.|82
+studio x|.|WET4000.txt|.|60
+video bibles|.|WET1146.txt|.|13
+webstaurant|.|WET3266.txt|.|12

@@ -1,0 +1,12 @@
+160
+advertiser|.|WET1562.txt|.|8|.|WET5548.txt|.|14|.|WET5309.txt|.|14|.|WET2018.txt|.|6
+polar|.|WET2846.txt|.|91
+store store|.|WET6102.txt|.|11
+opera|.|WET6103.txt|.|117|.|WET2359.txt|.|75|.|WET6292.txt|.|69|.|WET6102.txt|.|119|.|WET6101.txt|.|123
+shea|.|WET3176.txt|.|109
+catalytic activity|.|WET3185.txt|.|73
+seiten|.|WET4803.txt|.|9
+store store hours|.|WET6102.txt|.|11
+manny pacquiao vs timothy bradley|.|WET740.txt|.|38
+screenshots|.|WET5705.txt|.|45
+chronicling|.|WET193.txt|.|41|.|WET3943.txt|.|25|.|WET3942.txt|.|48

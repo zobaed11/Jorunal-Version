@@ -1,0 +1,12 @@
+1315
+negotiate|.|WET4732.txt|.|4
+telaffuz|.|WET4719.txt|.|42
+megala chorafia|.|WET1172.txt|.|31
+anni|.|WET523.txt|.|62
+ultimate|.|WET1107.txt|.|61|.|WET3099.txt|.|60|.|WET3177.txt|.|21
+donation|.|WET1049.txt|.|13
+microsoft outlook|.|WET309.txt|.|38
+villa|.|WET4966.txt|.|38|.|WET1172.txt|.|25|.|WET3255.txt|.|16|.|WET2642.txt|.|37|.|WET5670.txt|.|26
+participant|.|WET4637.txt|.|184
+chorafia|.|WET1172.txt|.|31
+discuss the future|.|WET5871.txt|.|33

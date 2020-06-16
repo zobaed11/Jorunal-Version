@@ -1,0 +1,12 @@
+234
+knitters|.|WET5932.txt|.|18
+facebook sign|.|WET5212.txt|.|11
+unwrapped charity|.|WET6312.txt|.|6
+charity blossom|.|WET1461.txt|.|16|.|WET5212.txt|.|79
+charity|.|WET1461.txt|.|22|.|WET5932.txt|.|12|.|WET5212.txt|.|111|.|WET5135.txt|.|7|.|WET5213.txt|.|48|.|WET6312.txt|.|9
+show threads|.|WET5932.txt|.|8
+knittin|.|WET5932.txt|.|16
+signup home|.|WET2902.txt|.|5
+firefox|.|WET1778.txt|.|11|.|WET3393.txt|.|68
+york times|.|WET4544.txt|.|11
+redigera wikitext|.|WET3542.txt|.|24

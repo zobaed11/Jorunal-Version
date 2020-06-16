@@ -1,0 +1,12 @@
+790
+notices|.|WET722.txt|.|6
+chinese|.|WET5517.txt|.|66|.|WET1628.txt|.|20|.|WET4268.txt|.|11|.|WET4623.txt|.|52|.|WET349.txt|.|11|.|WET1600.txt|.|12|.|WET2576.txt|.|16|.|WET191.txt|.|56|.|WET1365.txt|.|10|.|WET4644.txt|.|11
+vice|.|WET4763.txt|.|119
+rth|.|WET5873.txt|.|26
+grace|.|WET4298.txt|.|22
+favors|.|WET6302.txt|.|32|.|WET5070.txt|.|12
+bengali bulgarian chinese|.|WET4644.txt|.|11
+holabird|.|WET57.txt|.|21
+drivers|.|WET5517.txt|.|74|.|WET598.txt|.|5|.|WET4982.txt|.|23|.|WET997.txt|.|1
+house water|.|WET1864.txt|.|9
+los frenillos|.|WET1624.txt|.|5

@@ -1,0 +1,12 @@
+1299
+cars|.|WET4979.txt|.|89|.|WET168.txt|.|182|.|WET3915.txt|.|243|.|WET1428.txt|.|130|.|WET5468.txt|.|42|.|WET1226.txt|.|45|.|WET200.txt|.|28|.|WET169.txt|.|115|.|WET5314.txt|.|11|.|WET1725.txt|.|103|.|WET1225.txt|.|75|.|WET4978.txt|.|117|.|WET4176.txt|.|200|.|WET5467.txt|.|112|.|WET6135.txt|.|22|.|WET3916.txt|.|211|.|WET5609.txt|.|9|.|WET1724.txt|.|113
+carl|.|WET185.txt|.|22|.|WET4921.txt|.|128
+orang|.|WET1979.txt|.|36
+nate|.|WET2540.txt|.|127|.|WET6274.txt|.|225
+estate|.|WET4175.txt|.|24|.|WET5344.txt|.|24|.|WET5204.txt|.|37|.|WET2506.txt|.|40|.|WET596.txt|.|32|.|WET5760.txt|.|84|.|WET3950.txt|.|72|.|WET1362.txt|.|24|.|WET2485.txt|.|73|.|WET5782.txt|.|21|.|WET137.txt|.|154|.|WET5677.txt|.|22|.|WET2235.txt|.|44|.|WET3146.txt|.|115|.|WET3880.txt|.|155|.|WET5218.txt|.|60|.|WET6134.txt|.|70|.|WET3864.txt|.|14|.|WET136.txt|.|159|.|WET2809.txt|.|52|.|WET119.txt|.|32|.|WET3303.txt|.|20|.|WET2165.txt|.|98|.|WET2020.txt|.|45|.|WET202.txt|.|70|.|WET2749.txt|.|93|.|WET5343.txt|.|11|.|WET6012.txt|.|14|.|WET5905.txt|.|98|.|WET1361.txt|.|75|.|WET203.txt|.|121|.|WET3949.txt|.|90|.|WET2391.txt|.|67
+wwabi|.|WET1852.txt|.|30
+movies movies|.|WET3222.txt|.|5
+zweig group|.|WET3869.txt|.|47
+korean norwegian polish|.|WET704.txt|.|11
+wine club|.|WET5218.txt|.|58
+accidental bride|.|WET3500.txt|.|18

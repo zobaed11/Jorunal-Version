@@ -1,0 +1,12 @@
+1275
+cambodia golf|.|WET1940.txt|.|11
+america texas|.|WET701.txt|.|30
+golf|.|WET3425.txt|.|20|.|WET3013.txt|.|36|.|WET1756.txt|.|186|.|WET701.txt|.|206|.|WET5383.txt|.|53|.|WET2794.txt|.|132|.|WET5390.txt|.|82|.|WET1727.txt|.|92|.|WET1950.txt|.|38|.|WET1515.txt|.|87|.|WET4591.txt|.|10|.|WET5764.txt|.|74|.|WET5680.txt|.|1256|.|WET1651.txt|.|29|.|WET3426.txt|.|9|.|WET2527.txt|.|29|.|WET1940.txt|.|902|.|WET2377.txt|.|25|.|WET1059.txt|.|14|.|WET1635.txt|.|31|.|WET6240.txt|.|15|.|WET5690.txt|.|42|.|WET1636.txt|.|28|.|WET1007.txt|.|139|.|WET6260.txt|.|55|.|WET5679.txt|.|1062|.|WET4203.txt|.|47|.|WET5492.txt|.|40|.|WET3610.txt|.|41|.|WET1941.txt|.|1072|.|WET2644.txt|.|117
+hardballtalk profootballtalk|.|WET2794.txt|.|16
+golf pride|.|WET1940.txt|.|17
+clubs|.|WET1940.txt|.|102|.|WET916.txt|.|27|.|WET1059.txt|.|5|.|WET1461.txt|.|12|.|WET5390.txt|.|20|.|WET3297.txt|.|43|.|WET1446.txt|.|28|.|WET5679.txt|.|131|.|WET5680.txt|.|164|.|WET1941.txt|.|134|.|WET4196.txt|.|20|.|WET2746.txt|.|15|.|WET3298.txt|.|24|.|WET6010.txt|.|12|.|WET5196.txt|.|24
+cambodia|.|WET1940.txt|.|26
+yoshioka|.|WET1635.txt|.|6
+results article|.|WET2794.txt|.|8
+piggyback|.|WET1727.txt|.|2
+shootout golf|.|WET701.txt|.|30

@@ -1,0 +1,12 @@
+472
+study|.|WET5488.txt|.|36|.|WET1146.txt|.|107|.|WET1482.txt|.|16|.|WET452.txt|.|34|.|WET3166.txt|.|17|.|WET4894.txt|.|149|.|WET5233.txt|.|19
+pew|.|WET1146.txt|.|93
+study biblekjv|.|WET1146.txt|.|21|.|WET4894.txt|.|24
+cbd stock|.|WET1482.txt|.|28|.|WET5233.txt|.|42
+lesson|.|WET5488.txt|.|10
+pew bible|.|WET1146.txt|.|79
+large print|.|WET1146.txt|.|39|.|WET4894.txt|.|9
+teen|.|WET1146.txt|.|23|.|WET1253.txt|.|30|.|WET3224.txt|.|110|.|WET2935.txt|.|14
+study bible|.|WET1146.txt|.|31|.|WET4894.txt|.|54
+literature lesson plans|.|WET5488.txt|.|10
+hammock|.|WET5718.txt|.|139|.|WET1977.txt|.|206

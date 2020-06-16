@@ -1,0 +1,12 @@
+526
+jambalaya|.|WET5278.txt|.|10
+top alert|.|WET1620.txt|.|92
+election|.|WET5823.txt|.|33|.|WET5112.txt|.|155|.|WET4403.txt|.|17|.|WET3259.txt|.|6
+lhsaa|.|WET4226.txt|.|66
+mood stress weight|.|WET2067.txt|.|88|.|WET5808.txt|.|88
+sep aug jul|.|WET1180.txt|.|58
+flower essences|.|WET4955.txt|.|18
+shippuden|.|WET3236.txt|.|48
+manuel beninger|.|WET784.txt|.|43
+sep|.|WET4305.txt|.|25|.|WET380.txt|.|367|.|WET3236.txt|.|18|.|WET1037.txt|.|10|.|WET464.txt|.|192|.|WET1620.txt|.|170|.|WET1180.txt|.|62
+yards|.|WET1583.txt|.|40|.|WET2841.txt|.|25

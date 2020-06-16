@@ -1,0 +1,12 @@
+787
+audio cd release|.|WET1987.txt|.|11
+ponta|.|WET509.txt|.|50
+release|.|WET6307.txt|.|343|.|WET1335.txt|.|14|.|WET3331.txt|.|36|.|WET3223.txt|.|4|.|WET3615.txt|.|31|.|WET5594.txt|.|457|.|WET1987.txt|.|18|.|WET2605.txt|.|15|.|WET1485.txt|.|26|.|WET1817.txt|.|15
+debian|.|WET4295.txt|.|9|.|WET5361.txt|.|16|.|WET5594.txt|.|23
+dale|.|WET3378.txt|.|20|.|WET4613.txt|.|32|.|WET873.txt|.|40|.|WET5524.txt|.|24
+epithelial|.|WET588.txt|.|38
+million barrels|.|WET6307.txt|.|488
+photo books|.|WET4503.txt|.|4|.|WET1122.txt|.|66|.|WET4869.txt|.|44
+release freebsd|.|WET5594.txt|.|321
+freebsd ports|.|WET5594.txt|.|129
+oracle audit|.|WET301.txt|.|24

@@ -1,0 +1,12 @@
+1196
+resource management|.|WET2481.txt|.|11|.|WET796.txt|.|8|.|WET3398.txt|.|2|.|WET2862.txt|.|1|.|WET3166.txt|.|3|.|WET2975.txt|.|3|.|WET3738.txt|.|4|.|WET6220.txt|.|10
+grand cru|.|WET2481.txt|.|22|.|WET5239.txt|.|14
+service management|.|WET5071.txt|.|18|.|WET465.txt|.|6
+set the parameters|.|WET2975.txt|.|2
+beers ipa|.|WET6220.txt|.|20
+domain|.|WET3582.txt|.|12|.|WET4827.txt|.|38|.|WET636.txt|.|55|.|WET637.txt|.|50|.|WET4375.txt|.|55|.|WET1078.txt|.|45|.|WET4376.txt|.|36|.|WET5045.txt|.|3|.|WET3813.txt|.|8|.|WET5342.txt|.|7
+generators|.|WET5603.txt|.|2
+management of the resource|.|WET4037.txt|.|2
+parameters|.|WET2975.txt|.|2
+southeast|.|WET3166.txt|.|116
+dependencies|.|WET2443.txt|.|2|.|WET846.txt|.|2|.|WET926.txt|.|2|.|WET3266.txt|.|2|.|WET5268.txt|.|2|.|WET18.txt|.|2|.|WET4592.txt|.|2|.|WET1632.txt|.|2|.|WET5831.txt|.|2|.|WET2088.txt|.|3|.|WET6168.txt|.|2

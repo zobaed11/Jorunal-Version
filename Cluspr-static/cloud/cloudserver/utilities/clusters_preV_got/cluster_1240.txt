@@ -1,0 +1,12 @@
+1240
+disorders|.|WET5738.txt|.|17
+home new|.|WET1277.txt|.|6
+plc jobs press centre itv|.|WET5861.txt|.|11
+tweet plus reddit|.|WET5861.txt|.|36|.|WET2120.txt|.|34
+day care|.|WET770.txt|.|8
+advertisement|.|WET1315.txt|.|14|.|WET5861.txt|.|31|.|WET5586.txt|.|5|.|WET4704.txt|.|5|.|WET1277.txt|.|25|.|WET1829.txt|.|9|.|WET338.txt|.|9|.|WET5738.txt|.|16|.|WET4510.txt|.|24|.|WET3023.txt|.|31|.|WET2120.txt|.|31|.|WET130.txt|.|26|.|WET2291.txt|.|13|.|WET770.txt|.|16|.|WET2248.txt|.|35|.|WET3121.txt|.|13|.|WET5029.txt|.|62|.|WET2292.txt|.|5|.|WET5915.txt|.|8|.|WET5282.txt|.|6|.|WET496.txt|.|15|.|WET1524.txt|.|6|.|WET4636.txt|.|34|.|WET3720.txt|.|18|.|WET2119.txt|.|8|.|WET3348.txt|.|39|.|WET5313.txt|.|32
+activate|.|WET3121.txt|.|24
+continuing education|.|WET4636.txt|.|5
+continuing|.|WET4636.txt|.|5
+prayers|.|WET5029.txt|.|67
+share tweet plus|.|WET5861.txt|.|36|.|WET2120.txt|.|34

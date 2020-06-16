@@ -1,0 +1,12 @@
+225
+nowy|.|WET4138.txt|.|87
+hfboards|.|WET477.txt|.|52|.|WET4224.txt|.|41
+bulldogs|.|WET3378.txt|.|50|.|WET873.txt|.|50
+busch kyle|.|WET3378.txt|.|20|.|WET4613.txt|.|16|.|WET873.txt|.|20
+pa turnpike|.|WET424.txt|.|16
+clarks hill|.|WET1402.txt|.|21
+state buckeyes|.|WET4611.txt|.|20
+dialogue|.|WET4972.txt|.|2|.|WET3005.txt|.|2|.|WET147.txt|.|2|.|WET1883.txt|.|2|.|WET4500.txt|.|2|.|WET4764.txt|.|2|.|WET20.txt|.|2|.|WET1829.txt|.|2|.|WET4959.txt|.|3|.|WET1783.txt|.|2|.|WET56.txt|.|3|.|WET2001.txt|.|2|.|WET854.txt|.|2|.|WET4363.txt|.|2|.|WET4501.txt|.|2|.|WET2694.txt|.|2|.|WET2690.txt|.|3|.|WET149.txt|.|2|.|WET5966.txt|.|2|.|WET6040.txt|.|2|.|WET3202.txt|.|2|.|WET437.txt|.|3|.|WET3385.txt|.|2|.|WET4372.txt|.|1|.|WET3788.txt|.|3|.|WET1342.txt|.|2|.|WET5329.txt|.|3|.|WET1033.txt|.|3|.|WET2047.txt|.|2|.|WET1179.txt|.|4|.|WET2719.txt|.|3|.|WET1543.txt|.|2|.|WET4196.txt|.|2|.|WET6304.txt|.|3|.|WET993.txt|.|15|.|WET573.txt|.|3|.|WET3008.txt|.|3|.|WET3878.txt|.|2|.|WET1183.txt|.|3|.|WET5449.txt|.|3|.|WET2564.txt|.|4
+fates|.|WET4663.txt|.|20
+headline|.|WET6054.txt|.|34
+feuilles|.|WET64.txt|.|36

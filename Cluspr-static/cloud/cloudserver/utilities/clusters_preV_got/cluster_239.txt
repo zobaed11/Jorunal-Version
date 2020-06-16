@@ -1,0 +1,12 @@
+239
+candidates|.|WET5236.txt|.|13|.|WET1484.txt|.|10
+business insider|.|WET5236.txt|.|13
+alison cook|.|WET1484.txt|.|28
+chronicle image|.|WET1484.txt|.|160
+houston rockets|.|WET5236.txt|.|13
+anderson|.|WET5236.txt|.|87
+bend|.|WET5236.txt|.|13
+rockets|.|WET5236.txt|.|44
+coaching|.|WET84.txt|.|19|.|WET5236.txt|.|19|.|WET1484.txt|.|10|.|WET892.txt|.|13
+fort bend|.|WET5236.txt|.|13
+chronicle|.|WET2377.txt|.|34|.|WET6122.txt|.|37|.|WET3943.txt|.|42|.|WET2860.txt|.|78|.|WET5236.txt|.|338|.|WET1484.txt|.|248

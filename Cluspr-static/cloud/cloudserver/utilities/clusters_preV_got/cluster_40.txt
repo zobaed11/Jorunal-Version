@@ -1,0 +1,12 @@
+40
+nv type|.|WET2225.txt|.|175|.|WET5963.txt|.|150
+special|.|WET1915.txt|.|12|.|WET6056.txt|.|28|.|WET1508.txt|.|25|.|WET1953.txt|.|20|.|WET1054.txt|.|12|.|WET1889.txt|.|70|.|WET2853.txt|.|13|.|WET4256.txt|.|46|.|WET5963.txt|.|56|.|WET2033.txt|.|17|.|WET734.txt|.|16|.|WET5089.txt|.|9|.|WET1976.txt|.|30|.|WET2316.txt|.|61|.|WET5260.txt|.|21|.|WET5494.txt|.|14|.|WET6195.txt|.|107|.|WET5693.txt|.|31|.|WET2726.txt|.|5|.|WET1921.txt|.|28
+canyon|.|WET2226.txt|.|13|.|WET2225.txt|.|102|.|WET1421.txt|.|8
+blvd|.|WET2225.txt|.|110|.|WET5963.txt|.|95
+agricultural extension|.|WET4062.txt|.|91
+nv|.|WET2225.txt|.|186|.|WET5963.txt|.|161|.|WET4856.txt|.|26
+special offers|.|WET5494.txt|.|14|.|WET5963.txt|.|44
+print listing|.|WET2225.txt|.|225|.|WET5963.txt|.|178
+casino resorts|.|WET2225.txt|.|15
+listing|.|WET2052.txt|.|6|.|WET2225.txt|.|225|.|WET4496.txt|.|8|.|WET4806.txt|.|2|.|WET5963.txt|.|178
+information print|.|WET2225.txt|.|184|.|WET5963.txt|.|178

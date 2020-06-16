@@ -1,0 +1,11 @@
+limit large|.|WET5190.txt|.|361
+smallmouth|.|WET5190.txt|.|441
+large|.|WET180.txt|.|21|.|WET2729.txt|.|80|.|WET1146.txt|.|49|.|WET2730.txt|.|38|.|WET3925.txt|.|32|.|WET5190.txt|.|420|.|WET1023.txt|.|25|.|WET4894.txt|.|20|.|WET177.txt|.|30|.|WET284.txt|.|30
+large j hook|.|WET2730.txt|.|1
+barnum|.|WET284.txt|.|11
+garage storage|.|WET2730.txt|.|8
+extra large large|.|WET3925.txt|.|10|.|WET177.txt|.|10|.|WET284.txt|.|10
+favorites contact us|.|WET1023.txt|.|8
+extra large|.|WET180.txt|.|7|.|WET3925.txt|.|10|.|WET1023.txt|.|8
+wrestlemania|.|WET5190.txt|.|39
+line fishing|.|WET5190.txt|.|333

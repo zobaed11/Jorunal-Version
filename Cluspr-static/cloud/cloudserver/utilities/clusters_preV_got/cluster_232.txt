@@ -1,0 +1,12 @@
+232
+completed listings|.|WET5456.txt|.|8
+chevrolet impala|.|WET1428.txt|.|77
+listings|.|WET989.txt|.|30|.|WET3174.txt|.|19|.|WET5456.txt|.|31|.|WET1428.txt|.|402|.|WET5001.txt|.|8|.|WET4573.txt|.|16
+classified ads|.|WET5456.txt|.|8
+chevrolet|.|WET5425.txt|.|52|.|WET1428.txt|.|194
+monte|.|WET1428.txt|.|91
+chevrolet monte|.|WET1428.txt|.|80
+impala|.|WET1428.txt|.|89
+starting|.|WET1428.txt|.|120|.|WET4957.txt|.|149|.|WET5844.txt|.|40|.|WET5765.txt|.|22
+listings starting|.|WET1428.txt|.|112
+monte carlo|.|WET1428.txt|.|89

@@ -1,0 +1,12 @@
+182
+camera reviews|.|WET5818.txt|.|23
+anique|.|WET3778.txt|.|57
+web application|.|WET3706.txt|.|36|.|WET5451.txt|.|2|.|WET4789.txt|.|1
+commonly|.|WET1532.txt|.|64|.|WET1533.txt|.|17
+information authorized|.|WET3706.txt|.|18
+planet|.|WET1173.txt|.|2|.|WET3099.txt|.|54|.|WET190.txt|.|15
+services professional|.|WET3706.txt|.|18
+sencha test|.|WET3706.txt|.|36
+web application manager|.|WET3706.txt|.|36
+application manager|.|WET3706.txt|.|36
+brewer|.|WET274.txt|.|33

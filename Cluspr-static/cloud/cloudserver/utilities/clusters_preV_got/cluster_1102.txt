@@ -1,0 +1,12 @@
+1102
+text search|.|WET3502.txt|.|8|.|WET3927.txt|.|4|.|WET2003.txt|.|2|.|WET4832.txt|.|2|.|WET3924.txt|.|8|.|WET3977.txt|.|2
+carnegie hall|.|WET1429.txt|.|26
+driver|.|WET940.txt|.|54|.|WET1013.txt|.|14|.|WET338.txt|.|30
+string|.|WET3594.txt|.|36|.|WET1160.txt|.|5|.|WET3026.txt|.|654
+hidden|.|WET1496.txt|.|17
+error div|.|WET293.txt|.|11
+operational|.|WET3933.txt|.|35
+library digital library|.|WET3933.txt|.|19
+posts private message|.|WET2581.txt|.|93|.|WET1091.txt|.|133|.|WET1276.txt|.|48|.|WET5222.txt|.|68
+lipstick|.|WET591.txt|.|84
+perfume|.|WET1955.txt|.|31|.|WET1853.txt|.|157

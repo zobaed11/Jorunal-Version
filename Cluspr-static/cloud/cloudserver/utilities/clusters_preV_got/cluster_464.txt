@@ -1,0 +1,12 @@
+464
+blinds|.|WET1330.txt|.|154|.|WET5081.txt|.|179
+window management|.|WET5267.txt|.|4
+cellular|.|WET1330.txt|.|61|.|WET5081.txt|.|43
+blinds vertical|.|WET1330.txt|.|21
+pleated|.|WET5081.txt|.|31
+window and room|.|WET5081.txt|.|10
+window|.|WET5361.txt|.|1|.|WET1330.txt|.|127|.|WET5081.txt|.|123|.|WET5267.txt|.|42|.|WET1710.txt|.|74|.|WET2285.txt|.|54|.|WET733.txt|.|2
+shades sheer|.|WET1330.txt|.|14
+new window|.|WET1710.txt|.|74|.|WET2285.txt|.|54|.|WET733.txt|.|2
+roller|.|WET463.txt|.|1|.|WET5081.txt|.|35
+filtering|.|WET5081.txt|.|30

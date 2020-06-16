@@ -1,0 +1,12 @@
+231
+view details|.|WET1244.txt|.|54|.|WET4979.txt|.|60|.|WET6278.txt|.|370|.|WET6277.txt|.|195|.|WET2543.txt|.|245|.|WET2412.txt|.|92
+super|.|WET4667.txt|.|72|.|WET6278.txt|.|93|.|WET2543.txt|.|54|.|WET5729.txt|.|18|.|WET2632.txt|.|14|.|WET1612.txt|.|45|.|WET6112.txt|.|1|.|WET4668.txt|.|25|.|WET815.txt|.|28
+savings add|.|WET6278.txt|.|86|.|WET2543.txt|.|48
+sleeps|.|WET1558.txt|.|59|.|WET2412.txt|.|58
+super savings add|.|WET6278.txt|.|86
+collectibles books|.|WET2543.txt|.|18
+entire site|.|WET2543.txt|.|18
+super savings add to cart|.|WET6278.txt|.|86
+entire|.|WET2543.txt|.|18
+cart view|.|WET6278.txt|.|361|.|WET6277.txt|.|190|.|WET2543.txt|.|233
+shoe|.|WET1244.txt|.|42

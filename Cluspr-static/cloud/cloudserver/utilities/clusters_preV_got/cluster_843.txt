@@ -1,0 +1,12 @@
+843
+indie|.|WET2797.txt|.|18
+take|.|WET3226.txt|.|15|.|WET2094.txt|.|11
+user name|.|WET2328.txt|.|18|.|WET5085.txt|.|14|.|WET4223.txt|.|14|.|WET279.txt|.|5|.|WET396.txt|.|14|.|WET3087.txt|.|22|.|WET1828.txt|.|13
+locus inn news|.|WET2797.txt|.|9
+absolutely|.|WET2328.txt|.|9
+rpg|.|WET2797.txt|.|27
+permission|.|WET3087.txt|.|11
+disabled|.|WET3611.txt|.|5|.|WET3087.txt|.|11|.|WET5418.txt|.|5
+chiefsplanet|.|WET5223.txt|.|41|.|WET5224.txt|.|15|.|WET1471.txt|.|38
+nba forum|.|WET2094.txt|.|11
+forums home|.|WET2328.txt|.|18|.|WET1416.txt|.|4|.|WET1542.txt|.|11|.|WET4165.txt|.|11|.|WET579.txt|.|7|.|WET190.txt|.|5

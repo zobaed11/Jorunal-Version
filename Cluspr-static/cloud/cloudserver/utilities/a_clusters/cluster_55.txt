@@ -1,0 +1,70 @@
+55
+current tenex|.|rfc571.txt|.|2
+user ftp documentation|.|rfc412.txt|.|10
+ftp internalization|.|rfc2640.txt|.|26
+data transfer revisited|.|rfc486.txt|.|2
+jbp njn|.|rfc640.txt|.|16
+ftp command and extension registry|.|rfc5797.txt|.|10
+tenex ftp user|.|rfc571.txt|.|1
+access protocol specification|.|rfc520.txt|.|9
+listed directory|.|rfc3659.txt|.|6
+user ftp process|.|rfc412.txt|.|1
+hethmon standards|.|rfc3659.txt|.|61
+server ftp|.|rfc505.txt|.|3
+verbs|.|rfc607.txt|.|3
+integrity protection|.|rfc2228.txt|.|8
+ftp by the nic|.|rfc479.txt|.|5
+cooperation|.|rfc438.txt|.|3
+command verbs|.|rfc607.txt|.|3
+ftp extensions|.|rfc2428.txt|.|8|.|rfc5797.txt|.|4
+pasv|.|rfc607.txt|.|2
+noise words|.|rfc412.txt|.|4
+nvfs|.|rfc3659.txt|.|20
+ftp error|.|rfc630.txt|.|6
+ftp status|.|rfc414.txt|.|5
+ftp data|.|rfc468.txt|.|7
+comments and response|.|rfc463.txt|.|3
+mail retrieval via ftp|.|rfc458.txt|.|2
+ftp process|.|rfc454.txt|.|1
+odette ftp|.|rfc5024.txt|.|138
+ftp and network mail|.|rfc475.txt|.|8
+two solutions|.|rfc505.txt|.|4
+ftp comments|.|rfc463.txt|.|3
+four characters|.|rfc614.txt|.|5|.|rfc247.txt|.|2
+mechanism for specifying|.|rfc5797.txt|.|2
+server ftps|.|rfc414.txt|.|3
+security problem|.|rfc2577.txt|.|2
+ftp march|.|rfc3659.txt|.|60
+special logic|.|rfc5024.txt|.|29
+ftp and network|.|rfc475.txt|.|8
+extensions to ftp|.|rfc3659.txt|.|61
+retrieval via ftp|.|rfc458.txt|.|2
+command and extension|.|rfc5797.txt|.|10
+mailbox address|.|rfc475.txt|.|7
+ftp server|.|rfc607.txt|.|2|.|rfc573.txt|.|1|.|rfc624.txt|.|2|.|rfc487.txt|.|3|.|rfc2577.txt|.|9|.|rfc438.txt|.|5
+network mail system|.|rfc475.txt|.|16
+using kea and skipjack|.|rfc2773.txt|.|9
+telnet control connection|.|rfc614.txt|.|5
+internalization july|.|rfc2640.txt|.|26
+server to user|.|rfc354.txt|.|5
+ostermann informational|.|rfc2577.txt|.|8
+encryption using kea|.|rfc2773.txt|.|9
+rsexec|.|rfc438.txt|.|6
+new commands|.|rfc2389.txt|.|4|.|rfc365.txt|.|2
+ftp and http|.|rfc2585.txt|.|8
+ftp documentation|.|rfc412.txt|.|10
+ftp|.|rfc2389.txt|.|21|.|rfc506.txt|.|2|.|rfc480.txt|.|7|.|rfc624.txt|.|12|.|rfc527.txt|.|2|.|rfc354.txt|.|74|.|rfc468.txt|.|22|.|rfc505.txt|.|10|.|rfc412.txt|.|29|.|rfc438.txt|.|18|.|rfc3659.txt|.|113|.|rfc2773.txt|.|21|.|rfc532.txt|.|5|.|rfc607.txt|.|14|.|rfc448.txt|.|24|.|rfc4217.txt|.|80|.|rfc486.txt|.|4|.|rfc524.txt|.|35|.|rfc385.txt|.|5|.|rfc487.txt|.|4|.|rfc571.txt|.|4|.|rfc630.txt|.|10|.|rfc478.txt|.|3|.|rfc2640.txt|.|44|.|rfc614.txt|.|19|.|rfc593.txt|.|4|.|rfc520.txt|.|15|.|rfc458.txt|.|6|.|rfc475.txt|.|42|.|rfc2204.txt|.|2|.|rfc414.txt|.|17|.|rfc479.txt|.|19|.|rfc5024.txt|.|150|.|rfc172.txt|.|19|.|rfc640.txt|.|25|.|rfc454.txt|.|84|.|rfc573.txt|.|17|.|rfc2228.txt|.|65|.|rfc2585.txt|.|21|.|rfc2428.txt|.|27|.|rfc2839.txt|.|20|.|rfc463.txt|.|15|.|rfc5797.txt|.|47|.|rfc2577.txt|.|64
+data socket|.|rfc354.txt|.|17
+dependent ftp|.|rfc480.txt|.|1
+user and server|.|rfc524.txt|.|6|.|rfc414.txt|.|4
+solutions to a file transfer|.|rfc505.txt|.|3
+ftp user|.|rfc607.txt|.|5|.|rfc571.txt|.|1
+solutions to a file|.|rfc505.txt|.|3
+ftp with tls|.|rfc4217.txt|.|29
+command sequence|.|rfc640.txt|.|4
+rje protocol|.|rfc448.txt|.|3|.|rfc338.txt|.|3
+operational protocols|.|rfc2585.txt|.|8
+nic journal|.|rfc479.txt|.|5
+files in ftp|.|rfc448.txt|.|5
+logic|.|rfc5360.txt|.|31|.|rfc5024.txt|.|39
+ftp security considerations|.|rfc2577.txt|.|8

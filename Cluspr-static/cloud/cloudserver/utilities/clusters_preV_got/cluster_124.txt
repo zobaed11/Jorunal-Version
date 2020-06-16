@@ -1,0 +1,12 @@
+124
+subtitles|.|WET3687.txt|.|24
+wi|.|WET5773.txt|.|88
+fi|.|WET728.txt|.|471|.|WET5773.txt|.|88
+backcountry news|.|WET1241.txt|.|18
+ubuntu|.|WET5992.txt|.|163|.|WET63.txt|.|48|.|WET997.txt|.|53|.|WET4738.txt|.|28
+credit loan|.|WET1236.txt|.|38
+forced induction|.|WET5159.txt|.|36
+time our favorites|.|WET5185.txt|.|28
+view sold|.|WET5655.txt|.|48
+idaho|.|WET500.txt|.|99|.|WET1950.txt|.|42|.|WET4247.txt|.|72
+ligonier|.|WET2251.txt|.|76|.|WET5989.txt|.|40

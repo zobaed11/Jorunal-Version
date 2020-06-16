@@ -1,0 +1,12 @@
+360
+linda cline|.|WET5354.txt|.|15
+items no longer|.|WET1977.txt|.|18
+camping|.|WET1154.txt|.|46|.|WET5164.txt|.|134|.|WET1412.txt|.|37|.|WET5717.txt|.|28|.|WET151.txt|.|40|.|WET1977.txt|.|34
+sale internet|.|WET5164.txt|.|102|.|WET1413.txt|.|187
+search information|.|WET1412.txt|.|1
+clothing clearance|.|WET151.txt|.|20
+top brands|.|WET5164.txt|.|104|.|WET1413.txt|.|176|.|WET2872.txt|.|35|.|WET6022.txt|.|9
+business office|.|WET1412.txt|.|4
+white sox|.|WET4354.txt|.|30
+cubs|.|WET5080.txt|.|17
+spotlight|.|WET5827.txt|.|4|.|WET3733.txt|.|24

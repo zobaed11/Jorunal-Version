@@ -1,0 +1,12 @@
+1077
+listening|.|WET5728.txt|.|11|.|WET2590.txt|.|54
+business sports|.|WET3184.txt|.|8
+goose hunting|.|WET1695.txt|.|35
+login dspace|.|WET3517.txt|.|18
+listings view flyers|.|WET5001.txt|.|4
+union|.|WET6223.txt|.|37|.|WET239.txt|.|14|.|WET3184.txt|.|62|.|WET5895.txt|.|6
+linkedin|.|WET2493.txt|.|13|.|WET1015.txt|.|31|.|WET1776.txt|.|22|.|WET5511.txt|.|23
+zoo|.|WET6017.txt|.|52|.|WET2037.txt|.|210
+photopost pro|.|WET2652.txt|.|110
+news business|.|WET3259.txt|.|6
+oak ridge|.|WET6266.txt|.|109

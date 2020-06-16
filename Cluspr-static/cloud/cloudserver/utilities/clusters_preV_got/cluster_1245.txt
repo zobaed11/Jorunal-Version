@@ -1,0 +1,12 @@
+1245
+ads|.|WET249.txt|.|40|.|WET2152.txt|.|20|.|WET2682.txt|.|25|.|WET1193.txt|.|7|.|WET9.txt|.|31|.|WET6152.txt|.|44|.|WET5456.txt|.|8|.|WET5905.txt|.|48|.|WET5360.txt|.|101|.|WET2408.txt|.|44|.|WET2235.txt|.|33|.|WET5090.txt|.|22|.|WET4867.txt|.|45|.|WET6151.txt|.|36
+grove|.|WET5204.txt|.|16
+manatee|.|WET1361.txt|.|45|.|WET1362.txt|.|20
+se manatee sales|.|WET1361.txt|.|11
+real estate|.|WET5344.txt|.|17|.|WET5204.txt|.|37|.|WET596.txt|.|32|.|WET3950.txt|.|66|.|WET1362.txt|.|20|.|WET2485.txt|.|73|.|WET5782.txt|.|21|.|WET137.txt|.|154|.|WET2235.txt|.|27|.|WET3146.txt|.|115|.|WET3880.txt|.|155|.|WET6134.txt|.|70|.|WET3864.txt|.|14|.|WET136.txt|.|158|.|WET2809.txt|.|47|.|WET3303.txt|.|12|.|WET2165.txt|.|70|.|WET2020.txt|.|44|.|WET202.txt|.|62|.|WET2749.txt|.|93|.|WET5343.txt|.|11|.|WET6012.txt|.|14|.|WET5905.txt|.|70|.|WET1361.txt|.|64|.|WET203.txt|.|110|.|WET3949.txt|.|73|.|WET2391.txt|.|67
+pleasant grove|.|WET5204.txt|.|16
+eagle|.|WET2165.txt|.|16|.|WET947.txt|.|21
+politics local|.|WET2485.txt|.|14
+real estate for rent|.|WET6134.txt|.|21
+yoga yoga|.|WET5614.txt|.|33|.|WET1875.txt|.|27
+witnesses|.|WET193.txt|.|3|.|WET5397.txt|.|1|.|WET6225.txt|.|2|.|WET1269.txt|.|2|.|WET1056.txt|.|2|.|WET3849.txt|.|2|.|WET5905.txt|.|2|.|WET3505.txt|.|2|.|WET4987.txt|.|2|.|WET3866.txt|.|2|.|WET2694.txt|.|2|.|WET2603.txt|.|2

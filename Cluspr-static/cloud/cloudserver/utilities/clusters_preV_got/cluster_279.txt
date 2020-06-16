@@ -1,0 +1,12 @@
+279
+dutch|.|WET4446.txt|.|22
+harmonica|.|WET1447.txt|.|19
+acmi|.|WET2627.txt|.|10
+massey|.|WET3345.txt|.|44
+hra|.|WET244.txt|.|11
+kohler|.|WET5136.txt|.|255|.|WET1799.txt|.|239
+municipio|.|WET3472.txt|.|19
+racing entertainment events|.|WET1337.txt|.|16
+pickups|.|WET2065.txt|.|18
+czech|.|WET4268.txt|.|11|.|WET3675.txt|.|14|.|WET349.txt|.|11|.|WET2693.txt|.|62|.|WET244.txt|.|22|.|WET4446.txt|.|11
+recordbibtexrisrdfxmldblp|.|WET264.txt|.|164|.|WET4007.txt|.|172

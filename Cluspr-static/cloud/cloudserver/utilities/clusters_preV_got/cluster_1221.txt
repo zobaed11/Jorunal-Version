@@ -1,0 +1,12 @@
+1221
+world market|.|WET3316.txt|.|96
+store hours|.|WET6102.txt|.|11
+free standard shipping|.|WET1007.txt|.|398|.|WET4750.txt|.|270
+results found|.|WET923.txt|.|11|.|WET4660.txt|.|10|.|WET2944.txt|.|9
+animating|.|WET2804.txt|.|2
+lowest firstprice|.|WET923.txt|.|22
+coffee|.|WET2995.txt|.|121|.|WET2721.txt|.|116|.|WET6113.txt|.|70|.|WET2063.txt|.|140|.|WET5806.txt|.|44
+retail store|.|WET5133.txt|.|16
+bulgarian chinese czech|.|WET4268.txt|.|11|.|WET349.txt|.|11
+store cart|.|WET4239.txt|.|11|.|WET244.txt|.|11
+reader store|.|WET319.txt|.|32

@@ -1,0 +1,12 @@
+1298
+office max|.|WET1802.txt|.|8
+tablet|.|WET2616.txt|.|29
+tube|.|WET4482.txt|.|15|.|WET4847.txt|.|37
+celebrity wallpapers|.|WET1921.txt|.|8
+showtimesat|.|WET5109.txt|.|11
+bbf|.|WET5144.txt|.|76
+county|.|WET4030.txt|.|35|.|WET1455.txt|.|40|.|WET303.txt|.|17|.|WET6268.txt|.|61|.|WET1900.txt|.|92|.|WET1721.txt|.|53|.|WET2535.txt|.|48|.|WET576.txt|.|37|.|WET5146.txt|.|27|.|WET2782.txt|.|125|.|WET2421.txt|.|10|.|WET5447.txt|.|18|.|WET5499.txt|.|20|.|WET4129.txt|.|38|.|WET2533.txt|.|129|.|WET4419.txt|.|19|.|WET798.txt|.|48|.|WET3304.txt|.|170|.|WET4580.txt|.|5|.|WET3924.txt|.|82|.|WET178.txt|.|136|.|WET1431.txt|.|48|.|WET5922.txt|.|42|.|WET202.txt|.|58|.|WET4091.txt|.|36|.|WET4878.txt|.|28|.|WET3605.txt|.|37|.|WET3936.txt|.|162|.|WET5183.txt|.|56|.|WET2124.txt|.|664|.|WET228.txt|.|56|.|WET561.txt|.|22|.|WET616.txt|.|18|.|WET1701.txt|.|46|.|WET5001.txt|.|14|.|WET4806.txt|.|11|.|WET1397.txt|.|34|.|WET2620.txt|.|75|.|WET1339.txt|.|90|.|WET6261.txt|.|19|.|WET2792.txt|.|60|.|WET1453.txt|.|10|.|WET115.txt|.|32|.|WET5581.txt|.|49|.|WET1361.txt|.|11|.|WET188.txt|.|158|.|WET5090.txt|.|99|.|WET4272.txt|.|92|.|WET3060.txt|.|20
+box|.|WET1358.txt|.|75|.|WET1357.txt|.|81|.|WET3131.txt|.|72|.|WET5827.txt|.|12|.|WET5110.txt|.|74|.|WET1359.txt|.|71|.|WET4730.txt|.|33|.|WET991.txt|.|17|.|WET5109.txt|.|96|.|WET5111.txt|.|45|.|WET1101.txt|.|129|.|WET1921.txt|.|30
+office|.|WET2616.txt|.|173|.|WET6110.txt|.|22|.|WET1358.txt|.|73|.|WET2124.txt|.|551|.|WET5110.txt|.|69|.|WET3743.txt|.|27|.|WET1412.txt|.|4|.|WET2721.txt|.|163|.|WET5111.txt|.|44|.|WET1323.txt|.|89|.|WET6273.txt|.|87|.|WET4510.txt|.|24|.|WET5827.txt|.|17|.|WET1359.txt|.|69|.|WET1320.txt|.|38|.|WET2698.txt|.|71|.|WET1802.txt|.|309|.|WET1921.txt|.|32|.|WET2538.txt|.|529|.|WET3541.txt|.|100|.|WET3622.txt|.|16|.|WET3202.txt|.|13|.|WET5559.txt|.|71|.|WET5109.txt|.|92|.|WET1924.txt|.|49|.|WET3613.txt|.|74|.|WET3100.txt|.|59|.|WET1825.txt|.|60|.|WET1357.txt|.|80|.|WET1395.txt|.|135|.|WET5144.txt|.|163|.|WET4047.txt|.|53|.|WET6272.txt|.|100
+computer desk|.|WET5144.txt|.|14
+interviews|.|WET1879.txt|.|11|.|WET5827.txt|.|12|.|WET2427.txt|.|64|.|WET1019.txt|.|21

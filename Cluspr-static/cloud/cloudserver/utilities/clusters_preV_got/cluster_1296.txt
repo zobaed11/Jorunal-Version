@@ -1,0 +1,12 @@
+1296
+digital library|.|WET293.txt|.|23|.|WET14.txt|.|8|.|WET238.txt|.|16|.|WET502.txt|.|1|.|WET715.txt|.|2|.|WET1013.txt|.|4|.|WET4370.txt|.|2|.|WET3933.txt|.|35|.|WET228.txt|.|7|.|WET1749.txt|.|2|.|WET3924.txt|.|12|.|WET576.txt|.|18|.|WET1429.txt|.|10|.|WET294.txt|.|2|.|WET288.txt|.|11|.|WET4031.txt|.|8|.|WET5112.txt|.|2|.|WET292.txt|.|25|.|WET4739.txt|.|2
+codeguru|.|WET4150.txt|.|68
+faqs|.|WET2017.txt|.|20|.|WET3677.txt|.|40|.|WET1917.txt|.|20|.|WET409.txt|.|73|.|WET4003.txt|.|24|.|WET2728.txt|.|20|.|WET4192.txt|.|21|.|WET5657.txt|.|55
+visual|.|WET5721.txt|.|9|.|WET1700.txt|.|11|.|WET2200.txt|.|2|.|WET6221.txt|.|6|.|WET409.txt|.|83|.|WET4256.txt|.|20|.|WET511.txt|.|8|.|WET788.txt|.|11|.|WET5446.txt|.|11|.|WET288.txt|.|18|.|WET4714.txt|.|1|.|WET4031.txt|.|16|.|WET4150.txt|.|133|.|WET1548.txt|.|19|.|WET1701.txt|.|8|.|WET2701.txt|.|21|.|WET5447.txt|.|2|.|WET2143.txt|.|134|.|WET1135.txt|.|18|.|WET4431.txt|.|6|.|WET1195.txt|.|2|.|WET1699.txt|.|11|.|WET1220.txt|.|2|.|WET5445.txt|.|11|.|WET3077.txt|.|4|.|WET3927.txt|.|3|.|WET3254.txt|.|4|.|WET2941.txt|.|3|.|WET5298.txt|.|14|.|WET23.txt|.|2|.|WET5391.txt|.|15|.|WET789.txt|.|11|.|WET3724.txt|.|3
+crave|.|WET5218.txt|.|58
+gordon hawkins|.|WET4031.txt|.|7
+viewing messages|.|WET776.txt|.|6|.|WET409.txt|.|5
+search forums|.|WET1274.txt|.|10|.|WET4150.txt|.|9|.|WET2558.txt|.|11|.|WET190.txt|.|5
+basic|.|WET4150.txt|.|72|.|WET2701.txt|.|38|.|WET4824.txt|.|6|.|WET409.txt|.|38|.|WET631.txt|.|14|.|WET2157.txt|.|11
+programming|.|WET2130.txt|.|91|.|WET4150.txt|.|121|.|WET756.txt|.|56|.|WET1716.txt|.|14|.|WET4497.txt|.|42|.|WET2128.txt|.|33
+art and visual|.|WET6221.txt|.|6|.|WET4431.txt|.|2

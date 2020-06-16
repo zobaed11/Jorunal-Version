@@ -1,0 +1,12 @@
+1271
+harvester|.|WET405.txt|.|1
+selected resources|.|WET1360.txt|.|4
+tier|.|WET405.txt|.|8
+southern tier|.|WET405.txt|.|7
+loop|.|WET2351.txt|.|36
+marco|.|WET4192.txt|.|25
+categories tags|.|WET4192.txt|.|9
+imax|.|WET5111.txt|.|8
+belt loop|.|WET2351.txt|.|33
+neutrality|.|WET6092.txt|.|16
+scout|.|WET448.txt|.|35|.|WET2832.txt|.|29|.|WET1917.txt|.|12|.|WET1918.txt|.|13|.|WET5390.txt|.|2|.|WET5111.txt|.|94|.|WET405.txt|.|46|.|WET1749.txt|.|5|.|WET4407.txt|.|2|.|WET4366.txt|.|2|.|WET1083.txt|.|3|.|WET1575.txt|.|12|.|WET4384.txt|.|28|.|WET2363.txt|.|2|.|WET4834.txt|.|3|.|WET3084.txt|.|2|.|WET5164.txt|.|2|.|WET5503.txt|.|2|.|WET6092.txt|.|14|.|WET1228.txt|.|1|.|WET5766.txt|.|2|.|WET5656.txt|.|62|.|WET2351.txt|.|98|.|WET2630.txt|.|14|.|WET958.txt|.|2|.|WET1360.txt|.|277|.|WET3874.txt|.|3|.|WET644.txt|.|106|.|WET4192.txt|.|28|.|WET988.txt|.|3|.|WET5657.txt|.|58

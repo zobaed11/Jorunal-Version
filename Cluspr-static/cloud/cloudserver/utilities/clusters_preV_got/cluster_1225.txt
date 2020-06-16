@@ -1,0 +1,12 @@
+1225
+bra|.|WET2780.txt|.|105|.|WET372.txt|.|37|.|WET5002.txt|.|5|.|WET2006.txt|.|28|.|WET4070.txt|.|29
+opponent score|.|WET3379.txt|.|9
+trentino|.|WET1744.txt|.|2
+historical minis|.|WET6243.txt|.|8
+last|.|WET4810.txt|.|31|.|WET1565.txt|.|15|.|WET2794.txt|.|61|.|WET2985.txt|.|116|.|WET2111.txt|.|23|.|WET2565.txt|.|56|.|WET1061.txt|.|23|.|WET6243.txt|.|105|.|WET1744.txt|.|95|.|WET1505.txt|.|71|.|WET2986.txt|.|202|.|WET5024.txt|.|977|.|WET1953.txt|.|30|.|WET1229.txt|.|25|.|WET5083.txt|.|25|.|WET2944.txt|.|10|.|WET336.txt|.|417|.|WET3126.txt|.|90|.|WET2550.txt|.|394|.|WET1901.txt|.|54|.|WET3387.txt|.|13|.|WET3051.txt|.|29|.|WET1259.txt|.|164|.|WET6030.txt|.|50|.|WET471.txt|.|11|.|WET419.txt|.|24
+war games|.|WET6243.txt|.|8
+probasketballtalk|.|WET2794.txt|.|27
+zend|.|WET3361.txt|.|32
+youtube downloader|.|WET4810.txt|.|6
+minis|.|WET6243.txt|.|8
+advertise contact us|.|WET6030.txt|.|11

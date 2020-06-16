@@ -1,0 +1,12 @@
+283
+luminance|.|WET759.txt|.|18
+view articles|.|WET5902.txt|.|162
+panduan|.|WET3464.txt|.|78
+shops|.|WET3227.txt|.|32|.|WET5785.txt|.|7|.|WET2932.txt|.|55|.|WET5790.txt|.|16
+new releases coming|.|WET72.txt|.|6
+attends|.|WET1270.txt|.|48
+current search|.|WET5930.txt|.|10
+farmers|.|WET897.txt|.|11
+teaching series|.|WET2251.txt|.|40
+supplies cleaning|.|WET2721.txt|.|12
+disaster|.|WET191.txt|.|6

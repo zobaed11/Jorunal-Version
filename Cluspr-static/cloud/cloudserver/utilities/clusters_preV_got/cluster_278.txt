@@ -1,0 +1,12 @@
+278
+unit|.|WET2071.txt|.|82
+sarda|.|WET6192.txt|.|52
+ensiklopedia|.|WET3465.txt|.|14
+wallpaper|.|WET1090.txt|.|21
+wii|.|WET5623.txt|.|37|.|WET5625.txt|.|66|.|WET5622.txt|.|26|.|WET1884.txt|.|24|.|WET3286.txt|.|286|.|WET3287.txt|.|65
+tattoos|.|WET4106.txt|.|44
+game commentary|.|WET1036.txt|.|36
+parliamentary|.|WET6253.txt|.|27
+leaders wii news|.|WET3286.txt|.|11
+collect|.|WET2838.txt|.|25|.|WET2902.txt|.|11
+dhamma|.|WET5385.txt|.|84

@@ -1,0 +1,12 @@
+1143
+men type|.|WET6200.txt|.|10
+view blog|.|WET5902.txt|.|162
+east|.|WET4098.txt|.|24|.|WET1873.txt|.|23|.|WET5706.txt|.|34|.|WET5623.txt|.|45|.|WET5878.txt|.|8|.|WET4562.txt|.|25|.|WET1708.txt|.|77|.|WET4693.txt|.|40|.|WET5165.txt|.|67|.|WET2366.txt|.|5
+spiked|.|WET5574.txt|.|24
+men|.|WET365.txt|.|1|.|WET3092.txt|.|16|.|WET515.txt|.|31|.|WET4520.txt|.|18|.|WET5574.txt|.|60|.|WET1381.txt|.|48|.|WET1297.txt|.|7|.|WET3198.txt|.|36|.|WET2180.txt|.|13|.|WET2161.txt|.|143|.|WET6063.txt|.|20|.|WET2462.txt|.|10|.|WET3179.txt|.|12|.|WET5902.txt|.|120|.|WET3093.txt|.|12|.|WET2346.txt|.|16|.|WET6200.txt|.|32|.|WET878.txt|.|13|.|WET1852.txt|.|15|.|WET5274.txt|.|18|.|WET125.txt|.|27
+spikeless|.|WET5574.txt|.|24
+outer|.|WET5574.txt|.|24
+devil|.|WET2346.txt|.|28|.|WET1577.txt|.|10
+palo alto|.|WET2588.txt|.|62
+outerwear pants shirts|.|WET3093.txt|.|22
+forums read quick links view|.|WET3922.txt|.|8

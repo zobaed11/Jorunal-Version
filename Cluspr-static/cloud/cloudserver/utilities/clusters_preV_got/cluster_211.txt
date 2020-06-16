@@ -1,0 +1,12 @@
+211
+gluten free|.|WET5547.txt|.|30|.|WET3900.txt|.|11|.|WET1452.txt|.|8|.|WET5200.txt|.|18
+friendly staff|.|WET4762.txt|.|126
+mature|.|WET3150.txt|.|32|.|WET2858.txt|.|21|.|WET4393.txt|.|8|.|WET4762.txt|.|467
+stayed|.|WET2631.txt|.|47|.|WET4762.txt|.|1690
+friendly|.|WET1622.txt|.|19|.|WET5547.txt|.|116|.|WET4050.txt|.|3|.|WET5546.txt|.|71|.|WET4762.txt|.|687|.|WET2312.txt|.|29
+stores|.|WET5546.txt|.|59|.|WET1703.txt|.|33|.|WET6197.txt|.|33|.|WET5790.txt|.|17
+night|.|WET1454.txt|.|44|.|WET3257.txt|.|35|.|WET1772.txt|.|15|.|WET2412.txt|.|77|.|WET6106.txt|.|45|.|WET4762.txt|.|395
+aux calculs|.|WET64.txt|.|35
+hotel would recommend|.|WET4762.txt|.|69
+couple stayed|.|WET4762.txt|.|644
+mature couple|.|WET4762.txt|.|467

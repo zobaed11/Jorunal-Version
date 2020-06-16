@@ -1,0 +1,22 @@
+64
+service attributes|.|rfc2608.txt|.|6
+collation type|.|rfc3381.txt|.|1
+supported values|.|rfc3380.txt|.|1
+attribute criticality|.|rfc5587.txt|.|3
+set printer|.|rfc3380.txt|.|1
+lsp attributes|.|rfc5420.txt|.|15
+requirements for traffic|.|rfc2702.txt|.|5
+rule attributes|.|rfc4849.txt|.|1
+egress vlanid|.|rfc4675.txt|.|3
+attributes operation|.|rfc3380.txt|.|12
+xri|.|rfc3380.txt|.|1
+value tag|.|rfc2565.txt|.|1|.|rfc2910.txt|.|1
+privacy key management|.|rfc5904.txt|.|3
+egress vlan|.|rfc4675.txt|.|1
+printer attributes|.|rfc3380.txt|.|15
+unsupported attributes|.|rfc2639.txt|.|59|.|rfc3196.txt|.|62
+radius attribute specifications|.|rfc6158.txt|.|7
+attributes|.|rfc2252.txt|.|61|.|rfc2868.txt|.|56|.|rfc2639.txt|.|238|.|rfc4171.txt|.|407|.|rfc2608.txt|.|68|.|rfc2723.txt|.|26|.|rfc3673.txt|.|23|.|rfc4420.txt|.|142|.|rfc3671.txt|.|46|.|rfc5420.txt|.|124|.|rfc2522.txt|.|70|.|rfc5904.txt|.|32|.|rfc5587.txt|.|41|.|rfc5159.txt|.|24|.|rfc4014.txt|.|42|.|rfc2523.txt|.|29|.|rfc4849.txt|.|24|.|rfc3380.txt|.|281|.|rfc4768.txt|.|38|.|rfc2548.txt|.|74|.|rfc3381.txt|.|53|.|rfc4675.txt|.|48|.|rfc2565.txt|.|67|.|rfc2924.txt|.|102|.|rfc3996.txt|.|72|.|rfc3162.txt|.|12|.|rfc6158.txt|.|148|.|rfc2724.txt|.|75|.|rfc5576.txt|.|77|.|rfc5030.txt|.|26|.|rfc5280.txt|.|73|.|rfc2702.txt|.|59|.|rfc4529.txt|.|26|.|rfc4512.txt|.|86|.|rfc3196.txt|.|288
+vlan name|.|rfc4675.txt|.|4
+attributes tag|.|rfc2565.txt|.|1
+composite names|.|rfc4768.txt|.|6

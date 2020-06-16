@@ -1,0 +1,12 @@
+337
+min|.|WET587.txt|.|84|.|WET4274.txt|.|3|.|WET4280.txt|.|5|.|WET4693.txt|.|20|.|WET5592.txt|.|40|.|WET1856.txt|.|24
+rochester|.|WET2782.txt|.|244
+swarm|.|WET1275.txt|.|87
+zephleit|.|WET3386.txt|.|21
+cmol|.|WET4197.txt|.|27
+merchant|.|WET501.txt|.|10
+soul brother|.|WET4188.txt|.|5
+dissertations and theses|.|WET4036.txt|.|154
+topnav|.|WET2192.txt|.|77
+landscape|.|WET2899.txt|.|17
+marlin|.|WET5126.txt|.|76

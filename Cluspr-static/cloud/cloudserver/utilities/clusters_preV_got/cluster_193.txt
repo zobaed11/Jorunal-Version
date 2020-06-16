@@ -1,0 +1,12 @@
+193
+visits|.|WET6100.txt|.|14
+chapter|.|WET5976.txt|.|138
+granada|.|WET4587.txt|.|4
+fifth|.|WET6100.txt|.|21
+group visits|.|WET6100.txt|.|14
+met|.|WET6103.txt|.|69|.|WET2357.txt|.|117|.|WET4587.txt|.|4|.|WET2359.txt|.|41|.|WET6100.txt|.|128|.|WET6101.txt|.|67
+romance harlequin|.|WET4065.txt|.|16
+library the robert|.|WET6100.txt|.|14
+met federal|.|WET4587.txt|.|4
+weekly|.|WET4271.txt|.|15|.|WET4256.txt|.|50|.|WET1110.txt|.|20
+booster|.|WET1537.txt|.|7

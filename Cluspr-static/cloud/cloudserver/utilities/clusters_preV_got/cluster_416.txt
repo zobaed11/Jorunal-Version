@@ -1,0 +1,12 @@
+416
+laurel|.|WET5966.txt|.|16
+stock ships|.|WET3835.txt|.|63
+part number|.|WET2597.txt|.|174
+rockstar|.|WET3701.txt|.|17|.|WET2389.txt|.|18
+bird house|.|WET3835.txt|.|16
+bird|.|WET2635.txt|.|18|.|WET4203.txt|.|91|.|WET3849.txt|.|35|.|WET3835.txt|.|47
+wagering|.|WET2028.txt|.|44|.|WET5770.txt|.|24|.|WET5769.txt|.|32|.|WET5966.txt|.|7|.|WET3917.txt|.|16|.|WET5140.txt|.|2
+work hours|.|WET4536.txt|.|8
+enlace|.|WET5966.txt|.|11
+cheated|.|WET1785.txt|.|2|.|WET2990.txt|.|2|.|WET1596.txt|.|1|.|WET1606.txt|.|2|.|WET4536.txt|.|2
+cardiff|.|WET3634.txt|.|66

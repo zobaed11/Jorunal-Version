@@ -1,0 +1,12 @@
+1419
+broadcast|.|WET959.txt|.|18
+ponta negra|.|WET509.txt|.|50
+covering|.|WET4824.txt|.|2
+herpes|.|WET3788.txt|.|23
+cab|.|WET5287.txt|.|67|.|WET5432.txt|.|11
+ian gillan|.|WET5466.txt|.|30
+matches ignore|.|WET357.txt|.|7
+april|.|WET5925.txt|.|40|.|WET2082.txt|.|33|.|WET97.txt|.|46|.|WET4306.txt|.|55|.|WET3188.txt|.|91|.|WET133.txt|.|57|.|WET5755.txt|.|61|.|WET5933.txt|.|37|.|WET1277.txt|.|38|.|WET5773.txt|.|414|.|WET124.txt|.|39|.|WET3198.txt|.|60|.|WET99.txt|.|46|.|WET3040.txt|.|68|.|WET566.txt|.|131|.|WET938.txt|.|21|.|WET956.txt|.|66|.|WET2960.txt|.|87|.|WET3579.txt|.|333|.|WET3049.txt|.|29|.|WET5209.txt|.|25|.|WET959.txt|.|58|.|WET149.txt|.|22|.|WET6164.txt|.|20|.|WET4589.txt|.|67|.|WET6097.txt|.|59|.|WET4309.txt|.|109|.|WET4054.txt|.|28|.|WET357.txt|.|52|.|WET674.txt|.|33|.|WET548.txt|.|38|.|WET3788.txt|.|55|.|WET3303.txt|.|24|.|WET4563.txt|.|45|.|WET118.txt|.|52|.|WET40.txt|.|28|.|WET1808.txt|.|10|.|WET5321.txt|.|240|.|WET105.txt|.|33|.|WET3873.txt|.|57|.|WET2564.txt|.|172|.|WET1442.txt|.|46|.|WET1310.txt|.|85|.|WET6000.txt|.|36|.|WET5903.txt|.|26|.|WET368.txt|.|34|.|WET829.txt|.|51|.|WET4459.txt|.|30|.|WET4874.txt|.|47|.|WET189.txt|.|64|.|WET2948.txt|.|83|.|WET2751.txt|.|43|.|WET3167.txt|.|91|.|WET4708.txt|.|23|.|WET3876.txt|.|43|.|WET5540.txt|.|7|.|WET1339.txt|.|108|.|WET3041.txt|.|43|.|WET967.txt|.|33|.|WET3848.txt|.|38|.|WET509.txt|.|99|.|WET416.txt|.|85|.|WET972.txt|.|23|.|WET2808.txt|.|221|.|WET4402.txt|.|50|.|WET4144.txt|.|33|.|WET781.txt|.|52|.|WET1289.txt|.|37|.|WET458.txt|.|22|.|WET4395.txt|.|42|.|WET843.txt|.|41|.|WET560.txt|.|33
+english norsk|.|WET149.txt|.|4
+hedge|.|WET2334.txt|.|3|.|WET1999.txt|.|29|.|WET4002.txt|.|3|.|WET2598.txt|.|2|.|WET1331.txt|.|2|.|WET2552.txt|.|98|.|WET6288.txt|.|249|.|WET4896.txt|.|4|.|WET1395.txt|.|2|.|WET2134.txt|.|2|.|WET205.txt|.|2|.|WET6077.txt|.|2|.|WET4527.txt|.|26|.|WET5739.txt|.|24
+usb flash|.|WET3848.txt|.|23

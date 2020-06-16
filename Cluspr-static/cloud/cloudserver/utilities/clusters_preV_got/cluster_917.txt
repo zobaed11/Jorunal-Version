@@ -1,0 +1,12 @@
+917
+claws|.|WET3684.txt|.|9
+shop shop|.|WET2635.txt|.|18
+forum for dogs|.|WET2639.txt|.|19
+pet forum|.|WET2639.txt|.|19
+dog parks|.|WET2640.txt|.|18
+dogs cats and humans|.|WET2639.txt|.|19
+sitter|.|WET2638.txt|.|21
+home visit|.|WET2640.txt|.|20
+explore cat|.|WET2635.txt|.|9
+parenting|.|WET2635.txt|.|9
+pet|.|WET3684.txt|.|101|.|WET2635.txt|.|117|.|WET2593.txt|.|11|.|WET2634.txt|.|60|.|WET2640.txt|.|129|.|WET1413.txt|.|111|.|WET2639.txt|.|120|.|WET2638.txt|.|357|.|WET816.txt|.|14|.|WET3259.txt|.|12|.|WET3683.txt|.|147|.|WET2312.txt|.|30

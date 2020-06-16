@@ -1,0 +1,12 @@
+870
+horse|.|WET2028.txt|.|130|.|WET5769.txt|.|116|.|WET1562.txt|.|29|.|WET5966.txt|.|19|.|WET5768.txt|.|421|.|WET1758.txt|.|196|.|WET2586.txt|.|16|.|WET2029.txt|.|55|.|WET2026.txt|.|309|.|WET5237.txt|.|77|.|WET1485.txt|.|40
+graphic tees|.|WET2035.txt|.|4
+horse racing|.|WET2028.txt|.|73|.|WET5966.txt|.|16|.|WET2029.txt|.|22
+offered|.|WET1562.txt|.|16
+offline quote|.|WET5768.txt|.|23
+riding|.|WET4906.txt|.|21|.|WET5768.txt|.|69|.|WET5332.txt|.|13
+white horse|.|WET2586.txt|.|13
+sire|.|WET1758.txt|.|44
+horse breed|.|WET2026.txt|.|7
+belmont park|.|WET5769.txt|.|25
+horse trailer|.|WET2026.txt|.|13

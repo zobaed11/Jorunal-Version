@@ -1,0 +1,12 @@
+707
+base layer|.|WET1558.txt|.|8
+panama|.|WET3729.txt|.|109|.|WET1563.txt|.|19|.|WET5776.txt|.|33
+holiday greetings|.|WET3616.txt|.|18
+craft ideas|.|WET5534.txt|.|98
+recent highest rated|.|WET3616.txt|.|36
+enterprise|.|WET1166.txt|.|55|.|WET4680.txt|.|21|.|WET621.txt|.|13|.|WET686.txt|.|10|.|WET643.txt|.|23|.|WET1270.txt|.|87|.|WET5021.txt|.|115
+club vacations|.|WET2069.txt|.|9
+panu|.|WET6267.txt|.|8
+knitting|.|WET5534.txt|.|90|.|WET2260.txt|.|24|.|WET1800.txt|.|30
+layer|.|WET1558.txt|.|8
+accidental|.|WET3500.txt|.|18

@@ -1,0 +1,8 @@
+taha|.|WET3344.txt|.|15
+website directory|.|WET2395.txt|.|2
+sun ultrasparc|.|WET4467.txt|.|7
+website|.|WET245.txt|.|9|.|WET3294.txt|.|39|.|WET4463.txt|.|37|.|WET2150.txt|.|43|.|WET2395.txt|.|6|.|WET4467.txt|.|28|.|WET3292.txt|.|65|.|WET3344.txt|.|52|.|WET5874.txt|.|100|.|WET3925.txt|.|17|.|WET3603.txt|.|31
+service and website|.|WET5874.txt|.|7
+manage the service|.|WET2134.txt|.|4|.|WET5874.txt|.|7
+opinie|.|WET4463.txt|.|17
+directory book|.|WET2395.txt|.|2

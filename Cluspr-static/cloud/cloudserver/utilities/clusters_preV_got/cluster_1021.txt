@@ -1,0 +1,12 @@
+1021
+saturation|.|WET759.txt|.|28
+palm beach|.|WET5831.txt|.|5
+instructions|.|WET3487.txt|.|22
+driving|.|WET3042.txt|.|18
+traverse|.|WET2502.txt|.|9
+races|.|WET2028.txt|.|43|.|WET3072.txt|.|6
+illinois wesleyan|.|WET3960.txt|.|39
+motorized cart|.|WET1541.txt|.|9
+joseph|.|WET5892.txt|.|30|.|WET4285.txt|.|69
+tip pen|.|WET2139.txt|.|16
+comments disclaimer|.|WET2241.txt|.|4

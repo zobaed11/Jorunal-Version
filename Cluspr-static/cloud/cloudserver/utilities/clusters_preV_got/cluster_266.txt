@@ -1,0 +1,12 @@
+266
+potentials|.|WET4471.txt|.|17
+worthplaying|.|WET1071.txt|.|20
+confining potentials|.|WET4471.txt|.|13
+tourbillon|.|WET3638.txt|.|10
+weather weather|.|WET3307.txt|.|9
+knowledge centers|.|WET2710.txt|.|6
+medium|.|WET5716.txt|.|20|.|WET1684.txt|.|7|.|WET2608.txt|.|7
+compiler|.|WET3991.txt|.|14
+ridge|.|WET6266.txt|.|109|.|WET4046.txt|.|23
+twittercompartir|.|WET4471.txt|.|5
+carlos hernandez|.|WET4471.txt|.|7

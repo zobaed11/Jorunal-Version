@@ -1,0 +1,12 @@
+1324
+meal time|.|WET4970.txt|.|22
+site|.|WET1676.txt|.|12|.|WET3455.txt|.|114|.|WET3994.txt|.|34|.|WET409.txt|.|10|.|WET1950.txt|.|216|.|WET3167.txt|.|84|.|WET3327.txt|.|16|.|WET6035.txt|.|22|.|WET894.txt|.|20|.|WET3846.txt|.|18|.|WET5278.txt|.|12|.|WET412.txt|.|18|.|WET2257.txt|.|21|.|WET3532.txt|.|24|.|WET1570.txt|.|61|.|WET5676.txt|.|324|.|WET2168.txt|.|28|.|WET2724.txt|.|19|.|WET5317.txt|.|97|.|WET4291.txt|.|13|.|WET4970.txt|.|65|.|WET1606.txt|.|118|.|WET5915.txt|.|18|.|WET2470.txt|.|119|.|WET3454.txt|.|118|.|WET4703.txt|.|41|.|WET2914.txt|.|19|.|WET2241.txt|.|21|.|WET2543.txt|.|27|.|WET5335.txt|.|19|.|WET5386.txt|.|45|.|WET835.txt|.|9|.|WET1259.txt|.|181|.|WET3237.txt|.|11|.|WET4573.txt|.|20|.|WET4971.txt|.|44|.|WET5047.txt|.|140
+official site|.|WET3327.txt|.|16
+snowboard enthusiast forums|.|WET2914.txt|.|18
+site is currently unavailable|.|WET4291.txt|.|5
+enthusiast|.|WET2914.txt|.|18
+ray archer|.|WET5278.txt|.|10
+tennis track|.|WET1950.txt|.|24
+ruston|.|WET4573.txt|.|20
+gifts by age|.|WET4970.txt|.|22
+content and other information|.|WET5047.txt|.|3|.|WET2470.txt|.|3

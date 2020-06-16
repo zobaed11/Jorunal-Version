@@ -1,0 +1,12 @@
+1211
+firstprice|.|WET923.txt|.|33
+santa monica|.|WET3591.txt|.|225
+anxious exhibition|.|WET6308.txt|.|14
+title association|.|WET4902.txt|.|14
+transfer|.|WET6308.txt|.|11|.|WET3694.txt|.|38
+ofertas|.|WET4602.txt|.|67
+kingman|.|WET554.txt|.|66
+students|.|WET1608.txt|.|26|.|WET4828.txt|.|45|.|WET1956.txt|.|34|.|WET1519.txt|.|37|.|WET291.txt|.|185|.|WET4403.txt|.|21|.|WET3591.txt|.|673|.|WET2316.txt|.|36|.|WET4824.txt|.|39|.|WET5908.txt|.|17|.|WET4477.txt|.|38|.|WET510.txt|.|7|.|WET1393.txt|.|49|.|WET1580.txt|.|28|.|WET3665.txt|.|37|.|WET2253.txt|.|12|.|WET6308.txt|.|79|.|WET2427.txt|.|56|.|WET5143.txt|.|40|.|WET4325.txt|.|21|.|WET1974.txt|.|33|.|WET3411.txt|.|168|.|WET171.txt|.|410|.|WET326.txt|.|94|.|WET3166.txt|.|62
+decorations|.|WET2599.txt|.|34|.|WET6301.txt|.|137|.|WET2547.txt|.|31|.|WET2561.txt|.|94|.|WET6283.txt|.|23|.|WET2562.txt|.|132
+categories comments|.|WET3591.txt|.|192
+prospective students|.|WET3591.txt|.|185

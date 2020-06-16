@@ -1,0 +1,21 @@
+60
+interface parameters|.|rfc4447.txt|.|18
+cesopsn packets|.|rfc5086.txt|.|15
+pw switching point|.|rfc5254.txt|.|5
+mapping of the unique|.|rfc5601.txt|.|3
+label withdraw|.|rfc4447.txt|.|16
+pw|.|rfc5601.txt|.|314|.|rfc4863.txt|.|37|.|rfc5254.txt|.|141|.|rfc5604.txt|.|66|.|rfc4619.txt|.|67|.|rfc4385.txt|.|78|.|rfc5086.txt|.|73|.|rfc5602.txt|.|149|.|rfc3985.txt|.|202|.|rfc6240.txt|.|63|.|rfc6136.txt|.|31|.|rfc4447.txt|.|177|.|rfc4717.txt|.|67|.|rfc6073.txt|.|369|.|rfc5605.txt|.|101|.|rfc5659.txt|.|140|.|rfc4553.txt|.|76
+use over an mpls|.|rfc4385.txt|.|13
+parameters tlv|.|rfc4447.txt|.|7
+segment pseudowires|.|rfc5659.txt|.|1
+pw setup|.|rfc5254.txt|.|4
+manage atm|.|rfc5605.txt|.|35
+multi segment pseudowires|.|rfc5659.txt|.|1
+wildcard pseudowire type|.|rfc4863.txt|.|6
+multi segment|.|rfc5659.txt|.|2
+mpls payload|.|rfc4385.txt|.|8
+ms pw|.|rfc5254.txt|.|1|.|rfc5659.txt|.|1
+connected to networks|.|rfc6073.txt|.|1
+agnostic|.|rfc5611.txt|.|1|.|rfc4553.txt|.|1
+use over an mpls psn|.|rfc4385.txt|.|13
+kawa standards|.|rfc4619.txt|.|19

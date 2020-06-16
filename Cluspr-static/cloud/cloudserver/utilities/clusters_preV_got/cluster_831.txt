@@ -1,0 +1,12 @@
+831
+sorted|.|WET4358.txt|.|16|.|WET5061.txt|.|22
+visit your local site|.|WET5317.txt|.|60
+daily intelligencer|.|WET713.txt|.|44
+street|.|WET2316.txt|.|14|.|WET798.txt|.|101|.|WET2636.txt|.|28|.|WET5623.txt|.|36|.|WET713.txt|.|64|.|WET2530.txt|.|76|.|WET1596.txt|.|53|.|WET2086.txt|.|33|.|WET6058.txt|.|13|.|WET1087.txt|.|29|.|WET3325.txt|.|47
+graduate|.|WET6308.txt|.|60|.|WET3897.txt|.|47|.|WET4789.txt|.|74|.|WET510.txt|.|12
+north pacific hurricane|.|WET798.txt|.|8
+farm|.|WET4636.txt|.|23|.|WET1796.txt|.|108|.|WET897.txt|.|43
+fark|.|WET1794.txt|.|316|.|WET1793.txt|.|313
+resolution|.|WET4664.txt|.|8|.|WET4366.txt|.|79
+tokujin|.|WET1635.txt|.|5
+street team|.|WET2636.txt|.|22

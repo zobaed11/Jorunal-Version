@@ -1,0 +1,30 @@
+32
+exception|.|WET4045.txt|.|218
+celtic radio|.|WET5201.txt|.|23
+technical|.|WET4242.txt|.|187|.|WET2070.txt|.|20|.|WET4243.txt|.|86|.|WET642.txt|.|11|.|WET494.txt|.|172|.|WET495.txt|.|138
+concept|.|WET2070.txt|.|8
+error|.|WET293.txt|.|11|.|WET4480.txt|.|16|.|WET5201.txt|.|30|.|WET2070.txt|.|18|.|WET738.txt|.|18|.|WET4045.txt|.|1862
+underlying exception|.|WET4045.txt|.|195
+inter ikea systems|.|WET2070.txt|.|11
+programmatic|.|WET4045.txt|.|738
+programmatic bpm|.|WET4045.txt|.|737
+canonical ltd|.|WET738.txt|.|22
+support services|.|WET4045.txt|.|208
+bpm|.|WET4045.txt|.|744
+inter ikea|.|WET2070.txt|.|11
+oracle|.|WET1610.txt|.|52|.|WET301.txt|.|43|.|WET4045.txt|.|296|.|WET3417.txt|.|73
+inter|.|WET389.txt|.|1|.|WET2070.txt|.|11
+error packages|.|WET4480.txt|.|8|.|WET738.txt|.|9
+error message|.|WET5201.txt|.|18
+services|.|WET816.txt|.|18|.|WET1749.txt|.|241|.|WET1801.txt|.|53|.|WET4510.txt|.|9|.|WET1201.txt|.|9|.|WET1783.txt|.|23|.|WET4015.txt|.|221|.|WET2103.txt|.|23|.|WET5071.txt|.|69|.|WET4908.txt|.|6|.|WET1235.txt|.|7|.|WET3240.txt|.|12|.|WET2436.txt|.|10|.|WET4258.txt|.|1|.|WET5982.txt|.|29|.|WET4490.txt|.|11|.|WET2338.txt|.|11|.|WET4987.txt|.|5|.|WET1381.txt|.|13|.|WET2643.txt|.|19|.|WET6074.txt|.|21|.|WET3623.txt|.|19|.|WET5322.txt|.|15|.|WET3415.txt|.|132|.|WET3733.txt|.|33|.|WET1670.txt|.|12|.|WET3582.txt|.|5|.|WET1574.txt|.|9|.|WET4955.txt|.|7|.|WET2998.txt|.|44|.|WET2662.txt|.|36|.|WET3409.txt|.|23|.|WET3760.txt|.|46|.|WET5494.txt|.|11|.|WET137.txt|.|80|.|WET2701.txt|.|6|.|WET1955.txt|.|4|.|WET3663.txt|.|31|.|WET4832.txt|.|207|.|WET4045.txt|.|229|.|WET3603.txt|.|66|.|WET6261.txt|.|14|.|WET5847.txt|.|31|.|WET5465.txt|.|71|.|WET2716.txt|.|27|.|WET1122.txt|.|29|.|WET6109.txt|.|46|.|WET1390.txt|.|48|.|WET2365.txt|.|43|.|WET304.txt|.|133|.|WET5631.txt|.|25|.|WET3706.txt|.|39|.|WET5547.txt|.|53|.|WET5229.txt|.|11|.|WET2941.txt|.|38|.|WET5454.txt|.|13|.|WET1406.txt|.|10
+underlying|.|WET4045.txt|.|221
+packages|.|WET3609.txt|.|66|.|WET4480.txt|.|26|.|WET3727.txt|.|33|.|WET738.txt|.|30|.|WET4591.txt|.|6
+ikea systems|.|WET2070.txt|.|11
+technical error|.|WET2070.txt|.|18
+celtic|.|WET5201.txt|.|114
+ikea concept|.|WET2070.txt|.|8
+persists|.|WET4045.txt|.|199
+oracle support|.|WET4045.txt|.|267
+contact oracle|.|WET4045.txt|.|267
+support|.|WET6134.txt|.|14|.|WET2795.txt|.|19|.|WET4770.txt|.|16|.|WET5069.txt|.|41|.|WET3716.txt|.|24|.|WET2165.txt|.|17|.|WET1319.txt|.|20|.|WET345.txt|.|98|.|WET2504.txt|.|8|.|WET4824.txt|.|22|.|WET2103.txt|.|18|.|WET5309.txt|.|38|.|WET5358.txt|.|95|.|WET746.txt|.|51|.|WET4045.txt|.|277|.|WET3655.txt|.|11|.|WET5326.txt|.|39|.|WET2324.txt|.|292|.|WET577.txt|.|731
+error persists|.|WET4045.txt|.|199

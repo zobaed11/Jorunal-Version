@@ -1,0 +1,12 @@
+748
+est customer service|.|WET2009.txt|.|14
+upper deck|.|WET3789.txt|.|19
+omaha|.|WET6280.txt|.|28
+joe browns|.|WET5898.txt|.|5
+yellow|.|WET1814.txt|.|61
+oyunlar|.|WET6315.txt|.|75
+winh|.|WET4551.txt|.|15
+talking|.|WET24.txt|.|23
+wing|.|WET4811.txt|.|38
+see all videos|.|WET5668.txt|.|54
+wind|.|WET961.txt|.|8|.|WET496.txt|.|47

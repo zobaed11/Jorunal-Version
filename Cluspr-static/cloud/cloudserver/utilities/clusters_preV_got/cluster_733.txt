@@ -1,0 +1,12 @@
+733
+directory all listings|.|WET3174.txt|.|12
+toner cartridge|.|WET2443.txt|.|2
+overstock coupon|.|WET128.txt|.|8
+ripoff report|.|WET2776.txt|.|80
+logbooks|.|WET3174.txt|.|29|.|WET3175.txt|.|20
+iii|.|WET3198.txt|.|2|.|WET5133.txt|.|24|.|WET5279.txt|.|27|.|WET1883.txt|.|16
+sabanero|.|WET333.txt|.|81
+view title|.|WET5604.txt|.|40
+improvement|.|WET1390.txt|.|10|.|WET5406.txt|.|33|.|WET1658.txt|.|39
+crag map|.|WET3174.txt|.|15
+cart learn|.|WET1343.txt|.|48

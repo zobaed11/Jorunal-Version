@@ -1,0 +1,1219 @@
+8
+4
+3
+8
+4
+3
+8
+4
+3
+internet protocol
+8
+4
+3
+client environment
+8
+4
+3
+
+0
+6
+4
+
+1398
+1169
+1151
+
+1398
+1169
+1151
+
+1398
+1169
+1151
+
+1398
+1169
+1151
+
+1398
+1169
+1151
+
+1398
+1169
+1151
+
+1398
+1169
+1151
+network
+1278
+991
+1462
+
+176
+202
+380
+protocol
+294
+160
+315
+protocol
+294
+160
+315
+protocol
+294
+160
+315
+protocol
+294
+160
+315
+protocol
+294
+160
+315
+protocol
+294
+160
+315
+protocol
+294
+160
+315
+animal
+414
+257
+281
+
+176
+202
+380
+
+176
+202
+380
+
+1398
+1169
+1151
+
+176
+202
+380
+
+1398
+1169
+1151
+
+1398
+1169
+1151
+
+176
+202
+380
+
+176
+202
+380
+
+176
+202
+380
+
+176
+202
+380
+
+176
+202
+380
+
+176
+202
+380
+
+176
+202
+380
+
+176
+202
+380
+computing cloud
+189
+347
+343
+amazon
+41
+152
+347
+amazon
+41
+152
+347
+amazon
+41
+152
+347
+amazon
+41
+152
+347
+amazon
+41
+152
+347
+amazon
+41
+amazon
+41
+cloud
+189
+cloud computing
+189
+347
+cloud computing
+189
+347
+cloud computing
+189
+347
+cloud computing
+189
+347
+top movies
+371
+343
+blogging
+176
+north america
+32
+127
+terrorist attack
+347
+343
+terrorist attack
+347
+343
+smartphone
+176
+smartphone
+176
+popular song
+347
+183
+sociology
+327
+cyberspace
+41
+amazon
+7
+amazon
+7
+news update
+154
+14
+news update
+154
+14
+news update
+154
+14
+crime
+14
+floods
+93
+attack info
+14
+69
+cricket live
+7
+38
+football update
+14
+154
+boeing anniversary
+8
+78
+psg
+93
+spaceship
+38
+tcp
+95
+tcp
+95
+internet
+59
+wifi
+59
+udp
+176
+encryption
+168
+broadcast
+95
+transmission protocol
+168
+95
+radio frequency
+95
+16
+edge computing
+95
+80
+internet of things
+95
+59
+16
+internet things
+95
+59
+news update
+3
+8
+crimes
+0
+crimes
+0
+news update
+3
+8
+internet
+3
+tcp
+2
+transmission protocol
+2
+3
+internet tcp udp
+3
+2
+8
+internet tcp udp ldp
+3
+2
+8
+4
+internet
+3
+8
+4
+internet
+3
+8
+4
+cloud
+3
+4
+2
+internet
+3
+8
+4
+transmission protocol
+2
+3
+8
+wifi
+3
+8
+4
+internet of things
+3
+2
+8
+radio frequency
+3
+2
+4
+udp
+0
+6
+4
+edge computing
+3
+2
+4
+encryption
+2
+3
+8
+encryption
+2
+3
+8
+broadcast
+2
+3
+4
+amazon
+1
+6
+2
+cloud computing
+5
+4
+7
+amazon
+1
+6
+2
+cloud computing
+5
+4
+7
+top movies
+6
+7
+2
+blogging
+0
+6
+4
+north america
+7
+2
+4
+recent terrorirst attack
+5
+4
+7
+smartphone
+0
+6
+4
+popular song
+7
+2
+4
+sociology
+5
+4
+7
+cyberspace
+6
+2
+5
+internet
+41
+152
+183
+amazon
+41
+152
+347
+amazon
+41
+amazon
+41
+cloud computing
+189
+347
+
+93
+113
+news update
+63
+53
+crimes
+0
+43
+attack info
+53
+50
+bbc_politics_316.txt has score: 2.88408000254576
+0
+43
+endangered species
+53
+50
+dangerous species
+53
+50
+floods
+0
+43
+recent flood victim
+50
+18
+cricket
+50
+18
+cricket nation
+55
+50
+cricket nations
+50
+18
+football update
+53
+50
+football updates
+42
+53
+software updates
+42
+3
+greek history
+53
+50
+air pollution
+53
+50
+environment
+53
+50
+expo
+53
+50
+country
+53
+50
+ancient history
+50
+53
+boeing anniversary
+53
+47
+boeing planes
+0
+43
+us senators
+27
+48
+news update
+63
+53
+attack info
+53
+50
+us senators
+27
+48
+crimes
+0
+43
+
+176
+202
+cloud computing
+17
+106
+cloud computing
+17
+106
+north america
+88
+19
+popular song
+17
+23
+champions league
+84
+17
+champions league uefa
+84
+17
+sexy asian
+2
+123
+118
+champions league uefa
+84
+17
+123
+movie reviews
+113
+123
+89
+club friendlies
+84
+17
+123
+green hornet
+123
+118
+113
+movie reviews horror
+113
+123
+17
+recommendation
+3
+17
+23
+recommendation
+3
+17
+23
+washington regional
+7
+108
+17
+football stats
+106
+47
+59
+gluten
+5
+123
+119
+football
+106
+47
+59
+tennis tournament
+47
+106
+23
+smartphones
+93
+holy martyr
+123
+113
+orthodox church
+34
+84
+holy martyr
+123
+113
+trademarks
+93
+boston celtics
+7
+orthodox church
+34
+84
+orthodox church
+34
+84
+popular song
+17
+23
+cloud computing
+17
+106
+stardock
+63
+amazon
+123
+orlando magic
+93
+orlando magic
+93
+samsung galaxy
+129
+basketball schedule
+87
+106
+north america
+88
+19
+popular song
+17
+23
+sunglasses
+123
+holy martyr
+123
+samsung galaxy
+129
+samsung galaxy
+129
+orlando magic
+93
+basketball schedule
+87
+106
+orthodox church
+34
+84
+stardock
+63
+tennis touranment
+47
+106
+tennis tournament
+47
+106
+map collection
+123
+113
+library
+64
+113
+recommendation
+3
+north america
+88
+19
+north america
+88
+19
+library
+64
+basketball schedule
+5
+4
+7
+orlando magic
+5
+4
+7
+orlando magic
+5
+4
+7
+recommendation
+7
+2
+4
+north america
+7
+2
+4
+tennis tournament
+5
+4
+7
+library
+6
+2
+5
+holy martyr
+6
+7
+2
+stardock
+0
+6
+4
+samsung galaxy
+5
+7
+4
+north america
+7
+2
+4
+north america
+7
+2
+4
+orthodox church
+6
+2
+5
+
+176
+202
+113
+orlando magic
+8
+7
+9
+samsung galaxy
+8
+4
+7
+basketball schedule
+8
+4
+3
+basketball schedule
+8
+4
+3
+basketball schedule
+8
+4
+3
+7
+9
+recommendation
+8
+4
+7
+3
+9
+orlando magic
+8
+7
+9
+4
+3
+orlando magic
+8
+7
+9
+tennis tournament
+8
+4
+9
+stardock
+0
+6
+4
+stardock
+0
+6
+4
+3
+1
+8
+2
+7
+9
+5
+stardock
+0
+stardock
+0
+6
+4
+orthodox church
+8
+4
+3
+
+176
+202
+113
+news updates
+17
+72
+23
+orlando magic
+93
+17
+23
+orlando magic
+93
+17
+23
+orlando magic
+93
+17
+orlando magic
+93
+samsung galaxy
+129
+17
+basketball schedule
+87
+106
+basketball schedule
+87
+106
+basketball schedule
+87
+106
+samsung galaxy
+129
+17
+samsung galaxy
+129
+17
+samsung galaxy
+129
+17
+basketball schedule
+87
+106
+north america
+19
+7
+tennis tournament
+47
+106
+type
+0
+type
+0
+type
+0
+stardock
+93
+stardock
+93
+113
+orthodox church
+84
+17
+stardock
+63
+orthodox church
+34
+basketball schedule
+87
+news update
+63
+
+176
+orlando magic
+8
+orlando magic
+8
+7
+9
+abstract
+8
+3
+4
+orlando magic
+8
+7
+9
+orlando
+9
+8
+7
+orlando magic
+8
+7
+9
+orlando
+9
+8
+7
+orlando magic
+8
+7
+9
+samsung
+0
+6
+4
+samsung galaxy
+8
+4
+7
+church
+8
+4
+3
+orthodox church
+8
+4
+3
+library
+8
+4
+3
+library
+8
+orlando
+9
+orlando
+9
+8
+7
+orlando
+9
+8
+7
+
+176
+202
+113
+development and product
+53
+18
+3
+news update
+63
+53
+37
+news update
+63
+53
+crimes
+0
+attacks info
+53
+attacks info
+53
+endangered species
+53
+floods
+0
+cricket
+18
+score updates
+42
+
+176
+score updates
+42
+football
+53
+boeing anniversary
+53
+big four
+53
+shooting
+53
+stems
+50
+stems
+50
+boeing anniversary
+53
+recent terrorist attack
+53
+stems
+50
+crimes
+0
+people and business
+25
+people and business
+25
+53
+47
+football updates
+42
+53
+62
+football updates
+42
+53
+score updates
+42
+53
+weather forecast
+53
+welsh arts
+53
+hospital
+18
+hospitals
+0
+43
+champions league
+36
+53
+asylum children
+18
+53
+financial gifts
+0
+43
+top movies
+0
+52
+trojan
+3
+attacks info
+53
+news update
+63
+stems
+50
+stems
+50
+43
+6
+world health issue
+44
+53
+18
+european stock exchange
+58
+53
+18
+
+0
+6
+latest news update
+3
+8
+5
+news update
+3
+8
+5
+top movies
+3
+2
+5
+attack info
+3
+8
+5
+endangered species
+3
+8
+2
+champions league
+3
+8
+2
+world health issue
+3
+8
+2
+people and business
+8
+3
+2
+recent terrorist attack
+3
+8
+2
+european stock exhange
+3
+2
+5
+score updates
+3
+8
+1
+endangered animals
+0
+6
+4
+
+93
+113
+43
+internet
+29
+session
+53
+wireless
+29
+profile
+53
+network
+29
+network
+29
+64
+53
+network
+29
+64
+53
+rsa
+0
+43
+6
+phb june
+64
+25
+53
+orlando magic
+8
+7
+9
+samsung galaxy
+8
+4
+7
+basketball schedule
+8
+4
+3
+recommendation
+8
+4
+7
+north america
+9
+8
+7
+tennis tournament
+8
+4
+9
+holy martyr
+8
+4
+3
+library
+8
+4
+3
+orthodox church
+8
+4
+3
+recent world invention
+8
+4
+3
+orlando magic
+93
+17
+samsung galaxy
+129
+17
+basketball schedules
+87
+47
+north america
+88
+19
+holy martyr
+123
+113
+orthodox church
+34
+84
+recent world invention
+17
+123
+23
+tennis tournament
+47
+106
+23
+stardock
+63
+library
+64
+stardock
+63
+
+
+93
+
+0
+
+0
+
+0
+
+0
+bal chal
+176
+mama kapapa
+41
+mama kapapa
+41
+mama kapa
+41
+news agency
+347
+mama kapa
+41
+mama kapa
+41
+mama kapa
+41
+mama kapa
+41
+mama kapa
+41
+mama kapa
+41
+mama kapa
+41
+mama kapa
+41

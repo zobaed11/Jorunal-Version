@@ -1,0 +1,12 @@
+714
+uniprotkb|.|WET3185.txt|.|129
+msf|.|WET1663.txt|.|49
+buckingham|.|WET2271.txt|.|60
+extension service|.|WET4062.txt|.|91
+activity report|.|WET1663.txt|.|24
+pmc|.|WET3185.txt|.|141
+funeral|.|WET1252.txt|.|179
+carine gilson|.|WET2450.txt|.|25
+activity stream|.|WET5364.txt|.|11
+miscellaneous forum travel|.|WET642.txt|.|11
+forum travel alerts|.|WET642.txt|.|11

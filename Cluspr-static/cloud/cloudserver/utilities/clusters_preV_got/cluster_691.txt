@@ -1,0 +1,12 @@
+691
+francisco|.|WET424.txt|.|17|.|WET4582.txt|.|74|.|WET2861.txt|.|36|.|WET2860.txt|.|75|.|WET1481.txt|.|18|.|WET4604.txt|.|43|.|WET3895.txt|.|8|.|WET5155.txt|.|77
+dimness|.|WET467.txt|.|1
+settings|.|WET412.txt|.|11|.|WET3518.txt|.|18
+took|.|WET6013.txt|.|46|.|WET2859.txt|.|36
+nexus line|.|WET4146.txt|.|28|.|WET404.txt|.|38
+pages|.|WET5086.txt|.|65|.|WET1334.txt|.|88|.|WET4474.txt|.|62|.|WET4131.txt|.|20|.|WET1054.txt|.|24|.|WET1055.txt|.|29|.|WET2794.txt|.|67|.|WET392.txt|.|16|.|WET1156.txt|.|10|.|WET734.txt|.|41
+bureau of labor statistics|.|WET294.txt|.|4|.|WET4003.txt|.|16|.|WET260.txt|.|3|.|WET1647.txt|.|2|.|WET5087.txt|.|5|.|WET4103.txt|.|12|.|WET259.txt|.|4
+nibsdesk pen|.|WET5879.txt|.|10
+samsung galaxy|.|WET1112.txt|.|21|.|WET639.txt|.|19|.|WET4516.txt|.|8|.|WET3931.txt|.|41|.|WET3505.txt|.|340|.|WET2649.txt|.|261|.|WET1170.txt|.|49|.|WET1648.txt|.|18|.|WET404.txt|.|42
+aerial|.|WET3484.txt|.|18
+highest score|.|WET3985.txt|.|111

@@ -1,0 +1,12 @@
+735
+local site|.|WET5317.txt|.|66
+status shipping info|.|WET2358.txt|.|11
+lorem|.|WET5403.txt|.|6
+parks|.|WET2640.txt|.|18|.|WET6264.txt|.|18|.|WET2484.txt|.|12
+like to visit your local|.|WET5317.txt|.|60
+like to visit|.|WET5317.txt|.|66
+nutrition dog|.|WET2640.txt|.|6
+dog photos|.|WET2640.txt|.|6
+pets pet blog|.|WET2640.txt|.|6
+podcast pet video|.|WET2640.txt|.|6
+places to visit|.|WET2360.txt|.|21

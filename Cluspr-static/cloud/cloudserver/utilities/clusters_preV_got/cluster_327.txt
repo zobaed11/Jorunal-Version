@@ -1,0 +1,12 @@
+327
+turkish|.|WET3997.txt|.|5|.|WET4082.txt|.|26
+search this thread|.|WET404.txt|.|8
+supervisor module|.|WET4049.txt|.|29
+troubleshooting|.|WET4049.txt|.|64
+apps and games|.|WET4145.txt|.|15
+radarweather alertsschool closing|.|WET6204.txt|.|10
+automotive|.|WET6134.txt|.|56|.|WET1228.txt|.|38|.|WET2165.txt|.|63
+oshuawei|.|WET4145.txt|.|20
+supervisor|.|WET4049.txt|.|68
+apps|.|WET646.txt|.|11|.|WET4145.txt|.|70|.|WET3018.txt|.|25|.|WET2336.txt|.|55|.|WET6052.txt|.|11|.|WET4387.txt|.|11|.|WET1253.txt|.|34|.|WET4942.txt|.|57|.|WET6109.txt|.|28|.|WET6.txt|.|10|.|WET4441.txt|.|12|.|WET414.txt|.|41
+voyage|.|WET1906.txt|.|16

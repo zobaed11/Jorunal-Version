@@ -1,0 +1,46 @@
+95
+wintersport auto|.|WET5918.txt|.|21
+olympia wintersport|.|WET5918.txt|.|21
+tournaments|.|WET1549.txt|.|13
+string|.|WET3594.txt|.|36|.|WET1160.txt|.|5|.|WET3026.txt|.|654
+gut|.|WET3026.txt|.|81
+basketball handball|.|WET5918.txt|.|22
+tennis results|.|WET1549.txt|.|14
+wintersport|.|WET5918.txt|.|21
+tournament|.|WET5700.txt|.|52
+auto video|.|WET5918.txt|.|21
+olympia|.|WET5918.txt|.|21
+racquet club|.|WET1549.txt|.|6
+radsport|.|WET5918.txt|.|21
+opponent score|.|WET3379.txt|.|9
+mehr|.|WET5918.txt|.|30
+swimming|.|WET6240.txt|.|18|.|WET5690.txt|.|21|.|WET3002.txt|.|36|.|WET1973.txt|.|6|.|WET4124.txt|.|10|.|WET3828.txt|.|11|.|WET1949.txt|.|17
+racquet|.|WET1549.txt|.|6
+tennis tournament|.|WET5700.txt|.|49
+opponent|.|WET3379.txt|.|10
+coretennis|.|WET1549.txt|.|40
+eishockey basketball|.|WET5918.txt|.|22
+england lawn|.|WET5700.txt|.|80
+radsport mehr|.|WET5918.txt|.|21
+sport olympia|.|WET5918.txt|.|21
+prince|.|WET3026.txt|.|64|.|WET6096.txt|.|36|.|WET1775.txt|.|18
+basketball cross|.|WET1950.txt|.|25
+golf soccer swimming|.|WET5690.txt|.|18
+match results|.|WET1549.txt|.|8
+kr|.|WET3379.txt|.|9
+cross|.|WET2377.txt|.|23|.|WET3923.txt|.|16|.|WET2732.txt|.|59|.|WET2506.txt|.|16|.|WET2321.txt|.|22|.|WET3170.txt|.|27|.|WET5690.txt|.|39|.|WET1213.txt|.|43|.|WET3171.txt|.|30|.|WET1468.txt|.|13|.|WET1950.txt|.|31|.|WET3950.txt|.|14|.|WET2753.txt|.|19|.|WET1268.txt|.|12|.|WET113.txt|.|10|.|WET4905.txt|.|68|.|WET2147.txt|.|16|.|WET2625.txt|.|18|.|WET1588.txt|.|18|.|WET3847.txt|.|16
+tennis track|.|WET1950.txt|.|24
+synthetic gut|.|WET3026.txt|.|42
+tennis|.|WET5918.txt|.|27|.|WET1549.txt|.|65|.|WET5690.txt|.|45|.|WET3026.txt|.|111|.|WET1950.txt|.|39|.|WET5700.txt|.|187|.|WET3379.txt|.|28
+synthetic|.|WET3026.txt|.|55
+site|.|WET1676.txt|.|12|.|WET3455.txt|.|114|.|WET3994.txt|.|34|.|WET409.txt|.|10|.|WET1950.txt|.|216|.|WET3167.txt|.|84|.|WET3327.txt|.|16|.|WET6035.txt|.|22|.|WET894.txt|.|20|.|WET3846.txt|.|18|.|WET5278.txt|.|12|.|WET412.txt|.|18|.|WET2257.txt|.|21|.|WET3532.txt|.|24|.|WET1570.txt|.|61|.|WET5676.txt|.|324|.|WET2168.txt|.|28|.|WET2724.txt|.|19|.|WET5317.txt|.|97|.|WET4291.txt|.|13|.|WET4970.txt|.|65|.|WET1606.txt|.|118|.|WET5915.txt|.|18|.|WET2470.txt|.|119|.|WET3454.txt|.|118|.|WET4703.txt|.|41|.|WET2914.txt|.|19|.|WET2241.txt|.|21|.|WET2543.txt|.|27|.|WET5335.txt|.|19|.|WET5386.txt|.|45|.|WET835.txt|.|9|.|WET1259.txt|.|181|.|WET3237.txt|.|11|.|WET4573.txt|.|20|.|WET4971.txt|.|44|.|WET5047.txt|.|140
+tennis radsport|.|WET5918.txt|.|21
+singles|.|WET5086.txt|.|59|.|WET5700.txt|.|127
+lawn tennis|.|WET5700.txt|.|125
+formel|.|WET5918.txt|.|22
+handball|.|WET5918.txt|.|25
+eishockey|.|WET5918.txt|.|24
+string black|.|WET3026.txt|.|44
+yale|.|WET3379.txt|.|82
+live formel|.|WET5918.txt|.|21
+lawn|.|WET5332.txt|.|32|.|WET5700.txt|.|131|.|WET1947.txt|.|30

@@ -1,0 +1,12 @@
+1267
+feb jan|.|WET4932.txt|.|83
+placement test|.|WET6255.txt|.|19
+technology degree|.|WET6255.txt|.|7
+venice|.|WET1845.txt|.|26
+jul aug sep|.|WET3236.txt|.|18
+joined apr|.|WET196.txt|.|50
+placement|.|WET6255.txt|.|34
+analyst interviews|.|WET1019.txt|.|10
+school closing alerts|.|WET6206.txt|.|8
+weblog|.|WET6097.txt|.|24
+accessoires auto|.|WET3760.txt|.|11

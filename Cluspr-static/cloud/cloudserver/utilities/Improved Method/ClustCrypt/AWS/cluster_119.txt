@@ -1,0 +1,29 @@
+cut|.|WET2677.txt|.|8|.|WET1898.txt|.|118|.|WET713.txt|.|52|.|WET4453.txt|.|47|.|WET5635.txt|.|125|.|WET1975.txt|.|6
+diamond engagement|.|WET1898.txt|.|238|.|WET5636.txt|.|184|.|WET5635.txt|.|254
+engagement|.|WET1898.txt|.|536|.|WET3732.txt|.|21|.|WET5636.txt|.|409|.|WET4401.txt|.|52|.|WET5635.txt|.|579
+daily intelligencer vulture the cut|.|WET4453.txt|.|23
+bands|.|WET1898.txt|.|92|.|WET1815.txt|.|25
+gemstone|.|WET5635.txt|.|130
+carat diamond engagement|.|WET1898.txt|.|50
+engagement rings oval|.|WET5635.txt|.|22
+give gift subscription|.|WET4453.txt|.|11
+sapphire|.|WET5635.txt|.|192
+cut diamond engagement|.|WET1898.txt|.|50
+give|.|WET713.txt|.|23|.|WET4453.txt|.|26|.|WET1408.txt|.|27|.|WET1203.txt|.|11
+lovely|.|WET1975.txt|.|6
+intelligencer vulture the cut|.|WET4453.txt|.|23
+grub street|.|WET713.txt|.|52
+oval|.|WET5635.txt|.|23
+carat|.|WET1898.txt|.|75
+media kit|.|WET4453.txt|.|22
+diamond|.|WET5906.txt|.|33|.|WET1898.txt|.|496|.|WET5636.txt|.|330|.|WET103.txt|.|12|.|WET5635.txt|.|466
+wedding bands|.|WET1898.txt|.|80|.|WET1815.txt|.|6
+daily intelligencer|.|WET713.txt|.|44
+rings|.|WET1898.txt|.|728|.|WET5636.txt|.|565|.|WET5635.txt|.|809|.|WET1800.txt|.|119|.|WET3539.txt|.|15
+engagement rings round|.|WET5635.txt|.|22
+engagement rings|.|WET1898.txt|.|466|.|WET5636.txt|.|359|.|WET5635.txt|.|504
+daily intelligencer vulture|.|WET713.txt|.|31|.|WET4453.txt|.|23
+give a gift|.|WET713.txt|.|12
+york magazine|.|WET713.txt|.|44|.|WET4453.txt|.|53
+vulture the cut|.|WET713.txt|.|31|.|WET4453.txt|.|23
+hair cut|.|WET1975.txt|.|6

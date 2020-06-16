@@ -1,0 +1,12 @@
+260
+mountain adventure|.|WET2481.txt|.|22|.|WET6220.txt|.|20
+lips|.|WET6220.txt|.|20
+woods grand|.|WET6220.txt|.|20
+environmental metrics|.|WET6220.txt|.|20
+clips beer|.|WET2481.txt|.|22
+list lost|.|WET2481.txt|.|22|.|WET6220.txt|.|20
+cinema mountain|.|WET2481.txt|.|22|.|WET6220.txt|.|20
+sours lips|.|WET6220.txt|.|20
+ipa|.|WET6220.txt|.|20
+beer|.|WET2481.txt|.|77|.|WET912.txt|.|14|.|WET5568.txt|.|7|.|WET5058.txt|.|97|.|WET3772.txt|.|40|.|WET6220.txt|.|70
+tea root|.|WET912.txt|.|7

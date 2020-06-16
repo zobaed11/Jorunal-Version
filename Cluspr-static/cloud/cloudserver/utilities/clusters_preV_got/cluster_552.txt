@@ -1,0 +1,12 @@
+552
+letters to the editor|.|WET6261.txt|.|12
+article print|.|WET835.txt|.|8
+chatroom home|.|WET5406.txt|.|14
+news world|.|WET4711.txt|.|17
+mchenry county|.|WET6261.txt|.|14
+herald|.|WET5445.txt|.|77|.|WET6261.txt|.|29|.|WET1700.txt|.|91|.|WET1701.txt|.|63|.|WET835.txt|.|12|.|WET1699.txt|.|83|.|WET5446.txt|.|76
+mobile|.|WET1700.txt|.|11|.|WET1807.txt|.|34|.|WET1574.txt|.|12|.|WET842.txt|.|3|.|WET5383.txt|.|10|.|WET3409.txt|.|2|.|WET3829.txt|.|6|.|WET2420.txt|.|5|.|WET4920.txt|.|11|.|WET1167.txt|.|43|.|WET1896.txt|.|11|.|WET5446.txt|.|11|.|WET5235.txt|.|20|.|WET845.txt|.|14|.|WET4680.txt|.|39|.|WET3814.txt|.|5|.|WET5384.txt|.|10|.|WET943.txt|.|70|.|WET2089.txt|.|10|.|WET5037.txt|.|18|.|WET1253.txt|.|30|.|WET5915.txt|.|11|.|WET565.txt|.|19|.|WET4580.txt|.|7|.|WET1338.txt|.|6|.|WET1699.txt|.|11|.|WET5089.txt|.|7|.|WET4300.txt|.|4|.|WET3077.txt|.|8|.|WET3085.txt|.|13|.|WET3504.txt|.|66|.|WET2091.txt|.|20|.|WET873.txt|.|30|.|WET3599.txt|.|34|.|WET2962.txt|.|10|.|WET4813.txt|.|3|.|WET4021.txt|.|4
+cutter|.|WET1547.txt|.|45
+active topics|.|WET5541.txt|.|20|.|WET5709.txt|.|7
+rutland herald|.|WET835.txt|.|12
+plata county|.|WET1701.txt|.|36

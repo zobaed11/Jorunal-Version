@@ -1,0 +1,12 @@
+57
+crock|.|WET5232.txt|.|18|.|WET5231.txt|.|20
+poblano|.|WET5231.txt|.|20
+slow cooker|.|WET1148.txt|.|52|.|WET5232.txt|.|27|.|WET1481.txt|.|27
+saves salmon fajitas|.|WET5231.txt|.|20
+cooker|.|WET1148.txt|.|54|.|WET5232.txt|.|27|.|WET1481.txt|.|27|.|WET5231.txt|.|30
+stuffed poblano peppers|.|WET5231.txt|.|20
+profitable|.|WET3479.txt|.|8
+champagne|.|WET5232.txt|.|18
+successfully submitted|.|WET822.txt|.|102
+saves crock|.|WET5232.txt|.|18
+leather|.|WET639.txt|.|31|.|WET2679.txt|.|46|.|WET2872.txt|.|29

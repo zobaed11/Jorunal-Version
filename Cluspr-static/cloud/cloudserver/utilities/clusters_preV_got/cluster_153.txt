@@ -1,0 +1,12 @@
+153
+baltimore street|.|WET6058.txt|.|13
+west baltimore street|.|WET2316.txt|.|14|.|WET6058.txt|.|13
+duke|.|WET3437.txt|.|6|.|WET581.txt|.|25|.|WET5676.txt|.|138|.|WET1937.txt|.|152
+modi|.|WET6080.txt|.|67
+fanatics|.|WET874.txt|.|22|.|WET4610.txt|.|23
+share tweet email|.|WET4610.txt|.|10
+flights las|.|WET2051.txt|.|8
+lpg convector|.|WET1984.txt|.|7
+fort holabird|.|WET57.txt|.|19
+moda|.|WET830.txt|.|158
+comments or examples|.|WET4610.txt|.|10

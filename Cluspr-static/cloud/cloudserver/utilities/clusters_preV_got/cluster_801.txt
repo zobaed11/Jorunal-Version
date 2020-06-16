@@ -1,0 +1,12 @@
+801
+runaway|.|WET4033.txt|.|202
+dam|.|WET582.txt|.|36|.|WET1758.txt|.|44
+frontpage|.|WET4000.txt|.|12|.|WET255.txt|.|22
+downvote|.|WET527.txt|.|62|.|WET444.txt|.|32|.|WET4445.txt|.|66
+compact|.|WET2384.txt|.|225|.|WET3217.txt|.|24
+shown|.|WET3695.txt|.|44
+dac|.|WET4545.txt|.|33
+jobs autos|.|WET3950.txt|.|13
+jordan|.|WET5919.txt|.|10|.|WET1013.txt|.|12
+challenge tour|.|WET1769.txt|.|3
+andy warhol|.|WET4957.txt|.|14

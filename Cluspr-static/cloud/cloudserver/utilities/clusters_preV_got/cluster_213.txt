@@ -1,0 +1,12 @@
+213
+cataract removal|.|WET6166.txt|.|11
+persecution|.|WET2757.txt|.|21
+hematology|.|WET5789.txt|.|23
+brothers|.|WET4582.txt|.|8|.|WET5.txt|.|4|.|WET6166.txt|.|26
+beans|.|WET3650.txt|.|57
+doctors guide top|.|WET5789.txt|.|22
+procedure|.|WET6166.txt|.|8
+wickets|.|WET240.txt|.|104|.|WET3985.txt|.|138|.|WET3986.txt|.|65
+oncology|.|WET5789.txt|.|77
+pediatric|.|WET5789.txt|.|53
+surgery|.|WET2046.txt|.|151|.|WET1996.txt|.|59|.|WET3637.txt|.|14|.|WET2045.txt|.|193|.|WET6166.txt|.|32|.|WET5789.txt|.|309

@@ -1,0 +1,8 @@
+shirts banner|.|WET2828.txt|.|50
+duke baseball|.|WET1937.txt|.|15
+order at any time|.|WET1739.txt|.|2
+blue|.|WET3993.txt|.|11|.|WET4046.txt|.|24|.|WET1937.txt|.|58|.|WET2193.txt|.|10|.|WET1502.txt|.|17|.|WET1196.txt|.|181|.|WET2827.txt|.|178|.|WET4006.txt|.|35|.|WET5402.txt|.|18|.|WET2828.txt|.|256|.|WET367.txt|.|51|.|WET4949.txt|.|38|.|WET1739.txt|.|20
+index help|.|WET4046.txt|.|2
+help java|.|WET4046.txt|.|2
+school uniform|.|WET2828.txt|.|51
+skorts|.|WET2828.txt|.|20

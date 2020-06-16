@@ -1,0 +1,12 @@
+1320
+gen|.|WET5639.txt|.|160
+receta|.|WET5397.txt|.|20
+scarlet blade|.|WET2382.txt|.|9
+candy types|.|WET5170.txt|.|21
+operators|.|WET5183.txt|.|28
+periodic|.|WET5830.txt|.|33
+slate sign|.|WET2898.txt|.|31
+certification attestation|.|WET3415.txt|.|183
+force|.|WET367.txt|.|63|.|WET2963.txt|.|584
+concert tickets|.|WET5266.txt|.|24
+ecuador|.|WET4209.txt|.|21

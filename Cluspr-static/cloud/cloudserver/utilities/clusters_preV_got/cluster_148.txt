@@ -1,0 +1,12 @@
+148
+chains necklaces|.|WET2823.txt|.|23
+opzioni|.|WET5849.txt|.|216
+caramelized|.|WET208.txt|.|16
+miller|.|WET2369.txt|.|97
+voyages|.|WET1906.txt|.|11
+greece|.|WET3392.txt|.|30|.|WET5474.txt|.|13
+repair parts|.|WET5778.txt|.|21
+beaten|.|WET5805.txt|.|7
+dockside|.|WET2923.txt|.|36
+solar|.|WET2983.txt|.|2|.|WET2849.txt|.|45|.|WET205.txt|.|57|.|WET2923.txt|.|34|.|WET5778.txt|.|39
+association|.|WET814.txt|.|48|.|WET4902.txt|.|21|.|WET5004.txt|.|101

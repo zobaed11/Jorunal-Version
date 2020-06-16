@@ -1,0 +1,12 @@
+949
+request|.|WET2587.txt|.|14|.|WET941.txt|.|2|.|WET3616.txt|.|12|.|WET1262.txt|.|128|.|WET5847.txt|.|10|.|WET5239.txt|.|6|.|WET1756.txt|.|89|.|WET1976.txt|.|16|.|WET5017.txt|.|20|.|WET1980.txt|.|4|.|WET2103.txt|.|12|.|WET5233.txt|.|9|.|WET5367.txt|.|6
+lakers|.|WET5840.txt|.|36
+trustnet|.|WET5847.txt|.|20
+catalog|.|WET1976.txt|.|46|.|WET5043.txt|.|16|.|WET6224.txt|.|20|.|WET5017.txt|.|80|.|WET1374.txt|.|16|.|WET3698.txt|.|23|.|WET4605.txt|.|19
+investment|.|WET1999.txt|.|14|.|WET5847.txt|.|67
+catalog request|.|WET5017.txt|.|20
+warnell school|.|WET2103.txt|.|5
+add to cart add|.|WET1980.txt|.|45
+gran cru|.|WET5239.txt|.|6
+sample|.|WET1218.txt|.|82|.|WET1756.txt|.|78|.|WET5081.txt|.|104
+bumper|.|WET2514.txt|.|16|.|WET923.txt|.|14

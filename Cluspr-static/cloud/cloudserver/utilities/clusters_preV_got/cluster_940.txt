@@ -1,0 +1,12 @@
+940
+data plan|.|WET1688.txt|.|12
+aviation photo|.|WET4883.txt|.|22
+create account|.|WET2413.txt|.|7|.|WET6001.txt|.|7|.|WET5845.txt|.|110|.|WET4077.txt|.|9
+safeguards data sheet|.|WET4048.txt|.|4
+estimated|.|WET5845.txt|.|52
+exchange time|.|WET3838.txt|.|20
+control data|.|WET4486.txt|.|87
+membership functions|.|WET4486.txt|.|223
+correction control|.|WET4486.txt|.|103
+correction|.|WET4486.txt|.|109
+chart|.|WET3838.txt|.|37|.|WET3076.txt|.|15

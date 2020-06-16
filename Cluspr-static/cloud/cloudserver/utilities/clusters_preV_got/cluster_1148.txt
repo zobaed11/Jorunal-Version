@@ -1,0 +1,12 @@
+1148
+medical center|.|WET73.txt|.|48|.|WET1047.txt|.|51
+dog center|.|WET2635.txt|.|18
+patients|.|WET1047.txt|.|38
+center|.|WET3576.txt|.|121|.|WET3928.txt|.|127|.|WET2635.txt|.|63|.|WET2713.txt|.|18|.|WET185.txt|.|41|.|WET1544.txt|.|32|.|WET3585.txt|.|19|.|WET4033.txt|.|113|.|WET1972.txt|.|39|.|WET3816.txt|.|54|.|WET2762.txt|.|9|.|WET6234.txt|.|60|.|WET3330.txt|.|14|.|WET3609.txt|.|18|.|WET5873.txt|.|40|.|WET5203.txt|.|21|.|WET3205.txt|.|36|.|WET73.txt|.|69|.|WET5908.txt|.|112|.|WET5609.txt|.|10|.|WET1047.txt|.|103
+business center|.|WET5203.txt|.|20
+eighth|.|WET5908.txt|.|15
+pet parenting|.|WET2635.txt|.|9
+cat center|.|WET2635.txt|.|18
+facebook follow us|.|WET4938.txt|.|18|.|WET1047.txt|.|14
+center bird|.|WET2635.txt|.|9
+small animal|.|WET2635.txt|.|18

@@ -1,0 +1,12 @@
+304
+rome|.|WET939.txt|.|23
+chf|.|WET2250.txt|.|4
+che|.|WET4130.txt|.|164
+roma|.|WET3472.txt|.|26
+thai turkish|.|WET3997.txt|.|5
+ncaa|.|WET5524.txt|.|17|.|WET1789.txt|.|16
+autocollant|.|WET5459.txt|.|21
+department of agriculture|.|WET210.txt|.|12
+retail sales tax|.|WET4052.txt|.|10
+filter by permanent|.|WET5930.txt|.|7
+cha|.|WET4663.txt|.|16

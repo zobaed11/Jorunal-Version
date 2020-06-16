@@ -1,0 +1,12 @@
+1177
+hotel area|.|WET4876.txt|.|40
+couple|.|WET4762.txt|.|656
+bor|.|WET857.txt|.|8
+tartt|.|WET5958.txt|.|29
+click for details|.|WET5336.txt|.|16
+bialek|.|WET5336.txt|.|16
+hotel|.|WET1130.txt|.|362|.|WET2221.txt|.|26|.|WET2894.txt|.|23|.|WET5336.txt|.|90|.|WET857.txt|.|8|.|WET3729.txt|.|148|.|WET330.txt|.|6|.|WET3580.txt|.|176|.|WET3422.txt|.|93|.|WET2033.txt|.|165|.|WET4762.txt|.|917|.|WET1454.txt|.|86|.|WET148.txt|.|73|.|WET5203.txt|.|49|.|WET1131.txt|.|106|.|WET1017.txt|.|455|.|WET5771.txt|.|17|.|WET3863.txt|.|112|.|WET4876.txt|.|223|.|WET2032.txt|.|115|.|WET5958.txt|.|15|.|WET333.txt|.|45|.|WET4235.txt|.|187
+eventos|.|WET2032.txt|.|15
+bor sang|.|WET857.txt|.|8
+hotel bungalow|.|WET857.txt|.|4
+serveras med|.|WET2032.txt|.|13

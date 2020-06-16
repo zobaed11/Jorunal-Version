@@ -1,0 +1,12 @@
+745
+europe pmc|.|WET3185.txt|.|141
+marcel|.|WET5548.txt|.|17
+mocpages toys|.|WET659.txt|.|4
+mlbam properties|.|WET845.txt|.|92
+thorsten leemhuis|.|WET2799.txt|.|91
+leemhuis|.|WET2799.txt|.|162
+sun belt|.|WET1462.txt|.|56
+brim|.|WET2928.txt|.|99|.|WET5452.txt|.|55
+eugene robinson|.|WET5146.txt|.|7
+naked|.|WET3820.txt|.|33
+sun|.|WET2514.txt|.|25|.|WET2583.txt|.|1|.|WET1462.txt|.|64|.|WET4467.txt|.|61|.|WET2799.txt|.|76|.|WET1546.txt|.|53|.|WET5452.txt|.|29|.|WET5249.txt|.|12|.|WET853.txt|.|42

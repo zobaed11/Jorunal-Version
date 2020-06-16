@@ -1,0 +1,12 @@
+678
+allergies|.|WET4055.txt|.|43|.|WET24.txt|.|120|.|WET5738.txt|.|11
+buzz red|.|WET6149.txt|.|12
+bull motogp|.|WET6149.txt|.|12
+pinnacle|.|WET2662.txt|.|24
+new jersey|.|WET478.txt|.|6
+rookies cup|.|WET6149.txt|.|12
+trademarks|.|WET5775.txt|.|30
+champions league|.|WET2919.txt|.|36
+cup|.|WET2028.txt|.|86|.|WET478.txt|.|31|.|WET382.txt|.|25|.|WET6149.txt|.|12|.|WET2919.txt|.|156|.|WET4190.txt|.|26|.|WET2643.txt|.|31|.|WET4433.txt|.|29|.|WET5670.txt|.|34
+defender|.|WET5670.txt|.|10
+ghana|.|WET4190.txt|.|24

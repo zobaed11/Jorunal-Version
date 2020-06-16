@@ -1,0 +1,12 @@
+620
+raises alarm|.|WET974.txt|.|22
+credit agricole|.|WET5505.txt|.|13
+agricole|.|WET5505.txt|.|15
+hotter world|.|WET974.txt|.|28
+wikipedia bahasa|.|WET3465.txt|.|14
+bank|.|WET4890.txt|.|5|.|WET5505.txt|.|26|.|WET3465.txt|.|198|.|WET1006.txt|.|130|.|WET974.txt|.|37|.|WET4801.txt|.|14|.|WET4071.txt|.|30|.|WET3646.txt|.|26
+bahasa|.|WET3465.txt|.|41
+td bank|.|WET3646.txt|.|19
+ensiklopedia bebas|.|WET3465.txt|.|14
+world bank|.|WET4890.txt|.|4|.|WET974.txt|.|36
+indonesia|.|WET1929.txt|.|30|.|WET3465.txt|.|50|.|WET3902.txt|.|161|.|WET512.txt|.|22

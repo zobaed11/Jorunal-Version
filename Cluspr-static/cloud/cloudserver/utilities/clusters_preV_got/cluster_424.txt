@@ -1,0 +1,12 @@
+424
+american geographical|.|WET214.txt|.|49
+indies|.|WET3986.txt|.|20
+rev|.|WET3678.txt|.|234
+geographical|.|WET214.txt|.|49
+laser|.|WET3678.txt|.|102|.|WET3694.txt|.|36
+test|.|WET3706.txt|.|46|.|WET3985.txt|.|72|.|WET5624.txt|.|21|.|WET6255.txt|.|38|.|WET1029.txt|.|20|.|WET5818.txt|.|34
+uwm|.|WET214.txt|.|101
+asia society|.|WET62.txt|.|12
+osa|.|WET3678.txt|.|79
+crossref|.|WET3678.txt|.|920
+photonics|.|WET3678.txt|.|79

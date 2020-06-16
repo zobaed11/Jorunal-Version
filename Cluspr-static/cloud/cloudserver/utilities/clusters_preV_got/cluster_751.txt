@@ -1,0 +1,12 @@
+751
+uniform|.|WET83.txt|.|39|.|WET1201.txt|.|6|.|WET2828.txt|.|82
+parent|.|WET2568.txt|.|20|.|WET573.txt|.|356
+forsyth|.|WET5581.txt|.|36|.|WET4129.txt|.|29
+boys trousers|.|WET2828.txt|.|80
+water polo|.|WET5689.txt|.|22|.|WET3169.txt|.|36
+trousers and shorts|.|WET2828.txt|.|80
+blue max|.|WET2827.txt|.|170|.|WET2828.txt|.|240
+polo|.|WET2893.txt|.|4|.|WET1377.txt|.|15|.|WET2461.txt|.|105|.|WET5864.txt|.|8|.|WET3016.txt|.|5|.|WET2915.txt|.|22|.|WET1973.txt|.|6|.|WET2828.txt|.|160|.|WET5689.txt|.|24|.|WET3169.txt|.|36
+arizona stanford|.|WET5689.txt|.|6|.|WET3169.txt|.|8
+kenlium|.|WET35.txt|.|3
+skorts|.|WET2828.txt|.|20

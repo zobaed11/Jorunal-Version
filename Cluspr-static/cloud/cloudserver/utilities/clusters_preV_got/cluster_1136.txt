@@ -1,0 +1,12 @@
+1136
+waste|.|WET2127.txt|.|5
+models available that predict|.|WET5529.txt|.|1
+service level agreements|.|WET306.txt|.|3
+spam link|.|WET3481.txt|.|2
+traffic flowing|.|WET306.txt|.|9
+link|.|WET4858.txt|.|3|.|WET311.txt|.|18|.|WET341.txt|.|4|.|WET5529.txt|.|46|.|WET1544.txt|.|4|.|WET1206.txt|.|6|.|WET2392.txt|.|17|.|WET4976.txt|.|34|.|WET2965.txt|.|3|.|WET3481.txt|.|83|.|WET306.txt|.|44|.|WET6241.txt|.|25|.|WET1452.txt|.|13|.|WET3703.txt|.|28|.|WET1109.txt|.|9|.|WET6135.txt|.|25|.|WET2127.txt|.|26|.|WET3925.txt|.|37|.|WET4473.txt|.|13|.|WET5869.txt|.|28
+link utilization|.|WET306.txt|.|8
+submit a link|.|WET5529.txt|.|28
+utilization|.|WET306.txt|.|27
+pcb|.|WET2127.txt|.|8
+random page|.|WET4473.txt|.|11

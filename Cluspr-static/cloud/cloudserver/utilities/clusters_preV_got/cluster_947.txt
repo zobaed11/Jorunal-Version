@@ -1,0 +1,12 @@
+947
+tub|.|WET2994.txt|.|217|.|WET5533.txt|.|27
+single|.|WET4697.txt|.|22|.|WET2994.txt|.|141|.|WET2385.txt|.|22|.|WET2942.txt|.|4|.|WET3524.txt|.|20|.|WET2195.txt|.|18|.|WET5773.txt|.|104|.|WET4006.txt|.|17|.|WET4136.txt|.|18|.|WET4189.txt|.|9|.|WET5838.txt|.|16|.|WET2460.txt|.|13|.|WET1233.txt|.|9
+shower faucet|.|WET2994.txt|.|51
+single family|.|WET4189.txt|.|8
+primetime|.|WET4006.txt|.|30
+current daytime soap|.|WET4006.txt|.|17
+strainer|.|WET2994.txt|.|32
+single handle|.|WET2994.txt|.|111
+two|.|WET2994.txt|.|126|.|WET1901.txt|.|32|.|WET1355.txt|.|33|.|WET5377.txt|.|10
+sprinkler|.|WET2954.txt|.|83
+stainless|.|WET3354.txt|.|41|.|WET2994.txt|.|52|.|WET5477.txt|.|30

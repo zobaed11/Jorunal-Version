@@ -1,0 +1,12 @@
+996
+mount pleasant|.|WET6152.txt|.|12|.|WET6151.txt|.|36
+moultrie|.|WET6152.txt|.|37|.|WET6151.txt|.|29
+formatdate date|.|WET4492.txt|.|4
+happy|.|WET1235.txt|.|86|.|WET5090.txt|.|22
+warnings|.|WET5098.txt|.|46
+moultrie news|.|WET6152.txt|.|36|.|WET6151.txt|.|29
+prescott newspapers|.|WET249.txt|.|50
+chino valley|.|WET249.txt|.|85|.|WET3994.txt|.|65
+accounts|.|WET4867.txt|.|18
+review case studies|.|WET4867.txt|.|18
+subscribe contact|.|WET2152.txt|.|5

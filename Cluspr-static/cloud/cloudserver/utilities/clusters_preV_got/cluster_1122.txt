@@ -1,0 +1,12 @@
+1122
+solutions repair|.|WET1953.txt|.|5
+sec|.|WET6195.txt|.|5|.|WET1538.txt|.|3
+weekly special|.|WET4256.txt|.|46
+filings|.|WET6195.txt|.|5
+msde|.|WET2316.txt|.|34
+special education|.|WET2316.txt|.|46|.|WET6195.txt|.|81
+education teachers|.|WET6195.txt|.|24
+special reports|.|WET5260.txt|.|12|.|WET1508.txt|.|16
+department of education|.|WET2316.txt|.|17
+gaston gazette|.|WET1889.txt|.|20
+gazette|.|WET1889.txt|.|20|.|WET1397.txt|.|10

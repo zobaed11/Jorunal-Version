@@ -1,0 +1,12 @@
+483
+posh|.|WET3092.txt|.|25
+itp|.|WET525.txt|.|60
+fail blog funny|.|WET4530.txt|.|10
+trending new|.|WET1627.txt|.|40
+remedy|.|WET3047.txt|.|40
+itv|.|WET5861.txt|.|125
+memes|.|WET4530.txt|.|80|.|WET362.txt|.|60
+ontology|.|WET3168.txt|.|2
+stuff|.|WET4295.txt|.|18|.|WET2558.txt|.|11|.|WET4530.txt|.|31|.|WET3251.txt|.|16|.|WET5291.txt|.|12|.|WET4760.txt|.|25|.|WET2847.txt|.|12
+user join|.|WET4137.txt|.|42|.|WET397.txt|.|55
+dodge pickup|.|WET5432.txt|.|11

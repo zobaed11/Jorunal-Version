@@ -1,0 +1,12 @@
+739
+cooking class|.|WET2996.txt|.|4
+wildcats kentucky|.|WET5524.txt|.|8
+winner|.|WET1105.txt|.|167
+musical|.|WET1371.txt|.|16
+install|.|WET3450.txt|.|74|.|WET2926.txt|.|74|.|WET3487.txt|.|44
+players|.|WET5948.txt|.|18|.|WET4714.txt|.|38|.|WET4985.txt|.|37|.|WET3681.txt|.|15|.|WET790.txt|.|50|.|WET5524.txt|.|144|.|WET1234.txt|.|55|.|WET1233.txt|.|21|.|WET2499.txt|.|53
+parts and appliance|.|WET3681.txt|.|7
+bulb|.|WET1386.txt|.|24|.|WET4615.txt|.|50
+dagens|.|WET497.txt|.|19
+write|.|WET1435.txt|.|59|.|WET3133.txt|.|17|.|WET2347.txt|.|10|.|WET5969.txt|.|20|.|WET4907.txt|.|34
+pratai|.|WET35.txt|.|3

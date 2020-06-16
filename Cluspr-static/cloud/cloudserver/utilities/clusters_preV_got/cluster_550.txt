@@ -1,0 +1,12 @@
+550
+vi|.|WET5542.txt|.|5
+mk vi|.|WET5542.txt|.|5
+major|.|WET4394.txt|.|43|.|WET3951.txt|.|15|.|WET5104.txt|.|34|.|WET5036.txt|.|110
+rugby|.|WET3124.txt|.|28|.|WET5823.txt|.|57|.|WET693.txt|.|16
+custom|.|WET2244.txt|.|6|.|WET5542.txt|.|26|.|WET1330.txt|.|40|.|WET1173.txt|.|15|.|WET2721.txt|.|66|.|WET1809.txt|.|68|.|WET1406.txt|.|4
+freeman journal|.|WET5595.txt|.|36
+dirt devil|.|WET1577.txt|.|10
+recommendations|.|WET624.txt|.|32|.|WET1174.txt|.|15|.|WET1330.txt|.|35
+mk|.|WET5542.txt|.|6
+treatments|.|WET6183.txt|.|32|.|WET1330.txt|.|53
+mariah|.|WET6171.txt|.|19

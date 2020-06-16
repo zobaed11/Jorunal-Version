@@ -1,0 +1,70 @@
+61
+rule breakers|.|WET5571.txt|.|14
+ozarks|.|WET2578.txt|.|102|.|WET6315.txt|.|68
+surveiller|.|WET5660.txt|.|2
+gifts beauty|.|WET3275.txt|.|13
+bit|.|WET4071.txt|.|26
+fox news latino|.|WET5588.txt|.|8
+related database|.|WET5049.txt|.|2
+bmw|.|WET1304.txt|.|318|.|WET4137.txt|.|47|.|WET1305.txt|.|136|.|WET5057.txt|.|299|.|WET5056.txt|.|241|.|WET1306.txt|.|271|.|WET4104.txt|.|57|.|WET6071.txt|.|130
+jim|.|WET2477.txt|.|6
+googleplus email|.|WET1338.txt|.|6|.|WET5089.txt|.|7
+articles avs forum|.|WET1234.txt|.|22
+trends|.|WET5395.txt|.|45|.|WET1648.txt|.|35|.|WET5396.txt|.|21|.|WET5394.txt|.|45
+playbook|.|WET5527.txt|.|98
+palace|.|WET2271.txt|.|76
+mo|.|WET2477.txt|.|33|.|WET2578.txt|.|177|.|WET1475.txt|.|45|.|WET1474.txt|.|14|.|WET6315.txt|.|120
+celebrity wallpapers|.|WET1921.txt|.|8
+chrome|.|WET1778.txt|.|11
+surface|.|WET5841.txt|.|86
+epidemic|.|WET2578.txt|.|12
+finding a doctor|.|WET1474.txt|.|4
+machines classic carsmodel|.|WET1520.txt|.|11|.|WET5271.txt|.|11
+flooding|.|WET2845.txt|.|3|.|WET2549.txt|.|2|.|WET5877.txt|.|1|.|WET2081.txt|.|1|.|WET3758.txt|.|2|.|WET135.txt|.|2|.|WET3866.txt|.|3|.|WET2522.txt|.|2|.|WET4448.txt|.|2|.|WET288.txt|.|2|.|WET1017.txt|.|2|.|WET4771.txt|.|2|.|WET1188.txt|.|2|.|WET4633.txt|.|2|.|WET5819.txt|.|1|.|WET5118.txt|.|2|.|WET4514.txt|.|1|.|WET4205.txt|.|1|.|WET6315.txt|.|4|.|WET4681.txt|.|1|.|WET2577.txt|.|2
+web sites|.|WET2437.txt|.|2
+chillicothe|.|WET1475.txt|.|117
+finding|.|WET1474.txt|.|8
+nautica|.|WET6200.txt|.|88
+northern ireland|.|WET2108.txt|.|22|.|WET1277.txt|.|21
+tiny dancer|.|WET1960.txt|.|7
+accessories jewelry|.|WET3275.txt|.|21
+ama|.|WET4906.txt|.|90|.|WET4657.txt|.|19
+posts private|.|WET1275.txt|.|121|.|WET2581.txt|.|93|.|WET3889.txt|.|69|.|WET776.txt|.|47|.|WET2381.txt|.|149|.|WET1276.txt|.|48|.|WET6125.txt|.|172|.|WET6126.txt|.|40|.|WET5222.txt|.|68|.|WET4154.txt|.|49
+business casual|.|WET300.txt|.|8
+exclusively|.|WET2642.txt|.|123
+hammons|.|WET2578.txt|.|12
+premium shutters|.|WET3647.txt|.|22
+springfield|.|WET2578.txt|.|175|.|WET6315.txt|.|115
+forums home bmw|.|WET1304.txt|.|22
+hospital colorado|.|WET1474.txt|.|12
+mad money|.|WET2477.txt|.|6
+preceded in death|.|WET1252.txt|.|123
+buying guides|.|WET2430.txt|.|150
+seasonal|.|WET5727.txt|.|10|.|WET1498.txt|.|25
+freight|.|WET2733.txt|.|11
+oyunlar|.|WET6315.txt|.|75
+car connection|.|WET3717.txt|.|56
+inspiration|.|WET5702.txt|.|22|.|WET2411.txt|.|10|.|WET3246.txt|.|12|.|WET1391.txt|.|22
+caps|.|WET5571.txt|.|62
+jefferson|.|WET4030.txt|.|3|.|WET2578.txt|.|78
+ave|.|WET1252.txt|.|70|.|WET1889.txt|.|67
+herpes|.|WET3788.txt|.|23
+neosho|.|WET2477.txt|.|87|.|WET6216.txt|.|104
+home most popular|.|WET6173.txt|.|330|.|WET6174.txt|.|348|.|WET2431.txt|.|332
+richters|.|WET3698.txt|.|86
+silent epidemic|.|WET2578.txt|.|12
+avs|.|WET4986.txt|.|38|.|WET1234.txt|.|138
+dvd review|.|WET2021.txt|.|12
+silent|.|WET2578.txt|.|13
+jefferson city|.|WET2578.txt|.|60
+buffett|.|WET5571.txt|.|13
+hammons field|.|WET2578.txt|.|12
+sportsticketsauto|.|WET1338.txt|.|6|.|WET5089.txt|.|7
+adscan be found|.|WET6134.txt|.|57|.|WET1362.txt|.|20|.|WET2165.txt|.|49
+make decisions|.|WET221.txt|.|2|.|WET5841.txt|.|2|.|WET2504.txt|.|2
+reply report|.|WET1627.txt|.|45|.|WET5315.txt|.|16
+storage devices|.|WET5603.txt|.|2|.|WET2816.txt|.|29|.|WET2817.txt|.|4
+partners|.|WET1574.txt|.|25|.|WET4165.txt|.|22|.|WET5178.txt|.|11
+drinkupwnc|.|WET1338.txt|.|6|.|WET5089.txt|.|7
+brainyquote|.|WET1364.txt|.|28
+commercial break|.|WET4071.txt|.|21

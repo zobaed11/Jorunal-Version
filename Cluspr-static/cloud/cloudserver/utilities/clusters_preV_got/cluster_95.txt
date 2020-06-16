@@ -1,0 +1,12 @@
+95
+add or remove|.|WET226.txt|.|16|.|WET4027.txt|.|10|.|WET177.txt|.|22|.|WET284.txt|.|22|.|WET4034.txt|.|25
+latest news|.|WET5937.txt|.|7
+techbase|.|WET3545.txt|.|11
+volume no|.|WET290.txt|.|38
+lopez tickets|.|WET2437.txt|.|13
+boot sector info|.|WET403.txt|.|22
+quiz questions|.|WET4243.txt|.|85|.|WET494.txt|.|174|.|WET495.txt|.|136
+land|.|WET2219.txt|.|80|.|WET4902.txt|.|20
+gym|.|WET5183.txt|.|35
+virginia|.|WET2238.txt|.|64|.|WET1014.txt|.|25
+watford|.|WET3255.txt|.|87

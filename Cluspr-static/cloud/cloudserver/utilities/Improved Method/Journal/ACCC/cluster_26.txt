@@ -1,0 +1,34 @@
+26
+country|.|WET3748.txt|.|31|.|WET2506.txt|.|18|.|WET3170.txt|.|26|.|WET1213.txt|.|46|.|WET3171.txt|.|30|.|WET2680.txt|.|55|.|WET3950.txt|.|14|.|WET113.txt|.|10|.|WET1990.txt|.|13|.|WET2757.txt|.|35|.|WET2625.txt|.|19|.|WET1973.txt|.|6|.|WET1588.txt|.|18|.|WET4575.txt|.|37|.|WET2377.txt|.|22|.|WET3923.txt|.|16|.|WET2321.txt|.|24|.|WET5690.txt|.|40|.|WET1268.txt|.|12|.|WET4905.txt|.|70|.|WET5666.txt|.|11|.|WET5759.txt|.|30|.|WET2865.txt|.|27|.|WET5090.txt|.|55|.|WET4224.txt|.|62|.|WET3847.txt|.|17|.|WET5728.txt|.|12|.|WET2432.txt|.|116
+bindings|.|WET3147.txt|.|849
+cross country ski|.|WET4905.txt|.|54
+snow report|.|WET2896.txt|.|36
+snowboard accessories|.|WET4905.txt|.|5
+brands gift|.|WET3147.txt|.|99
+holy bowly|.|WET2913.txt|.|9
+bmx|.|WET5054.txt|.|26|.|WET1153.txt|.|45
+bowly|.|WET2913.txt|.|9
+ski|.|WET4905.txt|.|256|.|WET3147.txt|.|914|.|WET2913.txt|.|27|.|WET2484.txt|.|33|.|WET1153.txt|.|445|.|WET2550.txt|.|199|.|WET2896.txt|.|219
+ski rental|.|WET2896.txt|.|70
+gift cards|.|WET3597.txt|.|35|.|WET5405.txt|.|8|.|WET3357.txt|.|44|.|WET3355.txt|.|17|.|WET5679.txt|.|40|.|WET2144.txt|.|23|.|WET3147.txt|.|99|.|WET2995.txt|.|44|.|WET1941.txt|.|42|.|WET2188.txt|.|21|.|WET1278.txt|.|5|.|WET3356.txt|.|44|.|WET6008.txt|.|21|.|WET4750.txt|.|146
+gift cards community|.|WET3147.txt|.|90
+jackets|.|WET1178.txt|.|52|.|WET6007.txt|.|53|.|WET2269.txt|.|63|.|WET5864.txt|.|12|.|WET2839.txt|.|221|.|WET5186.txt|.|72|.|WET2145.txt|.|28|.|WET1459.txt|.|23|.|WET6154.txt|.|39|.|WET4619.txt|.|52|.|WET4930.txt|.|52|.|WET5402.txt|.|14|.|WET1623.txt|.|156|.|WET2410.txt|.|48|.|WET2573.txt|.|64|.|WET1415.txt|.|262|.|WET2787.txt|.|44|.|WET2402.txt|.|145|.|WET1153.txt|.|402|.|WET5551.txt|.|66
+lift tickets|.|WET2896.txt|.|90
+kids|.|WET5145.txt|.|51|.|WET2646.txt|.|23|.|WET1396.txt|.|107|.|WET1450.txt|.|13|.|WET6000.txt|.|42|.|WET1816.txt|.|66|.|WET5755.txt|.|50|.|WET1786.txt|.|146|.|WET6141.txt|.|49|.|WET5208.txt|.|10|.|WET6302.txt|.|40|.|WET3346.txt|.|30|.|WET3147.txt|.|298|.|WET1916.txt|.|47|.|WET2261.txt|.|45|.|WET2045.txt|.|131|.|WET1190.txt|.|24|.|WET1253.txt|.|172|.|WET500.txt|.|12|.|WET5753.txt|.|33|.|WET5550.txt|.|80|.|WET3954.txt|.|17|.|WET2719.txt|.|16|.|WET1330.txt|.|36|.|WET1822.txt|.|14|.|WET5754.txt|.|30|.|WET6263.txt|.|24|.|WET3207.txt|.|31|.|WET3289.txt|.|54|.|WET5233.txt|.|19|.|WET1153.txt|.|403
+lodging|.|WET2896.txt|.|55
+country ski|.|WET4905.txt|.|54
+snowboard bindings|.|WET3147.txt|.|432
+ski club|.|WET2896.txt|.|25
+brands gift cards|.|WET3147.txt|.|99
+ski bindings|.|WET3147.txt|.|243
+shoes bike|.|WET4905.txt|.|17
+hiking|.|WET4905.txt|.|37
+womens|.|WET4715.txt|.|93|.|WET3147.txt|.|370
+community|.|WET418.txt|.|39|.|WET311.txt|.|20|.|WET796.txt|.|19|.|WET4993.txt|.|33|.|WET5056.txt|.|24|.|WET1544.txt|.|2|.|WET1307.txt|.|3|.|WET1985.txt|.|3|.|WET1552.txt|.|67|.|WET4552.txt|.|15|.|WET3147.txt|.|102|.|WET1227.txt|.|8|.|WET1092.txt|.|15|.|WET3367.txt|.|10|.|WET3071.txt|.|18|.|WET417.txt|.|60|.|WET2041.txt|.|8|.|WET4864.txt|.|12|.|WET3732.txt|.|22|.|WET5507.txt|.|82|.|WET5046.txt|.|13|.|WET963.txt|.|60|.|WET2580.txt|.|11|.|WET1431.txt|.|44|.|WET221.txt|.|28|.|WET2039.txt|.|8|.|WET4119.txt|.|13|.|WET3703.txt|.|9|.|WET4105.txt|.|15|.|WET203.txt|.|22|.|WET4233.txt|.|65|.|WET960.txt|.|44|.|WET5726.txt|.|6|.|WET5183.txt|.|50|.|WET5255.txt|.|13|.|WET1506.txt|.|4|.|WET4980.txt|.|5|.|WET2591.txt|.|15|.|WET643.txt|.|16|.|WET2494.txt|.|9|.|WET3184.txt|.|24|.|WET4946.txt|.|11|.|WET219.txt|.|92|.|WET4407.txt|.|3|.|WET2575.txt|.|37|.|WET1753.txt|.|16|.|WET2849.txt|.|11|.|WET4400.txt|.|7|.|WET4028.txt|.|92|.|WET342.txt|.|24|.|WET1194.txt|.|16|.|WET2769.txt|.|6|.|WET3806.txt|.|159|.|WET5257.txt|.|15|.|WET5027.txt|.|8|.|WET5222.txt|.|9|.|WET1754.txt|.|22|.|WET2695.txt|.|4|.|WET1275.txt|.|11|.|WET1771.txt|.|80|.|WET3067.txt|.|3|.|WET3292.txt|.|11|.|WET1991.txt|.|18|.|WET5245.txt|.|9|.|WET1818.txt|.|6|.|WET1470.txt|.|9|.|WET4842.txt|.|13|.|WET1772.txt|.|35|.|WET6297.txt|.|25|.|WET6318.txt|.|9|.|WET1091.txt|.|11|.|WET1957.txt|.|11|.|WET1992.txt|.|21|.|WET3025.txt|.|14|.|WET525.txt|.|23|.|WET5419.txt|.|5|.|WET378.txt|.|4|.|WET2021.txt|.|9|.|WET5060.txt|.|15|.|WET5962.txt|.|8
+mens|.|WET6201.txt|.|51|.|WET3147.txt|.|399|.|WET4610.txt|.|84|.|WET80.txt|.|12|.|WET3668.txt|.|18
+ski clothing|.|WET4905.txt|.|26
+snow|.|WET4904.txt|.|73|.|WET5390.txt|.|57|.|WET2409.txt|.|23|.|WET2550.txt|.|91|.|WET2896.txt|.|88
+lift|.|WET2896.txt|.|90
+cards community|.|WET3147.txt|.|90
+ski gear|.|WET2896.txt|.|20
+snowboard|.|WET4905.txt|.|182|.|WET4904.txt|.|196|.|WET2914.txt|.|44|.|WET3147.txt|.|566

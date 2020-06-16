@@ -1,0 +1,12 @@
+386
+see shipping information|.|WET3014.txt|.|26
+prior|.|WET3014.txt|.|37
+order with purchase|.|WET3014.txt|.|26
+view single|.|WET4697.txt|.|22|.|WET2385.txt|.|22|.|WET2942.txt|.|4|.|WET4136.txt|.|18|.|WET5838.txt|.|16|.|WET2195.txt|.|16|.|WET1233.txt|.|9
+glove|.|WET3013.txt|.|33|.|WET1325.txt|.|7|.|WET3272.txt|.|25
+bat or glove|.|WET3013.txt|.|10
+softball football basketball|.|WET3013.txt|.|30
+express|.|WET6184.txt|.|1|.|WET3013.txt|.|157|.|WET5810.txt|.|129|.|WET3014.txt|.|194|.|WET3643.txt|.|43|.|WET1723.txt|.|29
+easton|.|WET1723.txt|.|46
+plateforme|.|WET5977.txt|.|6
+team express|.|WET3013.txt|.|62|.|WET3014.txt|.|88

@@ -1,0 +1,12 @@
+478
+wilko|.|WET3289.txt|.|54
+wilko life|.|WET3289.txt|.|39
+server|.|WET5290.txt|.|41|.|WET864.txt|.|20|.|WET863.txt|.|70|.|WET4164.txt|.|81|.|WET4601.txt|.|99|.|WET1042.txt|.|34|.|WET2955.txt|.|42|.|WET905.txt|.|49|.|WET906.txt|.|61
+savings shop|.|WET3289.txt|.|36
+shop all collections|.|WET3289.txt|.|36
+blossom login|.|WET5212.txt|.|11
+complex|.|WET2712.txt|.|2|.|WET5610.txt|.|4
+payment|.|WET501.txt|.|23|.|WET3230.txt|.|34|.|WET3364.txt|.|20|.|WET3590.txt|.|39
+skip|.|WET796.txt|.|24|.|WET290.txt|.|29|.|WET4743.txt|.|96|.|WET3063.txt|.|33|.|WET4658.txt|.|36|.|WET143.txt|.|9|.|WET1448.txt|.|32|.|WET3023.txt|.|14|.|WET894.txt|.|26|.|WET5693.txt|.|18|.|WET447.txt|.|32|.|WET873.txt|.|32|.|WET4610.txt|.|34|.|WET6112.txt|.|18|.|WET3670.txt|.|22
+categories|.|WET2712.txt|.|19|.|WET3826.txt|.|10|.|WET2461.txt|.|66|.|WET4192.txt|.|13|.|WET3289.txt|.|399|.|WET3591.txt|.|194|.|WET3590.txt|.|14
+harpercollins publishers published|.|WET1144.txt|.|10

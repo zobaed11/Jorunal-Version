@@ -1,0 +1,12 @@
+1218
+items are shipped|.|WET872.txt|.|9
+major online|.|WET5036.txt|.|108
+boilermakers|.|WET872.txt|.|41
+miscellaneous|.|WET4702.txt|.|70|.|WET642.txt|.|11
+designated|.|WET5036.txt|.|108
+designated major|.|WET5036.txt|.|108
+saving money|.|WET1581.txt|.|8
+bag|.|WET1705.txt|.|60|.|WET2904.txt|.|23|.|WET4617.txt|.|40|.|WET2144.txt|.|26|.|WET2732.txt|.|136|.|WET1651.txt|.|36|.|WET1780.txt|.|129|.|WET2450.txt|.|25|.|WET3213.txt|.|89|.|WET1259.txt|.|80|.|WET3649.txt|.|18|.|WET5885.txt|.|22
+corporate creative|.|WET963.txt|.|33
+items|.|WET3815.txt|.|231|.|WET3306.txt|.|27|.|WET1853.txt|.|22|.|WET4658.txt|.|112|.|WET5208.txt|.|25|.|WET2893.txt|.|9|.|WET69.txt|.|168|.|WET1836.txt|.|15|.|WET872.txt|.|74|.|WET3032.txt|.|22|.|WET2880.txt|.|43|.|WET1977.txt|.|18|.|WET5036.txt|.|236|.|WET4702.txt|.|204|.|WET1580.txt|.|48|.|WET5991.txt|.|67|.|WET963.txt|.|164|.|WET3649.txt|.|69|.|WET5329.txt|.|56|.|WET853.txt|.|22|.|WET3696.txt|.|36|.|WET1927.txt|.|80|.|WET1581.txt|.|51|.|WET70.txt|.|243|.|WET1259.txt|.|439
+four items|.|WET5036.txt|.|128

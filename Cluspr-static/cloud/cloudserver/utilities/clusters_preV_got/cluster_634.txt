@@ -1,0 +1,12 @@
+634
+gypsy|.|WET5494.txt|.|19
+owner free|.|WET4827.txt|.|9
+cobs|.|WET5494.txt|.|9
+dublin|.|WET2108.txt|.|37
+site offers|.|WET1259.txt|.|159
+items to bag|.|WET1259.txt|.|46
+sell|.|WET2690.txt|.|16|.|WET5494.txt|.|22|.|WET1908.txt|.|8|.|WET5219.txt|.|27|.|WET1469.txt|.|27|.|WET200.txt|.|14|.|WET5927.txt|.|16|.|WET4245.txt|.|19|.|WET6181.txt|.|11|.|WET4857.txt|.|12
+free item|.|WET1259.txt|.|104
+item quantity|.|WET1259.txt|.|184
+shipping fees|.|WET1259.txt|.|145
+quotes|.|WET3156.txt|.|46|.|WET4112.txt|.|138|.|WET4115.txt|.|77

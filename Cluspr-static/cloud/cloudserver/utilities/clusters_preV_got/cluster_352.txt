@@ -1,0 +1,12 @@
+352
+exception|.|WET4045.txt|.|218
+underlying exception|.|WET4045.txt|.|195
+oracle|.|WET1610.txt|.|52|.|WET301.txt|.|43|.|WET4045.txt|.|296|.|WET3417.txt|.|73
+programmatic|.|WET4045.txt|.|738
+persists|.|WET4045.txt|.|199
+oracle support|.|WET4045.txt|.|267
+underlying|.|WET4045.txt|.|221
+programmatic bpm|.|WET4045.txt|.|737
+error|.|WET293.txt|.|11|.|WET4480.txt|.|16|.|WET5201.txt|.|30|.|WET2070.txt|.|18|.|WET738.txt|.|18|.|WET4045.txt|.|1862
+contact oracle|.|WET4045.txt|.|267
+support services|.|WET4045.txt|.|208

@@ -1,0 +1,12 @@
+920
+realignment|.|WET216.txt|.|44
+government|.|WET288.txt|.|19|.|WET5262.txt|.|74|.|WET51.txt|.|10|.|WET2618.txt|.|23
+trade with stock|.|WET1506.txt|.|4
+colleton county|.|WET576.txt|.|15
+electrical|.|WET331.txt|.|14
+banco|.|WET239.txt|.|25
+stamp|.|WET1836.txt|.|55
+interval|.|WET3712.txt|.|12
+searchesthis page|.|WET4827.txt|.|9|.|WET4826.txt|.|11
+liontaur|.|WET3522.txt|.|14
+bowly|.|WET2913.txt|.|9

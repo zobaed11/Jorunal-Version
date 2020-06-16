@@ -1,0 +1,20 @@
+73
+stemmed|.|WET4878.txt|.|1|.|WET5549.txt|.|1|.|WET4431.txt|.|1|.|WET4554.txt|.|1|.|WET1128.txt|.|4
+aiken county|.|WET4878.txt|.|21
+aiken|.|WET4878.txt|.|67|.|WET1133.txt|.|56
+lime|.|WET5549.txt|.|106
+photo galleries|.|WET4878.txt|.|35|.|WET6150.txt|.|33|.|WET2406.txt|.|80
+call premium|.|WET5549.txt|.|81
+great|.|WET2574.txt|.|49|.|WET2629.txt|.|14|.|WET2107.txt|.|44|.|WET2519.txt|.|125|.|WET5340.txt|.|25|.|WET1128.txt|.|94|.|WET15.txt|.|22|.|WET4378.txt|.|51|.|WET4203.txt|.|40|.|WET72.txt|.|30|.|WET5561.txt|.|52|.|WET5321.txt|.|147|.|WET951.txt|.|34|.|WET5058.txt|.|24|.|WET4988.txt|.|129|.|WET5850.txt|.|193|.|WET5696.txt|.|24|.|WET5140.txt|.|61
+drink|.|WET5549.txt|.|32|.|WET4416.txt|.|12|.|WET2456.txt|.|27|.|WET1697.txt|.|24
+finest call|.|WET5549.txt|.|137
+religion|.|WET4554.txt|.|30
+call|.|WET237.txt|.|12|.|WET1873.txt|.|15|.|WET2336.txt|.|22|.|WET505.txt|.|68|.|WET5549.txt|.|140|.|WET6197.txt|.|122|.|WET3234.txt|.|24|.|WET1061.txt|.|12
+finest|.|WET5549.txt|.|141
+premium|.|WET3647.txt|.|28|.|WET1970.txt|.|45|.|WET4503.txt|.|7|.|WET4958.txt|.|90|.|WET5148.txt|.|11|.|WET5390.txt|.|35|.|WET1097.txt|.|16|.|WET5549.txt|.|90|.|WET2682.txt|.|33|.|WET6039.txt|.|24|.|WET2630.txt|.|32
+mystic rainbow|.|WET5549.txt|.|5
+cocktail|.|WET1703.txt|.|24|.|WET1481.txt|.|20|.|WET5549.txt|.|38|.|WET5431.txt|.|47
+atomic|.|WET4043.txt|.|3|.|WET4972.txt|.|2|.|WET3005.txt|.|2|.|WET4968.txt|.|3|.|WET3200.txt|.|2|.|WET1794.txt|.|4|.|WET1721.txt|.|3|.|WET745.txt|.|1|.|WET85.txt|.|1|.|WET1128.txt|.|8|.|WET5752.txt|.|3|.|WET5509.txt|.|3|.|WET129.txt|.|2|.|WET2451.txt|.|2|.|WET6080.txt|.|1|.|WET1553.txt|.|2|.|WET4908.txt|.|3|.|WET2363.txt|.|2|.|WET3893.txt|.|1|.|WET5802.txt|.|1|.|WET1076.txt|.|1|.|WET3991.txt|.|2|.|WET6097.txt|.|2|.|WET4076.txt|.|2|.|WET26.txt|.|1|.|WET4431.txt|.|1|.|WET6193.txt|.|1|.|WET2551.txt|.|1|.|WET3768.txt|.|2|.|WET2586.txt|.|1|.|WET5135.txt|.|3|.|WET2402.txt|.|3
+mystic|.|WET5549.txt|.|9
+place|.|WET202.txt|.|53|.|WET2011.txt|.|51|.|WET5042.txt|.|32|.|WET4878.txt|.|30|.|WET2505.txt|.|60|.|WET201.txt|.|47|.|WET2165.txt|.|23|.|WET5830.txt|.|33|.|WET6153.txt|.|18
+boosts|.|WET2039.txt|.|2|.|WET4629.txt|.|3|.|WET889.txt|.|1|.|WET3385.txt|.|1|.|WET1135.txt|.|2|.|WET4080.txt|.|1|.|WET2788.txt|.|2|.|WET5142.txt|.|1|.|WET3872.txt|.|2|.|WET4431.txt|.|2|.|WET5880.txt|.|1|.|WET5685.txt|.|1

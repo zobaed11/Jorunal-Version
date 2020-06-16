@@ -1,0 +1,12 @@
+1086
+compare arai|.|WET1343.txt|.|9
+jacuzzis|.|WET233.txt|.|56|.|WET234.txt|.|72
+uniform pants|.|WET1201.txt|.|5
+arai|.|WET1343.txt|.|10
+learn|.|WET3629.txt|.|141|.|WET2011.txt|.|11|.|WET3915.txt|.|72|.|WET5490.txt|.|14|.|WET343.txt|.|11|.|WET169.txt|.|43|.|WET3686.txt|.|116|.|WET5409.txt|.|115|.|WET1818.txt|.|4|.|WET2112.txt|.|14|.|WET1201.txt|.|86|.|WET2429.txt|.|11|.|WET4865.txt|.|4|.|WET234.txt|.|73|.|WET4050.txt|.|60|.|WET3916.txt|.|74|.|WET1343.txt|.|53|.|WET3685.txt|.|88
+ip address|.|WET5409.txt|.|28
+protective gear|.|WET1343.txt|.|5
+couples resorts|.|WET233.txt|.|28|.|WET234.txt|.|46
+bunny|.|WET3686.txt|.|92
+licensing|.|WET1201.txt|.|31
+flash|.|WET2198.txt|.|29|.|WET3629.txt|.|76|.|WET4258.txt|.|2|.|WET3848.txt|.|32|.|WET3217.txt|.|21|.|WET5936.txt|.|39

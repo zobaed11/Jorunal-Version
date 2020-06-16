@@ -1,0 +1,12 @@
+1364
+semantic|.|WET3240.txt|.|31|.|WET2901.txt|.|2
+mad|.|WET5733.txt|.|30|.|WET2477.txt|.|6|.|WET1992.txt|.|33|.|WET6035.txt|.|17
+compare online|.|WET3354.txt|.|232
+cookie|.|WET2107.txt|.|15|.|WET5823.txt|.|14|.|WET1547.txt|.|65|.|WET5656.txt|.|110
+printer|.|WET1622.txt|.|19|.|WET838.txt|.|9
+seguir privado|.|WET910.txt|.|6
+bits|.|WET5746.txt|.|4
+opens|.|WET1254.txt|.|3|.|WET3548.txt|.|49|.|WET3009.txt|.|13|.|WET2285.txt|.|54|.|WET733.txt|.|20
+complementar|.|WET4866.txt|.|2
+mite|.|WET991.txt|.|24
+mention|.|WET2494.txt|.|26

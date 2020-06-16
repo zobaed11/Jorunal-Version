@@ -1,0 +1,12 @@
+922
+ss|.|WET5158.txt|.|38
+su|.|WET1741.txt|.|52|.|WET4759.txt|.|44
+role|.|WET3462.txt|.|3|.|WET4642.txt|.|1|.|WET6243.txt|.|12|.|WET3673.txt|.|6|.|WET4042.txt|.|1|.|WET4943.txt|.|7|.|WET153.txt|.|2|.|WET13.txt|.|4|.|WET5104.txt|.|25|.|WET3939.txt|.|1|.|WET1190.txt|.|12|.|WET243.txt|.|2
+sw|.|WET3747.txt|.|13
+decision|.|WET3869.txt|.|17|.|WET3901.txt|.|4|.|WET5309.txt|.|2|.|WET4071.txt|.|4|.|WET3110.txt|.|2|.|WET1786.txt|.|7|.|WET4566.txt|.|2
+belle|.|WET4172.txt|.|41
+agricultural extension service|.|WET4062.txt|.|78
+lecture|.|WET6308.txt|.|21
+session for high|.|WET5143.txt|.|25
+sp|.|WET1493.txt|.|30
+louis vuitton|.|WET4995.txt|.|36|.|WET1245.txt|.|8

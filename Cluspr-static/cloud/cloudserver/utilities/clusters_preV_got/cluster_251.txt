@@ -1,0 +1,12 @@
+251
+ils|.|WET3892.txt|.|24
+inclusive|.|WET148.txt|.|2
+see details|.|WET3165.txt|.|18|.|WET2312.txt|.|29
+statistical abstract|.|WET3593.txt|.|6
+qui|.|WET3892.txt|.|43
+marriott hotels and resorts|.|WET6056.txt|.|16
+rates|.|WET6056.txt|.|106|.|WET148.txt|.|104|.|WET3892.txt|.|204|.|WET4591.txt|.|10|.|WET4235.txt|.|52|.|WET2312.txt|.|148
+resorts|.|WET233.txt|.|35|.|WET6056.txt|.|53|.|WET234.txt|.|64|.|WET2767.txt|.|18|.|WET2225.txt|.|36|.|WET2550.txt|.|78|.|WET2313.txt|.|42|.|WET2312.txt|.|64
+innove|.|WET3892.txt|.|2
+check rates|.|WET148.txt|.|56
+hotels and resorts|.|WET6056.txt|.|27

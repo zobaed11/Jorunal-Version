@@ -1,0 +1,12 @@
+1083
+rebates|.|WET5467.txt|.|38|.|WET1725.txt|.|29
+incentives and rebates|.|WET5467.txt|.|20|.|WET1725.txt|.|13
+silverado|.|WET1428.txt|.|69
+certified cars selling|.|WET5467.txt|.|18
+true|.|WET5468.txt|.|6|.|WET4513.txt|.|6
+fire|.|WET4176.txt|.|120|.|WET2386.txt|.|74|.|WET2222.txt|.|18
+car forums|.|WET1725.txt|.|8
+road tests|.|WET5468.txt|.|6
+train|.|WET4176.txt|.|465
+compare cars|.|WET1725.txt|.|15
+model cars|.|WET6135.txt|.|19

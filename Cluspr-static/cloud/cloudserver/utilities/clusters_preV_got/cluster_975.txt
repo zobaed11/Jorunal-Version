@@ -1,0 +1,12 @@
+975
+force awakens|.|WET2963.txt|.|551
+oscar|.|WET5827.txt|.|4|.|WET2963.txt|.|28
+filming|.|WET2963.txt|.|72
+isaac|.|WET2963.txt|.|20
+oscar isaac|.|WET2963.txt|.|19
+honda parts|.|WET5763.txt|.|20
+jedi knight series|.|WET603.txt|.|7
+hasbro star|.|WET2888.txt|.|45
+wars|.|WET2137.txt|.|20|.|WET2135.txt|.|19|.|WET2888.txt|.|139|.|WET2963.txt|.|1649|.|WET2751.txt|.|64|.|WET5048.txt|.|25|.|WET6019.txt|.|148|.|WET2136.txt|.|22|.|WET2282.txt|.|128|.|WET5876.txt|.|14|.|WET2415.txt|.|24|.|WET4345.txt|.|92|.|WET603.txt|.|77|.|WET6021.txt|.|91
+awakens|.|WET2963.txt|.|553
+star wars|.|WET6019.txt|.|148|.|WET2282.txt|.|126|.|WET2888.txt|.|129|.|WET4345.txt|.|91|.|WET603.txt|.|77|.|WET2963.txt|.|1612|.|WET2751.txt|.|61|.|WET5048.txt|.|17|.|WET6021.txt|.|88

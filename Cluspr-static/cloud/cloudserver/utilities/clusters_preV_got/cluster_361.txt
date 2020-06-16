@@ -1,0 +1,12 @@
+361
+chinese english|.|WET2576.txt|.|8
+oxford|.|WET2575.txt|.|110|.|WET6314.txt|.|80|.|WET6313.txt|.|81
+english synonyms us|.|WET2575.txt|.|11
+synonyms|.|WET2575.txt|.|44|.|WET1103.txt|.|33|.|WET2576.txt|.|50|.|WET6314.txt|.|66
+english arabic|.|WET2576.txt|.|5
+oxford dictionaries community|.|WET2575.txt|.|33
+cite|.|WET2575.txt|.|35
+english synonyms|.|WET2576.txt|.|32
+quizzes|.|WET2575.txt|.|33|.|WET2947.txt|.|48
+usage new oxford|.|WET2575.txt|.|33
+scripts|.|WET1103.txt|.|33

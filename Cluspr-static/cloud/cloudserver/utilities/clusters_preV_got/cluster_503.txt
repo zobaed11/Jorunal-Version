@@ -1,0 +1,12 @@
+503
+pbs|.|WET2612.txt|.|24
+evan|.|WET667.txt|.|23
+jun|.|WET1801.txt|.|19|.|WET4163.txt|.|41|.|WET881.txt|.|19|.|WET3081.txt|.|41|.|WET3236.txt|.|18|.|WET191.txt|.|11|.|WET1180.txt|.|62
+eval|.|WET728.txt|.|146
+shonen|.|WET3236.txt|.|38
+germany|.|WET5644.txt|.|32
+nfl schedules|.|WET1801.txt|.|4
+instrument|.|WET2909.txt|.|24|.|WET577.txt|.|370
+accidents lawyers|.|WET2511.txt|.|11
+moab times|.|WET655.txt|.|15
+pbn|.|WET4487.txt|.|117

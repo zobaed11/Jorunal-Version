@@ -1,0 +1,12 @@
+584
+european championship division|.|WET1805.txt|.|48
+spanish fishing|.|WET355.txt|.|7
+quantity|.|WET1628.txt|.|170|.|WET1259.txt|.|552
+european|.|WET3306.txt|.|63|.|WET355.txt|.|31|.|WET1305.txt|.|11|.|WET5056.txt|.|23|.|WET5506.txt|.|63|.|WET5539.txt|.|53|.|WET1805.txt|.|170|.|WET1803.txt|.|78
+european championship|.|WET5539.txt|.|28|.|WET1805.txt|.|98
+european championshipfiba|.|WET1805.txt|.|72
+lowest price|.|WET5599.txt|.|99
+throw made|.|WET5539.txt|.|37
+senior junior|.|WET3306.txt|.|54
+senior championships|.|WET3306.txt|.|18
+sands|.|WET3210.txt|.|2|.|WET4482.txt|.|2|.|WET5344.txt|.|2|.|WET265.txt|.|2|.|WET5046.txt|.|2|.|WET4814.txt|.|2|.|WET1329.txt|.|1|.|WET3723.txt|.|2|.|WET1803.txt|.|1|.|WET4100.txt|.|2|.|WET743.txt|.|2|.|WET148.txt|.|2|.|WET4176.txt|.|2|.|WET130.txt|.|4|.|WET4149.txt|.|5|.|WET4021.txt|.|2

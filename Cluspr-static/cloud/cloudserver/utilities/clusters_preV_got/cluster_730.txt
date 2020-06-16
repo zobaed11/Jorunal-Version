@@ -1,0 +1,12 @@
+730
+stardock corporation|.|WET3294.txt|.|87|.|WET3293.txt|.|319
+pageviews|.|WET3745.txt|.|45
+desktop|.|WET1166.txt|.|22|.|WET4809.txt|.|41|.|WET4199.txt|.|16|.|WET3294.txt|.|96|.|WET4295.txt|.|54|.|WET551.txt|.|60|.|WET3293.txt|.|352|.|WET3745.txt|.|72|.|WET4920.txt|.|5
+formats|.|WET3745.txt|.|36
+kde desktop|.|WET4295.txt|.|18|.|WET551.txt|.|20
+corporation genre|.|WET4809.txt|.|13|.|WET3294.txt|.|39|.|WET3293.txt|.|143
+youworkforthem webfont|.|WET3745.txt|.|27
+monthly|.|WET6177.txt|.|19|.|WET3745.txt|.|45|.|WET4142.txt|.|28|.|WET5855.txt|.|22
+desktop website|.|WET3294.txt|.|36
+icons|.|WET3293.txt|.|143
+file formats|.|WET3745.txt|.|36

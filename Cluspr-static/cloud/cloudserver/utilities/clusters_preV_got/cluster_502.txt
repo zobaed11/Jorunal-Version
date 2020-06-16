@@ -1,0 +1,12 @@
+502
+houston zoo|.|WET2037.txt|.|54
+san diego|.|WET2820.txt|.|28|.|WET2819.txt|.|58|.|WET874.txt|.|93|.|WET4613.txt|.|16|.|WET3172.txt|.|38|.|WET2998.txt|.|9|.|WET2818.txt|.|53
+diego chargers|.|WET2820.txt|.|21|.|WET874.txt|.|87
+plumes|.|WET5319.txt|.|4
+missing information|.|WET874.txt|.|7|.|WET4611.txt|.|6|.|WET872.txt|.|9|.|WET5525.txt|.|2
+missing|.|WET4853.txt|.|11|.|WET874.txt|.|14|.|WET4611.txt|.|12|.|WET872.txt|.|18|.|WET2291.txt|.|4|.|WET2289.txt|.|16|.|WET5525.txt|.|4
+university of illinois|.|WET506.txt|.|18
+delhi|.|WET510.txt|.|106
+flat rate|.|WET874.txt|.|13
+cleveland|.|WET1497.txt|.|42|.|WET874.txt|.|96|.|WET4614.txt|.|101
+cynthiana democrat|.|WET5338.txt|.|19

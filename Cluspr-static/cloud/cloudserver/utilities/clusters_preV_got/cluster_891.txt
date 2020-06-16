@@ -1,0 +1,12 @@
+891
+food food|.|WET3683.txt|.|22
+using facebook|.|WET3683.txt|.|22
+corral|.|WET1666.txt|.|11
+cat and dog|.|WET1666.txt|.|15
+pet profile|.|WET3683.txt|.|22
+grooming|.|WET1666.txt|.|13
+pal|.|WET1666.txt|.|12
+training dog|.|WET1666.txt|.|11
+grooming answers dog|.|WET1666.txt|.|10
+dog|.|WET3684.txt|.|69|.|WET2635.txt|.|56|.|WET2640.txt|.|110|.|WET903.txt|.|27|.|WET4050.txt|.|58|.|WET1666.txt|.|196|.|WET1969.txt|.|20|.|WET5411.txt|.|20|.|WET2638.txt|.|205|.|WET6275.txt|.|47|.|WET1776.txt|.|66|.|WET3683.txt|.|202
+breed|.|WET2638.txt|.|20|.|WET2026.txt|.|7|.|WET3683.txt|.|83

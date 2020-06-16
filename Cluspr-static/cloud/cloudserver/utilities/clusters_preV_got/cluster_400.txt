@@ -1,0 +1,12 @@
+400
+november|.|WET270.txt|.|40|.|WET1988.txt|.|7|.|WET4289.txt|.|125|.|WET803.txt|.|304|.|WET1198.txt|.|31|.|WET5009.txt|.|107|.|WET25.txt|.|135
+registry|.|WET3245.txt|.|50|.|WET2996.txt|.|26|.|WET2995.txt|.|221|.|WET3272.txt|.|105
+jump shot|.|WET5539.txt|.|111
+stakes|.|WET2028.txt|.|102|.|WET5770.txt|.|66|.|WET2029.txt|.|112
+hip hop|.|WET70.txt|.|4|.|WET25.txt|.|8
+arctic|.|WET6107.txt|.|59|.|WET5698.txt|.|23
+hop|.|WET70.txt|.|4|.|WET25.txt|.|8
+pacer|.|WET3431.txt|.|38
+crave magazine|.|WET5218.txt|.|58
+hikers|.|WET85.txt|.|2
+ireland|.|WET2108.txt|.|205|.|WET1277.txt|.|25

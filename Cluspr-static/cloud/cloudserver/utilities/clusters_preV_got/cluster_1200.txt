@@ -1,0 +1,12 @@
+1200
+arrivals|.|WET6007.txt|.|31|.|WET3358.txt|.|11|.|WET6201.txt|.|24|.|WET5957.txt|.|61|.|WET1703.txt|.|33|.|WET3063.txt|.|66|.|WET2368.txt|.|24|.|WET5340.txt|.|24|.|WET1788.txt|.|45|.|WET4753.txt|.|60|.|WET3355.txt|.|13|.|WET2658.txt|.|48|.|WET1976.txt|.|66|.|WET3227.txt|.|50|.|WET5523.txt|.|47|.|WET6103.txt|.|28|.|WET5886.txt|.|11|.|WET151.txt|.|55|.|WET2726.txt|.|94|.|WET6008.txt|.|33|.|WET5434.txt|.|16|.|WET2367.txt|.|55|.|WET2220.txt|.|62|.|WET3127.txt|.|76
+shop new|.|WET1703.txt|.|22
+arrivals most popular|.|WET3127.txt|.|72
+republic|.|WET6201.txt|.|24|.|WET1613.txt|.|13
+shirts sweaters|.|WET4753.txt|.|10
+popular featured brands|.|WET3127.txt|.|66
+shop new arrivals|.|WET1703.txt|.|22
+tanks|.|WET3063.txt|.|66|.|WET2145.txt|.|28|.|WET1817.txt|.|15|.|WET5778.txt|.|24
+scenes clips|.|WET3222.txt|.|52
+states canada united|.|WET1703.txt|.|11
+wear to work|.|WET1703.txt|.|23

@@ -1,0 +1,12 @@
+738
+legal question|.|WET2231.txt|.|12
+head coach|.|WET4374.txt|.|72
+soccer jerseys|.|WET4632.txt|.|6
+humane society|.|WET2042.txt|.|8
+cheathanging|.|WET1165.txt|.|20
+angiogenesis|.|WET5873.txt|.|26
+el poder|.|WET2428.txt|.|19
+bestellung|.|WET3508.txt|.|50
+pill|.|WET2807.txt|.|24
+flow|.|WET1970.txt|.|84|.|WET6089.txt|.|9
+view compare|.|WET1952.txt|.|9

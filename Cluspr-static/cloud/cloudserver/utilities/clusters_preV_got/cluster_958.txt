@@ -1,0 +1,12 @@
+958
+view space|.|WET1562.txt|.|52
+solverscrabble cheatscrabble board|.|WET1165.txt|.|10
+captain joined|.|WET1562.txt|.|12
+park ave|.|WET1252.txt|.|44
+activities|.|WET1562.txt|.|17
+radio fox nation|.|WET1851.txt|.|22
+preceded|.|WET1252.txt|.|126
+friends|.|WET1105.txt|.|63|.|WET1851.txt|.|34|.|WET6015.txt|.|40|.|WET1068.txt|.|9|.|WET3351.txt|.|183|.|WET3033.txt|.|11|.|WET1165.txt|.|78|.|WET4857.txt|.|15|.|WET1562.txt|.|53|.|WET6014.txt|.|40|.|WET1252.txt|.|159|.|WET5514.txt|.|20|.|WET6140.txt|.|22
+cheathanging with friends|.|WET1165.txt|.|20
+cheatscrabble|.|WET1165.txt|.|10
+solvers|.|WET1165.txt|.|10

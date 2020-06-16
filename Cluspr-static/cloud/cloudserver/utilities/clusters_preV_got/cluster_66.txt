@@ -1,0 +1,12 @@
+66
+forums backtrack|.|WET1242.txt|.|16
+frequently|.|WET4993.txt|.|16
+new backtrack|.|WET1242.txt|.|9
+final|.|WET1813.txt|.|50|.|WET1242.txt|.|46
+final old|.|WET1242.txt|.|25
+frequently asked questions|.|WET4993.txt|.|16
+archives old|.|WET1242.txt|.|14
+trucker hat|.|WET4992.txt|.|3
+compatibility|.|WET4993.txt|.|16
+backtrack news old|.|WET4993.txt|.|8
+backtrack|.|WET814.txt|.|1|.|WET4992.txt|.|82|.|WET3400.txt|.|1|.|WET4993.txt|.|372|.|WET1242.txt|.|366

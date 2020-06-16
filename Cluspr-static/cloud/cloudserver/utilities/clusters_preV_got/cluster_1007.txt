@@ -1,0 +1,12 @@
+1007
+palace|.|WET2271.txt|.|76
+att|.|WET4670.txt|.|52
+mother|.|WET1819.txt|.|21|.|WET4647.txt|.|32
+zip codes|.|WET4853.txt|.|22
+read more or comment|.|WET6274.txt|.|329
+overlay|.|WET1009.txt|.|11
+namo|.|WET6080.txt|.|25
+talentspopular|.|WET4212.txt|.|9
+pearl gold silver|.|WET3354.txt|.|33
+popular|.|WET3815.txt|.|152|.|WET4702.txt|.|121|.|WET3616.txt|.|36|.|WET1928.txt|.|27|.|WET4212.txt|.|8|.|WET963.txt|.|97|.|WET2431.txt|.|368|.|WET3354.txt|.|44|.|WET70.txt|.|166|.|WET447.txt|.|28|.|WET69.txt|.|113|.|WET6173.txt|.|372|.|WET6174.txt|.|372|.|WET6090.txt|.|18|.|WET3127.txt|.|78
+results|.|WET293.txt|.|35|.|WET1549.txt|.|31|.|WET4660.txt|.|11|.|WET2945.txt|.|145|.|WET3770.txt|.|55|.|WET2240.txt|.|69|.|WET4029.txt|.|19|.|WET2794.txt|.|20|.|WET2944.txt|.|279|.|WET821.txt|.|2623|.|WET2437.txt|.|10|.|WET923.txt|.|11|.|WET1359.txt|.|7|.|WET3467.txt|.|15

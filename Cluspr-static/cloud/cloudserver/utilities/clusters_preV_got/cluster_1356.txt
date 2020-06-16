@@ -1,0 +1,12 @@
+1356
+anonimowy|.|WET3843.txt|.|50
+bug|.|WET4019.txt|.|185|.|WET739.txt|.|17|.|WET4077.txt|.|10
+implementation meeting|.|WET246.txt|.|5
+usa wrestling|.|WET3016.txt|.|13
+dealers|.|WET3339.txt|.|11|.|WET1724.txt|.|388
+deleted set|.|WET2707.txt|.|66
+wed apr|.|WET1845.txt|.|21
+main|.|WET3654.txt|.|6|.|WET2506.txt|.|95|.|WET6123.txt|.|58|.|WET4226.txt|.|41|.|WET2200.txt|.|25|.|WET3969.txt|.|51|.|WET3057.txt|.|20|.|WET3950.txt|.|183|.|WET3859.txt|.|24|.|WET143.txt|.|16|.|WET113.txt|.|69|.|WET4717.txt|.|26|.|WET4014.txt|.|11|.|WET2505.txt|.|112|.|WET2625.txt|.|130|.|WET1062.txt|.|8|.|WET6239.txt|.|132|.|WET6112.txt|.|6|.|WET201.txt|.|156|.|WET6062.txt|.|69|.|WET101.txt|.|155|.|WET4660.txt|.|11|.|WET157.txt|.|23|.|WET6240.txt|.|94|.|WET119.txt|.|143|.|WET3063.txt|.|11|.|WET4766.txt|.|67|.|WET115.txt|.|89|.|WET1063.txt|.|12|.|WET3974.txt|.|12|.|WET479.txt|.|131|.|WET1497.txt|.|138|.|WET202.txt|.|151|.|WET3004.txt|.|144|.|WET102.txt|.|24|.|WET1131.txt|.|52|.|WET3860.txt|.|58|.|WET2560.txt|.|98|.|WET3847.txt|.|176|.|WET114.txt|.|28|.|WET4077.txt|.|18|.|WET203.txt|.|286|.|WET3949.txt|.|173|.|WET110.txt|.|56
+user initiated|.|WET5528.txt|.|2
+small cap|.|WET101.txt|.|10
+frequency|.|WET3434.txt|.|449

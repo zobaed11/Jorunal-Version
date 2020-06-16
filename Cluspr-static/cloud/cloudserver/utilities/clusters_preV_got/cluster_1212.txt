@@ -1,0 +1,12 @@
+1212
+illinois university edwardsville|.|WET213.txt|.|120
+drexel|.|WET4371.txt|.|22
+university|.|WET282.txt|.|29|.|WET227.txt|.|656|.|WET290.txt|.|96|.|WET4026.txt|.|43|.|WET948.txt|.|30|.|WET1972.txt|.|29|.|WET286.txt|.|211|.|WET3976.txt|.|299|.|WET4327.txt|.|104|.|WET4036.txt|.|222|.|WET3960.txt|.|530|.|WET2779.txt|.|26|.|WET213.txt|.|1052|.|WET1319.txt|.|38|.|WET4371.txt|.|22|.|WET292.txt|.|262|.|WET4477.txt|.|39|.|WET506.txt|.|18|.|WET4062.txt|.|257|.|WET2579.txt|.|48|.|WET3970.txt|.|12|.|WET3927.txt|.|163|.|WET212.txt|.|523|.|WET2746.txt|.|9|.|WET3166.txt|.|147
+cat|.|WET2635.txt|.|54|.|WET1666.txt|.|39|.|WET6107.txt|.|57|.|WET2638.txt|.|68
+xavier|.|WET212.txt|.|36
+edwardsville|.|WET3960.txt|.|60|.|WET213.txt|.|120|.|WET212.txt|.|60
+lewis university|.|WET3960.txt|.|61|.|WET213.txt|.|118|.|WET212.txt|.|57
+mission photography archive|.|WET292.txt|.|32
+university of louisville|.|WET286.txt|.|144
+wesleyan university|.|WET3960.txt|.|39
+digital collection|.|WET227.txt|.|257|.|WET4031.txt|.|10|.|WET3973.txt|.|145|.|WET3974.txt|.|72

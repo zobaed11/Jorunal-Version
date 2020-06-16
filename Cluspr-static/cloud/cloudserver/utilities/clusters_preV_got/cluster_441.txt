@@ -1,0 +1,12 @@
+441
+tapenade|.|WET4760.txt|.|9
+army|.|WET185.txt|.|80|.|WET367.txt|.|120|.|WET1931.txt|.|78|.|WET1485.txt|.|98|.|WET6075.txt|.|90
+orange mane|.|WET2557.txt|.|66|.|WET6296.txt|.|46|.|WET6297.txt|.|53|.|WET2558.txt|.|66
+ekstra|.|WET4073.txt|.|107
+user amount|.|WET3382.txt|.|12
+uncle|.|WET367.txt|.|14
+ignore exact|.|WET357.txt|.|7
+vbulletin|.|WET2724.txt|.|15|.|WET2328.txt|.|27|.|WET5223.txt|.|40|.|WET2797.txt|.|36|.|WET2094.txt|.|33|.|WET396.txt|.|32|.|WET6069.txt|.|33|.|WET3087.txt|.|44|.|WET5257.txt|.|22|.|WET579.txt|.|28|.|WET1471.txt|.|36
+october|.|WET1988.txt|.|7|.|WET357.txt|.|86|.|WET4760.txt|.|43|.|WET247.txt|.|31|.|WET367.txt|.|224|.|WET3382.txt|.|184|.|WET3167.txt|.|84
+husband|.|WET2770.txt|.|26|.|WET367.txt|.|72
+matches|.|WET357.txt|.|7

@@ -1,0 +1,12 @@
+52
+comic books|.|WET5280.txt|.|49|.|WET5279.txt|.|90|.|WET1530.txt|.|59|.|WET1528.txt|.|84|.|WET1529.txt|.|88
+resources comic book resources|.|WET1529.txt|.|22
+comic book resources comic book|.|WET1529.txt|.|22
+reviews dark|.|WET1530.txt|.|14
+cbr blogs|.|WET1530.txt|.|14
+marvel comics|.|WET5280.txt|.|30|.|WET1530.txt|.|35|.|WET1528.txt|.|71
+comic book resources comic|.|WET1529.txt|.|22
+image comics|.|WET5279.txt|.|65
+idw publishing image comics|.|WET5280.txt|.|24|.|WET1530.txt|.|28
+idw|.|WET5280.txt|.|25|.|WET1530.txt|.|28
+comic book resources find|.|WET1529.txt|.|11

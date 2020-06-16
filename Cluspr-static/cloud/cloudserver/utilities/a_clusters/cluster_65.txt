@@ -1,0 +1,23 @@
+65
+link layer assisted|.|rfc4362.txt|.|1
+hash based|.|rfc5475.txt|.|1
+deep inspection engine|.|rfc5879.txt|.|4
+parameter is set|.|rfc4362.txt|.|4|.|rfc3242.txt|.|4
+connection on the network|.|rfc5562.txt|.|2
+order packets|.|rfc4737.txt|.|1
+simultaneous|.|rfc5596.txt|.|2
+packet|.|rfc3583.txt|.|29|.|rfc5087.txt|.|115|.|rfc5506.txt|.|57|.|rfc4362.txt|.|132|.|rfc5905.txt|.|229|.|rfc2362.txt|.|103|.|rfc2338.txt|.|36|.|rfc2680.txt|.|72|.|rfc6028.txt|.|54|.|rfc4842.txt|.|76|.|rfc5204.txt|.|21|.|rfc626.txt|.|21|.|rfc4247.txt|.|29|.|rfc5709.txt|.|22|.|rfc3336.txt|.|35|.|rfc4761.txt|.|31|.|rfc3954.txt|.|67|.|rfc6085.txt|.|7|.|rfc5348.txt|.|227|.|rfc5695.txt|.|35|.|rfc3158.txt|.|66|.|rfc5474.txt|.|251|.|rfc5560.txt|.|65|.|rfc5476.txt|.|177|.|rfc5188.txt|.|21|.|rfc4737.txt|.|258|.|rfc3095.txt|.|457|.|rfc5109.txt|.|206|.|rfc3016.txt|.|72|.|rfc3242.txt|.|122|.|rfc5508.txt|.|123|.|rfc3109.txt|.|1|.|rfc2516.txt|.|37|.|rfc2992.txt|.|8|.|rfc4326.txt|.|114|.|rfc2153.txt|.|9|.|rfc2038.txt|.|26|.|rfc6038.txt|.|92|.|rfc5596.txt|.|75|.|rfc2341.txt|.|76|.|rfc2960.txt|.|186|.|rfc6049.txt|.|26|.|rfc3031.txt|.|161|.|rfc5227.txt|.|44|.|rfc5570.txt|.|110|.|rfc5481.txt|.|117|.|rfc4588.txt|.|129|.|rfc2740.txt|.|125|.|rfc5820.txt|.|35|.|rfc3714.txt|.|117|.|rfc2448.txt|.|17|.|rfc3448.txt|.|106|.|rfc4385.txt|.|53|.|rfc4342.txt|.|119|.|rfc5624.txt|.|3|.|rfc6015.txt|.|107|.|rfc3917.txt|.|58|.|rfc5058.txt|.|104|.|rfc5129.txt|.|63|.|rfc5562.txt|.|205|.|rfc3518.txt|.|33|.|rfc6284.txt|.|51|.|rfc3768.txt|.|30|.|rfc5577.txt|.|18|.|rfc2416.txt|.|30|.|rfc5534.txt|.|46|.|rfc5216.txt|.|42|.|rfc4586.txt|.|44|.|rfc3360.txt|.|63|.|rfc4351.txt|.|33|.|rfc3550.txt|.|416|.|rfc5357.txt|.|77|.|rfc3247.txt|.|94|.|rfc6145.txt|.|135|.|rfc4996.txt|.|185|.|rfc4919.txt|.|15|.|rfc4298.txt|.|37|.|rfc3558.txt|.|94|.|rfc2833.txt|.|30|.|rfc3290.txt|.|106|.|rfc2185.txt|.|53|.|rfc5841.txt|.|38|.|rfc5795.txt|.|128|.|rfc4019.txt|.|81|.|rfc3639.txt|.|14|.|rfc5574.txt|.|18|.|rfc2507.txt|.|193|.|rfc1991.txt|.|128|.|rfc6078.txt|.|128|.|rfc2647.txt|.|23|.|rfc5647.txt|.|24|.|rfc5770.txt|.|73|.|rfc3947.txt|.|35|.|rfc5584.txt|.|72|.|rfc5371.txt|.|94|.|rfc2823.txt|.|41|.|rfc5477.txt|.|59|.|rfc6274.txt|.|243|.|rfc4302.txt|.|110|.|rfc2497.txt|.|2|.|rfc3047.txt|.|15|.|rfc3890.txt|.|34|.|rfc2440.txt|.|234|.|rfc5444.txt|.|161|.|rfc2582.txt|.|29|.|rfc2309.txt|.|39|.|rfc5475.txt|.|280|.|rfc3843.txt|.|42|.|rfc6146.txt|.|195|.|rfc3545.txt|.|79|.|rfc442.txt|.|29|.|rfc5332.txt|.|41|.|rfc2481.txt|.|141|.|rfc3782.txt|.|41|.|rfc5219.txt|.|28|.|rfc3952.txt|.|24|.|rfc5236.txt|.|176|.|rfc5121.txt|.|38|.|rfc2641.txt|.|17|.|rfc4828.txt|.|311|.|rfc4164.txt|.|85|.|rfc2189.txt|.|49|.|rfc5879.txt|.|166|.|rfc3579.txt|.|77|.|rfc3032.txt|.|73|.|rfc5960.txt|.|39|.|rfc2129.txt|.|34|.|rfc5473.txt|.|44|.|rfc2473.txt|.|273|.|rfc3393.txt|.|91|.|rfc3293.txt|.|10|.|rfc4890.txt|.|35|.|rfc4585.txt|.|143|.|rfc4459.txt|.|45|.|rfc2351.txt|.|32|.|rfc4619.txt|.|26|.|rfc5516.txt|.|8|.|rfc632.txt|.|11|.|rfc5215.txt|.|69|.|rfc4788.txt|.|30|.|rfc2759.txt|.|40|.|rfc5202.txt|.|97|.|rfc4813.txt|.|13|.|rfc2733.txt|.|144|.|rfc547.txt|.|26|.|rfc2793.txt|.|29|.|rfc4224.txt|.|89|.|rfc5644.txt|.|146|.|rfc3551.txt|.|58|.|rfc3711.txt|.|135
+rohc tcp|.|rfc4996.txt|.|3
+ecn capable packet|.|rfc2481.txt|.|1
+listen packet|.|rfc5596.txt|.|1
+processing the time|.|rfc3032.txt|.|2
+rules for allocation|.|rfc6146.txt|.|4
+dccp request|.|rfc5596.txt|.|1
+translators and mixers|.|rfc3550.txt|.|13
+current flow|.|rfc442.txt|.|1
+packet word|.|rfc547.txt|.|1
+exit point|.|rfc2473.txt|.|2
+dccp listen|.|rfc5596.txt|.|1
+changes the context|.|rfc2507.txt|.|3
+esp null|.|rfc5879.txt|.|4
+ir cr|.|rfc4164.txt|.|1

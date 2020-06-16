@@ -1,0 +1,12 @@
+925
+keywords to search|.|WET1063.txt|.|7
+employment cost index|.|WET4003.txt|.|6
+earnings|.|WET2310.txt|.|63|.|WET4003.txt|.|23
+dual|.|WET1063.txt|.|11
+regional campuses|.|WET1063.txt|.|9
+asia|.|WET1508.txt|.|50|.|WET260.txt|.|24|.|WET6288.txt|.|53|.|WET62.txt|.|36
+employment|.|WET1143.txt|.|72|.|WET4891.txt|.|44|.|WET4003.txt|.|99|.|WET260.txt|.|86|.|WET2243.txt|.|6|.|WET1063.txt|.|45|.|WET2165.txt|.|49|.|WET5087.txt|.|88|.|WET5195.txt|.|33|.|WET2905.txt|.|19|.|WET3612.txt|.|13|.|WET1590.txt|.|11|.|WET1361.txt|.|32
+virtual tour|.|WET1063.txt|.|9|.|WET4591.txt|.|6
+workers|.|WET5087.txt|.|56|.|WET5195.txt|.|23
+campuses|.|WET1063.txt|.|19
+statistics|.|WET294.txt|.|6|.|WET4271.txt|.|29|.|WET5859.txt|.|16|.|WET1781.txt|.|48|.|WET4003.txt|.|33|.|WET260.txt|.|7|.|WET3045.txt|.|23|.|WET1647.txt|.|5|.|WET5087.txt|.|16|.|WET4103.txt|.|24|.|WET259.txt|.|7

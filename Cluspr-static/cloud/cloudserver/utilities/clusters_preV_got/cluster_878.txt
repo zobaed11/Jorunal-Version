@@ -1,0 +1,12 @@
+878
+wedding dresses|.|WET2005.txt|.|21|.|WET2548.txt|.|5
+reward|.|WET5220.txt|.|24
+fluorescent protein|.|WET5254.txt|.|130
+jurassic world|.|WET4617.txt|.|7
+bookshare|.|WET3585.txt|.|63
+qualifying|.|WET5976.txt|.|24
+geekzone|.|WET1896.txt|.|29
+hombres|.|WET6117.txt|.|26
+ear|.|WET5734.txt|.|4|.|WET1993.txt|.|22|.|WET1992.txt|.|24|.|WET5064.txt|.|27
+eat|.|WET5243.txt|.|8|.|WET2803.txt|.|20|.|WET2989.txt|.|73
+juice|.|WET1400.txt|.|14|.|WET5431.txt|.|29

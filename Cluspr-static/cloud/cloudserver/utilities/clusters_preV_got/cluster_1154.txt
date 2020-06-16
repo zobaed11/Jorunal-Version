@@ -1,0 +1,12 @@
+1154
+ratingslogin|.|WET5376.txt|.|76
+stars compare|.|WET2838.txt|.|20
+vacation packages|.|WET3727.txt|.|22
+foodie buzz|.|WET2561.txt|.|18
+mi yodeya|.|WET545.txt|.|38
+taxon|.|WET2308.txt|.|24
+free shortcake|.|WET3900.txt|.|6
+usage stack|.|WET4083.txt|.|23
+britannica|.|WET1370.txt|.|39
+lq blog view|.|WET3660.txt|.|8
+lclow|.|WET5567.txt|.|73

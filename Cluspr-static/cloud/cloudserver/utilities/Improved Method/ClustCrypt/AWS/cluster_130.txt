@@ -1,0 +1,15 @@
+hardware shop|.|WET1113.txt|.|32
+ceiling fans|.|WET1113.txt|.|56
+outdoor dining chairs|.|WET4840.txt|.|8
+decorative|.|WET4958.txt|.|21
+trade program|.|WET4840.txt|.|24
+backtracks|.|WET1113.txt|.|4|.|WET5286.txt|.|2
+digitally|.|WET4958.txt|.|50
+table lamp|.|WET4840.txt|.|49|.|WET5953.txt|.|33
+wall plates|.|WET1113.txt|.|40
+collectable|.|WET1202.txt|.|28
+desk lamps|.|WET5953.txt|.|17
+sheds|.|WET1113.txt|.|40
+wall murals|.|WET1202.txt|.|12
+wall|.|WET3174.txt|.|17|.|WET4840.txt|.|68|.|WET1202.txt|.|63|.|WET4958.txt|.|93|.|WET1385.txt|.|33|.|WET5953.txt|.|102|.|WET1113.txt|.|131
+digitally printed|.|WET4958.txt|.|50

@@ -1,0 +1,12 @@
+701
+andre|.|WET1808.txt|.|128|.|WET5540.txt|.|97
+background|.|WET3737.txt|.|19|.|WET450.txt|.|4|.|WET3625.txt|.|10|.|WET3710.txt|.|110|.|WET2769.txt|.|714|.|WET4280.txt|.|1|.|WET4263.txt|.|1|.|WET4195.txt|.|4|.|WET535.txt|.|1
+opens a flyout|.|WET3009.txt|.|13
+entertainment news|.|WET2469.txt|.|8
+systems integration|.|WET3710.txt|.|42|.|WET465.txt|.|2
+orhan pamuk|.|WET4082.txt|.|7
+personal details|.|WET3625.txt|.|10
+dictionnaire|.|WET2222.txt|.|44|.|WET5960.txt|.|68
+credit reporting|.|WET3627.txt|.|12|.|WET1571.txt|.|11
+portuguese russian spanish|.|WET3138.txt|.|9
+rocky|.|WET2788.txt|.|45|.|WET2787.txt|.|187

@@ -1,0 +1,12 @@
+1239
+patrol|.|WET3259.txt|.|12
+weather service|.|WET4126.txt|.|40|.|WET387.txt|.|37|.|WET388.txt|.|27|.|WET4127.txt|.|35
+election headquarters local|.|WET3259.txt|.|6
+detailed|.|WET3303.txt|.|24
+reinstate income|.|WET566.txt|.|12
+reinstate|.|WET566.txt|.|12
+hg precipitation|.|WET3260.txt|.|156
+climate|.|WET3261.txt|.|30|.|WET3260.txt|.|35
+national weather|.|WET388.txt|.|27|.|WET4127.txt|.|35
+news your local|.|WET3259.txt|.|6
+news organization|.|WET4126.txt|.|9|.|WET387.txt|.|8|.|WET3159.txt|.|2|.|WET388.txt|.|6|.|WET4127.txt|.|8

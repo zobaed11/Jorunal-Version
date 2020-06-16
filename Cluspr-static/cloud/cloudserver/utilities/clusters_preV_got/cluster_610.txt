@@ -1,0 +1,12 @@
+610
+fiero|.|WET3916.txt|.|51
+tools xtools|.|WET3916.txt|.|68|.|WET169.txt|.|40
+true cost|.|WET5468.txt|.|6
+mini|.|WET3915.txt|.|75
+fraud|.|WET4050.txt|.|55|.|WET3916.txt|.|68|.|WET169.txt|.|40
+optional|.|WET3915.txt|.|30|.|WET1148.txt|.|15|.|WET2608.txt|.|16|.|WET772.txt|.|9
+used cars|.|WET4978.txt|.|38|.|WET4979.txt|.|29|.|WET3915.txt|.|117|.|WET1428.txt|.|91|.|WET5468.txt|.|8|.|WET3916.txt|.|111|.|WET169.txt|.|57|.|WET1725.txt|.|26
+respond|.|WET3916.txt|.|68|.|WET169.txt|.|40
+cd system|.|WET3915.txt|.|18
+pontiac|.|WET3916.txt|.|56
+respond stop|.|WET3916.txt|.|68|.|WET169.txt|.|40

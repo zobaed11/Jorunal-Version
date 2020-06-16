@@ -1,0 +1,12 @@
+1125
+opposition|.|WET4784.txt|.|13
+nbc sports|.|WET791.txt|.|8
+syrian opposition|.|WET4784.txt|.|6
+yang|.|WET65.txt|.|555|.|WET3030.txt|.|57|.|WET2969.txt|.|37|.|WET3490.txt|.|353|.|WET2223.txt|.|75|.|WET4368.txt|.|118|.|WET259.txt|.|61
+hardware compatibility list|.|WET4993.txt|.|16
+policy terms|.|WET791.txt|.|4
+aircraft families|.|WET4881.txt|.|21
+aquatic|.|WET4946.txt|.|12
+says|.|WET4209.txt|.|2|.|WET1218.txt|.|116|.|WET1746.txt|.|12|.|WET3940.txt|.|17|.|WET791.txt|.|103|.|WET4173.txt|.|241|.|WET146.txt|.|1|.|WET4784.txt|.|91|.|WET896.txt|.|1281|.|WET3872.txt|.|15|.|WET2150.txt|.|43|.|WET2515.txt|.|17|.|WET3946.txt|.|3|.|WET2091.txt|.|1|.|WET555.txt|.|42|.|WET134.txt|.|3|.|WET549.txt|.|28|.|WET4393.txt|.|5|.|WET4696.txt|.|4|.|WET4311.txt|.|38
+cape|.|WET1422.txt|.|104
+afc|.|WET791.txt|.|6

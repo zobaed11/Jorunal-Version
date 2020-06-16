@@ -1,0 +1,12 @@
+1192
+climbing areas|.|WET5251.txt|.|9
+rosters|.|WET3045.txt|.|20
+snot|.|WET1593.txt|.|9
+season|.|WET5692.txt|.|12|.|WET959.txt|.|63|.|WET432.txt|.|24|.|WET1781.txt|.|46|.|WET913.txt|.|20|.|WET2217.txt|.|16|.|WET4970.txt|.|28|.|WET853.txt|.|24|.|WET3842.txt|.|27|.|WET1083.txt|.|150|.|WET1382.txt|.|43|.|WET4415.txt|.|15|.|WET4835.txt|.|150|.|WET6227.txt|.|19|.|WET2490.txt|.|30|.|WET436.txt|.|26|.|WET1702.txt|.|28|.|WET3051.txt|.|20|.|WET4123.txt|.|18|.|WET4765.txt|.|33|.|WET3045.txt|.|24|.|WET1356.txt|.|36|.|WET5404.txt|.|196|.|WET3274.txt|.|31
+baseball season|.|WET3045.txt|.|15
+trek worstof|.|WET5404.txt|.|12
+menswear|.|WET5692.txt|.|16
+lancaster archery|.|WET2217.txt|.|131
+free items|.|WET853.txt|.|18
+sediment|.|WET1382.txt|.|38
+dekomori|.|WET4415.txt|.|8

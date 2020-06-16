@@ -1,0 +1,12 @@
+1106
+action reports|.|WET2324.txt|.|220
+maintenance is ratified|.|WET577.txt|.|368
+hague convention|.|WET577.txt|.|368
+scenario design|.|WET2324.txt|.|42
+instrument of ratification|.|WET577.txt|.|289
+opponents|.|WET2324.txt|.|206
+borrower|.|WET3655.txt|.|13
+automated action|.|WET4770.txt|.|8
+binocular|.|WET5069.txt|.|10
+family maintenance|.|WET577.txt|.|369
+support|.|WET6134.txt|.|14|.|WET2795.txt|.|19|.|WET4770.txt|.|16|.|WET5069.txt|.|41|.|WET3716.txt|.|24|.|WET2165.txt|.|17|.|WET1319.txt|.|20|.|WET345.txt|.|98|.|WET2504.txt|.|8|.|WET4824.txt|.|22|.|WET2103.txt|.|18|.|WET5309.txt|.|38|.|WET5358.txt|.|95|.|WET746.txt|.|51|.|WET4045.txt|.|277|.|WET3655.txt|.|11|.|WET5326.txt|.|39|.|WET2324.txt|.|292|.|WET577.txt|.|731

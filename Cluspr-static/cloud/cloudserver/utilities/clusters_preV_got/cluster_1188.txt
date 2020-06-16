@@ -1,0 +1,12 @@
+1188
+lehigh valley|.|WET578.txt|.|12
+user talk|.|WET3903.txt|.|5
+green bay|.|WET2582.txt|.|138
+bulbagarden archives|.|WET3903.txt|.|9
+complete profile|.|WET578.txt|.|4
+green bay packers|.|WET2582.txt|.|128
+talk|.|WET2582.txt|.|107|.|WET4223.txt|.|77|.|WET1055.txt|.|42|.|WET578.txt|.|28|.|WET67.txt|.|22|.|WET3007.txt|.|7|.|WET4805.txt|.|43|.|WET1664.txt|.|307|.|WET2954.txt|.|27|.|WET5984.txt|.|54|.|WET3903.txt|.|107|.|WET394.txt|.|33|.|WET2666.txt|.|47|.|WET1081.txt|.|17|.|WET477.txt|.|70|.|WET1702.txt|.|82|.|WET2968.txt|.|44|.|WET3428.txt|.|42|.|WET4224.txt|.|51|.|WET4473.txt|.|43|.|WET4672.txt|.|11|.|WET1073.txt|.|27|.|WET4049.txt|.|50
+dodge durango|.|WET1664.txt|.|62
+nietzsche|.|WET5984.txt|.|19
+dodge truck|.|WET1664.txt|.|32
+talk dodge|.|WET1664.txt|.|88

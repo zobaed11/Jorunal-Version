@@ -1,0 +1,12 @@
+1341
+wrapping paper|.|WET2593.txt|.|77
+shower invitations|.|WET2973.txt|.|77
+cards|.|WET5086.txt|.|67|.|WET1671.txt|.|15|.|WET876.txt|.|190|.|WET3357.txt|.|54|.|WET2816.txt|.|160|.|WET5235.txt|.|36|.|WET3717.txt|.|49|.|WET4502.txt|.|113|.|WET3147.txt|.|99|.|WET1333.txt|.|46|.|WET2995.txt|.|44|.|WET3302.txt|.|56|.|WET1278.txt|.|5|.|WET5084.txt|.|40|.|WET3244.txt|.|99|.|WET4616.txt|.|189|.|WET2973.txt|.|268|.|WET5023.txt|.|138|.|WET5037.txt|.|72|.|WET2593.txt|.|894|.|WET4503.txt|.|64|.|WET5333.txt|.|127|.|WET3597.txt|.|35|.|WET5405.txt|.|8|.|WET3355.txt|.|20|.|WET1407.txt|.|28|.|WET5679.txt|.|58|.|WET2844.txt|.|44|.|WET3131.txt|.|63|.|WET5085.txt|.|30|.|WET2144.txt|.|34|.|WET2594.txt|.|243|.|WET1335.txt|.|27|.|WET915.txt|.|48|.|WET1941.txt|.|60|.|WET2188.txt|.|28|.|WET3356.txt|.|54|.|WET4869.txt|.|72|.|WET6008.txt|.|41|.|WET4750.txt|.|146|.|WET1272.txt|.|223
+convertibles|.|WET5333.txt|.|10
+graduation|.|WET2593.txt|.|84|.|WET2431.txt|.|22
+cunas|.|WET5333.txt|.|12
+cunas convertibles|.|WET5333.txt|.|9
+pet sympathy cards|.|WET2593.txt|.|11
+cards gifts|.|WET2594.txt|.|18
+birthday invitations|.|WET2973.txt|.|84
+sports cards|.|WET3131.txt|.|27

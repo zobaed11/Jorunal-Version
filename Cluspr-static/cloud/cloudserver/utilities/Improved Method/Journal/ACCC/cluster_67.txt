@@ -1,0 +1,51 @@
+67
+woven|.|WET5804.txt|.|43|.|WET445.txt|.|34
+signature collection|.|WET5011.txt|.|14
+body|.|WET3629.txt|.|109|.|WET2732.txt|.|55|.|WET1839.txt|.|47|.|WET5010.txt|.|294|.|WET1260.txt|.|69|.|WET2985.txt|.|75|.|WET5011.txt|.|284|.|WET2073.txt|.|53|.|WET5815.txt|.|47|.|WET1325.txt|.|14
+wick|.|WET5011.txt|.|132
+gentle|.|WET1260.txt|.|97
+faucets|.|WET1798.txt|.|174|.|WET4615.txt|.|70
+bathroom|.|WET1798.txt|.|102|.|WET3273.txt|.|27
+foaming|.|WET1260.txt|.|106
+cream hand|.|WET5011.txt|.|11
+mailboxes|.|WET1115.txt|.|32
+cream|.|WET1322.txt|.|18|.|WET3633.txt|.|13|.|WET5011.txt|.|38
+posts mailbox|.|WET1115.txt|.|8
+strand woven|.|WET5804.txt|.|43
+toilets|.|WET1798.txt|.|78|.|WET1799.txt|.|74
+mailbox|.|WET1115.txt|.|8
+hand soap|.|WET1260.txt|.|84
+mailboxes shop|.|WET1115.txt|.|8
+scentportable refills|.|WET5011.txt|.|14
+scentportable|.|WET5011.txt|.|20
+gentle foaming|.|WET1260.txt|.|97
+soap|.|WET4006.txt|.|68|.|WET1260.txt|.|124
+works|.|WET1507.txt|.|18|.|WET506.txt|.|22|.|WET5011.txt|.|102|.|WET4285.txt|.|114|.|WET5682.txt|.|7
+signature|.|WET234.txt|.|18|.|WET5011.txt|.|19
+blend|.|WET3297.txt|.|79|.|WET5011.txt|.|206
+body works direct|.|WET5011.txt|.|44
+foaming hand|.|WET1260.txt|.|90
+add to compare click|.|WET5804.txt|.|21
+bathroom faucets|.|WET1798.txt|.|16
+total|.|WET983.txt|.|17|.|WET1831.txt|.|65|.|WET1798.txt|.|53|.|WET846.txt|.|74|.|WET5254.txt|.|80|.|WET3704.txt|.|30
+strand|.|WET5804.txt|.|48|.|WET4206.txt|.|14|.|WET5990.txt|.|22
+foaming soap|.|WET1260.txt|.|14
+refills|.|WET5012.txt|.|20|.|WET5011.txt|.|61
+shopping carts|.|WET1115.txt|.|12
+total progress|.|WET1798.txt|.|52
+hand|.|WET5804.txt|.|46|.|WET1798.txt|.|46|.|WET1260.txt|.|121|.|WET5011.txt|.|105|.|WET1115.txt|.|44
+body care|.|WET1260.txt|.|17
+scraped|.|WET5804.txt|.|46
+hand showers|.|WET1798.txt|.|18
+body works|.|WET5011.txt|.|99
+oz|.|WET1259.txt|.|189|.|WET5011.txt|.|270
+hand scraped|.|WET5804.txt|.|46
+showers|.|WET1798.txt|.|36
+tools hand|.|WET1115.txt|.|8
+carts|.|WET5748.txt|.|10|.|WET1115.txt|.|36
+compare click|.|WET5804.txt|.|21
+lb|.|WET3270.txt|.|16|.|WET1798.txt|.|66
+candle|.|WET1568.txt|.|85|.|WET5011.txt|.|199
+wick candle|.|WET5011.txt|.|104
+progress|.|WET1798.txt|.|54
+mount mailboxes|.|WET1115.txt|.|16

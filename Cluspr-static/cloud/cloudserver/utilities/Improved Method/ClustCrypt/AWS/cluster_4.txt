@@ -1,0 +1,14 @@
+sauces|.|WET3528.txt|.|90
+indian institute|.|WET510.txt|.|14
+spices organic|.|WET3528.txt|.|280
+spices potato|.|WET3528.txt|.|20
+indian spy videos|.|WET4718.txt|.|8
+meat spices|.|WET3528.txt|.|30
+vegetable|.|WET2679.txt|.|6|.|WET3528.txt|.|50
+vegetable spices|.|WET3528.txt|.|40
+spices indian|.|WET3528.txt|.|70
+graduate students|.|WET510.txt|.|6
+cooking sauces|.|WET3528.txt|.|70
+potato|.|WET5703.txt|.|29|.|WET3528.txt|.|40
+indian|.|WET5824.txt|.|17|.|WET3927.txt|.|17|.|WET4718.txt|.|36|.|WET511.txt|.|27|.|WET3528.txt|.|556|.|WET510.txt|.|51
+organic|.|WET3527.txt|.|137|.|WET920.txt|.|82|.|WET919.txt|.|78|.|WET3528.txt|.|530|.|WET4656.txt|.|66

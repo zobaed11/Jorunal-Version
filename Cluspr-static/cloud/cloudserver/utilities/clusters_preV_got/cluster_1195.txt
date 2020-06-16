@@ -1,0 +1,12 @@
+1195
+xsl|.|WET5049.txt|.|24
+complimentary shipping|.|WET2218.txt|.|6
+papilio|.|WET5069.txt|.|15
+size|.|WET2899.txt|.|24|.|WET5955.txt|.|43|.|WET3923.txt|.|2|.|WET5745.txt|.|10|.|WET1162.txt|.|298|.|WET518.txt|.|2|.|WET4280.txt|.|1|.|WET3747.txt|.|16|.|WET585.txt|.|1|.|WET4195.txt|.|3|.|WET535.txt|.|2|.|WET4273.txt|.|1|.|WET4329.txt|.|3|.|WET4330.txt|.|8|.|WET3570.txt|.|14|.|WET830.txt|.|152|.|WET4274.txt|.|1|.|WET4914.txt|.|434|.|WET2006.txt|.|28|.|WET584.txt|.|2|.|WET2218.txt|.|31|.|WET4263.txt|.|3|.|WET2220.txt|.|124|.|WET5049.txt|.|214
+nintendo wii|.|WET5625.txt|.|13|.|WET1884.txt|.|16|.|WET3286.txt|.|88|.|WET3287.txt|.|19
+saves slow cooker|.|WET5231.txt|.|20
+tips looks|.|WET5955.txt|.|8
+bryant|.|WET5957.txt|.|76|.|WET2220.txt|.|76
+school district|.|WET2587.txt|.|10|.|WET3747.txt|.|14
+logos|.|WET5259.txt|.|8|.|WET71.txt|.|9
+livi active|.|WET2220.txt|.|28

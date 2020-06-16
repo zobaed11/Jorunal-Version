@@ -1,0 +1,12 @@
+956
+dan|.|WET65.txt|.|704|.|WET2629.txt|.|63|.|WET3030.txt|.|179|.|WET3409.txt|.|356|.|WET2223.txt|.|93|.|WET2163.txt|.|24|.|WET3490.txt|.|320|.|WET5371.txt|.|65|.|WET3878.txt|.|9|.|WET975.txt|.|23|.|WET3932.txt|.|39|.|WET4802.txt|.|27|.|WET259.txt|.|47
+apr|.|WET990.txt|.|34|.|WET761.txt|.|38|.|WET6255.txt|.|97|.|WET1332.txt|.|34|.|WET502.txt|.|112|.|WET3184.txt|.|48|.|WET3760.txt|.|58|.|WET881.txt|.|78|.|WET646.txt|.|62|.|WET807.txt|.|102|.|WET3664.txt|.|41|.|WET1019.txt|.|162|.|WET1845.txt|.|22|.|WET2841.txt|.|28|.|WET2202.txt|.|100|.|WET3419.txt|.|49|.|WET2864.txt|.|38|.|WET196.txt|.|100|.|WET6097.txt|.|35|.|WET1571.txt|.|40|.|WET3236.txt|.|42|.|WET3422.txt|.|38|.|WET6206.txt|.|46|.|WET6288.txt|.|97|.|WET2842.txt|.|84|.|WET2203.txt|.|60|.|WET2099.txt|.|96|.|WET188.txt|.|99|.|WET4932.txt|.|83|.|WET3936.txt|.|96
+citrifolia|.|WET3030.txt|.|62
+knife sharpeners|.|WET4802.txt|.|3
+sharpeners|.|WET4802.txt|.|6
+dependen|.|WET3030.txt|.|2
+sel|.|WET3030.txt|.|22
+air|.|WET4414.txt|.|36|.|WET65.txt|.|340|.|WET475.txt|.|20|.|WET2014.txt|.|24|.|WET5758.txt|.|62|.|WET1085.txt|.|55|.|WET5753.txt|.|27|.|WET1779.txt|.|29|.|WET5180.txt|.|37|.|WET3203.txt|.|15|.|WET928.txt|.|3|.|WET1952.txt|.|152|.|WET3653.txt|.|248|.|WET3120.txt|.|27|.|WET5599.txt|.|153|.|WET2596.txt|.|19|.|WET367.txt|.|69|.|WET6298.txt|.|131|.|WET4155.txt|.|40|.|WET4882.txt|.|102|.|WET3817.txt|.|36|.|WET5551.txt|.|45
+api|.|WET3457.txt|.|13
+services management|.|WET3409.txt|.|2
+aan|.|WET5371.txt|.|50

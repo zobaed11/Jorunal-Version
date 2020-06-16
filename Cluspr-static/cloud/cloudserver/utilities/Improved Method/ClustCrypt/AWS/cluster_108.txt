@@ -1,0 +1,16 @@
+mallett|.|WET1762.txt|.|9
+ashley|.|WET1762.txt|.|9
+africa|.|WET3288.txt|.|38|.|WET240.txt|.|31|.|WET5853.txt|.|22|.|WET1929.txt|.|26|.|WET3068.txt|.|10|.|WET4874.txt|.|53|.|WET3986.txt|.|20|.|WET5500.txt|.|51|.|WET5072.txt|.|22|.|WET1762.txt|.|76|.|WET5698.txt|.|44
+zimbabwe|.|WET240.txt|.|31|.|WET3986.txt|.|20
+nicholas|.|WET1762.txt|.|9
+crisis|.|WET5500.txt|.|6
+sabc education|.|WET5072.txt|.|5
+liverpool manchester|.|WET1929.txt|.|8
+rainbow warrior|.|WET5698.txt|.|28
+match drawn|.|WET5500.txt|.|19
+ashley mallett|.|WET1762.txt|.|9
+management crisis|.|WET5500.txt|.|6
+sabc|.|WET5072.txt|.|9
+proxies|.|WET5853.txt|.|3
+mark nicholas|.|WET1762.txt|.|9
+drawn|.|WET5500.txt|.|19

@@ -1,0 +1,12 @@
+990
+article reddit|.|WET1015.txt|.|31
+theatre|.|WET4900.txt|.|8|.|WET4267.txt|.|30|.|WET2427.txt|.|35|.|WET171.txt|.|141|.|WET3688.txt|.|24|.|WET5895.txt|.|5
+film tv|.|WET4758.txt|.|11
+international film|.|WET2837.txt|.|23
+subscribe to variety|.|WET1015.txt|.|19
+spyder|.|WET691.txt|.|19
+popmatters|.|WET2680.txt|.|31
+using your twitter|.|WET4758.txt|.|10
+country music|.|WET2680.txt|.|13
+richters home|.|WET3698.txt|.|10
+peaches geldof|.|WET5660.txt|.|37

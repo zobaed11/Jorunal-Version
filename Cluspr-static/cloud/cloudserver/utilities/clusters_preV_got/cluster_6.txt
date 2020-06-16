@@ -1,0 +1,12 @@
+6
+pop|.|WET6254.txt|.|44|.|WET2521.txt|.|38|.|WET1858.txt|.|66|.|WET1515.txt|.|13|.|WET1535.txt|.|17|.|WET5728.txt|.|12|.|WET2035.txt|.|10
+podcasts npr|.|WET2521.txt|.|9
+npr|.|WET6254.txt|.|331|.|WET2521.txt|.|299|.|WET4310.txt|.|16|.|WET2522.txt|.|35|.|WET561.txt|.|7
+careers|.|WET6254.txt|.|33|.|WET2521.txt|.|29|.|WET1875.txt|.|18|.|WET5236.txt|.|33|.|WET5195.txt|.|21|.|WET1697.txt|.|32
+moschino|.|WET1660.txt|.|36
+careers at npr|.|WET6254.txt|.|22|.|WET2521.txt|.|20
+npr extra blog|.|WET6254.txt|.|22|.|WET2521.txt|.|20
+visit|.|WET5733.txt|.|11|.|WET6254.txt|.|22|.|WET2358.txt|.|22|.|WET2360.txt|.|31|.|WET5403.txt|.|6|.|WET2521.txt|.|20|.|WET2640.txt|.|30|.|WET5317.txt|.|66|.|WET4879.txt|.|28
+npr press room|.|WET2521.txt|.|11
+listen|.|WET6254.txt|.|74|.|WET2521.txt|.|62
+marketwatch|.|WET2310.txt|.|81

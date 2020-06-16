@@ -1,0 +1,12 @@
+874
+x y z|.|WET2970.txt|.|18
+legal professional|.|WET5427.txt|.|7
+contact the folks|.|WET2387.txt|.|11
+liked posts this week|.|WET1043.txt|.|10
+aula|.|WET779.txt|.|33
+national weather service|.|WET388.txt|.|27|.|WET4127.txt|.|35
+official|.|WET2903.txt|.|10|.|WET3327.txt|.|16|.|WET6234.txt|.|17
+national|.|WET3072.txt|.|13|.|WET2334.txt|.|40|.|WET4271.txt|.|19|.|WET1360.txt|.|85|.|WET3220.txt|.|66|.|WET2459.txt|.|76|.|WET388.txt|.|36|.|WET3766.txt|.|39|.|WET4127.txt|.|47|.|WET2499.txt|.|50|.|WET6234.txt|.|60
+dutch english|.|WET4446.txt|.|11
+reviews album|.|WET3220.txt|.|6
+weekly releases|.|WET4271.txt|.|12

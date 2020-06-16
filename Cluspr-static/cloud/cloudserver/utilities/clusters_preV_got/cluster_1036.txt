@@ -1,0 +1,12 @@
+1036
+articles workout|.|WET2058.txt|.|18
+black men|.|WET5902.txt|.|34
+activity|.|WET4865.txt|.|11|.|WET796.txt|.|19|.|WET1666.txt|.|22|.|WET3185.txt|.|110|.|WET1663.txt|.|28|.|WET4347.txt|.|14|.|WET5364.txt|.|11|.|WET4977.txt|.|4|.|WET642.txt|.|20
+connect to the networked|.|WET378.txt|.|1
+guru picks|.|WET5710.txt|.|9
+field work|.|WET1663.txt|.|6
+articles|.|WET1969.txt|.|30|.|WET1663.txt|.|84|.|WET5801.txt|.|33|.|WET4243.txt|.|97|.|WET494.txt|.|196|.|WET1234.txt|.|48|.|WET5710.txt|.|46|.|WET4241.txt|.|58|.|WET2058.txt|.|18|.|WET5902.txt|.|172|.|WET5348.txt|.|10|.|WET5105.txt|.|106|.|WET1977.txt|.|48|.|WET378.txt|.|15|.|WET495.txt|.|152|.|WET5209.txt|.|28
+avs forum|.|WET4986.txt|.|38|.|WET1234.txt|.|120
+dog breeders|.|WET1969.txt|.|2
+articles workout builder|.|WET5801.txt|.|33
+workout builder|.|WET2058.txt|.|18

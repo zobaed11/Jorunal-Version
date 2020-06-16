@@ -1,0 +1,12 @@
+559
+wooden pencils|.|WET5879.txt|.|15
+ms awards|.|WET2356.txt|.|16
+aika|.|WET2356.txt|.|14
+zehvor|.|WET1400.txt|.|16
+moonsorrow|.|WET2356.txt|.|14
+composition|.|WET6242.txt|.|2|.|WET3226.txt|.|2|.|WET5197.txt|.|2|.|WET20.txt|.|3|.|WET1790.txt|.|3|.|WET5578.txt|.|2|.|WET3366.txt|.|2|.|WET2502.txt|.|2|.|WET4359.txt|.|2|.|WET2015.txt|.|1|.|WET2854.txt|.|2|.|WET1447.txt|.|1|.|WET1792.txt|.|2|.|WET4084.txt|.|2|.|WET2435.txt|.|2|.|WET1156.txt|.|3|.|WET4894.txt|.|2|.|WET5180.txt|.|4|.|WET5475.txt|.|2|.|WET4171.txt|.|2|.|WET3207.txt|.|4|.|WET4551.txt|.|2|.|WET4000.txt|.|3|.|WET2417.txt|.|2|.|WET4212.txt|.|2|.|WET4998.txt|.|2|.|WET3026.txt|.|2|.|WET3963.txt|.|1|.|WET1859.txt|.|26|.|WET163.txt|.|1|.|WET3939.txt|.|1|.|WET24.txt|.|1|.|WET1645.txt|.|2|.|WET3478.txt|.|2|.|WET69.txt|.|2|.|WET3583.txt|.|3|.|WET1194.txt|.|1|.|WET2452.txt|.|2|.|WET4832.txt|.|2|.|WET4575.txt|.|2|.|WET3778.txt|.|2|.|WET164.txt|.|2|.|WET2240.txt|.|3|.|WET2678.txt|.|2|.|WET1342.txt|.|2|.|WET271.txt|.|2|.|WET1723.txt|.|1|.|WET5803.txt|.|1|.|WET4967.txt|.|2|.|WET5848.txt|.|2|.|WET4813.txt|.|2|.|WET4432.txt|.|2
+unm|.|WET323.txt|.|1834
+album reviews|.|WET6098.txt|.|8
+musicians|.|WET2356.txt|.|20
+moonsorrow jumalten aika|.|WET2356.txt|.|14
+une|.|WET1016.txt|.|87|.|WET1618.txt|.|20

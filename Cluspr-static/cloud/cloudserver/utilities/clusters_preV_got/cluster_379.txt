@@ -1,0 +1,12 @@
+379
+core political|.|WET5850.txt|.|134
+released today|.|WET5850.txt|.|121
+approval|.|WET5850.txt|.|206|.|WET897.txt|.|4
+sovereign debt|.|WET4782.txt|.|7
+pulse|.|WET5850.txt|.|129
+conducted|.|WET5850.txt|.|172
+political|.|WET1029.txt|.|62|.|WET5850.txt|.|164
+countries|.|WET240.txt|.|42|.|WET3985.txt|.|77|.|WET5850.txt|.|157|.|WET3247.txt|.|37
+ipsos|.|WET5850.txt|.|516
+sovereign|.|WET4782.txt|.|7
+ipsos global|.|WET5850.txt|.|151

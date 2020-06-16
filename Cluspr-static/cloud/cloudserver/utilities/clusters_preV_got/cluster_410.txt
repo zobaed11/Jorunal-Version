@@ -1,0 +1,12 @@
+410
+cheese location|.|WET187.txt|.|42
+horizontal|.|WET6147.txt|.|20
+szenci|.|WET811.txt|.|22
+taiwan|.|WET1765.txt|.|24
+jamaica|.|WET233.txt|.|70
+media contact|.|WET1373.txt|.|6
+organizations|.|WET557.txt|.|4|.|WET4451.txt|.|3
+schermesser|.|WET2659.txt|.|35
+polyak k|.|WET361.txt|.|12
+adaptors|.|WET1886.txt|.|64
+health care|.|WET2341.txt|.|88|.|WET557.txt|.|62|.|WET2342.txt|.|88|.|WET5905.txt|.|65|.|WET6084.txt|.|88|.|WET6085.txt|.|88|.|WET2340.txt|.|88

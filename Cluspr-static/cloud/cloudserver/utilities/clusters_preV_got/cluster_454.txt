@@ -1,0 +1,12 @@
+454
+tang|.|WET3328.txt|.|2
+dreamweaver|.|WET988.txt|.|117
+file records|.|WET5528.txt|.|129
+software|.|WET5528.txt|.|77|.|WET1689.txt|.|30|.|WET4421.txt|.|8|.|WET3745.txt|.|54|.|WET2701.txt|.|38|.|WET1858.txt|.|11|.|WET1632.txt|.|13
+joseph smith|.|WET5892.txt|.|9|.|WET4285.txt|.|56
+alpha|.|WET1674.txt|.|34|.|WET643.txt|.|41|.|WET6075.txt|.|2
+figleaves|.|WET372.txt|.|56
+mlive|.|WET2377.txt|.|101
+tank|.|WET3714.txt|.|27|.|WET2667.txt|.|103
+standings|.|WET5765.txt|.|77|.|WET6260.txt|.|18
+potter|.|WET4216.txt|.|139

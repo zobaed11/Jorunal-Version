@@ -1,0 +1,12 @@
+415
+mayline|.|WET2538.txt|.|116
+straight|.|WET5716.txt|.|41|.|WET1975.txt|.|32
+carolina guest|.|WET5182.txt|.|34
+star hotels|.|WET5775.txt|.|14
+park service|.|WET6300.txt|.|9
+featured nonprofit|.|WET5178.txt|.|11
+guest blogger|.|WET743.txt|.|112
+guest|.|WET743.txt|.|116|.|WET2538.txt|.|76|.|WET5182.txt|.|42|.|WET5775.txt|.|20|.|WET262.txt|.|18|.|WET392.txt|.|14|.|WET1381.txt|.|13
+guest house|.|WET5182.txt|.|30
+daytime royalty|.|WET262.txt|.|11
+race report|.|WET3770.txt|.|47

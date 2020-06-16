@@ -1,0 +1,8 @@
+101
+schedule roster|.|WET455.txt|.|41|.|WET5673.txt|.|160|.|WET3342.txt|.|20|.|WET4109.txt|.|36|.|WET2259.txt|.|30|.|WET1973.txt|.|69|.|WET4952.txt|.|69
+news swimming|.|WET1973.txt|.|6
+roster|.|WET5673.txt|.|163|.|WET3342.txt|.|22|.|WET4374.txt|.|75|.|WET5611.txt|.|6|.|WET4109.txt|.|38|.|WET3171.txt|.|26|.|WET2541.txt|.|40|.|WET3178.txt|.|46|.|WET4952.txt|.|69|.|WET3169.txt|.|69|.|WET455.txt|.|42|.|WET2259.txt|.|30|.|WET1973.txt|.|72|.|WET2891.txt|.|19
+news soccer|.|WET1973.txt|.|6
+polo schedule|.|WET1973.txt|.|6
+country schedule|.|WET1973.txt|.|6
+basketball schedule|.|WET1973.txt|.|6

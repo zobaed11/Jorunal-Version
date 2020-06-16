@@ -1,0 +1,12 @@
+568
+curly straight|.|WET5716.txt|.|40|.|WET1975.txt|.|32
+community meetups|.|WET963.txt|.|16
+pal activity recent|.|WET1666.txt|.|11
+pmquote|.|WET2565.txt|.|190
+total rna|.|WET5254.txt|.|44
+union theatre|.|WET5895.txt|.|5
+specimen|.|WET5744.txt|.|6
+login join|.|WET5961.txt|.|11
+services that you request|.|WET5847.txt|.|2|.|WET2103.txt|.|4
+psychic|.|WET429.txt|.|59
+video comments|.|WET2935.txt|.|8

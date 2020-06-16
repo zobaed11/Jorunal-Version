@@ -1,0 +1,12 @@
+595
+qualification|.|WET2918.txt|.|154
+wysig bron|.|WET3394.txt|.|17
+champions league uefa|.|WET2918.txt|.|24
+pfalz saar|.|WET1759.txt|.|3
+championship|.|WET701.txt|.|30|.|WET1804.txt|.|32|.|WET4982.txt|.|23|.|WET2918.txt|.|92|.|WET5539.txt|.|32|.|WET1805.txt|.|123|.|WET2643.txt|.|67|.|WET2644.txt|.|41
+uefa|.|WET2918.txt|.|82
+bull|.|WET6149.txt|.|15|.|WET4982.txt|.|40|.|WET1960.txt|.|6|.|WET2405.txt|.|35
+ryder cup|.|WET2643.txt|.|27
+pga championship|.|WET2643.txt|.|54
+golfer|.|WET2644.txt|.|6
+friendlies|.|WET2918.txt|.|49

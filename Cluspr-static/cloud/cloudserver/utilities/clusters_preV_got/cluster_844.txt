@@ -1,0 +1,12 @@
+844
+church|.|WET4457.txt|.|36|.|WET1441.txt|.|35|.|WET3991.txt|.|20|.|WET2566.txt|.|41|.|WET6304.txt|.|137|.|WET5191.txt|.|25|.|WET2516.txt|.|60|.|WET6303.txt|.|133|.|WET5521.txt|.|100|.|WET4285.txt|.|102|.|WET1431.txt|.|36
+holy martyr|.|WET6303.txt|.|26
+lodge|.|WET333.txt|.|82
+doctrine|.|WET4285.txt|.|81
+bibles books|.|WET5521.txt|.|32
+works citedhide|.|WET4285.txt|.|56
+orthodox|.|WET2566.txt|.|70|.|WET6303.txt|.|358
+papers|.|WET3466.txt|.|1002|.|WET2794.txt|.|38|.|WET645.txt|.|361|.|WET4285.txt|.|36
+caroline county|.|WET5183.txt|.|56|.|WET1431.txt|.|48
+breast|.|WET3826.txt|.|10|.|WET2078.txt|.|76|.|WET3694.txt|.|123|.|WET3828.txt|.|19
+home advanced search|.|WET5065.txt|.|11

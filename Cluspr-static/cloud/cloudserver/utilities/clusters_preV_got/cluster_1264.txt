@@ -1,0 +1,12 @@
+1264
+iggy|.|WET5900.txt|.|15|.|WET2159.txt|.|13|.|WET5901.txt|.|7|.|WET5899.txt|.|10
+proxy|.|WET1671.txt|.|2|.|WET2105.txt|.|2|.|WET3991.txt|.|2|.|WET2200.txt|.|2|.|WET3602.txt|.|3|.|WET4500.txt|.|39|.|WET985.txt|.|2|.|WET2922.txt|.|2|.|WET5992.txt|.|1|.|WET5948.txt|.|2|.|WET881.txt|.|1|.|WET3714.txt|.|2|.|WET3569.txt|.|3|.|WET2861.txt|.|2|.|WET1211.txt|.|2|.|WET4789.txt|.|2|.|WET253.txt|.|1|.|WET1183.txt|.|2|.|WET5038.txt|.|2|.|WET1657.txt|.|2|.|WET1447.txt|.|3|.|WET2088.txt|.|2
+feeds news|.|WET6226.txt|.|5
+wwe|.|WET3323.txt|.|29
+purchasers|.|WET6228.txt|.|3|.|WET5976.txt|.|1
+police logs|.|WET1034.txt|.|8
+beacon communications|.|WET1034.txt|.|16
+hemsworth shows|.|WET5900.txt|.|14|.|WET2159.txt|.|13|.|WET5901.txt|.|7
+logs|.|WET1034.txt|.|8
+local links|.|WET6152.txt|.|33|.|WET2407.txt|.|27|.|WET6151.txt|.|27|.|WET6153.txt|.|24
+chris hemsworth|.|WET5900.txt|.|14|.|WET2159.txt|.|13

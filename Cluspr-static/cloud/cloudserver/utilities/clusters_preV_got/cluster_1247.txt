@@ -1,0 +1,12 @@
+1247
+puma store|.|WET1007.txt|.|209
+adr english|.|WET3181.txt|.|6
+grammar|.|WET2575.txt|.|152|.|WET797.txt|.|29|.|WET1103.txt|.|33|.|WET2576.txt|.|124|.|WET6314.txt|.|114|.|WET6313.txt|.|91
+british english|.|WET280.txt|.|17
+english|.|WET413.txt|.|227|.|WET290.txt|.|15|.|WET6314.txt|.|169|.|WET4446.txt|.|11|.|WET2575.txt|.|157|.|WET2938.txt|.|187|.|WET5698.txt|.|134|.|WET2143.txt|.|21|.|WET3181.txt|.|27|.|WET1958.txt|.|86|.|WET4444.txt|.|27|.|WET149.txt|.|8|.|WET4490.txt|.|11|.|WET280.txt|.|147|.|WET1686.txt|.|14|.|WET48.txt|.|52|.|WET4083.txt|.|77|.|WET3580.txt|.|91|.|WET5342.txt|.|12|.|WET1007.txt|.|768|.|WET2576.txt|.|157|.|WET797.txt|.|51|.|WET3609.txt|.|6|.|WET340.txt|.|66|.|WET3997.txt|.|6|.|WET281.txt|.|60|.|WET1008.txt|.|96
+email cite discuss|.|WET2575.txt|.|35
+grammatical|.|WET797.txt|.|15
+rainbow warrior|.|WET5698.txt|.|28
+spanish english|.|WET6314.txt|.|14
+us english synonyms|.|WET6314.txt|.|20
+dictionaries|.|WET2575.txt|.|36|.|WET6290.txt|.|8

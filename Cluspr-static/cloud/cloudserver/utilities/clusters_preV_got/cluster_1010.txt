@@ -1,0 +1,12 @@
+1010
+blouses|.|WET6008.txt|.|22
+code|.|WET6007.txt|.|90|.|WET2269.txt|.|73|.|WET5508.txt|.|100|.|WET2122.txt|.|6|.|WET782.txt|.|9|.|WET6305.txt|.|12|.|WET3649.txt|.|63|.|WET5976.txt|.|27|.|WET2238.txt|.|56|.|WET479.txt|.|9|.|WET1952.txt|.|44|.|WET1812.txt|.|716|.|WET5307.txt|.|26|.|WET1411.txt|.|17|.|WET6008.txt|.|119
+loft|.|WET6008.txt|.|40
+code score|.|WET3649.txt|.|27
+digital trends|.|WET5395.txt|.|34|.|WET1648.txt|.|22
+beans wool|.|WET3650.txt|.|36
+machine|.|WET564.txt|.|7|.|WET4258.txt|.|6|.|WET420.txt|.|3|.|WET1040.txt|.|13|.|WET4593.txt|.|2|.|WET1713.txt|.|1|.|WET5938.txt|.|3
+amber|.|WET3778.txt|.|67
+act chapter|.|WET5976.txt|.|17
+sweaters dresses|.|WET1178.txt|.|41|.|WET6007.txt|.|33|.|WET4930.txt|.|42|.|WET6008.txt|.|32
+sale items|.|WET3649.txt|.|18

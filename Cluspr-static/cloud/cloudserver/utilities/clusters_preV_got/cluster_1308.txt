@@ -1,0 +1,12 @@
+1308
+schedule|.|WET2646.txt|.|35|.|WET2845.txt|.|2|.|WET3170.txt|.|45|.|WET791.txt|.|23|.|WET4374.txt|.|73|.|WET6107.txt|.|57|.|WET2439.txt|.|32|.|WET2472.txt|.|26|.|WET1801.txt|.|24|.|WET455.txt|.|44|.|WET1070.txt|.|26|.|WET5677.txt|.|16|.|WET4200.txt|.|102|.|WET854.txt|.|32|.|WET4201.txt|.|48|.|WET1973.txt|.|69|.|WET248.txt|.|49|.|WET4311.txt|.|18|.|WET2778.txt|.|15|.|WET5673.txt|.|167|.|WET3342.txt|.|23|.|WET6164.txt|.|53|.|WET4109.txt|.|38|.|WET3812.txt|.|17|.|WET5766.txt|.|68|.|WET2541.txt|.|39|.|WET3178.txt|.|55|.|WET4952.txt|.|75|.|WET6260.txt|.|24|.|WET4271.txt|.|37|.|WET5706.txt|.|79|.|WET2259.txt|.|36|.|WET2891.txt|.|21|.|WET5609.txt|.|2
+roster|.|WET5673.txt|.|163|.|WET3342.txt|.|22|.|WET4374.txt|.|75|.|WET5611.txt|.|6|.|WET4109.txt|.|38|.|WET3171.txt|.|26|.|WET2541.txt|.|40|.|WET3178.txt|.|46|.|WET4952.txt|.|69|.|WET3169.txt|.|69|.|WET455.txt|.|42|.|WET2259.txt|.|30|.|WET1973.txt|.|72|.|WET2891.txt|.|19
+produto novo|.|WET3931.txt|.|97|.|WET4334.txt|.|118
+weekend schedule|.|WET854.txt|.|8
+ikea concept|.|WET2070.txt|.|8
+isbn|.|WET1716.txt|.|36|.|WET4857.txt|.|85
+basketball schedule|.|WET1973.txt|.|6
+update|.|WET959.txt|.|74|.|WET1188.txt|.|60|.|WET1187.txt|.|48|.|WET4940.txt|.|50
+ranking|.|WET5863.txt|.|10|.|WET3812.txt|.|18|.|WET2122.txt|.|7
+schedule roster news|.|WET3342.txt|.|20|.|WET4109.txt|.|36|.|WET1973.txt|.|69
+human life|.|WET2545.txt|.|44

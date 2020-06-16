@@ -1,0 +1,12 @@
+1381
+trailer|.|WET3072.txt|.|29|.|WET1883.txt|.|27|.|WET6162.txt|.|38|.|WET2026.txt|.|39
+listing books|.|WET2052.txt|.|6
+complex systems|.|WET5610.txt|.|4
+list books|.|WET5797.txt|.|5
+theaters|.|WET198.txt|.|37|.|WET6162.txt|.|43|.|WET3945.txt|.|27
+met opera|.|WET6103.txt|.|50|.|WET2359.txt|.|32|.|WET6101.txt|.|49
+genre|.|WET2909.txt|.|24|.|WET3294.txt|.|39|.|WET435.txt|.|2|.|WET2544.txt|.|2|.|WET2862.txt|.|3|.|WET4500.txt|.|2|.|WET4072.txt|.|1|.|WET1180.txt|.|2|.|WET5234.txt|.|6|.|WET4006.txt|.|2|.|WET4545.txt|.|1|.|WET3075.txt|.|2|.|WET3146.txt|.|2|.|WET5791.txt|.|2|.|WET4739.txt|.|2|.|WET594.txt|.|2|.|WET1059.txt|.|26|.|WET3541.txt|.|1|.|WET806.txt|.|1|.|WET5621.txt|.|4|.|WET4289.txt|.|2|.|WET4293.txt|.|4|.|WET5610.txt|.|14|.|WET171.txt|.|2|.|WET4484.txt|.|2|.|WET1843.txt|.|3|.|WET5433.txt|.|5|.|WET2574.txt|.|1|.|WET2654.txt|.|3|.|WET2052.txt|.|18|.|WET464.txt|.|2|.|WET4920.txt|.|2|.|WET994.txt|.|2|.|WET4108.txt|.|13|.|WET4214.txt|.|2|.|WET1088.txt|.|2|.|WET4809.txt|.|13|.|WET5974.txt|.|2|.|WET3084.txt|.|2|.|WET1135.txt|.|2|.|WET5796.txt|.|12|.|WET3292.txt|.|65|.|WET5797.txt|.|17|.|WET998.txt|.|2|.|WET4842.txt|.|2|.|WET3293.txt|.|143|.|WET5122.txt|.|1|.|WET830.txt|.|2|.|WET6162.txt|.|43|.|WET2800.txt|.|2|.|WET2157.txt|.|2|.|WET3110.txt|.|2|.|WET666.txt|.|1
+information and content|.|WET2909.txt|.|3
+gpus mobile|.|WET4920.txt|.|6
+estimates|.|WET3712.txt|.|52|.|WET5605.txt|.|30
+customer support|.|WET2795.txt|.|17

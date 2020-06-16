@@ -1,0 +1,12 @@
+646
+faux|.|WET1330.txt|.|22
+multiplex|.|WET1503.txt|.|6|.|WET5253.txt|.|2|.|WET4221.txt|.|2
+agricultural|.|WET948.txt|.|12|.|WET4062.txt|.|109
+releases photos|.|WET485.txt|.|96|.|WET3763.txt|.|32
+kit|.|WET485.txt|.|150|.|WET6224.txt|.|11|.|WET1503.txt|.|168|.|WET4453.txt|.|22|.|WET3094.txt|.|22|.|WET2073.txt|.|20|.|WET4232.txt|.|51|.|WET3763.txt|.|52
+athenaeum|.|WET3039.txt|.|25
+auto show press|.|WET3763.txt|.|27
+kit photos|.|WET485.txt|.|87|.|WET3763.txt|.|29
+urban decay|.|WET3192.txt|.|26
+show press releases|.|WET3763.txt|.|27
+shelf|.|WET1179.txt|.|47|.|WET4931.txt|.|42|.|WET1395.txt|.|86

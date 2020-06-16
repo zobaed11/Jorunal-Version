@@ -1,0 +1,12 @@
+820
+newer|.|WET4804.txt|.|2
+chariots|.|WET4804.txt|.|16
+protokentarchos posts|.|WET2565.txt|.|51
+chariots wiki|.|WET4804.txt|.|16
+property view|.|WET1857.txt|.|48
+waze map|.|WET3564.txt|.|10
+map editing|.|WET3564.txt|.|10
+officials|.|WET2565.txt|.|49
+older edit|.|WET4804.txt|.|5
+delete|.|WET1857.txt|.|52
+revision|.|WET4804.txt|.|19

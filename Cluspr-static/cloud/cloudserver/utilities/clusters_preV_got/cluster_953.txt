@@ -1,0 +1,12 @@
+953
+subject mit|.|WET729.txt|.|54
+kbc questions|.|WET5909.txt|.|5
+qualified|.|WET729.txt|.|63
+helper|.|WET729.txt|.|42
+homework|.|WET5884.txt|.|18
+questions|.|WET4242.txt|.|198|.|WET4993.txt|.|19|.|WET5909.txt|.|11|.|WET453.txt|.|20|.|WET4243.txt|.|90|.|WET494.txt|.|184|.|WET5884.txt|.|27|.|WET45.txt|.|39|.|WET207.txt|.|8|.|WET729.txt|.|294|.|WET1540.txt|.|13|.|WET642.txt|.|11|.|WET495.txt|.|145
+classical mechanics|.|WET729.txt|.|6|.|WET4370.txt|.|1
+mit|.|WET1437.txt|.|8|.|WET729.txt|.|56
+mechanics|.|WET729.txt|.|6|.|WET4370.txt|.|1
+questions asked|.|WET729.txt|.|51
+qualified helper|.|WET729.txt|.|36

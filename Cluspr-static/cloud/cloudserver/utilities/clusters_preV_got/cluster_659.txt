@@ -1,0 +1,12 @@
+659
+det|.|WET3771.txt|.|349
+dex|.|WET4663.txt|.|16
+clyde|.|WET5410.txt|.|68
+deposits its instrument|.|WET577.txt|.|368
+scanner|.|WET4148.txt|.|33
+twitterkongsi ke|.|WET1979.txt|.|20
+game day|.|WET917.txt|.|64
+dgcr|.|WET5384.txt|.|31|.|WET5383.txt|.|78|.|WET1636.txt|.|40
+issue date|.|WET4059.txt|.|13
+viewing|.|WET4006.txt|.|17|.|WET751.txt|.|35|.|WET776.txt|.|6|.|WET409.txt|.|5
+dfp|.|WET2203.txt|.|7|.|WET5940.txt|.|10

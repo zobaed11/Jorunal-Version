@@ -1,0 +1,84 @@
+35
+bus|.|WET2226.txt|.|11|.|WET6158.txt|.|40|.|WET4806.txt|.|76
+movie|.|WET6158.txt|.|750|.|WET2436.txt|.|6|.|WET4629.txt|.|18|.|WET2414.txt|.|253|.|WET198.txt|.|27|.|WET5041.txt|.|77|.|WET1290.txt|.|107|.|WET5660.txt|.|63|.|WET2035.txt|.|4|.|WET2083.txt|.|19|.|WET132.txt|.|29|.|WET2212.txt|.|45|.|WET2415.txt|.|26|.|WET4404.txt|.|26|.|WET6162.txt|.|184|.|WET3945.txt|.|20|.|WET2419.txt|.|46|.|WET1921.txt|.|82
+specials|.|WET5239.txt|.|9|.|WET3690.txt|.|12|.|WET2764.txt|.|71|.|WET4591.txt|.|6
+shades sheer|.|WET1330.txt|.|14
+drapery|.|WET1330.txt|.|50
+recommendations|.|WET624.txt|.|32|.|WET1174.txt|.|15|.|WET1330.txt|.|35
+treatments|.|WET6183.txt|.|32|.|WET1330.txt|.|53
+window treatments|.|WET1330.txt|.|51
+gong|.|WET3690.txt|.|12
+gmo labeling|.|WET5570.txt|.|60
+act|.|WET5872.txt|.|62|.|WET3598.txt|.|24|.|WET5570.txt|.|35|.|WET5976.txt|.|33
+safety|.|WET4452.txt|.|12|.|WET5570.txt|.|209|.|WET98.txt|.|15|.|WET1685.txt|.|16|.|WET5195.txt|.|25
+wood|.|WET6158.txt|.|44|.|WET1330.txt|.|59|.|WET3690.txt|.|61|.|WET5081.txt|.|86|.|WET5969.txt|.|67|.|WET5570.txt|.|20
+wrapped|.|WET6158.txt|.|60
+recent|.|WET2047.txt|.|16|.|WET3616.txt|.|48|.|WET447.txt|.|28|.|WET1666.txt|.|23|.|WET157.txt|.|12|.|WET5570.txt|.|251|.|WET2260.txt|.|25|.|WET280.txt|.|11|.|WET4820.txt|.|5|.|WET429.txt|.|31|.|WET4236.txt|.|179
+filtering|.|WET5081.txt|.|30
+write|.|WET1435.txt|.|59|.|WET3133.txt|.|17|.|WET2347.txt|.|10|.|WET5969.txt|.|20|.|WET4907.txt|.|34
+pleated shades|.|WET5081.txt|.|30
+deluxe wood|.|WET6158.txt|.|39
+puzzlesfamily|.|WET3690.txt|.|12
+master shopping|.|WET3690.txt|.|6
+collectionother|.|WET3690.txt|.|12
+faux|.|WET1330.txt|.|22
+wire|.|WET3690.txt|.|36|.|WET5373.txt|.|40|.|WET835.txt|.|14
+processed in a timely|.|WET3690.txt|.|6
+cellular|.|WET1330.txt|.|61|.|WET5081.txt|.|43
+plant|.|WET5216.txt|.|12|.|WET5570.txt|.|144
+pleated|.|WET5081.txt|.|31
+gong yong|.|WET3690.txt|.|12
+style|.|WET6158.txt|.|739|.|WET1185.txt|.|30|.|WET5879.txt|.|21|.|WET157.txt|.|14|.|WET5268.txt|.|3|.|WET5580.txt|.|17|.|WET5238.txt|.|78|.|WET3712.txt|.|5
+law review|.|WET5969.txt|.|14
+museum wrapped|.|WET6158.txt|.|60
+roller|.|WET463.txt|.|1|.|WET5081.txt|.|35
+poster|.|WET6158.txt|.|787|.|WET2414.txt|.|273|.|WET2687.txt|.|18
+wood pulp|.|WET5570.txt|.|20
+full|.|WET3713.txt|.|38|.|WET1218.txt|.|144|.|WET4629.txt|.|87|.|WET1508.txt|.|26|.|WET5134.txt|.|102|.|WET4247.txt|.|22|.|WET1511.txt|.|75|.|WET5260.txt|.|22|.|WET5171.txt|.|26|.|WET2768.txt|.|46|.|WET541.txt|.|48|.|WET1187.txt|.|38|.|WET5570.txt|.|246|.|WET452.txt|.|15|.|WET4285.txt|.|69
+full story recent|.|WET5570.txt|.|230
+shades roller|.|WET5081.txt|.|26
+shades|.|WET1330.txt|.|256|.|WET5081.txt|.|289
+shelter|.|WET6158.txt|.|41|.|WET2534.txt|.|15
+gmo|.|WET5570.txt|.|105
+boards|.|WET143.txt|.|47|.|WET3888.txt|.|38|.|WET3889.txt|.|30|.|WET142.txt|.|53|.|WET5969.txt|.|115|.|WET144.txt|.|29|.|WET1342.txt|.|19|.|WET3886.txt|.|52|.|WET3246.txt|.|12
+vertical|.|WET1330.txt|.|28
+puzzle collectionother|.|WET3690.txt|.|12
+light filtering|.|WET5081.txt|.|30
+master wire|.|WET3690.txt|.|12
+deluxe|.|WET6158.txt|.|49|.|WET2444.txt|.|18
+labeling|.|WET5570.txt|.|125
+blinds vertical|.|WET1330.txt|.|21
+sheer|.|WET1330.txt|.|14
+window blinds|.|WET5081.txt|.|14
+custom drapery|.|WET1330.txt|.|18
+login register|.|WET5969.txt|.|8|.|WET2663.txt|.|3|.|WET2232.txt|.|18
+story recent|.|WET5570.txt|.|230
+blinds|.|WET1330.txt|.|154|.|WET5081.txt|.|179
+modernization|.|WET5570.txt|.|25
+faux wood|.|WET1330.txt|.|22
+bus shelter|.|WET6158.txt|.|40
+safety modernization|.|WET5570.txt|.|25
+free sample|.|WET5081.txt|.|102
+modernization act|.|WET5570.txt|.|25
+cellular shades|.|WET1330.txt|.|39|.|WET5081.txt|.|20
+window and room|.|WET5081.txt|.|10
+offer opportunities|.|WET5570.txt|.|15
+full story|.|WET5171.txt|.|14|.|WET5570.txt|.|240
+review write|.|WET5969.txt|.|14
+opportunities|.|WET5570.txt|.|42
+sample|.|WET1218.txt|.|82|.|WET1756.txt|.|78|.|WET5081.txt|.|104
+food|.|WET3684.txt|.|99|.|WET3654.txt|.|7|.|WET4396.txt|.|33|.|WET3773.txt|.|46|.|WET2638.txt|.|42|.|WET5455.txt|.|22|.|WET1654.txt|.|86|.|WET5569.txt|.|123|.|WET4416.txt|.|38|.|WET1779.txt|.|18|.|WET24.txt|.|58|.|WET1697.txt|.|38|.|WET5074.txt|.|110|.|WET1820.txt|.|18|.|WET1833.txt|.|287|.|WET6227.txt|.|26|.|WET2995.txt|.|181|.|WET5570.txt|.|882|.|WET5200.txt|.|36|.|WET1079.txt|.|31|.|WET1709.txt|.|39|.|WET5806.txt|.|80|.|WET2248.txt|.|97|.|WET5739.txt|.|29|.|WET1215.txt|.|33|.|WET4996.txt|.|26|.|WET382.txt|.|92|.|WET4970.txt|.|22|.|WET920.txt|.|29|.|WET10.txt|.|36|.|WET1831.txt|.|50|.|WET2348.txt|.|13|.|WET4055.txt|.|114|.|WET5568.txt|.|103|.|WET2343.txt|.|29|.|WET3289.txt|.|108|.|WET2737.txt|.|13|.|WET2525.txt|.|26|.|WET3683.txt|.|163
+food safety|.|WET5570.txt|.|171
+color photo|.|WET6158.txt|.|90
+shelter style|.|WET6158.txt|.|40
+group specials|.|WET3690.txt|.|6
+wood frame|.|WET6158.txt|.|38
+puzzle|.|WET2270.txt|.|19|.|WET3690.txt|.|93|.|WET5881.txt|.|32
+timely|.|WET3690.txt|.|6
+yong|.|WET3690.txt|.|12
+movie poster|.|WET6158.txt|.|709|.|WET2414.txt|.|213
+window|.|WET5361.txt|.|1|.|WET1330.txt|.|127|.|WET5081.txt|.|123|.|WET5267.txt|.|42|.|WET1710.txt|.|74|.|WET2285.txt|.|54|.|WET733.txt|.|2
+wrapped canvas|.|WET6158.txt|.|60
+pulp|.|WET5570.txt|.|25
+wood blinds|.|WET1330.txt|.|31
+story|.|WET696.txt|.|34|.|WET3851.txt|.|14|.|WET1218.txt|.|76|.|WET1355.txt|.|58|.|WET4952.txt|.|17|.|WET810.txt|.|34|.|WET6128.txt|.|36|.|WET5171.txt|.|17|.|WET4006.txt|.|39|.|WET1106.txt|.|26|.|WET3586.txt|.|54|.|WET5570.txt|.|240|.|WET993.txt|.|82|.|WET5105.txt|.|65|.|WET4393.txt|.|21|.|WET1527.txt|.|63|.|WET363.txt|.|22|.|WET4129.txt|.|12

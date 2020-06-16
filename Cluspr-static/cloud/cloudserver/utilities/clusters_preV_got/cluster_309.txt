@@ -1,0 +1,12 @@
+309
+capital|.|WET3466.txt|.|167
+portfolio|.|WET4115.txt|.|11
+yahoo|.|WET3419.txt|.|53|.|WET374.txt|.|89|.|WET902.txt|.|71|.|WET4115.txt|.|107
+federal|.|WET3466.txt|.|81|.|WET6290.txt|.|53|.|WET4587.txt|.|6|.|WET3518.txt|.|9|.|WET4021.txt|.|5
+search keyword|.|WET1349.txt|.|2|.|WET2261.txt|.|2|.|WET4115.txt|.|10
+quotes news market|.|WET4115.txt|.|11
+news market data|.|WET4115.txt|.|11
+finance|.|WET3466.txt|.|463|.|WET886.txt|.|14|.|WET1835.txt|.|9|.|WET3838.txt|.|21|.|WET374.txt|.|78|.|WET4115.txt|.|85
+computers|.|WET886.txt|.|9
+yahoo finance|.|WET374.txt|.|49
+portfolio my quotes|.|WET4115.txt|.|11

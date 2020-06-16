@@ -1,0 +1,12 @@
+1074
+stone circle|.|WET6186.txt|.|3
+carlton|.|WET6056.txt|.|2
+join trailspace|.|WET3727.txt|.|6
+sanded|.|WET2069.txt|.|2|.|WET1228.txt|.|2
+hotels|.|WET6056.txt|.|402|.|WET5775.txt|.|95|.|WET2964.txt|.|150|.|WET147.txt|.|59|.|WET3134.txt|.|12|.|WET5678.txt|.|16|.|WET6186.txt|.|77|.|WET3727.txt|.|304|.|WET2444.txt|.|156|.|WET1249.txt|.|181|.|WET5356.txt|.|105|.|WET2069.txt|.|161|.|WET3639.txt|.|172|.|WET488.txt|.|54|.|WET6010.txt|.|63|.|WET3620.txt|.|53|.|WET3445.txt|.|153
+trailspace|.|WET3727.txt|.|14
+ritz|.|WET6056.txt|.|16
+swiss deluxe hotels|.|WET2444.txt|.|17
+bros|.|WET1249.txt|.|21
+bang bros|.|WET1249.txt|.|21
+renaissance|.|WET6056.txt|.|14

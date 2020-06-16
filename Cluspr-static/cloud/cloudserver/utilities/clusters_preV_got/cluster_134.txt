@@ -1,0 +1,12 @@
+134
+amenities|.|WET4591.txt|.|6
+specials golf|.|WET4591.txt|.|6
+single check availability|.|WET5773.txt|.|72
+jay inslee unknown|.|WET1031.txt|.|68
+ramadan|.|WET5854.txt|.|28
+golf packages|.|WET4591.txt|.|6
+nepal|.|WET2882.txt|.|50
+public inspection file|.|WET3304.txt|.|24
+amenities rates|.|WET4591.txt|.|6
+photo detailsviewed|.|WET6048.txt|.|32
+free wi fi|.|WET5773.txt|.|88

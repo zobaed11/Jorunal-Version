@@ -1,0 +1,12 @@
+562
+kris|.|WET4308.txt|.|28
+online price|.|WET5294.txt|.|30
+aunt|.|WET4298.txt|.|16
+classic car|.|WET5248.txt|.|18
+exclusive|.|WET1178.txt|.|74|.|WET5956.txt|.|62|.|WET4970.txt|.|22|.|WET2220.txt|.|42
+client|.|WET4044.txt|.|19|.|WET3417.txt|.|26
+view all new arrivals|.|WET5957.txt|.|45|.|WET1788.txt|.|45|.|WET2220.txt|.|47
+nancy|.|WET2450.txt|.|42|.|WET2451.txt|.|60
+opensecrets blog reports|.|WET6291.txt|.|4
+freelancers|.|WET3618.txt|.|39
+height|.|WET755.txt|.|5|.|WET371.txt|.|1|.|WET5957.txt|.|183|.|WET5956.txt|.|277|.|WET440.txt|.|1|.|WET4279.txt|.|1|.|WET4752.txt|.|20|.|WET1009.txt|.|55

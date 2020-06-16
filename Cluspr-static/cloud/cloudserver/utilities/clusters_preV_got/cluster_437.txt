@@ -1,0 +1,12 @@
+437
+hikes|.|WET2411.txt|.|10
+bikes|.|WET5051.txt|.|41|.|WET5054.txt|.|113|.|WET94.txt|.|15|.|WET5496.txt|.|16|.|WET5314.txt|.|10|.|WET1153.txt|.|172|.|WET5208.txt|.|193
+regional|.|WET3096.txt|.|278|.|WET5051.txt|.|88|.|WET1301.txt|.|67|.|WET3321.txt|.|55|.|WET5052.txt|.|66|.|WET1063.txt|.|12|.|WET2527.txt|.|36
+separation anxiety|.|WET5241.txt|.|23
+hedge fund|.|WET1999.txt|.|21
+terms privacy|.|WET4649.txt|.|8
+cycling|.|WET3965.txt|.|33|.|WET5051.txt|.|144|.|WET5052.txt|.|111|.|WET218.txt|.|30
+leaders|.|WET2724.txt|.|10|.|WET5052.txt|.|16|.|WET3286.txt|.|11
+regional rides|.|WET5051.txt|.|72|.|WET1301.txt|.|54|.|WET5052.txt|.|54
+midwest|.|WET3321.txt|.|11
+clear quartz|.|WET6147.txt|.|17

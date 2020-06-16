@@ -1,0 +1,12 @@
+100
+championship division|.|WET1805.txt|.|48
+agreement|.|WET3745.txt|.|81|.|WET6310.txt|.|2
+swanscombe|.|WET2443.txt|.|35
+saves|.|WET5232.txt|.|369|.|WET5231.txt|.|410
+selection|.|WET71.txt|.|70|.|WET2823.txt|.|18
+consumable|.|WET1004.txt|.|303
+recipe top|.|WET1964.txt|.|4
+barcelona|.|WET2030.txt|.|157
+recipe|.|WET1964.txt|.|66|.|WET1004.txt|.|394|.|WET1831.txt|.|122|.|WET3515.txt|.|51|.|WET2561.txt|.|135
+overload|.|WET6096.txt|.|24
+review helpful|.|WET3659.txt|.|11|.|WET2780.txt|.|48|.|WET3515.txt|.|36|.|WET1120.txt|.|22|.|WET5717.txt|.|40

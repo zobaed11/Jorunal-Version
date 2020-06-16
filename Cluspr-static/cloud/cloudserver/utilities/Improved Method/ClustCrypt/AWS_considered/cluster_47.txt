@@ -1,0 +1,14 @@
+47
+golf soccer swimming|.|WET5690.txt|.|18
+tournaments|.|WET1549.txt|.|13
+match results|.|WET1549.txt|.|8
+tennis|.|WET5918.txt|.|27|.|WET1549.txt|.|65|.|WET5690.txt|.|45|.|WET3026.txt|.|111|.|WET1950.txt|.|39|.|WET5700.txt|.|187|.|WET3379.txt|.|28
+racquet club|.|WET1549.txt|.|6
+opponent score|.|WET3379.txt|.|9
+synthetic|.|WET3026.txt|.|55
+tennis tournament|.|WET5700.txt|.|49
+singles|.|WET5086.txt|.|59|.|WET5700.txt|.|127
+lawn tennis|.|WET5700.txt|.|125
+string black|.|WET3026.txt|.|44
+coretennis|.|WET1549.txt|.|40
+england lawn|.|WET5700.txt|.|80

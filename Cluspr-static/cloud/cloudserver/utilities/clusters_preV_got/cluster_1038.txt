@@ -1,0 +1,12 @@
+1038
+tealight|.|WET3746.txt|.|8
+scented|.|WET3746.txt|.|12
+policies of linked|.|WET4752.txt|.|12|.|WET1009.txt|.|33
+mountel|.|WET2202.txt|.|66
+var|.|WET755.txt|.|51|.|WET2202.txt|.|418|.|WET2192.txt|.|35|.|WET3024.txt|.|110|.|WET2098.txt|.|49|.|WET1009.txt|.|638|.|WET3125.txt|.|3|.|WET3779.txt|.|56|.|WET2203.txt|.|266|.|WET2263.txt|.|36|.|WET2540.txt|.|63|.|WET3746.txt|.|211|.|WET1596.txt|.|92|.|WET1534.txt|.|42|.|WET772.txt|.|2|.|WET4551.txt|.|60
+tealight candles|.|WET3746.txt|.|8
+breakpoints|.|WET2202.txt|.|11
+candles scented|.|WET3746.txt|.|6
+onrender|.|WET2202.txt|.|22
+bidid|.|WET2202.txt|.|77
+video playback|.|WET755.txt|.|5

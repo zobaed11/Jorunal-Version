@@ -1,0 +1,12 @@
+223
+find a property|.|WET2763.txt|.|10
+arabic azerbaijani bengali|.|WET4239.txt|.|11|.|WET4644.txt|.|11
+conspiracy forums|.|WET5255.txt|.|44|.|WET5256.txt|.|4
+alexander mcqueen|.|WET2851.txt|.|45
+houses|.|WET5675.txt|.|37|.|WET1349.txt|.|9|.|WET3362.txt|.|17|.|WET2760.txt|.|53|.|WET2101.txt|.|27|.|WET2763.txt|.|149
+whitewash|.|WET193.txt|.|2
+math forum|.|WET4371.txt|.|42
+definition at line|.|WET871.txt|.|80
+home rentals|.|WET2763.txt|.|7
+property manager|.|WET2763.txt|.|10
+vince|.|WET5944.txt|.|39

@@ -1,0 +1,12 @@
+1276
+recallsfind|.|WET1685.txt|.|11
+select a feature|.|WET1724.txt|.|10
+tell us|.|WET1724.txt|.|40
+pickup reg|.|WET5432.txt|.|11
+car problemsauto parts|.|WET1685.txt|.|11
+car finder compare|.|WET5467.txt|.|18|.|WET1724.txt|.|20
+convertible|.|WET691.txt|.|4
+car uses|.|WET5184.txt|.|10
+car guide|.|WET691.txt|.|3
+schedulecommon car problemsauto|.|WET1685.txt|.|11
+mechanicyour|.|WET1685.txt|.|11

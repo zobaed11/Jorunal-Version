@@ -1,0 +1,12 @@
+779
+spring|.|WET5692.txt|.|12|.|WET2729.txt|.|66|.|WET2792.txt|.|26|.|WET4298.txt|.|18|.|WET5785.txt|.|32|.|WET4831.txt|.|73|.|WET4454.txt|.|89|.|WET2561.txt|.|37|.|WET2728.txt|.|48|.|WET1138.txt|.|130
+imagebam|.|WET5816.txt|.|33
+privacy statement|.|WET207.txt|.|6|.|WET2387.txt|.|11|.|WET776.txt|.|6|.|WET1752.txt|.|32
+original|.|WET551.txt|.|80|.|WET2798.txt|.|29|.|WET568.txt|.|105|.|WET4310.txt|.|105|.|WET1620.txt|.|58|.|WET5728.txt|.|11|.|WET997.txt|.|75
+simian|.|WET4286.txt|.|52
+planted tank|.|WET2667.txt|.|72
+forecasters|.|WET3684.txt|.|3|.|WET1076.txt|.|2|.|WET3862.txt|.|2|.|WET4855.txt|.|1|.|WET3111.txt|.|4|.|WET5088.txt|.|3
+photoslocal vendors|.|WET3267.txt|.|20
+domestic violence|.|WET2758.txt|.|13
+cinema|.|WET3839.txt|.|36|.|WET2481.txt|.|22|.|WET198.txt|.|25|.|WET3945.txt|.|31|.|WET6220.txt|.|20
+timothy|.|WET740.txt|.|76

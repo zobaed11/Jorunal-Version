@@ -1,0 +1,14 @@
+54
+nodes within the localized|.|rfc4831.txt|.|1
+node on its local|.|rfc4832.txt|.|2
+foreign authentication extension|.|rfc4721.txt|.|1
+data traffic|.|rfc3519.txt|.|4
+ip source address|.|rfc2002.txt|.|23
+anchor point|.|rfc4140.txt|.|12
+datagrams destined|.|rfc2002.txt|.|9
+mobile node|.|rfc5265.txt|.|88|.|rfc2002.txt|.|441|.|rfc3957.txt|.|104|.|rfc2290.txt|.|100|.|rfc4487.txt|.|9|.|rfc4283.txt|.|17|.|rfc4866.txt|.|238|.|rfc5213.txt|.|371|.|rfc4832.txt|.|76|.|rfc5726.txt|.|222|.|rfc5380.txt|.|172|.|rfc5142.txt|.|48|.|rfc5679.txt|.|4|.|rfc5844.txt|.|153|.|rfc3543.txt|.|149|.|rfc2344.txt|.|60|.|rfc5446.txt|.|35|.|rfc6275.txt|.|735|.|rfc6153.txt|.|13|.|rfc5949.txt|.|112|.|rfc3775.txt|.|706|.|rfc4877.txt|.|150|.|rfc5568.txt|.|22|.|rfc2356.txt|.|94|.|rfc3776.txt|.|145|.|rfc4140.txt|.|180|.|rfc5555.txt|.|212|.|rfc4449.txt|.|15|.|rfc5648.txt|.|207|.|rfc4295.txt|.|113|.|rfc3024.txt|.|89|.|rfc3846.txt|.|17|.|rfc5846.txt|.|167|.|rfc4721.txt|.|97|.|rfc3519.txt|.|101|.|rfc4651.txt|.|65|.|rfc6252.txt|.|246|.|rfc2006.txt|.|77|.|rfc4977.txt|.|14|.|rfc5685.txt|.|9|.|rfc2977.txt|.|47|.|rfc3012.txt|.|58|.|rfc4004.txt|.|109|.|rfc5149.txt|.|29|.|rfc4225.txt|.|72|.|rfc6089.txt|.|62|.|rfc3344.txt|.|489|.|rfc2794.txt|.|47|.|rfc5026.txt|.|125|.|rfc4831.txt|.|57|.|rfc5454.txt|.|58|.|rfc5944.txt|.|481|.|rfc4640.txt|.|58|.|rfc4285.txt|.|58|.|rfc3220.txt|.|475
+trusted internal|.|rfc5265.txt|.|5
+located|.|rfc3543.txt|.|5
+located mobile|.|rfc3543.txt|.|3
+destined|.|rfc2002.txt|.|10
+care|.|rfc4866.txt|.|1|.|rfc2002.txt|.|3|.|rfc4857.txt|.|2|.|rfc5648.txt|.|1

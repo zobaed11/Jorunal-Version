@@ -1,0 +1,12 @@
+991
+mm|.|WET4331.txt|.|24|.|WET2659.txt|.|47
+mo|.|WET2477.txt|.|33|.|WET2578.txt|.|177|.|WET1475.txt|.|45|.|WET1474.txt|.|14|.|WET6315.txt|.|120
+morgan|.|WET4299.txt|.|7
+mc|.|WET2791.txt|.|24
+md|.|WET5737.txt|.|76
+mg|.|WET2712.txt|.|96|.|WET5784.txt|.|7
+san jose|.|WET6092.txt|.|12|.|WET3758.txt|.|15
+seattle|.|WET676.txt|.|20|.|WET5933.txt|.|18|.|WET2846.txt|.|145|.|WET2842.txt|.|102
+mi|.|WET5547.txt|.|61|.|WET1965.txt|.|65|.|WET545.txt|.|40|.|WET1758.txt|.|132|.|WET5756.txt|.|54
+communication|.|WET1187.txt|.|9|.|WET1733.txt|.|84
+ml|.|WET2143.txt|.|40

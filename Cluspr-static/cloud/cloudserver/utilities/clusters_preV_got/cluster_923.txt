@@ -1,0 +1,12 @@
+923
+wipes|.|WET1949.txt|.|24
+analysis and other empirical|.|WET2641.txt|.|2
+south manatee sales|.|WET1361.txt|.|11
+empirical|.|WET2641.txt|.|2
+autos|.|WET1408.txt|.|27|.|WET3950.txt|.|46|.|WET203.txt|.|77|.|WET3949.txt|.|51
+sarasota|.|WET1361.txt|.|11
+sales view|.|WET1917.txt|.|24
+sales|.|WET2641.txt|.|26|.|WET5655.txt|.|70|.|WET2080.txt|.|39|.|WET1917.txt|.|48|.|WET5822.txt|.|23|.|WET3524.txt|.|20|.|WET4052.txt|.|33|.|WET710.txt|.|18|.|WET1361.txt|.|145|.|WET1362.txt|.|51|.|WET3339.txt|.|28|.|WET203.txt|.|77
+access to fashion|.|WET5655.txt|.|16
+sarasota county sales|.|WET1361.txt|.|11
+zdravlje|.|WET5202.txt|.|57

@@ -1,0 +1,12 @@
+768
+elsevier|.|WET3466.txt|.|437
+vesalius research center|.|WET5873.txt|.|26
+reserve|.|WET5133.txt|.|24|.|WET3466.txt|.|84|.|WET3518.txt|.|9
+evidence and research|.|WET4849.txt|.|25
+neurovascular|.|WET5873.txt|.|26
+working papers|.|WET3466.txt|.|612
+growth|.|WET3466.txt|.|479
+library of munich|.|WET3466.txt|.|98
+munich|.|WET3466.txt|.|125|.|WET902.txt|.|16
+federal reserve|.|WET3466.txt|.|80|.|WET3518.txt|.|9
+research|.|WET814.txt|.|35|.|WET696.txt|.|22|.|WET34.txt|.|9|.|WET3466.txt|.|601|.|WET5873.txt|.|40|.|WET4849.txt|.|29|.|WET6023.txt|.|25|.|WET3933.txt|.|31|.|WET3416.txt|.|7|.|WET3934.txt|.|6

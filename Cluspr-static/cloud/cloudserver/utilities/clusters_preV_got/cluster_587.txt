@@ -1,0 +1,12 @@
+587
+russian church|.|WET6304.txt|.|26
+renderer|.|WET4402.txt|.|1|.|WET18.txt|.|2
+russian|.|WET3138.txt|.|9|.|WET4268.txt|.|11|.|WET4678.txt|.|49|.|WET6304.txt|.|48|.|WET704.txt|.|11|.|WET140.txt|.|11|.|WET4169.txt|.|11|.|WET907.txt|.|11
+eres|.|WET6192.txt|.|80
+canonical claims|.|WET6304.txt|.|26
+letras|.|WET2428.txt|.|98
+traffic stop|.|WET1889.txt|.|64
+community video|.|WET1754.txt|.|22
+canonical|.|WET739.txt|.|22|.|WET6304.txt|.|50|.|WET738.txt|.|22
+networks|.|WET443.txt|.|2|.|WET3503.txt|.|5|.|WET5488.txt|.|1|.|WET93.txt|.|4|.|WET806.txt|.|6|.|WET4055.txt|.|6|.|WET3007.txt|.|2|.|WET3685.txt|.|2|.|WET2524.txt|.|3
+romanian|.|WET4268.txt|.|11|.|WET704.txt|.|11|.|WET140.txt|.|11|.|WET4169.txt|.|11|.|WET907.txt|.|11

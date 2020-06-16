@@ -1,0 +1,12 @@
+766
+bed|.|WET5771.txt|.|28|.|WET3363.txt|.|89|.|WET1349.txt|.|171
+softaway|.|WET3262.txt|.|55
+edge|.|WET2384.txt|.|324
+steel toe|.|WET5911.txt|.|40
+bee|.|WET5027.txt|.|110|.|WET392.txt|.|89
+good gear|.|WET5683.txt|.|15
+deck|.|WET2893.txt|.|20|.|WET3789.txt|.|19
+bei|.|WET5458.txt|.|110|.|WET5869.txt|.|61
+screen international|.|WET2837.txt|.|84
+screen|.|WET2384.txt|.|502|.|WET2383.txt|.|283|.|WET6127.txt|.|343|.|WET3569.txt|.|20|.|WET639.txt|.|55|.|WET528.txt|.|252|.|WET2837.txt|.|117|.|WET4664.txt|.|3|.|WET5683.txt|.|28|.|WET4010.txt|.|883
+media only screen|.|WET528.txt|.|2

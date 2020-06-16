@@ -1,0 +1,12 @@
+1397
+building materials|.|WET204.txt|.|3
+gillan|.|WET5466.txt|.|35
+speaking engagements|.|WET4967.txt|.|7
+speaking|.|WET4967.txt|.|11
+operation lighthouse rescue|.|WET501.txt|.|12
+voted|.|WET591.txt|.|1|.|WET133.txt|.|1|.|WET258.txt|.|2|.|WET5782.txt|.|2|.|WET6111.txt|.|1|.|WET5189.txt|.|1|.|WET3172.txt|.|2|.|WET6226.txt|.|2|.|WET194.txt|.|2|.|WET6151.txt|.|1|.|WET2245.txt|.|2|.|WET5554.txt|.|1|.|WET4533.txt|.|1|.|WET6092.txt|.|2|.|WET3109.txt|.|2|.|WET5219.txt|.|52|.|WET2805.txt|.|1|.|WET2007.txt|.|2|.|WET2483.txt|.|2|.|WET410.txt|.|2|.|WET204.txt|.|1|.|WET4785.txt|.|1|.|WET4090.txt|.|2|.|WET4179.txt|.|1|.|WET1670.txt|.|2|.|WET5476.txt|.|2|.|WET5239.txt|.|1|.|WET5823.txt|.|2|.|WET3212.txt|.|2|.|WET3344.txt|.|1|.|WET1468.txt|.|42|.|WET4442.txt|.|3|.|WET4230.txt|.|2|.|WET2035.txt|.|2|.|WET1257.txt|.|2|.|WET3833.txt|.|1|.|WET501.txt|.|1|.|WET4913.txt|.|1|.|WET2681.txt|.|2|.|WET3752.txt|.|4|.|WET1469.txt|.|28|.|WET2354.txt|.|2|.|WET1105.txt|.|1|.|WET57.txt|.|1|.|WET4678.txt|.|4|.|WET937.txt|.|2|.|WET2364.txt|.|2|.|WET1630.txt|.|1|.|WET1742.txt|.|1|.|WET2492.txt|.|2|.|WET4967.txt|.|1|.|WET4284.txt|.|1|.|WET809.txt|.|2|.|WET1360.txt|.|2|.|WET6237.txt|.|2|.|WET3711.txt|.|1|.|WET5895.txt|.|1
+baker|.|WET2927.txt|.|79
+olympic recurve|.|WET5954.txt|.|41|.|WET2217.txt|.|60
+winw|.|WET4551.txt|.|15
+costumes|.|WET2826.txt|.|46|.|WET4914.txt|.|524|.|WET5070.txt|.|70
+entwining|.|WET4663.txt|.|20

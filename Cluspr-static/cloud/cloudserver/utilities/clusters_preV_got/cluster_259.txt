@@ -1,0 +1,12 @@
+259
+postcards|.|WET4385.txt|.|50|.|WET3096.txt|.|785
+glass|.|WET3096.txt|.|548|.|WET5336.txt|.|31|.|WET4252.txt|.|17|.|WET5492.txt|.|12|.|WET5431.txt|.|12|.|WET297.txt|.|17
+postcards regional|.|WET3096.txt|.|277
+kitchen collectibles|.|WET3096.txt|.|222
+childrens|.|WET3096.txt|.|55
+ephemera|.|WET3096.txt|.|759|.|WET6312.txt|.|6
+art deco|.|WET3096.txt|.|22
+metallodielectric|.|WET297.txt|.|9
+base material|.|WET297.txt|.|9|.|WET2604.txt|.|5
+books childrens|.|WET3096.txt|.|22
+dennis|.|WET5336.txt|.|17

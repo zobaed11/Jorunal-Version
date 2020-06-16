@@ -1,0 +1,12 @@
+863
+us election|.|WET5823.txt|.|24
+tparameter|.|WET871.txt|.|32
+seth|.|WET4121.txt|.|8
+beauty|.|WET365.txt|.|43|.|WET5103.txt|.|36|.|WET3767.txt|.|17|.|WET2066.txt|.|30|.|WET2519.txt|.|37|.|WET5823.txt|.|32|.|WET5022.txt|.|36|.|WET2681.txt|.|41|.|WET2218.txt|.|75|.|WET3275.txt|.|34|.|WET1739.txt|.|48
+popsugar|.|WET5241.txt|.|27|.|WET2681.txt|.|64
+cookie policy|.|WET5823.txt|.|14
+historyadd|.|WET2066.txt|.|7|.|WET5807.txt|.|9
+coconut water|.|WET2681.txt|.|12
+size products|.|WET5955.txt|.|9|.|WET2218.txt|.|7
+blue dragon|.|WET1739.txt|.|14
+complimentary|.|WET2218.txt|.|8

@@ -1,0 +1,12 @@
+448
+emulating|.|WET5787.txt|.|1|.|WET991.txt|.|1|.|WET6304.txt|.|1|.|WET3088.txt|.|1
+manny pacquiao vs timothy|.|WET740.txt|.|38
+pacquiao vs timothy|.|WET740.txt|.|48
+ufc|.|WET1010.txt|.|44|.|WET3173.txt|.|124|.|WET6124.txt|.|92|.|WET2379.txt|.|71
+ortiz|.|WET1808.txt|.|92
+pacquiao vs timothy bradley|.|WET740.txt|.|47
+manny|.|WET740.txt|.|79
+knife fight|.|WET3442.txt|.|87
+pm by sportsman|.|WET6124.txt|.|18
+fight|.|WET1808.txt|.|52|.|WET991.txt|.|33|.|WET3173.txt|.|40|.|WET740.txt|.|81|.|WET6124.txt|.|61|.|WET3442.txt|.|164|.|WET2379.txt|.|54
+mma forum|.|WET6124.txt|.|62|.|WET2379.txt|.|48

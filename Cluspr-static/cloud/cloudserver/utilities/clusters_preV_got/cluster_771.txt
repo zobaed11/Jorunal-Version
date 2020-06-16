@@ -1,0 +1,12 @@
+771
+katsuhiro|.|WET5623.txt|.|18
+pax east|.|WET5623.txt|.|45
+eastern|.|WET1039.txt|.|34|.|WET5147.txt|.|8|.|WET6303.txt|.|79|.|WET5165.txt|.|20
+penn state|.|WET4098.txt|.|24
+katsuhiro harada discusses|.|WET5623.txt|.|18
+middle east|.|WET5165.txt|.|60|.|WET2366.txt|.|5
+pax|.|WET5623.txt|.|45
+tor|.|WET4693.txt|.|20
+discusses|.|WET5623.txt|.|18
+fighter|.|WET5623.txt|.|27
+rationalization|.|WET4562.txt|.|1

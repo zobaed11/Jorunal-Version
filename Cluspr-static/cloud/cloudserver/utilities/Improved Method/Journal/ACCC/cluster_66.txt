@@ -1,0 +1,37 @@
+66
+good question|.|WET3351.txt|.|175
+legal question|.|WET2231.txt|.|12
+groups question brother|.|WET1337.txt|.|16
+terms of service|.|WET4790.txt|.|10|.|WET1337.txt|.|16
+calendarmoviestvtickets|.|WET1337.txt|.|16
+racing entertainment events|.|WET1337.txt|.|16
+usage|.|WET2575.txt|.|113|.|WET4083.txt|.|67
+answers|.|WET1666.txt|.|23|.|WET3351.txt|.|377|.|WET642.txt|.|11
+entertainment events calendarmoviestvtickets|.|WET1337.txt|.|16
+gift sets|.|WET5493.txt|.|108|.|WET1756.txt|.|133|.|WET1757.txt|.|24|.|WET3351.txt|.|46
+usage stack|.|WET4083.txt|.|23
+good|.|WET1742.txt|.|3|.|WET5782.txt|.|22|.|WET4203.txt|.|51|.|WET2039.txt|.|23|.|WET2346.txt|.|31|.|WET3351.txt|.|301|.|WET5683.txt|.|34|.|WET3033.txt|.|11
+crossroadsfood|.|WET1337.txt|.|16
+ask a question|.|WET2130.txt|.|10
+ysl|.|WET3351.txt|.|143
+legal forms|.|WET5968.txt|.|10|.|WET2231.txt|.|11
+local groups question|.|WET1337.txt|.|16
+legal|.|WET5973.txt|.|23|.|WET4204.txt|.|27|.|WET5968.txt|.|71|.|WET170.txt|.|34|.|WET5427.txt|.|22|.|WET1102.txt|.|28|.|WET2235.txt|.|23|.|WET2231.txt|.|77
+ask question|.|WET4083.txt|.|8
+question|.|WET2130.txt|.|10|.|WET3351.txt|.|191|.|WET1337.txt|.|16|.|WET4083.txt|.|47|.|WET2231.txt|.|17
+photo no|.|WET1337.txt|.|8|.|WET5088.txt|.|11
+send to friends|.|WET3351.txt|.|175
+keywords match|.|WET2231.txt|.|3
+programming forums|.|WET2130.txt|.|62
+events calendarmoviestvtickets living|.|WET1337.txt|.|16
+calendarmoviestvtickets living crossroadsfood|.|WET1337.txt|.|16
+friends|.|WET1105.txt|.|63|.|WET1851.txt|.|34|.|WET6015.txt|.|40|.|WET1068.txt|.|9|.|WET3351.txt|.|183|.|WET3033.txt|.|11|.|WET1165.txt|.|78|.|WET4857.txt|.|15|.|WET1562.txt|.|53|.|WET6014.txt|.|40|.|WET1252.txt|.|159|.|WET5514.txt|.|20|.|WET6140.txt|.|22
+push|.|WET1337.txt|.|20
+register help remember|.|WET2130.txt|.|10
+tutorials|.|WET1676.txt|.|41|.|WET2130.txt|.|73|.|WET3025.txt|.|21|.|WET5141.txt|.|54|.|WET3909.txt|.|24|.|WET1391.txt|.|55
+attorney|.|WET5968.txt|.|42|.|WET2231.txt|.|39
+friends good|.|WET3351.txt|.|175
+ask|.|WET3808.txt|.|96|.|WET45.txt|.|99|.|WET2130.txt|.|10|.|WET3792.txt|.|49|.|WET4731.txt|.|28|.|WET1107.txt|.|66|.|WET992.txt|.|21|.|WET2266.txt|.|24|.|WET4083.txt|.|54|.|WET63.txt|.|46|.|WET3791.txt|.|54
+tutorials java|.|WET2130.txt|.|30
+brother|.|WET4188.txt|.|5|.|WET1337.txt|.|16|.|WET5417.txt|.|7
+java programming|.|WET2130.txt|.|72|.|WET2128.txt|.|33

@@ -1,0 +1,12 @@
+912
+cricket games|.|WET1573.txt|.|12
+games blogs book|.|WET5320.txt|.|12
+cw games blogs|.|WET5320.txt|.|12
+cricket|.|WET3419.txt|.|35|.|WET240.txt|.|233|.|WET3985.txt|.|366|.|WET1573.txt|.|103|.|WET5320.txt|.|191|.|WET1572.txt|.|183|.|WET3986.txt|.|150|.|WET2906.txt|.|33|.|WET1672.txt|.|25|.|WET5500.txt|.|74|.|WET5499.txt|.|67|.|WET1762.txt|.|95
+book reviews games|.|WET5320.txt|.|12
+predictions cw games|.|WET5320.txt|.|12
+fantasy cricket predictions|.|WET5320.txt|.|12
+rankings numbers|.|WET5499.txt|.|7
+cw games|.|WET1573.txt|.|12
+county cricket|.|WET5499.txt|.|17
+blogs book reviews|.|WET5320.txt|.|12

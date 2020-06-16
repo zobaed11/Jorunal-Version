@@ -1,0 +1,12 @@
+128
+electric vehicles|.|WET5606.txt|.|8
+fuel economy|.|WET1868.txt|.|20|.|WET5605.txt|.|46
+fuel pump|.|WET1228.txt|.|14
+mpg|.|WET5605.txt|.|91
+fuel|.|WET5606.txt|.|48|.|WET1868.txt|.|44|.|WET94.txt|.|18|.|WET1228.txt|.|47|.|WET5605.txt|.|127
+mpg estimates|.|WET5605.txt|.|18
+find a car|.|WET5605.txt|.|25
+vehicles|.|WET5606.txt|.|61|.|WET1868.txt|.|64|.|WET3484.txt|.|9
+thread view|.|WET1689.txt|.|6
+pump|.|WET1228.txt|.|29|.|WET1192.txt|.|60
+injection|.|WET94.txt|.|14

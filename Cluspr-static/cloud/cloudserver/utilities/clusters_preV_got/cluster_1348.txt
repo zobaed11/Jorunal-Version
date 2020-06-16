@@ -1,0 +1,12 @@
+1348
+capitol|.|WET5730.txt|.|23
+toggle my brainyquote|.|WET1364.txt|.|8
+patterns features|.|WET1391.txt|.|11
+login myhpi|.|WET490.txt|.|8
+register login|.|WET279.txt|.|4
+search sponsored|.|WET964.txt|.|2
+burda|.|WET5141.txt|.|47|.|WET1391.txt|.|44
+details login|.|WET3613.txt|.|85
+review write|.|WET5969.txt|.|14
+docstring standards|.|WET3484.txt|.|6
+pacer login|.|WET3431.txt|.|26

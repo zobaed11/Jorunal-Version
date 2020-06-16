@@ -1,0 +1,12 @@
+428
+examples eclipse|.|WET5870.txt|.|4
+ask a question|.|WET2130.txt|.|10
+gwt codes|.|WET5870.txt|.|4
+java|.|WET4199.txt|.|4|.|WET2130.txt|.|326|.|WET632.txt|.|43|.|WET4046.txt|.|4|.|WET5870.txt|.|220|.|WET2129.txt|.|65|.|WET2128.txt|.|257
+register help remember|.|WET2130.txt|.|10
+gwt|.|WET5870.txt|.|14
+java gaming|.|WET2129.txt|.|7
+intellij|.|WET5870.txt|.|9
+java programming|.|WET2130.txt|.|72|.|WET2128.txt|.|33
+intellij idea|.|WET5870.txt|.|9
+algorithm|.|WET5870.txt|.|9

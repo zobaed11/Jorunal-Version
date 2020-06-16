@@ -1,0 +1,12 @@
+336
+rare diseases|.|WET3514.txt|.|17
+pier|.|WET2657.txt|.|288|.|WET2658.txt|.|238
+turf|.|WET2916.txt|.|10
+welcome screen|.|WET3569.txt|.|18
+van der|.|WET3702.txt|.|6
+buying guide|.|WET3826.txt|.|80|.|WET81.txt|.|64|.|WET4124.txt|.|40|.|WET3828.txt|.|22
+roll|.|WET237.txt|.|12|.|WET5455.txt|.|32
+rides anti|.|WET2398.txt|.|7
+turn|.|WET1583.txt|.|18|.|WET3063.txt|.|6
+details view|.|WET5846.txt|.|7
+turk|.|WET3142.txt|.|35

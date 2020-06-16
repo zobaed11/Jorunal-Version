@@ -1,0 +1,12 @@
+150
+baseball discussions|.|WET3280.txt|.|5
+pm amy said|.|WET4287.txt|.|112
+pm jere said|.|WET4287.txt|.|58
+redsock|.|WET544.txt|.|77|.|WET4287.txt|.|158
+pm redsock|.|WET544.txt|.|76|.|WET4287.txt|.|152
+redsock said|.|WET544.txt|.|77|.|WET4287.txt|.|156
+pm redsock said|.|WET4287.txt|.|152
+red sox|.|WET544.txt|.|319|.|WET5334.txt|.|16|.|WET4287.txt|.|426
+windows|.|WET4809.txt|.|467|.|WET3294.txt|.|169|.|WET4667.txt|.|140|.|WET6130.txt|.|68
+sox|.|WET4354.txt|.|36|.|WET544.txt|.|436|.|WET5334.txt|.|27|.|WET3280.txt|.|50|.|WET4287.txt|.|586
+jere|.|WET4287.txt|.|67

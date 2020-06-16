@@ -1,0 +1,12 @@
+215
+brasil br|.|WET5784.txt|.|5
+legion|.|WET2747.txt|.|6
+img|.|WET1849.txt|.|21|.|WET4577.txt|.|10
+pubs|.|WET3918.txt|.|17
+arrivals mikasa|.|WET2368.txt|.|24|.|WET2367.txt|.|55
+issue|.|WET1988.txt|.|49|.|WET4059.txt|.|15
+shelby|.|WET2435.txt|.|56
+uk|.|WET2118.txt|.|37|.|WET1849.txt|.|30|.|WET1003.txt|.|36|.|WET5784.txt|.|7|.|WET2040.txt|.|13|.|WET4741.txt|.|74
+academic calendar|.|WET3732.txt|.|15|.|WET4477.txt|.|16|.|WET1446.txt|.|56|.|WET5196.txt|.|48
+brasil|.|WET5784.txt|.|7
+peaks|.|WET4489.txt|.|23|.|WET2620.txt|.|48

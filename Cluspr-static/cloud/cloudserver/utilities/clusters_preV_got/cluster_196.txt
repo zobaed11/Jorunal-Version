@@ -1,0 +1,12 @@
+196
+carson city|.|WET2479.txt|.|48
+starships spacecraft|.|WET4382.txt|.|7
+bestsellers|.|WET1253.txt|.|110
+prop|.|WET1712.txt|.|48
+look like|.|WET489.txt|.|3|.|WET5940.txt|.|10
+suggestions|.|WET5456.txt|.|30|.|WET1710.txt|.|120
+taxonomy|.|WET3656.txt|.|3
+auctions|.|WET5708.txt|.|7|.|WET4781.txt|.|4|.|WET1335.txt|.|2|.|WET5844.txt|.|64|.|WET1483.txt|.|6|.|WET3948.txt|.|10|.|WET2101.txt|.|68
+see suggestions|.|WET5456.txt|.|28|.|WET1710.txt|.|114
+auction houses|.|WET2101.txt|.|27
+shaft|.|WET1712.txt|.|44

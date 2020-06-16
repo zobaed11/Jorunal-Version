@@ -1,0 +1,12 @@
+1374
+joyner library|.|WET106.txt|.|22
+tigres|.|WET4084.txt|.|3
+engines|.|WET443.txt|.|2|.|WET300.txt|.|2|.|WET1200.txt|.|2|.|WET3901.txt|.|1|.|WET5294.txt|.|3|.|WET364.txt|.|1|.|WET682.txt|.|2|.|WET4012.txt|.|1|.|WET3852.txt|.|7|.|WET1042.txt|.|2|.|WET2901.txt|.|2|.|WET2854.txt|.|18|.|WET2579.txt|.|2
+paste studio|.|WET2601.txt|.|12
+uma|.|WET257.txt|.|18|.|WET779.txt|.|26|.|WET389.txt|.|19|.|WET5853.txt|.|3|.|WET3544.txt|.|42|.|WET540.txt|.|2|.|WET97.txt|.|14|.|WET5704.txt|.|18|.|WET5472.txt|.|12|.|WET1597.txt|.|7|.|WET4014.txt|.|35|.|WET4625.txt|.|6|.|WET2925.txt|.|31|.|WET4908.txt|.|2|.|WET4536.txt|.|2|.|WET4023.txt|.|80|.|WET125.txt|.|52|.|WET106.txt|.|42|.|WET1130.txt|.|2|.|WET4084.txt|.|49|.|WET232.txt|.|18|.|WET2901.txt|.|170|.|WET2601.txt|.|27|.|WET2038.txt|.|5|.|WET2700.txt|.|4|.|WET4637.txt|.|2|.|WET4548.txt|.|11|.|WET4946.txt|.|56|.|WET4920.txt|.|2|.|WET608.txt|.|13|.|WET3752.txt|.|62|.|WET3964.txt|.|19|.|WET5643.txt|.|13|.|WET623.txt|.|29|.|WET750.txt|.|4|.|WET513.txt|.|2|.|WET4320.txt|.|23|.|WET5372.txt|.|42|.|WET31.txt|.|2|.|WET6150.txt|.|2|.|WET459.txt|.|2|.|WET241.txt|.|15|.|WET4114.txt|.|2|.|WET4720.txt|.|25|.|WET6003.txt|.|2|.|WET1516.txt|.|54|.|WET670.txt|.|2|.|WET4538.txt|.|18|.|WET3140.txt|.|14|.|WET2683.txt|.|19|.|WET4936.txt|.|2
+megala|.|WET1172.txt|.|33
+perl|.|WET4497.txt|.|128
+aquatic plants|.|WET4946.txt|.|7
+denver post|.|WET130.txt|.|49
+perf|.|WET4336.txt|.|16
+criar aula|.|WET779.txt|.|4

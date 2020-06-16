@@ -1,0 +1,12 @@
+821
+takedown|.|WET2468.txt|.|18|.|WET6206.txt|.|21
+family films|.|WET1772.txt|.|15
+harley|.|WET3228.txt|.|174
+technical|.|WET4242.txt|.|187|.|WET2070.txt|.|20|.|WET4243.txt|.|86|.|WET642.txt|.|11|.|WET494.txt|.|172|.|WET495.txt|.|138
+german greek hebrew|.|WET329.txt|.|11|.|WET3990.txt|.|11|.|WET3884.txt|.|11
+open news|.|WET3733.txt|.|22
+designed|.|WET3047.txt|.|12|.|WET3966.txt|.|3|.|WET228.txt|.|10|.|WET4990.txt|.|11|.|WET3048.txt|.|3|.|WET219.txt|.|6
+open|.|WET1772.txt|.|29|.|WET2468.txt|.|17|.|WET4242.txt|.|261|.|WET1610.txt|.|12|.|WET3014.txt|.|37|.|WET4669.txt|.|32|.|WET1918.txt|.|16|.|WET3733.txt|.|22|.|WET5575.txt|.|17|.|WET494.txt|.|230|.|WET495.txt|.|191
+italy|.|WET4669.txt|.|20
+ellipsis|.|WET2628.txt|.|15|.|WET4492.txt|.|20|.|WET751.txt|.|55
+open senior ii|.|WET4669.txt|.|4

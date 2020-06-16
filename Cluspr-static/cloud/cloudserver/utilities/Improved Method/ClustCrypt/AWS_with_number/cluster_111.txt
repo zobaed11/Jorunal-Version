@@ -1,0 +1,20 @@
+111
+technology degree|.|WET6255.txt|.|7
+counseling|.|WET3738.txt|.|12
+add tags|.|WET226.txt|.|6|.|WET1647.txt|.|6|.|WET1023.txt|.|8
+market information|.|WET2211.txt|.|2|.|WET5760.txt|.|2|.|WET1647.txt|.|2
+degree|.|WET6255.txt|.|13|.|WET2427.txt|.|64|.|WET974.txt|.|25|.|WET1647.txt|.|174|.|WET3738.txt|.|9
+programs auditions|.|WET2427.txt|.|60
+training|.|WET3361.txt|.|10|.|WET1118.txt|.|159|.|WET2716.txt|.|16|.|WET2057.txt|.|120|.|WET2915.txt|.|52|.|WET3783.txt|.|17|.|WET217.txt|.|38|.|WET1476.txt|.|10|.|WET1647.txt|.|176|.|WET3457.txt|.|11|.|WET1473.txt|.|21|.|WET34.txt|.|30|.|WET3965.txt|.|189|.|WET1666.txt|.|40|.|WET3735.txt|.|90|.|WET218.txt|.|174
+job training|.|WET1647.txt|.|44
+interviews|.|WET1879.txt|.|11|.|WET5827.txt|.|12|.|WET2427.txt|.|64|.|WET1019.txt|.|21
+online degree|.|WET3738.txt|.|5
+hotter world|.|WET974.txt|.|28
+oklahoma city|.|WET1647.txt|.|106
+endpoint|.|WET131.txt|.|2|.|WET1671.txt|.|2|.|WET3575.txt|.|4|.|WET265.txt|.|2|.|WET4212.txt|.|2|.|WET5639.txt|.|3|.|WET510.txt|.|2|.|WET1647.txt|.|4
+alarm|.|WET974.txt|.|25
+programs|.|WET2779.txt|.|15|.|WET2427.txt|.|109
+managers|.|WET2764.txt|.|5|.|WET4693.txt|.|20|.|WET1647.txt|.|24
+service managers|.|WET1647.txt|.|6
+counseling ms|.|WET3738.txt|.|8
+overview degree|.|WET2427.txt|.|60

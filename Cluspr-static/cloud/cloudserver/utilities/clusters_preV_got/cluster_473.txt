@@ -1,0 +1,12 @@
+473
+mph humidity|.|WET3260.txt|.|156
+vacuum cleaners|.|WET6299.txt|.|18|.|WET6298.txt|.|85
+red fm|.|WET4552.txt|.|40
+bike parts|.|WET1302.txt|.|16
+road|.|WET2780.txt|.|45|.|WET5468.txt|.|7|.|WET3016.txt|.|8|.|WET635.txt|.|15|.|WET1415.txt|.|40|.|WET2138.txt|.|94|.|WET4103.txt|.|16|.|WET5208.txt|.|37
+value creators|.|WET3207.txt|.|5
+friends good|.|WET3351.txt|.|175
+patrick|.|WET364.txt|.|32|.|WET166.txt|.|18
+country easy listening|.|WET5728.txt|.|11
+pictures|.|WET1235.txt|.|5|.|WET364.txt|.|3215|.|WET2858.txt|.|12|.|WET1270.txt|.|98|.|WET2181.txt|.|66|.|WET4737.txt|.|40|.|WET37.txt|.|212
+advertise|.|WET6099.txt|.|12|.|WET2159.txt|.|21|.|WET1794.txt|.|22|.|WET4816.txt|.|13|.|WET6230.txt|.|7|.|WET5205.txt|.|11|.|WET6190.txt|.|16|.|WET1833.txt|.|12|.|WET3080.txt|.|11|.|WET3307.txt|.|6|.|WET1828.txt|.|5|.|WET6226.txt|.|11|.|WET5257.txt|.|6|.|WET575.txt|.|8|.|WET6228.txt|.|8|.|WET3325.txt|.|12|.|WET5394.txt|.|11|.|WET5368.txt|.|7|.|WET4822.txt|.|6|.|WET4300.txt|.|10|.|WET2360.txt|.|22|.|WET6152.txt|.|33|.|WET1919.txt|.|9|.|WET834.txt|.|12|.|WET2861.txt|.|12|.|WET3068.txt|.|6|.|WET6060.txt|.|14|.|WET6030.txt|.|22|.|WET6153.txt|.|24|.|WET1034.txt|.|30

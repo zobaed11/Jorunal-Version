@@ -1,0 +1,12 @@
+1186
+dhaka|.|WET4205.txt|.|12
+sande|.|WET2087.txt|.|2
+lesions|.|WET4205.txt|.|8
+masters doubles|.|WET2117.txt|.|2
+twist top jar|.|WET1684.txt|.|13
+thinkpad|.|WET1536.txt|.|18
+lenovo thinkpad|.|WET1536.txt|.|14
+twist|.|WET1684.txt|.|18
+secured|.|WET1236.txt|.|10
+firmware|.|WET1536.txt|.|11
+info|.|WET3611.txt|.|11|.|WET2748.txt|.|202|.|WET1778.txt|.|11|.|WET2358.txt|.|11|.|WET5554.txt|.|65|.|WET744.txt|.|10|.|WET4455.txt|.|28|.|WET3087.txt|.|11|.|WET2266.txt|.|40|.|WET1236.txt|.|31|.|WET1684.txt|.|45|.|WET4937.txt|.|58|.|WET2087.txt|.|120|.|WET403.txt|.|36|.|WET3324.txt|.|25|.|WET2117.txt|.|9|.|WET4860.txt|.|26|.|WET3610.txt|.|40|.|WET3177.txt|.|29|.|WET3415.txt|.|191|.|WET1536.txt|.|18|.|WET3841.txt|.|392|.|WET4205.txt|.|24

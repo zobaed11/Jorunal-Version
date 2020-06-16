@@ -1,0 +1,12 @@
+654
+junction|.|WET1920.txt|.|75|.|WET5659.txt|.|109
+bottle case|.|WET3296.txt|.|157
+ramirez|.|WET5900.txt|.|17|.|WET2159.txt|.|18
+hospital colorado|.|WET1474.txt|.|12
+commando|.|WET663.txt|.|49
+sana bir|.|WET4645.txt|.|32
+community group|.|WET2039.txt|.|2|.|WET1957.txt|.|3
+springs|.|WET2486.txt|.|11
+finding a doctor|.|WET1474.txt|.|4
+colorado|.|WET179.txt|.|52|.|WET4028.txt|.|67|.|WET1957.txt|.|38|.|WET130.txt|.|234|.|WET3321.txt|.|11|.|WET1474.txt|.|20|.|WET1789.txt|.|40|.|WET2486.txt|.|11
+blognewsletterconnect|.|WET6196.txt|.|11

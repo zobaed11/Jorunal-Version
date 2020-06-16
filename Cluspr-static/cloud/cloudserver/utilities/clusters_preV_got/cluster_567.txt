@@ -1,0 +1,12 @@
+567
+secondary|.|WET224.txt|.|8
+guild|.|WET4663.txt|.|20|.|WET2380.txt|.|112
+mission|.|WET4877.txt|.|25|.|WET292.txt|.|76|.|WET2169.txt|.|29
+requested|.|WET3368.txt|.|3
+democrat|.|WET3184.txt|.|59|.|WET5338.txt|.|19
+multiplayer games|.|WET5013.txt|.|4|.|WET5621.txt|.|2
+sms|.|WET2106.txt|.|20
+copper|.|WET4833.txt|.|15
+dawanda|.|WET4008.txt|.|18
+peterjochu|.|WET6096.txt|.|36
+dspace|.|WET3517.txt|.|45

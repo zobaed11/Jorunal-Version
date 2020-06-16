@@ -1,0 +1,12 @@
+1160
+weddingslocal|.|WET3267.txt|.|20
+vendors after wedding|.|WET3267.txt|.|11
+citylocal|.|WET3267.txt|.|20
+wedding mapper|.|WET3268.txt|.|30|.|WET3267.txt|.|72
+change citylocal talklocal|.|WET3267.txt|.|20
+ideas real weddings|.|WET2005.txt|.|6
+change citylocal|.|WET3267.txt|.|20
+wedding ideas|.|WET2005.txt|.|12
+wedding venues|.|WET2005.txt|.|42
+talklocal|.|WET3267.txt|.|20
+real wedding|.|WET3651.txt|.|4

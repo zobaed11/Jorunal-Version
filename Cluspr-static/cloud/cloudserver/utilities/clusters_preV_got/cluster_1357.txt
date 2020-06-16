@@ -1,0 +1,12 @@
+1357
+cuoco|.|WET5523.txt|.|24
+hobos|.|WET1378.txt|.|18
+lower body health|.|WET1839.txt|.|23
+insoles|.|WET1840.txt|.|27
+shoes shop|.|WET1839.txt|.|33
+pronation|.|WET1839.txt|.|38
+boots casual|.|WET1840.txt|.|6
+nike air|.|WET475.txt|.|12
+odor|.|WET1839.txt|.|47
+shoes|.|WET2917.txt|.|30|.|WET5441.txt|.|14|.|WET2189.txt|.|54|.|WET2950.txt|.|461|.|WET2913.txt|.|20|.|WET1816.txt|.|190|.|WET5124.txt|.|173|.|WET3357.txt|.|68|.|WET5574.txt|.|35|.|WET3243.txt|.|66|.|WET5128.txt|.|111|.|WET1840.txt|.|118|.|WET4658.txt|.|18|.|WET5523.txt|.|158|.|WET3093.txt|.|40|.|WET2015.txt|.|36|.|WET2916.txt|.|69|.|WET3118.txt|.|64|.|WET1377.txt|.|127|.|WET475.txt|.|27|.|WET2839.txt|.|133|.|WET1839.txt|.|494|.|WET5186.txt|.|123|.|WET2915.txt|.|66|.|WET5957.txt|.|50|.|WET1788.txt|.|176|.|WET2872.txt|.|256|.|WET3708.txt|.|63|.|WET3606.txt|.|31|.|WET5576.txt|.|174|.|WET5550.txt|.|131|.|WET5679.txt|.|298|.|WET2780.txt|.|63|.|WET2844.txt|.|187|.|WET4905.txt|.|194|.|WET1623.txt|.|132|.|WET2874.txt|.|78|.|WET1941.txt|.|260|.|WET2188.txt|.|189|.|WET1415.txt|.|300|.|WET1378.txt|.|56|.|WET1817.txt|.|148|.|WET2153.txt|.|84|.|WET5551.txt|.|254
+odor foot perspiration|.|WET1839.txt|.|35

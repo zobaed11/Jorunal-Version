@@ -1,0 +1,12 @@
+137
+contests|.|WET3257.txt|.|14|.|WET5768.txt|.|18|.|WET2393.txt|.|22
+horseclicks|.|WET2026.txt|.|21
+user horses|.|WET5768.txt|.|24
+pfalz|.|WET1759.txt|.|3
+quarter horse|.|WET1758.txt|.|44
+selle|.|WET1758.txt|.|11
+search vb search|.|WET5768.txt|.|13
+sport horse|.|WET1758.txt|.|22
+adspecial|.|WET1758.txt|.|44
+contests horse|.|WET5768.txt|.|18
+vb|.|WET5768.txt|.|15|.|WET409.txt|.|5

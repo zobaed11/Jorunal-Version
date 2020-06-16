@@ -1,0 +1,12 @@
+220
+vegetable spices|.|WET3528.txt|.|40
+aga khan|.|WET1140.txt|.|41
+playa|.|WET2574.txt|.|154
+gt catalog|.|WET4605.txt|.|12
+emery|.|WET1721.txt|.|51
+composite|.|WET1281.txt|.|2|.|WET3132.txt|.|2|.|WET4726.txt|.|2|.|WET3197.txt|.|2|.|WET3773.txt|.|3|.|WET1375.txt|.|2|.|WET4582.txt|.|2|.|WET6107.txt|.|2|.|WET913.txt|.|2|.|WET5591.txt|.|2|.|WET5857.txt|.|2|.|WET1615.txt|.|2|.|WET5133.txt|.|3|.|WET5528.txt|.|3|.|WET969.txt|.|2|.|WET2612.txt|.|2|.|WET5080.txt|.|2|.|WET4302.txt|.|2|.|WET625.txt|.|8|.|WET575.txt|.|2|.|WET4210.txt|.|2|.|WET365.txt|.|2|.|WET19.txt|.|2|.|WET1292.txt|.|2|.|WET4109.txt|.|2|.|WET6109.txt|.|1|.|WET2788.txt|.|3|.|WET1067.txt|.|2|.|WET1931.txt|.|2|.|WET373.txt|.|2|.|WET416.txt|.|2|.|WET1937.txt|.|2|.|WET297.txt|.|2|.|WET1268.txt|.|4|.|WET2072.txt|.|2|.|WET4271.txt|.|35|.|WET2462.txt|.|2|.|WET2688.txt|.|1|.|WET1804.txt|.|60|.|WET1348.txt|.|2|.|WET66.txt|.|2|.|WET759.txt|.|2|.|WET1670.txt|.|2
+shipping bush|.|WET1395.txt|.|39
+highways|.|WET3819.txt|.|74
+injury|.|WET703.txt|.|10
+los angeles|.|WET4613.txt|.|60|.|WET3758.txt|.|25|.|WET3082.txt|.|50|.|WET4763.txt|.|44
+bell respect|.|WET5366.txt|.|7

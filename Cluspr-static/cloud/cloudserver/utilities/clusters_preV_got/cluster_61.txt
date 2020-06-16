@@ -1,0 +1,12 @@
+61
+income|.|WET4679.txt|.|29|.|WET566.txt|.|12|.|WET2920.txt|.|158|.|WET5711.txt|.|93
+kansas business|.|WET566.txt|.|6
+spock|.|WET4382.txt|.|16
+news weather|.|WET566.txt|.|7
+en meiningen|.|WET1018.txt|.|11
+ebscohost help|.|WET730.txt|.|11
+income taxes|.|WET4679.txt|.|6|.|WET566.txt|.|12
+tamanhos grandes|.|WET830.txt|.|39
+metabomb|.|WET1768.txt|.|18
+kansas|.|WET4294.txt|.|19|.|WET3980.txt|.|13|.|WET566.txt|.|88|.|WET5525.txt|.|14|.|WET1470.txt|.|29
+social directory about us|.|WET2468.txt|.|10

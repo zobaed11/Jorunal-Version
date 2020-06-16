@@ -1,0 +1,12 @@
+30
+sun ultrasparc|.|WET4467.txt|.|7
+cedric le goater|.|WET4336.txt|.|78
+upload faq photo|.|WET1137.txt|.|11
+weeks|.|WET1137.txt|.|31|.|WET1865.txt|.|38|.|WET1355.txt|.|40|.|WET4403.txt|.|26|.|WET37.txt|.|25
+airlines|.|WET1232.txt|.|11|.|WET4883.txt|.|34|.|WET1137.txt|.|39|.|WET3446.txt|.|85
+aviation|.|WET4883.txt|.|183|.|WET4984.txt|.|19|.|WET1137.txt|.|201|.|WET3621.txt|.|36|.|WET4884.txt|.|71
+industry|.|WET4883.txt|.|33|.|WET2706.txt|.|24|.|WET1137.txt|.|33|.|WET3190.txt|.|33|.|WET5710.txt|.|27
+older|.|WET533.txt|.|5|.|WET1137.txt|.|44|.|WET1796.txt|.|6|.|WET5713.txt|.|2|.|WET3776.txt|.|18|.|WET4804.txt|.|5
+aviation industry news|.|WET1137.txt|.|11
+aircraft data|.|WET4883.txt|.|33
+aviation industry newsletter|.|WET1137.txt|.|11

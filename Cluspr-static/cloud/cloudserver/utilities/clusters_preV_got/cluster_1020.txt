@@ -1,0 +1,12 @@
+1020
+aires|.|WET4807.txt|.|86
+itm in defaults|.|WET1009.txt|.|22
+defaults|.|WET1009.txt|.|44
+nights|.|WET5775.txt|.|64|.|WET883.txt|.|39|.|WET1558.txt|.|21
+card forum|.|WET2951.txt|.|114
+victor ortiz|.|WET1808.txt|.|68
+relojes de hombre nuevo|.|WET6117.txt|.|25
+var defaults|.|WET1009.txt|.|22
+policies|.|WET4752.txt|.|36|.|WET4514.txt|.|8|.|WET5196.txt|.|30|.|WET1009.txt|.|99
+itm in obj|.|WET1009.txt|.|22
+poid|.|WET1009.txt|.|33
