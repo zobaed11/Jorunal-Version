@@ -1,0 +1,53 @@
+6
+mobiles with cameras|.|bbc2212.txt|.|1|.|bbc1927.txt|.|1
+phone technology|.|bbc2212.txt|.|2|.|bbc1927.txt|.|2
+cheaper|.|bbc1874.txt|.|2
+highest monthly|.|bbc2196.txt|.|2
+smashed|.|bbc2196.txt|.|1
+tabloid|.|bbc2032.txt|.|2
+sk telecom|.|bbc2202.txt|.|2
+pocket office|.|bbc1865.txt|.|2
+mobile phones|.|bbc2212.txt|.|1|.|bbc1927.txt|.|1
+celebrities|.|bbc2032.txt|.|4
+south korea|.|bbc2202.txt|.|3
+phones|.|bbc2212.txt|.|13|.|bbc2032.txt|.|7|.|bbc2006.txt|.|5|.|bbc1874.txt|.|6|.|bbc1927.txt|.|13
+owners|.|bbc2196.txt|.|2
+tabloid newspapers|.|bbc2032.txt|.|1
+sk|.|bbc2202.txt|.|2
+telecom|.|bbc2202.txt|.|2
+mobile users|.|bbc2202.txt|.|2
+catch|.|bbc2032.txt|.|3
+smash|.|bbc2196.txt|.|1
+gartner|.|bbc2212.txt|.|3|.|bbc1927.txt|.|3
+monthly total|.|bbc2196.txt|.|2
+text record|.|bbc2196.txt|.|1
+smash more records|.|bbc2196.txt|.|1
+megapixel images|.|bbc2212.txt|.|2|.|bbc1927.txt|.|2
+bigger|.|bbc1994.txt|.|2
+mobile|.|bbc2196.txt|.|5|.|bbc2212.txt|.|4|.|bbc1865.txt|.|7|.|bbc2202.txt|.|22|.|bbc2009.txt|.|2|.|bbc2032.txt|.|8|.|bbc2006.txt|.|5|.|bbc1874.txt|.|8|.|bbc1994.txt|.|3|.|bbc1927.txt|.|4
+megapixel|.|bbc2212.txt|.|2|.|bbc1927.txt|.|2
+message|.|bbc2196.txt|.|1
+text message|.|bbc2196.txt|.|1
+messaging|.|bbc2196.txt|.|2
+korea|.|bbc2202.txt|.|4
+said the panel|.|bbc1994.txt|.|1
+immediacy|.|bbc2032.txt|.|3
+highest|.|bbc2196.txt|.|2
+mobile tv|.|bbc2202.txt|.|9
+mobile phone|.|bbc2032.txt|.|5|.|bbc1874.txt|.|1
+records with their text messaging|.|bbc2196.txt|.|1
+mobile gig|.|bbc2006.txt|.|1
+tipped|.|bbc2202.txt|.|2
+mobile owners|.|bbc2196.txt|.|2
+mobile picture|.|bbc2032.txt|.|1
+pocket|.|bbc1865.txt|.|3
+operator
+biggest bank
+biggest uk bank
+handset
+staff
+annual bloggies
+operator euronext
+top industrialised
+top earners
+annual profits

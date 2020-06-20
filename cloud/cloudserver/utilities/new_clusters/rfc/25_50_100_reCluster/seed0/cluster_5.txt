@@ -1,0 +1,17 @@
+5
+agent|.|rfc3012.txt|.|104|.|rfc3176.txt|.|61|.|rfc2165.txt|.|229|.|rfc4887.txt|.|37|.|rfc3154.txt|.|64|.|rfc5379.txt|.|36|.|rfc4721.txt|.|181|.|rfc5944.txt|.|853|.|rfc4640.txt|.|61|.|rfc5192.txt|.|12|.|rfc3220.txt|.|813|.|rfc3064.txt|.|142|.|rfc5142.txt|.|134
+mobility|.|rfc5679.txt|.|32|.|rfc6115.txt|.|49|.|rfc5944.txt|.|236|.|rfc5568.txt|.|60|.|rfc4640.txt|.|57|.|rfc4886.txt|.|54|.|rfc3220.txt|.|228|.|rfc3154.txt|.|14|.|rfc4065.txt|.|28|.|rfc5142.txt|.|22
+mobility support november|.|rfc5944.txt|.|99
+datagram|.|rfc3176.txt|.|28|.|rfc5944.txt|.|87|.|rfc2075.txt|.|35
+home|.|rfc5944.txt|.|620|.|rfc4640.txt|.|127|.|rfc3484.txt|.|26|.|rfc2794.txt|.|23|.|rfc3220.txt|.|584|.|rfc4887.txt|.|293|.|rfc4857.txt|.|69|.|rfc5142.txt|.|161
+foreign|.|rfc3012.txt|.|72|.|rfc4721.txt|.|118|.|rfc5944.txt|.|322|.|rfc44.txt|.|6|.|rfc3220.txt|.|319
+mobile ip|.|rfc3012.txt|.|35|.|rfc3141.txt|.|17|.|rfc2794.txt|.|12|.|rfc3220.txt|.|78
+node|.|rfc4558.txt|.|9|.|rfc5679.txt|.|5|.|rfc3012.txt|.|59|.|rfc538.txt|.|2|.|rfc3788.txt|.|10|.|rfc2171.txt|.|20|.|rfc2794.txt|.|47|.|rfc2803.txt|.|22|.|rfc3076.txt|.|63|.|rfc4209.txt|.|26|.|rfc4721.txt|.|97|.|rfc5944.txt|.|530|.|rfc2745.txt|.|77|.|rfc5568.txt|.|35|.|rfc4640.txt|.|58|.|rfc413.txt|.|6|.|rfc3220.txt|.|526|.|rfc5977.txt|.|330|.|rfc5514.txt|.|9|.|rfc5142.txt|.|51
+mobile node|.|rfc5679.txt|.|4|.|rfc3012.txt|.|58|.|rfc4721.txt|.|97|.|rfc5944.txt|.|481|.|rfc5568.txt|.|22|.|rfc4640.txt|.|58|.|rfc2794.txt|.|47|.|rfc3220.txt|.|475|.|rfc5142.txt|.|48
+perkins standards track|.|rfc5944.txt|.|100|.|rfc3220.txt|.|98
+ip mobility support|.|rfc5944.txt|.|105|.|rfc3220.txt|.|101
+perkins standards|.|rfc4268.txt|.|19|.|rfc3220.txt|.|98
+support|.|rfc5944.txt|.|126|.|rfc4886.txt|.|51|.|rfc3364.txt|.|17|.|rfc3220.txt|.|123|.|rfc5553.txt|.|17|.|rfc3473.txt|.|24
+home agent|.|rfc5944.txt|.|398|.|rfc4640.txt|.|59|.|rfc3220.txt|.|369|.|rfc4887.txt|.|37|.|rfc5142.txt|.|133
+message january|.|rfc5142.txt|.|12
+foreign agent|.|rfc3012.txt|.|70|.|rfc4721.txt|.|113|.|rfc5944.txt|.|270|.|rfc3220.txt|.|259

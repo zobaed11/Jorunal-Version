@@ -1,0 +1,76 @@
+24
+small|.|bbc517.txt|.|2
+foxx and swank|.|bbc579.txt|.|2
+lucas|.|bbc711.txt|.|4|.|bbc892.txt|.|3
+fiction|.|bbc1963.txt|.|3|.|bbc517.txt|.|2
+choice award|.|bbc711.txt|.|2
+scissor|.|bbc638.txt|.|3
+triumphed|.|bbc711.txt|.|1
+screen|.|bbc579.txt|.|2|.|bbc575.txt|.|2|.|bbc2130.txt|.|2
+voted|.|bbc735.txt|.|1|.|bbc638.txt|.|2
+south africa|.|bbc1682.txt|.|1|.|bbc1303.txt|.|3
+radio|.|bbc722.txt|.|3|.|bbc1890.txt|.|2|.|bbc728.txt|.|4|.|bbc2205.txt|.|2|.|bbc1455.txt|.|2|.|bbc1467.txt|.|2|.|bbc638.txt|.|2
+eastenders|.|bbc701.txt|.|1
+million dollar|.|bbc596.txt|.|2|.|bbc579.txt|.|3|.|bbc838.txt|.|2
+actor award|.|bbc579.txt|.|1
+guild|.|bbc579.txt|.|2
+small island|.|bbc517.txt|.|2
+actors guild|.|bbc579.txt|.|2
+cinema|.|bbc841.txt|.|2|.|bbc568.txt|.|2
+international|.|bbc1682.txt|.|3|.|bbc1412.txt|.|2
+comedy category|.|bbc711.txt|.|2
+island|.|bbc517.txt|.|2
+comedy|.|bbc722.txt|.|2|.|bbc711.txt|.|14|.|bbc610.txt|.|3
+festival|.|bbc828.txt|.|3|.|bbc793.txt|.|9|.|bbc609.txt|.|4|.|bbc568.txt|.|4|.|bbc557.txt|.|2|.|bbc638.txt|.|2
+night|.|bbc1549.txt|.|3|.|bbc711.txt|.|7|.|bbc569.txt|.|2|.|bbc692.txt|.|3
+matt|.|bbc711.txt|.|3|.|bbc1611.txt|.|4|.|bbc1526.txt|.|2
+night takeaway|.|bbc711.txt|.|3
+tate|.|bbc511.txt|.|3|.|bbc385.txt|.|3
+ray|.|bbc579.txt|.|3|.|bbc583.txt|.|6
+virgin radio|.|bbc638.txt|.|2
+actors|.|bbc579.txt|.|5
+winner|.|bbc841.txt|.|3
+scissor sisters|.|bbc638.txt|.|3
+golden rose|.|bbc701.txt|.|3
+david walliams|.|bbc711.txt|.|2
+ray charles|.|bbc579.txt|.|2
+cinema award|.|bbc841.txt|.|2
+little|.|bbc722.txt|.|4|.|bbc1165.txt|.|3|.|bbc711.txt|.|5|.|bbc701.txt|.|3
+britain|.|bbc1056.txt|.|3|.|bbc722.txt|.|4|.|bbc711.txt|.|6|.|bbc1245.txt|.|4|.|bbc701.txt|.|3|.|bbc1263.txt|.|9
+boss|.|bbc1456.txt|.|1|.|bbc1544.txt|.|3|.|bbc1526.txt|.|2|.|bbc385.txt|.|2|.|bbc1489.txt|.|2
+gig|.|bbc661.txt|.|3|.|bbc2006.txt|.|4|.|bbc638.txt|.|4
+world cinema|.|bbc841.txt|.|2
+screen actors|.|bbc579.txt|.|2
+controversial film|.|bbc609.txt|.|2
+hoffman|.|bbc825.txt|.|4
+levy|.|bbc517.txt|.|2
+dollar|.|bbc596.txt|.|2|.|bbc579.txt|.|3|.|bbc53.txt|.|2|.|bbc838.txt|.|2|.|bbc376.txt|.|6
+award|.|bbc841.txt|.|3|.|bbc517.txt|.|2|.|bbc579.txt|.|3|.|bbc1682.txt|.|5|.|bbc711.txt|.|8|.|bbc609.txt|.|2|.|bbc701.txt|.|1|.|bbc638.txt|.|3|.|bbc385.txt|.|2
+special award|.|bbc711.txt|.|2
+david|.|bbc937.txt|.|2|.|bbc1577.txt|.|1|.|bbc711.txt|.|2
+convicted|.|bbc2127.txt|.|1|.|bbc609.txt|.|2
+walliams|.|bbc711.txt|.|5
+console|.|bbc2187.txt|.|3|.|bbc1849.txt|.|3|.|bbc2062.txt|.|4
+honour|.|bbc1682.txt|.|1|.|bbc893.txt|.|1|.|bbc518.txt|.|1|.|bbc1924.txt|.|4
+british shows|.|bbc701.txt|.|2
+listeners|.|bbc638.txt|.|1
+little britain has triumphed|.|bbc711.txt|.|1
+beating|.|bbc1757.txt|.|1|.|bbc711.txt|.|3|.|bbc1819.txt|.|1
+chief|.|bbc2202.txt|.|2|.|bbc475.txt|.|3|.|bbc393.txt|.|3|.|bbc425.txt|.|2|.|bbc465.txt|.|2|.|bbc385.txt|.|2|.|bbc1211.txt|.|7
+thursday|.|bbc1577.txt|.|2|.|bbc1096.txt|.|2|.|bbc609.txt|.|2
+world cinema award|.|bbc841.txt|.|2
+sisters|.|bbc638.txt|.|3
+favourite|.|bbc733.txt|.|4|.|bbc517.txt|.|3|.|bbc596.txt|.|6|.|bbc838.txt|.|6
+takeaway|.|bbc711.txt|.|3
+special|.|bbc711.txt|.|3|.|bbc587.txt|.|2|.|bbc692.txt|.|2
+mary queen|.|bbc517.txt|.|2
+matt lucas|.|bbc711.txt|.|2
+performance|.|bbc638.txt|.|3
+lyle|.|bbc385.txt|.|2
+whitbread|.|bbc517.txt|.|3
+little britain|.|bbc722.txt|.|4|.|bbc711.txt|.|5|.|bbc701.txt|.|3
+starring|.|bbc686.txt|.|1|.|bbc609.txt|.|3|.|bbc813.txt|.|2|.|bbc518.txt|.|1
+dollar baby|.|bbc596.txt|.|1|.|bbc579.txt|.|3|.|bbc838.txt|.|1
+choice|.|bbc711.txt|.|2|.|bbc1299.txt|.|2|.|bbc1979.txt|.|2
+category|.|bbc711.txt|.|2
+whitbread prize|.|bbc517.txt|.|2

@@ -1,0 +1,18 @@
+14
+broken|.|bbc1427.txt|.|3|.|bbc1724.txt|.|2
+scored another goal|.|bbc1464.txt|.|1
+side|.|bbc1681.txt|.|4|.|bbc1648.txt|.|1|.|bbc1463.txt|.|3
+six|.|bbc1632.txt|.|1|.|bbc1681.txt|.|8|.|bbc1645.txt|.|2|.|bbc1427.txt|.|3|.|bbc1419.txt|.|3|.|bbc1604.txt|.|3|.|bbc1677.txt|.|3|.|bbc1658.txt|.|3|.|bbc1716.txt|.|4|.|bbc1464.txt|.|2|.|bbc1698.txt|.|2|.|bbc1708.txt|.|2|.|bbc1724.txt|.|3|.|bbc1685.txt|.|2|.|bbc1648.txt|.|3|.|bbc1676.txt|.|2
+entertaining|.|bbc1681.txt|.|2
+queudrue|.|bbc1419.txt|.|2
+side in the world|.|bbc1681.txt|.|2
+number one side|.|bbc1681.txt|.|2
+positive|.|bbc1724.txt|.|2
+six minutes|.|bbc1419.txt|.|2
+danny|.|bbc1419.txt|.|2
+autumn series|.|bbc1681.txt|.|2
+forearm|.|bbc1724.txt|.|2
+radius|.|bbc1724.txt|.|2
+sidelined|.|bbc1427.txt|.|2
+six weeks|.|bbc1427.txt|.|2
+belief|.|bbc1681.txt|.|2

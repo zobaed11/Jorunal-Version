@@ -1,0 +1,25 @@
+40
+car maker|.|bbc149.txt|.|2
+chance|.|bbc1372.txt|.|1
+european leaders|.|bbc1022.txt|.|1
+celebrate|.|bbc568.txt|.|1
+makers|.|bbc149.txt|.|2
+saabs|.|bbc149.txt|.|5
+european|.|bbc277.txt|.|5|.|bbc446.txt|.|2|.|bbc1535.txt|.|3|.|bbc1022.txt|.|4|.|bbc1854.txt|.|2|.|bbc1125.txt|.|3|.|bbc1287.txt|.|2|.|bbc441.txt|.|2|.|bbc149.txt|.|8|.|bbc1368.txt|.|2|.|bbc1325.txt|.|2|.|bbc1376.txt|.|3|.|bbc436.txt|.|2|.|bbc568.txt|.|5|.|bbc1372.txt|.|4|.|bbc135.txt|.|2|.|bbc1580.txt|.|3|.|bbc1991.txt|.|3|.|bbc215.txt|.|3|.|bbc65.txt|.|3|.|bbc1386.txt|.|3|.|bbc1321.txt|.|2|.|bbc262.txt|.|2|.|bbc1118.txt|.|2|.|bbc1838.txt|.|6
+jacques chirac|.|bbc1022.txt|.|2
+european drivers|.|bbc149.txt|.|2
+footballing|.|bbc1535.txt|.|1
+lifestyles|.|bbc1991.txt|.|1
+building|.|bbc149.txt|.|1
+iraqi civilians|.|bbc1125.txt|.|1
+lots|.|bbc1372.txt|.|1
+encourage|.|bbc1580.txt|.|1
+charm|.|bbc277.txt|.|2
+saab factory|.|bbc149.txt|.|2
+said gm|.|bbc149.txt|.|1
+family of an iraqi|.|bbc1125.txt|.|1
+chance of a medal|.|bbc1372.txt|.|1
+european footballing|.|bbc1535.txt|.|1
+personal bests|.|bbc1372.txt|.|2
+building saabs|.|bbc149.txt|.|1
+drivers|.|bbc149.txt|.|3

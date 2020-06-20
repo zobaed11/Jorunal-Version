@@ -1,0 +1,14 @@
+45
+dispute|.|bbc1678.txt|.|2
+rugby football|.|bbc1687.txt|.|2
+rugby|.|bbc1715.txt|.|5|.|bbc1698.txt|.|6|.|bbc1682.txt|.|4|.|bbc1708.txt|.|4|.|bbc1642.txt|.|3|.|bbc1677.txt|.|5|.|bbc1678.txt|.|5|.|bbc1659.txt|.|3|.|bbc1685.txt|.|3|.|bbc1676.txt|.|3|.|bbc1687.txt|.|6|.|bbc1674.txt|.|2
+lions coach|.|bbc1698.txt|.|2
+hong kong|.|bbc1687.txt|.|3
+kong|.|bbc1687.txt|.|3
+coaches|.|bbc1678.txt|.|1
+hong|.|bbc1687.txt|.|3
+players who|.|bbc1698.txt|.|1
+international rugby|.|bbc1698.txt|.|4|.|bbc1659.txt|.|2
+international|.|bbc1698.txt|.|4|.|bbc1682.txt|.|3|.|bbc1412.txt|.|2|.|bbc1659.txt|.|3
+football union|.|bbc1687.txt|.|2
+rugby world|.|bbc1687.txt|.|1

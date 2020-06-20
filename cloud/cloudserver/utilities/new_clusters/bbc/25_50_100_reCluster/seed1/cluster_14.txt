@@ -1,0 +1,15 @@
+14
+win the next game|.|bbc1454.txt|.|1
+glasgow|.|bbc1388.txt|.|2
+gerrard|.|bbc1454.txt|.|3
+win the group|.|bbc1446.txt|.|2
+lleyton|.|bbc1816.txt|.|2
+leipzig|.|bbc1322.txt|.|2
+win over aston|.|bbc1488.txt|.|1
+steven|.|bbc1454.txt|.|2
+finals|.|bbc1816.txt|.|3
+said safin|.|bbc1816.txt|.|3
+nervous|.|bbc1816.txt|.|2
+draws|.|bbc1446.txt|.|1
+win|.|bbc1109.txt|.|2|.|bbc1446.txt|.|4|.|bbc1697.txt|.|2|.|bbc1454.txt|.|5|.|bbc1322.txt|.|3|.|bbc1709.txt|.|6|.|bbc1225.txt|.|2|.|bbc1108.txt|.|2|.|bbc1489.txt|.|2|.|bbc1591.txt|.|3|.|bbc1458.txt|.|2|.|bbc1488.txt|.|2|.|bbc1759.txt|.|4|.|bbc1574.txt|.|2|.|bbc1388.txt|.|3|.|bbc1816.txt|.|4|.|bbc1665.txt|.|4|.|bbc1648.txt|.|3
+win over aston villa|.|bbc1488.txt|.|1

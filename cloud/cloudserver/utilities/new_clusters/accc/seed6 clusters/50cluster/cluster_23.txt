@@ -1,0 +1,7 @@
+23
+os|.|WET6038.txt|.|24|.|WET6680.txt|.|19|.|WET5161.txt|.|2|.|WET5396.txt|.|120|.|WET5971.txt|.|2|.|WET6841.txt|.|39
+int file
+int
+var defaults
+obj
+var

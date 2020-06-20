@@ -1,0 +1,314 @@
+black woman|.|bbc822.txt|.|2
+diary of a mad black|.|bbc822.txt|.|3
+year|.|bbc1912.txt|.|6
+appointing|.|bbc1521.txt|.|1
+uncertain|.|bbc1466.txt|.|2
+told bbc|.|bbc1938.txt|.|3
+firm|.|bbc399.txt|.|4
+deportivo|.|bbc1536.txt|.|2
+music|.|bbc2044.txt|.|4
+years and won a couple|.|bbc1771.txt|.|1
+reunited|.|bbc723.txt|.|3
+record|.|bbc121.txt|.|2
+annual|.|bbc1912.txt|.|2
+band|.|bbc739.txt|.|5
+home international series|.|bbc1412.txt|.|2
+resort|.|bbc504.txt|.|2
+meeting|.|bbc723.txt|.|2
+bbc|.|bbc1938.txt|.|3|.|bbc1521.txt|.|2|.|bbc739.txt|.|4
+grow|.|bbc2044.txt|.|2
+broke|.|bbc1771.txt|.|2
+league|.|bbc1536.txt|.|2|.|bbc1466.txt|.|3
+said connors|.|bbc1777.txt|.|2
+expected|.|bbc2066.txt|.|3
+delighted|.|bbc1536.txt|.|1
+dent|.|bbc1771.txt|.|3
+forecast|.|bbc4.txt|.|2
+economy|.|bbc165.txt|.|4|.|bbc121.txt|.|5
+yukos|.|bbc399.txt|.|8
+former|.|bbc1521.txt|.|4
+authorities|.|bbc399.txt|.|2
+saudi|.|bbc470.txt|.|2
+labor|.|bbc7.txt|.|2
+us economy|.|bbc121.txt|.|3
+drive|.|bbc2160.txt|.|2
+high fuel|.|bbc4.txt|.|2
+percentage point|.|bbc121.txt|.|2
+independent|.|bbc1938.txt|.|2
+retail decisions|.|bbc236.txt|.|4
+seed|.|bbc1771.txt|.|4
+association|.|bbc1521.txt|.|2
+slams|.|bbc1771.txt|.|2
+new jobs|.|bbc7.txt|.|2
+seek|.|bbc845.txt|.|2
+fell|.|bbc165.txt|.|2
+defensively|.|bbc1536.txt|.|1
+attack|.|bbc1536.txt|.|1
+genre|.|bbc739.txt|.|2
+hotel|.|bbc470.txt|.|2
+relationship|.|bbc1777.txt|.|4
+free|.|bbc2174.txt|.|4
+prince alwaleed|.|bbc470.txt|.|1
+hard drive|.|bbc2160.txt|.|2
+benitez said|.|bbc1536.txt|.|3
+chip maker|.|bbc2174.txt|.|2
+chip|.|bbc2174.txt|.|2
+mini|.|bbc2160.txt|.|17
+manager|.|bbc1521.txt|.|2|.|bbc1466.txt|.|1
+star|.|bbc845.txt|.|1
+business|.|bbc504.txt|.|3
+jobs|.|bbc7.txt|.|9
+black|.|bbc822.txt|.|3
+maker|.|bbc1938.txt|.|1|.|bbc2174.txt|.|3
+annual bloggies|.|bbc1912.txt|.|2
+aizlewood|.|bbc1466.txt|.|2
+mac os x|.|bbc2160.txt|.|2
+connected|.|bbc2174.txt|.|1
+diary|.|bbc822.txt|.|3
+hewitt|.|bbc1771.txt|.|4
+sale|.|bbc1938.txt|.|3
+series|.|bbc1412.txt|.|3
+x|.|bbc2160.txt|.|2
+yahoo remains|.|bbc2161.txt|.|2
+river|.|bbc470.txt|.|2
+tv show|.|bbc723.txt|.|2
+federal reserve|.|bbc121.txt|.|2
+quarter percentage|.|bbc121.txt|.|2
+us interest|.|bbc121.txt|.|2
+gadgets|.|bbc2044.txt|.|2
+bloc party|.|bbc739.txt|.|2
+quarter|.|bbc165.txt|.|4|.|bbc121.txt|.|5
+couple|.|bbc1771.txt|.|2
+tv|.|bbc723.txt|.|4
+smith|.|bbc1521.txt|.|6|.|bbc1412.txt|.|4
+remains|.|bbc2161.txt|.|2
+harry potter|.|bbc1938.txt|.|2
+independence|.|bbc723.txt|.|3
+good|.|bbc1536.txt|.|4
+high fuel prices|.|bbc4.txt|.|2
+independent game|.|bbc1938.txt|.|1
+obese|.|bbc2044.txt|.|3
+scotland|.|bbc1521.txt|.|6
+dominate|.|bbc2161.txt|.|1|.|bbc2066.txt|.|2
+benitez|.|bbc1536.txt|.|7
+davos|.|bbc504.txt|.|3
+act|.|bbc739.txt|.|2
+yahoo|.|bbc2161.txt|.|19
+fairmont|.|bbc470.txt|.|2
+won|.|bbc1771.txt|.|1
+aids|.|bbc504.txt|.|2
+huge|.|bbc723.txt|.|3
+us|.|bbc739.txt|.|2|.|bbc121.txt|.|10
+fuel costs|.|bbc4.txt|.|2
+biggest oil|.|bbc399.txt|.|2
+make free|.|bbc2174.txt|.|2
+champions|.|bbc1536.txt|.|2
+felt|.|bbc1771.txt|.|3
+technologies|.|bbc2044.txt|.|1
+potter games|.|bbc1938.txt|.|2
+announced|.|bbc1912.txt|.|2
+spending|.|bbc165.txt|.|5
+involved|.|bbc1777.txt|.|2
+leads|.|bbc845.txt|.|2
+telephony|.|bbc2174.txt|.|3
+mad black|.|bbc822.txt|.|3
+rock band|.|bbc739.txt|.|2
+vaughan|.|bbc1466.txt|.|3
+internet|.|bbc2161.txt|.|7|.|bbc236.txt|.|3
+party|.|bbc739.txt|.|2
+production|.|bbc399.txt|.|5
+show|.|bbc723.txt|.|2
+commerce|.|bbc165.txt|.|2
+india|.|bbc2066.txt|.|2
+apple|.|bbc2160.txt|.|5
+strand|.|bbc470.txt|.|2
+backing|.|bbc1521.txt|.|2
+rate|.|bbc165.txt|.|5|.|bbc7.txt|.|3
+interest|.|bbc121.txt|.|5
+heralds|.|bbc2160.txt|.|1
+hard|.|bbc2160.txt|.|4
+potter|.|bbc1938.txt|.|2
+fairmont said|.|bbc470.txt|.|1
+prince|.|bbc470.txt|.|2
+news|.|bbc1938.txt|.|4
+digital|.|bbc2044.txt|.|4
+digital data|.|bbc2044.txt|.|2
+mr templeton|.|bbc2174.txt|.|2
+labor department|.|bbc7.txt|.|2
+tommy burns|.|bbc1521.txt|.|2
+tommy|.|bbc1521.txt|.|2
+war|.|bbc723.txt|.|2
+football|.|bbc1521.txt|.|6
+counter|.|bbc1536.txt|.|1
+russian authorities|.|bbc399.txt|.|2
+home|.|bbc1412.txt|.|5
+connors|.|bbc1777.txt|.|5
+fuel prices|.|bbc4.txt|.|2
+analyst|.|bbc2066.txt|.|1
+consumer spending|.|bbc165.txt|.|5
+champions league|.|bbc1536.txt|.|2
+decade|.|bbc2161.txt|.|2
+told|.|bbc1938.txt|.|4
+voters|.|bbc1912.txt|.|2
+claimed|.|bbc1466.txt|.|1
+film took|.|bbc822.txt|.|2
+adelaide|.|bbc1771.txt|.|2
+niro|.|bbc845.txt|.|4
+revolution|.|bbc2160.txt|.|3
+years|.|bbc1771.txt|.|1
+tips|.|bbc739.txt|.|2
+us interest rates|.|bbc121.txt|.|2
+number|.|bbc1777.txt|.|2
+price|.|bbc2066.txt|.|1|.|bbc121.txt|.|2
+games|.|bbc1938.txt|.|7|.|bbc1536.txt|.|2|.|bbc1412.txt|.|2
+portal|.|bbc2161.txt|.|5
+mr blair|.|bbc504.txt|.|3
+vaughan claimed|.|bbc1466.txt|.|1
+record levels|.|bbc121.txt|.|2
+burns|.|bbc1521.txt|.|2
+profits|.|bbc4.txt|.|3
+games maker|.|bbc1938.txt|.|1
+russian|.|bbc399.txt|.|5
+double|.|bbc2066.txt|.|2
+interest rates|.|bbc121.txt|.|3
+chester|.|bbc1466.txt|.|6
+good defensively|.|bbc1536.txt|.|1
+football association|.|bbc1521.txt|.|2
+oil production|.|bbc399.txt|.|2
+bloggies|.|bbc1912.txt|.|5
+lowest|.|bbc7.txt|.|2
+forrester|.|bbc2066.txt|.|3
+million|.|bbc2066.txt|.|5
+appointing tommy|.|bbc1521.txt|.|1
+phone|.|bbc236.txt|.|2|.|bbc2174.txt|.|6
+jobs growth|.|bbc7.txt|.|1
+unemployment|.|bbc7.txt|.|2
+jimmy|.|bbc1777.txt|.|3
+card|.|bbc236.txt|.|6
+woman|.|bbc822.txt|.|3
+harry|.|bbc1938.txt|.|2
+payments|.|bbc236.txt|.|3
+production unit|.|bbc399.txt|.|2
+australian|.|bbc1771.txt|.|2
+mini heralds|.|bbc2160.txt|.|1
+mac|.|bbc2160.txt|.|20
+retail|.|bbc236.txt|.|4
+local|.|bbc2066.txt|.|3
+crude|.|bbc399.txt|.|3
+rapper|.|bbc739.txt|.|3
+defeat|.|bbc1771.txt|.|2
+savoy|.|bbc470.txt|.|5
+rock|.|bbc739.txt|.|2
+mad|.|bbc822.txt|.|3
+smith already has the backing|.|bbc1521.txt|.|1
+world|.|bbc504.txt|.|4
+top|.|bbc845.txt|.|5
+web|.|bbc2161.txt|.|5
+blair|.|bbc504.txt|.|3
+us rapper|.|bbc739.txt|.|2
+federal|.|bbc121.txt|.|3
+decisions|.|bbc236.txt|.|4
+analyst for forrester|.|bbc2066.txt|.|1
+number one jimmy|.|bbc1777.txt|.|1
+diary of a mad|.|bbc822.txt|.|3
+climate|.|bbc504.txt|.|2
+great|.|bbc2160.txt|.|1
+tennis|.|bbc1777.txt|.|2
+home international|.|bbc1412.txt|.|2
+great excitement by apple|.|bbc2160.txt|.|1
+hide|.|bbc845.txt|.|2
+site|.|bbc1912.txt|.|3
+angolan|.|bbc723.txt|.|4
+future|.|bbc1466.txt|.|2
+report|.|bbc2066.txt|.|4
+commerce department|.|bbc165.txt|.|2
+indian|.|bbc399.txt|.|4
+return|.|bbc1412.txt|.|2
+levels|.|bbc121.txt|.|2
+alwaleed|.|bbc470.txt|.|1
+data|.|bbc2044.txt|.|6
+templeton said|.|bbc2174.txt|.|2
+fuel|.|bbc4.txt|.|8
+sound|.|bbc739.txt|.|5
+political|.|bbc504.txt|.|2
+mac mini|.|bbc2160.txt|.|14
+yukos assets|.|bbc399.txt|.|2
+leaders|.|bbc504.txt|.|3
+office|.|bbc845.txt|.|3|.|bbc822.txt|.|2
+bbc news|.|bbc1938.txt|.|3
+blog|.|bbc1912.txt|.|11
+scotland manager|.|bbc1521.txt|.|2
+counter attack|.|bbc1536.txt|.|1
+high|.|bbc4.txt|.|2
+independence square|.|bbc723.txt|.|3
+assets|.|bbc399.txt|.|5
+biggest|.|bbc399.txt|.|2
+voip|.|bbc2174.txt|.|8
+talent|.|bbc739.txt|.|3
+percentage|.|bbc121.txt|.|2
+credit|.|bbc236.txt|.|2
+net|.|bbc2174.txt|.|4
+international|.|bbc1412.txt|.|2
+day|.|bbc504.txt|.|2
+unemployment rate|.|bbc7.txt|.|2
+took|.|bbc822.txt|.|2
+new|.|bbc7.txt|.|3
+months|.|bbc121.txt|.|2
+meeting point|.|bbc723.txt|.|2
+bbc sport|.|bbc1521.txt|.|2
+level|.|bbc7.txt|.|2
+like|.|bbc1771.txt|.|2
+mr|.|bbc504.txt|.|3|.|bbc2174.txt|.|2
+mad black woman|.|bbc822.txt|.|3
+film|.|bbc845.txt|.|6|.|bbc822.txt|.|3
+excitement|.|bbc2160.txt|.|1
+topped sound|.|bbc739.txt|.|1
+rush future at chester|.|bbc1466.txt|.|1
+bloc|.|bbc739.txt|.|2
+fixture|.|bbc1412.txt|.|1
+square|.|bbc723.txt|.|4
+unit|.|bbc399.txt|.|2
+felt like|.|bbc1771.txt|.|2
+fraud|.|bbc236.txt|.|7
+largest independent|.|bbc1938.txt|.|2
+weblog|.|bbc1912.txt|.|2
+largest|.|bbc1938.txt|.|2
+game|.|bbc1938.txt|.|2
+digitally obese|.|bbc2044.txt|.|2
+week|.|bbc1777.txt|.|2
+angolan families|.|bbc723.txt|.|4
+indian oil|.|bbc399.txt|.|2
+templeton|.|bbc2174.txt|.|3
+box|.|bbc845.txt|.|3|.|bbc822.txt|.|2
+point|.|bbc723.txt|.|2|.|bbc121.txt|.|3
+digitally|.|bbc2044.txt|.|3
+head|.|bbc2174.txt|.|3
+yahoo dominate|.|bbc2161.txt|.|1
+oil|.|bbc399.txt|.|16
+future as chester|.|bbc1466.txt|.|1
+topped|.|bbc739.txt|.|1
+reserve|.|bbc121.txt|.|2
+mini revolution|.|bbc2160.txt|.|1
+prices|.|bbc4.txt|.|3
+department|.|bbc165.txt|.|2|.|bbc7.txt|.|2
+said|.|bbc470.txt|.|1|.|bbc1777.txt|.|3|.|bbc165.txt|.|5|.|bbc1536.txt|.|4|.|bbc2174.txt|.|6
+make|.|bbc2174.txt|.|5
+consumer|.|bbc165.txt|.|5|.|bbc2044.txt|.|3
+costs|.|bbc4.txt|.|3
+lowest level|.|bbc7.txt|.|2
+os|.|bbc2160.txt|.|2
+box office|.|bbc845.txt|.|3|.|bbc822.txt|.|2
+assistant|.|bbc1521.txt|.|4
+news online|.|bbc1938.txt|.|3
+rates|.|bbc121.txt|.|8
+families|.|bbc723.txt|.|7
+rush|.|bbc1466.txt|.|3
+hide and seek|.|bbc845.txt|.|2
+international series|.|bbc1412.txt|.|2
+investor|.|bbc470.txt|.|2
+pc|.|bbc2066.txt|.|8
+fraudsters|.|bbc236.txt|.|4
+awards|.|bbc1912.txt|.|2
+online|.|bbc1938.txt|.|3
+growth|.|bbc165.txt|.|8|.|bbc7.txt|.|4
+sport|.|bbc1521.txt|.|2

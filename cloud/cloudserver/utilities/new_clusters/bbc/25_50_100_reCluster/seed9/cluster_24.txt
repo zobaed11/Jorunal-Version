@@ -1,0 +1,42 @@
+24
+celebrity|.|bbc713.txt|.|4|.|bbc726.txt|.|2|.|bbc717.txt|.|2|.|bbc689.txt|.|2|.|bbc731.txt|.|3
+joe|.|bbc717.txt|.|2
+theme at the show|.|bbc2171.txt|.|2
+second series|.|bbc684.txt|.|2
+jackie stallone|.|bbc713.txt|.|2
+dj|.|bbc794.txt|.|3
+recommissioned|.|bbc684.txt|.|1
+celebrity big brother|.|bbc713.txt|.|1
+chart show|.|bbc794.txt|.|4
+show|.|bbc794.txt|.|12|.|bbc713.txt|.|5|.|bbc684.txt|.|5|.|bbc1177.txt|.|2|.|bbc717.txt|.|7|.|bbc716.txt|.|4|.|bbc2171.txt|.|12
+mtv show|.|bbc716.txt|.|1
+cebit|.|bbc2219.txt|.|5|.|bbc2171.txt|.|9
+fair|.|bbc2115.txt|.|2|.|bbc2171.txt|.|3
+show the x factor|.|bbc684.txt|.|1
+revamp|.|bbc794.txt|.|1
+double act|.|bbc794.txt|.|2
+greer said|.|bbc713.txt|.|2
+revamp chart show|.|bbc794.txt|.|1
+million people|.|bbc717.txt|.|2
+act|.|bbc794.txt|.|2
+theme|.|bbc2171.txt|.|3
+jackie|.|bbc713.txt|.|2
+germaine|.|bbc713.txt|.|2
+factor|.|bbc684.txt|.|3
+joel|.|bbc794.txt|.|3
+x factor|.|bbc684.txt|.|3
+revamped|.|bbc794.txt|.|2
+tech fair|.|bbc2171.txt|.|1
+stallone|.|bbc713.txt|.|2
+peaked|.|bbc717.txt|.|1
+revamped chart|.|bbc794.txt|.|1
+itv|.|bbc684.txt|.|1
+phil|.|bbc717.txt|.|2|.|bbc1724.txt|.|3
+digital home|.|bbc2171.txt|.|3
+tufnell|.|bbc717.txt|.|2
+phil tufnell|.|bbc717.txt|.|2
+reality|.|bbc713.txt|.|3
+cowell|.|bbc684.txt|.|2
+reality tv|.|bbc713.txt|.|2
+tv show|.|bbc713.txt|.|2|.|bbc717.txt|.|2
+germaine greer|.|bbc713.txt|.|2

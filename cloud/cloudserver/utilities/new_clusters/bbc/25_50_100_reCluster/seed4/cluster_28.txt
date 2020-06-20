@@ -1,0 +1,17 @@
+28
+gift|.|bbc1309.txt|.|3
+speculation|.|bbc1114.txt|.|2|.|bbc1150.txt|.|3|.|bbc1148.txt|.|2|.|bbc264.txt|.|3
+leader|.|bbc1212.txt|.|2|.|bbc1260.txt|.|3|.|bbc1188.txt|.|4|.|bbc991.txt|.|2|.|bbc1097.txt|.|2|.|bbc1167.txt|.|4|.|bbc1199.txt|.|2|.|bbc985.txt|.|3|.|bbc918.txt|.|1
+bbc|.|bbc1604.txt|.|2|.|bbc1431.txt|.|2|.|bbc1299.txt|.|4|.|bbc1870.txt|.|4|.|bbc1370.txt|.|3|.|bbc1926.txt|.|2|.|bbc34.txt|.|2|.|bbc1114.txt|.|3|.|bbc1521.txt|.|2|.|bbc2120.txt|.|2|.|bbc1137.txt|.|3|.|bbc917.txt|.|2|.|bbc878.txt|.|4
+sainsbury|.|bbc1309.txt|.|5
+sainsbury and other labour|.|bbc1309.txt|.|1
+turnouts|.|bbc1219.txt|.|1
+labour|.|bbc139.txt|.|2|.|bbc1153.txt|.|5|.|bbc1201.txt|.|8|.|bbc1164.txt|.|10|.|bbc1245.txt|.|6|.|bbc1309.txt|.|6|.|bbc1132.txt|.|3|.|bbc1307.txt|.|8|.|bbc1200.txt|.|3|.|bbc900.txt|.|3|.|bbc1003.txt|.|3|.|bbc1150.txt|.|5|.|bbc1226.txt|.|3|.|bbc1174.txt|.|6|.|bbc1263.txt|.|2
+general|.|bbc1003.txt|.|2|.|bbc1201.txt|.|2|.|bbc1114.txt|.|2|.|bbc1246.txt|.|2|.|bbc1310.txt|.|2|.|bbc1219.txt|.|2|.|bbc1294.txt|.|2|.|bbc1275.txt|.|2|.|bbc1309.txt|.|3|.|bbc1180.txt|.|3|.|bbc1199.txt|.|2
+election fund|.|bbc1309.txt|.|1
+wilson|.|bbc1199.txt|.|4
+fund|.|bbc1309.txt|.|1|.|bbc1262.txt|.|3|.|bbc187.txt|.|2
+science|.|bbc1963.txt|.|2|.|bbc1309.txt|.|1
+general election|.|bbc1003.txt|.|2|.|bbc1201.txt|.|2|.|bbc1114.txt|.|2|.|bbc1246.txt|.|2|.|bbc1310.txt|.|2|.|bbc1219.txt|.|2|.|bbc1294.txt|.|2|.|bbc1275.txt|.|2|.|bbc1309.txt|.|2|.|bbc1180.txt|.|3|.|bbc1199.txt|.|2
+lord sainsbury|.|bbc1309.txt|.|3
+sir|.|bbc530.txt|.|2|.|bbc1255.txt|.|3|.|bbc621.txt|.|4|.|bbc1275.txt|.|4|.|bbc1052.txt|.|5|.|bbc1199.txt|.|11

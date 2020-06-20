@@ -1,0 +1,51 @@
+18
+fed|.|bbc1845.txt|.|3
+fuel|.|bbc4.txt|.|8
+ofcom|.|bbc252.txt|.|8
+ms lomax|.|bbc57.txt|.|5
+high fuel prices|.|bbc4.txt|.|2
+america|.|bbc259.txt|.|3|.|bbc1022.txt|.|2|.|bbc492.txt|.|2
+latin america|.|bbc259.txt|.|3
+bt offers|.|bbc1960.txt|.|1|.|bbc252.txt|.|1
+sector|.|bbc1208.txt|.|4|.|bbc57.txt|.|2
+oil prices|.|bbc351.txt|.|2|.|bbc182.txt|.|3
+fuel costs|.|bbc4.txt|.|2
+pc pro|.|bbc1845.txt|.|3
+equal access|.|bbc252.txt|.|2
+mild|.|bbc351.txt|.|2
+lomax said|.|bbc57.txt|.|4
+forecast|.|bbc488.txt|.|1|.|bbc1271.txt|.|2|.|bbc13.txt|.|1|.|bbc4.txt|.|2|.|bbc98.txt|.|1|.|bbc31.txt|.|1
+pro|.|bbc1845.txt|.|3
+demand|.|bbc10.txt|.|1|.|bbc156.txt|.|3|.|bbc351.txt|.|2|.|bbc355.txt|.|2|.|bbc474.txt|.|2|.|bbc141.txt|.|2|.|bbc503.txt|.|2|.|bbc310.txt|.|2|.|bbc360.txt|.|2
+rivals|.|bbc1880.txt|.|2|.|bbc252.txt|.|3
+britons|.|bbc1845.txt|.|2
+economic commission|.|bbc259.txt|.|2
+parking fees|.|bbc461.txt|.|2
+driven|.|bbc351.txt|.|2
+french economy|.|bbc23.txt|.|3|.|bbc182.txt|.|2
+region|.|bbc259.txt|.|2
+chile|.|bbc360.txt|.|2
+car ownership|.|bbc461.txt|.|2
+high fuel|.|bbc4.txt|.|2
+pro magazine|.|bbc1845.txt|.|2
+access|.|bbc478.txt|.|2|.|bbc2216.txt|.|3|.|bbc252.txt|.|6
+internet service|.|bbc1845.txt|.|2
+wholesale broadband|.|bbc252.txt|.|2
+wholesale|.|bbc252.txt|.|4
+copper|.|bbc360.txt|.|9
+us oil|.|bbc351.txt|.|2
+prices|.|bbc259.txt|.|2|.|bbc286.txt|.|2|.|bbc351.txt|.|2|.|bbc182.txt|.|3|.|bbc1845.txt|.|3|.|bbc461.txt|.|2|.|bbc4.txt|.|3|.|bbc57.txt|.|2|.|bbc493.txt|.|2|.|bbc252.txt|.|3|.|bbc360.txt|.|3
+cochilco|.|bbc360.txt|.|3
+equal access for rivals|.|bbc252.txt|.|1
+forecasting|.|bbc459.txt|.|1|.|bbc57.txt|.|1|.|bbc917.txt|.|1
+chilean copper|.|bbc360.txt|.|2
+equal|.|bbc252.txt|.|2|.|bbc1751.txt|.|3
+car parking|.|bbc461.txt|.|2
+chilean|.|bbc360.txt|.|2
+access to rivals|.|bbc252.txt|.|1
+earnings|.|bbc118.txt|.|2|.|bbc360.txt|.|2
+regulation|.|bbc252.txt|.|3
+ownership|.|bbc461.txt|.|2
+mild winter|.|bbc351.txt|.|2
+fuel prices|.|bbc4.txt|.|2
+magazine|.|bbc1845.txt|.|2

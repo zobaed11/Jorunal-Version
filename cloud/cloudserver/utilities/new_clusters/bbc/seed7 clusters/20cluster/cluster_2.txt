@@ -1,0 +1,67 @@
+2
+like google|.|bbc1986.txt|.|2
+fed|.|bbc1845.txt|.|3
+grid computing|.|bbc2204.txt|.|2
+softbank has widened losses|.|bbc124.txt|.|1
+salary|.|bbc938.txt|.|3
+losses|.|bbc124.txt|.|1
+bargain|.|bbc124.txt|.|2
+competitors|.|bbc1986.txt|.|2
+sun grid|.|bbc2204.txt|.|2
+download|.|bbc776.txt|.|5|.|bbc2087.txt|.|3
+striking civil servants|.|bbc1106.txt|.|1
+striking|.|bbc1106.txt|.|1
+music downloaded|.|bbc2087.txt|.|1
+public service|.|bbc938.txt|.|3
+service jobs|.|bbc1261.txt|.|3
+public service workers|.|bbc938.txt|.|2
+napster offers|.|bbc2087.txt|.|1
+offers|.|bbc2087.txt|.|4|.|bbc2204.txt|.|1|.|bbc1960.txt|.|1|.|bbc252.txt|.|1
+pc pro|.|bbc1845.txt|.|3
+millions of public|.|bbc938.txt|.|2
+pro|.|bbc1845.txt|.|3
+downloaded|.|bbc2087.txt|.|1
+journals|.|bbc1986.txt|.|3
+britons|.|bbc1845.txt|.|2
+servants|.|bbc1106.txt|.|5|.|bbc1052.txt|.|1
+pension scheme|.|bbc938.txt|.|4
+spaces|.|bbc1986.txt|.|2
+napster|.|bbc2087.txt|.|5
+millions|.|bbc938.txt|.|2
+pro magazine|.|bbc1845.txt|.|2
+internet service|.|bbc1845.txt|.|2
+scheme|.|bbc938.txt|.|4
+widen|.|bbc124.txt|.|1
+service workers|.|bbc938.txt|.|2
+cabinet office|.|bbc938.txt|.|2
+civil service|.|bbc1261.txt|.|4
+civil service jobs|.|bbc1261.txt|.|3
+civil|.|bbc1261.txt|.|6|.|bbc1106.txt|.|8|.|bbc1052.txt|.|4|.|bbc1676.txt|.|2
+computing power|.|bbc2204.txt|.|2
+track|.|bbc2087.txt|.|3
+civil servants|.|bbc1106.txt|.|5|.|bbc1052.txt|.|1
+strike across wales|.|bbc1106.txt|.|1
+msn spaces|.|bbc1986.txt|.|2
+joined|.|bbc1585.txt|.|1|.|bbc1106.txt|.|2
+strike|.|bbc949.txt|.|4|.|bbc938.txt|.|5|.|bbc1106.txt|.|7
+sun offers|.|bbc2204.txt|.|1
+competitors like|.|bbc1986.txt|.|2
+softbank has widened|.|bbc124.txt|.|1
+songs|.|bbc2087.txt|.|2
+service|.|bbc2087.txt|.|10|.|bbc1261.txt|.|4|.|bbc2192.txt|.|5|.|bbc2202.txt|.|3|.|bbc2204.txt|.|3|.|bbc938.txt|.|4|.|bbc1986.txt|.|2|.|bbc1106.txt|.|5|.|bbc124.txt|.|2|.|bbc1845.txt|.|4
+magazine|.|bbc1845.txt|.|2
+softbank|.|bbc124.txt|.|3
+pump
+soros
+loss
+bit
+infected
+pension strike
+strikes
+search technology
+search engine
+impairments
+sun life
+competition
+light bulb
+light

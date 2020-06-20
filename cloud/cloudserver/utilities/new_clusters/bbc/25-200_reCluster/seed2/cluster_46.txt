@@ -1,0 +1,61 @@
+46
+nine|.|bbc897.txt|.|3
+separate|.|bbc768.txt|.|2
+delta|.|bbc1926.txt|.|5
+quarter than|.|bbc57.txt|.|2
+quango|.|bbc935.txt|.|1
+blog|.|bbc1926.txt|.|8
+singer courtney|.|bbc768.txt|.|2
+pugh|.|bbc935.txt|.|2
+simonetti|.|bbc1926.txt|.|10
+probation|.|bbc768.txt|.|4
+mothers|.|bbc897.txt|.|4
+ms love|.|bbc768.txt|.|5
+review|.|bbc935.txt|.|2
+proposals announced|.|bbc897.txt|.|1
+airlines|.|bbc1926.txt|.|4
+singer courtney love|.|bbc768.txt|.|2
+sector|.|bbc108.txt|.|2|.|bbc57.txt|.|2
+pentagon|.|bbc161.txt|.|5
+free speech|.|bbc1926.txt|.|2
+case|.|bbc768.txt|.|3|.|bbc246.txt|.|3
+sentence|.|bbc161.txt|.|2
+quango review|.|bbc935.txt|.|1
+ms james|.|bbc935.txt|.|5
+home furnishing|.|bbc393.txt|.|1
+ms|.|bbc1175.txt|.|5|.|bbc768.txt|.|6|.|bbc897.txt|.|3|.|bbc393.txt|.|4|.|bbc57.txt|.|5|.|bbc935.txt|.|5|.|bbc1926.txt|.|10|.|bbc161.txt|.|8
+new mothers|.|bbc897.txt|.|3
+air force|.|bbc161.txt|.|2
+pleaded|.|bbc768.txt|.|2|.|bbc2127.txt|.|3
+fictional|.|bbc1926.txt|.|3
+lomax said|.|bbc57.txt|.|4
+jail|.|bbc768.txt|.|2|.|bbc161.txt|.|2
+plans maternity pay|.|bbc897.txt|.|1
+government control|.|bbc935.txt|.|3
+rachel lomax|.|bbc57.txt|.|2
+suspended|.|bbc1021.txt|.|6|.|bbc1926.txt|.|4
+separate case|.|bbc768.txt|.|1
+announced|.|bbc897.txt|.|2|.|bbc1293.txt|.|1
+ms druyun|.|bbc161.txt|.|6
+ms simonetti|.|bbc1926.txt|.|9
+older children|.|bbc897.txt|.|2
+force|.|bbc1949.txt|.|1|.|bbc161.txt|.|2
+arts funding|.|bbc935.txt|.|2
+courtney|.|bbc768.txt|.|2
+furnishing|.|bbc393.txt|.|1
+stemmed|.|bbc768.txt|.|2
+extending rights|.|bbc897.txt|.|1
+years probation|.|bbc768.txt|.|1
+welsh arts|.|bbc935.txt|.|2
+contracts|.|bbc161.txt|.|6
+courtney love|.|bbc768.txt|.|2
+pugh said|.|bbc935.txt|.|2
+retailer said|.|bbc393.txt|.|1
+personal websites|.|bbc1926.txt|.|3
+ms hewitt|.|bbc897.txt|.|3
+funding|.|bbc935.txt|.|2
+druyun|.|bbc161.txt|.|7
+delta airlines|.|bbc1926.txt|.|3
+rachel|.|bbc57.txt|.|2
+websites|.|bbc1926.txt|.|4
+extending|.|bbc897.txt|.|2

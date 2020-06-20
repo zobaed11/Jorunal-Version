@@ -1,0 +1,25 @@
+11
+mobiles with cameras|.|bbc2212.txt|.|1|.|bbc1927.txt|.|1
+firm cec|.|bbc2085.txt|.|2
+phone technology|.|bbc2212.txt|.|2|.|bbc1927.txt|.|2
+dvd formats|.|bbc2048.txt|.|1
+formats|.|bbc2048.txt|.|1
+search engine|.|bbc2085.txt|.|4
+technology backed|.|bbc2048.txt|.|1
+megapixel images|.|bbc2212.txt|.|2|.|bbc1927.txt|.|2
+creative industries|.|bbc1829.txt|.|3
+rendering|.|bbc1829.txt|.|3
+backs sony|.|bbc2048.txt|.|1
+technology|.|bbc1829.txt|.|10|.|bbc2212.txt|.|4|.|bbc2003.txt|.|3|.|bbc1961.txt|.|9|.|bbc2085.txt|.|6|.|bbc2048.txt|.|6|.|bbc2143.txt|.|12|.|bbc1927.txt|.|4
+impairments|.|bbc2085.txt|.|2
+cruises|.|bbc2003.txt|.|1
+visual impairments|.|bbc2085.txt|.|2
+dvd technology|.|bbc2048.txt|.|2
+identity documents|.|bbc2003.txt|.|1
+new seafarers|.|bbc2003.txt|.|1
+backs sony dvd technology|.|bbc2048.txt|.|1
+art world|.|bbc1829.txt|.|1
+surfers|.|bbc2085.txt|.|3
+disc|.|bbc2048.txt|.|2
+dominance|.|bbc2143.txt|.|3
+gartner|.|bbc2212.txt|.|3|.|bbc1927.txt|.|3

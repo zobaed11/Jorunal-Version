@@ -1,0 +1,25 @@
+43
+ryan|.|bbc1428.txt|.|2
+ryan giggs|.|bbc1428.txt|.|2
+waiting less than|.|bbc1017.txt|.|1
+waiting times|.|bbc1017.txt|.|3
+strike across wales|.|bbc1106.txt|.|1
+admits|.|bbc1428.txt|.|3
+wales leading|.|bbc1428.txt|.|1
+tom shanklin|.|bbc1625.txt|.|2|.|bbc1729.txt|.|2
+hutt said|.|bbc1017.txt|.|3
+giggs admits|.|bbc1428.txt|.|2
+wales|.|bbc1081.txt|.|4|.|bbc1654.txt|.|4|.|bbc1604.txt|.|8|.|bbc1106.txt|.|11|.|bbc1017.txt|.|8|.|bbc1705.txt|.|2|.|bbc1675.txt|.|4|.|bbc1716.txt|.|7|.|bbc1729.txt|.|9|.|bbc1428.txt|.|9|.|bbc1625.txt|.|9|.|bbc1135.txt|.|2|.|bbc1612.txt|.|2|.|bbc1661.txt|.|3
+giggs will captain|.|bbc1428.txt|.|1
+toshack said|.|bbc1428.txt|.|2
+shane williams|.|bbc1625.txt|.|5|.|bbc1729.txt|.|5
+gareth|.|bbc1604.txt|.|2|.|bbc1661.txt|.|2
+martyn williams|.|bbc1625.txt|.|3|.|bbc1708.txt|.|2|.|bbc1729.txt|.|3
+ryan giggs will captain|.|bbc1428.txt|.|1
+current target|.|bbc1017.txt|.|2
+hal|.|bbc1654.txt|.|2
+tom|.|bbc1625.txt|.|2|.|bbc1729.txt|.|2
+striking civil servants|.|bbc1106.txt|.|1
+striking|.|bbc1106.txt|.|1
+monthly waiting|.|bbc1017.txt|.|2
+john toshack|.|bbc1428.txt|.|2

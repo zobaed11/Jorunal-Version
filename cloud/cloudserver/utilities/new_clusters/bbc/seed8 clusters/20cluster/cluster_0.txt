@@ -1,0 +1,64 @@
+0
+bank account|.|bbc330.txt|.|2
+ecb|.|bbc436.txt|.|5
+year|.|bbc1344.txt|.|1|.|bbc2115.txt|.|6|.|bbc721.txt|.|1|.|bbc1739.txt|.|1|.|bbc1379.txt|.|3|.|bbc459.txt|.|6|.|bbc726.txt|.|4|.|bbc9.txt|.|1|.|bbc1814.txt|.|1|.|bbc425.txt|.|3|.|bbc330.txt|.|3|.|bbc310.txt|.|3|.|bbc689.txt|.|4|.|bbc1052.txt|.|1|.|bbc667.txt|.|1|.|bbc1332.txt|.|1|.|bbc1748.txt|.|1|.|bbc322.txt|.|2|.|bbc813.txt|.|4|.|bbc76.txt|.|3|.|bbc85.txt|.|2|.|bbc1994.txt|.|2|.|bbc452.txt|.|1|.|bbc1554.txt|.|1|.|bbc296.txt|.|2|.|bbc80.txt|.|2|.|bbc1405.txt|.|1|.|bbc474.txt|.|4|.|bbc1677.txt|.|6|.|bbc1736.txt|.|4|.|bbc384.txt|.|2|.|bbc503.txt|.|1|.|bbc1351.txt|.|5|.|bbc30.txt|.|5|.|bbc682.txt|.|3|.|bbc27.txt|.|1|.|bbc2042.txt|.|1|.|bbc287.txt|.|1|.|bbc1665.txt|.|4|.|bbc616.txt|.|1|.|bbc283.txt|.|2|.|bbc240.txt|.|4|.|bbc1382.txt|.|1|.|bbc1343.txt|.|4
+fresh hope|.|bbc330.txt|.|2
+blair backs|.|bbc917.txt|.|1
+hope|.|bbc330.txt|.|2|.|bbc1170.txt|.|2
+america|.|bbc259.txt|.|3
+borrowing costs|.|bbc436.txt|.|2|.|bbc402.txt|.|2
+argentina|.|bbc80.txt|.|5|.|bbc330.txt|.|7
+housing market|.|bbc438.txt|.|3|.|bbc459.txt|.|3|.|bbc194.txt|.|2
+latin america|.|bbc259.txt|.|3
+argentine|.|bbc501.txt|.|6|.|bbc330.txt|.|4
+latin|.|bbc259.txt|.|6
+cash|.|bbc2139.txt|.|5|.|bbc2155.txt|.|2|.|bbc264.txt|.|2|.|bbc200.txt|.|2|.|bbc981.txt|.|2
+cuba|.|bbc200.txt|.|11
+period|.|bbc459.txt|.|3|.|bbc310.txt|.|3
+bbc|.|bbc1114.txt|.|3|.|bbc1521.txt|.|2|.|bbc1604.txt|.|2|.|bbc1299.txt|.|4|.|bbc917.txt|.|2|.|bbc1926.txt|.|2|.|bbc878.txt|.|4
+crisis|.|bbc80.txt|.|3|.|bbc330.txt|.|6
+next fiscal|.|bbc322.txt|.|2
+remained|.|bbc436.txt|.|2
+economy|.|bbc23.txt|.|3|.|bbc6.txt|.|3|.|bbc459.txt|.|7|.|bbc330.txt|.|3|.|bbc107.txt|.|3|.|bbc200.txt|.|7|.|bbc30.txt|.|4|.|bbc1271.txt|.|3|.|bbc1246.txt|.|3|.|bbc286.txt|.|4|.|bbc182.txt|.|3|.|bbc289.txt|.|2|.|bbc98.txt|.|4|.|bbc76.txt|.|3|.|bbc917.txt|.|3|.|bbc402.txt|.|2|.|bbc361.txt|.|3
+private enterprise|.|bbc200.txt|.|2
+fiscal|.|bbc322.txt|.|2
+economic commission|.|bbc259.txt|.|2
+region|.|bbc259.txt|.|2
+interest rate|.|bbc436.txt|.|2|.|bbc240.txt|.|2
+private|.|bbc70.txt|.|3|.|bbc57.txt|.|2|.|bbc200.txt|.|2
+us dollars in cuba|.|bbc200.txt|.|1
+rising|.|bbc283.txt|.|1|.|bbc175.txt|.|2
+us dollars|.|bbc200.txt|.|1
+housing|.|bbc438.txt|.|3|.|bbc459.txt|.|3|.|bbc194.txt|.|2
+enterprise|.|bbc200.txt|.|2
+economic growth|.|bbc459.txt|.|2|.|bbc436.txt|.|2|.|bbc175.txt|.|2
+dollars|.|bbc200.txt|.|3
+recovery|.|bbc283.txt|.|2
+fiscal year|.|bbc322.txt|.|2
+uk economy|.|bbc459.txt|.|3|.|bbc289.txt|.|2
+end|.|bbc459.txt|.|4
+prices|.|bbc259.txt|.|2|.|bbc286.txt|.|2|.|bbc182.txt|.|3|.|bbc1845.txt|.|3|.|bbc461.txt|.|2|.|bbc57.txt|.|2|.|bbc252.txt|.|3
+forecasting|.|bbc459.txt|.|1|.|bbc57.txt|.|1|.|bbc917.txt|.|1
+mr brown|.|bbc1261.txt|.|3|.|bbc1255.txt|.|3|.|bbc1114.txt|.|6|.|bbc1271.txt|.|9|.|bbc1256.txt|.|4|.|bbc1245.txt|.|2|.|bbc917.txt|.|4|.|bbc1170.txt|.|1
+deflation|.|bbc322.txt|.|4
+next fiscal year|.|bbc322.txt|.|2
+economic forecasts|.|bbc917.txt|.|1
+economic crisis|.|bbc330.txt|.|2
+borrowing|.|bbc436.txt|.|2|.|bbc402.txt|.|2
+fresh|.|bbc330.txt|.|3
+economic|.|bbc259.txt|.|3|.|bbc459.txt|.|6|.|bbc436.txt|.|2|.|bbc322.txt|.|2|.|bbc330.txt|.|2|.|bbc917.txt|.|3|.|bbc283.txt|.|2|.|bbc200.txt|.|7|.|bbc175.txt|.|3
+account|.|bbc330.txt|.|2
+backs|.|bbc2048.txt|.|1|.|bbc917.txt|.|1|.|bbc982.txt|.|1
+line phone
+opec
+prices rose
+loan agreement
+premium rate
+euro
+premium
+hollywood
+rates on hold
+vault
+prices fell
+hoped to return
+iraq to invite

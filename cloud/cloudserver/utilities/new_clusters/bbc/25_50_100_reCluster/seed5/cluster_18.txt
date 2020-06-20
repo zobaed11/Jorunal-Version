@@ -1,0 +1,33 @@
+18
+tries|.|bbc1697.txt|.|2
+win the next game|.|bbc1454.txt|.|1
+gerrard|.|bbc1454.txt|.|3
+university fees|.|bbc1109.txt|.|2
+student|.|bbc1109.txt|.|4
+student vote|.|bbc1109.txt|.|1
+ahead|.|bbc1559.txt|.|3|.|bbc1388.txt|.|2
+fine line|.|bbc1806.txt|.|2
+cole|.|bbc1591.txt|.|5|.|bbc1476.txt|.|2
+seats|.|bbc1109.txt|.|4
+substitute|.|bbc1697.txt|.|2
+leipzig|.|bbc1322.txt|.|2
+win students|.|bbc1109.txt|.|1
+late|.|bbc1591.txt|.|2|.|bbc591.txt|.|1
+fine|.|bbc1806.txt|.|2
+tennis association|.|bbc1806.txt|.|2
+weston|.|bbc1697.txt|.|2
+dems say|.|bbc1109.txt|.|2
+win|.|bbc1109.txt|.|2|.|bbc1591.txt|.|3|.|bbc1458.txt|.|2|.|bbc1697.txt|.|2|.|bbc1388.txt|.|3|.|bbc1454.txt|.|5|.|bbc1322.txt|.|3|.|bbc1665.txt|.|4|.|bbc1648.txt|.|3|.|bbc1108.txt|.|2|.|bbc1806.txt|.|2|.|bbc1489.txt|.|2
+norwich|.|bbc1376.txt|.|2|.|bbc1489.txt|.|3
+glasgow|.|bbc1388.txt|.|2
+portsmouth|.|bbc1591.txt|.|3
+side|.|bbc1648.txt|.|1
+relay|.|bbc1388.txt|.|3
+ulster|.|bbc1697.txt|.|4
+gardener|.|bbc1388.txt|.|3|.|bbc1322.txt|.|4
+steinmetz|.|bbc1697.txt|.|4
+steven|.|bbc1454.txt|.|2
+pompey|.|bbc1591.txt|.|4
+days|.|bbc1806.txt|.|2
+drogba|.|bbc1591.txt|.|3
+quashie|.|bbc1591.txt|.|3

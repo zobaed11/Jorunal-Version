@@ -1,0 +1,28 @@
+29
+relative distinguished|.|rfc4511.txt|.|6
+example value|.|rfc4222.txt|.|10
+type name|.|rfc2425.txt|.|17
+value length|.|rfc2910.txt|.|3
+comment period|.|rfc2425.txt|.|19
+terminate the ldap session|.|rfc4511.txt|.|10
+attribute group|.|rfc2910.txt|.|14
+internet printing protocol|.|rfc2565.txt|.|21
+abandon operation|.|rfc4511.txt|.|8
+assertion|.|rfc4511.txt|.|19
+value type|.|rfc2425.txt|.|36
+attributes tag|.|rfc2565.txt|.|1
+value|.|rfc4222.txt|.|27|.|rfc4342.txt|.|26|.|rfc2425.txt|.|83|.|rfc5546.txt|.|139|.|rfc4511.txt|.|61|.|rfc2565.txt|.|166|.|rfc3567.txt|.|12|.|rfc2910.txt|.|184
+information in the content|.|rfc2425.txt|.|2
+storm|.|rfc4222.txt|.|15
+assertion value|.|rfc4511.txt|.|8
+result code|.|rfc4511.txt|.|18
+printing|.|rfc2565.txt|.|26|.|rfc2910.txt|.|28
+value tag|.|rfc2565.txt|.|1|.|rfc2910.txt|.|1
+request or response|.|rfc2910.txt|.|11
+allow a comment|.|rfc2425.txt|.|11
+intermediateresponse messages|.|rfc4511.txt|.|12
+intermediateresponse|.|rfc4511.txt|.|25
+name length|.|rfc2910.txt|.|1
+abandon|.|rfc4511.txt|.|24
+comment|.|rfc2425.txt|.|24|.|rfc151.txt|.|2
+transport april|.|rfc2565.txt|.|36

@@ -1,0 +1,6 @@
+17
+join date|.|WET6393.txt|.|91|.|WET5727.txt|.|10|.|WET5759.txt|.|47|.|WET5586.txt|.|29|.|WET6372.txt|.|56|.|WET6594.txt|.|10|.|WET5128.txt|.|21
+bolt|.|WET6393.txt|.|1
+join|.|WET6393.txt|.|92|.|WET5457.txt|.|47|.|WET5727.txt|.|13|.|WET6624.txt|.|28|.|WET6836.txt|.|80|.|WET5759.txt|.|50|.|WET5586.txt|.|29|.|WET6372.txt|.|56|.|WET6594.txt|.|11|.|WET5128.txt|.|21
+expedited
+expedited shipping

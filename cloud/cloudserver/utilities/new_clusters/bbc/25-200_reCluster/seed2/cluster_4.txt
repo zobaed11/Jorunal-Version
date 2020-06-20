@@ -1,0 +1,45 @@
+4
+combat attacks|.|bbc2192.txt|.|1
+pro magazine|.|bbc1845.txt|.|2
+service firms|.|bbc2192.txt|.|2
+widen|.|bbc124.txt|.|1
+softbank has widened losses|.|bbc124.txt|.|1
+combat|.|bbc2192.txt|.|1
+losses|.|bbc124.txt|.|1
+net attacks|.|bbc2192.txt|.|2
+home computer|.|bbc1858.txt|.|2
+alerting|.|bbc1858.txt|.|4
+avoid trouble|.|bbc1858.txt|.|2
+civil service jobs|.|bbc1261.txt|.|3
+music downloaded|.|bbc2087.txt|.|1
+alert|.|bbc1858.txt|.|2
+net service|.|bbc2192.txt|.|2
+service jobs|.|bbc1261.txt|.|3
+trouble|.|bbc1858.txt|.|2
+track|.|bbc2087.txt|.|3
+napster offers|.|bbc2087.txt|.|1
+south east|.|bbc1261.txt|.|2
+offers|.|bbc2087.txt|.|4|.|bbc2204.txt|.|1|.|bbc1960.txt|.|1|.|bbc252.txt|.|1
+sensing|.|bbc2192.txt|.|2
+pc pro|.|bbc1845.txt|.|3
+service attacks|.|bbc2192.txt|.|2
+alerting service|.|bbc1858.txt|.|4
+alerts tell|.|bbc1858.txt|.|1
+sensing system|.|bbc2192.txt|.|2
+pro|.|bbc1845.txt|.|3
+downloaded|.|bbc2087.txt|.|1
+security problems|.|bbc1858.txt|.|2
+affected|.|bbc2192.txt|.|3
+alerts|.|bbc1858.txt|.|7
+britons|.|bbc1845.txt|.|2
+alert site|.|bbc1858.txt|.|1
+softbank has widened|.|bbc124.txt|.|1
+songs|.|bbc2087.txt|.|2
+service|.|bbc2087.txt|.|10|.|bbc1261.txt|.|4|.|bbc914.txt|.|2|.|bbc2192.txt|.|5|.|bbc2202.txt|.|3|.|bbc2204.txt|.|3|.|bbc938.txt|.|4|.|bbc1986.txt|.|2|.|bbc1106.txt|.|5|.|bbc124.txt|.|2|.|bbc1845.txt|.|4|.|bbc1858.txt|.|10
+network affected|.|bbc2192.txt|.|2
+napster|.|bbc2087.txt|.|5
+magazine|.|bbc1845.txt|.|2
+tell people|.|bbc1858.txt|.|3
+brown said|.|bbc1261.txt|.|2
+net service firms|.|bbc2192.txt|.|2
+problems|.|bbc1858.txt|.|2

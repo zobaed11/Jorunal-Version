@@ -1,0 +1,37 @@
+13
+career|.|bbc1351.txt|.|2
+dublin|.|bbc1320.txt|.|3
+enters|.|bbc591.txt|.|1
+maintain|.|bbc1383.txt|.|2
+world record|.|bbc1366.txt|.|1|.|bbc1383.txt|.|1
+olympic champion|.|bbc1382.txt|.|3
+lot|.|bbc1351.txt|.|3|.|bbc1824.txt|.|3
+clocking|.|bbc1373.txt|.|2
+later|.|bbc1260.txt|.|3|.|bbc1378.txt|.|3
+radcliffe will compete|.|bbc1378.txt|.|2
+entered its final|.|bbc591.txt|.|1
+pace but could not maintain|.|bbc1383.txt|.|1
+expectations of winning|.|bbc1351.txt|.|2
+expectations|.|bbc1351.txt|.|2
+race for the oscars entered|.|bbc591.txt|.|1
+carroll|.|bbc1320.txt|.|3
+chepkemei|.|bbc1332.txt|.|4|.|bbc1334.txt|.|4
+months later|.|bbc1378.txt|.|2
+wins|.|bbc1818.txt|.|1|.|bbc1373.txt|.|1
+ballot|.|bbc591.txt|.|1
+oscars race|.|bbc591.txt|.|1
+race|.|bbc1320.txt|.|3|.|bbc1332.txt|.|4|.|bbc1351.txt|.|7|.|bbc1585.txt|.|3|.|bbc1373.txt|.|2|.|bbc1378.txt|.|5|.|bbc591.txt|.|2|.|bbc1366.txt|.|4|.|bbc1383.txt|.|3|.|bbc1382.txt|.|3
+breaks|.|bbc1383.txt|.|1
+marathon|.|bbc1332.txt|.|1|.|bbc1351.txt|.|2|.|bbc1366.txt|.|3
+pace|.|bbc1383.txt|.|2
+london race|.|bbc1332.txt|.|1
+comfortably|.|bbc1382.txt|.|2
+entered|.|bbc591.txt|.|1
+runners|.|bbc1383.txt|.|2
+record by clocking|.|bbc1373.txt|.|2
+gebrselassie|.|bbc1366.txt|.|4
+camp|.|bbc1332.txt|.|2|.|bbc1050.txt|.|3
+isinbayeva|.|bbc1383.txt|.|2
+anniversary|.|bbc682.txt|.|2|.|bbc1378.txt|.|2
+champion|.|bbc1780.txt|.|3|.|bbc1366.txt|.|3|.|bbc1797.txt|.|2|.|bbc1382.txt|.|8
+next three years|.|bbc1366.txt|.|2

@@ -1,0 +1,38 @@
+12
+gloucester|.|bbc1724.txt|.|1
+vickery|.|bbc1724.txt|.|3
+england captain|.|bbc1655.txt|.|2
+scored another goal|.|bbc1464.txt|.|1
+wilkinson|.|bbc1655.txt|.|2|.|bbc1658.txt|.|7
+game against italy|.|bbc1655.txt|.|1
+graham|.|bbc1419.txt|.|5
+captain|.|bbc1655.txt|.|4|.|bbc1615.txt|.|2|.|bbc1604.txt|.|3|.|bbc1661.txt|.|3
+nations|.|bbc1708.txt|.|2|.|bbc1655.txt|.|4|.|bbc1604.txt|.|2|.|bbc1677.txt|.|3|.|bbc1658.txt|.|2|.|bbc1685.txt|.|2|.|bbc1898.txt|.|3|.|bbc1648.txt|.|3|.|bbc1676.txt|.|2|.|bbc1716.txt|.|4
+metatarsal|.|bbc1427.txt|.|4
+coaching|.|bbc1632.txt|.|1
+jonny wilkinson|.|bbc1655.txt|.|2
+two games|.|bbc1655.txt|.|3
+radius|.|bbc1724.txt|.|2
+six weeks|.|bbc1427.txt|.|2
+arm|.|bbc1724.txt|.|3
+jonny|.|bbc1655.txt|.|2|.|bbc1658.txt|.|2
+foot|.|bbc1427.txt|.|4
+italy|.|bbc1655.txt|.|2|.|bbc1615.txt|.|9|.|bbc1648.txt|.|3
+broken|.|bbc1427.txt|.|3|.|bbc1724.txt|.|2
+side|.|bbc1648.txt|.|1|.|bbc1516.txt|.|1
+six|.|bbc1632.txt|.|1|.|bbc1427.txt|.|3|.|bbc1419.txt|.|3|.|bbc1604.txt|.|3|.|bbc1677.txt|.|3|.|bbc1658.txt|.|3|.|bbc1716.txt|.|4|.|bbc1464.txt|.|2|.|bbc1708.txt|.|2|.|bbc1655.txt|.|4|.|bbc1724.txt|.|3|.|bbc1685.txt|.|2|.|bbc1648.txt|.|3|.|bbc1676.txt|.|2
+goal|.|bbc1464.txt|.|2
+queudrue|.|bbc1419.txt|.|2
+holland|.|bbc1419.txt|.|4
+positive|.|bbc1724.txt|.|2
+six minutes|.|bbc1419.txt|.|2
+betis|.|bbc1464.txt|.|2
+phil|.|bbc717.txt|.|2|.|bbc1724.txt|.|3
+six points|.|bbc1464.txt|.|2
+danny|.|bbc1419.txt|.|2
+scored|.|bbc1464.txt|.|2
+bartlett|.|bbc1419.txt|.|4
+riggott|.|bbc1419.txt|.|3
+jason|.|bbc1655.txt|.|2|.|bbc1649.txt|.|2
+forearm|.|bbc1724.txt|.|2
+sidelined|.|bbc1427.txt|.|2

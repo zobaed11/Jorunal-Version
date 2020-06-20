@@ -1,0 +1,184 @@
+el comercio|.|WET5313.txt|.|10
+animas river|.|WET6682.txt|.|22
+purchase office|.|WET6785.txt|.|151
+type|.|WET6431.txt|.|1|.|WET6538.txt|.|8|.|WET5849.txt|.|1|.|WET6577.txt|.|2
+april|.|WET5939.txt|.|66
+tea|.|WET5895.txt|.|35
+music|.|WET5313.txt|.|30
+vacation rentals|.|WET5799.txt|.|30
+xml|.|WET5584.txt|.|1
+hostel new|.|WET5248.txt|.|9
+visual|.|WET6203.txt|.|2|.|WET6682.txt|.|11
+rendezvous|.|WET6203.txt|.|2
+join|.|WET6836.txt|.|80
+text|.|WET6682.txt|.|22
+animals|.|WET6785.txt|.|2
+state|.|WET5422.txt|.|214
+make text|.|WET6682.txt|.|22
+beer|.|WET5895.txt|.|14
+pet|.|WET5799.txt|.|14
+item|.|WET5422.txt|.|88
+margin|.|WET5422.txt|.|8
+neighborhoods|.|WET5702.txt|.|1|.|WET5507.txt|.|2
+jay|.|WET6310.txt|.|27
+glycemic|.|WET6680.txt|.|30
+sono|.|WET5507.txt|.|25
+index|.|WET6680.txt|.|17
+hotel abentofail|.|WET5313.txt|.|5
+forecast|.|WET5507.txt|.|2
+abentofail|.|WET5313.txt|.|5
+priority|.|WET6785.txt|.|33
+drink|.|WET6680.txt|.|24
+utilize the functionality|.|WET6197.txt|.|2
+animation|.|WET5939.txt|.|36
+highest|.|WET6310.txt|.|30
+letter|.|WET6836.txt|.|22
+utilize|.|WET6197.txt|.|2
+items|.|WET6836.txt|.|22
+women|.|WET6836.txt|.|37
+status|.|WET5702.txt|.|3|.|WET6203.txt|.|2|.|WET5935.txt|.|1|.|WET5845.txt|.|2
+love|.|WET6310.txt|.|64
+compare|.|WET6197.txt|.|19
+archives|.|WET5709.txt|.|2
+time warp|.|WET5895.txt|.|4
+housing|.|WET5939.txt|.|17
+skip|.|WET6431.txt|.|32
+functionality|.|WET6197.txt|.|2
+warc|.|WET5584.txt|.|11|.|WET5702.txt|.|11|.|WET5799.txt|.|11|.|WET5709.txt|.|11|.|WET6586.txt|.|11|.|WET6836.txt|.|11|.|WET5507.txt|.|11|.|WET6431.txt|.|11|.|WET5939.txt|.|11|.|WET6197.txt|.|11|.|WET6310.txt|.|11|.|WET5935.txt|.|11|.|WET6682.txt|.|11|.|WET6666.txt|.|11|.|WET6785.txt|.|11|.|WET6538.txt|.|11|.|WET5849.txt|.|11|.|WET6203.txt|.|11|.|WET5845.txt|.|11|.|WET6577.txt|.|11|.|WET5895.txt|.|11|.|WET5248.txt|.|11|.|WET5313.txt|.|11
+login|.|WET6577.txt|.|8
+mac|.|WET6680.txt|.|23
+local|.|WET6682.txt|.|33
+archived|.|WET6785.txt|.|2
+promote|.|WET5939.txt|.|2
+endpoint|.|WET5248.txt|.|2
+search|.|WET6431.txt|.|17
+top|.|WET5422.txt|.|16|.|WET6836.txt|.|30
+viewed|.|WET6310.txt|.|27
+herald|.|WET6682.txt|.|83
+hotel|.|WET5313.txt|.|6
+vacation|.|WET5799.txt|.|72
+durango|.|WET6682.txt|.|157
+deadline|.|WET5507.txt|.|1
+arts|.|WET6203.txt|.|23|.|WET6682.txt|.|33
+email|.|WET5709.txt|.|28
+office depot|.|WET6785.txt|.|297
+search skip directly|.|WET6431.txt|.|8
+brands|.|WET6836.txt|.|56
+coupon|.|WET6836.txt|.|62
+business|.|WET6680.txt|.|62
+max|.|WET6785.txt|.|8
+z top|.|WET6836.txt|.|10
+asian|.|WET6310.txt|.|34
+black|.|WET6310.txt|.|66
+durango herald|.|WET6682.txt|.|49
+team|.|WET5935.txt|.|33
+services|.|WET5799.txt|.|18
+march|.|WET5584.txt|.|36
+food|.|WET6680.txt|.|38
+mac os x|.|WET6680.txt|.|12
+opinion|.|WET5939.txt|.|1|.|WET5895.txt|.|2
+dialogues|.|WET6586.txt|.|2
+hits|.|WET5702.txt|.|1|.|WET6203.txt|.|1
+multimedia|.|WET6785.txt|.|2
+highest rated|.|WET6310.txt|.|27
+delle|.|WET6586.txt|.|50
+january|.|WET5939.txt|.|53
+saints|.|WET5935.txt|.|47
+x|.|WET6680.txt|.|19
+width|.|WET5422.txt|.|4
+z|.|WET6836.txt|.|24
+river|.|WET6682.txt|.|34
+atom|.|WET5584.txt|.|2|.|WET5845.txt|.|3|.|WET5895.txt|.|3
+root beer|.|WET5895.txt|.|14
+travel|.|WET5799.txt|.|33
+burberry|.|WET6836.txt|.|96
+dilemma|.|WET5702.txt|.|2
+date|.|WET6586.txt|.|1|.|WET5849.txt|.|2
+small|.|WET6680.txt|.|38
+depot|.|WET6785.txt|.|303
+mail|.|WET5507.txt|.|6
+hostel|.|WET5248.txt|.|14
+blogs|.|WET5799.txt|.|19|.|WET5935.txt|.|32
+voting|.|WET5702.txt|.|1|.|WET6586.txt|.|4
+office|.|WET6785.txt|.|309
+chabuca|.|WET5313.txt|.|29
+blog|.|WET5584.txt|.|15|.|WET6680.txt|.|16|.|WET6586.txt|.|11|.|WET5507.txt|.|28|.|WET5939.txt|.|20|.|WET5895.txt|.|13|.|WET5248.txt|.|12
+advocate|.|WET5935.txt|.|51
+bet|.|WET5702.txt|.|2
+hit|.|WET6310.txt|.|3
+post|.|WET5584.txt|.|24|.|WET5422.txt|.|82
+reviews|.|WET6666.txt|.|29
+shipping|.|WET5709.txt|.|4
+contact|.|WET6197.txt|.|20
+herald subscribe mobile the durango|.|WET6682.txt|.|11
+robots|.|WET5709.txt|.|2
+stock|.|WET6836.txt|.|44|.|WET6197.txt|.|17
+directly|.|WET6431.txt|.|32
+day|.|WET5709.txt|.|58|.|WET6666.txt|.|15
+us|.|WET6197.txt|.|38
+add|.|WET6197.txt|.|49
+stock items|.|WET6836.txt|.|20
+new|.|WET5248.txt|.|50
+ms|.|WET5422.txt|.|76
+el|.|WET5313.txt|.|38
+en|.|WET5313.txt|.|36
+archive|.|WET5702.txt|.|2|.|WET6586.txt|.|4|.|WET5895.txt|.|1
+interoperability|.|WET5248.txt|.|2
+juxtapoz|.|WET6197.txt|.|22
+list|.|WET6836.txt|.|84
+beacons|.|WET5248.txt|.|2
+tea root|.|WET5895.txt|.|7
+core|.|WET6586.txt|.|2|.|WET6203.txt|.|2|.|WET6310.txt|.|2
+careers|.|WET6680.txt|.|32
+hybrid|.|WET5248.txt|.|2
+daily|.|WET6577.txt|.|13
+comercio|.|WET5313.txt|.|11
+news local|.|WET6682.txt|.|16
+ebay|.|WET5709.txt|.|2
+neighborhood|.|WET5799.txt|.|2
+mediator|.|WET5248.txt|.|2
+forecasts|.|WET6586.txt|.|2
+warp|.|WET5895.txt|.|4
+trust|.|WET5702.txt|.|3|.|WET5935.txt|.|1|.|WET5845.txt|.|1
+pet services|.|WET5799.txt|.|6
+squeeze|.|WET5507.txt|.|24
+color|.|WET5422.txt|.|8
+animas|.|WET6682.txt|.|34
+privacy|.|WET5702.txt|.|2|.|WET5799.txt|.|13|.|WET6680.txt|.|23|.|WET6586.txt|.|64|.|WET6577.txt|.|5|.|WET5248.txt|.|2
+contact us|.|WET6197.txt|.|20
+perfume|.|WET6836.txt|.|157
+office max|.|WET6785.txt|.|8
+load|.|WET6680.txt|.|13
+flex|.|WET5422.txt|.|13
+today|.|WET5935.txt|.|6
+root|.|WET5895.txt|.|14
+small business|.|WET6680.txt|.|34
+make|.|WET6682.txt|.|37
+park|.|WET5422.txt|.|214
+conversion|.|WET6666.txt|.|11|.|WET6431.txt|.|11|.|WET6538.txt|.|11|.|WET5849.txt|.|11|.|WET6197.txt|.|11|.|WET6577.txt|.|11
+news|.|WET6682.txt|.|59
+glycemic index|.|WET6680.txt|.|17
+dilemmas|.|WET6203.txt|.|2
+granda|.|WET5313.txt|.|28
+os|.|WET6680.txt|.|19
+sports|.|WET5799.txt|.|56
+subscribe|.|WET6682.txt|.|22
+purchase|.|WET5584.txt|.|1|.|WET6785.txt|.|184|.|WET5313.txt|.|2
+mobile|.|WET6682.txt|.|11
+glycemic load|.|WET6680.txt|.|13
+stock add|.|WET6197.txt|.|16
+starr|.|WET6310.txt|.|45
+rentals|.|WET5799.txt|.|43
+state park|.|WET5422.txt|.|194
+sands|.|WET5248.txt|.|2
+home|.|WET5584.txt|.|23|.|WET5799.txt|.|38|.|WET5939.txt|.|61|.|WET5895.txt|.|45
+rated|.|WET6310.txt|.|32
+skip directly|.|WET6431.txt|.|32
+join coupon list|.|WET6836.txt|.|44
+rated most viewed|.|WET6310.txt|.|24
+visual arts|.|WET6203.txt|.|2|.|WET6682.txt|.|11
+opinions|.|WET6203.txt|.|1
+compare juxtapoz|.|WET6197.txt|.|18
+time|.|WET5895.txt|.|28
+chabuca granda|.|WET5313.txt|.|27
+anime|.|WET5845.txt|.|1

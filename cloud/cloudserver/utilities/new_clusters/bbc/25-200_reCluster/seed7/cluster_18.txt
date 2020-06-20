@@ -1,0 +1,17 @@
+18
+win the next game|.|bbc1454.txt|.|1
+glasgow|.|bbc1388.txt|.|2
+gerrard|.|bbc1454.txt|.|3
+portsmouth|.|bbc1591.txt|.|3
+said in a statement|.|bbc1108.txt|.|1
+jol|.|bbc1463.txt|.|3
+world cup winning|.|bbc1703.txt|.|1
+substitute|.|bbc1697.txt|.|2
+leipzig|.|bbc1322.txt|.|2
+steven|.|bbc1454.txt|.|2
+late|.|bbc1591.txt|.|2
+looking|.|bbc1463.txt|.|1
+weston|.|bbc1697.txt|.|2
+win|.|bbc1109.txt|.|2|.|bbc1697.txt|.|2|.|bbc1799.txt|.|2|.|bbc1454.txt|.|5|.|bbc1322.txt|.|3|.|bbc1709.txt|.|6|.|bbc1463.txt|.|3|.|bbc1108.txt|.|2|.|bbc1489.txt|.|2|.|bbc1703.txt|.|1|.|bbc1591.txt|.|3|.|bbc1458.txt|.|2|.|bbc1388.txt|.|3|.|bbc1665.txt|.|4|.|bbc1648.txt|.|3
+quashie|.|bbc1591.txt|.|3
+offer matt|.|bbc1703.txt|.|1

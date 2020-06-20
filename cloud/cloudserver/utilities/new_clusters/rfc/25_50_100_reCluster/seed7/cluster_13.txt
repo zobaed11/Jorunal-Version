@@ -1,0 +1,35 @@
+13
+active measurement|.|rfc5938.txt|.|8
+chiba|.|rfc5938.txt|.|19
+extended sort|.|rfc5267.txt|.|12
+takethis|.|rfc4644.txt|.|26
+contexts|.|rfc5267.txt|.|22
+addto and removefrom|.|rfc5267.txt|.|6
+receiving ncp|.|rfc467.txt|.|6
+takethis commands|.|rfc4644.txt|.|9
+article transfer|.|rfc4644.txt|.|4
+found|.|rfc5182.txt|.|8
+individual session control|.|rfc5938.txt|.|23
+extension for streaming feeds|.|rfc4644.txt|.|14
+streaming feeds|.|rfc4644.txt|.|14
+uid search|.|rfc5182.txt|.|7
+last search result|.|rfc5182.txt|.|13
+memo describes|.|rfc5938.txt|.|4
+last|.|rfc5182.txt|.|15
+individual|.|rfc5938.txt|.|30
+last search|.|rfc5182.txt|.|13
+new mail|.|rfc2177.txt|.|4
+test sessions|.|rfc5938.txt|.|15
+command|.|rfc5182.txt|.|50|.|rfc5259.txt|.|38|.|rfc491.txt|.|5|.|rfc506.txt|.|2|.|rfc2177.txt|.|23|.|rfc5267.txt|.|43|.|rfc3435.txt|.|381|.|rfc5804.txt|.|128|.|rfc607.txt|.|18|.|rfc535.txt|.|11|.|rfc467.txt|.|23|.|rfc5938.txt|.|54|.|rfc4644.txt|.|44
+describes|.|rfc4358.txt|.|1|.|rfc5938.txt|.|5
+parameter will be set|.|rfc3435.txt|.|2
+removefrom return data|.|rfc5267.txt|.|6
+stream command|.|rfc4644.txt|.|11
+burchfiel|.|rfc467.txt|.|7
+connection is closed|.|rfc467.txt|.|3
+sessions command|.|rfc5938.txt|.|2
+found messages|.|rfc5182.txt|.|4
+check commands|.|rfc4644.txt|.|3
+replacement|.|rfc5259.txt|.|1
+update contexts|.|rfc5267.txt|.|5
+context july|.|rfc5267.txt|.|17

@@ -1,0 +1,42 @@
+43
+stems|.|bbc1708.txt|.|1
+southern|.|bbc1715.txt|.|3|.|bbc353.txt|.|3
+legend|.|bbc1708.txt|.|1
+wru proposes|.|bbc1685.txt|.|1
+seven|.|bbc1674.txt|.|2
+south africa|.|bbc1682.txt|.|1|.|bbc1690.txt|.|3|.|bbc1303.txt|.|3
+rugby league|.|bbc1711.txt|.|2
+triple crown|.|bbc1677.txt|.|3
+northern|.|bbc1715.txt|.|2|.|bbc381.txt|.|2
+said calder|.|bbc1676.txt|.|2
+scottish|.|bbc986.txt|.|2|.|bbc906.txt|.|5|.|bbc1678.txt|.|6|.|bbc1676.txt|.|2
+welsh legend|.|bbc1708.txt|.|2
+pursue|.|bbc1674.txt|.|2
+charity|.|bbc1715.txt|.|4|.|bbc670.txt|.|4|.|bbc667.txt|.|2
+stradey|.|bbc1674.txt|.|3
+civil war|.|bbc1676.txt|.|2
+international|.|bbc1682.txt|.|3|.|bbc1412.txt|.|2
+crown|.|bbc1677.txt|.|3
+dispute|.|bbc1678.txt|.|2
+honour|.|bbc1682.txt|.|1|.|bbc893.txt|.|1|.|bbc1924.txt|.|4
+pickering|.|bbc1685.txt|.|3
+gamble|.|bbc1711.txt|.|3
+rugby|.|bbc1715.txt|.|5|.|bbc1682.txt|.|4|.|bbc1708.txt|.|4|.|bbc1677.txt|.|5|.|bbc1678.txt|.|5|.|bbc1685.txt|.|3|.|bbc1711.txt|.|3|.|bbc1676.txt|.|3|.|bbc1674.txt|.|2
+proposes|.|bbc1685.txt|.|2
+february|.|bbc1685.txt|.|2
+irish rugby|.|bbc1677.txt|.|3
+andy farrell|.|bbc1711.txt|.|2
+scottish rugby|.|bbc1678.txt|.|5|.|bbc1676.txt|.|2
+coaches|.|bbc1678.txt|.|1
+executive board|.|bbc1676.txt|.|2
+calder fears|.|bbc1676.txt|.|2
+sydney|.|bbc1715.txt|.|2|.|bbc1770.txt|.|3
+years at stradey|.|bbc1674.txt|.|2
+year in irish|.|bbc1677.txt|.|1
+involved|.|bbc1711.txt|.|2
+farrell|.|bbc1711.txt|.|5
+spectator|.|bbc1685.txt|.|2
+sides|.|bbc1708.txt|.|3
+wru|.|bbc1685.txt|.|3
+seven years|.|bbc1674.txt|.|2
+tigers|.|bbc1711.txt|.|2

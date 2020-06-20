@@ -1,0 +1,28 @@
+21
+francisco|.|bbc2170.txt|.|3
+rsa|.|bbc2170.txt|.|5
+security|.|bbc1884.txt|.|6|.|bbc2140.txt|.|10|.|bbc1855.txt|.|13|.|bbc1947.txt|.|2|.|bbc2186.txt|.|5|.|bbc1903.txt|.|2|.|bbc2197.txt|.|2|.|bbc2108.txt|.|3|.|bbc2170.txt|.|8
+windows programs|.|bbc1884.txt|.|2
+net security|.|bbc2140.txt|.|5
+pc users|.|bbc1884.txt|.|2
+spyware|.|bbc1860.txt|.|3|.|bbc2140.txt|.|3
+security software|.|bbc2140.txt|.|2
+crime|.|bbc1903.txt|.|1|.|bbc2197.txt|.|1
+older|.|bbc2140.txt|.|3|.|bbc897.txt|.|2
+protect|.|bbc2140.txt|.|1|.|bbc2166.txt|.|1
+survey found|.|bbc2170.txt|.|2
+basic security|.|bbc2170.txt|.|2
+san francisco|.|bbc2170.txt|.|3
+online security|.|bbc1855.txt|.|2
+protecting|.|bbc2140.txt|.|2
+protect pcs|.|bbc2140.txt|.|1
+carried|.|bbc1855.txt|.|1
+pcs|.|bbc2140.txt|.|3|.|bbc1932.txt|.|2
+using a pc|.|bbc1903.txt|.|1|.|bbc2197.txt|.|1
+patches|.|bbc1884.txt|.|2
+rsa security|.|bbc2170.txt|.|2
+windows|.|bbc1884.txt|.|3
+releases|.|bbc1884.txt|.|2
+older people|.|bbc2140.txt|.|2
+programs|.|bbc1884.txt|.|4|.|bbc2065.txt|.|2
+basic|.|bbc2170.txt|.|3

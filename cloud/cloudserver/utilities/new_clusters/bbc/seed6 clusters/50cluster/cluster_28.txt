@@ -1,0 +1,100 @@
+28
+celebrity|.|bbc713.txt|.|4|.|bbc726.txt|.|2|.|bbc717.txt|.|2|.|bbc689.txt|.|2|.|bbc731.txt|.|3
+foxx and swank|.|bbc579.txt|.|2
+million phishing|.|bbc2041.txt|.|2
+screen|.|bbc579.txt|.|2|.|bbc575.txt|.|2|.|bbc2130.txt|.|2
+developing|.|bbc296.txt|.|4
+charles|.|bbc579.txt|.|2|.|bbc936.txt|.|2|.|bbc1123.txt|.|2
+organisation|.|bbc9.txt|.|2
+promise|.|bbc762.txt|.|1
+agriculture organisation|.|bbc9.txt|.|2
+dominate|.|bbc2066.txt|.|2
+bet|.|bbc596.txt|.|4|.|bbc838.txt|.|4
+million dollar|.|bbc596.txt|.|2|.|bbc579.txt|.|3|.|bbc838.txt|.|2
+actor award|.|bbc579.txt|.|1
+crue|.|bbc762.txt|.|2
+guild|.|bbc579.txt|.|2
+new trade|.|bbc296.txt|.|2
+locally|.|bbc9.txt|.|1
+million people|.|bbc717.txt|.|2
+attacks|.|bbc1002.txt|.|1|.|bbc2192.txt|.|12|.|bbc2041.txt|.|6
+william|.|bbc979.txt|.|2|.|bbc596.txt|.|5|.|bbc838.txt|.|5|.|bbc731.txt|.|3
+actors guild|.|bbc579.txt|.|2
+price|.|bbc254.txt|.|2|.|bbc30.txt|.|4|.|bbc2066.txt|.|1|.|bbc322.txt|.|1|.|bbc402.txt|.|1|.|bbc385.txt|.|1|.|bbc175.txt|.|1
+tip|.|bbc596.txt|.|1|.|bbc838.txt|.|1
+phishing attacks|.|bbc2041.txt|.|3
+motley|.|bbc762.txt|.|2
+new year|.|bbc296.txt|.|2|.|bbc1052.txt|.|1
+oscar|.|bbc597.txt|.|1|.|bbc596.txt|.|2|.|bbc838.txt|.|2|.|bbc569.txt|.|3
+phishing|.|bbc2041.txt|.|12
+double|.|bbc1388.txt|.|3|.|bbc1379.txt|.|5|.|bbc2066.txt|.|2|.|bbc731.txt|.|2
+lose|.|bbc296.txt|.|3
+expected|.|bbc674.txt|.|2|.|bbc156.txt|.|2|.|bbc2066.txt|.|3|.|bbc402.txt|.|2
+aviator|.|bbc596.txt|.|5|.|bbc838.txt|.|5
+countries|.|bbc296.txt|.|9|.|bbc478.txt|.|2
+tonnes|.|bbc9.txt|.|5
+motley crue|.|bbc762.txt|.|2
+ray|.|bbc579.txt|.|3
+million jobs|.|bbc296.txt|.|2
+phil|.|bbc717.txt|.|2|.|bbc1724.txt|.|3
+forrester|.|bbc2066.txt|.|3
+actors|.|bbc579.txt|.|5
+million tonnes|.|bbc9.txt|.|2
+christian aid|.|bbc296.txt|.|3
+wto|.|bbc296.txt|.|5|.|bbc320.txt|.|7
+million|.|bbc296.txt|.|3|.|bbc596.txt|.|2|.|bbc579.txt|.|3|.|bbc762.txt|.|2|.|bbc9.txt|.|4|.|bbc838.txt|.|2|.|bbc2066.txt|.|5|.|bbc717.txt|.|3|.|bbc2041.txt|.|3
+ethiopia|.|bbc9.txt|.|3
+tufnell|.|bbc717.txt|.|2
+sued|.|bbc762.txt|.|2
+ray charles|.|bbc579.txt|.|2
+william hill|.|bbc596.txt|.|5|.|bbc838.txt|.|5|.|bbc731.txt|.|2
+messages|.|bbc2186.txt|.|2|.|bbc2041.txt|.|6
+aid|.|bbc296.txt|.|3|.|bbc1921.txt|.|9|.|bbc670.txt|.|4|.|bbc1652.txt|.|2|.|bbc2139.txt|.|2|.|bbc353.txt|.|10
+crop|.|bbc9.txt|.|2
+joe|.|bbc717.txt|.|2
+production|.|bbc399.txt|.|5|.|bbc565.txt|.|1|.|bbc9.txt|.|3|.|bbc813.txt|.|5|.|bbc704.txt|.|2
+show|.|bbc713.txt|.|5|.|bbc684.txt|.|5|.|bbc717.txt|.|7|.|bbc716.txt|.|4
+recommend|.|bbc9.txt|.|1
+screen actors|.|bbc579.txt|.|2
+crops|.|bbc9.txt|.|2
+india|.|bbc276.txt|.|3|.|bbc2066.txt|.|2
+local|.|bbc1235.txt|.|6|.|bbc2189.txt|.|5|.|bbc1295.txt|.|7|.|bbc1294.txt|.|5|.|bbc2066.txt|.|3
+dollar|.|bbc596.txt|.|2|.|bbc579.txt|.|3|.|bbc53.txt|.|2|.|bbc838.txt|.|2
+agriculture|.|bbc9.txt|.|3|.|bbc1132.txt|.|2
+award|.|bbc841.txt|.|3|.|bbc517.txt|.|2|.|bbc579.txt|.|3|.|bbc1682.txt|.|5|.|bbc385.txt|.|2
+christian|.|bbc296.txt|.|4|.|bbc512.txt|.|5|.|bbc418.txt|.|2
+criminals|.|bbc2041.txt|.|2
+analyst for forrester|.|bbc2066.txt|.|1
+monday|.|bbc1123.txt|.|2|.|bbc717.txt|.|1|.|bbc1293.txt|.|2
+tip the aviator|.|bbc596.txt|.|1|.|bbc838.txt|.|1
+peaked|.|bbc717.txt|.|1
+mars|.|bbc762.txt|.|5
+jobs|.|bbc47.txt|.|2|.|bbc296.txt|.|6|.|bbc1261.txt|.|8|.|bbc1114.txt|.|2|.|bbc27.txt|.|3|.|bbc76.txt|.|3|.|bbc253.txt|.|9
+mfa|.|bbc296.txt|.|3
+favourite|.|bbc733.txt|.|4|.|bbc517.txt|.|3|.|bbc596.txt|.|6|.|bbc838.txt|.|6
+cyber criminals|.|bbc2041.txt|.|2
+crop production|.|bbc9.txt|.|2
+hill|.|bbc596.txt|.|5|.|bbc838.txt|.|5|.|bbc731.txt|.|2
+cyber|.|bbc2041.txt|.|2
+pc|.|bbc1884.txt|.|2|.|bbc2066.txt|.|8|.|bbc1845.txt|.|3|.|bbc1903.txt|.|3
+trade|.|bbc440.txt|.|4|.|bbc296.txt|.|7|.|bbc446.txt|.|8|.|bbc478.txt|.|3|.|bbc320.txt|.|4
+developing countries|.|bbc296.txt|.|3
+wto said|.|bbc296.txt|.|2
+bookmakers|.|bbc596.txt|.|5|.|bbc838.txt|.|5
+baby|.|bbc596.txt|.|1|.|bbc579.txt|.|3|.|bbc838.txt|.|1
+phil tufnell|.|bbc717.txt|.|2
+report|.|bbc2066.txt|.|4|.|bbc1898.txt|.|2|.|bbc917.txt|.|3|.|bbc1460.txt|.|3|.|bbc1108.txt|.|2
+analyst|.|bbc302.txt|.|1|.|bbc2066.txt|.|1
+dollar baby|.|bbc596.txt|.|1|.|bbc579.txt|.|3|.|bbc838.txt|.|1
+tv show|.|bbc713.txt|.|2|.|bbc717.txt|.|2
+arthur dent
+fraud
+fraud charges
+viruses
+columbia distributor
+john peel
+columbia
+hacker
+lg card
+lg
+lg group

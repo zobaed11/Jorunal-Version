@@ -1,0 +1,273 @@
+brom|.|bbc1442.txt|.|2
+german|.|bbc66.txt|.|4
+swiss cement|.|bbc485.txt|.|2
+desperate|.|bbc689.txt|.|2
+year|.|bbc689.txt|.|4
+politically|.|bbc1212.txt|.|2
+johnson|.|bbc1350.txt|.|4
+dortmund|.|bbc193.txt|.|6
+debts owed|.|bbc210.txt|.|2
+theatre|.|bbc522.txt|.|6
+firm|.|bbc485.txt|.|4
+poor|.|bbc2023.txt|.|3
+record|.|bbc193.txt|.|2
+injury|.|bbc1442.txt|.|2
+compared to last|.|bbc689.txt|.|1
+accuses|.|bbc1350.txt|.|1
+thinks|.|bbc2023.txt|.|5
+pentagon|.|bbc161.txt|.|5
+doubts|.|bbc1442.txt|.|3
+prime|.|bbc1212.txt|.|2
+debt relief|.|bbc210.txt|.|4
+night|.|bbc711.txt|.|7
+reserves|.|bbc210.txt|.|3
+personal|.|bbc2023.txt|.|2
+dortmund posted|.|bbc193.txt|.|1
+massu|.|bbc1781.txt|.|2
+personal computer|.|bbc2023.txt|.|2
+neeson|.|bbc522.txt|.|6
+michael howard|.|bbc1212.txt|.|3
+television set|.|bbc2023.txt|.|2
+electronic christmas|.|bbc1832.txt|.|2
+tory|.|bbc1212.txt|.|2
+sprinters|.|bbc1350.txt|.|4
+german business|.|bbc66.txt|.|2
+lib dems|.|bbc981.txt|.|1
+firms|.|bbc1832.txt|.|2
+german business confidence|.|bbc66.txt|.|2
+brother|.|bbc689.txt|.|2
+said that the ifo|.|bbc66.txt|.|1
+conference|.|bbc1232.txt|.|3
+takeover|.|bbc485.txt|.|1
+virus|.|bbc1832.txt|.|9
+ministers|.|bbc210.txt|.|3
+posted|.|bbc193.txt|.|2
+fell|.|bbc66.txt|.|2
+gold|.|bbc210.txt|.|13
+poorest|.|bbc210.txt|.|2
+promote|.|bbc981.txt|.|1
+secretary|.|bbc1038.txt|.|2
+attack|.|bbc1212.txt|.|4
+liam|.|bbc522.txt|.|2
+poses|.|bbc1832.txt|.|2
+compared|.|bbc689.txt|.|2
+set|.|bbc2023.txt|.|2|.|bbc981.txt|.|5
+business|.|bbc66.txt|.|3
+star|.|bbc522.txt|.|2
+beating|.|bbc711.txt|.|3
+accused|.|bbc1350.txt|.|1
+ballymena|.|bbc522.txt|.|1
+union|.|bbc1038.txt|.|2
+beliefs|.|bbc1212.txt|.|2
+takeaway|.|bbc711.txt|.|3
+people|.|bbc2023.txt|.|8
+holding firm|.|bbc485.txt|.|1
+agassi|.|bbc1781.txt|.|2
+cement|.|bbc485.txt|.|8
+open|.|bbc1781.txt|.|2
+celebrity|.|bbc689.txt|.|2
+lib|.|bbc981.txt|.|2
+choice award|.|bbc711.txt|.|2
+says prof|.|bbc2023.txt|.|2
+evil twin|.|bbc1897.txt|.|3
+scotland|.|bbc1648.txt|.|3
+spring|.|bbc1232.txt|.|2
+reddy|.|bbc2023.txt|.|10
+eu referendum question|.|bbc1038.txt|.|2
+ham|.|bbc1442.txt|.|3
+uk|.|bbc981.txt|.|2
+useless|.|bbc981.txt|.|3
+club|.|bbc193.txt|.|7
+record loss|.|bbc193.txt|.|1
+films|.|bbc522.txt|.|1
+neeson said|.|bbc522.txt|.|2
+minister|.|bbc1212.txt|.|2
+last|.|bbc689.txt|.|5
+eu referendum|.|bbc1038.txt|.|2
+swiss cement firm|.|bbc485.txt|.|2
+european|.|bbc1038.txt|.|2
+air force|.|bbc161.txt|.|2
+cement firm|.|bbc485.txt|.|2
+jail|.|bbc161.txt|.|2
+boeing|.|bbc161.txt|.|12
+straw|.|bbc1038.txt|.|3
+ambuja cement|.|bbc485.txt|.|2
+eu|.|bbc1038.txt|.|8
+owed|.|bbc210.txt|.|2
+month|.|bbc161.txt|.|1
+roberts|.|bbc1442.txt|.|4
+ms druyun|.|bbc161.txt|.|6
+debt|.|bbc210.txt|.|4
+party|.|bbc1232.txt|.|6
+little|.|bbc711.txt|.|5
+referendum|.|bbc1038.txt|.|10
+next|.|bbc1781.txt|.|3
+olympic|.|bbc1350.txt|.|2
+jewish|.|bbc1212.txt|.|12
+six nations|.|bbc1648.txt|.|3
+venus|.|bbc1752.txt|.|2
+rate|.|bbc66.txt|.|2
+special award|.|bbc711.txt|.|2
+foreign secretary|.|bbc1038.txt|.|2
+tory leader|.|bbc1212.txt|.|2
+johnson accuses|.|bbc1350.txt|.|1
+desperate housewives|.|bbc689.txt|.|2
+vote|.|bbc1232.txt|.|1
+cardiff|.|bbc1442.txt|.|5
+put forward|.|bbc210.txt|.|2
+walliams|.|bbc711.txt|.|5
+twin|.|bbc1897.txt|.|3
+labour party|.|bbc1232.txt|.|2
+six|.|bbc1648.txt|.|3
+little britain has triumphed|.|bbc711.txt|.|1
+subject line|.|bbc1832.txt|.|2
+victory|.|bbc1781.txt|.|2
+start|.|bbc1781.txt|.|3
+druyun|.|bbc161.txt|.|7
+indians|.|bbc2023.txt|.|3
+football|.|bbc193.txt|.|2
+new york|.|bbc522.txt|.|1
+reddy thinks|.|bbc2023.txt|.|2
+michael|.|bbc1212.txt|.|3
+special|.|bbc711.txt|.|3
+ifo|.|bbc66.txt|.|5
+farina elia|.|bbc1752.txt|.|3
+finance ministers|.|bbc210.txt|.|2
+little britain|.|bbc711.txt|.|5
+european union|.|bbc1038.txt|.|2
+finance|.|bbc210.txt|.|2
+farina|.|bbc1752.txt|.|3
+prime minister|.|bbc1212.txt|.|2
+play|.|bbc1781.txt|.|3
+leader|.|bbc1212.txt|.|2
+big|.|bbc689.txt|.|2
+mr lane|.|bbc1232.txt|.|2
+football club|.|bbc193.txt|.|2
+channel|.|bbc689.txt|.|2
+triumphed|.|bbc711.txt|.|1
+west brom|.|bbc1442.txt|.|2
+nations|.|bbc1648.txt|.|3
+last year|.|bbc689.txt|.|2
+put|.|bbc210.txt|.|2
+loss|.|bbc193.txt|.|2
+price|.|bbc210.txt|.|4
+williams|.|bbc1752.txt|.|2|.|bbc1442.txt|.|2
+british sprinters|.|bbc1350.txt|.|3
+mr blair|.|bbc1212.txt|.|7
+cash|.|bbc981.txt|.|2
+sentence|.|bbc161.txt|.|2
+mr howard|.|bbc1212.txt|.|2
+comedy category|.|bbc711.txt|.|2
+matt|.|bbc711.txt|.|3
+night takeaway|.|bbc711.txt|.|3
+swiss|.|bbc485.txt|.|2
+posted record|.|bbc193.txt|.|1
+david walliams|.|bbc711.txt|.|2
+lift|.|bbc689.txt|.|2
+force|.|bbc161.txt|.|2
+aid|.|bbc2023.txt|.|2
+card|.|bbc1832.txt|.|2
+ambuja|.|bbc485.txt|.|2
+britain|.|bbc711.txt|.|6
+hotspot|.|bbc1897.txt|.|2
+martinez|.|bbc1752.txt|.|2
+air|.|bbc161.txt|.|2
+quangos|.|bbc981.txt|.|9
+jewish beliefs|.|bbc1212.txt|.|2
+bortolami|.|bbc1648.txt|.|4
+body is set|.|bbc981.txt|.|1
+labour|.|bbc1232.txt|.|9
+foreign|.|bbc1038.txt|.|2
+defeat|.|bbc1752.txt|.|2
+next play|.|bbc1781.txt|.|1
+computer|.|bbc2023.txt|.|5
+world|.|bbc2023.txt|.|4
+top|.|bbc1350.txt|.|3
+prof reddy|.|bbc2023.txt|.|7
+blair|.|bbc1212.txt|.|9
+electronic|.|bbc1832.txt|.|2
+referendum question|.|bbc1038.txt|.|3
+share|.|bbc485.txt|.|2|.|bbc689.txt|.|4
+borussia dortmund|.|bbc193.txt|.|6
+italy|.|bbc1648.txt|.|3
+side|.|bbc1648.txt|.|1
+gold reserves|.|bbc210.txt|.|3
+question|.|bbc1038.txt|.|5
+forward|.|bbc210.txt|.|3
+television|.|bbc2023.txt|.|6
+sell|.|bbc210.txt|.|2
+jack straw|.|bbc1038.txt|.|2
+prof|.|bbc2023.txt|.|9
+core labour|.|bbc1232.txt|.|1
+january|.|bbc689.txt|.|4
+choice|.|bbc711.txt|.|2
+chronicle|.|bbc1212.txt|.|2
+liam neeson|.|bbc522.txt|.|2
+housewives|.|bbc689.txt|.|3
+lucas|.|bbc711.txt|.|4
+subject|.|bbc1832.txt|.|2
+spring conference|.|bbc1232.txt|.|2
+british|.|bbc1350.txt|.|5
+celebrity big|.|bbc689.txt|.|2
+body|.|bbc981.txt|.|2
+wireless net|.|bbc1897.txt|.|2
+west ham|.|bbc1442.txt|.|3
+henman|.|bbc1781.txt|.|6
+business confidence|.|bbc66.txt|.|2
+west|.|bbc1442.txt|.|6
+net|.|bbc1897.txt|.|4
+group|.|bbc1232.txt|.|3
+new|.|bbc522.txt|.|2
+contest|.|bbc1648.txt|.|3
+holcim|.|bbc485.txt|.|7
+mr|.|bbc1212.txt|.|13|.|bbc522.txt|.|2|.|bbc1232.txt|.|11
+ms|.|bbc161.txt|.|8
+comedy|.|bbc711.txt|.|14
+wales|.|bbc1442.txt|.|4
+real|.|bbc1897.txt|.|2
+christmas|.|bbc1832.txt|.|5
+tony|.|bbc1232.txt|.|3
+core|.|bbc1232.txt|.|2
+efforts|.|bbc981.txt|.|1
+personally|.|bbc1832.txt|.|1
+evil|.|bbc1897.txt|.|4
+mr neeson|.|bbc522.txt|.|2
+game|.|bbc1648.txt|.|3
+attack michael|.|bbc1212.txt|.|2
+constitution|.|bbc1038.txt|.|9
+line|.|bbc1832.txt|.|2
+howard|.|bbc1212.txt|.|5
+dems|.|bbc981.txt|.|1
+contracts|.|bbc161.txt|.|6
+poor people|.|bbc2023.txt|.|3
+elia|.|bbc1752.txt|.|3
+holding|.|bbc485.txt|.|2
+award|.|bbc711.txt|.|8
+relief|.|bbc210.txt|.|4
+lift channel|.|bbc689.txt|.|2
+david|.|bbc711.txt|.|2
+said|.|bbc522.txt|.|8|.|bbc193.txt|.|5|.|bbc66.txt|.|5
+christmas card|.|bbc1832.txt|.|2
+win|.|bbc1648.txt|.|3|.|bbc1781.txt|.|2
+says|.|bbc2023.txt|.|10
+lane|.|bbc1232.txt|.|3
+confidence|.|bbc66.txt|.|4
+february|.|bbc66.txt|.|2
+match|.|bbc1781.txt|.|5
+howard politically|.|bbc1212.txt|.|2
+lewis|.|bbc981.txt|.|4
+eu constitution|.|bbc1038.txt|.|2
+jack|.|bbc1038.txt|.|2
+labour group|.|bbc1232.txt|.|2
+debts|.|bbc210.txt|.|2
+matt lucas|.|bbc711.txt|.|2
+kuznetsova|.|bbc1752.txt|.|2
+jewish chronicle|.|bbc1212.txt|.|2
+round|.|bbc1752.txt|.|1
+real hotspot|.|bbc1897.txt|.|1
+big brother|.|bbc689.txt|.|2
+york|.|bbc522.txt|.|1
+treaty|.|bbc1038.txt|.|3
+wireless|.|bbc1897.txt|.|9
+category|.|bbc711.txt|.|2
+borussia|.|bbc193.txt|.|7

@@ -1,0 +1,243 @@
+elton john|.|bbc672.txt|.|2
+favourites|.|bbc1534.txt|.|2
+year|.|bbc1328.txt|.|1
+parliament|.|bbc1220.txt|.|2
+ban|.|bbc437.txt|.|2
+bank|.|bbc423.txt|.|5
+record|.|bbc260.txt|.|3
+downing|.|bbc1220.txt|.|4
+poverty|.|bbc159.txt|.|4
+goals|.|bbc1534.txt|.|2
+agrees|.|bbc1328.txt|.|1
+quango review|.|bbc935.txt|.|1
+spending on primary|.|bbc159.txt|.|2
+impact|.|bbc260.txt|.|2
+hong kong|.|bbc260.txt|.|2
+economy|.|bbc190.txt|.|2|.|bbc423.txt|.|2
+downing street|.|bbc1220.txt|.|4
+kong|.|bbc260.txt|.|2
+michael howard|.|bbc1270.txt|.|2
+cellery worm|.|bbc2096.txt|.|2
+tory|.|bbc1270.txt|.|3
+kennedy|.|bbc1313.txt|.|7
+attorney|.|bbc1220.txt|.|5
+lib dems|.|bbc1313.txt|.|2
+supplying|.|bbc1328.txt|.|1
+boost|.|bbc159.txt|.|2
+tax cuts|.|bbc1270.txt|.|2
+win over aston villa|.|bbc1488.txt|.|1
+leslie|.|bbc1169.txt|.|3
+jimi hendrix|.|bbc780.txt|.|2
+networks|.|bbc2096.txt|.|4
+virus|.|bbc2096.txt|.|3
+characters|.|bbc1949.txt|.|2
+courts minister|.|bbc1169.txt|.|2
+democrat|.|bbc1220.txt|.|1
+security software|.|bbc2140.txt|.|2
+assembly|.|bbc935.txt|.|8
+wednesday|.|bbc260.txt|.|3
+arts|.|bbc935.txt|.|10
+agreed|.|bbc1328.txt|.|2
+cuts|.|bbc1270.txt|.|2
+madonna|.|bbc672.txt|.|3
+knights|.|bbc1949.txt|.|1
+star|.|bbc1949.txt|.|5
+democrats|.|bbc1313.txt|.|2
+people|.|bbc2140.txt|.|5|.|bbc260.txt|.|2
+aston|.|bbc1488.txt|.|2
+agrees new|.|bbc1328.txt|.|1
+rangers|.|bbc1534.txt|.|4
+ericsson|.|bbc118.txt|.|5
+fourth|.|bbc190.txt|.|3|.|bbc118.txt|.|2
+fender stratocaster|.|bbc780.txt|.|2
+quarter|.|bbc190.txt|.|3|.|bbc118.txt|.|3
+liberal|.|bbc1313.txt|.|2|.|bbc1220.txt|.|2
+compete|.|bbc1270.txt|.|2
+country|.|bbc1270.txt|.|2
+london|.|bbc780.txt|.|1
+everton|.|bbc1488.txt|.|2
+lib|.|bbc1313.txt|.|4
+fischer|.|bbc423.txt|.|5
+driven by consumer spending|.|bbc190.txt|.|2
+promise|.|bbc1270.txt|.|1
+quango|.|bbc935.txt|.|1
+keaveney|.|bbc708.txt|.|3
+anna|.|bbc708.txt|.|2
+elton|.|bbc672.txt|.|2
+full legal|.|bbc1220.txt|.|2
+welsh|.|bbc935.txt|.|8
+domestic|.|bbc190.txt|.|2
+net security|.|bbc2140.txt|.|5
+lennon|.|bbc1534.txt|.|3
+uk|.|bbc1328.txt|.|4
+lord chancellor|.|bbc1169.txt|.|6
+legal|.|bbc1169.txt|.|2|.|bbc1220.txt|.|7
+tobacco|.|bbc437.txt|.|12
+budget|.|bbc159.txt|.|8
+protect pcs|.|bbc2140.txt|.|1
+ms james|.|bbc935.txt|.|5
+last|.|bbc1534.txt|.|2
+minister|.|bbc1169.txt|.|5|.|bbc423.txt|.|2
+record highs|.|bbc260.txt|.|1
+stock market|.|bbc260.txt|.|1
+list|.|bbc672.txt|.|3
+government control|.|bbc935.txt|.|3
+users|.|bbc2096.txt|.|5
+china daily|.|bbc437.txt|.|4
+chancellor|.|bbc1169.txt|.|6
+spending|.|bbc190.txt|.|4|.|bbc159.txt|.|8
+celtic|.|bbc1534.txt|.|1
+attorney general|.|bbc1220.txt|.|4
+exchange|.|bbc260.txt|.|2
+wars|.|bbc1949.txt|.|5
+arts funding|.|bbc935.txt|.|2
+party|.|bbc1313.txt|.|9
+gameplay|.|bbc1949.txt|.|2
+full|.|bbc1220.txt|.|2
+new tobacco factories|.|bbc437.txt|.|3
+book|.|bbc1220.txt|.|3
+lord|.|bbc1169.txt|.|10|.|bbc1220.txt|.|12
+germany|.|bbc935.txt|.|5
+welsh arts|.|bbc935.txt|.|2
+auction|.|bbc780.txt|.|2
+hendrix|.|bbc780.txt|.|6
+street|.|bbc1220.txt|.|4
+assembly government|.|bbc935.txt|.|6
+vote|.|bbc1313.txt|.|4
+prince|.|bbc672.txt|.|4
+pcs|.|bbc2140.txt|.|3
+sold|.|bbc780.txt|.|3
+winning|.|bbc1534.txt|.|2
+person for the job|.|bbc1169.txt|.|2
+campaigning|.|bbc1313.txt|.|1
+asia|.|bbc260.txt|.|2
+windows|.|bbc2096.txt|.|3
+uk athletics|.|bbc1328.txt|.|4
+sands|.|bbc1220.txt|.|4
+home|.|bbc2140.txt|.|4
+guitar|.|bbc780.txt|.|3
+michael|.|bbc1270.txt|.|2
+win over aston|.|bbc1488.txt|.|1
+china|.|bbc437.txt|.|12
+israel|.|bbc423.txt|.|5
+letwin said|.|bbc1270.txt|.|3
+kronor|.|bbc118.txt|.|8
+foreign cigarette|.|bbc437.txt|.|2
+risk|.|bbc2096.txt|.|1
+magazine|.|bbc672.txt|.|2
+highs|.|bbc260.txt|.|1
+athletics|.|bbc1328.txt|.|5
+consumer spending|.|bbc190.txt|.|4
+play|.|bbc1534.txt|.|1
+software|.|bbc2140.txt|.|2
+american|.|bbc437.txt|.|2
+courts|.|bbc1169.txt|.|2
+appeared|.|bbc708.txt|.|2
+beattie|.|bbc1488.txt|.|4
+four|.|bbc1328.txt|.|1
+review|.|bbc935.txt|.|2
+star wars|.|bbc1949.txt|.|5
+french|.|bbc190.txt|.|2
+protecting|.|bbc2140.txt|.|2
+worm|.|bbc2096.txt|.|7
+mr fischer|.|bbc423.txt|.|4
+iraq|.|bbc1220.txt|.|4
+jimi|.|bbc780.txt|.|2
+country compete|.|bbc1270.txt|.|1
+martin clunes in doc|.|bbc708.txt|.|1
+driven by consumer|.|bbc190.txt|.|2
+hong|.|bbc260.txt|.|2
+jedi|.|bbc1949.txt|.|1
+driven|.|bbc190.txt|.|2
+doc|.|bbc708.txt|.|1
+john|.|bbc672.txt|.|2
+older people|.|bbc2140.txt|.|2
+force|.|bbc1949.txt|.|1
+primary|.|bbc159.txt|.|2
+assault|.|bbc1488.txt|.|2
+infection|.|bbc2096.txt|.|2
+singer|.|bbc672.txt|.|1
+tobacco factories|.|bbc437.txt|.|4
+economic growth|.|bbc190.txt|.|4
+james|.|bbc935.txt|.|6
+mr leslie|.|bbc1169.txt|.|2
+cellery|.|bbc2096.txt|.|5
+bank of israel|.|bbc423.txt|.|2
+foreign|.|bbc437.txt|.|2
+rock|.|bbc780.txt|.|2
+government|.|bbc159.txt|.|2|.|bbc935.txt|.|11
+top|.|bbc1534.txt|.|2
+spyware|.|bbc2140.txt|.|3
+older|.|bbc2140.txt|.|3
+protect|.|bbc2140.txt|.|1
+american tobacco|.|bbc437.txt|.|2
+infected|.|bbc2096.txt|.|3
+cigarette|.|bbc437.txt|.|3
+funding|.|bbc935.txt|.|2
+health|.|bbc159.txt|.|3
+earnings|.|bbc118.txt|.|2
+british american|.|bbc437.txt|.|2
+risk of infection|.|bbc2096.txt|.|1
+economic|.|bbc190.txt|.|4
+gimme|.|bbc708.txt|.|3
+svanberg|.|bbc118.txt|.|2
+kennedy said|.|bbc1313.txt|.|2
+sharon|.|bbc423.txt|.|2
+mr chidambaram|.|bbc159.txt|.|7
+british|.|bbc437.txt|.|2
+chidambaram|.|bbc159.txt|.|8
+pugh|.|bbc935.txt|.|2
+venice|.|bbc708.txt|.|1
+legal advice|.|bbc1220.txt|.|4
+gimme gimme|.|bbc708.txt|.|2
+net|.|bbc2140.txt|.|13
+stock|.|bbc260.txt|.|4
+new|.|bbc437.txt|.|3|.|bbc1328.txt|.|2|.|bbc1220.txt|.|3
+actress|.|bbc708.txt|.|3
+months|.|bbc118.txt|.|2
+mp|.|bbc1169.txt|.|2
+mr|.|bbc1313.txt|.|6|.|bbc1169.txt|.|3|.|bbc159.txt|.|7|.|bbc1270.txt|.|3|.|bbc423.txt|.|5
+ms|.|bbc935.txt|.|5
+tax|.|bbc1270.txt|.|4
+film|.|bbc708.txt|.|3
+uk athletics has agreed|.|bbc1328.txt|.|1
+tetris|.|bbc2096.txt|.|4
+market|.|bbc260.txt|.|1
+athletics also agreed|.|bbc1328.txt|.|1
+person|.|bbc1169.txt|.|3
+daily|.|bbc437.txt|.|4
+job|.|bbc1169.txt|.|4
+athletics agrees new|.|bbc1328.txt|.|1
+stock exchange|.|bbc260.txt|.|2
+who|.|bbc708.txt|.|2
+game|.|bbc1949.txt|.|5|.|bbc1534.txt|.|2
+advice|.|bbc1220.txt|.|10
+howard|.|bbc1270.txt|.|3
+dems|.|bbc1313.txt|.|2
+battlefront|.|bbc1949.txt|.|5
+factories|.|bbc437.txt|.|5
+died|.|bbc708.txt|.|3
+aston villa|.|bbc1488.txt|.|2
+pugh said|.|bbc935.txt|.|2
+general|.|bbc1220.txt|.|4
+security|.|bbc2140.txt|.|10
+new tobacco|.|bbc437.txt|.|3
+said|.|bbc1313.txt|.|12|.|bbc1270.txt|.|9|.|bbc935.txt|.|7
+profit|.|bbc118.txt|.|3
+brookside|.|bbc708.txt|.|2
+win|.|bbc1488.txt|.|2
+consumer|.|bbc190.txt|.|4
+stratocaster|.|bbc780.txt|.|2
+mr kennedy|.|bbc1313.txt|.|6
+fourth quarter|.|bbc190.txt|.|3|.|bbc118.txt|.|2
+album|.|bbc672.txt|.|4
+clunes|.|bbc708.txt|.|1
+control|.|bbc935.txt|.|4
+liberal democrat|.|bbc1220.txt|.|1
+letwin|.|bbc1270.txt|.|3
+liberal democrats|.|bbc1313.txt|.|2
+new book|.|bbc1220.txt|.|2
+fender|.|bbc780.txt|.|2
+martin|.|bbc708.txt|.|2
+growth|.|bbc190.txt|.|8
+villa|.|bbc1488.txt|.|2

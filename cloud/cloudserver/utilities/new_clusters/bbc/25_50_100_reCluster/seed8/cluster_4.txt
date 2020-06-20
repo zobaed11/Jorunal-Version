@@ -1,0 +1,50 @@
+4
+newcomer|.|bbc666.txt|.|2
+animation awards|.|bbc842.txt|.|2
+academy awards|.|bbc569.txt|.|4|.|bbc549.txt|.|2
+ya|.|bbc663.txt|.|2
+usher won|.|bbc663.txt|.|1
+screenplay|.|bbc880.txt|.|3|.|bbc572.txt|.|3
+named best animated|.|bbc842.txt|.|2
+alan bennett|.|bbc785.txt|.|2
+annies|.|bbc842.txt|.|2
+usher|.|bbc666.txt|.|3|.|bbc663.txt|.|3
+starred|.|bbc602.txt|.|1
+europe awards|.|bbc663.txt|.|2
+won|.|bbc842.txt|.|3|.|bbc602.txt|.|2|.|bbc517.txt|.|5|.|bbc342.txt|.|3|.|bbc575.txt|.|2|.|bbc785.txt|.|5|.|bbc1779.txt|.|2|.|bbc663.txt|.|5|.|bbc1768.txt|.|2|.|bbc1382.txt|.|3
+exclusive|.|bbc569.txt|.|2
+train|.|bbc666.txt|.|5
+usher is leading|.|bbc666.txt|.|1
+director|.|bbc880.txt|.|1|.|bbc893.txt|.|2|.|bbc582.txt|.|2|.|bbc572.txt|.|1
+exclusive broadcasting|.|bbc569.txt|.|2
+olivier awards|.|bbc785.txt|.|2
+hey ya|.|bbc663.txt|.|2
+prizes|.|bbc842.txt|.|2
+shooter|.|bbc1995.txt|.|2
+sideways|.|bbc601.txt|.|2|.|bbc880.txt|.|3|.|bbc572.txt|.|3
+rock band|.|bbc663.txt|.|2|.|bbc746.txt|.|1
+history boys|.|bbc785.txt|.|5
+broadcasting rights|.|bbc569.txt|.|2
+dominates|.|bbc880.txt|.|1
+golden globes|.|bbc602.txt|.|2
+soul|.|bbc666.txt|.|5
+incredibles|.|bbc842.txt|.|5
+ultimate game|.|bbc1995.txt|.|2
+train awards|.|bbc666.txt|.|2
+sideways dominates|.|bbc880.txt|.|1
+globes|.|bbc602.txt|.|2
+olivier|.|bbc785.txt|.|4
+mantle|.|bbc569.txt|.|2
+sky said|.|bbc569.txt|.|1
+academy|.|bbc569.txt|.|4|.|bbc549.txt|.|3
+games awards|.|bbc1995.txt|.|1
+spirit|.|bbc880.txt|.|2|.|bbc1535.txt|.|2|.|bbc572.txt|.|2
+alternative|.|bbc663.txt|.|2
+mtv europe|.|bbc663.txt|.|3
+mtv europe awards|.|bbc663.txt|.|2
+nominations|.|bbc602.txt|.|4|.|bbc666.txt|.|6
+alternative act|.|bbc663.txt|.|2
+awards|.|bbc842.txt|.|5|.|bbc602.txt|.|4|.|bbc880.txt|.|6|.|bbc785.txt|.|6|.|bbc569.txt|.|4|.|bbc1995.txt|.|4|.|bbc666.txt|.|6|.|bbc549.txt|.|3|.|bbc663.txt|.|7|.|bbc746.txt|.|2|.|bbc572.txt|.|6
+new musical|.|bbc785.txt|.|2
+soul train|.|bbc666.txt|.|5
+spirit awards|.|bbc880.txt|.|2|.|bbc572.txt|.|2

@@ -1,0 +1,76 @@
+24
+carlos|.|bbc1779.txt|.|2|.|bbc1785.txt|.|3|.|bbc1736.txt|.|2
+sacked by valencia|.|bbc1474.txt|.|1
+rubbers|.|bbc1779.txt|.|1
+lehmann|.|bbc1507.txt|.|4
+klinsmann|.|bbc1507.txt|.|4
+courts|.|bbc1444.txt|.|2
+leaders|.|bbc487.txt|.|7|.|bbc1518.txt|.|2
+regularly|.|bbc1507.txt|.|2|.|bbc2216.txt|.|2
+sacked|.|bbc1295.txt|.|2|.|bbc1474.txt|.|2
+beat|.|bbc1779.txt|.|3
+moya|.|bbc1779.txt|.|9
+injury|.|bbc1368.txt|.|2|.|bbc1573.txt|.|3|.|bbc1770.txt|.|3|.|bbc1427.txt|.|4|.|bbc1484.txt|.|2|.|bbc1321.txt|.|2|.|bbc1780.txt|.|2|.|bbc1658.txt|.|3|.|bbc1666.txt|.|2|.|bbc1724.txt|.|3|.|bbc1809.txt|.|5|.|bbc1791.txt|.|2
+blow|.|bbc1484.txt|.|2
+davis cup|.|bbc1779.txt|.|4|.|bbc1785.txt|.|2
+irish cup|.|bbc1444.txt|.|2
+took|.|bbc1818.txt|.|2|.|bbc1474.txt|.|2
+england|.|bbc1135.txt|.|2|.|bbc1658.txt|.|4|.|bbc57.txt|.|2|.|bbc1646.txt|.|4|.|bbc85.txt|.|2|.|bbc1751.txt|.|2|.|bbc1649.txt|.|5
+ranieri sacked|.|bbc1474.txt|.|1
+doubt|.|bbc1809.txt|.|2
+singles rubbers|.|bbc1779.txt|.|1
+davis|.|bbc553.txt|.|7|.|bbc1779.txt|.|4|.|bbc1785.txt|.|2
+fa cup|.|bbc1518.txt|.|2
+tommy robredo|.|bbc1779.txt|.|2
+keep|.|bbc1507.txt|.|2
+philippoussis|.|bbc1770.txt|.|2|.|bbc1809.txt|.|2
+ranieri|.|bbc1474.txt|.|4
+hopman|.|bbc1809.txt|.|3
+registration|.|bbc1444.txt|.|3
+fa|.|bbc1518.txt|.|2
+coach|.|bbc1474.txt|.|3|.|bbc1658.txt|.|2|.|bbc1691.txt|.|2|.|bbc1571.txt|.|2
+hopman cup|.|bbc1809.txt|.|3
+cup|.|bbc1444.txt|.|4|.|bbc1484.txt|.|2|.|bbc1779.txt|.|5|.|bbc1785.txt|.|3|.|bbc1474.txt|.|3|.|bbc1507.txt|.|2|.|bbc1658.txt|.|1|.|bbc1809.txt|.|3|.|bbc1518.txt|.|4|.|bbc1580.txt|.|2
+arsenal|.|bbc1524.txt|.|2|.|bbc1559.txt|.|11|.|bbc1507.txt|.|2|.|bbc1501.txt|.|2|.|bbc1568.txt|.|2|.|bbc1476.txt|.|12
+robertson|.|bbc1580.txt|.|4
+germany|.|bbc1188.txt|.|4|.|bbc1507.txt|.|2|.|bbc935.txt|.|5
+robredo|.|bbc1779.txt|.|2
+premiership|.|bbc1485.txt|.|2|.|bbc1473.txt|.|5|.|bbc1518.txt|.|3|.|bbc1489.txt|.|3
+gmt|.|bbc1484.txt|.|1
+encourage|.|bbc1580.txt|.|1
+hearts|.|bbc1580.txt|.|2
+newcastle|.|bbc1573.txt|.|4|.|bbc1592.txt|.|2|.|bbc1585.txt|.|2|.|bbc1451.txt|.|4|.|bbc1518.txt|.|3
+wednesday|.|bbc1444.txt|.|2
+newry|.|bbc1444.txt|.|7
+uefa cup|.|bbc1484.txt|.|2|.|bbc1474.txt|.|2
+league one leaders|.|bbc1518.txt|.|1
+yeading|.|bbc1518.txt|.|4
+charge|.|bbc1474.txt|.|2
+ranieri took|.|bbc1474.txt|.|1
+original|.|bbc1444.txt|.|2
+valencia|.|bbc1474.txt|.|4
+manager|.|bbc1521.txt|.|2|.|bbc1432.txt|.|5|.|bbc1580.txt|.|1
+world cup|.|bbc1507.txt|.|2|.|bbc1658.txt|.|1
+ifa|.|bbc1444.txt|.|2
+tommy|.|bbc1521.txt|.|2|.|bbc1779.txt|.|2
+match|.|bbc1715.txt|.|6|.|bbc1458.txt|.|2|.|bbc1453.txt|.|3|.|bbc1747.txt|.|2|.|bbc1652.txt|.|3|.|bbc1748.txt|.|3|.|bbc1785.txt|.|3|.|bbc1449.txt|.|2|.|bbc1611.txt|.|3
+hernia|.|bbc1484.txt|.|2
+help|.|bbc776.txt|.|2|.|bbc1931.txt|.|2|.|bbc641.txt|.|5|.|bbc1580.txt|.|2
+jens|.|bbc1507.txt|.|3
+clinching|.|bbc1779.txt|.|1
+face|.|bbc245.txt|.|2|.|bbc1571.txt|.|1|.|bbc704.txt|.|2|.|bbc1518.txt|.|4
+meeting on wednesday|.|bbc1444.txt|.|1
+singles|.|bbc1779.txt|.|2
+january|.|bbc156.txt|.|1|.|bbc726.txt|.|4|.|bbc689.txt|.|4|.|bbc1518.txt|.|2
+playing regularly|.|bbc1507.txt|.|2
+crawford registration|.|bbc1444.txt|.|2
+time|.|bbc1625.txt|.|1|.|bbc1484.txt|.|1|.|bbc2042.txt|.|4|.|bbc1.txt|.|3|.|bbc1729.txt|.|1
+crawford|.|bbc1444.txt|.|2
+uefa|.|bbc1458.txt|.|2|.|bbc1484.txt|.|2|.|bbc1535.txt|.|2|.|bbc1474.txt|.|2
+spain
+lawyers
+fought
+judge
+case against mr
+case against mr ebbers
+indonesia

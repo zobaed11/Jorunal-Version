@@ -1,0 +1,35 @@
+5
+newcomer|.|bbc763.txt|.|3|.|bbc666.txt|.|2
+animation awards|.|bbc842.txt|.|2
+broadcasting rights|.|bbc569.txt|.|2
+dominates|.|bbc880.txt|.|1
+golden globes|.|bbc602.txt|.|2
+scissor|.|bbc763.txt|.|5
+train awards|.|bbc666.txt|.|2
+screenplay|.|bbc880.txt|.|3|.|bbc572.txt|.|3
+named best animated|.|bbc842.txt|.|2
+sideways dominates|.|bbc880.txt|.|1
+globes|.|bbc602.txt|.|2
+alan bennett|.|bbc785.txt|.|2
+presentation|.|bbc649.txt|.|1
+annies|.|bbc842.txt|.|2
+usher|.|bbc666.txt|.|3
+newcomer awards|.|bbc763.txt|.|2
+exclusive|.|bbc569.txt|.|2
+mantle|.|bbc569.txt|.|2
+sky said|.|bbc569.txt|.|1
+usher is leading|.|bbc666.txt|.|1
+audience|.|bbc763.txt|.|3
+grammy awards|.|bbc649.txt|.|2
+sisters|.|bbc763.txt|.|5
+exclusive broadcasting|.|bbc569.txt|.|2
+olivier awards|.|bbc785.txt|.|2
+scissor sisters|.|bbc763.txt|.|5
+globe|.|bbc602.txt|.|2
+dominated|.|bbc649.txt|.|2|.|bbc880.txt|.|1
+awards|.|bbc842.txt|.|5|.|bbc602.txt|.|4|.|bbc592.txt|.|3|.|bbc880.txt|.|6|.|bbc572.txt|.|6|.|bbc649.txt|.|5|.|bbc763.txt|.|13|.|bbc785.txt|.|6|.|bbc569.txt|.|4|.|bbc1912.txt|.|2|.|bbc666.txt|.|6|.|bbc549.txt|.|3|.|bbc746.txt|.|2
+awards presentation|.|bbc649.txt|.|1
+new musical|.|bbc785.txt|.|2
+sideways|.|bbc880.txt|.|3|.|bbc572.txt|.|3
+rock band|.|bbc746.txt|.|1
+spirit awards|.|bbc880.txt|.|2|.|bbc572.txt|.|2

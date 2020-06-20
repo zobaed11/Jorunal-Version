@@ -1,0 +1,21 @@
+0
+magic|.|bbc1615.txt|.|1
+stringer|.|bbc1615.txt|.|3
+injury time|.|bbc1693.txt|.|1
+dublin|.|bbc1636.txt|.|4
+goal|.|bbc1693.txt|.|3|.|bbc1464.txt|.|2
+italians|.|bbc1614.txt|.|1
+keeping|.|bbc1667.txt|.|1
+dropped goal|.|bbc1693.txt|.|2
+orquera|.|bbc1615.txt|.|3
+ireland captain|.|bbc1615.txt|.|2
+kicked|.|bbc1693.txt|.|2
+dry|.|bbc1667.txt|.|2
+hickie|.|bbc1615.txt|.|2
+ball|.|bbc1614.txt|.|2
+murphy|.|bbc1615.txt|.|5
+championship|.|bbc1667.txt|.|2|.|bbc1636.txt|.|2
+france|.|bbc1636.txt|.|2
+nitoglia|.|bbc1615.txt|.|3
+tough game|.|bbc1614.txt|.|2
+ireland|.|bbc1693.txt|.|10|.|bbc1613.txt|.|2|.|bbc1667.txt|.|5|.|bbc1652.txt|.|3|.|bbc1614.txt|.|3|.|bbc1615.txt|.|9|.|bbc1731.txt|.|2|.|bbc1665.txt|.|5|.|bbc1636.txt|.|5|.|bbc1716.txt|.|5|.|bbc1343.txt|.|1

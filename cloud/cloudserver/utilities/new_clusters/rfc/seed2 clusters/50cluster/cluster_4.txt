@@ -1,0 +1,119 @@
+4
+idle command|.|rfc2177.txt|.|16
+user process|.|rfc607.txt|.|8|.|rfc151.txt|.|3
+memo|.|rfc2399.txt|.|84|.|rfc2199.txt|.|136|.|rfc5938.txt|.|15
+accessing|.|rfc535.txt|.|2
+file access protocol|.|rfc535.txt|.|5
+command verbs|.|rfc607.txt|.|3
+uid search|.|rfc5182.txt|.|7
+memo describes|.|rfc5938.txt|.|4
+active|.|rfc2309.txt|.|21|.|rfc5820.txt|.|55|.|rfc3817.txt|.|14|.|rfc5938.txt|.|8
+convert command|.|rfc5259.txt|.|13
+script|.|rfc5804.txt|.|120|.|rfc3165.txt|.|403
+message allocation|.|rfc467.txt|.|12
+comments on file|.|rfc535.txt|.|4
+connection is closed|.|rfc467.txt|.|3
+update contexts|.|rfc5267.txt|.|5
+chiba|.|rfc5938.txt|.|19
+extended sort|.|rfc5267.txt|.|12
+noop|.|rfc5804.txt|.|13
+found|.|rfc5182.txt|.|8
+individual session control|.|rfc5938.txt|.|23
+free|.|rfc491.txt|.|14|.|rfc350.txt|.|3|.|rfc487.txt|.|3
+last search result|.|rfc5182.txt|.|13
+rcs|.|rfc467.txt|.|15|.|rfc5728.txt|.|18
+deletescript|.|rfc5804.txt|.|10
+file access|.|rfc535.txt|.|8
+document specifies|.|rfc5987.txt|.|2|.|rfc2177.txt|.|2|.|rfc5634.txt|.|2
+describes|.|rfc4358.txt|.|1|.|rfc5938.txt|.|5
+removefrom return data|.|rfc5267.txt|.|6
+code is returned|.|rfc5804.txt|.|12
+ibm|.|rfc3431.txt|.|3|.|rfc2177.txt|.|2
+session control|.|rfc5938.txt|.|39
+closed|.|rfc467.txt|.|7
+sessions command|.|rfc5938.txt|.|2
+returned|.|rfc5804.txt|.|53
+found messages|.|rfc5182.txt|.|4
+return|.|rfc5267.txt|.|52
+active measurement|.|rfc5938.txt|.|8
+putscript|.|rfc5804.txt|.|14
+contexts|.|rfc5267.txt|.|22
+body|.|rfc5259.txt|.|46|.|rfc2110.txt|.|46|.|rfc3459.txt|.|69
+receiving ncp|.|rfc467.txt|.|6
+routes|.|rfc4384.txt|.|57|.|rfc3906.txt|.|23|.|rfc4874.txt|.|34
+router|.|rfc1970.txt|.|386|.|rfc5642.txt|.|48|.|rfc2309.txt|.|14|.|rfc6041.txt|.|5|.|rfc6059.txt|.|92|.|rfc2992.txt|.|9|.|rfc4887.txt|.|63|.|rfc5340.txt|.|477
+assets|.|rfc4452.txt|.|21
+solution|.|rfc161.txt|.|6|.|rfc607.txt|.|12|.|rfc1955.txt|.|15
+kalbfleisch informational|.|rfc2039.txt|.|14
+verbs|.|rfc607.txt|.|3
+reply|.|rfc607.txt|.|28|.|rfc4721.txt|.|47|.|rfc2187.txt|.|43
+mechanisms|.|rfc2084.txt|.|8|.|rfc3720.txt|.|23|.|rfc3469.txt|.|36|.|rfc4689.txt|.|44|.|rfc5355.txt|.|12
+commands|.|rfc506.txt|.|6|.|rfc151.txt|.|2
+japanese character encoding|.|rfc2237.txt|.|7
+notebook|.|rfc351.txt|.|2
+last|.|rfc5182.txt|.|15
+individual|.|rfc5938.txt|.|30
+last search|.|rfc5182.txt|.|13
+reply code|.|rfc607.txt|.|8
+checkscript|.|rfc5804.txt|.|9
+new mail|.|rfc2177.txt|.|4
+datagram|.|rfc3176.txt|.|28|.|rfc5944.txt|.|87|.|rfc2075.txt|.|35
+sort|.|rfc5267.txt|.|51|.|rfc5256.txt|.|83
+removefrom|.|rfc5267.txt|.|16
+test sessions|.|rfc5938.txt|.|15
+generic threats|.|rfc4593.txt|.|25
+crypto|.|rfc5422.txt|.|2
+broker client|.|rfc5793.txt|.|134
+weiler standards|.|rfc3755.txt|.|9
+burchfiel|.|rfc467.txt|.|7
+document point|.|rfc3930.txt|.|20
+name|.|rfc6195.txt|.|25|.|rfc2623.txt|.|28|.|rfc4703.txt|.|8|.|rfc3467.txt|.|61|.|rfc2280.txt|.|72|.|rfc3130.txt|.|10|.|rfc5448.txt|.|49|.|rfc5804.txt|.|70|.|rfc5452.txt|.|13|.|rfc3915.txt|.|46|.|rfc2242.txt|.|12|.|rfc4034.txt|.|104|.|rfc4367.txt|.|45|.|rfc2910.txt|.|73
+uris using|.|rfc2168.txt|.|19
+files|.|rfc5655.txt|.|171|.|rfc2306.txt|.|46
+replacement|.|rfc5259.txt|.|1
+parameters|.|rfc5259.txt|.|36|.|rfc2576.txt|.|63|.|rfc3108.txt|.|88|.|rfc6253.txt|.|15|.|rfc4566.txt|.|25|.|rfc5793.txt|.|80
+transcoding|.|rfc5259.txt|.|13|.|rfc4117.txt|.|53
+namespaces|.|rfc4452.txt|.|38
+time and include|.|rfc41.txt|.|1
+week|.|rfc405.txt|.|2
+link state|.|rfc4205.txt|.|8|.|rfc5820.txt|.|21|.|rfc5340.txt|.|164
+update|.|rfc5267.txt|.|31|.|rfc2080.txt|.|31|.|rfc5202.txt|.|89
+rohc|.|rfc4995.txt|.|196
+dormant mode|.|rfc3154.txt|.|36
+reqs june|.|rfc6293.txt|.|16
+kato standards|.|rfc3657.txt|.|14
+cas|.|rfc3064.txt|.|76
+floating|.|rfc401.txt|.|5
+individual session|.|rfc5938.txt|.|25
+said|.|rfc5904.txt|.|9
+conversion|.|rfc5259.txt|.|120|.|rfc401.txt|.|4
+cleaning|.|rfc107.txt|.|2
+vendor information|.|rfc3045.txt|.|6
+allocation|.|rfc4452.txt|.|12|.|rfc2775.txt|.|6|.|rfc467.txt|.|26|.|rfc2008.txt|.|30
+comments on file access|.|rfc535.txt|.|4
+idle|.|rfc2581.txt|.|11|.|rfc2177.txt|.|29
+wavelength assignment|.|rfc6163.txt|.|29
+sharing hosts|.|rfc15.txt|.|5
+fault|.|rfc4209.txt|.|18|.|rfc3469.txt|.|126|.|rfc4176.txt|.|12
+command|.|rfc5182.txt|.|50|.|rfc5804.txt|.|128|.|rfc5259.txt|.|38|.|rfc491.txt|.|5|.|rfc506.txt|.|2|.|rfc607.txt|.|18|.|rfc2177.txt|.|23|.|rfc535.txt|.|11|.|rfc5267.txt|.|43|.|rfc467.txt|.|23|.|rfc5938.txt|.|54
+fragment|.|rfc4623.txt|.|26|.|rfc4184.txt|.|9
+ntp server option|.|rfc5908.txt|.|13
+austein|.|rfc3364.txt|.|12
+delegation|.|rfc2317.txt|.|15|.|rfc3779.txt|.|34
+information service|.|rfc2307.txt|.|23
+account|.|rfc491.txt|.|7
+context july|.|rfc5267.txt|.|17
+search filters
+adaptation
+adaptation layer
+active queue management
+slow
+terminology march
+slow start
+attributes october
+syntax notation
+syntax notation x
+project january
+file storage
+process a query
+active attacker

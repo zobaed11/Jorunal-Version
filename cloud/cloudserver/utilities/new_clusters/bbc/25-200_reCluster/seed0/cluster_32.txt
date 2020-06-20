@@ -1,0 +1,51 @@
+32
+celebrity|.|bbc713.txt|.|4|.|bbc726.txt|.|2|.|bbc717.txt|.|2|.|bbc689.txt|.|2|.|bbc731.txt|.|3
+expert|.|bbc703.txt|.|1
+rebel|.|bbc688.txt|.|3
+celebrity big brother|.|bbc713.txt|.|1
+show the x factor|.|bbc684.txt|.|1
+view|.|bbc703.txt|.|3
+independence square|.|bbc723.txt|.|3
+flop|.|bbc688.txt|.|1
+reunited|.|bbc723.txt|.|3
+rebel billionaire|.|bbc688.txt|.|3
+x factor|.|bbc684.txt|.|3
+richard|.|bbc688.txt|.|2
+tech fair|.|bbc2171.txt|.|1
+meeting point|.|bbc723.txt|.|2
+unrealistic|.|bbc703.txt|.|2
+itv|.|bbc684.txt|.|1
+mtv|.|bbc716.txt|.|2
+phil|.|bbc717.txt|.|2|.|bbc1724.txt|.|3
+rankings|.|bbc1739.txt|.|1|.|bbc688.txt|.|1
+digital home|.|bbc2171.txt|.|3
+tufnell|.|bbc717.txt|.|2
+reality|.|bbc713.txt|.|3
+reality tv|.|bbc713.txt|.|2
+germaine greer|.|bbc713.txt|.|2
+branson|.|bbc688.txt|.|1
+joe|.|bbc717.txt|.|2
+theme at the show|.|bbc2171.txt|.|2
+second series|.|bbc684.txt|.|2
+jackie stallone|.|bbc713.txt|.|2
+angolan families|.|bbc723.txt|.|4
+recommissioned|.|bbc684.txt|.|1
+show|.|bbc703.txt|.|3|.|bbc723.txt|.|2|.|bbc713.txt|.|5|.|bbc684.txt|.|5|.|bbc717.txt|.|7|.|bbc688.txt|.|7|.|bbc716.txt|.|4|.|bbc2171.txt|.|12
+mtv show|.|bbc716.txt|.|1
+cebit|.|bbc2219.txt|.|5|.|bbc2171.txt|.|9
+greer said|.|bbc713.txt|.|2
+theme|.|bbc687.txt|.|3|.|bbc2171.txt|.|3
+jackie|.|bbc713.txt|.|2
+germaine|.|bbc713.txt|.|2
+factor|.|bbc684.txt|.|3
+ozzy|.|bbc716.txt|.|4
+billionaire|.|bbc688.txt|.|3
+sir richard|.|bbc688.txt|.|2
+peaked|.|bbc717.txt|.|1
+greer|.|bbc713.txt|.|6
+ozzy osbourne|.|bbc716.txt|.|2
+branson show|.|bbc688.txt|.|1
+angolan|.|bbc723.txt|.|4
+phil tufnell|.|bbc717.txt|.|2
+cowell|.|bbc684.txt|.|2
+tv show|.|bbc703.txt|.|2|.|bbc723.txt|.|2|.|bbc713.txt|.|2|.|bbc717.txt|.|2

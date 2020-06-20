@@ -1,0 +1,65 @@
+10
+tour new|.|bbc1715.txt|.|1
+matt williams|.|bbc1611.txt|.|3
+reach|.|bbc1821.txt|.|1|.|bbc359.txt|.|2
+juan|.|bbc1785.txt|.|2|.|bbc1736.txt|.|2
+reach the last|.|bbc1821.txt|.|1
+fighting|.|bbc1734.txt|.|2
+heineken|.|bbc1630.txt|.|2
+bryan twins|.|bbc1785.txt|.|2
+tie|.|bbc1630.txt|.|2
+twins|.|bbc1785.txt|.|2
+henman|.|bbc1747.txt|.|6|.|bbc1734.txt|.|10
+paseo|.|bbc1630.txt|.|2
+host|.|bbc1715.txt|.|2
+zealand|.|bbc1715.txt|.|4
+anoeta stadium|.|bbc1630.txt|.|2
+starace|.|bbc1821.txt|.|2
+ten|.|bbc1453.txt|.|2
+australian rugby|.|bbc1715.txt|.|2
+rain|.|bbc1747.txt|.|2
+assistants|.|bbc1453.txt|.|1
+hashemian|.|bbc1449.txt|.|2
+judo|.|bbc1449.txt|.|2
+game was handled|.|bbc1611.txt|.|1
+rijkaard|.|bbc1453.txt|.|4
+ljubicic|.|bbc1747.txt|.|2
+almagro|.|bbc1821.txt|.|2
+captains|.|bbc1652.txt|.|2
+bob|.|bbc1785.txt|.|2
+pelous|.|bbc1652.txt|.|2
+southern hemisphere|.|bbc1715.txt|.|2
+anoeta|.|bbc1630.txt|.|2
+match point|.|bbc1734.txt|.|2
+switched|.|bbc1630.txt|.|2
+heineken cup|.|bbc1630.txt|.|2
+last eight|.|bbc1821.txt|.|2
+alive|.|bbc1785.txt|.|2
+spokesman said|.|bbc1449.txt|.|2
+bob bryan|.|bbc1785.txt|.|2
+bullock|.|bbc1652.txt|.|2
+mirza|.|bbc1748.txt|.|5
+frustrating|.|bbc1747.txt|.|2
+paseo de anoeta stadium|.|bbc1630.txt|.|2
+point|.|bbc1572.txt|.|2|.|bbc1734.txt|.|4|.|bbc402.txt|.|2
+new zealand|.|bbc1715.txt|.|4
+sydney to host|.|bbc1715.txt|.|1
+juan carlos|.|bbc1785.txt|.|2|.|bbc1736.txt|.|2
+hemisphere|.|bbc1715.txt|.|2|.|bbc1652.txt|.|2
+charity match|.|bbc1715.txt|.|4
+decisions|.|bbc1611.txt|.|4
+umpire|.|bbc1747.txt|.|2
+witnessed|.|bbc1453.txt|.|2
+aid match|.|bbc1652.txt|.|2
+spanish|.|bbc1821.txt|.|2
+cate|.|bbc1453.txt|.|2
+paseo de anoeta|.|bbc1630.txt|.|2
+match|.|bbc1715.txt|.|6|.|bbc1458.txt|.|2|.|bbc1453.txt|.|3|.|bbc1747.txt|.|2|.|bbc1652.txt|.|3|.|bbc1734.txt|.|6|.|bbc1748.txt|.|3|.|bbc1785.txt|.|3|.|bbc1449.txt|.|2|.|bbc1821.txt|.|3|.|bbc1611.txt|.|3|.|bbc1630.txt|.|2
+tennis|.|bbc1734.txt|.|2
+complaint|.|bbc1453.txt|.|2|.|bbc475.txt|.|2
+ten cate|.|bbc1453.txt|.|2
+handled|.|bbc1611.txt|.|1
+ended|.|bbc1747.txt|.|1|.|bbc283.txt|.|1
+unseeded|.|bbc1821.txt|.|2
+rival|.|bbc1374.txt|.|2|.|bbc1734.txt|.|2|.|bbc251.txt|.|2
+rugby union|.|bbc1715.txt|.|2

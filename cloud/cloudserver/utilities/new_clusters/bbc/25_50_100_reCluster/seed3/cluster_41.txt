@@ -1,0 +1,18 @@
+41
+rome|.|bbc1625.txt|.|2
+waiting less than|.|bbc1017.txt|.|1
+waiting times|.|bbc1017.txt|.|3
+strike across wales|.|bbc1106.txt|.|1
+shane|.|bbc1625.txt|.|5|.|bbc1729.txt|.|5
+tom shanklin|.|bbc1625.txt|.|2|.|bbc1729.txt|.|2
+hutt said|.|bbc1017.txt|.|3
+wales|.|bbc1620.txt|.|4|.|bbc1020.txt|.|10|.|bbc1081.txt|.|4|.|bbc1625.txt|.|9|.|bbc1135.txt|.|2|.|bbc1669.txt|.|4|.|bbc1604.txt|.|8|.|bbc1106.txt|.|11|.|bbc1017.txt|.|8|.|bbc1661.txt|.|3|.|bbc1716.txt|.|7|.|bbc1729.txt|.|9
+patients in wales|.|bbc1017.txt|.|3
+shane williams|.|bbc1625.txt|.|5|.|bbc1729.txt|.|5
+cockbain|.|bbc1729.txt|.|3
+current target|.|bbc1017.txt|.|2
+current|.|bbc1017.txt|.|3
+tom|.|bbc1625.txt|.|2|.|bbc1729.txt|.|2
+striking civil servants|.|bbc1106.txt|.|1
+striking|.|bbc1106.txt|.|1
+monthly waiting|.|bbc1017.txt|.|2

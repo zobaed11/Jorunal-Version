@@ -1,0 +1,45 @@
+14
+trade deficit|.|bbc440.txt|.|3
+largest|.|bbc276.txt|.|3|.|bbc251.txt|.|1|.|bbc2017.txt|.|2|.|bbc390.txt|.|2
+electronics|.|bbc2115.txt|.|4|.|bbc1958.txt|.|2
+rising|.|bbc283.txt|.|1|.|bbc61.txt|.|1|.|bbc175.txt|.|2
+consumer electronics|.|bbc2115.txt|.|4|.|bbc1958.txt|.|2
+consumer confidence|.|bbc361.txt|.|2
+housing|.|bbc438.txt|.|3|.|bbc459.txt|.|3|.|bbc194.txt|.|2
+showcasing|.|bbc2115.txt|.|2
+french consumer|.|bbc175.txt|.|2
+remains|.|bbc438.txt|.|2
+fiscal year|.|bbc322.txt|.|2
+commerce|.|bbc440.txt|.|2|.|bbc427.txt|.|2
+content|.|bbc2115.txt|.|5
+listen|.|bbc2115.txt|.|2
+gates said|.|bbc1958.txt|.|2
+hold|.|bbc438.txt|.|3
+ces|.|bbc2115.txt|.|3|.|bbc1958.txt|.|3
+increases|.|bbc1276.txt|.|7
+us retailer|.|bbc361.txt|.|1
+housing market|.|bbc438.txt|.|3|.|bbc459.txt|.|3|.|bbc194.txt|.|2
+mr gates|.|bbc1958.txt|.|5
+conference board|.|bbc361.txt|.|1
+consumers|.|bbc245.txt|.|1|.|bbc361.txt|.|4|.|bbc2051.txt|.|3
+consumer technology|.|bbc2017.txt|.|2
+consumer|.|bbc440.txt|.|2|.|bbc438.txt|.|5|.|bbc2115.txt|.|5|.|bbc182.txt|.|3|.|bbc2017.txt|.|6|.|bbc322.txt|.|2|.|bbc1958.txt|.|3|.|bbc361.txt|.|4|.|bbc1979.txt|.|2|.|bbc175.txt|.|6
+news website|.|bbc2017.txt|.|2|.|bbc878.txt|.|3
+vegas|.|bbc2017.txt|.|2|.|bbc1029.txt|.|1
+next fiscal|.|bbc322.txt|.|2
+confidence|.|bbc66.txt|.|4|.|bbc182.txt|.|2|.|bbc361.txt|.|3
+deflation|.|bbc322.txt|.|4
+multimedia content|.|bbc2115.txt|.|2
+basis|.|bbc175.txt|.|3
+next fiscal year|.|bbc322.txt|.|2
+las vegas|.|bbc2017.txt|.|2|.|bbc1029.txt|.|1
+tvs|.|bbc2017.txt|.|2
+multimedia|.|bbc2115.txt|.|2|.|bbc2017.txt|.|2|.|bbc2089.txt|.|4|.|bbc1874.txt|.|3
+fiscal|.|bbc322.txt|.|2
+us economy|.|bbc402.txt|.|2|.|bbc361.txt|.|2
+interest rates on hold|.|bbc438.txt|.|1
+us consumers|.|bbc361.txt|.|1
+french economy|.|bbc23.txt|.|3|.|bbc182.txt|.|2
+widened|.|bbc440.txt|.|1|.|bbc124.txt|.|1
+commerce department|.|bbc440.txt|.|2
+consumer spending|.|bbc438.txt|.|2|.|bbc182.txt|.|2|.|bbc175.txt|.|3

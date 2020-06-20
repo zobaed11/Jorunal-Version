@@ -1,0 +1,54 @@
+42
+schroeder also called|.|bbc457.txt|.|1
+flight delays|.|bbc15.txt|.|1
+called|.|bbc457.txt|.|2|.|bbc921.txt|.|1|.|bbc1101.txt|.|2
+rules|.|bbc15.txt|.|3
+tiananmen square|.|bbc1032.txt|.|4
+implemented invention|.|bbc1854.txt|.|1
+eu customs|.|bbc446.txt|.|2
+european parliament|.|bbc1838.txt|.|3
+draft|.|bbc2166.txt|.|2
+customs|.|bbc446.txt|.|5
+computer implemented inventions|.|bbc1854.txt|.|1
+implemented|.|bbc1854.txt|.|2
+air passengers|.|bbc15.txt|.|3
+stability|.|bbc457.txt|.|2
+eu reform|.|bbc457.txt|.|1
+overbooking|.|bbc15.txt|.|4
+tech firms|.|bbc2166.txt|.|2
+office said|.|bbc446.txt|.|2
+new rules|.|bbc15.txt|.|2
+reform|.|bbc457.txt|.|3
+eu|.|bbc1854.txt|.|4|.|bbc1032.txt|.|5|.|bbc457.txt|.|5|.|bbc15.txt|.|4|.|bbc2166.txt|.|3|.|bbc446.txt|.|10|.|bbc1838.txt|.|3
+cancellations|.|bbc15.txt|.|2
+overbooking flights|.|bbc15.txt|.|1
+us firms|.|bbc446.txt|.|1
+delays|.|bbc15.txt|.|1
+arms|.|bbc1032.txt|.|5
+schroeder said|.|bbc457.txt|.|1
+arms code|.|bbc1032.txt|.|2
+tiananmen|.|bbc1032.txt|.|4
+patent|.|bbc1854.txt|.|4|.|bbc2166.txt|.|4
+stability pact|.|bbc457.txt|.|2
+new eu|.|bbc15.txt|.|2
+rights watch|.|bbc1032.txt|.|2
+schroeder|.|bbc457.txt|.|6
+extra|.|bbc15.txt|.|2
+extra costs|.|bbc15.txt|.|1
+patents|.|bbc1838.txt|.|2
+tariff|.|bbc446.txt|.|1
+software patents|.|bbc1838.txt|.|2
+computer implemented|.|bbc1854.txt|.|2
+us in eu|.|bbc446.txt|.|1
+protect inventions|.|bbc2166.txt|.|1
+eu arms|.|bbc1032.txt|.|2
+union|.|bbc1715.txt|.|2|.|bbc1032.txt|.|1|.|bbc1376.txt|.|2|.|bbc446.txt|.|2|.|bbc172.txt|.|1|.|bbc799.txt|.|3
+mr schroeder|.|bbc457.txt|.|5
+flight cancellations|.|bbc15.txt|.|1
+juri|.|bbc1854.txt|.|2
+eurozone|.|bbc457.txt|.|2
+union customs|.|bbc446.txt|.|1
+european union|.|bbc1032.txt|.|1|.|bbc172.txt|.|1
+flights|.|bbc15.txt|.|6
+invention|.|bbc1854.txt|.|1
+arms exports|.|bbc1032.txt|.|2

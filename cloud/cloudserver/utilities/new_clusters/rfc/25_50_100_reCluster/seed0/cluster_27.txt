@@ -1,0 +1,19 @@
+27
+object supports|.|rfc2566.txt|.|53
+sequential|.|rfc6081.txt|.|28
+client supplied|.|rfc2566.txt|.|42
+nat extension|.|rfc6081.txt|.|45
+conflicts october|.|rfc4703.txt|.|12
+time when processing|.|rfc3010.txt|.|1
+fqdn conflicts|.|rfc4703.txt|.|13
+alternate address trailer|.|rfc6081.txt|.|21
+broadcast capable|.|rfc2835.txt|.|4
+clients and servers|.|rfc2683.txt|.|6
+sequential port symmetric|.|rfc6081.txt|.|1
+ph|.|rfc2835.txt|.|1
+client|.|rfc5080.txt|.|40|.|rfc2683.txt|.|112|.|rfc3594.txt|.|10|.|rfc2443.txt|.|68|.|rfc3507.txt|.|127|.|rfc4703.txt|.|97|.|rfc2177.txt|.|19|.|rfc5572.txt|.|138|.|rfc4976.txt|.|123|.|rfc2835.txt|.|46|.|rfc2809.txt|.|67|.|rfc5874.txt|.|31|.|rfc6081.txt|.|277|.|rfc2813.txt|.|61|.|rfc4173.txt|.|33|.|rfc5034.txt|.|38|.|rfc4709.txt|.|20|.|rfc3010.txt|.|774|.|rfc5793.txt|.|181|.|rfc2566.txt|.|485
+symmetric nat extension|.|rfc6081.txt|.|30
+preserving|.|rfc6081.txt|.|7
+port preserving symmetric|.|rfc6081.txt|.|5
+open file|.|rfc3010.txt|.|14
+ipp attribute|.|rfc2566.txt|.|20

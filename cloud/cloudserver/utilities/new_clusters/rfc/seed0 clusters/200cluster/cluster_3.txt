@@ -1,0 +1,73 @@
+3
+operations and management|.|rfc4176.txt|.|24|.|rfc5706.txt|.|22
+ip service|.|rfc4084.txt|.|11|.|rfc3387.txt|.|21
+framework october|.|rfc4176.txt|.|20
+harrington|.|rfc5706.txt|.|39
+protocol designers|.|rfc5706.txt|.|29
+operations|.|rfc3321.txt|.|19|.|rfc4176.txt|.|30|.|rfc5706.txt|.|45|.|rfc2955.txt|.|6
+simple network|.|rfc5343.txt|.|9
+management information|.|rfc3371.txt|.|78|.|rfc5706.txt|.|14
+ip networks|.|rfc3387.txt|.|19
+network september|.|rfc3387.txt|.|18
+guidelines november|.|rfc5706.txt|.|34
+mgmt guidelines|.|rfc5706.txt|.|34
+error status|.|rfc2576.txt|.|11
+manager|.|rfc4176.txt|.|37|.|rfc408.txt|.|3
+service management|.|rfc4176.txt|.|12|.|rfc3387.txt|.|53
+customer management|.|rfc4176.txt|.|10
+recommendations april|.|rfc2309.txt|.|16
+qos network|.|rfc3387.txt|.|23
+management protocols|.|rfc5706.txt|.|10
+network management|.|rfc5343.txt|.|9|.|rfc2576.txt|.|16
+data models|.|rfc5706.txt|.|17
+fault management|.|rfc4209.txt|.|6|.|rfc4176.txt|.|8
+engineid discovery|.|rfc5343.txt|.|12
+mgmt|.|rfc5706.txt|.|34
+document transfer|.|rfc2594.txt|.|15
+management function|.|rfc4176.txt|.|11
+management|.|rfc2594.txt|.|34|.|rfc5343.txt|.|21|.|rfc3371.txt|.|102|.|rfc4918.txt|.|6|.|rfc2666.txt|.|20|.|rfc4176.txt|.|136|.|rfc5706.txt|.|171|.|rfc3387.txt|.|121|.|rfc3273.txt|.|105|.|rfc3169.txt|.|10|.|rfc4209.txt|.|17|.|rfc2576.txt|.|33|.|rfc5904.txt|.|5|.|rfc2309.txt|.|37|.|rfc2668.txt|.|56|.|rfc5345.txt|.|39|.|rfc2008.txt|.|15
+customer service management|.|rfc4176.txt|.|5
+measurements october|.|rfc5345.txt|.|22
+monitoring the network|.|rfc5706.txt|.|2
+customer|.|rfc3725.txt|.|14|.|rfc4176.txt|.|68
+design principles july
+principles
+information center
+information center jeanne
+principles july
+efficient mail
+logical entity
+protocol october
+turner
+logical
+information export
+cooper
+frameworks
+agreement
+precondition july
+networks march
+protocol march
+protocol requirements
+channels
+bind
+protocol august
+griffin
+bind operation
+logical functions
+context transfer
+precondition
+small packets
+protocol council
+protocol june
+protocol july
+information about the content
+protocol peer
+simplified
+information types
+simplified ncp
+framework august
+simplified ncp protocol
+protocol session
+protocol evaluation
+protocol january
+protocol exchange

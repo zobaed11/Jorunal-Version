@@ -1,0 +1,60 @@
+43
+like google|.|bbc1973.txt|.|2|.|bbc1986.txt|.|2
+officer|.|bbc949.txt|.|2
+independent of government|.|bbc921.txt|.|2
+msn|.|bbc1877.txt|.|3|.|bbc1973.txt|.|3|.|bbc1986.txt|.|3
+body|.|bbc921.txt|.|4|.|bbc1774.txt|.|2|.|bbc981.txt|.|2
+officer who|.|bbc949.txt|.|2
+hit|.|bbc297.txt|.|2|.|bbc18.txt|.|1|.|bbc629.txt|.|4|.|bbc716.txt|.|2|.|bbc31.txt|.|2|.|bbc825.txt|.|1|.|bbc228.txt|.|2
+competitors|.|bbc1973.txt|.|2|.|bbc1986.txt|.|2
+ea|.|bbc1880.txt|.|6
+top spot|.|bbc654.txt|.|2
+hunger strike|.|bbc949.txt|.|4
+song|.|bbc633.txt|.|3|.|bbc682.txt|.|2|.|bbc646.txt|.|4|.|bbc654.txt|.|2
+speculation|.|bbc1114.txt|.|2|.|bbc1150.txt|.|3|.|bbc1148.txt|.|2|.|bbc264.txt|.|3
+bbc|.|bbc1434.txt|.|4|.|bbc1247.txt|.|2|.|bbc1114.txt|.|3|.|bbc1521.txt|.|2|.|bbc1604.txt|.|2|.|bbc1299.txt|.|4|.|bbc917.txt|.|2|.|bbc970.txt|.|2|.|bbc1926.txt|.|2|.|bbc878.txt|.|4|.|bbc1051.txt|.|1
+blogging|.|bbc1859.txt|.|1|.|bbc1973.txt|.|3|.|bbc1986.txt|.|3
+lives|.|bbc1961.txt|.|4
+like|.|bbc949.txt|.|2|.|bbc1961.txt|.|7|.|bbc1114.txt|.|3|.|bbc1973.txt|.|2|.|bbc921.txt|.|3|.|bbc1880.txt|.|3|.|bbc1986.txt|.|2|.|bbc1803.txt|.|3|.|bbc716.txt|.|2|.|bbc654.txt|.|2
+like migration|.|bbc921.txt|.|2
+journals|.|bbc1973.txt|.|3|.|bbc1986.txt|.|3
+mtv|.|bbc716.txt|.|2
+rivals|.|bbc1880.txt|.|2|.|bbc252.txt|.|3
+authorities|.|bbc1122.txt|.|2|.|bbc949.txt|.|4|.|bbc399.txt|.|2|.|bbc391.txt|.|3|.|bbc1161.txt|.|2
+hunger|.|bbc949.txt|.|4
+donofrio|.|bbc1961.txt|.|10
+british authorities|.|bbc949.txt|.|2
+ea sports|.|bbc1880.txt|.|2
+spaces|.|bbc1973.txt|.|2|.|bbc1986.txt|.|2
+pervasive|.|bbc1961.txt|.|4
+changed|.|bbc1961.txt|.|1
+eminem|.|bbc654.txt|.|2
+week|.|bbc11.txt|.|2|.|bbc1344.txt|.|1|.|bbc949.txt|.|3|.|bbc1432.txt|.|3
+soldiers|.|bbc654.txt|.|3
+pervasive computing|.|bbc1961.txt|.|2
+rock|.|bbc2006.txt|.|2|.|bbc716.txt|.|2|.|bbc746.txt|.|3
+computing|.|bbc1961.txt|.|6|.|bbc2204.txt|.|7
+toy soldiers|.|bbc654.txt|.|3
+elvis|.|bbc654.txt|.|2
+independent body|.|bbc921.txt|.|2
+ozzy|.|bbc716.txt|.|4
+live|.|bbc949.txt|.|2
+toy|.|bbc654.txt|.|3
+innovation|.|bbc1961.txt|.|5
+immigration|.|bbc921.txt|.|5
+live like|.|bbc949.txt|.|2
+sports|.|bbc1880.txt|.|7
+like toy soldiers|.|bbc654.txt|.|2
+msn spaces|.|bbc1973.txt|.|2|.|bbc1986.txt|.|2
+jobs|.|bbc47.txt|.|2|.|bbc296.txt|.|6|.|bbc1261.txt|.|8|.|bbc297.txt|.|5|.|bbc1114.txt|.|2|.|bbc27.txt|.|3|.|bbc7.txt|.|9|.|bbc76.txt|.|3|.|bbc253.txt|.|9
+monitor|.|bbc921.txt|.|2|.|bbc1903.txt|.|3|.|bbc2197.txt|.|3
+titles|.|bbc1880.txt|.|3|.|bbc1803.txt|.|1|.|bbc1994.txt|.|6
+technology|.|bbc1829.txt|.|10|.|bbc2212.txt|.|4|.|bbc2003.txt|.|3|.|bbc1961.txt|.|9|.|bbc2048.txt|.|6|.|bbc2143.txt|.|12|.|bbc1927.txt|.|4
+ozzy osbourne|.|bbc716.txt|.|2
+people|.|bbc1980.txt|.|5|.|bbc2140.txt|.|5|.|bbc2075.txt|.|6|.|bbc1855.txt|.|8|.|bbc2119.txt|.|10|.|bbc717.txt|.|2|.|bbc2216.txt|.|5|.|bbc1898.txt|.|8|.|bbc2052.txt|.|10|.|bbc1991.txt|.|2|.|bbc2065.txt|.|5|.|bbc1235.txt|.|8|.|bbc722.txt|.|2|.|bbc2189.txt|.|7|.|bbc1055.txt|.|5|.|bbc1921.txt|.|7|.|bbc1973.txt|.|5|.|bbc1986.txt|.|5|.|bbc1432.txt|.|2|.|bbc1278.txt|.|8|.|bbc982.txt|.|5
+competitors like|.|bbc1973.txt|.|2|.|bbc1986.txt|.|2
+mr donofrio|.|bbc1961.txt|.|9
+sports games|.|bbc1880.txt|.|2
+like toy|.|bbc654.txt|.|2
+publish|.|bbc921.txt|.|1
+migration|.|bbc921.txt|.|4

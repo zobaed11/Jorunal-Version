@@ -1,0 +1,163 @@
+1
+fees|.|bbc_business_461.txt|.|4
+agent|.|bbc_business_497.txt|.|2
+northern|.|bbc_business_381.txt|.|2
+last year|.|bbc_business_472.txt|.|2|.|bbc_business_439.txt|.|2|.|bbc_business_425.txt|.|2|.|bbc_business_433.txt|.|2|.|bbc_business_406.txt|.|3
+sales|.|bbc_business_430.txt|.|2|.|bbc_business_500.txt|.|2|.|bbc_business_384.txt|.|9|.|bbc_business_410.txt|.|6|.|bbc_business_450.txt|.|15|.|bbc_business_481.txt|.|6|.|bbc_business_390.txt|.|8|.|bbc_business_406.txt|.|15|.|bbc_business_431.txt|.|2
+faring well|.|bbc_business_406.txt|.|1
+disappointment|.|bbc_business_466.txt|.|1
+high|.|bbc_business_466.txt|.|4
+former fbi|.|bbc_business_497.txt|.|2
+said prices|.|bbc_business_405.txt|.|3
+biggest|.|bbc_business_405.txt|.|2|.|bbc_business_473.txt|.|2|.|bbc_business_399.txt|.|2
+earlier|.|bbc_business_466.txt|.|2|.|bbc_business_503.txt|.|1|.|bbc_business_406.txt|.|2
+prices rose|.|bbc_business_405.txt|.|2
+halifax|.|bbc_business_405.txt|.|8
+uk|.|bbc_business_405.txt|.|5|.|bbc_business_417.txt|.|2|.|bbc_business_507.txt|.|6|.|bbc_business_441.txt|.|6|.|bbc_business_397.txt|.|4|.|bbc_business_415.txt|.|4|.|bbc_business_459.txt|.|3|.|bbc_business_484.txt|.|2
+price|.|bbc_business_429.txt|.|1|.|bbc_business_447.txt|.|2|.|bbc_business_502.txt|.|1|.|bbc_business_385.txt|.|1|.|bbc_business_402.txt|.|1|.|bbc_business_463.txt|.|1|.|bbc_business_381.txt|.|3|.|bbc_business_415.txt|.|6|.|bbc_business_378.txt|.|6|.|bbc_business_407.txt|.|2|.|bbc_business_499.txt|.|1
+weather|.|bbc_business_387.txt|.|2|.|bbc_business_381.txt|.|3
+house prices|.|bbc_business_405.txt|.|7
+traffic|.|bbc_business_461.txt|.|2
+confidential|.|bbc_business_497.txt|.|1
+cars in the us|.|bbc_business_430.txt|.|1
+year earlier|.|bbc_business_466.txt|.|2|.|bbc_business_503.txt|.|1|.|bbc_business_406.txt|.|2
+uk house prices|.|bbc_business_405.txt|.|2|.|bbc_business_415.txt|.|2
+crude prices|.|bbc_business_381.txt|.|1
+index|.|bbc_business_370.txt|.|5
+house price|.|bbc_business_415.txt|.|6
+parking fees|.|bbc_business_461.txt|.|2
+jd power|.|bbc_business_430.txt|.|1
+jd|.|bbc_business_430.txt|.|1
+uk house|.|bbc_business_405.txt|.|2|.|bbc_business_415.txt|.|2
+drive|.|bbc_business_430.txt|.|1
+chile|.|bbc_business_360.txt|.|2
+american and southwest|.|bbc_business_466.txt|.|2
+car ownership|.|bbc_business_461.txt|.|2
+us retailers|.|bbc_business_406.txt|.|2
+high fuel|.|bbc_business_466.txt|.|4
+activity|.|bbc_business_370.txt|.|2|.|bbc_business_463.txt|.|2
+city|.|bbc_business_461.txt|.|1
+national manufacturing|.|bbc_business_370.txt|.|2
+winter|.|bbc_business_381.txt|.|3
+house|.|bbc_business_405.txt|.|11|.|bbc_business_415.txt|.|9
+halifax said|.|bbc_business_405.txt|.|3
+car|.|bbc_business_430.txt|.|4|.|bbc_business_461.txt|.|6|.|bbc_business_462.txt|.|2|.|bbc_business_408.txt|.|3
+confidential us|.|bbc_business_497.txt|.|1
+retailers faring|.|bbc_business_406.txt|.|1
+december|.|bbc_business_405.txt|.|4|.|bbc_business_383.txt|.|2|.|bbc_business_416.txt|.|3|.|bbc_business_370.txt|.|3|.|bbc_business_490.txt|.|6|.|bbc_business_463.txt|.|2|.|bbc_business_481.txt|.|4
+copper|.|bbc_business_360.txt|.|9
+fbi agent|.|bbc_business_497.txt|.|2
+consumers|.|bbc_business_430.txt|.|2|.|bbc_business_361.txt|.|4
+prices|.|bbc_business_430.txt|.|2|.|bbc_business_466.txt|.|3|.|bbc_business_405.txt|.|13|.|bbc_business_461.txt|.|2|.|bbc_business_480.txt|.|1|.|bbc_business_360.txt|.|3|.|bbc_business_370.txt|.|2|.|bbc_business_493.txt|.|2|.|bbc_business_381.txt|.|3|.|bbc_business_415.txt|.|8|.|bbc_business_497.txt|.|2|.|bbc_business_406.txt|.|4
+cochilco|.|bbc_business_360.txt|.|3
+uk house prices dip|.|bbc_business_415.txt|.|1
+store sales|.|bbc_business_406.txt|.|4
+chilean copper|.|bbc_business_360.txt|.|2
+us airline|.|bbc_business_466.txt|.|1
+store|.|bbc_business_406.txt|.|6
+new york|.|bbc_business_465.txt|.|2|.|bbc_business_497.txt|.|2
+manufacturing activity|.|bbc_business_370.txt|.|2
+car parking|.|bbc_business_461.txt|.|2
+chilean|.|bbc_business_360.txt|.|2
+faring|.|bbc_business_406.txt|.|2
+ownership|.|bbc_business_461.txt|.|2
+york|.|bbc_business_465.txt|.|2|.|bbc_business_497.txt|.|2
+fuel prices|.|bbc_business_466.txt|.|3
+well|.|bbc_business_406.txt|.|4
+analyst|.|bbc_business_497.txt|.|2
+reported
+decade
+deep
+last month
+include yugansk
+western
+richest
+said growth
+said fiat
+overbooking
+commodity
+central bank
+overbooking flights
+strong growth
+calls
+charge
+wanted
+month
+price rise
+growing
+price rigging
+ticket machines
+margins
+said gm
+assassinated
+blames
+time warner
+raising
+snow
+fall
+president chavez
+ticket
+recalls
+pentagon
+buy
+level
+say
+leading
+strong dollar
+traders said
+saw
+purchasing
+revenues
+former worldcom
+previously
+primary
+hoped
+long distance
+reported by consumers
+tax cuts
+price rises
+western europe
+deputy
+demand for such crossover vehicles
+approvals
+tax claims
+include
+inflation
+saying
+deputy prime
+thought
+central european
+salaries
+warns
+demand for crossover
+admitted
+rival
+biggest uk bank
+growing demand
+acquisition
+top executives
+sales in asia
+saw annual
+prices carried
+part
+high fuel prices
+prices fell
+supply deal
+prime
+time
+dollar reserves
+payment
+south african
+previously been thought
+marketing
+purchase
+distributor
+claimed
+low
+head
+long
+said that the ifo
+locally
+indications
+prime minister
+loss

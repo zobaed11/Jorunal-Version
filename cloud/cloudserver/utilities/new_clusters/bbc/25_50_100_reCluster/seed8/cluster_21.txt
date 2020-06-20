@@ -1,0 +1,73 @@
+21
+exxon|.|bbc222.txt|.|4
+brothers|.|bbc379.txt|.|3
+bad company|.|bbc648.txt|.|2
+reliance group|.|bbc486.txt|.|4
+reuters|.|bbc53.txt|.|5
+board meeting|.|bbc486.txt|.|2
+monopoly|.|bbc314.txt|.|2
+group company|.|bbc486.txt|.|1
+judge|.|bbc671.txt|.|2
+preliminary|.|bbc222.txt|.|2
+group|.|bbc422.txt|.|2|.|bbc806.txt|.|3|.|bbc486.txt|.|6|.|bbc684.txt|.|2|.|bbc1535.txt|.|2|.|bbc314.txt|.|5|.|bbc14.txt|.|3|.|bbc53.txt|.|2|.|bbc2186.txt|.|2|.|bbc418.txt|.|3|.|bbc1768.txt|.|2
+petrochemicals|.|bbc379.txt|.|3
+record company|.|bbc671.txt|.|2
+italian stock|.|bbc48.txt|.|2
+mci shares|.|bbc251.txt|.|1
+development|.|bbc460.txt|.|2
+laws|.|bbc2214.txt|.|3
+oracle|.|bbc460.txt|.|7
+preliminary agreement|.|bbc222.txt|.|1
+natural|.|bbc1975.txt|.|2|.|bbc222.txt|.|3
+july|.|bbc48.txt|.|2
+announced|.|bbc460.txt|.|2|.|bbc897.txt|.|2|.|bbc1293.txt|.|1
+legal fight|.|bbc2214.txt|.|1
+stop|.|bbc671.txt|.|2
+anil ambani|.|bbc379.txt|.|2
+junk mail|.|bbc2214.txt|.|2
+peoplesoft|.|bbc460.txt|.|9
+seeking bankruptcy|.|bbc2214.txt|.|1
+baikal finance|.|bbc314.txt|.|3
+mark morrison|.|bbc671.txt|.|4
+natural resources|.|bbc222.txt|.|2
+takeover|.|bbc460.txt|.|4|.|bbc251.txt|.|2|.|bbc485.txt|.|1|.|bbc70.txt|.|2|.|bbc162.txt|.|2
+russian companies|.|bbc222.txt|.|1
+rodgers|.|bbc648.txt|.|4
+weakness of the dollar|.|bbc53.txt|.|1
+bankruptcy protection|.|bbc299.txt|.|2|.|bbc2214.txt|.|2
+finance group|.|bbc314.txt|.|3
+weak|.|bbc53.txt|.|1
+qwest|.|bbc251.txt|.|4
+running|.|bbc379.txt|.|1
+weakness|.|bbc53.txt|.|1
+ambani|.|bbc379.txt|.|3|.|bbc486.txt|.|6
+largest us|.|bbc251.txt|.|1
+records label|.|bbc671.txt|.|1
+gas|.|bbc314.txt|.|3
+exxon said|.|bbc222.txt|.|1
+company|.|bbc379.txt|.|2|.|bbc27.txt|.|3|.|bbc222.txt|.|4|.|bbc648.txt|.|2|.|bbc460.txt|.|5|.|bbc486.txt|.|4|.|bbc314.txt|.|4|.|bbc53.txt|.|2|.|bbc671.txt|.|2|.|bbc251.txt|.|3|.|bbc2214.txt|.|4|.|bbc48.txt|.|3
+acquisition|.|bbc27.txt|.|2
+oil company|.|bbc222.txt|.|2
+tender|.|bbc222.txt|.|2
+mittal steel|.|bbc27.txt|.|5
+product|.|bbc460.txt|.|2|.|bbc117.txt|.|1|.|bbc26.txt|.|2
+new tender|.|bbc222.txt|.|2
+development and product|.|bbc460.txt|.|1
+judge is gonna stop|.|bbc671.txt|.|1
+reliance|.|bbc379.txt|.|6|.|bbc486.txt|.|7
+spammer|.|bbc2214.txt|.|2
+rival bids|.|bbc251.txt|.|2
+bought|.|bbc230.txt|.|2|.|bbc314.txt|.|3
+company said|.|bbc2214.txt|.|2
+resources|.|bbc222.txt|.|4
+chairman|.|bbc486.txt|.|1
+seeking|.|bbc2214.txt|.|3
+revenues|.|bbc53.txt|.|3
+two brothers|.|bbc379.txt|.|2
+drummer|.|bbc648.txt|.|2
+gas monopoly|.|bbc314.txt|.|2
+debts|.|bbc48.txt|.|3
+footballer|.|bbc671.txt|.|1
+junk|.|bbc2138.txt|.|2|.|bbc2214.txt|.|2
+rival|.|bbc251.txt|.|2
+finance|.|bbc314.txt|.|3

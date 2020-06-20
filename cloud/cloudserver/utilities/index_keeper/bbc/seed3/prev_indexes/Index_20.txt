@@ -1,0 +1,263 @@
+half|.|bbc1729.txt|.|2
+university fees|.|bbc1109.txt|.|2
+year|.|bbc76.txt|.|3
+south africa|.|bbc1690.txt|.|3
+texas|.|bbc2097.txt|.|7
+advertising|.|bbc2033.txt|.|2
+theatre|.|bbc804.txt|.|5
+bank|.|bbc76.txt|.|5
+speaking|.|bbc1216.txt|.|2
+win students|.|bbc1109.txt|.|1
+lucas said|.|bbc892.txt|.|1
+victor|.|bbc1401.txt|.|2
+texas attorney|.|bbc2097.txt|.|2
+shows former|.|bbc1216.txt|.|2
+state|.|bbc2097.txt|.|2
+brand|.|bbc2033.txt|.|2
+rap|.|bbc792.txt|.|3
+bbc|.|bbc1353.txt|.|3
+broke|.|bbc2097.txt|.|3
+ad|.|bbc2033.txt|.|1
+old|.|bbc1353.txt|.|1
+economy|.|bbc76.txt|.|3|.|bbc361.txt|.|3
+former|.|bbc1216.txt|.|5
+rings|.|bbc804.txt|.|2
+tory|.|bbc1216.txt|.|2
+us economy|.|bbc361.txt|.|2
+internet explorer|.|bbc1962.txt|.|5
+attorney|.|bbc2097.txt|.|3
+spammers|.|bbc2097.txt|.|6
+lib dems|.|bbc1109.txt|.|5
+election campaign|.|bbc1242.txt|.|1
+firms|.|bbc1941.txt|.|2
+drive|.|bbc2160.txt|.|2
+jones|.|bbc1401.txt|.|10
+cup|.|bbc1580.txt|.|2
+conference|.|bbc361.txt|.|2
+toronto|.|bbc804.txt|.|2
+students|.|bbc1109.txt|.|18
+alleged|.|bbc2097.txt|.|2
+scrutiny|.|bbc1353.txt|.|2
+two|.|bbc1655.txt|.|3|.|bbc2097.txt|.|3
+virus|.|bbc1941.txt|.|9
+secretary|.|bbc1216.txt|.|5
+democrat|.|bbc1109.txt|.|1
+hard drive|.|bbc2160.txt|.|2
+michael portillo|.|bbc1216.txt|.|2
+mini|.|bbc2160.txt|.|17
+manager|.|bbc1580.txt|.|1
+star|.|bbc792.txt|.|2|.|bbc892.txt|.|4
+texas lawsuit was filed|.|bbc2097.txt|.|1
+retailer|.|bbc361.txt|.|1
+marion|.|bbc1401.txt|.|5
+jobs|.|bbc76.txt|.|3
+words|.|bbc1242.txt|.|2
+makes|.|bbc1216.txt|.|2
+palestinian economy|.|bbc76.txt|.|2
+mac os x|.|bbc2160.txt|.|2
+x|.|bbc2160.txt|.|2
+faces|.|bbc1353.txt|.|1
+register|.|bbc1216.txt|.|5
+liberal|.|bbc1109.txt|.|2
+south africans|.|bbc1690.txt|.|4
+radcliffe faces|.|bbc1353.txt|.|1
+london|.|bbc804.txt|.|5
+lib|.|bbc1109.txt|.|9
+microsoft|.|bbc1962.txt|.|4|.|bbc1941.txt|.|2
+four years|.|bbc76.txt|.|2
+act|.|bbc2097.txt|.|5
+portillo|.|bbc1216.txt|.|2
+us retailer|.|bbc361.txt|.|1
+club|.|bbc1580.txt|.|3
+legal|.|bbc2097.txt|.|2
+airlines|.|bbc500.txt|.|3
+us|.|bbc2097.txt|.|3|.|bbc361.txt|.|6
+four little|.|bbc1242.txt|.|2
+marathon|.|bbc1353.txt|.|9
+athlete|.|bbc1353.txt|.|1
+european|.|bbc1580.txt|.|3
+jones files lawsuit|.|bbc1401.txt|.|1
+martyn williams|.|bbc1729.txt|.|3
+users|.|bbc1941.txt|.|3
+attorney general|.|bbc2097.txt|.|3
+name|.|bbc2033.txt|.|4
+campaign|.|bbc1242.txt|.|4
+selling|.|bbc2033.txt|.|2
+microsoft outlook|.|bbc1941.txt|.|2
+wars|.|bbc892.txt|.|4
+internet|.|bbc1962.txt|.|6
+little|.|bbc1242.txt|.|2
+messages sent|.|bbc2097.txt|.|3
+booked|.|bbc804.txt|.|1
+robertson|.|bbc1580.txt|.|4
+marion jones|.|bbc1401.txt|.|4
+lawsuit|.|bbc2097.txt|.|5|.|bbc1401.txt|.|3
+student vote|.|bbc1109.txt|.|1
+little words|.|bbc1242.txt|.|2
+show|.|bbc804.txt|.|4
+shot|.|bbc792.txt|.|2
+apple|.|bbc2160.txt|.|5
+six nations|.|bbc1655.txt|.|4
+conte|.|bbc1401.txt|.|11
+files lawsuit|.|bbc1401.txt|.|1
+richards|.|bbc1353.txt|.|8
+tory leader|.|bbc1216.txt|.|2
+heralds|.|bbc2160.txt|.|1
+end|.|bbc804.txt|.|2
+broke laws|.|bbc2097.txt|.|1
+hard|.|bbc2160.txt|.|4
+thomas|.|bbc1729.txt|.|5
+vote|.|bbc1109.txt|.|6
+legal action|.|bbc2097.txt|.|2
+election|.|bbc1109.txt|.|5|.|bbc1242.txt|.|3
+six|.|bbc1655.txt|.|4
+premiere|.|bbc804.txt|.|4
+new york|.|bbc1353.txt|.|7
+michael|.|bbc1216.txt|.|3
+us state|.|bbc2097.txt|.|2
+jason|.|bbc1655.txt|.|2
+richards says|.|bbc1353.txt|.|2
+time|.|bbc1729.txt|.|1
+television programme|.|bbc1401.txt|.|2
+outlook|.|bbc1941.txt|.|2
+tunnel|.|bbc500.txt|.|2
+leader|.|bbc1216.txt|.|3
+game against italy|.|bbc1655.txt|.|1
+told|.|bbc892.txt|.|2
+release|.|bbc1962.txt|.|2
+star on the rap|.|bbc792.txt|.|1
+program|.|bbc1962.txt|.|5
+nations|.|bbc1655.txt|.|4
+revolution|.|bbc2160.txt|.|3
+years|.|bbc76.txt|.|3
+appeared|.|bbc792.txt|.|2
+children|.|bbc892.txt|.|2
+william|.|bbc1216.txt|.|2
+four|.|bbc1242.txt|.|2|.|bbc76.txt|.|2
+palestinian|.|bbc76.txt|.|8
+radcliffe|.|bbc1353.txt|.|10
+space on his forehead|.|bbc2033.txt|.|1
+williams|.|bbc1729.txt|.|10
+games|.|bbc1655.txt|.|3
+action|.|bbc2097.txt|.|3
+two games|.|bbc1655.txt|.|3
+star wars|.|bbc892.txt|.|4
+dems say|.|bbc1109.txt|.|2
+africa|.|bbc1690.txt|.|3
+laws|.|bbc2097.txt|.|3
+musical|.|bbc804.txt|.|5
+players|.|bbc1580.txt|.|5
+four little words|.|bbc1242.txt|.|2
+rings musical|.|bbc804.txt|.|2
+shane williams|.|bbc1729.txt|.|5
+africans|.|bbc1690.txt|.|4
+bids|.|bbc2033.txt|.|1
+us consumers|.|bbc361.txt|.|1
+explorer|.|bbc1962.txt|.|5
+messages|.|bbc2097.txt|.|6
+england captain|.|bbc1655.txt|.|2
+paula|.|bbc1353.txt|.|5
+britain|.|bbc1242.txt|.|3
+south|.|bbc1690.txt|.|8
+forehead|.|bbc2033.txt|.|3
+mini heralds|.|bbc2160.txt|.|1
+mac|.|bbc2160.txt|.|20
+labour|.|bbc1242.txt|.|4
+health secretary|.|bbc1216.txt|.|1
+world|.|bbc76.txt|.|2
+tom|.|bbc1729.txt|.|2
+encourage|.|bbc1580.txt|.|1
+man|.|bbc2033.txt|.|2
+programme|.|bbc1401.txt|.|2
+jonny|.|bbc1655.txt|.|2
+italy|.|bbc1655.txt|.|2
+drugs|.|bbc1401.txt|.|4
+eurotunnel|.|bbc500.txt|.|4
+television|.|bbc1401.txt|.|5
+tom shanklin|.|bbc1729.txt|.|2
+health|.|bbc1216.txt|.|1
+great|.|bbc2160.txt|.|1
+lead|.|bbc1690.txt|.|7
+great excitement by apple|.|bbc2160.txt|.|1
+help|.|bbc1580.txt|.|2
+earnings|.|bbc1216.txt|.|1
+public scrutiny|.|bbc1353.txt|.|2
+board|.|bbc361.txt|.|1
+addresses|.|bbc1941.txt|.|2
+fees|.|bbc1109.txt|.|6|.|bbc1216.txt|.|3
+quick|.|bbc1690.txt|.|2
+alleged spammers|.|bbc2097.txt|.|2
+mail|.|bbc1941.txt|.|1
+lucas|.|bbc892.txt|.|3
+show in london|.|bbc804.txt|.|2
+cent|.|bbc792.txt|.|6
+firefox|.|bbc1962.txt|.|13
+mac mini|.|bbc2160.txt|.|14
+two men|.|bbc2097.txt|.|3
+seats|.|bbc1109.txt|.|4
+space|.|bbc2033.txt|.|2
+sales|.|bbc500.txt|.|2
+points|.|bbc1690.txt|.|6
+cockbain|.|bbc1729.txt|.|3
+shows|.|bbc1216.txt|.|3
+west|.|bbc804.txt|.|2
+conference board|.|bbc361.txt|.|1
+jonny wilkinson|.|bbc1655.txt|.|2
+auctions|.|bbc2033.txt|.|1
+new|.|bbc1353.txt|.|7
+feud|.|bbc792.txt|.|3
+england|.|bbc1655.txt|.|8
+months|.|bbc361.txt|.|2
+bbc sport|.|bbc1353.txt|.|3
+filed|.|bbc2097.txt|.|3|.|bbc1401.txt|.|2
+york times|.|bbc1962.txt|.|2
+wales|.|bbc1729.txt|.|9
+film|.|bbc892.txt|.|4
+excitement|.|bbc2160.txt|.|1
+sent|.|bbc2097.txt|.|4
+cent appeared|.|bbc792.txt|.|2
+visitors|.|bbc1729.txt|.|3
+producer|.|bbc804.txt|.|2
+files|.|bbc1401.txt|.|1
+survey|.|bbc361.txt|.|2
+wilkinson|.|bbc1655.txt|.|2
+game|.|bbc1655.txt|.|2|.|bbc1580.txt|.|2
+consumer confidence|.|bbc361.txt|.|2
+student|.|bbc1109.txt|.|4
+world bank|.|bbc76.txt|.|2
+speaking fees|.|bbc1216.txt|.|2
+university|.|bbc1109.txt|.|6
+penalty|.|bbc1690.txt|.|5
+dems|.|bbc1109.txt|.|5
+captain|.|bbc1655.txt|.|4
+debut|.|bbc792.txt|.|3
+general|.|bbc2097.txt|.|3
+times|.|bbc1962.txt|.|3
+public|.|bbc1353.txt|.|3
+men|.|bbc2097.txt|.|4
+browser|.|bbc1962.txt|.|8
+hearts|.|bbc1580.txt|.|2
+victor conte|.|bbc1401.txt|.|2
+mini revolution|.|bbc2160.txt|.|1
+consumers|.|bbc361.txt|.|4
+west end|.|bbc804.txt|.|2
+said|.|bbc2033.txt|.|4|.|bbc500.txt|.|5|.|bbc792.txt|.|8|.|bbc76.txt|.|4|.|bbc892.txt|.|3
+says|.|bbc1109.txt|.|3|.|bbc1353.txt|.|3
+win|.|bbc1109.txt|.|2
+consumer|.|bbc361.txt|.|4
+portillo makes|.|bbc1216.txt|.|2
+firefox browser|.|bbc1962.txt|.|2
+os|.|bbc2160.txt|.|2
+revenge|.|bbc892.txt|.|2
+shane|.|bbc1729.txt|.|5
+martyn|.|bbc1729.txt|.|3
+confidence|.|bbc361.txt|.|3
+say|.|bbc1109.txt|.|4
+liberal democrat|.|bbc1109.txt|.|1
+cent has said|.|bbc792.txt|.|1
+brand name|.|bbc2033.txt|.|2
+york|.|bbc1962.txt|.|2|.|bbc1353.txt|.|7
+unveiled|.|bbc1242.txt|.|1
+shanklin|.|bbc1729.txt|.|4
+sport|.|bbc1353.txt|.|3
+jones has filed|.|bbc1401.txt|.|1

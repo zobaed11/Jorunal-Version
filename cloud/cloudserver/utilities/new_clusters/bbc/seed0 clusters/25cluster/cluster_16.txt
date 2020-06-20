@@ -1,0 +1,604 @@
+16
+maruti|.|bbc503.txt|.|5
+schroeder also called|.|bbc457.txt|.|1
+half|.|bbc1625.txt|.|2|.|bbc1452.txt|.|2|.|bbc1527.txt|.|1|.|bbc33.txt|.|3|.|bbc1729.txt|.|2
+rights groups|.|bbc1175.txt|.|3
+verizon|.|bbc162.txt|.|5
+craphouse|.|bbc825.txt|.|2
+areas|.|bbc1632.txt|.|2
+halo|.|bbc1963.txt|.|15
+parliament|.|bbc1838.txt|.|3
+told bbc|.|bbc1114.txt|.|2|.|bbc1604.txt|.|2|.|bbc917.txt|.|2|.|bbc1926.txt|.|2
+music online|.|bbc776.txt|.|2
+approved|.|bbc85.txt|.|1
+music on isle of wight|.|bbc828.txt|.|1
+lebedev|.|bbc157.txt|.|4
+clyde|.|bbc1421.txt|.|4
+ballet attendance|.|bbc532.txt|.|1
+record|.|bbc2196.txt|.|2|.|bbc1373.txt|.|4|.|bbc1246.txt|.|2|.|bbc748.txt|.|3|.|bbc634.txt|.|2|.|bbc1366.txt|.|2|.|bbc667.txt|.|1|.|bbc1383.txt|.|5
+customs|.|bbc446.txt|.|5
+desmoteplase|.|bbc233.txt|.|2
+multiplayer gaming|.|bbc2187.txt|.|2
+energy|.|bbc80.txt|.|3
+blogging|.|bbc1859.txt|.|1|.|bbc1986.txt|.|3
+fined|.|bbc1632.txt|.|1|.|bbc1573.txt|.|2
+banks|.|bbc1855.txt|.|5
+charlton|.|bbc1419.txt|.|8|.|bbc1486.txt|.|2
+varig|.|bbc303.txt|.|5
+investment|.|bbc286.txt|.|2|.|bbc501.txt|.|3|.|bbc2208.txt|.|4|.|bbc70.txt|.|2
+bill|.|bbc1123.txt|.|6|.|bbc977.txt|.|3|.|bbc299.txt|.|2|.|bbc1029.txt|.|5|.|bbc1838.txt|.|9
+buyer|.|bbc831.txt|.|1
+barrow told|.|bbc748.txt|.|2
+scandals|.|bbc17.txt|.|1
+triple|.|bbc1325.txt|.|4|.|bbc2002.txt|.|1|.|bbc1321.txt|.|2|.|bbc1677.txt|.|3
+telegraph group|.|bbc14.txt|.|2
+moore|.|bbc1321.txt|.|3
+domain|.|bbc1873.txt|.|8
+handheld|.|bbc2205.txt|.|3|.|bbc2187.txt|.|4
+program attempts|.|bbc1860.txt|.|1
+sideways|.|bbc880.txt|.|3|.|bbc572.txt|.|3
+cebit fever|.|bbc2219.txt|.|2
+ferdinand|.|bbc641.txt|.|4|.|bbc746.txt|.|4|.|bbc1437.txt|.|3
+newspaper|.|bbc1029.txt|.|2
+accessible|.|bbc2134.txt|.|1
+albums|.|bbc831.txt|.|4
+turf|.|bbc1097.txt|.|2
+hank|.|bbc629.txt|.|2
+investments|.|bbc14.txt|.|1
+hans|.|bbc512.txt|.|4
+gold|.|bbc1325.txt|.|3
+rejects|.|bbc10.txt|.|1
+adoption|.|bbc676.txt|.|7
+drugs test|.|bbc1512.txt|.|4
+saab factory|.|bbc149.txt|.|2
+zombie|.|bbc781.txt|.|3
+lansdowne|.|bbc1691.txt|.|2
+expectations of winning|.|bbc1351.txt|.|2
+hotel|.|bbc557.txt|.|6
+commission|.|bbc259.txt|.|2|.|bbc2166.txt|.|3|.|bbc1991.txt|.|4
+tv special|.|bbc692.txt|.|2
+largest power producer|.|bbc276.txt|.|2
+mini|.|bbc2160.txt|.|17
+business|.|bbc287.txt|.|4|.|bbc781.txt|.|2|.|bbc240.txt|.|2
+retailer|.|bbc393.txt|.|2|.|bbc390.txt|.|2|.|bbc70.txt|.|3|.|bbc361.txt|.|1
+posters|.|bbc905.txt|.|3
+hamm|.|bbc1554.txt|.|6
+right|.|bbc1478.txt|.|2
+sturgeon|.|bbc994.txt|.|2
+dudek|.|bbc1572.txt|.|3
+oil supply|.|bbc77.txt|.|2
+straight|.|bbc1824.txt|.|1|.|bbc1747.txt|.|2
+holding firm|.|bbc485.txt|.|1
+hewitt|.|bbc897.txt|.|4
+sale|.|bbc489.txt|.|1|.|bbc475.txt|.|2|.|bbc521.txt|.|7
+police|.|bbc1081.txt|.|5|.|bbc1135.txt|.|9|.|bbc1275.txt|.|3|.|bbc1027.txt|.|10|.|bbc651.txt|.|7
+stage|.|bbc1549.txt|.|1|.|bbc793.txt|.|3
+readers|.|bbc1825.txt|.|3
+x|.|bbc2160.txt|.|2|.|bbc684.txt|.|3
+afghanistan|.|bbc320.txt|.|2
+johnny depp|.|bbc813.txt|.|2
+information|.|bbc475.txt|.|3|.|bbc1275.txt|.|2|.|bbc731.txt|.|5
+presidential elections|.|bbc1825.txt|.|1
+paul|.|bbc1303.txt|.|6
+lightbody said|.|bbc806.txt|.|2
+quarter|.|bbc11.txt|.|3|.|bbc6.txt|.|1|.|bbc118.txt|.|3|.|bbc57.txt|.|3|.|bbc310.txt|.|1|.|bbc1.txt|.|3
+november|.|bbc440.txt|.|3|.|bbc1691.txt|.|2
+flight delays|.|bbc15.txt|.|1
+powered|.|bbc1559.txt|.|1
+murray|.|bbc985.txt|.|6
+boateng|.|bbc1303.txt|.|7
+doping|.|bbc1339.txt|.|2|.|bbc1815.txt|.|3|.|bbc1317.txt|.|2
+southern asia|.|bbc353.txt|.|3
+emergency|.|bbc2139.txt|.|2
+allander|.|bbc994.txt|.|2
+good|.|bbc1451.txt|.|2
+implemented invention|.|bbc1854.txt|.|1
+proposals announced|.|bbc897.txt|.|1
+lvmh|.|bbc418.txt|.|4
+club|.|bbc1524.txt|.|4|.|bbc1573.txt|.|7|.|bbc1484.txt|.|1|.|bbc1474.txt|.|2|.|bbc1432.txt|.|2|.|bbc1411.txt|.|3|.|bbc1751.txt|.|2|.|bbc491.txt|.|6|.|bbc1580.txt|.|3|.|bbc1437.txt|.|5|.|bbc1502.txt|.|1
+serious|.|bbc289.txt|.|2
+national gallery|.|bbc536.txt|.|2
+airlines|.|bbc1926.txt|.|4
+criminally|.|bbc1021.txt|.|2
+sustains|.|bbc2186.txt|.|1
+snow patrol|.|bbc806.txt|.|4
+rome|.|bbc1625.txt|.|2
+mr ebbers|.|bbc465.txt|.|4
+surprise double|.|bbc731.txt|.|2
+parcel|.|bbc1945.txt|.|1
+usher is leading|.|bbc666.txt|.|1
+test|.|bbc1512.txt|.|4
+owen|.|bbc1464.txt|.|5|.|bbc1661.txt|.|4
+williams said|.|bbc547.txt|.|2
+eurovision|.|bbc682.txt|.|4
+swiss cement firm|.|bbc485.txt|.|2
+finally|.|bbc1166.txt|.|4
+walker|.|bbc1344.txt|.|4
+economy started to grow|.|bbc107.txt|.|2
+month|.|bbc1486.txt|.|2|.|bbc1685.txt|.|1|.|bbc161.txt|.|1
+film production|.|bbc813.txt|.|3
+inbev|.|bbc132.txt|.|5
+final|.|bbc1554.txt|.|2|.|bbc1824.txt|.|4|.|bbc1818.txt|.|3
+parking fees|.|bbc461.txt|.|2
+tackle|.|bbc1263.txt|.|3|.|bbc799.txt|.|2
+theft auto|.|bbc2002.txt|.|2
+alfa romeo|.|bbc148.txt|.|4
+petrov|.|bbc1421.txt|.|6
+olympic|.|bbc1388.txt|.|3|.|bbc1366.txt|.|2|.|bbc1382.txt|.|8
+loan|.|bbc477.txt|.|1|.|bbc1486.txt|.|4|.|bbc85.txt|.|1
+heart attack|.|bbc191.txt|.|2
+training|.|bbc1368.txt|.|3|.|bbc1344.txt|.|2
+title|.|bbc1818.txt|.|2|.|bbc1373.txt|.|3|.|bbc1814.txt|.|2
+mci shareholders|.|bbc202.txt|.|2
+miss|.|bbc1666.txt|.|2
+public outrage|.|bbc1175.txt|.|2
+houston|.|bbc1021.txt|.|7
+bnp voters|.|bbc1097.txt|.|2
+hard|.|bbc1260.txt|.|1|.|bbc2160.txt|.|4
+thomas|.|bbc1625.txt|.|5|.|bbc1604.txt|.|5|.|bbc1661.txt|.|4|.|bbc1729.txt|.|5
+chelsea sack|.|bbc1512.txt|.|1
+nuclear|.|bbc1042.txt|.|10
+human|.|bbc1175.txt|.|16|.|bbc1945.txt|.|6|.|bbc936.txt|.|3|.|bbc1027.txt|.|3|.|bbc1264.txt|.|4
+multiplayer|.|bbc2187.txt|.|2
+prince|.|bbc535.txt|.|4|.|bbc2042.txt|.|4
+doubled profits|.|bbc17.txt|.|1
+cartilage|.|bbc1526.txt|.|2
+robinson|.|bbc1264.txt|.|3|.|bbc1649.txt|.|4
+triple jump|.|bbc1325.txt|.|3
+varga|.|bbc1421.txt|.|7
+russian authorities|.|bbc399.txt|.|2|.|bbc391.txt|.|2
+say sorry|.|bbc971.txt|.|3
+prosecutors|.|bbc458.txt|.|4
+dundee university|.|bbc806.txt|.|2
+henry|.|bbc1513.txt|.|4
+tutu|.|bbc1101.txt|.|3
+allegations|.|bbc1128.txt|.|1
+beach|.|bbc634.txt|.|3
+griffin told|.|bbc1097.txt|.|2
+cancer|.|bbc452.txt|.|2|.|bbc309.txt|.|2
+free personal care|.|bbc994.txt|.|3
+spirit awards|.|bbc880.txt|.|2|.|bbc572.txt|.|2
+upcoming|.|bbc1825.txt|.|2
+spokeswoman|.|bbc731.txt|.|2
+pupils|.|bbc1165.txt|.|3
+postcards on sale|.|bbc521.txt|.|1
+voters|.|bbc1097.txt|.|2|.|bbc1256.txt|.|5|.|bbc1310.txt|.|3|.|bbc1245.txt|.|2|.|bbc971.txt|.|3
+budget deficit|.|bbc488.txt|.|4
+uk film|.|bbc861.txt|.|3
+bittorrent|.|bbc2065.txt|.|5
+krispy kreme|.|bbc386.txt|.|6
+middlesbrough|.|bbc1419.txt|.|6|.|bbc1535.txt|.|2
+debt freeze|.|bbc491.txt|.|2
+national statistics|.|bbc57.txt|.|2
+prince of persia|.|bbc2042.txt|.|3
+ring of fire|.|bbc629.txt|.|4
+revealed|.|bbc1287.txt|.|2
+text|.|bbc2196.txt|.|6
+blackburn|.|bbc1427.txt|.|2|.|bbc1526.txt|.|2|.|bbc1502.txt|.|4
+arese plant|.|bbc148.txt|.|1
+aid agencies|.|bbc1921.txt|.|4|.|bbc353.txt|.|1
+went|.|bbc1739.txt|.|2|.|bbc633.txt|.|2|.|bbc1379.txt|.|2
+tackle us|.|bbc799.txt|.|2
+made|.|bbc1052.txt|.|4
+quinn|.|bbc1476.txt|.|2
+film festival|.|bbc557.txt|.|2
+oil production|.|bbc399.txt|.|2
+mobile gaming|.|bbc2009.txt|.|2
+warner|.|bbc1.txt|.|3
+broadcasting|.|bbc728.txt|.|2|.|bbc569.txt|.|2
+reform|.|bbc457.txt|.|3
+coaches|.|bbc1678.txt|.|1
+biggest music buyer|.|bbc831.txt|.|1
+isle of wight|.|bbc828.txt|.|2
+email systems|.|bbc2138.txt|.|4
+schools|.|bbc916.txt|.|3
+child support|.|bbc1052.txt|.|2
+allowing audiences|.|bbc1937.txt|.|1
+powerful indictment|.|bbc1175.txt|.|2
+managers|.|bbc1432.txt|.|2
+women|.|bbc861.txt|.|9|.|bbc1751.txt|.|6
+cheadle|.|bbc557.txt|.|3
+ballet future|.|bbc532.txt|.|1
+pink|.|bbc536.txt|.|1
+preventative step|.|bbc1839.txt|.|2
+woman|.|bbc896.txt|.|5
+croucher|.|bbc1021.txt|.|2
+guantanamo bay|.|bbc1101.txt|.|2
+liberian|.|bbc107.txt|.|5
+stamp|.|bbc1271.txt|.|2
+body is set|.|bbc981.txt|.|1
+mac|.|bbc2160.txt|.|20
+cameras|.|bbc2212.txt|.|7|.|bbc1927.txt|.|7
+postcards|.|bbc521.txt|.|5
+opera browser|.|bbc2134.txt|.|1
+tom|.|bbc1625.txt|.|2|.|bbc1729.txt|.|2
+top|.|bbc722.txt|.|2|.|bbc1824.txt|.|2|.|bbc1682.txt|.|2|.|bbc563.txt|.|2|.|bbc570.txt|.|1|.|bbc1736.txt|.|3|.|bbc37.txt|.|3|.|bbc654.txt|.|4|.|bbc385.txt|.|2
+joshua|.|bbc530.txt|.|3
+legally|.|bbc359.txt|.|2
+crime|.|bbc1903.txt|.|1
+man|.|bbc565.txt|.|2|.|bbc568.txt|.|2
+stand|.|bbc1148.txt|.|5|.|bbc1132.txt|.|2
+american life project|.|bbc2151.txt|.|2
+toy|.|bbc654.txt|.|3
+knows|.|bbc1411.txt|.|3
+mayor of london|.|bbc1128.txt|.|1
+gaming|.|bbc2009.txt|.|5|.|bbc1958.txt|.|3|.|bbc2187.txt|.|6|.|bbc1849.txt|.|3
+product|.|bbc117.txt|.|1
+drugs|.|bbc1512.txt|.|10|.|bbc1336.txt|.|3|.|bbc1339.txt|.|4|.|bbc1362.txt|.|4|.|bbc1317.txt|.|2
+advocates|.|bbc1903.txt|.|2
+spirit|.|bbc880.txt|.|2|.|bbc1535.txt|.|2|.|bbc572.txt|.|2
+intellectual|.|bbc342.txt|.|2
+picture|.|bbc2032.txt|.|8
+itunes|.|bbc670.txt|.|3|.|bbc2108.txt|.|7
+ask jeeves|.|bbc11.txt|.|4
+industries|.|bbc1829.txt|.|4|.|bbc831.txt|.|1|.|bbc704.txt|.|3
+documentary showed|.|bbc1188.txt|.|2
+mallon|.|bbc1096.txt|.|6
+rose|.|bbc132.txt|.|2
+websites|.|bbc1926.txt|.|4
+inhibitors|.|bbc191.txt|.|4
+fees|.|bbc1109.txt|.|6|.|bbc461.txt|.|4
+opera|.|bbc2134.txt|.|8
+use|.|bbc2155.txt|.|4|.|bbc1898.txt|.|7
+iressa|.|bbc309.txt|.|3
+celebrity big brother|.|bbc713.txt|.|1
+edward|.|bbc868.txt|.|3|.|bbc1199.txt|.|9
+feel|.|bbc1485.txt|.|1
+casino|.|bbc906.txt|.|1
+main|.|bbc233.txt|.|2
+mortgages approved|.|bbc85.txt|.|1
+hilary|.|bbc878.txt|.|12
+mci|.|bbc202.txt|.|10|.|bbc251.txt|.|12|.|bbc162.txt|.|6
+biggest|.|bbc399.txt|.|2|.|bbc831.txt|.|2
+security firm|.|bbc2186.txt|.|4|.|bbc1903.txt|.|2
+continuous|.|bbc728.txt|.|1
+raise|.|bbc621.txt|.|2|.|bbc233.txt|.|1
+major risks|.|bbc289.txt|.|2
+aguas argentinas|.|bbc501.txt|.|9
+biometric|.|bbc2003.txt|.|3
+traffic|.|bbc2138.txt|.|3|.|bbc461.txt|.|2
+las|.|bbc1029.txt|.|2
+waste|.|bbc1042.txt|.|9
+herron|.|bbc1096.txt|.|3
+law|.|bbc1854.txt|.|3|.|bbc936.txt|.|9|.|bbc2166.txt|.|5|.|bbc813.txt|.|2|.|bbc1838.txt|.|5|.|bbc1264.txt|.|7
+kyrgyz republic|.|bbc1825.txt|.|2
+mr johnson|.|bbc971.txt|.|5
+comedy|.|bbc722.txt|.|2|.|bbc610.txt|.|3
+suspects|.|bbc1135.txt|.|3|.|bbc936.txt|.|3
+cheating|.|bbc1573.txt|.|2
+christmas|.|bbc317.txt|.|6|.|bbc646.txt|.|14|.|bbc1832.txt|.|5
+pilkington|.|bbc1527.txt|.|2
+overbooking flights|.|bbc15.txt|.|1
+music buyer|.|bbc831.txt|.|1
+inventions|.|bbc1854.txt|.|4|.|bbc2166.txt|.|2
+older children|.|bbc897.txt|.|2
+ebay|.|bbc1921.txt|.|3
+equal prize money|.|bbc1751.txt|.|3
+hotel rwanda|.|bbc557.txt|.|4
+scorsese|.|bbc878.txt|.|10
+constitution|.|bbc1287.txt|.|3
+pountney|.|bbc1632.txt|.|6
+superhero|.|bbc896.txt|.|2
+paul boateng|.|bbc1303.txt|.|2
+clint eastwood|.|bbc878.txt|.|7
+roxy|.|bbc828.txt|.|4
+levy|.|bbc517.txt|.|2
+voting instincts|.|bbc1097.txt|.|2
+laura|.|bbc393.txt|.|7
+times|.|bbc722.txt|.|3|.|bbc1017.txt|.|3
+personal websites|.|bbc1926.txt|.|3
+stations to refuse|.|bbc676.txt|.|1
+men|.|bbc2127.txt|.|4|.|bbc1150.txt|.|7
+mep|.|bbc1188.txt|.|5
+two screens|.|bbc2009.txt|.|2
+germaine|.|bbc713.txt|.|2
+video phones|.|bbc2006.txt|.|3
+exhibition|.|bbc530.txt|.|2
+ageing|.|bbc287.txt|.|2
+comments|.|bbc1571.txt|.|3
+mortgage lending|.|bbc194.txt|.|4
+box office|.|bbc563.txt|.|6|.|bbc575.txt|.|2|.|bbc570.txt|.|2|.|bbc610.txt|.|4|.|bbc582.txt|.|4
+fourth quarter|.|bbc118.txt|.|2|.|bbc1.txt|.|3
+questioned|.|bbc1165.txt|.|2
+illva|.|bbc39.txt|.|4
+probe|.|bbc1128.txt|.|2
+saliva|.|bbc233.txt|.|2
+industrial|.|bbc156.txt|.|3|.|bbc453.txt|.|3
+eurozone|.|bbc457.txt|.|2
+threat|.|bbc938.txt|.|2|.|bbc2108.txt|.|2
+privacy advocates|.|bbc1903.txt|.|2
+sport|.|bbc1339.txt|.|2|.|bbc1521.txt|.|2|.|bbc1317.txt|.|2
+invention|.|bbc1854.txt|.|1
+duo|.|bbc722.txt|.|2
+government claimed|.|bbc10.txt|.|1
+japan|.|bbc597.txt|.|1|.|bbc156.txt|.|2|.|bbc287.txt|.|11|.|bbc37.txt|.|3|.|bbc1849.txt|.|2|.|bbc283.txt|.|3|.|bbc2062.txt|.|3
+complaint filing|.|bbc475.txt|.|1
+concert|.|bbc621.txt|.|4
+led|.|bbc1697.txt|.|2|.|bbc425.txt|.|2|.|bbc704.txt|.|4
+ntpc|.|bbc276.txt|.|5
+lee|.|bbc553.txt|.|3
+supply|.|bbc77.txt|.|2
+concern|.|bbc916.txt|.|3
+bank|.|bbc23.txt|.|2|.|bbc438.txt|.|6|.|bbc477.txt|.|7|.|bbc330.txt|.|3|.|bbc76.txt|.|5|.|bbc85.txt|.|2|.|bbc187.txt|.|7
+dvd|.|bbc2048.txt|.|6|.|bbc1979.txt|.|8
+jerzy|.|bbc1572.txt|.|2
+pact|.|bbc457.txt|.|6
+hackers|.|bbc2108.txt|.|1
+reassure|.|bbc971.txt|.|2
+prettejohn|.|bbc232.txt|.|3
+state|.|bbc501.txt|.|7|.|bbc781.txt|.|3
+band|.|bbc806.txt|.|6|.|bbc670.txt|.|4|.|bbc648.txt|.|2|.|bbc615.txt|.|7|.|bbc746.txt|.|8|.|bbc745.txt|.|7
+melbourne|.|bbc1780.txt|.|2
+wonder woman|.|bbc896.txt|.|5
+released|.|bbc2014.txt|.|3|.|bbc831.txt|.|2|.|bbc1932.txt|.|2|.|bbc1199.txt|.|2|.|bbc667.txt|.|1
+severe energy crisis|.|bbc80.txt|.|2
+night|.|bbc1549.txt|.|3|.|bbc569.txt|.|2|.|bbc692.txt|.|3
+ballet|.|bbc532.txt|.|18
+received|.|bbc985.txt|.|2|.|bbc1504.txt|.|2
+arese|.|bbc148.txt|.|3
+athens|.|bbc1351.txt|.|5|.|bbc1388.txt|.|2|.|bbc1343.txt|.|7
+labels|.|bbc776.txt|.|2
+art and other leading|.|bbc521.txt|.|1
+boost|.|bbc259.txt|.|2|.|bbc1271.txt|.|2|.|bbc1096.txt|.|3|.|bbc2155.txt|.|2|.|bbc1.txt|.|1
+hodges|.|bbc1674.txt|.|5
+schroeder said|.|bbc457.txt|.|1
+courtney|.|bbc768.txt|.|2
+ministry|.|bbc133.txt|.|2
+crossover|.|bbc141.txt|.|5
+muslim|.|bbc1081.txt|.|3
+worlds|.|bbc1937.txt|.|1|.|bbc1376.txt|.|2
+warrior|.|bbc2042.txt|.|3|.|bbc810.txt|.|2
+entertainment|.|bbc422.txt|.|3|.|bbc2187.txt|.|3|.|bbc1991.txt|.|2
+dominates|.|bbc880.txt|.|1
+association|.|bbc1295.txt|.|5|.|bbc317.txt|.|2|.|bbc1521.txt|.|2
+scam|.|bbc2139.txt|.|2
+mtv show|.|bbc716.txt|.|1
+industry|.|bbc1924.txt|.|5|.|bbc781.txt|.|9|.|bbc861.txt|.|8|.|bbc2065.txt|.|4
+believe|.|bbc906.txt|.|1
+networks|.|bbc2127.txt|.|2
+two|.|bbc1572.txt|.|2|.|bbc379.txt|.|2|.|bbc2127.txt|.|3|.|bbc2009.txt|.|4|.|bbc1150.txt|.|4|.|bbc478.txt|.|3|.|bbc1317.txt|.|2
+us shops|.|bbc2187.txt|.|1
+carib|.|bbc547.txt|.|4
+long|.|bbc1321.txt|.|2|.|bbc162.txt|.|1
+moment|.|bbc1937.txt|.|2
+fell|.|bbc813.txt|.|2
+tsunami|.|bbc2139.txt|.|6|.|bbc692.txt|.|6
+greer said|.|bbc713.txt|.|2
+greece|.|bbc135.txt|.|8
+attack|.|bbc1212.txt|.|4|.|bbc1947.txt|.|5|.|bbc191.txt|.|2
+hingis|.|bbc1767.txt|.|3
+osbourne|.|bbc716.txt|.|4|.|bbc651.txt|.|4
+reported|.|bbc1021.txt|.|2|.|bbc310.txt|.|3
+lomu|.|bbc1679.txt|.|6
+operating profits|.|bbc117.txt|.|2
+tottenham|.|bbc1504.txt|.|2
+nitoglia|.|bbc1615.txt|.|3
+workers|.|bbc938.txt|.|6
+benitez said|.|bbc1549.txt|.|2
+hard drive|.|bbc2160.txt|.|2
+companies face|.|bbc704.txt|.|1
+annual investment|.|bbc501.txt|.|2
+said rusedski|.|bbc1774.txt|.|1
+accused|.|bbc133.txt|.|2
+tsutsumi|.|bbc37.txt|.|4
+palestinian economy|.|bbc76.txt|.|2
+team|.|bbc1379.txt|.|7|.|bbc1456.txt|.|3|.|bbc1964.txt|.|2|.|bbc1649.txt|.|4
+slam titles|.|bbc1803.txt|.|1
+appeal|.|bbc1339.txt|.|2|.|bbc1097.txt|.|1
+gordon|.|bbc1255.txt|.|2|.|bbc459.txt|.|2|.|bbc1150.txt|.|3|.|bbc1245.txt|.|6|.|bbc1106.txt|.|2|.|bbc1148.txt|.|2|.|bbc1170.txt|.|2
+releases|.|bbc1884.txt|.|2
+diary|.|bbc565.txt|.|1
+watch|.|bbc2189.txt|.|6|.|bbc2202.txt|.|2
+speech|.|bbc1246.txt|.|4|.|bbc1926.txt|.|2
+swank|.|bbc579.txt|.|7|.|bbc878.txt|.|14
+detained|.|bbc1101.txt|.|5
+stamp duty|.|bbc1271.txt|.|2
+cabinet|.|bbc938.txt|.|2|.|bbc1132.txt|.|2
+redmond|.|bbc721.txt|.|2
+experts|.|bbc986.txt|.|2
+open|.|bbc1739.txt|.|2|.|bbc1780.txt|.|2|.|bbc1803.txt|.|6|.|bbc1809.txt|.|4|.|bbc1791.txt|.|5
+demand for such crossover vehicles|.|bbc141.txt|.|1
+insurance|.|bbc353.txt|.|1|.|bbc232.txt|.|5|.|bbc333.txt|.|4|.|bbc918.txt|.|3
+stringer|.|bbc1615.txt|.|3
+lib|.|bbc1109.txt|.|9|.|bbc1235.txt|.|8|.|bbc1165.txt|.|2|.|bbc1294.txt|.|3|.|bbc1299.txt|.|3|.|bbc1042.txt|.|2|.|bbc981.txt|.|2
+wall street|.|bbc386.txt|.|2
+forced|.|bbc1368.txt|.|2
+numbers|.|bbc536.txt|.|4
+project|.|bbc2151.txt|.|2|.|bbc2205.txt|.|5
+seven|.|bbc1674.txt|.|2
+revolutionary court|.|bbc1859.txt|.|2
+ljungberg|.|bbc1476.txt|.|6
+mr hague|.|bbc979.txt|.|7
+australian open|.|bbc1780.txt|.|2|.|bbc1803.txt|.|3|.|bbc1809.txt|.|3|.|bbc1791.txt|.|2
+seafarers|.|bbc2003.txt|.|8
+moving castle|.|bbc597.txt|.|4
+homes|.|bbc1081.txt|.|2
+tobacco|.|bbc10.txt|.|7
+california|.|bbc390.txt|.|6
+allander institute|.|bbc994.txt|.|2
+stability|.|bbc457.txt|.|2
+surprise|.|bbc731.txt|.|2
+said nortel|.|bbc425.txt|.|1
+ultimate|.|bbc646.txt|.|2
+saronno|.|bbc39.txt|.|2
+athletes|.|bbc1317.txt|.|3
+trojan|.|bbc1860.txt|.|3
+media giant|.|bbc475.txt|.|2
+privileged|.|bbc475.txt|.|2
+supplements|.|bbc1774.txt|.|3
+creator of buffy|.|bbc896.txt|.|1
+fortnight|.|bbc1485.txt|.|1
+private sector|.|bbc57.txt|.|2
+dominated|.|bbc880.txt|.|1
+oil deal|.|bbc80.txt|.|1
+roberts|.|bbc812.txt|.|3
+forces|.|bbc1317.txt|.|2
+shops|.|bbc2187.txt|.|2
+regulator|.|bbc333.txt|.|1
+proposals|.|bbc897.txt|.|3|.|bbc229.txt|.|2|.|bbc1437.txt|.|2
+reassure jewish|.|bbc971.txt|.|2
+internet|.|bbc2218.txt|.|3|.|bbc2151.txt|.|2|.|bbc1845.txt|.|3
+full|.|bbc474.txt|.|2|.|bbc1649.txt|.|1
+unilever|.|bbc302.txt|.|4
+referendum|.|bbc1287.txt|.|4
+alan alda|.|bbc553.txt|.|2
+allow|.|bbc906.txt|.|2
+detailed proposals|.|bbc229.txt|.|1
+idlewild|.|bbc828.txt|.|2
+cards|.|bbc2003.txt|.|6|.|bbc1123.txt|.|9|.|bbc977.txt|.|7
+lord|.|bbc923.txt|.|13|.|bbc1192.txt|.|7
+polls|.|bbc1166.txt|.|2|.|bbc1310.txt|.|1|.|bbc1294.txt|.|1
+beijing|.|bbc342.txt|.|2|.|bbc461.txt|.|3
+comedy meet|.|bbc610.txt|.|2
+water firm|.|bbc501.txt|.|2
+bitter|.|bbc1501.txt|.|2
+riggs bank|.|bbc187.txt|.|2
+apple|.|bbc2160.txt|.|5
+interest|.|bbc438.txt|.|5|.|bbc436.txt|.|2|.|bbc402.txt|.|3|.|bbc240.txt|.|3
+assembly government|.|bbc935.txt|.|6
+role playing games|.|bbc2225.txt|.|3
+car maker|.|bbc149.txt|.|2
+patrol|.|bbc806.txt|.|4
+winning|.|bbc1351.txt|.|2|.|bbc1386.txt|.|1|.|bbc880.txt|.|1|.|bbc1803.txt|.|4|.|bbc572.txt|.|1
+car market|.|bbc141.txt|.|1|.|bbc149.txt|.|2
+libraries|.|bbc2060.txt|.|6
+purchase|.|bbc77.txt|.|2
+mary|.|bbc517.txt|.|2|.|bbc785.txt|.|7
+lionhead|.|bbc1924.txt|.|3
+titles|.|bbc1880.txt|.|3|.|bbc1803.txt|.|1|.|bbc1994.txt|.|6
+pair|.|bbc1336.txt|.|3
+wrote ring|.|bbc629.txt|.|2
+equal|.|bbc252.txt|.|2|.|bbc1751.txt|.|3
+mcilroy|.|bbc1373.txt|.|4
+money|.|bbc1081.txt|.|2|.|bbc458.txt|.|4|.|bbc621.txt|.|3|.|bbc249.txt|.|3|.|bbc1751.txt|.|5|.|bbc692.txt|.|4
+fund|.|bbc187.txt|.|2
+paid|.|bbc985.txt|.|3
+little britain|.|bbc722.txt|.|4
+formula|.|bbc646.txt|.|4
+commonwealth|.|bbc1321.txt|.|2
+step|.|bbc1839.txt|.|2
+fox entertainment group|.|bbc422.txt|.|2
+tribute|.|bbc553.txt|.|2
+ireland|.|bbc1652.txt|.|3|.|bbc1615.txt|.|9|.|bbc1665.txt|.|5|.|bbc1716.txt|.|5|.|bbc1343.txt|.|1
+stem|.|bbc982.txt|.|6
+parking|.|bbc461.txt|.|6
+computer code|.|bbc1873.txt|.|1
+khan said|.|bbc1175.txt|.|4
+book chart|.|bbc535.txt|.|2
+espn|.|bbc1880.txt|.|12
+claimed|.|bbc10.txt|.|1
+us budget|.|bbc488.txt|.|2
+last year|.|bbc80.txt|.|2|.|bbc726.txt|.|2|.|bbc1665.txt|.|3|.|bbc425.txt|.|2|.|bbc813.txt|.|3|.|bbc310.txt|.|1|.|bbc689.txt|.|2|.|bbc85.txt|.|2
+revolution|.|bbc2160.txt|.|3|.|bbc2119.txt|.|4|.|bbc2052.txt|.|4
+england and wales|.|bbc1135.txt|.|2
+us interest rates|.|bbc402.txt|.|1
+two task forces|.|bbc1317.txt|.|2
+movies|.|bbc842.txt|.|1|.|bbc813.txt|.|1
+handheld computer|.|bbc2205.txt|.|1
+caribbean|.|bbc547.txt|.|3
+small island|.|bbc517.txt|.|2
+telephone calls|.|bbc1960.txt|.|2
+regent street|.|bbc317.txt|.|2
+lost|.|bbc458.txt|.|2
+golden|.|bbc602.txt|.|3|.|bbc195.txt|.|4
+season|.|bbc1685.txt|.|4|.|bbc1489.txt|.|2|.|bbc1382.txt|.|3
+rate rises|.|bbc240.txt|.|2
+workforce|.|bbc287.txt|.|3|.|bbc861.txt|.|6
+gallery|.|bbc536.txt|.|6
+eu reform|.|bbc457.txt|.|1
+transition government|.|bbc107.txt|.|2
+attempts|.|bbc1860.txt|.|2
+eyeing|.|bbc254.txt|.|1
+worm|.|bbc2081.txt|.|5
+companion robot|.|bbc1945.txt|.|2
+players|.|bbc2087.txt|.|3|.|bbc1592.txt|.|1|.|bbc1682.txt|.|2|.|bbc2151.txt|.|12|.|bbc1785.txt|.|1|.|bbc1432.txt|.|5|.|bbc1964.txt|.|8|.|bbc1994.txt|.|3|.|bbc1580.txt|.|5
+work|.|bbc1344.txt|.|1|.|bbc1824.txt|.|2
+lomax|.|bbc57.txt|.|7
+goodman|.|bbc674.txt|.|2
+football association|.|bbc1521.txt|.|2
+creative|.|bbc1829.txt|.|12
+coast|.|bbc1025.txt|.|4
+new seafarers|.|bbc2003.txt|.|1
+appointing tommy|.|bbc1521.txt|.|1
+lost money|.|bbc458.txt|.|2
+delays|.|bbc15.txt|.|1
+illva saronno|.|bbc39.txt|.|2
+love|.|bbc768.txt|.|7
+advisory panel|.|bbc191.txt|.|2
+clint|.|bbc878.txt|.|7
+feta|.|bbc135.txt|.|13
+jackie stallone|.|bbc713.txt|.|2
+evening chronicle|.|bbc1573.txt|.|2
+fulham|.|bbc1568.txt|.|2
+cameroon|.|bbc133.txt|.|3
+osbournes|.|bbc716.txt|.|6
+consume|.|bbc2208.txt|.|2
+croucher said|.|bbc1021.txt|.|2
+mr clarke|.|bbc1116.txt|.|2|.|bbc1123.txt|.|4
+coming year|.|bbc1994.txt|.|2
+lot|.|bbc1351.txt|.|3|.|bbc1824.txt|.|3
+gun sales|.|bbc390.txt|.|3
+computer|.|bbc1854.txt|.|3|.|bbc2205.txt|.|3|.|bbc1924.txt|.|4|.|bbc1873.txt|.|2
+wholesale|.|bbc252.txt|.|4
+ferrero|.|bbc1736.txt|.|8
+mortgage|.|bbc194.txt|.|6
+andreas|.|bbc2002.txt|.|5
+low|.|bbc85.txt|.|2
+identity|.|bbc2003.txt|.|2|.|bbc1123.txt|.|3
+indoors|.|bbc1368.txt|.|1|.|bbc1325.txt|.|1|.|bbc1386.txt|.|1
+jackie|.|bbc713.txt|.|2
+executives in japan|.|bbc37.txt|.|2
+europe|.|bbc262.txt|.|2|.|bbc141.txt|.|2|.|bbc1473.txt|.|2|.|bbc1849.txt|.|3
+academy|.|bbc569.txt|.|4
+fuss|.|bbc905.txt|.|4
+tom shanklin|.|bbc1625.txt|.|2|.|bbc1729.txt|.|2
+ultraviolet readers|.|bbc1825.txt|.|2
+aged|.|bbc452.txt|.|2
+centre|.|bbc317.txt|.|6|.|bbc1646.txt|.|2
+fully with prosecutors|.|bbc458.txt|.|2
+great excitement by apple|.|bbc2160.txt|.|1
+said lending|.|bbc194.txt|.|3
+property rights|.|bbc342.txt|.|2
+fetch|.|bbc674.txt|.|2
+allow westminster|.|bbc906.txt|.|1
+svanberg|.|bbc118.txt|.|2
+bussell|.|bbc532.txt|.|2
+cockbain|.|bbc1729.txt|.|3
+engerwitzdorf|.|bbc2189.txt|.|3
+last three months|.|bbc503.txt|.|2
+day|.|bbc1632.txt|.|1|.|bbc1859.txt|.|6|.|bbc1679.txt|.|2|.|bbc565.txt|.|1|.|bbc2205.txt|.|2|.|bbc634.txt|.|2|.|bbc610.txt|.|4|.|bbc1486.txt|.|3|.|bbc868.txt|.|2
+raising|.|bbc1081.txt|.|2|.|bbc670.txt|.|1
+equal access|.|bbc252.txt|.|2
+island|.|bbc517.txt|.|2
+format|.|bbc2048.txt|.|6|.|bbc1979.txt|.|6
+water|.|bbc501.txt|.|9
+fox entertainment|.|bbc422.txt|.|3
+history boys|.|bbc785.txt|.|5
+lse|.|bbc279.txt|.|8|.|bbc220.txt|.|8|.|bbc264.txt|.|9
+tens|.|bbc2219.txt|.|1
+next election|.|bbc1150.txt|.|3|.|bbc1299.txt|.|4
+critical|.|bbc1884.txt|.|6
+long distance|.|bbc162.txt|.|1
+part|.|bbc1332.txt|.|2|.|bbc1964.txt|.|2
+guarded|.|bbc1128.txt|.|1
+camera phones|.|bbc2212.txt|.|9|.|bbc2032.txt|.|3|.|bbc1927.txt|.|9
+upcoming parliamentary|.|bbc1825.txt|.|2
+browser|.|bbc2134.txt|.|6
+victor conte|.|bbc1362.txt|.|2
+elvis|.|bbc654.txt|.|2
+bond sale|.|bbc475.txt|.|2
+park|.|bbc793.txt|.|5
+sir john was made|.|bbc1052.txt|.|1
+tonge|.|bbc1476.txt|.|4
+corry|.|bbc1649.txt|.|6
+concentration|.|bbc1050.txt|.|3
+economics|.|bbc491.txt|.|2
+film council|.|bbc861.txt|.|2
+big brother|.|bbc713.txt|.|5|.|bbc726.txt|.|2|.|bbc689.txt|.|2|.|bbc731.txt|.|5
+mr nattrass|.|bbc1188.txt|.|2
+earn|.|bbc861.txt|.|3
+wireless|.|bbc1931.txt|.|4|.|bbc2205.txt|.|1
+shares in krispy|.|bbc386.txt|.|2
+liberty said
+liberty
+blues

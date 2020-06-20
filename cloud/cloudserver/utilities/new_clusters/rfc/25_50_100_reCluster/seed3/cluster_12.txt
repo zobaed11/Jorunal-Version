@@ -1,0 +1,82 @@
+12
+active measurement|.|rfc5938.txt|.|8
+myers|.|rfc2244.txt|.|76|.|rfc5273.txt|.|10
+metadata|.|rfc2244.txt|.|44|.|rfc4078.txt|.|11
+idle command|.|rfc2177.txt|.|16
+putscript|.|rfc5804.txt|.|14
+user process|.|rfc607.txt|.|8|.|rfc151.txt|.|3
+romascanu|.|rfc5719.txt|.|7
+contexts|.|rfc5267.txt|.|22
+addto and removefrom|.|rfc5267.txt|.|6
+receiving ncp|.|rfc467.txt|.|6
+accessing|.|rfc535.txt|.|2
+implicit login|.|rfc491.txt|.|3
+file access protocol|.|rfc535.txt|.|5
+setacl command|.|rfc2244.txt|.|5
+verbs|.|rfc607.txt|.|3
+response code|.|rfc5804.txt|.|85|.|rfc6230.txt|.|37|.|rfc2244.txt|.|50
+pasv|.|rfc607.txt|.|2
+nokia|.|rfc5719.txt|.|2
+command verbs|.|rfc607.txt|.|3
+uid search|.|rfc5182.txt|.|7
+memo describes|.|rfc5938.txt|.|4
+last|.|rfc5182.txt|.|15
+individual|.|rfc5938.txt|.|30
+watson research center|.|rfc3431.txt|.|3|.|rfc2177.txt|.|2
+last search|.|rfc5182.txt|.|13
+nokia siemens networks|.|rfc5719.txt|.|2
+reply code|.|rfc607.txt|.|8
+checkscript|.|rfc5804.txt|.|9
+search command|.|rfc5182.txt|.|21|.|rfc2244.txt|.|28|.|rfc5267.txt|.|10
+new mail|.|rfc2177.txt|.|4
+defining new|.|rfc5719.txt|.|4
+removefrom|.|rfc5267.txt|.|16
+test sessions|.|rfc5938.txt|.|15
+convert command|.|rfc5259.txt|.|13
+message allocation|.|rfc467.txt|.|12
+comments on file|.|rfc535.txt|.|4
+burchfiel|.|rfc467.txt|.|7
+connection is closed|.|rfc467.txt|.|3
+remotely|.|rfc535.txt|.|3
+replacement|.|rfc5259.txt|.|1
+update contexts|.|rfc5267.txt|.|5
+diameter commands|.|rfc5719.txt|.|6
+chiba|.|rfc5938.txt|.|19
+implicit|.|rfc491.txt|.|3
+search result|.|rfc5182.txt|.|30
+extended sort|.|rfc5267.txt|.|12
+newman|.|rfc2244.txt|.|76|.|rfc2647.txt|.|28|.|rfc384.txt|.|12
+rcs command|.|rfc467.txt|.|5
+dataset class|.|rfc2244.txt|.|23
+measurement|.|rfc5938.txt|.|10
+noop|.|rfc5804.txt|.|13
+search|.|rfc5182.txt|.|116|.|rfc2244.txt|.|105|.|rfc5267.txt|.|64
+found|.|rfc5182.txt|.|8
+individual session control|.|rfc5938.txt|.|23
+new diameter|.|rfc5719.txt|.|8
+individual session|.|rfc5938.txt|.|25
+script name|.|rfc5804.txt|.|22
+data connection|.|rfc607.txt|.|4
+user command|.|rfc491.txt|.|3
+last search result|.|rfc5182.txt|.|13
+remotely accessing|.|rfc535.txt|.|2
+melnikov|.|rfc5182.txt|.|17|.|rfc5804.txt|.|79
+diameter application|.|rfc5719.txt|.|4
+comments on file access|.|rfc535.txt|.|4
+deletescript|.|rfc5804.txt|.|10
+setacl|.|rfc2244.txt|.|13
+file access|.|rfc535.txt|.|8
+defining|.|rfc5719.txt|.|4
+command|.|rfc5182.txt|.|50|.|rfc5259.txt|.|38|.|rfc491.txt|.|5|.|rfc506.txt|.|2|.|rfc2244.txt|.|252|.|rfc2177.txt|.|23|.|rfc5267.txt|.|43|.|rfc5719.txt|.|27|.|rfc5804.txt|.|128|.|rfc607.txt|.|18|.|rfc535.txt|.|11|.|rfc467.txt|.|23|.|rfc5938.txt|.|54
+describes|.|rfc4358.txt|.|1|.|rfc5938.txt|.|5|.|rfc3924.txt|.|7
+conversion parameters|.|rfc5259.txt|.|21
+removefrom return data|.|rfc5267.txt|.|6
+code is returned|.|rfc5804.txt|.|12
+ibm|.|rfc3431.txt|.|3|.|rfc2177.txt|.|2
+siemens|.|rfc5719.txt|.|2
+session control|.|rfc5938.txt|.|39
+closed|.|rfc467.txt|.|7
+sessions command|.|rfc5938.txt|.|2
+returned|.|rfc5804.txt|.|53
+found messages|.|rfc5182.txt|.|4
+context july|.|rfc5267.txt|.|17

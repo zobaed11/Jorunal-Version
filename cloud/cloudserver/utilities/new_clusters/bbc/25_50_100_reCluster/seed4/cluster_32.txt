@@ -1,0 +1,37 @@
+32
+united bank|.|bbc473.txt|.|4
+detailed proposals|.|bbc229.txt|.|1
+manchester united|.|bbc1409.txt|.|2|.|bbc179.txt|.|2|.|bbc229.txt|.|3|.|bbc1437.txt|.|2
+united|.|bbc1409.txt|.|4|.|bbc1511.txt|.|3|.|bbc473.txt|.|4|.|bbc179.txt|.|2|.|bbc1411.txt|.|3|.|bbc1501.txt|.|4|.|bbc1568.txt|.|3|.|bbc229.txt|.|8|.|bbc1437.txt|.|3
+fulham|.|bbc1568.txt|.|2
+bitter and personal|.|bbc1501.txt|.|2
+nigerian|.|bbc473.txt|.|3
+bitter|.|bbc1501.txt|.|2
+encounters|.|bbc1501.txt|.|1
+gap|.|bbc1568.txt|.|2
+derby|.|bbc1511.txt|.|1
+tycoon|.|bbc229.txt|.|2
+knows|.|bbc1411.txt|.|3
+van nistelrooy|.|bbc1409.txt|.|4
+van|.|bbc1409.txt|.|5
+said ferdinand|.|bbc1437.txt|.|1
+new contract|.|bbc1411.txt|.|2
+nigerian banks|.|bbc473.txt|.|2
+old|.|bbc849.txt|.|1|.|bbc1501.txt|.|1
+glazer|.|bbc229.txt|.|8|.|bbc1437.txt|.|7
+us tycoon|.|bbc229.txt|.|2
+manchester|.|bbc1409.txt|.|3|.|bbc900.txt|.|5|.|bbc1226.txt|.|5|.|bbc179.txt|.|2|.|bbc229.txt|.|3|.|bbc1437.txt|.|2
+standard trust|.|bbc473.txt|.|5
+confirm|.|bbc1437.txt|.|1
+nistelrooy|.|bbc1409.txt|.|4
+gunners|.|bbc1501.txt|.|2
+detailed|.|bbc229.txt|.|2
+mr glazer|.|bbc229.txt|.|6
+failure|.|bbc1568.txt|.|2|.|bbc309.txt|.|2
+biggest bank|.|bbc473.txt|.|1
+play in games like|.|bbc1511.txt|.|1
+fantastic|.|bbc1568.txt|.|2
+proposals|.|bbc897.txt|.|3|.|bbc229.txt|.|2|.|bbc1437.txt|.|2
+standard trust bank|.|bbc473.txt|.|1
+tunnel|.|bbc1511.txt|.|2
+arsenal|.|bbc1524.txt|.|2|.|bbc1559.txt|.|11|.|bbc1511.txt|.|1|.|bbc1507.txt|.|2|.|bbc1501.txt|.|2|.|bbc1568.txt|.|2|.|bbc1476.txt|.|12

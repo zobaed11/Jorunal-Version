@@ -1,0 +1,59 @@
+25
+otis ferry|.|bbc962.txt|.|2
+top judge|.|bbc1107.txt|.|2
+salary|.|bbc938.txt|.|3
+public library|.|bbc2060.txt|.|2
+ban on hunting|.|bbc962.txt|.|2
+amnesty|.|bbc1175.txt|.|5
+woolf|.|bbc1107.txt|.|7
+pages|.|bbc2060.txt|.|2
+scanned|.|bbc2060.txt|.|3
+lord chancellor|.|bbc1107.txt|.|6
+public service|.|bbc938.txt|.|3
+pension|.|bbc949.txt|.|2|.|bbc938.txt|.|10
+public service workers|.|bbc938.txt|.|2
+millions of public|.|bbc938.txt|.|2
+clashed|.|bbc1107.txt|.|1
+omai|.|bbc530.txt|.|2
+inquiries|.|bbc1107.txt|.|3
+clashed with ministers|.|bbc1107.txt|.|1
+pension scheme|.|bbc938.txt|.|4
+millions|.|bbc938.txt|.|2
+ms khan|.|bbc1175.txt|.|5
+woolf said|.|bbc1107.txt|.|4
+scheme|.|bbc938.txt|.|4|.|bbc919.txt|.|2
+service workers|.|bbc938.txt|.|2
+scan|.|bbc2060.txt|.|2
+cabinet office|.|bbc938.txt|.|2
+portrait of omai|.|bbc530.txt|.|2
+order act|.|bbc962.txt|.|2
+library|.|bbc2060.txt|.|5
+public|.|bbc962.txt|.|2|.|bbc530.txt|.|2|.|bbc618.txt|.|2|.|bbc1175.txt|.|3|.|bbc1166.txt|.|2|.|bbc1018.txt|.|3|.|bbc1310.txt|.|3|.|bbc938.txt|.|7|.|bbc2060.txt|.|4|.|bbc1240.txt|.|3|.|bbc1107.txt|.|4|.|bbc240.txt|.|2
+inquiry|.|bbc1107.txt|.|8
+york public|.|bbc2060.txt|.|2
+bdo stoy|.|bbc240.txt|.|2
+public order|.|bbc962.txt|.|2
+workers|.|bbc938.txt|.|6
+lord woolf|.|bbc1107.txt|.|7
+exhibition|.|bbc530.txt|.|2
+joshua reynolds|.|bbc530.txt|.|2
+heading|.|bbc1107.txt|.|1|.|bbc1263.txt|.|2
+michigan|.|bbc2060.txt|.|3
+chair|.|bbc1107.txt|.|2
+libraries|.|bbc2060.txt|.|6
+bdo|.|bbc240.txt|.|4
+scanned pages|.|bbc2060.txt|.|1
+hayward|.|bbc240.txt|.|2
+century|.|bbc530.txt|.|2
+google to scan|.|bbc2060.txt|.|2
+york|.|bbc2060.txt|.|3|.|bbc465.txt|.|2
+public inquiries|.|bbc1107.txt|.|2
+chair an inquiry|.|bbc1107.txt|.|1
+sir joshua|.|bbc530.txt|.|2
+threat|.|bbc938.txt|.|2|.|bbc2108.txt|.|2
+otis|.|bbc962.txt|.|2
+house of commons chamber|.|bbc962.txt|.|2
+cabinet|.|bbc938.txt|.|2|.|bbc1132.txt|.|2
+movement|.|bbc1175.txt|.|5
+commons chamber|.|bbc962.txt|.|2
+coming|.|bbc1018.txt|.|3|.|bbc1994.txt|.|2

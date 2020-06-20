@@ -1,0 +1,39 @@
+30
+golden rule|.|bbc195.txt|.|4
+projects|.|bbc195.txt|.|1|.|bbc1991.txt|.|1
+administration|.|bbc245.txt|.|2
+bush|.|bbc249.txt|.|6|.|bbc1947.txt|.|3|.|bbc245.txt|.|4
+rule|.|bbc195.txt|.|5
+seek|.|bbc249.txt|.|1
+domestic|.|bbc249.txt|.|2
+bdo stoy hayward|.|bbc240.txt|.|2
+budget include|.|bbc249.txt|.|1
+niesr|.|bbc195.txt|.|7
+digby jones|.|bbc1255.txt|.|2
+use linux|.|bbc2155.txt|.|1
+bdo stoy|.|bbc240.txt|.|2
+spree|.|bbc1255.txt|.|3
+boss arsene|.|bbc1456.txt|.|1
+breaking|.|bbc195.txt|.|2
+include|.|bbc249.txt|.|2
+spending spree|.|bbc1255.txt|.|2
+digby|.|bbc1255.txt|.|3
+push|.|bbc2155.txt|.|2
+puts|.|bbc2155.txt|.|1
+hayward|.|bbc240.txt|.|2
+spending|.|bbc1255.txt|.|3|.|bbc438.txt|.|2|.|bbc182.txt|.|2|.|bbc195.txt|.|5|.|bbc249.txt|.|8|.|bbc1456.txt|.|1|.|bbc124.txt|.|1|.|bbc1240.txt|.|6|.|bbc2155.txt|.|2|.|bbc245.txt|.|9|.|bbc240.txt|.|2|.|bbc175.txt|.|5
+spending projects|.|bbc195.txt|.|1
+sir digby|.|bbc1255.txt|.|3
+white
+white paper
+feature
+bridges
+grove
+bill thompson
+red
+seek full
+bridges work
+spending rise
+budget leak
+aides
+author

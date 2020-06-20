@@ -1,0 +1,27 @@
+25
+duplicate acks|.|rfc4653.txt|.|14|.|rfc5827.txt|.|22
+mptcp architecture|.|rfc6182.txt|.|27
+end systems|.|rfc2884.txt|.|9
+tcp more robust|.|rfc6069.txt|.|25
+connectivity disruption|.|rfc6069.txt|.|22
+compatibility goals|.|rfc6182.txt|.|8
+mapped address attribute|.|rfc5389.txt|.|1
+timer backoff|.|rfc6069.txt|.|13
+idle period|.|rfc2581.txt|.|7
+based loss|.|rfc6069.txt|.|5
+control mechanism|.|rfc5690.txt|.|12
+endpoint dependent mapping|.|rfc5128.txt|.|1
+transmission control|.|rfc6298.txt|.|3
+ncr|.|rfc4653.txt|.|7
+tcp sender|.|rfc5690.txt|.|39
+dependent|.|rfc5128.txt|.|5
+long idle|.|rfc2581.txt|.|4
+timeout based|.|rfc6069.txt|.|6
+tcp|.|rfc2581.txt|.|73|.|rfc2166.txt|.|128|.|rfc4653.txt|.|94|.|rfc5827.txt|.|51|.|rfc5389.txt|.|39|.|rfc5128.txt|.|49|.|rfc6182.txt|.|160|.|rfc6298.txt|.|31|.|rfc6069.txt|.|159|.|rfc5045.txt|.|29|.|rfc5690.txt|.|253|.|rfc4953.txt|.|137|.|rfc2884.txt|.|43
+control april|.|rfc2581.txt|.|13
+tcp ncr|.|rfc4653.txt|.|1
+disruption|.|rfc6069.txt|.|24
+packets dropped|.|rfc2884.txt|.|4
+window is small|.|rfc5827.txt|.|4
+congestion control mechanism|.|rfc5690.txt|.|12
+timer june|.|rfc6298.txt|.|10

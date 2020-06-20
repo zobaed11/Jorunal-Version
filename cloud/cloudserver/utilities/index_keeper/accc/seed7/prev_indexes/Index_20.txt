@@ -1,0 +1,137 @@
+floods|.|WET5497.txt|.|1|.|WET5688.txt|.|2
+wigs|.|WET6540.txt|.|20
+del|.|WET6835.txt|.|30
+royalty|.|WET5245.txt|.|22
+type|.|WET5037.txt|.|1|.|WET5024.txt|.|2|.|WET6107.txt|.|7|.|WET5905.txt|.|11|.|WET6756.txt|.|1|.|WET6540.txt|.|3|.|WET6033.txt|.|1
+eagles|.|WET5905.txt|.|54
+robot|.|WET5014.txt|.|2
+themes|.|WET5245.txt|.|11
+collections|.|WET6347.txt|.|12
+engines|.|WET6025.txt|.|2
+english|.|WET5273.txt|.|15
+coaching|.|WET5067.txt|.|19
+block|.|WET5541.txt|.|5
+state|.|WET5273.txt|.|46
+costume|.|WET6540.txt|.|48
+dual credit|.|WET6046.txt|.|9
+french|.|WET6116.txt|.|7
+epic sports|.|WET5067.txt|.|22
+app|.|WET6347.txt|.|8
+neighborhoods|.|WET5541.txt|.|2
+epic|.|WET5067.txt|.|33
+french drains|.|WET6116.txt|.|4
+state university|.|WET5273.txt|.|41
+academic affairs|.|WET6046.txt|.|15
+flood|.|WET6116.txt|.|1
+animation|.|WET6025.txt|.|1
+austin state|.|WET5273.txt|.|41
+student employment|.|WET6046.txt|.|22
+guest|.|WET5245.txt|.|18
+daytime|.|WET5245.txt|.|26
+daytime royalty|.|WET5245.txt|.|11
+status|.|WET6025.txt|.|2
+browse|.|WET5273.txt|.|55
+women|.|WET6835.txt|.|16
+speculations|.|WET5688.txt|.|1
+server|.|WET6025.txt|.|34
+archives|.|WET5273.txt|.|33
+pirate|.|WET5273.txt|.|5
+city|.|WET5541.txt|.|47
+fantasies|.|WET6835.txt|.|41
+favorites collections|.|WET6347.txt|.|12
+skip|.|WET5273.txt|.|29
+warc|.|WET5067.txt|.|11|.|WET5037.txt|.|11|.|WET5024.txt|.|11|.|WET5541.txt|.|11|.|WET6107.txt|.|11|.|WET6756.txt|.|11|.|WET6347.txt|.|11|.|WET6046.txt|.|11|.|WET5245.txt|.|11|.|WET5065.txt|.|11|.|WET5688.txt|.|11|.|WET6033.txt|.|11|.|WET5273.txt|.|11|.|WET6835.txt|.|11|.|WET6025.txt|.|11|.|WET5014.txt|.|11|.|WET5905.txt|.|11|.|WET5497.txt|.|11|.|WET6540.txt|.|11|.|WET6116.txt|.|11
+login|.|WET6347.txt|.|19
+wwabi|.|WET6835.txt|.|30
+comeback|.|WET5245.txt|.|22
+los|.|WET5014.txt|.|113
+por|.|WET5014.txt|.|82
+search|.|WET6025.txt|.|10|.|WET6046.txt|.|25
+dual|.|WET6046.txt|.|11
+vocabulary|.|WET6116.txt|.|2
+philadelphia|.|WET5905.txt|.|55
+austin|.|WET5273.txt|.|41
+deadline|.|WET5497.txt|.|2
+email|.|WET6107.txt|.|49|.|WET5688.txt|.|116
+address|.|WET6107.txt|.|14
+drains|.|WET6116.txt|.|8
+storm|.|WET5541.txt|.|17
+philadelphia eagles|.|WET5905.txt|.|53
+toggle|.|WET6347.txt|.|12
+tour|.|WET6046.txt|.|11
+hits|.|WET5688.txt|.|1
+multimedia|.|WET6835.txt|.|2
+brainyquote|.|WET6347.txt|.|28
+congestion|.|WET5688.txt|.|2
+campuses|.|WET6046.txt|.|19
+date|.|WET6025.txt|.|6|.|WET5065.txt|.|1|.|WET6116.txt|.|20
+con|.|WET5014.txt|.|112
+keywords|.|WET6046.txt|.|7
+sign|.|WET6107.txt|.|20|.|WET6347.txt|.|19
+main|.|WET6046.txt|.|12
+blog|.|WET5541.txt|.|22|.|WET5497.txt|.|22
+posts|.|WET6116.txt|.|42
+basketball|.|WET5067.txt|.|161
+awareness|.|WET5067.txt|.|11
+inhabitat|.|WET5497.txt|.|42
+academic|.|WET6046.txt|.|58
+leave|.|WET5497.txt|.|14
+sign up login|.|WET6347.txt|.|12
+history basketball|.|WET5067.txt|.|35
+credit|.|WET6046.txt|.|12
+virtual tour|.|WET6046.txt|.|9
+cosplay costume|.|WET6540.txt|.|19
+toggle my brainyquote|.|WET6347.txt|.|8
+volume no|.|WET5273.txt|.|38
+aiken|.|WET6116.txt|.|56
+name server|.|WET6025.txt|.|7
+campus|.|WET6046.txt|.|69
+en|.|WET5014.txt|.|219
+please|.|WET6107.txt|.|23
+archive|.|WET6025.txt|.|2
+history|.|WET5067.txt|.|42
+water|.|WET6116.txt|.|16
+volume|.|WET5273.txt|.|40
+name|.|WET6025.txt|.|36
+main content|.|WET6046.txt|.|9
+cosplay|.|WET6540.txt|.|254
+favorites|.|WET6347.txt|.|12
+no|.|WET5273.txt|.|222
+virtual|.|WET6046.txt|.|9
+search engines|.|WET6025.txt|.|2
+regional|.|WET6046.txt|.|12
+student|.|WET6046.txt|.|135
+records|.|WET5273.txt|.|29
+university|.|WET5273.txt|.|96
+uma|.|WET5014.txt|.|2
+email address|.|WET6107.txt|.|14
+privacy|.|WET5688.txt|.|15
+leave a comment|.|WET5497.txt|.|14
+nz|.|WET6835.txt|.|29
+content|.|WET5037.txt|.|4|.|WET5024.txt|.|6|.|WET5541.txt|.|5|.|WET6046.txt|.|23|.|WET6033.txt|.|1
+keywords to search|.|WET6046.txt|.|7
+cancer awareness|.|WET5067.txt|.|11
+regional campuses|.|WET6046.txt|.|9
+men|.|WET6835.txt|.|15
+dating|.|WET6107.txt|.|25
+home browse|.|WET5273.txt|.|5
+vote|.|WET5014.txt|.|45
+conversion|.|WET5067.txt|.|11|.|WET5037.txt|.|11|.|WET5024.txt|.|11|.|WET5905.txt|.|11|.|WET6756.txt|.|11|.|WET6540.txt|.|11|.|WET5245.txt|.|11|.|WET5065.txt|.|11|.|WET6033.txt|.|11
+affairs|.|WET6046.txt|.|18
+gi|.|WET6835.txt|.|3
+green|.|WET5497.txt|.|52
+sports|.|WET5067.txt|.|25
+length|.|WET6540.txt|.|1
+purchase|.|WET6835.txt|.|2|.|WET6107.txt|.|2
+una|.|WET5014.txt|.|71
+employment|.|WET6046.txt|.|45
+home|.|WET6347.txt|.|17|.|WET5273.txt|.|36
+fans|.|WET5245.txt|.|12
+target|.|WET5037.txt|.|1
+forum|.|WET5245.txt|.|29
+nodes|.|WET5688.txt|.|123
+pirate english|.|WET5273.txt|.|5
+opinions|.|WET5014.txt|.|1
+cancer|.|WET5067.txt|.|11
+comment|.|WET6025.txt|.|30|.|WET5497.txt|.|26
+anime|.|WET5497.txt|.|2

@@ -1,0 +1,263 @@
+bad|.|bbc668.txt|.|2
+year|.|bbc1348.txt|.|1|.|bbc1391.txt|.|2
+gambling|.|bbc1029.txt|.|3
+show the x factor|.|bbc684.txt|.|1
+ban|.|bbc1348.txt|.|3
+professional|.|bbc2098.txt|.|2
+firm|.|bbc95.txt|.|2
+india and pakistan|.|bbc347.txt|.|1
+bank|.|bbc116.txt|.|1
+companies|.|bbc116.txt|.|3
+music|.|bbc789.txt|.|2|.|bbc2030.txt|.|6|.|bbc2156.txt|.|13
+dvd|.|bbc2043.txt|.|6
+striking civil servants|.|bbc1106.txt|.|1
+corry has backed|.|bbc1649.txt|.|1
+peer to peer|.|bbc2030.txt|.|3
+awaiting|.|bbc789.txt|.|2
+butler|.|bbc1391.txt|.|3
+band|.|bbc668.txt|.|2
+x factor|.|bbc684.txt|.|3
+drug testing|.|bbc1348.txt|.|1
+bill|.|bbc1029.txt|.|5
+forecast|.|bbc4.txt|.|2
+portable|.|bbc2156.txt|.|3
+shadow cabinet|.|bbc1037.txt|.|3|.|bbc1196.txt|.|3
+research has shown|.|bbc1990.txt|.|1
+version|.|bbc95.txt|.|2
+michael howard|.|bbc1037.txt|.|2|.|bbc1196.txt|.|2
+peace|.|bbc347.txt|.|2
+music market|.|bbc2156.txt|.|2
+lib dems|.|bbc1037.txt|.|1|.|bbc1196.txt|.|1
+brother|.|bbc690.txt|.|2
+music video in jail|.|bbc789.txt|.|2
+newspaper|.|bbc1029.txt|.|2
+high fuel|.|bbc4.txt|.|2
+rodgers|.|bbc668.txt|.|4
+networks|.|bbc2030.txt|.|7
+prize|.|bbc2098.txt|.|6
+shares|.|bbc116.txt|.|3
+fell|.|bbc95.txt|.|3
+search|.|bbc2142.txt|.|5
+secretary|.|bbc1029.txt|.|2
+vieira|.|bbc1581.txt|.|3
+civil|.|bbc1106.txt|.|8
+contestant|.|bbc690.txt|.|1
+hearing|.|bbc1348.txt|.|2
+cross country|.|bbc1391.txt|.|1
+cuts|.|bbc1106.txt|.|3
+sir richard|.|bbc688.txt|.|2
+changes to bloglines|.|bbc2142.txt|.|1
+brands|.|bbc2030.txt|.|8
+strike across wales|.|bbc1106.txt|.|1
+joined|.|bbc1106.txt|.|2
+digital music|.|bbc2156.txt|.|6
+team|.|bbc1990.txt|.|4|.|bbc1649.txt|.|4
+video in jail|.|bbc789.txt|.|2
+people|.|bbc1990.txt|.|6
+gordon|.|bbc1106.txt|.|2
+tour|.|bbc668.txt|.|3|.|bbc2098.txt|.|8
+police|.|bbc1037.txt|.|3|.|bbc1196.txt|.|3
+series|.|bbc684.txt|.|6
+bloglines|.|bbc2142.txt|.|8
+x|.|bbc684.txt|.|3
+ask|.|bbc2142.txt|.|9
+cowell|.|bbc684.txt|.|2
+jeeves|.|bbc2142.txt|.|9
+cabinet|.|bbc1037.txt|.|3|.|bbc1196.txt|.|3
+forwards|.|bbc1649.txt|.|1
+country|.|bbc1391.txt|.|1
+lib|.|bbc1037.txt|.|2|.|bbc1196.txt|.|2
+blogs|.|bbc2142.txt|.|5
+high fuel prices|.|bbc4.txt|.|2
+research|.|bbc1990.txt|.|3
+dr|.|bbc95.txt|.|6
+evicted|.|bbc690.txt|.|3
+ea|.|bbc1880.txt|.|6
+us|.|bbc1990.txt|.|1
+fuel costs|.|bbc4.txt|.|2
+england defender|.|bbc1581.txt|.|2
+richard|.|bbc688.txt|.|2
+indian government|.|bbc347.txt|.|2
+jowell|.|bbc1029.txt|.|5
+european|.|bbc1535.txt|.|3
+howard has denied|.|bbc1037.txt|.|1|.|bbc1196.txt|.|1
+athletes|.|bbc1348.txt|.|2
+itv|.|bbc684.txt|.|1
+balco|.|bbc1348.txt|.|4
+jail|.|bbc789.txt|.|5
+campbell|.|bbc1581.txt|.|6
+smfg|.|bbc116.txt|.|4
+rivals|.|bbc1880.txt|.|2
+music players|.|bbc2156.txt|.|4
+fellow housemates|.|bbc690.txt|.|2
+ads|.|bbc2030.txt|.|4
+servants|.|bbc1106.txt|.|5
+boosts|.|bbc347.txt|.|1
+full|.|bbc1649.txt|.|1
+next|.|bbc2043.txt|.|2
+cards|.|bbc1037.txt|.|10|.|bbc1196.txt|.|10
+formats|.|bbc2043.txt|.|1
+recommissioned|.|bbc684.txt|.|1
+show|.|bbc684.txt|.|5|.|bbc688.txt|.|7
+changes|.|bbc2142.txt|.|1
+backs sony|.|bbc2043.txt|.|1
+video|.|bbc789.txt|.|6
+india|.|bbc347.txt|.|2
+shot|.|bbc1581.txt|.|9
+police said|.|bbc1037.txt|.|1|.|bbc1196.txt|.|1
+apple|.|bbc2156.txt|.|5
+company|.|bbc668.txt|.|2
+factor|.|bbc684.txt|.|3
+sir|.|bbc688.txt|.|4
+said mcclaren|.|bbc1535.txt|.|2
+digital|.|bbc2156.txt|.|6
+dvd formats|.|bbc2043.txt|.|1
+four people|.|bbc1990.txt|.|2
+race|.|bbc1391.txt|.|4
+robinson|.|bbc1649.txt|.|4
+victory|.|bbc1391.txt|.|2
+technology|.|bbc2043.txt|.|6
+expands|.|bbc2156.txt|.|1
+football|.|bbc1535.txt|.|1
+titles|.|bbc1880.txt|.|3
+generic|.|bbc95.txt|.|2
+michael|.|bbc1037.txt|.|2|.|bbc1196.txt|.|2
+money|.|bbc2098.txt|.|2
+branson show|.|bbc688.txt|.|1
+service|.|bbc1106.txt|.|5
+fuel prices|.|bbc4.txt|.|2
+jason|.|bbc1649.txt|.|2
+daiwa|.|bbc116.txt|.|4
+prize money|.|bbc2098.txt|.|2
+family|.|bbc2156.txt|.|3
+gamers|.|bbc2098.txt|.|2
+big|.|bbc690.txt|.|2
+rebel|.|bbc688.txt|.|3
+espn|.|bbc1880.txt|.|12
+shadow|.|bbc1037.txt|.|4|.|bbc1196.txt|.|4
+backed|.|bbc2043.txt|.|1|.|bbc1649.txt|.|1
+rupees|.|bbc95.txt|.|5
+ipod|.|bbc2156.txt|.|5
+executive|.|bbc2030.txt|.|2
+middlesbrough|.|bbc1535.txt|.|2
+sony|.|bbc2043.txt|.|5
+striking|.|bbc1106.txt|.|1
+collins|.|bbc1348.txt|.|7
+backs sony dvd technology|.|bbc2043.txt|.|1
+group tru|.|bbc789.txt|.|2
+four|.|bbc1990.txt|.|3
+flop|.|bbc688.txt|.|1
+games|.|bbc1880.txt|.|8|.|bbc1535.txt|.|2
+rebel billionaire|.|bbc688.txt|.|3
+generation|.|bbc2043.txt|.|2
+profits|.|bbc95.txt|.|4|.|bbc4.txt|.|3
+sprinter|.|bbc1348.txt|.|2
+researchers|.|bbc1990.txt|.|4
+players|.|bbc2156.txt|.|6
+testing|.|bbc1348.txt|.|1
+filmed|.|bbc789.txt|.|4
+footballing|.|bbc1535.txt|.|1
+las vegas|.|bbc1029.txt|.|1
+dvd technology|.|bbc2043.txt|.|2
+ethiopia|.|bbc1391.txt|.|3
+ea sports|.|bbc1880.txt|.|2
+ipod family|.|bbc2156.txt|.|2
+john|.|bbc690.txt|.|4
+generic version|.|bbc95.txt|.|1
+spain|.|bbc1391.txt|.|2
+rapper had filmed|.|bbc789.txt|.|1
+singer|.|bbc668.txt|.|3
+queen|.|bbc668.txt|.|6
+ipods|.|bbc2156.txt|.|2
+tournament|.|bbc2098.txt|.|6
+rapper|.|bbc789.txt|.|3
+computer|.|bbc1990.txt|.|4
+government|.|bbc347.txt|.|2
+world|.|bbc2098.txt|.|6
+apple ipods|.|bbc2156.txt|.|1
+web|.|bbc2142.txt|.|4
+peer|.|bbc2030.txt|.|6
+elimination|.|bbc2098.txt|.|2
+mcclaren|.|bbc1535.txt|.|5
+gaming|.|bbc2098.txt|.|3
+ipod family expands|.|bbc2156.txt|.|1
+boro|.|bbc1535.txt|.|3
+vegas|.|bbc1029.txt|.|1
+drugs|.|bbc1348.txt|.|4
+strike|.|bbc1106.txt|.|7
+spirit|.|bbc1535.txt|.|2
+brain|.|bbc1990.txt|.|6
+great|.|bbc1391.txt|.|2
+drummer|.|bbc668.txt|.|2
+control a computer|.|bbc1990.txt|.|2
+lashed|.|bbc1581.txt|.|1
+ask jeeves|.|bbc2142.txt|.|9
+ask jeeves said|.|bbc2142.txt|.|1
+fellow|.|bbc690.txt|.|2
+pompey|.|bbc1581.txt|.|5
+uefa|.|bbc1535.txt|.|2
+economic|.|bbc347.txt|.|2
+indian|.|bbc95.txt|.|3|.|bbc347.txt|.|2
+defender|.|bbc1581.txt|.|2
+team of us|.|bbc1990.txt|.|1
+fuel|.|bbc4.txt|.|8
+john mccririck|.|bbc690.txt|.|2
+advertisers|.|bbc2030.txt|.|6
+pakistan|.|bbc347.txt|.|1
+bad company|.|bbc668.txt|.|2
+tremendous|.|bbc1649.txt|.|2
+trial|.|bbc789.txt|.|3
+sales|.|bbc95.txt|.|5
+drug|.|bbc1348.txt|.|2
+second|.|bbc684.txt|.|3
+high|.|bbc4.txt|.|2
+download|.|bbc2030.txt|.|1
+shown|.|bbc1990.txt|.|2
+biggest|.|bbc116.txt|.|1
+members|.|bbc668.txt|.|2
+government said|.|bbc347.txt|.|2
+music video|.|bbc789.txt|.|2
+group|.|bbc789.txt|.|3|.|bbc684.txt|.|2|.|bbc1535.txt|.|2
+las|.|bbc1029.txt|.|2
+england|.|bbc1649.txt|.|5|.|bbc1581.txt|.|2
+mccririck|.|bbc690.txt|.|5
+like|.|bbc1880.txt|.|3
+format|.|bbc2043.txt|.|6
+wales|.|bbc1106.txt|.|11
+market|.|bbc2156.txt|.|6
+rankings|.|bbc688.txt|.|1
+housemates|.|bbc690.txt|.|2
+tru|.|bbc789.txt|.|2
+european footballing|.|bbc1535.txt|.|1
+disc|.|bbc2043.txt|.|2
+arsenal|.|bbc1581.txt|.|8
+branson|.|bbc688.txt|.|1
+second series|.|bbc684.txt|.|2
+chief executive|.|bbc2030.txt|.|2
+technology backed|.|bbc2043.txt|.|1
+financial|.|bbc116.txt|.|4
+howard|.|bbc1037.txt|.|6|.|bbc1196.txt|.|6
+link|.|bbc116.txt|.|2
+dems|.|bbc1037.txt|.|1|.|bbc1196.txt|.|1
+media|.|bbc1029.txt|.|2
+fuller|.|bbc1581.txt|.|6
+cap|.|bbc1990.txt|.|5
+cas|.|bbc1348.txt|.|4
+music download|.|bbc2030.txt|.|1
+prices|.|bbc4.txt|.|3
+said|.|bbc1037.txt|.|11|.|bbc2142.txt|.|10|.|bbc1535.txt|.|7|.|bbc1196.txt|.|11|.|bbc347.txt|.|3
+costs|.|bbc4.txt|.|3
+billionaire|.|bbc688.txt|.|3
+civil servants|.|bbc1106.txt|.|5
+next generation|.|bbc2043.txt|.|2
+sports|.|bbc1880.txt|.|7
+chief|.|bbc2030.txt|.|2
+cross|.|bbc1391.txt|.|2
+corry|.|bbc1649.txt|.|6
+control|.|bbc1990.txt|.|5
+world tour|.|bbc2098.txt|.|6
+trade|.|bbc347.txt|.|5
+sports games|.|bbc1880.txt|.|2
+big brother|.|bbc690.txt|.|2
+denied|.|bbc1037.txt|.|3|.|bbc1196.txt|.|3
+backs|.|bbc2043.txt|.|1

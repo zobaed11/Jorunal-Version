@@ -1,0 +1,34 @@
+5
+analysts|.|bbc302.txt|.|2|.|bbc300.txt|.|3|.|bbc2208.txt|.|2
+copyright|.|bbc2127.txt|.|4|.|bbc342.txt|.|3
+china aviation oil|.|bbc499.txt|.|3
+fuel|.|bbc499.txt|.|2
+consume|.|bbc2208.txt|.|2
+aviation|.|bbc499.txt|.|4
+foreign|.|bbc936.txt|.|5|.|bbc2208.txt|.|9|.|bbc1101.txt|.|3|.|bbc18.txt|.|2|.|bbc215.txt|.|6
+russia|.|bbc948.txt|.|2|.|bbc77.txt|.|3
+scandal|.|bbc1339.txt|.|2|.|bbc499.txt|.|1|.|bbc48.txt|.|2
+aviation oil|.|bbc499.txt|.|3
+supplier|.|bbc499.txt|.|2
+property|.|bbc342.txt|.|2
+jet|.|bbc499.txt|.|2|.|bbc186.txt|.|5
+ripe|.|bbc2208.txt|.|2
+huge|.|bbc2208.txt|.|2
+china aviation|.|bbc499.txt|.|4
+previous|.|bbc493.txt|.|2
+chinese wine|.|bbc39.txt|.|3
+investment|.|bbc286.txt|.|2|.|bbc501.txt|.|3|.|bbc2208.txt|.|4|.|bbc70.txt|.|2|.|bbc493.txt|.|2
+saronno|.|bbc39.txt|.|2
+honda|.|bbc342.txt|.|3
+jet fuel|.|bbc499.txt|.|2
+new media|.|bbc2208.txt|.|3
+intellectual|.|bbc342.txt|.|2
+illva|.|bbc39.txt|.|4
+previous year|.|bbc493.txt|.|2
+explosion|.|bbc2208.txt|.|1
+property rights|.|bbc342.txt|.|2
+fuel supplier|.|bbc499.txt|.|2
+china|.|bbc77.txt|.|3|.|bbc39.txt|.|3|.|bbc286.txt|.|4|.|bbc499.txt|.|5|.|bbc342.txt|.|6|.|bbc2208.txt|.|8|.|bbc493.txt|.|4|.|bbc256.txt|.|2
+intellectual property|.|bbc342.txt|.|2
+illva saronno|.|bbc39.txt|.|2
+foreign investment|.|bbc2208.txt|.|3

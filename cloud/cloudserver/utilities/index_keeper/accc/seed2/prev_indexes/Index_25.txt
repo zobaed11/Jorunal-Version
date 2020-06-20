@@ -1,0 +1,165 @@
+release|.|WET6800.txt|.|15
+county|.|WET5544.txt|.|22
+cbs sports|.|WET5172.txt|.|2
+type|.|WET5413.txt|.|5|.|WET5299.txt|.|4
+april|.|WET5172.txt|.|64
+twitter|.|WET5349.txt|.|32
+shirts|.|WET6800.txt|.|20
+composite|.|WET6275.txt|.|2
+engines|.|WET5665.txt|.|2
+faq|.|WET5875.txt|.|19
+casual|.|WET6800.txt|.|38
+weather|.|WET5548.txt|.|68
+coaching|.|WET5875.txt|.|13
+join|.|WET6836.txt|.|80
+post subject|.|WET6244.txt|.|41
+promotional|.|WET6800.txt|.|42
+sneaker|.|WET6800.txt|.|20
+confidential|.|WET6363.txt|.|5
+history soccer|.|WET5875.txt|.|30
+item|.|WET6275.txt|.|89
+qt|.|WET5980.txt|.|10
+daily box office|.|WET6341.txt|.|23
+roshe|.|WET6800.txt|.|15
+dates|.|WET6800.txt|.|15
+expedited shipping|.|WET6275.txt|.|29
+labor|.|WET5242.txt|.|8
+letter|.|WET6836.txt|.|22
+deals|.|WET6800.txt|.|20
+ielbuy original|.|WET5980.txt|.|50
+animal|.|WET6303.txt|.|2
+whitewash|.|WET5176.txt|.|2
+boost|.|WET5548.txt|.|2
+dawn|.|WET6244.txt|.|28
+items|.|WET6836.txt|.|22
+drivers|.|WET5980.txt|.|1
+sellers|.|WET6275.txt|.|1
+card|.|WET5980.txt|.|75
+women|.|WET6836.txt|.|37
+status|.|WET5665.txt|.|5|.|WET5646.txt|.|2
+archives|.|WET5875.txt|.|2
+gender|.|WET6244.txt|.|7
+artist|.|WET6128.txt|.|18
+claire|.|WET5349.txt|.|8
+air|.|WET6762.txt|.|29
+najib|.|WET5242.txt|.|23
+warc|.|WET5349.txt|.|11|.|WET6363.txt|.|11|.|WET5242.txt|.|11|.|WET5030.txt|.|11|.|WET5548.txt|.|11|.|WET5172.txt|.|11|.|WET6836.txt|.|11|.|WET5875.txt|.|11|.|WET5665.txt|.|11|.|WET5299.txt|.|11|.|WET6275.txt|.|11|.|WET6303.txt|.|11|.|WET6762.txt|.|11|.|WET6128.txt|.|11|.|WET6800.txt|.|11|.|WET5932.txt|.|11|.|WET5413.txt|.|11|.|WET5544.txt|.|11|.|WET5646.txt|.|11|.|WET6341.txt|.|11|.|WET6244.txt|.|11|.|WET5391.txt|.|11|.|WET6062.txt|.|11
+search|.|WET5665.txt|.|17
+library|.|WET5665.txt|.|53
+top|.|WET6836.txt|.|30
+ielbuy|.|WET5980.txt|.|50
+tanks|.|WET6800.txt|.|15
+free|.|WET6800.txt|.|54
+deadline|.|WET5548.txt|.|3
+email|.|WET5544.txt|.|27
+witnesses|.|WET5176.txt|.|3
+innovation|.|WET5242.txt|.|2
+wbbm|.|WET5172.txt|.|6
+brands|.|WET6836.txt|.|56
+coupon|.|WET6836.txt|.|62
+max|.|WET6800.txt|.|15
+nike|.|WET6800.txt|.|66
+facebook|.|WET5544.txt|.|14
+z top|.|WET6836.txt|.|10
+photo|.|WET5548.txt|.|20
+people|.|WET6762.txt|.|46
+shoes|.|WET6800.txt|.|148
+food|.|WET6062.txt|.|31|.|WET6762.txt|.|18
+cheat|.|WET5176.txt|.|2
+battle|.|WET6244.txt|.|50
+hits|.|WET5646.txt|.|2
+soccer coaching|.|WET5875.txt|.|5
+wbbm newsradio|.|WET5172.txt|.|4
+z|.|WET6836.txt|.|24
+votes|.|WET5665.txt|.|1
+burberry|.|WET6836.txt|.|96
+chronicling|.|WET5176.txt|.|41
+statistics|.|WET5242.txt|.|7
+date|.|WET5665.txt|.|2
+subject|.|WET6244.txt|.|42
+apparel|.|WET6800.txt|.|71
+office|.|WET6341.txt|.|73|.|WET6303.txt|.|38
+blog|.|WET5349.txt|.|16|.|WET6062.txt|.|7|.|WET6128.txt|.|38
+deals with free|.|WET6800.txt|.|15
+deadlines|.|WET5665.txt|.|3
+photos|.|WET5646.txt|.|11
+bet|.|WET5176.txt|.|2
+dan|.|WET5242.txt|.|47
+hit|.|WET5176.txt|.|2|.|WET6303.txt|.|2
+commando|.|WET5646.txt|.|49
+bureau of labor statistics|.|WET5242.txt|.|4
+marie claire|.|WET5349.txt|.|8
+shipping|.|WET6800.txt|.|117|.|WET6275.txt|.|109
+post|.|WET6244.txt|.|57
+shipping sneaker release|.|WET6800.txt|.|15
+qt applications|.|WET5980.txt|.|10
+bureau|.|WET5242.txt|.|4
+stock|.|WET6836.txt|.|44
+max nike roshe|.|WET6800.txt|.|15
+day|.|WET5646.txt|.|14
+stock items|.|WET6836.txt|.|20
+ubuntu|.|WET5980.txt|.|53
+norton commando|.|WET5646.txt|.|43
+equipment|.|WET5875.txt|.|37
+archive|.|WET5176.txt|.|1|.|WET6303.txt|.|3|.|WET6244.txt|.|12
+please|.|WET6244.txt|.|19
+history|.|WET5875.txt|.|30
+artwork|.|WET5980.txt|.|92
+list|.|WET6836.txt|.|84
+free shipping|.|WET6800.txt|.|53
+dawn forum|.|WET6244.txt|.|13
+battle dawn forum|.|WET6244.txt|.|13
+hybrid|.|WET6303.txt|.|2
+mobile user|.|WET5548.txt|.|2
+confidential survey|.|WET6363.txt|.|4
+daily|.|WET6341.txt|.|55
+survey|.|WET6363.txt|.|5
+party|.|WET6303.txt|.|42
+trust|.|WET6762.txt|.|1
+casual shoes|.|WET6800.txt|.|14
+search engines|.|WET5665.txt|.|2
+student|.|WET5665.txt|.|39
+book|.|WET6128.txt|.|27
+privacy|.|WET5176.txt|.|3|.|WET5665.txt|.|3|.|WET6128.txt|.|2
+soccer equipment|.|WET5875.txt|.|17
+box|.|WET6341.txt|.|75
+perfume|.|WET6836.txt|.|157
+content|.|WET5172.txt|.|9|.|WET5391.txt|.|2|.|WET6062.txt|.|2|.|WET6762.txt|.|1
+september|.|WET6128.txt|.|31
+expedited|.|WET6275.txt|.|35
+soccer jersey history|.|WET5875.txt|.|6
+jersey|.|WET5875.txt|.|7
+genres|.|WET6341.txt|.|22
+marie|.|WET5349.txt|.|13
+linux|.|WET5980.txt|.|55
+company|.|WET6303.txt|.|37
+vote|.|WET6303.txt|.|3
+apparel shirts tanks|.|WET6800.txt|.|15
+sneaker release dates|.|WET6800.txt|.|15
+live|.|WET5548.txt|.|32|.|WET5544.txt|.|17
+conversion|.|WET5349.txt|.|11|.|WET6363.txt|.|11|.|WET5932.txt|.|11|.|WET5030.txt|.|11|.|WET5413.txt|.|11|.|WET5172.txt|.|11|.|WET5299.txt|.|11|.|WET6341.txt|.|11|.|WET5391.txt|.|11|.|WET6062.txt|.|11
+news|.|WET5544.txt|.|36
+soccer|.|WET5875.txt|.|175
+original|.|WET5980.txt|.|75
+sports|.|WET5172.txt|.|23|.|WET5875.txt|.|47
+box office|.|WET6341.txt|.|73
+race|.|WET5646.txt|.|13
+norton|.|WET5646.txt|.|111
+ini|.|WET5242.txt|.|37
+purchase|.|WET5176.txt|.|2|.|WET6303.txt|.|2|.|WET6244.txt|.|2
+mobile|.|WET5548.txt|.|19
+threads|.|WET5176.txt|.|1
+thread|.|WET5391.txt|.|20
+home|.|WET5544.txt|.|36|.|WET6128.txt|.|35
+forum|.|WET6244.txt|.|36
+npr|.|WET5544.txt|.|7
+claire twitter|.|WET5349.txt|.|4
+cbs|.|WET5172.txt|.|19
+join coupon list|.|WET6836.txt|.|44
+npr news|.|WET5544.txt|.|3
+yang|.|WET5242.txt|.|61
+user|.|WET5548.txt|.|2
+pm|.|WET5665.txt|.|30|.|WET5544.txt|.|32
+newsradio|.|WET5172.txt|.|4
+applications|.|WET5980.txt|.|76
+promotion|.|WET5242.txt|.|4

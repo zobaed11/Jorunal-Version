@@ -1,0 +1,26 @@
+35
+golden rule|.|bbc195.txt|.|4
+projects|.|bbc195.txt|.|1|.|bbc1991.txt|.|1
+administration|.|bbc245.txt|.|2
+bush|.|bbc249.txt|.|6|.|bbc1947.txt|.|3|.|bbc245.txt|.|4
+lie|.|bbc1283.txt|.|2
+clashed over tax and spending|.|bbc1283.txt|.|1
+rule|.|bbc195.txt|.|5
+seek|.|bbc249.txt|.|1
+domestic|.|bbc249.txt|.|2
+budget include|.|bbc249.txt|.|1
+downright lie|.|bbc1283.txt|.|2
+spend|.|bbc1283.txt|.|1
+digby jones|.|bbc1255.txt|.|2
+use linux|.|bbc2155.txt|.|1
+breaking|.|bbc195.txt|.|2
+include|.|bbc249.txt|.|2
+spending spree|.|bbc1255.txt|.|2
+spending plans|.|bbc1283.txt|.|3|.|bbc1240.txt|.|2
+downright|.|bbc1283.txt|.|2
+clashed|.|bbc1283.txt|.|1
+puts|.|bbc2155.txt|.|1
+spending|.|bbc1255.txt|.|3|.|bbc438.txt|.|2|.|bbc1283.txt|.|8|.|bbc249.txt|.|8|.|bbc124.txt|.|1|.|bbc1240.txt|.|6|.|bbc245.txt|.|9|.|bbc182.txt|.|2|.|bbc195.txt|.|5|.|bbc1456.txt|.|1|.|bbc2155.txt|.|2|.|bbc240.txt|.|2|.|bbc175.txt|.|5
+tax and spend|.|bbc1283.txt|.|1
+clash on tax|.|bbc1283.txt|.|1
+spending projects|.|bbc195.txt|.|1

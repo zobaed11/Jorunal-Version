@@ -1,0 +1,26 @@
+25
+russian government|.|bbc77.txt|.|2
+indian oil|.|bbc399.txt|.|2
+production unit|.|bbc399.txt|.|2
+world economy|.|bbc30.txt|.|2
+yukos assets|.|bbc399.txt|.|2
+opec|.|bbc144.txt|.|4
+supply|.|bbc77.txt|.|2
+crude|.|bbc152.txt|.|5|.|bbc399.txt|.|3|.|bbc144.txt|.|2
+us court|.|bbc391.txt|.|2
+oil|.|bbc152.txt|.|7|.|bbc30.txt|.|7|.|bbc399.txt|.|16|.|bbc77.txt|.|8|.|bbc144.txt|.|6|.|bbc80.txt|.|2|.|bbc391.txt|.|3|.|bbc182.txt|.|3|.|bbc314.txt|.|4|.|bbc299.txt|.|2
+assets|.|bbc399.txt|.|5
+russia|.|bbc77.txt|.|3
+soaring|.|bbc30.txt|.|2
+oecd said|.|bbc30.txt|.|4
+receive|.|bbc77.txt|.|1
+biggest oil|.|bbc399.txt|.|2
+price rises|.|bbc30.txt|.|1
+russian|.|bbc949.txt|.|1|.|bbc399.txt|.|5|.|bbc841.txt|.|2|.|bbc77.txt|.|6|.|bbc1735.txt|.|2|.|bbc391.txt|.|5|.|bbc157.txt|.|2
+rosneft receive|.|bbc77.txt|.|1
+oil production|.|bbc399.txt|.|2
+russian authorities|.|bbc399.txt|.|2|.|bbc391.txt|.|2
+oil supply|.|bbc77.txt|.|2
+unit|.|bbc399.txt|.|2
+supply deal|.|bbc77.txt|.|2
+highs|.|bbc144.txt|.|2|.|bbc260.txt|.|1

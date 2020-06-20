@@ -1,0 +1,30 @@
+23
+gas from iran|.|bbc420.txt|.|1
+indian oil|.|bbc399.txt|.|2
+production unit|.|bbc399.txt|.|2
+world economy|.|bbc30.txt|.|2
+yukos assets|.|bbc399.txt|.|2
+supply|.|bbc77.txt|.|2
+crude|.|bbc381.txt|.|5|.|bbc399.txt|.|3
+oil|.|bbc266.txt|.|2|.|bbc77.txt|.|8|.|bbc420.txt|.|8|.|bbc80.txt|.|2|.|bbc391.txt|.|3|.|bbc221.txt|.|9|.|bbc314.txt|.|4|.|bbc299.txt|.|2|.|bbc381.txt|.|4|.|bbc30.txt|.|7|.|bbc399.txt|.|16|.|bbc284.txt|.|3|.|bbc182.txt|.|3
+assets|.|bbc399.txt|.|5
+soaring|.|bbc30.txt|.|2
+gas|.|bbc420.txt|.|4|.|bbc314.txt|.|3
+oil price|.|bbc221.txt|.|2
+high oil|.|bbc221.txt|.|2
+receive|.|bbc77.txt|.|1
+biggest oil|.|bbc399.txt|.|2
+price rises|.|bbc30.txt|.|1
+natural|.|bbc420.txt|.|2
+rosneft receive|.|bbc77.txt|.|1
+oil production|.|bbc399.txt|.|2
+russian authorities|.|bbc399.txt|.|2|.|bbc391.txt|.|2
+oil supply|.|bbc77.txt|.|2
+natural gas|.|bbc420.txt|.|2
+iranian oil|.|bbc420.txt|.|2
+oil fields|.|bbc420.txt|.|2
+unit|.|bbc399.txt|.|2
+supply deal|.|bbc77.txt|.|2
+high oil price|.|bbc221.txt|.|2
+annual profits|.|bbc221.txt|.|2
+fields|.|bbc420.txt|.|2

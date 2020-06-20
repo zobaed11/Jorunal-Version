@@ -1,0 +1,33 @@
+0
+tunnel pac|.|rfc5422.txt|.|40
+mp bgp extension|.|rfc5747.txt|.|1
+ip tunnel mib|.|rfc4087.txt|.|30
+rosen|.|rfc5566.txt|.|7
+server authenticated|.|rfc5422.txt|.|4
+setup protocol|.|rfc5572.txt|.|42
+eap fast|.|rfc5422.txt|.|8
+tunnel broker|.|rfc3053.txt|.|40|.|rfc5572.txt|.|28
+tunnel server|.|rfc5572.txt|.|16
+tunnel setup|.|rfc5572.txt|.|42
+broker model|.|rfc3053.txt|.|6
+zorn informational|.|rfc2809.txt|.|23
+isps|.|rfc3053.txt|.|5
+compulsory tunneling|.|rfc2809.txt|.|39
+tunnel encapsulation attribute|.|rfc5566.txt|.|6
+address family|.|rfc5566.txt|.|4
+effectively|.|rfc4804.txt|.|4
+bgp ipsec|.|rfc5566.txt|.|8
+tunnel setup protocol|.|rfc5572.txt|.|42
+tunnel establishment|.|rfc5572.txt|.|2
+client and tunnel|.|rfc2809.txt|.|14
+server unauthenticated|.|rfc5422.txt|.|5
+crypto binding tlv|.|rfc5422.txt|.|2
+crypto|.|rfc5422.txt|.|2
+traffic will flow|.|rfc3906.txt|.|1
+unauthenticated|.|rfc5422.txt|.|7
+hub|.|rfc5571.txt|.|15
+broker january|.|rfc3053.txt|.|12
+radius april|.|rfc2809.txt|.|22
+tunnel endpoint|.|rfc2809.txt|.|9
+aggregator may effectively|.|rfc4804.txt|.|1
+tunnel|.|rfc3053.txt|.|103|.|rfc5572.txt|.|293|.|rfc4087.txt|.|92|.|rfc2809.txt|.|196|.|rfc5422.txt|.|108|.|rfc4891.txt|.|104|.|rfc3906.txt|.|10|.|rfc5571.txt|.|46|.|rfc5747.txt|.|18|.|rfc5579.txt|.|5|.|rfc5566.txt|.|70|.|rfc4804.txt|.|103|.|rfc3884.txt|.|117

@@ -1,0 +1,14 @@
+33
+game playing|.|bbc1919.txt|.|1
+games help|.|bbc2107.txt|.|1
+travel expenses|.|bbc1964.txt|.|1
+knights|.|bbc1949.txt|.|1
+game|.|bbc1632.txt|.|1|.|bbc1968.txt|.|11|.|bbc1963.txt|.|13|.|bbc1454.txt|.|2|.|bbc1654.txt|.|2|.|bbc1513.txt|.|2|.|bbc1464.txt|.|2|.|bbc1787.txt|.|2|.|bbc1549.txt|.|2|.|bbc1748.txt|.|2|.|bbc2107.txt|.|8|.|bbc1646.txt|.|2|.|bbc1544.txt|.|4|.|bbc1611.txt|.|3|.|bbc1501.txt|.|1|.|bbc1964.txt|.|6|.|bbc1554.txt|.|2|.|bbc1919.txt|.|11|.|bbc1949.txt|.|5|.|bbc2002.txt|.|3|.|bbc1673.txt|.|2|.|bbc1580.txt|.|2|.|bbc1829.txt|.|6|.|bbc1410.txt|.|3|.|bbc1453.txt|.|3|.|bbc1428.txt|.|4|.|bbc1679.txt|.|2|.|bbc1652.txt|.|2|.|bbc1614.txt|.|4|.|bbc1496.txt|.|2|.|bbc2042.txt|.|4|.|bbc1665.txt|.|1|.|bbc1432.txt|.|4|.|bbc1648.txt|.|3|.|bbc1622.txt|.|4|.|bbc2090.txt|.|9
+handsets than own|.|bbc1919.txt|.|1
+mobile operators|.|bbc1919.txt|.|1
+platform game|.|bbc2090.txt|.|2
+painkiller game|.|bbc1964.txt|.|2
+jedi|.|bbc1949.txt|.|1
+take part|.|bbc1964.txt|.|1
+operators|.|bbc1919.txt|.|1
+learn and play|.|bbc2107.txt|.|1

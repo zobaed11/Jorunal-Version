@@ -1,0 +1,35 @@
+11
+cheaper|.|bbc1874.txt|.|2
+smashed|.|bbc2196.txt|.|1
+tabloid|.|bbc2032.txt|.|2
+sk telecom|.|bbc2202.txt|.|2
+mobile pc|.|bbc2203.txt|.|3
+pocket office|.|bbc1865.txt|.|2
+south korea|.|bbc2202.txt|.|3
+sony walkman|.|bbc2203.txt|.|3
+said dr|.|bbc2049.txt|.|2
+marine|.|bbc2203.txt|.|4
+phone firms|.|bbc2049.txt|.|2
+tabloid newspapers|.|bbc2032.txt|.|1
+sk|.|bbc2202.txt|.|2
+telecom|.|bbc2202.txt|.|2
+mobile users|.|bbc2202.txt|.|2
+smash|.|bbc2196.txt|.|1
+walkman|.|bbc2203.txt|.|3
+text record|.|bbc2196.txt|.|1
+smash more records|.|bbc2196.txt|.|1
+marine chronometer|.|bbc2203.txt|.|4
+portable computing|.|bbc2203.txt|.|1
+mobile|.|bbc2196.txt|.|5|.|bbc2212.txt|.|4|.|bbc2009.txt|.|2|.|bbc2032.txt|.|8|.|bbc2203.txt|.|14|.|bbc1976.txt|.|3|.|bbc1874.txt|.|8|.|bbc2210.txt|.|6|.|bbc2049.txt|.|7|.|bbc1865.txt|.|7|.|bbc2202.txt|.|22|.|bbc2006.txt|.|5|.|bbc1977.txt|.|2|.|bbc1994.txt|.|3|.|bbc1927.txt|.|4
+chronometer|.|bbc2203.txt|.|4
+message|.|bbc2196.txt|.|1
+text message|.|bbc2196.txt|.|1
+innovations|.|bbc2049.txt|.|2
+korea|.|bbc2202.txt|.|4
+governing|.|bbc2049.txt|.|1
+apple laptop|.|bbc2203.txt|.|2
+mobile phone|.|bbc2032.txt|.|5|.|bbc2203.txt|.|6|.|bbc1874.txt|.|1
+records with their text messaging|.|bbc2196.txt|.|1
+mobile gig|.|bbc2006.txt|.|1
+tipped|.|bbc2202.txt|.|2
+mobile picture|.|bbc2032.txt|.|1

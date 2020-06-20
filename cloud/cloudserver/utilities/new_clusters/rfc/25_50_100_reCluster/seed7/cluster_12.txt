@@ -1,0 +1,11 @@
+12
+network models|.|rfc4887.txt|.|20
+mobility or access|.|rfc4640.txt|.|4
+returning home|.|rfc4887.txt|.|14
+care of address|.|rfc4857.txt|.|1
+home network models|.|rfc4887.txt|.|20
+extended home|.|rfc4887.txt|.|17
+home agent|.|rfc5944.txt|.|398|.|rfc4640.txt|.|59|.|rfc3220.txt|.|369|.|rfc4887.txt|.|37|.|rfc3024.txt|.|71|.|rfc5142.txt|.|133
+message january|.|rfc5142.txt|.|12
+home|.|rfc5944.txt|.|620|.|rfc5844.txt|.|216|.|rfc4640.txt|.|127|.|rfc3484.txt|.|26|.|rfc2794.txt|.|23|.|rfc3220.txt|.|584|.|rfc4887.txt|.|293|.|rfc4857.txt|.|69|.|rfc3024.txt|.|114|.|rfc5142.txt|.|161
+care|.|rfc4857.txt|.|2

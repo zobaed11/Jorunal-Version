@@ -1,0 +1,230 @@
+stack|.|WET5882.txt|.|61
+sabanero eco lodge|.|WET5316.txt|.|54
+expertise|.|WET6378.txt|.|2
+shelf bookcase|.|WET6378.txt|.|33
+advice bedroom|.|WET6389.txt|.|4
+record|.|WET5327.txt|.|4
+visual|.|WET6682.txt|.|11
+free shipping bush|.|WET6378.txt|.|39
+bookcase|.|WET6378.txt|.|80
+make text|.|WET6682.txt|.|22
+height|.|WET5992.txt|.|55
+stack exchange|.|WET5882.txt|.|37
+chaos|.|WET5632.txt|.|2
+league|.|WET6555.txt|.|31
+gallery carpet|.|WET6389.txt|.|4
+tvs|.|WET6267.txt|.|66
+hedging|.|WET5802.txt|.|10
+lodge video|.|WET5316.txt|.|10
+defaults|.|WET5992.txt|.|44
+boost|.|WET4990.txt|.|2
+nowmore|.|WET6167.txt|.|72
+actions|.|WET6555.txt|.|6
+archives|.|WET6333.txt|.|2
+text searching|.|WET6670.txt|.|2
+policies of linked|.|WET5992.txt|.|33
+warc|.|WET6516.txt|.|11|.|WET6476.txt|.|11|.|WET6427.txt|.|11|.|WET6333.txt|.|11|.|WET5219.txt|.|11|.|WET6167.txt|.|11|.|WET5316.txt|.|11|.|WET6682.txt|.|11|.|WET5632.txt|.|11|.|WET5327.txt|.|11|.|WET5992.txt|.|11|.|WET6555.txt|.|11|.|WET6267.txt|.|11|.|WET6638.txt|.|11|.|WET6389.txt|.|11|.|WET6378.txt|.|11|.|WET5687.txt|.|11|.|WET4990.txt|.|11|.|WET5869.txt|.|11|.|WET5858.txt|.|11|.|WET5802.txt|.|11|.|WET5882.txt|.|11|.|WET6670.txt|.|11
+current|.|WET6167.txt|.|1
+rss|.|WET6638.txt|.|31
+hotel|.|WET5316.txt|.|45
+rugs|.|WET6389.txt|.|8
+audio|.|WET6201.txt|.|66|.|WET6267.txt|.|112
+misspelled|.|WET6516.txt|.|17
+commonly misspelled|.|WET6516.txt|.|14
+kitchen|.|WET5858.txt|.|114
+deadline|.|WET6670.txt|.|2
+free|.|WET6378.txt|.|116
+arts|.|WET6682.txt|.|33
+sp|.|WET6476.txt|.|30
+computers|.|WET5869.txt|.|9
+linked|.|WET5992.txt|.|66
+innovation|.|WET4990.txt|.|2
+accessories|.|WET6267.txt|.|209|.|WET5858.txt|.|55
+photo|.|WET5736.txt|.|169
+durango herald|.|WET6682.txt|.|49
+services|.|WET6389.txt|.|10
+sample|.|WET6201.txt|.|82
+cricket|.|WET6555.txt|.|183
+sabanero eco|.|WET5316.txt|.|73
+information|.|WET6670.txt|.|8
+river|.|WET6682.txt|.|34
+polish|.|WET5687.txt|.|11
+story|.|WET6201.txt|.|76
+laminate|.|WET6389.txt|.|12
+specialsreserve nowmore|.|WET6167.txt|.|72
+blogs|.|WET6638.txt|.|30
+clear filter|.|WET6476.txt|.|9
+language|.|WET5882.txt|.|41
+bet|.|WET5632.txt|.|2
+hardwood laminate|.|WET6389.txt|.|12
+view|.|WET6201.txt|.|149
+japanese|.|WET5687.txt|.|11
+shipping|.|WET6378.txt|.|78
+home theater|.|WET6267.txt|.|66
+club|.|WET6333.txt|.|36
+details|.|WET6201.txt|.|144
+romanian|.|WET5687.txt|.|11
+gifts|.|WET5858.txt|.|94
+add|.|WET5858.txt|.|151
+itm|.|WET5992.txt|.|88
+champions|.|WET6555.txt|.|20
+overlay|.|WET5992.txt|.|11
+commonly|.|WET6516.txt|.|17
+el|.|WET5316.txt|.|99
+customer care|.|WET6389.txt|.|8
+specialsreserve|.|WET6167.txt|.|72
+itm in obj|.|WET5992.txt|.|22
+shelf|.|WET6378.txt|.|86
+free shipping|.|WET6378.txt|.|78
+retail free shipping bush|.|WET6378.txt|.|39
+gregory sp|.|WET6476.txt|.|12
+carpet|.|WET6389.txt|.|24
+exchange|.|WET5882.txt|.|37
+neighborhood|.|WET6167.txt|.|6
+book club|.|WET6333.txt|.|35
+full|.|WET6201.txt|.|144
+trust|.|WET6516.txt|.|2
+brochure hotel|.|WET5316.txt|.|10
+add to cart|.|WET5858.txt|.|139
+blank|.|WET5992.txt|.|66
+shop|.|WET6267.txt|.|88
+sinks|.|WET5858.txt|.|42
+book|.|WET6201.txt|.|189|.|WET6333.txt|.|89
+searching|.|WET6670.txt|.|2
+privacy|.|WET6333.txt|.|3|.|WET4990.txt|.|2|.|WET5632.txt|.|2
+video|.|WET5316.txt|.|20
+content|.|WET6427.txt|.|1|.|WET5869.txt|.|1
+computers finance|.|WET5869.txt|.|8
+genres|.|WET6333.txt|.|1
+surveillance|.|WET5632.txt|.|2
+vinyl|.|WET4990.txt|.|21
+conversion|.|WET6516.txt|.|11|.|WET6476.txt|.|11|.|WET6427.txt|.|11|.|WET5219.txt|.|11|.|WET5687.txt|.|11|.|WET5869.txt|.|11|.|WET5802.txt|.|11|.|WET5882.txt|.|11
+news|.|WET6682.txt|.|59
+hardwood|.|WET6389.txt|.|16
+spanish|.|WET5687.txt|.|11|.|WET5882.txt|.|99
+overview|.|WET5882.txt|.|6
+custom|.|WET6389.txt|.|4
+mobile|.|WET6682.txt|.|11
+portuguese romanian russian|.|WET5687.txt|.|11
+sabanero|.|WET5316.txt|.|81
+bedroom|.|WET6389.txt|.|4
+home|.|WET6267.txt|.|215|.|WET6638.txt|.|52
+manage|.|WET6638.txt|.|18
+target|.|WET5869.txt|.|4
+forum|.|WET6555.txt|.|68
+obj|.|WET5992.txt|.|55
+service|.|WET6638.txt|.|48
+cricket web|.|WET6555.txt|.|105
+visual arts|.|WET6682.txt|.|11
+mark|.|WET6555.txt|.|9
+finance|.|WET5869.txt|.|14
+big|.|WET5632.txt|.|42
+animas river|.|WET6682.txt|.|22
+type|.|WET6516.txt|.|3|.|WET5687.txt|.|1|.|WET5869.txt|.|3|.|WET5802.txt|.|8|.|WET5327.txt|.|11
+rent|.|WET6167.txt|.|130
+cart|.|WET5858.txt|.|159
+norwegian|.|WET5687.txt|.|11
+forums|.|WET6555.txt|.|28
+price|.|WET6267.txt|.|187|.|WET6670.txt|.|8
+var defaults|.|WET5992.txt|.|22
+text|.|WET6682.txt|.|22|.|WET6670.txt|.|12
+animals|.|WET4990.txt|.|2
+gallery|.|WET6389.txt|.|8
+guide|.|WET6167.txt|.|24
+russian|.|WET5687.txt|.|11
+var|.|WET5992.txt|.|638
+statue|.|WET4990.txt|.|2
+custom rugs|.|WET6389.txt|.|4
+classifieds|.|WET6638.txt|.|20
+serbian|.|WET5687.txt|.|11
+bedrooms|.|WET6167.txt|.|17
+ships|.|WET6476.txt|.|53
+eco lodge|.|WET5316.txt|.|54
+card|.|WET5858.txt|.|56
+sellers|.|WET5858.txt|.|4
+narrated|.|WET6201.txt|.|158
+care|.|WET6389.txt|.|14
+status|.|WET5632.txt|.|2
+love|.|WET6201.txt|.|74
+cart save|.|WET5858.txt|.|70
+save|.|WET5858.txt|.|76
+gallerybox|.|WET5736.txt|.|55
+local|.|WET6682.txt|.|33
+retail|.|WET6378.txt|.|78
+products|.|WET6389.txt|.|12
+cameras|.|WET6267.txt|.|111
+web|.|WET6555.txt|.|105
+installation|.|WET6389.txt|.|4
+herald|.|WET6682.txt|.|83
+feeds|.|WET6638.txt|.|31
+durango|.|WET6682.txt|.|157
+korean norwegian polish|.|WET5687.txt|.|11
+castles|.|WET6670.txt|.|24
+product|.|WET6670.txt|.|19
+uri|.|WET5802.txt|.|3
+poid|.|WET5992.txt|.|33
+filter|.|WET6476.txt|.|19
+hits|.|WET5632.txt|.|1
+japanese korean norwegian|.|WET5687.txt|.|11
+brochures lodge|.|WET5316.txt|.|10
+podcasts|.|WET6638.txt|.|30
+rss feeds podcasts|.|WET6638.txt|.|30
+atom|.|WET6333.txt|.|3
+return|.|WET5992.txt|.|319
+services installation|.|WET6389.txt|.|4
+voice|.|WET6201.txt|.|23
+quick|.|WET5882.txt|.|6
+customer service|.|WET6638.txt|.|30
+romanian russian serbian|.|WET5687.txt|.|11
+office|.|WET6378.txt|.|135
+blog|.|WET6333.txt|.|3|.|WET5632.txt|.|30|.|WET5882.txt|.|12|.|WET6670.txt|.|2
+uuid|.|WET6516.txt|.|1
+posts|.|WET6555.txt|.|170
+rent specialsreserve|.|WET6167.txt|.|72
+eco|.|WET5316.txt|.|73
+view full|.|WET6201.txt|.|137
+theater|.|WET6267.txt|.|66
+full details|.|WET6201.txt|.|137
+herald subscribe mobile the durango|.|WET6682.txt|.|11
+ner|.|WET6333.txt|.|2
+directions products|.|WET6389.txt|.|4
+norwegian polish portuguese|.|WET5687.txt|.|11
+itm in defaults|.|WET5992.txt|.|22
+quick overview|.|WET5882.txt|.|6
+author|.|WET6670.txt|.|2
+archive|.|WET6555.txt|.|10|.|WET6638.txt|.|30
+spanish language|.|WET5882.txt|.|32
+core|.|WET6516.txt|.|2
+directions|.|WET6389.txt|.|4
+news local|.|WET6682.txt|.|16
+actions mark forums|.|WET6555.txt|.|6
+retail free|.|WET6378.txt|.|78
+columbus|.|WET6638.txt|.|150
+el sabanero eco|.|WET5316.txt|.|72
+animas|.|WET6682.txt|.|34
+advice|.|WET6389.txt|.|25
+bush|.|WET6378.txt|.|91
+policies|.|WET5992.txt|.|99
+phones|.|WET6267.txt|.|66
+hedge|.|WET6378.txt|.|2
+portuguese|.|WET5687.txt|.|11
+make|.|WET6682.txt|.|37
+says|.|WET6201.txt|.|116
+gregory|.|WET6476.txt|.|12
+brochures|.|WET5316.txt|.|10
+brochure|.|WET5316.txt|.|10
+sports|.|WET6638.txt|.|68
+subscribe|.|WET6682.txt|.|22
+customer service manage|.|WET6638.txt|.|6
+clear|.|WET6476.txt|.|13
+thread|.|WET6555.txt|.|22|.|WET5632.txt|.|3
+korean|.|WET5687.txt|.|11
+apartment guide|.|WET6167.txt|.|22
+el sabanero eco lodge|.|WET5316.txt|.|53
+russian serbian spanish|.|WET5687.txt|.|11
+el sabanero|.|WET5316.txt|.|80
+shipping bush|.|WET6378.txt|.|39
+lodge|.|WET5316.txt|.|82
+apartment|.|WET6167.txt|.|67
+unabridged|.|WET6201.txt|.|182
+customer|.|WET6638.txt|.|32|.|WET6389.txt|.|20

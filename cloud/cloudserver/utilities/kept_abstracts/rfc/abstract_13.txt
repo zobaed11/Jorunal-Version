@@ -1,0 +1,12 @@
+13
+authorization and authentication
+access challenge
+pkm said
+challenge response
+atkinson
+cryptographic authentication
+korhonen
+extensible authentication
+foreign authentication extension
+derived keys
+multiple mechanisms

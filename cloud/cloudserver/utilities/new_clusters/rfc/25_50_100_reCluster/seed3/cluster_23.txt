@@ -1,0 +1,36 @@
+23
+duplicate acks|.|rfc4653.txt|.|14|.|rfc5827.txt|.|22
+tcp connection|.|rfc4583.txt|.|11|.|rfc2166.txt|.|41
+mptcp architecture|.|rfc6182.txt|.|27
+tcp more robust|.|rfc6069.txt|.|25
+connectivity disruption|.|rfc6069.txt|.|22
+compatibility goals|.|rfc6182.txt|.|8
+mapped address attribute|.|rfc5389.txt|.|1
+timeout|.|rfc3588.txt|.|10|.|rfc6069.txt|.|15
+timer backoff|.|rfc6069.txt|.|13
+idle period|.|rfc2581.txt|.|7
+based loss|.|rfc6069.txt|.|5
+multipath tcp|.|rfc6182.txt|.|57
+multipath transport|.|rfc6182.txt|.|8
+request or indication|.|rfc5389.txt|.|12
+ncr|.|rfc4653.txt|.|7
+long idle|.|rfc2581.txt|.|4
+timeout based|.|rfc6069.txt|.|6
+tcp|.|rfc4583.txt|.|18|.|rfc2581.txt|.|73|.|rfc2166.txt|.|128|.|rfc4653.txt|.|94|.|rfc5827.txt|.|51|.|rfc5389.txt|.|39|.|rfc5128.txt|.|49|.|rfc6182.txt|.|160|.|rfc2748.txt|.|24|.|rfc6069.txt|.|159|.|rfc5045.txt|.|29|.|rfc4953.txt|.|137|.|rfc4341.txt|.|43
+receive|.|rfc4953.txt|.|46
+control april|.|rfc2581.txt|.|13
+tcp ncr|.|rfc4653.txt|.|1
+disruption|.|rfc6069.txt|.|24
+limited|.|rfc4653.txt|.|49
+tcp congestion control|.|rfc2581.txt|.|17
+acks|.|rfc4653.txt|.|19|.|rfc5827.txt|.|27
+robustness|.|rfc4653.txt|.|28
+transmit|.|rfc4653.txt|.|52
+window is small|.|rfc5827.txt|.|4
+robustness of tcp|.|rfc4653.txt|.|18
+extended limited|.|rfc4653.txt|.|28
+sctp april|.|rfc5827.txt|.|14
+architecture march|.|rfc6182.txt|.|27
+improving|.|rfc4653.txt|.|18
+rsts|.|rfc4953.txt|.|48
+compatibility|.|rfc3755.txt|.|10|.|rfc6182.txt|.|30

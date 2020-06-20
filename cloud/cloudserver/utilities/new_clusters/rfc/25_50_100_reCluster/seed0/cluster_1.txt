@@ -1,0 +1,68 @@
+1
+provide free|.|rfc350.txt|.|1
+modes|.|rfc5373.txt|.|24|.|rfc2811.txt|.|24
+netrjs session|.|rfc589.txt|.|4
+reach|.|rfc4479.txt|.|38
+user level|.|rfc5598.txt|.|2
+service identifier|.|rfc5897.txt|.|24
+tso use|.|rfc379.txt|.|2
+emulate|.|rfc5598.txt|.|2
+accessing|.|rfc535.txt|.|2
+file access protocol|.|rfc535.txt|.|5
+answering|.|rfc5373.txt|.|55
+rosenberg informational|.|rfc5897.txt|.|22|.|rfc4367.txt|.|17
+mailing list|.|rfc5598.txt|.|20
+verbs|.|rfc607.txt|.|3
+priv|.|rfc5379.txt|.|9|.|rfc5373.txt|.|4
+member selection|.|rfc5356.txt|.|18
+munakata informational|.|rfc5379.txt|.|23
+pasv|.|rfc607.txt|.|2
+command verbs|.|rfc607.txt|.|3
+reach information|.|rfc4479.txt|.|29
+programmer|.|rfc379.txt|.|2
+preference|.|rfc5373.txt|.|3
+reply code|.|rfc607.txt|.|8
+batch|.|rfc379.txt|.|4
+answer mode|.|rfc5373.txt|.|5
+automaton|.|rfc614.txt|.|2
+voice chat|.|rfc5897.txt|.|22
+sdc|.|rfc151.txt|.|2
+comments on file|.|rfc535.txt|.|4
+noble|.|rfc379.txt|.|2
+message transfer|.|rfc5598.txt|.|9
+session terminated|.|rfc589.txt|.|2
+sip april|.|rfc6157.txt|.|14
+service identification|.|rfc5897.txt|.|73
+application profile|.|rfc3054.txt|.|15
+remotely|.|rfc535.txt|.|3
+user agent|.|rfc5379.txt|.|36|.|rfc2165.txt|.|57
+guidelines february|.|rfc5379.txt|.|22
+tso user|.|rfc379.txt|.|1
+telephones|.|rfc3054.txt|.|10
+interact|.|rfc4479.txt|.|2|.|rfc162.txt|.|4
+user principal|.|rfc5397.txt|.|1
+privacy guidelines|.|rfc5379.txt|.|22
+adaptive|.|rfc5356.txt|.|5
+member|.|rfc5356.txt|.|18
+remote user|.|rfc535.txt|.|6|.|rfc589.txt|.|3
+behavior|.|rfc5897.txt|.|5
+terminated|.|rfc589.txt|.|3
+reported to ccn|.|rfc589.txt|.|4
+barbara noble|.|rfc379.txt|.|2
+remotely accessing|.|rfc535.txt|.|2
+comments on file access|.|rfc535.txt|.|4
+jobs|.|rfc379.txt|.|2
+file access|.|rfc535.txt|.|8
+behavior of the user|.|rfc5897.txt|.|2
+mode header|.|rfc5373.txt|.|2
+network sites|.|rfc350.txt|.|2
+sip privacy|.|rfc5379.txt|.|22
+multimedia|.|rfc5576.txt|.|17|.|rfc4337.txt|.|6|.|rfc5897.txt|.|28
+adaptive policies|.|rfc5356.txt|.|2
+batch jobs|.|rfc379.txt|.|1
+accounts for ucsb|.|rfc350.txt|.|3
+sip answering|.|rfc5373.txt|.|23
+interact with the user|.|rfc4479.txt|.|2
+comment|.|rfc151.txt|.|2
+accounts|.|rfc350.txt|.|4
+user|.|rfc491.txt|.|6|.|rfc614.txt|.|7|.|rfc5397.txt|.|8|.|rfc165.txt|.|12|.|rfc5373.txt|.|88|.|rfc127.txt|.|1|.|rfc589.txt|.|17|.|rfc2165.txt|.|86|.|rfc3054.txt|.|44|.|rfc4643.txt|.|37|.|rfc607.txt|.|22|.|rfc567.txt|.|1|.|rfc5379.txt|.|85|.|rfc4479.txt|.|70|.|rfc535.txt|.|20|.|rfc524.txt|.|64|.|rfc379.txt|.|8|.|rfc350.txt|.|8|.|rfc151.txt|.|3|.|rfc5598.txt|.|41|.|rfc5897.txt|.|104|.|rfc5356.txt|.|32|.|rfc6157.txt|.|60

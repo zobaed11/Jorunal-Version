@@ -1,0 +1,36 @@
+2
+mobile access|.|rfc5844.txt|.|148
+pbx|.|rfc3064.txt|.|82
+mimura|.|rfc4160.txt|.|16
+gateway requirements|.|rfc4160.txt|.|13
+channel data|.|rfc4040.txt|.|1
+internet fax gateway|.|rfc4160.txt|.|19
+mgcp cas|.|rfc3064.txt|.|56
+fax gateway requirements|.|rfc4160.txt|.|13
+related|.|rfc4040.txt|.|2
+cas|.|rfc3064.txt|.|76
+gstn|.|rfc4160.txt|.|42
+internet fax|.|rfc4160.txt|.|57
+onramp|.|rfc4160.txt|.|30
+internet fax gateway requirements|.|rfc4160.txt|.|13
+render|.|rfc3459.txt|.|16
+content gateway|.|rfc3459.txt|.|68
+fax gateway|.|rfc4160.txt|.|19
+receiving system|.|rfc3459.txt|.|16
+proxy mobile|.|rfc5844.txt|.|129
+critical content|.|rfc3459.txt|.|54
+offramp gateway|.|rfc4160.txt|.|34
+media gateway|.|rfc4040.txt|.|4|.|rfc3064.txt|.|36
+packages|.|rfc3149.txt|.|58|.|rfc3064.txt|.|79
+trunk|.|rfc3064.txt|.|47
+call setup|.|rfc3064.txt|.|33
+related mime|.|rfc4040.txt|.|2
+mgcp|.|rfc3149.txt|.|82|.|rfc3064.txt|.|114
+basic pbx|.|rfc3064.txt|.|30
+gstn fax|.|rfc4160.txt|.|26
+burger standards|.|rfc3459.txt|.|24
+wink|.|rfc3064.txt|.|43
+setup|.|rfc3064.txt|.|46
+using internet mail|.|rfc3965.txt|.|3
+gateway|.|rfc3149.txt|.|31|.|rfc3798.txt|.|14|.|rfc3965.txt|.|13|.|rfc2305.txt|.|13|.|rfc5844.txt|.|143|.|rfc4160.txt|.|87|.|rfc4040.txt|.|4|.|rfc3459.txt|.|116|.|rfc1965.txt|.|2|.|rfc3064.txt|.|127
+mgcp cas packages|.|rfc3064.txt|.|56

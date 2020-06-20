@@ -1,0 +1,51 @@
+13
+raise money|.|bbc621.txt|.|2
+mr blunkett|.|bbc998.txt|.|4
+documents|.|bbc2003.txt|.|1|.|bbc1199.txt|.|3
+blunkett|.|bbc998.txt|.|6|.|bbc1123.txt|.|3|.|bbc1293.txt|.|2
+elton|.|bbc621.txt|.|4
+heath|.|bbc1199.txt|.|3
+liberal leader|.|bbc1199.txt|.|2
+digby jones|.|bbc1255.txt|.|2
+raise|.|bbc621.txt|.|2|.|bbc233.txt|.|1
+spree|.|bbc1255.txt|.|3
+nanny|.|bbc998.txt|.|5
+spending spree|.|bbc1255.txt|.|2
+made|.|bbc1052.txt|.|4
+cultural|.|bbc893.txt|.|1
+omai|.|bbc530.txt|.|2
+alan|.|bbc998.txt|.|3|.|bbc553.txt|.|2|.|bbc785.txt|.|3|.|bbc893.txt|.|2|.|bbc1174.txt|.|2
+child support|.|bbc1052.txt|.|2
+support agency|.|bbc1052.txt|.|2
+john|.|bbc674.txt|.|3|.|bbc1063.txt|.|3|.|bbc1052.txt|.|4
+documents released|.|bbc1199.txt|.|2
+parker|.|bbc674.txt|.|2|.|bbc1646.txt|.|2|.|bbc893.txt|.|3
+budd|.|bbc998.txt|.|2
+child|.|bbc1052.txt|.|2
+balls|.|bbc1255.txt|.|6
+permanent secretary|.|bbc1052.txt|.|2
+british film|.|bbc893.txt|.|2
+portrait of omai|.|bbc530.txt|.|2
+sir alan|.|bbc998.txt|.|3|.|bbc893.txt|.|2
+alan budd|.|bbc998.txt|.|2
+ian|.|bbc1056.txt|.|2|.|bbc1275.txt|.|3
+wedding|.|bbc1275.txt|.|2|.|bbc651.txt|.|3
+sir john|.|bbc1052.txt|.|4
+sir|.|bbc998.txt|.|5|.|bbc530.txt|.|2|.|bbc1255.txt|.|3|.|bbc621.txt|.|4|.|bbc1275.txt|.|4|.|bbc893.txt|.|3|.|bbc1052.txt|.|5|.|bbc1199.txt|.|11
+exhibition|.|bbc530.txt|.|2
+reynolds|.|bbc530.txt|.|4|.|bbc553.txt|.|2
+sir john was made|.|bbc1052.txt|.|1
+joshua reynolds|.|bbc530.txt|.|2
+agency|.|bbc1100.txt|.|3|.|bbc1052.txt|.|3
+elton played|.|bbc621.txt|.|1
+digby|.|bbc1255.txt|.|3
+played|.|bbc686.txt|.|2|.|bbc621.txt|.|3|.|bbc1674.txt|.|2
+sir edward|.|bbc1199.txt|.|9
+century|.|bbc530.txt|.|2
+wilson|.|bbc1199.txt|.|4
+blair said|.|bbc998.txt|.|2|.|bbc918.txt|.|2
+sir elton|.|bbc621.txt|.|3
+permanent|.|bbc1052.txt|.|2
+visa|.|bbc998.txt|.|3|.|bbc1052.txt|.|3
+sir digby|.|bbc1255.txt|.|3
+sir joshua|.|bbc530.txt|.|2

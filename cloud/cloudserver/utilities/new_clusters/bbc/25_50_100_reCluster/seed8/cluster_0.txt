@@ -1,0 +1,22 @@
+0
+rome|.|bbc1625.txt|.|2|.|bbc1614.txt|.|2
+magic|.|bbc1615.txt|.|1
+participation|.|bbc1315.txt|.|1
+stringer|.|bbc1615.txt|.|3
+italians|.|bbc1614.txt|.|1
+keeping|.|bbc1667.txt|.|1
+orquera|.|bbc1615.txt|.|3
+ireland captain|.|bbc1615.txt|.|2
+dry|.|bbc1667.txt|.|2
+hickie|.|bbc1615.txt|.|2
+april|.|bbc1315.txt|.|2
+tough|.|bbc1614.txt|.|3
+ball|.|bbc1614.txt|.|2
+murphy|.|bbc1638.txt|.|2|.|bbc1615.txt|.|5
+success|.|bbc1667.txt|.|2|.|bbc1683.txt|.|2
+championship|.|bbc1668.txt|.|2|.|bbc1667.txt|.|2
+santry|.|bbc1315.txt|.|2
+nitoglia|.|bbc1615.txt|.|3
+tough game|.|bbc1614.txt|.|2
+italy|.|bbc1445.txt|.|5|.|bbc1615.txt|.|9|.|bbc1648.txt|.|3|.|bbc1635.txt|.|3
+ireland|.|bbc1445.txt|.|2|.|bbc1667.txt|.|5|.|bbc1652.txt|.|3|.|bbc1614.txt|.|3|.|bbc1615.txt|.|9|.|bbc1665.txt|.|5|.|bbc1315.txt|.|3|.|bbc1716.txt|.|5|.|bbc1635.txt|.|2|.|bbc1343.txt|.|1

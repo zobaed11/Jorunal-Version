@@ -1,0 +1,33 @@
+22
+filed for bankruptcy|.|bbc145.txt|.|1|.|bbc391.txt|.|1
+oecd|.|bbc30.txt|.|9
+russian government|.|bbc77.txt|.|2
+indian oil|.|bbc399.txt|.|2
+production unit|.|bbc399.txt|.|2
+world economy|.|bbc30.txt|.|2
+yukos assets|.|bbc399.txt|.|2
+supply|.|bbc77.txt|.|2
+said yukos|.|bbc314.txt|.|1|.|bbc299.txt|.|1
+crude|.|bbc399.txt|.|3
+us court|.|bbc391.txt|.|2
+oil|.|bbc30.txt|.|7|.|bbc399.txt|.|16|.|bbc77.txt|.|8|.|bbc80.txt|.|2|.|bbc391.txt|.|3|.|bbc91.txt|.|2|.|bbc182.txt|.|3|.|bbc314.txt|.|4|.|bbc299.txt|.|2
+assets|.|bbc399.txt|.|5
+biggest|.|bbc399.txt|.|2|.|bbc831.txt|.|2
+russia|.|bbc77.txt|.|3|.|bbc91.txt|.|3
+soaring|.|bbc30.txt|.|2
+oecd said|.|bbc30.txt|.|4
+receive|.|bbc77.txt|.|1
+biggest oil|.|bbc399.txt|.|2
+rosneft|.|bbc77.txt|.|10
+price rises|.|bbc30.txt|.|1
+russian|.|bbc949.txt|.|1|.|bbc399.txt|.|5|.|bbc841.txt|.|2|.|bbc77.txt|.|6|.|bbc1816.txt|.|2|.|bbc391.txt|.|5|.|bbc157.txt|.|2|.|bbc91.txt|.|4|.|bbc456.txt|.|3
+rating agencies|.|bbc91.txt|.|1
+rosneft receive|.|bbc77.txt|.|1
+purchase|.|bbc77.txt|.|2
+oil production|.|bbc399.txt|.|2
+yukos|.|bbc399.txt|.|8|.|bbc391.txt|.|9|.|bbc157.txt|.|3|.|bbc314.txt|.|16|.|bbc299.txt|.|10
+russian authorities|.|bbc399.txt|.|2|.|bbc391.txt|.|2
+authorities|.|bbc949.txt|.|4|.|bbc399.txt|.|2|.|bbc391.txt|.|3|.|bbc1161.txt|.|2
+oil supply|.|bbc77.txt|.|2
+unit|.|bbc399.txt|.|2|.|bbc456.txt|.|2
+supply deal|.|bbc77.txt|.|2

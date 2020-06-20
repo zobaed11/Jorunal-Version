@@ -1,0 +1,20 @@
+0
+magic|.|bbc1627.txt|.|1|.|bbc1615.txt|.|1
+stringer|.|bbc1627.txt|.|3|.|bbc1615.txt|.|3
+italians|.|bbc1614.txt|.|1|.|bbc1622.txt|.|1
+teams|.|bbc1665.txt|.|1
+orquera|.|bbc1627.txt|.|3|.|bbc1615.txt|.|3
+ireland captain|.|bbc1627.txt|.|2|.|bbc1615.txt|.|2
+hickie|.|bbc1627.txt|.|2|.|bbc1615.txt|.|2
+captain|.|bbc1428.txt|.|3|.|bbc1627.txt|.|2|.|bbc1615.txt|.|2|.|bbc1604.txt|.|3|.|bbc1661.txt|.|3
+tough|.|bbc1614.txt|.|3|.|bbc1622.txt|.|2
+ball|.|bbc1614.txt|.|2
+murphy|.|bbc1627.txt|.|5|.|bbc1615.txt|.|5
+wood believes|.|bbc1665.txt|.|2
+ireland can win|.|bbc1665.txt|.|2
+win grand slam|.|bbc1665.txt|.|1
+nitoglia|.|bbc1627.txt|.|3|.|bbc1615.txt|.|3
+win a grand|.|bbc1665.txt|.|1
+tough game|.|bbc1614.txt|.|2
+italy|.|bbc1627.txt|.|8|.|bbc1615.txt|.|9|.|bbc1648.txt|.|3
+ireland|.|bbc1446.txt|.|3|.|bbc1627.txt|.|8|.|bbc1652.txt|.|3|.|bbc1614.txt|.|3|.|bbc1615.txt|.|9|.|bbc1665.txt|.|5|.|bbc1716.txt|.|5|.|bbc1079.txt|.|4|.|bbc1343.txt|.|1

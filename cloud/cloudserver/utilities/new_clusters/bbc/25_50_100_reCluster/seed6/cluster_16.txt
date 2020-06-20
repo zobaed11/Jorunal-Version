@@ -1,0 +1,27 @@
+16
+gloucester|.|bbc1724.txt|.|1
+vickery|.|bbc1724.txt|.|3
+scored another goal|.|bbc1464.txt|.|1
+lamont|.|bbc1720.txt|.|2
+metatarsal|.|bbc1427.txt|.|4
+paterson slotted|.|bbc1720.txt|.|1
+coaching|.|bbc1632.txt|.|1
+paterson penalty|.|bbc1720.txt|.|2
+arm|.|bbc1724.txt|.|3
+foot|.|bbc1427.txt|.|4
+slotted|.|bbc1720.txt|.|1
+broken|.|bbc1427.txt|.|3|.|bbc1724.txt|.|2
+six|.|bbc1632.txt|.|1|.|bbc1613.txt|.|2|.|bbc1427.txt|.|3|.|bbc1419.txt|.|3|.|bbc1604.txt|.|3|.|bbc1677.txt|.|3|.|bbc1658.txt|.|3|.|bbc1716.txt|.|4|.|bbc1464.txt|.|2|.|bbc1708.txt|.|2|.|bbc1720.txt|.|2|.|bbc1724.txt|.|3|.|bbc1685.txt|.|2|.|bbc1648.txt|.|3|.|bbc1676.txt|.|2
+queudrue|.|bbc1419.txt|.|2
+forward pass|.|bbc1720.txt|.|2
+holland|.|bbc1419.txt|.|4
+positive|.|bbc1724.txt|.|2
+betis|.|bbc1464.txt|.|2
+six points|.|bbc1464.txt|.|2
+danny|.|bbc1419.txt|.|2
+scored|.|bbc1464.txt|.|2
+riggott|.|bbc1419.txt|.|3
+england debut|.|bbc1613.txt|.|2
+forearm|.|bbc1724.txt|.|2
+starting|.|bbc1464.txt|.|2
+sidelined|.|bbc1427.txt|.|2

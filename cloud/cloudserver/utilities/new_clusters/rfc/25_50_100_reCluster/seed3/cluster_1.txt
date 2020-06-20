@@ -1,0 +1,27 @@
+1
+provide free|.|rfc350.txt|.|1
+tso user|.|rfc379.txt|.|1
+modes|.|rfc5373.txt|.|24
+print file|.|rfc385.txt|.|4
+listed directory|.|rfc3659.txt|.|6
+user defined errors|.|rfc5284.txt|.|1
+remote user|.|rfc535.txt|.|6|.|rfc5629.txt|.|7|.|rfc589.txt|.|3
+place type|.|rfc4480.txt|.|1
+pastor|.|rfc4166.txt|.|1
+munakata informational|.|rfc5379.txt|.|23
+terminated|.|rfc589.txt|.|3
+elburg informational|.|rfc5502.txt|.|14
+reported to ccn|.|rfc589.txt|.|4
+preference|.|rfc5373.txt|.|3
+jobs|.|rfc379.txt|.|2
+user defined|.|rfc5284.txt|.|1
+defined errors|.|rfc5284.txt|.|1
+mode header|.|rfc5373.txt|.|2
+answer mode|.|rfc5373.txt|.|5
+sip privacy|.|rfc5379.txt|.|22
+adaptive policies|.|rfc5356.txt|.|2
+element name|.|rfc4480.txt|.|1
+session terminated|.|rfc589.txt|.|2
+interact with the user|.|rfc4479.txt|.|2
+user|.|rfc5397.txt|.|8|.|rfc5502.txt|.|113|.|rfc5608.txt|.|36|.|rfc3659.txt|.|23|.|rfc3054.txt|.|44|.|rfc607.txt|.|22|.|rfc567.txt|.|1|.|rfc5379.txt|.|85|.|rfc5629.txt|.|504|.|rfc350.txt|.|8|.|rfc151.txt|.|3|.|rfc385.txt|.|19|.|rfc5897.txt|.|104|.|rfc5284.txt|.|17|.|rfc491.txt|.|6|.|rfc614.txt|.|7|.|rfc5373.txt|.|88|.|rfc127.txt|.|1|.|rfc589.txt|.|17|.|rfc2165.txt|.|86|.|rfc89.txt|.|1|.|rfc4479.txt|.|70|.|rfc4480.txt|.|27|.|rfc535.txt|.|20|.|rfc379.txt|.|8|.|rfc4166.txt|.|49|.|rfc2157.txt|.|13|.|rfc5356.txt|.|32|.|rfc6157.txt|.|60
+guidelines february|.|rfc5379.txt|.|22

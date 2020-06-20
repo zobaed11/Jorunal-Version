@@ -1,0 +1,50 @@
+15
+trade deficit|.|bbc440.txt|.|3
+electronics|.|bbc2115.txt|.|4|.|bbc1958.txt|.|2
+gadget|.|bbc2165.txt|.|3|.|bbc2115.txt|.|2|.|bbc1958.txt|.|3|.|bbc2187.txt|.|4
+french consumer|.|bbc175.txt|.|2
+remains|.|bbc438.txt|.|2
+fair|.|bbc2115.txt|.|2
+listen|.|bbc2115.txt|.|2
+gates said|.|bbc1958.txt|.|2
+concern over rfid|.|bbc2145.txt|.|1
+us retailer|.|bbc361.txt|.|1
+housing market|.|bbc438.txt|.|3|.|bbc459.txt|.|3|.|bbc194.txt|.|2
+mr gates|.|bbc1958.txt|.|5
+conference board|.|bbc361.txt|.|1
+retail banking|.|bbc409.txt|.|1
+purchases|.|bbc2145.txt|.|2
+interest rates|.|bbc438.txt|.|5|.|bbc1257.txt|.|2|.|bbc402.txt|.|2
+next fiscal|.|bbc322.txt|.|2
+thousands|.|bbc1261.txt|.|2|.|bbc2115.txt|.|2|.|bbc2219.txt|.|2
+basis|.|bbc175.txt|.|3
+than half|.|bbc2145.txt|.|2
+us economy|.|bbc402.txt|.|2|.|bbc361.txt|.|2
+interest rates on hold|.|bbc438.txt|.|1
+us consumers|.|bbc361.txt|.|1
+opens|.|bbc529.txt|.|1|.|bbc1958.txt|.|1
+widened|.|bbc440.txt|.|1|.|bbc124.txt|.|1
+rising|.|bbc283.txt|.|1|.|bbc175.txt|.|2
+consumer electronics|.|bbc2115.txt|.|4|.|bbc1958.txt|.|2
+consumer confidence|.|bbc361.txt|.|2
+housing|.|bbc438.txt|.|3|.|bbc459.txt|.|3|.|bbc194.txt|.|2
+showcasing|.|bbc2115.txt|.|2
+people surveyed|.|bbc2145.txt|.|2
+fiscal year|.|bbc322.txt|.|2
+content|.|bbc2115.txt|.|5
+retail|.|bbc409.txt|.|4
+ces|.|bbc2115.txt|.|3|.|bbc1958.txt|.|3
+concern over rfid tags|.|bbc2145.txt|.|1
+gates opens|.|bbc1958.txt|.|1
+consumers|.|bbc2049.txt|.|5|.|bbc245.txt|.|1|.|bbc361.txt|.|4|.|bbc2145.txt|.|7
+consumer|.|bbc440.txt|.|2|.|bbc2201.txt|.|1|.|bbc438.txt|.|5|.|bbc2115.txt|.|5|.|bbc409.txt|.|2|.|bbc182.txt|.|3|.|bbc322.txt|.|2|.|bbc1958.txt|.|3|.|bbc361.txt|.|4|.|bbc1979.txt|.|2|.|bbc175.txt|.|6|.|bbc2145.txt|.|3
+confidence|.|bbc182.txt|.|2|.|bbc361.txt|.|3
+deflation|.|bbc322.txt|.|4
+multimedia content|.|bbc2115.txt|.|2
+surveyed|.|bbc2145.txt|.|2
+next fiscal year|.|bbc322.txt|.|2
+multimedia|.|bbc2115.txt|.|2|.|bbc1874.txt|.|3
+rfid tags|.|bbc2145.txt|.|5
+commerce department|.|bbc440.txt|.|2
+consumer concern|.|bbc2145.txt|.|1
+consumer spending|.|bbc438.txt|.|2|.|bbc182.txt|.|2|.|bbc175.txt|.|3

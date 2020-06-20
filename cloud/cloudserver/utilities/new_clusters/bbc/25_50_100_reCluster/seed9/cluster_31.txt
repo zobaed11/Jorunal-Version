@@ -1,0 +1,50 @@
+31
+bus|.|bbc1201.txt|.|3
+north east|.|bbc1096.txt|.|7
+campaign posters|.|bbc905.txt|.|1
+george w bush|.|bbc1947.txt|.|2
+voting|.|bbc1097.txt|.|2|.|bbc1096.txt|.|1
+music online|.|bbc776.txt|.|2
+silly fuss|.|bbc905.txt|.|4
+security reasons|.|bbc1947.txt|.|2
+mr herron|.|bbc1096.txt|.|2
+herron|.|bbc1096.txt|.|3
+independent labels|.|bbc776.txt|.|2
+labels|.|bbc776.txt|.|2
+rail link|.|bbc934.txt|.|2
+outspent|.|bbc1200.txt|.|2
+campaign|.|bbc776.txt|.|2|.|bbc1247.txt|.|1|.|bbc1200.txt|.|4|.|bbc1201.txt|.|7|.|bbc1271.txt|.|2|.|bbc1947.txt|.|5|.|bbc1096.txt|.|9|.|bbc934.txt|.|3|.|bbc905.txt|.|3
+boost|.|bbc259.txt|.|2|.|bbc1271.txt|.|2|.|bbc1096.txt|.|3|.|bbc2155.txt|.|2|.|bbc1.txt|.|1
+reopening|.|bbc934.txt|.|3
+no|.|bbc909.txt|.|3|.|bbc1096.txt|.|8
+reasons|.|bbc1947.txt|.|2
+dr fox|.|bbc1247.txt|.|3
+north|.|bbc1715.txt|.|1|.|bbc1096.txt|.|7
+link|.|bbc934.txt|.|2
+battle bus|.|bbc1201.txt|.|3
+labour|.|bbc1307.txt|.|8|.|bbc1200.txt|.|3|.|bbc900.txt|.|3|.|bbc1003.txt|.|3|.|bbc1201.txt|.|8|.|bbc1164.txt|.|10|.|bbc1150.txt|.|5|.|bbc1245.txt|.|6|.|bbc1226.txt|.|3|.|bbc1174.txt|.|6|.|bbc1132.txt|.|3|.|bbc1263.txt|.|2
+overseas|.|bbc1947.txt|.|5
+east|.|bbc1063.txt|.|1|.|bbc1261.txt|.|2|.|bbc1096.txt|.|7
+waverley line|.|bbc934.txt|.|3
+blocking|.|bbc1947.txt|.|8
+assembly|.|bbc1096.txt|.|5|.|bbc935.txt|.|8|.|bbc1184.txt|.|2
+george|.|bbc1947.txt|.|2|.|bbc692.txt|.|2
+saying|.|bbc1171.txt|.|2|.|bbc1947.txt|.|2
+row|.|bbc1573.txt|.|2|.|bbc1815.txt|.|3|.|bbc905.txt|.|3
+no campaign|.|bbc1096.txt|.|4
+fuss|.|bbc905.txt|.|4
+said reopening|.|bbc934.txt|.|2
+campaigning|.|bbc1247.txt|.|1
+silly|.|bbc905.txt|.|4
+borders rail|.|bbc934.txt|.|4
+spent|.|bbc1200.txt|.|2
+posters|.|bbc905.txt|.|3
+thursday|.|bbc1096.txt|.|2
+waverley|.|bbc934.txt|.|3
+outspent both labour|.|bbc1200.txt|.|1
+battle|.|bbc1201.txt|.|4
+site|.|bbc1877.txt|.|4|.|bbc2139.txt|.|14|.|bbc1947.txt|.|18
+mr mallon|.|bbc1096.txt|.|4
+buying|.|bbc1200.txt|.|2
+mallon|.|bbc1096.txt|.|6
+borders rail link|.|bbc934.txt|.|2

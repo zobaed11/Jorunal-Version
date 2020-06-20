@@ -1,0 +1,5 @@
+45
+companies face|.|bbc704.txt|.|1
+women in film|.|bbc861.txt|.|1
+servers|.|bbc1837.txt|.|1
+film|.|bbc578.txt|.|4|.|bbc891.txt|.|2|.|bbc844.txt|.|4|.|bbc557.txt|.|7|.|bbc581.txt|.|5|.|bbc888.txt|.|4|.|bbc704.txt|.|6|.|bbc1837.txt|.|8|.|bbc892.txt|.|4|.|bbc890.txt|.|5|.|bbc810.txt|.|5|.|bbc708.txt|.|3|.|bbc813.txt|.|8|.|bbc582.txt|.|6|.|bbc543.txt|.|3|.|bbc861.txt|.|7|.|bbc547.txt|.|5|.|bbc842.txt|.|3|.|bbc597.txt|.|4|.|bbc809.txt|.|3|.|bbc563.txt|.|4|.|bbc570.txt|.|3|.|bbc868.txt|.|2|.|bbc812.txt|.|5|.|bbc825.txt|.|4|.|bbc816.txt|.|7|.|bbc841.txt|.|4|.|bbc575.txt|.|5|.|bbc833.txt|.|7

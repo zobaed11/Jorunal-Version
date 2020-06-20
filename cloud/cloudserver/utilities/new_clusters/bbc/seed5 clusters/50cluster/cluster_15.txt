@@ -1,0 +1,41 @@
+15
+prime minister|.|bbc1212.txt|.|2|.|bbc979.txt|.|2|.|bbc1114.txt|.|6|.|bbc1246.txt|.|3|.|bbc1310.txt|.|4|.|bbc971.txt|.|3|.|bbc1148.txt|.|3|.|bbc1199.txt|.|4|.|bbc918.txt|.|1
+blair dismisses|.|bbc1114.txt|.|1
+national insurance|.|bbc918.txt|.|2
+attack michael|.|bbc1212.txt|.|2
+terrorists|.|bbc1275.txt|.|2
+politically|.|bbc1212.txt|.|2
+danger|.|bbc1310.txt|.|2
+jewish beliefs|.|bbc1212.txt|.|2
+debate between mr|.|bbc1145.txt|.|2
+new plans|.|bbc918.txt|.|1
+specific information|.|bbc1275.txt|.|2
+public safety|.|bbc1310.txt|.|2
+safety|.|bbc1310.txt|.|2
+blair|.|bbc1212.txt|.|9|.|bbc1002.txt|.|3|.|bbc1114.txt|.|10|.|bbc1310.txt|.|5|.|bbc923.txt|.|4|.|bbc1150.txt|.|4|.|bbc1275.txt|.|4|.|bbc1148.txt|.|6|.|bbc917.txt|.|4|.|bbc1263.txt|.|3|.|bbc918.txt|.|6|.|bbc1145.txt|.|5
+ian|.|bbc1275.txt|.|3
+asylum processing|.|bbc918.txt|.|1
+mr blair|.|bbc1212.txt|.|7|.|bbc1114.txt|.|7|.|bbc1310.txt|.|3|.|bbc1263.txt|.|2|.|bbc918.txt|.|5
+tony blair|.|bbc1002.txt|.|2|.|bbc1114.txt|.|2|.|bbc1150.txt|.|2|.|bbc1148.txt|.|2
+prime|.|bbc1212.txt|.|2|.|bbc133.txt|.|4|.|bbc979.txt|.|2|.|bbc1114.txt|.|6|.|bbc1246.txt|.|4|.|bbc1310.txt|.|4|.|bbc971.txt|.|3|.|bbc1148.txt|.|3|.|bbc1199.txt|.|5|.|bbc918.txt|.|2
+speculation|.|bbc1114.txt|.|2|.|bbc1150.txt|.|3|.|bbc1148.txt|.|2|.|bbc264.txt|.|3
+mind|.|bbc1148.txt|.|2
+compensation culture|.|bbc1310.txt|.|2
+minister said|.|bbc1310.txt|.|2
+royal wedding|.|bbc1275.txt|.|2
+howard politically|.|bbc1212.txt|.|2
+beliefs|.|bbc1212.txt|.|2
+jobs like|.|bbc1114.txt|.|2
+tony|.|bbc1002.txt|.|2|.|bbc1114.txt|.|2|.|bbc1150.txt|.|2|.|bbc1148.txt|.|2
+jewish chronicle|.|bbc1212.txt|.|2
+blair said|.|bbc918.txt|.|2
+tv debate|.|bbc1145.txt|.|2
+processing|.|bbc918.txt|.|4
+debate between mr blair|.|bbc1145.txt|.|2
+chronicle|.|bbc1212.txt|.|2|.|bbc1573.txt|.|2
+black woman
+data
+slams
+special effects
+bomb
+health check

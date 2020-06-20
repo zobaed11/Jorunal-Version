@@ -1,0 +1,344 @@
+plane|.|rfc5884.txt|.|38
+stack|.|rfc5586.txt|.|16
+tlv header|.|rfc5586.txt|.|17
+procedures for soif|.|rfc2656.txt|.|9
+mime|.|rfc4723.txt|.|11
+nic|.|rfc221.txt|.|9
+internet engineering|.|rfc6203.txt|.|3|.|rfc5843.txt|.|3
+discussion|.|rfc139.txt|.|16
+key and sequence|.|rfc2890.txt|.|10
+node selector|.|rfc4825.txt|.|94
+xmf|.|rfc4723.txt|.|25
+time when processing|.|rfc3530.txt|.|1
+interactive groups|.|rfc3830.txt|.|6
+nfs version|.|rfc3530.txt|.|441
+telnet|.|rfc139.txt|.|58|.|rfc2300.txt|.|19
+initiation protocol|.|rfc3969.txt|.|4
+retrieval|.|rfc105.txt|.|2
+xml|.|rfc4825.txt|.|135
+draft|.|rfc2300.txt|.|44
+graphics protocol|.|rfc199.txt|.|5
+header field|.|rfc5518.txt|.|26
+element|.|rfc4825.txt|.|283
+draft standard|.|rfc2300.txt|.|38
+using|.|rfc139.txt|.|48
+loss pattern sample|.|rfc3357.txt|.|15
+august|.|rfc3156.txt|.|16
+rosenberg|.|rfc4825.txt|.|87
+arpa network protocol|.|rfc46.txt|.|17
+version|.|rfc3530.txt|.|484
+link key|.|rfc3331.txt|.|47
+standards|.|rfc6203.txt|.|11|.|rfc2890.txt|.|11|.|rfc4825.txt|.|76|.|rfc5518.txt|.|18|.|rfc2300.txt|.|152|.|rfc3156.txt|.|20|.|rfc5884.txt|.|18
+node|.|rfc4825.txt|.|111
+envelope|.|rfc3830.txt|.|26
+extensions|.|rfc2890.txt|.|10
+domain|.|rfc5518.txt|.|53
+processing|.|rfc105.txt|.|3|.|rfc3530.txt|.|37
+soif template types|.|rfc2656.txt|.|6
+metrics|.|rfc3357.txt|.|34
+object|.|rfc2656.txt|.|10
+schema|.|rfc4825.txt|.|55
+shared|.|rfc3830.txt|.|4
+standards track|.|rfc6203.txt|.|10|.|rfc2890.txt|.|8|.|rfc5518.txt|.|14|.|rfc2300.txt|.|73|.|rfc3156.txt|.|17|.|rfc5884.txt|.|14
+hardie|.|rfc2656.txt|.|11
+relevancy scores|.|rfc6203.txt|.|8
+document|.|rfc4825.txt|.|340
+association|.|rfc4723.txt|.|12
+soif|.|rfc2656.txt|.|24
+bcp|.|rfc3969.txt|.|8
+serving|.|rfc139.txt|.|57
+isoc|.|rfc4071.txt|.|100
+host accounting|.|rfc136.txt|.|12
+ietf trust|.|rfc4723.txt|.|3
+search|.|rfc6203.txt|.|60
+current|.|rfc136.txt|.|5|.|rfc3530.txt|.|132|.|rfc3969.txt|.|8|.|rfc4071.txt|.|25
+discussion of telnet|.|rfc139.txt|.|12
+procedures|.|rfc136.txt|.|14|.|rfc2656.txt|.|10
+mpls|.|rfc5884.txt|.|67
+implementation survey results|.|rfc5038.txt|.|23
+attribute|.|rfc4825.txt|.|130
+key|.|rfc3331.txt|.|49|.|rfc2890.txt|.|29|.|rfc3830.txt|.|312
+sample metrics|.|rfc3357.txt|.|18
+imap|.|rfc6203.txt|.|20
+iana registry|.|rfc5843.txt|.|3
+file transfer|.|rfc221.txt|.|13
+detection|.|rfc5884.txt|.|43
+number extensions to gre|.|rfc2890.txt|.|7
+domain assurance council|.|rfc5518.txt|.|4
+accounting and administrative|.|rfc136.txt|.|4
+services|.|rfc3331.txt|.|13
+sip december|.|rfc3969.txt|.|5
+sample|.|rfc3357.txt|.|26
+march|.|rfc105.txt|.|9
+administrative support|.|rfc4071.txt|.|17
+andersson|.|rfc5038.txt|.|27
+associated|.|rfc5586.txt|.|47
+openpgp|.|rfc3156.txt|.|47
+box protocol|.|rfc221.txt|.|14
+open|.|rfc3530.txt|.|332
+connection request|.|rfc105.txt|.|5
+output from the job|.|rfc105.txt|.|7
+standard|.|rfc2300.txt|.|268
+notes|.|rfc46.txt|.|17
+ach|.|rfc5586.txt|.|91
+accounting|.|rfc136.txt|.|18
+graphics|.|rfc199.txt|.|20
+filehandle|.|rfc3530.txt|.|315
+task force|.|rfc6203.txt|.|2|.|rfc5843.txt|.|2
+key data|.|rfc3830.txt|.|40
+loss distance|.|rfc3357.txt|.|15
+instance digests|.|rfc5843.txt|.|10
+mime december|.|rfc4723.txt|.|7
+content type|.|rfc3156.txt|.|8
+results|.|rfc5038.txt|.|33
+signal|.|rfc139.txt|.|19
+usenet|.|rfc2076.txt|.|32
+sgp|.|rfc3331.txt|.|223
+key and sequence number extensions|.|rfc2890.txt|.|7
+searches|.|rfc6203.txt|.|6
+midi manufacturers|.|rfc4723.txt|.|10
+bfd|.|rfc5884.txt|.|100
+pre|.|rfc3830.txt|.|2
+proposed standard protocol|.|rfc2300.txt|.|99
+transfer protocol|.|rfc221.txt|.|15
+tablet graphics|.|rfc199.txt|.|1
+engineering task|.|rfc6203.txt|.|2|.|rfc5843.txt|.|2
+batch|.|rfc105.txt|.|4
+mail box|.|rfc221.txt|.|28
+batch processing|.|rfc105.txt|.|3
+control plane|.|rfc5884.txt|.|13
+engineering|.|rfc6203.txt|.|3|.|rfc5843.txt|.|3
+rfc|.|rfc139.txt|.|17|.|rfc46.txt|.|32|.|rfc4825.txt|.|139|.|rfc4723.txt|.|10|.|rfc3530.txt|.|408|.|rfc4071.txt|.|60|.|rfc3357.txt|.|23|.|rfc5038.txt|.|47|.|rfc3830.txt|.|92|.|rfc5884.txt|.|56
+services of the stream|.|rfc3331.txt|.|2
+assurance|.|rfc5518.txt|.|6
+internet engineering task|.|rfc5843.txt|.|2
+failure|.|rfc5884.txt|.|12
+name|.|rfc5518.txt|.|31
+data plane|.|rfc5884.txt|.|25
+parameters|.|rfc3969.txt|.|32
+support|.|rfc4071.txt|.|43
+pattern sample metrics|.|rfc3357.txt|.|15
+internet|.|rfc6203.txt|.|9|.|rfc3969.txt|.|9|.|rfc5518.txt|.|4|.|rfc2656.txt|.|16|.|rfc5843.txt|.|5|.|rfc2300.txt|.|235|.|rfc3156.txt|.|16|.|rfc2076.txt|.|66
+manufacturers association|.|rfc4723.txt|.|10
+acreo|.|rfc5038.txt|.|2
+signed data|.|rfc3156.txt|.|8
+ietf|.|rfc4723.txt|.|8|.|rfc4071.txt|.|130
+trust|.|rfc4723.txt|.|3
+protocol notes|.|rfc46.txt|.|17
+label stack|.|rfc5586.txt|.|15
+distance|.|rfc3357.txt|.|20
+bidirectional forwarding detection|.|rfc5884.txt|.|6
+session|.|rfc3969.txt|.|4|.|rfc3830.txt|.|48
+implementation survey|.|rfc5038.txt|.|29
+privacy|.|rfc3156.txt|.|7
+forwarding|.|rfc5884.txt|.|9
+interface|.|rfc3331.txt|.|217
+ietf administrative|.|rfc4071.txt|.|22
+content|.|rfc3156.txt|.|16
+number extensions|.|rfc2890.txt|.|7
+application usage|.|rfc4825.txt|.|107
+society|.|rfc3969.txt|.|4|.|rfc2656.txt|.|6|.|rfc3156.txt|.|6
+initiation|.|rfc3969.txt|.|4
+client|.|rfc3530.txt|.|1084
+key and sequence number|.|rfc2890.txt|.|10
+oam|.|rfc5586.txt|.|30
+ucsb march|.|rfc105.txt|.|8
+selector|.|rfc4825.txt|.|155
+thomas|.|rfc5038.txt|.|28
+domain name|.|rfc5518.txt|.|25
+sip|.|rfc3969.txt|.|36|.|rfc3830.txt|.|21
+iasa april|.|rfc4071.txt|.|19
+gre|.|rfc2890.txt|.|25
+survey results|.|rfc5038.txt|.|32
+ascii|.|rfc139.txt|.|23
+convention|.|rfc139.txt|.|10
+summary|.|rfc2656.txt|.|7
+news|.|rfc2076.txt|.|35
+registry|.|rfc3969.txt|.|21|.|rfc5843.txt|.|8
+headers|.|rfc2076.txt|.|64
+types|.|rfc2656.txt|.|24
+retrieve the document|.|rfc4825.txt|.|1
+perform|.|rfc6203.txt|.|4
+mobile|.|rfc4723.txt|.|27
+lsp ping|.|rfc5884.txt|.|46
+label|.|rfc5586.txt|.|56
+message|.|rfc2076.txt|.|86
+template type|.|rfc2656.txt|.|35
+notes april|.|rfc46.txt|.|16
+mobile xmf|.|rfc4723.txt|.|20
+mtp level|.|rfc3331.txt|.|34
+network protocol notes|.|rfc46.txt|.|17
+ietf administrative support|.|rfc4071.txt|.|8
+interface identifier|.|rfc3331.txt|.|134
+summary object|.|rfc2656.txt|.|4
+watson|.|rfc221.txt|.|5
+sctp|.|rfc3331.txt|.|128
+iana|.|rfc3969.txt|.|17|.|rfc5843.txt|.|7
+kosonen|.|rfc4723.txt|.|12
+time|.|rfc3530.txt|.|124
+xml schema|.|rfc4825.txt|.|18
+tlv|.|rfc5586.txt|.|32
+practice|.|rfc3969.txt|.|7|.|rfc4071.txt|.|22
+copyright|.|rfc3969.txt|.|5
+palme informational|.|rfc2076.txt|.|27
+usage|.|rfc4825.txt|.|119
+channel|.|rfc5586.txt|.|75
+interactive|.|rfc199.txt|.|7|.|rfc3830.txt|.|9
+type|.|rfc5586.txt|.|34|.|rfc4723.txt|.|9|.|rfc2656.txt|.|38|.|rfc3156.txt|.|20
+april|.|rfc136.txt|.|4|.|rfc46.txt|.|17|.|rfc4071.txt|.|20|.|rfc5518.txt|.|15
+registration procedures|.|rfc2656.txt|.|9
+packets|.|rfc5884.txt|.|20
+output|.|rfc105.txt|.|37
+tablet|.|rfc199.txt|.|14
+number|.|rfc2890.txt|.|46
+loss|.|rfc3357.txt|.|139
+host accounting and administrative|.|rfc136.txt|.|4
+midi|.|rfc4723.txt|.|22
+relevancy|.|rfc6203.txt|.|32
+connection|.|rfc105.txt|.|47|.|rfc46.txt|.|59
+resource lists|.|rfc4825.txt|.|7
+algorithm|.|rfc5843.txt|.|16
+data tablet|.|rfc199.txt|.|7
+identifier|.|rfc3331.txt|.|182
+period|.|rfc3357.txt|.|35
+iana uri|.|rfc3969.txt|.|5
+andersson acreo|.|rfc5038.txt|.|2
+signed|.|rfc3156.txt|.|24
+openpgp working|.|rfc3156.txt|.|4
+palme|.|rfc2076.txt|.|31
+control signal|.|rfc139.txt|.|8
+using site|.|rfc139.txt|.|38
+field|.|rfc5518.txt|.|29
+current practice|.|rfc3969.txt|.|7|.|rfc4071.txt|.|22
+perform searches|.|rfc6203.txt|.|2
+force|.|rfc6203.txt|.|2|.|rfc5843.txt|.|2
+registration|.|rfc2656.txt|.|19
+message headers|.|rfc2076.txt|.|28
+rosenberg standards|.|rfc4825.txt|.|71
+card|.|rfc105.txt|.|15
+status|.|rfc5518.txt|.|4
+open file|.|rfc3530.txt|.|18
+session initiation|.|rfc3969.txt|.|4
+template|.|rfc2656.txt|.|59
+server|.|rfc3530.txt|.|1254
+control packets|.|rfc5884.txt|.|13
+signature|.|rfc3156.txt|.|19
+ping|.|rfc5884.txt|.|47
+loss pattern|.|rfc3357.txt|.|18
+vbr|.|rfc5518.txt|.|32
+board standards|.|rfc2300.txt|.|59
+pattern|.|rfc3357.txt|.|18
+hoffman|.|rfc5518.txt|.|14
+accounting and administrative procedures|.|rfc136.txt|.|4
+layer|.|rfc3331.txt|.|248
+file|.|rfc221.txt|.|30|.|rfc3530.txt|.|632
+stream|.|rfc3331.txt|.|31|.|rfc3357.txt|.|4
+iasa|.|rfc4071.txt|.|133
+digest|.|rfc5843.txt|.|14
+december|.|rfc4723.txt|.|10|.|rfc3969.txt|.|7
+mpls lsp|.|rfc5884.txt|.|24
+architecture|.|rfc2300.txt|.|83
+fuzzy search|.|rfc6203.txt|.|17
+administrative procedures|.|rfc136.txt|.|5
+element or attribute|.|rfc4825.txt|.|31
+ucsb|.|rfc105.txt|.|12
+uri|.|rfc3969.txt|.|34
+current filehandle|.|rfc3530.txt|.|84
+associated channel|.|rfc5586.txt|.|26
+suggestions for a network|.|rfc199.txt|.|10
+multimedia|.|rfc3830.txt|.|11
+site|.|rfc139.txt|.|93
+registration procedures for soif|.|rfc2656.txt|.|9
+engineering task force|.|rfc5843.txt|.|2
+board|.|rfc2300.txt|.|67
+internet society|.|rfc3969.txt|.|4|.|rfc2656.txt|.|6|.|rfc3156.txt|.|6
+bidirectional|.|rfc5884.txt|.|7
+instance|.|rfc5843.txt|.|11
+data|.|rfc199.txt|.|28|.|rfc3830.txt|.|135|.|rfc3156.txt|.|34|.|rfc5884.txt|.|31
+network protocol|.|rfc46.txt|.|18
+mail|.|rfc221.txt|.|35|.|rfc2076.txt|.|37
+channel type|.|rfc5586.txt|.|24
+internet message|.|rfc2076.txt|.|28
+ach tlv|.|rfc5586.txt|.|27
+protocol|.|rfc221.txt|.|35|.|rfc139.txt|.|23|.|rfc46.txt|.|48|.|rfc199.txt|.|13|.|rfc3530.txt|.|442|.|rfc3969.txt|.|7|.|rfc2300.txt|.|436
+internet mail|.|rfc2076.txt|.|15
+parameter registry|.|rfc3969.txt|.|8
+data tablet graphics|.|rfc199.txt|.|1
+serving site|.|rfc139.txt|.|44
+host|.|rfc136.txt|.|27
+uri parameters|.|rfc3969.txt|.|19
+group|.|rfc2656.txt|.|3|.|rfc3830.txt|.|53|.|rfc3156.txt|.|4
+ldp implementation|.|rfc5038.txt|.|32
+andersson informational|.|rfc5038.txt|.|23
+level|.|rfc3331.txt|.|48
+resource|.|rfc4825.txt|.|74
+mtp|.|rfc3331.txt|.|198
+pattern sample|.|rfc3357.txt|.|15
+output retrieval|.|rfc105.txt|.|2
+crypto|.|rfc3830.txt|.|41
+mail box protocol|.|rfc221.txt|.|14
+sequence|.|rfc2890.txt|.|56
+task|.|rfc6203.txt|.|2|.|rfc5843.txt|.|2
+transfer|.|rfc221.txt|.|17
+proposed|.|rfc2300.txt|.|122
+council|.|rfc5518.txt|.|4
+lists|.|rfc4825.txt|.|10
+survey|.|rfc5038.txt|.|54
+header|.|rfc5586.txt|.|33|.|rfc5518.txt|.|44
+working group|.|rfc2656.txt|.|3|.|rfc3156.txt|.|4
+sequence number extensions|.|rfc2890.txt|.|7
+retrieve|.|rfc4825.txt|.|3
+nfs|.|rfc3530.txt|.|582
+bfd control|.|rfc5884.txt|.|21
+crypto session|.|rfc3830.txt|.|28
+job|.|rfc105.txt|.|36
+loss period|.|rfc3357.txt|.|30
+request|.|rfc105.txt|.|31
+internet architecture board|.|rfc2300.txt|.|67
+extensions to gre|.|rfc2890.txt|.|8
+scores|.|rfc6203.txt|.|8
+sequence number|.|rfc2890.txt|.|44
+lsp|.|rfc5586.txt|.|23|.|rfc5884.txt|.|90
+link|.|rfc3331.txt|.|112
+interactive graphics|.|rfc199.txt|.|7
+envelope key|.|rfc3830.txt|.|21
+box|.|rfc221.txt|.|28
+internet message headers|.|rfc2076.txt|.|27
+contracts|.|rfc4071.txt|.|11
+arpa network|.|rfc46.txt|.|17
+sequence number extensions to gre|.|rfc2890.txt|.|7
+control channel|.|rfc5586.txt|.|24
+network|.|rfc136.txt|.|24|.|rfc221.txt|.|10|.|rfc46.txt|.|63|.|rfc199.txt|.|17
+arpa|.|rfc46.txt|.|18
+parameter|.|rfc3969.txt|.|40
+digests|.|rfc5843.txt|.|10
+working|.|rfc2656.txt|.|3|.|rfc3156.txt|.|5
+informational|.|rfc5038.txt|.|23|.|rfc2076.txt|.|28
+track|.|rfc6203.txt|.|10|.|rfc2890.txt|.|8|.|rfc5518.txt|.|13|.|rfc2300.txt|.|76|.|rfc3156.txt|.|17|.|rfc5884.txt|.|14
+fuzzy|.|rfc6203.txt|.|33
+pre shared|.|rfc3830.txt|.|2
+cost|.|rfc136.txt|.|8
+manufacturers|.|rfc4723.txt|.|10
+implementation|.|rfc5038.txt|.|56
+digest algorithm|.|rfc5843.txt|.|7
+february|.|rfc2076.txt|.|29
+groups|.|rfc3830.txt|.|13
+control|.|rfc139.txt|.|39|.|rfc5586.txt|.|30|.|rfc5884.txt|.|40
+compound|.|rfc3530.txt|.|97
+standard protocol|.|rfc2300.txt|.|118
+internet standards|.|rfc2300.txt|.|61
+internet engineering task force|.|rfc5843.txt|.|2
+proposed standard|.|rfc2300.txt|.|120
+telnet protocol|.|rfc139.txt|.|17
+application|.|rfc4825.txt|.|171
+administrative|.|rfc136.txt|.|6|.|rfc4071.txt|.|42
+namespace|.|rfc4825.txt|.|116
+ldp|.|rfc5038.txt|.|87
+soif template|.|rfc2656.txt|.|6
+data plane failure|.|rfc5884.txt|.|6
+suggestions|.|rfc199.txt|.|10
+socket|.|rfc105.txt|.|18
+host accounting and administrative procedures|.|rfc136.txt|.|4
+user|.|rfc3331.txt|.|117
+current host|.|rfc136.txt|.|3
+usenet news|.|rfc2076.txt|.|29

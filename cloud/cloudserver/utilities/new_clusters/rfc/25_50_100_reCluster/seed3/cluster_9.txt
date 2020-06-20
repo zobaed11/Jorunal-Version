@@ -1,0 +1,49 @@
+9
+requests are serviced|.|rfc2594.txt|.|1|.|rfc1945.txt|.|1|.|rfc3507.txt|.|1
+state handler|.|rfc3320.txt|.|44
+handler|.|rfc3320.txt|.|45
+daigle standards|.|rfc4848.txt|.|10
+telephones|.|rfc3054.txt|.|10
+dynamic delegation|.|rfc4848.txt|.|7
+capable|.|rfc5629.txt|.|12|.|rfc5945.txt|.|8|.|rfc2835.txt|.|14
+kelly|.|rfc2355.txt|.|40
+interacts|.|rfc5629.txt|.|8
+service model|.|rfc2039.txt|.|10
+presentation|.|rfc5629.txt|.|15
+application interaction|.|rfc5629.txt|.|18
+kalbfleisch informational|.|rfc2039.txt|.|14
+device type|.|rfc2355.txt|.|8
+compartment|.|rfc3320.txt|.|69
+service july|.|rfc3341.txt|.|25
+dispatcher|.|rfc3320.txt|.|66
+client remote|.|rfc5629.txt|.|5
+model for how users|.|rfc5629.txt|.|2
+user interacts|.|rfc5629.txt|.|5
+ddds|.|rfc4848.txt|.|26
+scs|.|rfc2355.txt|.|8
+abstract dtp|.|rfc2594.txt|.|7
+host application|.|rfc2355.txt|.|31
+kalbfleisch|.|rfc2039.txt|.|16
+application mib|.|rfc2039.txt|.|13
+sna|.|rfc2355.txt|.|46
+delegation discovery|.|rfc4848.txt|.|7
+resources|.|rfc351.txt|.|4|.|rfc4358.txt|.|5|.|rfc2039.txt|.|17
+network services|.|rfc2219.txt|.|9|.|rfc2039.txt|.|21
+interface component|.|rfc5629.txt|.|48
+www servers|.|rfc2039.txt|.|19
+users|.|rfc352.txt|.|2|.|rfc5629.txt|.|12|.|rfc408.txt|.|3
+decompressor dispatcher|.|rfc3320.txt|.|24
+document transfer|.|rfc2594.txt|.|15
+mibs november|.|rfc2039.txt|.|13
+client local|.|rfc5629.txt|.|5
+application|.|rfc2594.txt|.|24|.|rfc3054.txt|.|26|.|rfc5629.txt|.|232|.|rfc5719.txt|.|4|.|rfc3320.txt|.|92|.|rfc4848.txt|.|44|.|rfc2039.txt|.|40|.|rfc3341.txt|.|35|.|rfc2355.txt|.|33
+application management|.|rfc2594.txt|.|7
+application message|.|rfc3320.txt|.|10
+phone|.|rfc3054.txt|.|58
+dynamic delegation discovery|.|rfc4848.txt|.|7
+www track|.|rfc2039.txt|.|13
+interaction|.|rfc5629.txt|.|90|.|rfc438.txt|.|4
+application profile|.|rfc3054.txt|.|15
+delegation|.|rfc4848.txt|.|7|.|rfc2317.txt|.|15|.|rfc3779.txt|.|34
+presentation capable|.|rfc5629.txt|.|7
+host resources|.|rfc2039.txt|.|13

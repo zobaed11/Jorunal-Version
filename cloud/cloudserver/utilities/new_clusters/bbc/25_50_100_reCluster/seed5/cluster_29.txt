@@ -1,0 +1,18 @@
+29
+advice|.|bbc1220.txt|.|10|.|bbc985.txt|.|2
+book|.|bbc535.txt|.|8|.|bbc1220.txt|.|3
+iraq|.|bbc1220.txt|.|4|.|bbc320.txt|.|2|.|bbc334.txt|.|5
+liberal democrat|.|bbc1109.txt|.|1|.|bbc1220.txt|.|1
+downing street|.|bbc1220.txt|.|4
+sands|.|bbc2042.txt|.|2|.|bbc1220.txt|.|4
+full legal|.|bbc1220.txt|.|2
+new book|.|bbc1220.txt|.|2
+general|.|bbc1217.txt|.|2|.|bbc1003.txt|.|2|.|bbc1114.txt|.|2|.|bbc1246.txt|.|2|.|bbc1310.txt|.|2|.|bbc1294.txt|.|2|.|bbc1275.txt|.|2|.|bbc1180.txt|.|3|.|bbc1220.txt|.|4|.|bbc1268.txt|.|5|.|bbc1199.txt|.|2
+democrat|.|bbc1109.txt|.|1|.|bbc1220.txt|.|1
+legal advice|.|bbc1220.txt|.|4
+attorney|.|bbc1220.txt|.|5
+street|.|bbc386.txt|.|2|.|bbc317.txt|.|2|.|bbc1220.txt|.|4
+attorney general|.|bbc1220.txt|.|4
+downing|.|bbc1458.txt|.|2|.|bbc1220.txt|.|4
+full|.|bbc474.txt|.|2|.|bbc1220.txt|.|2|.|bbc1649.txt|.|1
+liberal|.|bbc1171.txt|.|2|.|bbc1109.txt|.|2|.|bbc1042.txt|.|2|.|bbc1220.txt|.|2|.|bbc1199.txt|.|3

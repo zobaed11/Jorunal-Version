@@ -1,0 +1,36 @@
+6
+raise money|.|bbc621.txt|.|2
+new mosque|.|bbc1081.txt|.|2
+congress|.|bbc41.txt|.|3|.|bbc249.txt|.|4
+davenport|.|bbc1745.txt|.|3|.|bbc1751.txt|.|3
+prize|.|bbc1745.txt|.|4|.|bbc841.txt|.|2|.|bbc517.txt|.|4|.|bbc1964.txt|.|2|.|bbc1751.txt|.|4
+elton|.|bbc621.txt|.|4
+muslim community|.|bbc1081.txt|.|3
+lost|.|bbc458.txt|.|2
+george|.|bbc737.txt|.|2|.|bbc1947.txt|.|2|.|bbc692.txt|.|2
+tv special|.|bbc692.txt|.|2
+george clooney|.|bbc692.txt|.|2
+join|.|bbc1585.txt|.|1|.|bbc1443.txt|.|1|.|bbc1451.txt|.|1|.|bbc692.txt|.|2
+clooney|.|bbc692.txt|.|3
+fully|.|bbc458.txt|.|2
+us tv|.|bbc692.txt|.|2
+founder|.|bbc458.txt|.|2
+raised|.|bbc692.txt|.|2|.|bbc429.txt|.|1
+elton played|.|bbc621.txt|.|1
+fully with prosecutors|.|bbc458.txt|.|2
+wimbledon|.|bbc1745.txt|.|4|.|bbc1803.txt|.|3|.|bbc1751.txt|.|4
+played|.|bbc686.txt|.|2|.|bbc621.txt|.|3|.|bbc1674.txt|.|2
+equal|.|bbc1745.txt|.|3|.|bbc252.txt|.|2|.|bbc1751.txt|.|3
+special|.|bbc692.txt|.|2
+england club|.|bbc1745.txt|.|2|.|bbc1751.txt|.|2
+podcasts|.|bbc2188.txt|.|7
+money|.|bbc1081.txt|.|2|.|bbc1745.txt|.|5|.|bbc458.txt|.|4|.|bbc2188.txt|.|3|.|bbc621.txt|.|3|.|bbc249.txt|.|3|.|bbc1751.txt|.|5|.|bbc692.txt|.|4
+sir elton|.|bbc621.txt|.|3
+lost money|.|bbc458.txt|.|2
+prize money|.|bbc1745.txt|.|4|.|bbc1751.txt|.|4
+south wales|.|bbc1081.txt|.|3
+equal prize money|.|bbc1745.txt|.|3|.|bbc1751.txt|.|3
+wales police|.|bbc1081.txt|.|2
+raising money|.|bbc1081.txt|.|2
+collapse|.|bbc458.txt|.|4
+equal prize|.|bbc1745.txt|.|3|.|bbc1751.txt|.|3

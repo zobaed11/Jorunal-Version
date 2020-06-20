@@ -1,0 +1,24 @@
+2
+central european|.|bbc172.txt|.|2
+than had previously been thought|.|bbc6.txt|.|1
+indications|.|bbc6.txt|.|1
+euro|.|bbc172.txt|.|4
+previously been thought|.|bbc6.txt|.|1
+economic growth|.|bbc459.txt|.|2|.|bbc436.txt|.|2|.|bbc172.txt|.|4|.|bbc175.txt|.|2
+job growth|.|bbc292.txt|.|2
+irish shares|.|bbc31.txt|.|2
+financial stocks|.|bbc31.txt|.|2
+euro zone|.|bbc172.txt|.|2
+unece forecasts|.|bbc172.txt|.|1
+stocks|.|bbc31.txt|.|2
+growth forecast|.|bbc31.txt|.|1
+central|.|bbc172.txt|.|2
+zone|.|bbc172.txt|.|2
+factory output|.|bbc453.txt|.|1
+continues|.|bbc453.txt|.|1
+net profits|.|bbc288.txt|.|1
+jobs growth|.|bbc253.txt|.|1
+holds|.|bbc436.txt|.|1
+main concerns|.|bbc292.txt|.|2
+growth|.|bbc6.txt|.|3|.|bbc459.txt|.|6|.|bbc53.txt|.|1|.|bbc288.txt|.|4|.|bbc436.txt|.|4|.|bbc2208.txt|.|2|.|bbc310.txt|.|3|.|bbc172.txt|.|13|.|bbc453.txt|.|3|.|bbc259.txt|.|2|.|bbc286.txt|.|4|.|bbc98.txt|.|4|.|bbc292.txt|.|6|.|bbc31.txt|.|7|.|bbc253.txt|.|4|.|bbc175.txt|.|3
+newest|.|bbc172.txt|.|2

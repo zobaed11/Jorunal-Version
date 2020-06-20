@@ -1,0 +1,27 @@
+7
+new service
+communicate
+service identifier
+dns srv
+internet layer
+responders
+service request
+communicate at the link
+previous responders
+behavior
+embedded
+qualities of service
+service definition
+previous
+higher layer
+link layers
+behavior of the user
+parameter configuration
+voice chat
+service
+access remote
+security and privacy
+qualities
+user agent
+rp
+higher
