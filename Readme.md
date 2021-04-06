@@ -20,4 +20,5 @@ Once the server is ready to accept a search, launch the client and select search
 
 # Running Instructions for Semi dynamic part
 Exceute the py file and check the folder path where the clusters will be created. 
+semi_dynamic_cluster_update.py
  
